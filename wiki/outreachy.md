@@ -6,14 +6,14 @@ author: warren
 path: /wiki/outreachy.md
 nid: 21222
 uid: 1
-
+cids: 
 ---
 
 # outreachy
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-October 19, 2019 10:48 | Tags: [redirect:gsoc](../tag/redirect:gsoc)
+October 19, 2019 10:48 | Tags: [redirect:gsoc](/tag/redirect:gsoc)
 
 ----
 

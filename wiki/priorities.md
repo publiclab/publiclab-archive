@@ -6,12 +6,12 @@ author: warren
 path: /wiki/priorities.md
 nid: 88
 uid: 1
-
+cids: 
 ---
 
 # Priorities
 
-by [liz](../profile/liz), [warren](../profile/warren)
+by [liz](/profile/liz), [warren](/profile/warren)
 
 February 18, 2011 17:18 | Tags: 
 

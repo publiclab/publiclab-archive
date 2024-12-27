@@ -6,18 +6,16 @@ author: gkdavis
 path: /notes/gkdavis/09-11-2014/balloon-mapping-bayou-plaquemines.md
 nid: 11128
 uid: 428234
-
 cids: 10489
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/740/original/bayou-plaquemines.jpg)
 
 # Balloon Mapping Bayou Plaquemines
 
-by [gkdavis](../../../profile/gkdavis) | September 11, 2014 19:08
+by [gkdavis](/profile/gkdavis) | September 11, 2014 19:08
 
-September 11, 2014 19:08 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [washustlouis](../tag/washustlouis), [washu-stlouis](../tag/washu-stlouis)
+September 11, 2014 19:08 | Tags: [gulf-coast](/tag/gulf-coast), [balloon-mapping](/tag/balloon-mapping), [washustlouis](/tag/washustlouis), [washu-stlouis](/tag/washu-stlouis)
 
 ----
 

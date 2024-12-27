@@ -6,16 +6,16 @@ author: stevie
 path: /wiki/air-sampling.md
 nid: 15025
 uid: 422561
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/921/original/Screen_Shot_2017-10-11_at_4.57.12_PM.png)
 
 # Air Sampling
 
-by [liz](../profile/liz), [bhamster](../profile/bhamster), [kgradow1](../profile/kgradow1), [warren](../profile/warren), [stevie](../profile/stevie)
+by [liz](/profile/liz), [bhamster](/profile/bhamster), [kgradow1](/profile/kgradow1), [warren](/profile/warren), [stevie](/profile/stevie)
 
-October 11, 2017 16:34 | Tags: [air-quality](../tag/air-quality), [air](../tag/air), [benzene](../tag/benzene), [open-air](../tag/open-air), [bucket-brigade](../tag/bucket-brigade), [method](../tag/method), [parent:sampling](../tag/parent:sampling), [bucket](../tag/bucket), [air-sampling](../tag/air-sampling), [summa-canisters](../tag/summa-canisters), [grab-samples](../tag/grab-samples), [dichloromethane](../tag/dichloromethane), [perchloroethylene](../tag/perchloroethylene), [toluene](../tag/toluene)
+October 11, 2017 16:34 | Tags: [air-quality](/tag/air-quality), [air](/tag/air), [benzene](/tag/benzene), [open-air](/tag/open-air), [bucket-brigade](/tag/bucket-brigade), [method](/tag/method), [parent:sampling](/tag/parent:sampling), [bucket](/tag/bucket), [air-sampling](/tag/air-sampling), [summa-canisters](/tag/summa-canisters), [grab-samples](/tag/grab-samples), [dichloromethane](/tag/dichloromethane), [perchloroethylene](/tag/perchloroethylene), [toluene](/tag/toluene)
 
 ----
 
@@ -38,14 +38,14 @@ Air samples typically fall into one of five categories: [indoor air](https://pub
 
 ## Questions
 
-[air-sampling](../../tag/question:air-sampling)
+[air-sampling](/tag/question:air-sampling)
 
 
 ****
 
 ## Activities
 
-[air-sampling](../../tag/activity:air-sampling)
+[air-sampling](/tag/activity:air-sampling)
  
 ****
 

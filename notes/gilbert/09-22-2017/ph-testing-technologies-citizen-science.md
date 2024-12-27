@@ -6,18 +6,16 @@ author: gilbert
 path: /notes/gilbert/09-22-2017/ph-testing-technologies-citizen-science.md
 nid: 14939
 uid: 508551
-
 cids: 17432,17434,17435,19161,19177,19178
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/742/original/download.jpg)
 
 # pH Testing Technologies & Citizen Science
 
-by [gilbert](../../../profile/gilbert) | September 22, 2017 16:29
+by [gilbert](/profile/gilbert) | September 22, 2017 16:29
 
-September 22, 2017 16:29 | Tags: [citizen-science](../tag/citizen-science), [water-quality](../tag/water-quality), [ph](../tag/ph), [ph-testing](../tag/ph-testing)
+September 22, 2017 16:29 | Tags: [citizen-science](/tag/citizen-science), [water-quality](/tag/water-quality), [ph](/tag/ph), [ph-testing](/tag/ph-testing)
 
 ----
 

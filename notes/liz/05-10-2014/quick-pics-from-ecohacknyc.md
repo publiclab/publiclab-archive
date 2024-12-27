@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/05-10-2014/quick-pics-from-ecohacknyc.md
 nid: 10464
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/232/original/IMG_2401.JPG)
 
 # quick pics from EcoHackNYC
 
-by [liz](../../../profile/liz) | May 10, 2014 23:20
+by [liz](/profile/liz) | May 10, 2014 23:20
 
-May 10, 2014 23:20 | Tags: [new-york-city](../tag/new-york-city), [ecohack](../tag/ecohack), [great-photos](../tag/great-photos), [with:kosamari](../tag/with:kosamari), [with:chrisjob](../tag/with:chrisjob)
+May 10, 2014 23:20 | Tags: [new-york-city](/tag/new-york-city), [ecohack](/tag/ecohack), [great-photos](/tag/great-photos), [with:kosamari](/tag/with:kosamari), [with:chrisjob](/tag/with:chrisjob)
 
 ----
 

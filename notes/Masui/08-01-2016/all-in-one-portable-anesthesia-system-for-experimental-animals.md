@@ -6,18 +6,16 @@ author: Masui
 path: /notes/Masui/08-01-2016/all-in-one-portable-anesthesia-system-for-experimental-animals.md
 nid: 13319
 uid: 485717
-
 cids: 29542,29601,30085,30110
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/300/original/_DSC5452.jpg)
 
 # All in One Portable Anesthesia System  for experimental animals
 
-by [Masui](../../../profile/Masui) | August 01, 2016 09:25
+by [Masui](/profile/Masui) | August 01, 2016 09:25
 
-August 01, 2016 09:25 | Tags: [diy](../tag/diy), [diy-bio](../tag/diy-bio), [research](../tag/research), [biohacking](../tag/biohacking), [for](../tag/for), [experimental](../tag/experimental), [medical](../tag/medical), [animal](../tag/animal), [mouse](../tag/mouse), [anesthesia](../tag/anesthesia), [portability](../tag/portability)
+August 01, 2016 09:25 | Tags: [diy](/tag/diy), [diy-bio](/tag/diy-bio), [research](/tag/research), [biohacking](/tag/biohacking), [for](/tag/for), [experimental](/tag/experimental), [medical](/tag/medical), [animal](/tag/animal), [mouse](/tag/mouse), [anesthesia](/tag/anesthesia), [portability](/tag/portability)
 
 ----
 

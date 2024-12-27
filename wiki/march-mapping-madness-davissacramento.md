@@ -6,12 +6,12 @@ author: sara
 path: /wiki/march-mapping-madness-davissacramento.md
 nid: 893
 uid: 8
-
+cids: 
 ---
 
 # March Mapping Madness-Davis/Sacramento
 
-by [sara](../profile/sara)
+by [sara](/profile/sara)
 
 March 06, 2012 01:23 | Tags: 
 

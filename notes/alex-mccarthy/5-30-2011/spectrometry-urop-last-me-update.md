@@ -6,16 +6,14 @@ author: Alex-McCarthy
 path: /notes/alex-mccarthy/5-30-2011/spectrometry-urop-last-me-update.md
 nid: 305
 uid: 125
-
 cids: 265,30535
-
 ---
 
 # Spectrometry UROP last (for me) update
 
-by [Alex-McCarthy](../../../profile/Alex-McCarthy) | May 30, 2011 14:35
+by [Alex-McCarthy](/profile/Alex-McCarthy) | May 30, 2011 14:35
 
-May 30, 2011 14:35 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [urop](../tag/urop), [fluorescence](../tag/fluorescence), [pah](../tag/pah)
+May 30, 2011 14:35 | Tags: [spectrometer](/tag/spectrometer), [uv](/tag/uv), [urop](/tag/urop), [fluorescence](/tag/fluorescence), [pah](/tag/pah)
 
 ----
 

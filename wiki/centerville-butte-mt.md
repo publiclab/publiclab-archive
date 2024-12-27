@@ -6,12 +6,12 @@ author: Shannon
 path: /wiki/centerville-butte-mt.md
 nid: 656
 uid: 9
-
+cids: 
 ---
 
 # Centerville, Butte, MT
 
-by [moparmusclecars](../profile/moparmusclecars), [Shannon](../profile/Shannon)
+by [moparmusclecars](/profile/moparmusclecars), [Shannon](/profile/Shannon)
 
 December 22, 2011 18:36 | Tags: 
 

@@ -6,12 +6,12 @@ author: bhamster
 path: /wiki/sandbox-presenting-data.md
 nid: 27449
 uid: 664477
-
+cids: 
 ---
 
 # sandbox-presenting-data
 
-by [bhamster](../profile/bhamster)
+by [bhamster](/profile/bhamster)
 
 August 09, 2021 23:11 | Tags: 
 

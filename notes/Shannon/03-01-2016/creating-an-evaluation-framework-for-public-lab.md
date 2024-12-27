@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/03-01-2016/creating-an-evaluation-framework-for-public-lab.md
 nid: 12764
 uid: 9
-
 cids: 13810,14773
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/631/original/logo.png)
 
 # Creating an evaluation framework for Public Lab
 
-by [Shannon](../../../profile/Shannon) | March 01, 2016 16:36
+by [Shannon](/profile/Shannon) | March 01, 2016 16:36
 
-March 01, 2016 16:36 | Tags: [nonprofit](../tag/nonprofit), [evaluation](../tag/evaluation)
+March 01, 2016 16:36 | Tags: [nonprofit](/tag/nonprofit), [evaluation](/tag/evaluation)
 
 ----
 

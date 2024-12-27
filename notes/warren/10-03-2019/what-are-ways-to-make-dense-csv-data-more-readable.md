@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/10-03-2019/what-are-ways-to-make-dense-csv-data-more-readable.md
 nid: 21068
 uid: 1
-
 cids: 25629,25630,25637,25638,25640,25649,26167
-
 ---
 
 # What are ways to make dense CSV data more readable?
 
-by [warren](../../../profile/warren) | October 03, 2019 18:40
+by [warren](/profile/warren) | October 03, 2019 18:40
 
-October 03, 2019 18:40 | Tags: [data](../tag/data), [data-logging](../tag/data-logging), [question:pm](../tag/question:pm), [question:frac-sand](../tag/question:frac-sand), [question:data](../tag/question:data), [question:purple-air](../tag/question:purple-air), [question:data-cleaning](../tag/question:data-cleaning), [air-quality-data](../tag/air-quality-data), [question:air-quality-data](../tag/question:air-quality-data)
+October 03, 2019 18:40 | Tags: [data](/tag/data), [data-logging](/tag/data-logging), [question:pm](/tag/question:pm), [question:frac-sand](/tag/question:frac-sand), [question:data](/tag/question:data), [question:purple-air](/tag/question:purple-air), [question:data-cleaning](/tag/question:data-cleaning), [air-quality-data](/tag/air-quality-data), [question:air-quality-data](/tag/question:air-quality-data)
 
 ----
 

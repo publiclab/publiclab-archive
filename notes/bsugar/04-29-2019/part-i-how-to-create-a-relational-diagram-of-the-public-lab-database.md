@@ -6,18 +6,16 @@ author: bsugar
 path: /notes/bsugar/04-29-2019/part-i-how-to-create-a-relational-diagram-of-the-public-lab-database.md
 nid: 19174
 uid: 217812
-
 cids: 24007,24008,25017,25025
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/712/original/Screen_Shot_2019-04-26_at_5.14.33_PM.png)
 
 # PART I: How to create a relational diagram of the Public Lab database.
 
-by [bsugar](../../../profile/bsugar) | April 26, 2019 22:02
+by [bsugar](/profile/bsugar) | April 26, 2019 22:02
 
-April 26, 2019 22:02 | Tags: [database](../tag/database), [networks](../tag/networks), [activity:new](../tag/activity:new), [programming](../tag/programming), [diagrams](../tag/diagrams)
+April 26, 2019 22:02 | Tags: [database](/tag/database), [networks](/tag/networks), [activity:new](/tag/activity:new), [programming](/tag/programming), [diagrams](/tag/diagrams)
 
 ----
 

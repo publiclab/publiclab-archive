@@ -6,18 +6,16 @@ author: JSummers
 path: /notes/JSummers/12-20-2013/potentiostat-software.md
 nid: 9911
 uid: 304279
-
 cids: 7941,7949,7953,7954,7955,7958,7963,7966,7968,9441,9442,11922,11925,11996,11997,12198,12201,12202
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/438/original/effects_of_current_gain.png)
 
 # Potentiostat Notes 2: Software
 
-by [JSummers](../../../profile/JSummers) | December 20, 2013 20:12
+by [JSummers](/profile/JSummers) | December 20, 2013 20:12
 
-December 20, 2013 20:12 | Tags: [potentiostat](../tag/potentiostat), [wheestat](../tag/wheestat)
+December 20, 2013 20:12 | Tags: [potentiostat](/tag/potentiostat), [wheestat](/tag/wheestat)
 
 ----
 

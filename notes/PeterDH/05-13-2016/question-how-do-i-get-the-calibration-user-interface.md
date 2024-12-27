@@ -6,16 +6,14 @@ author: PeterDH
 path: /notes/PeterDH/05-13-2016/question-how-do-i-get-the-calibration-user-interface.md
 nid: 13115
 uid: 473559
-
 cids: 14610,22266
-
 ---
 
 # Question: How do I get the calibration user interface?
 
-by [PeterDH](../../../profile/PeterDH) | May 13, 2016 22:00
+by [PeterDH](/profile/PeterDH) | May 13, 2016 22:00
 
-May 13, 2016 22:00 | Tags: [question:spectrometry](../tag/question:spectrometry), [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered)
+May 13, 2016 22:00 | Tags: [question:spectrometry](/tag/question:spectrometry), [question:spectral-workbench](/tag/question:spectral-workbench), [answered](/tag/answered)
 
 ----
 

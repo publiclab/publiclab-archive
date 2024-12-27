@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/08-11-2021/seeking-environmental-policy-fellow-for-fellowship-team.md
 nid: 27475
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/617/original/37602579_2249124168436057_844267163098284032_n.jpg)
 
 # Seeking Environmental Policy Fellow for Fellowship Team
 
-by [stevie](../../../profile/stevie) | August 11, 2021 21:12
+by [stevie](/profile/stevie) | August 11, 2021 21:12
 
-August 11, 2021 21:12 | Tags: [coal-mining](../tag/coal-mining), [west-virginia](../tag/west-virginia), [reporting](../tag/reporting), [mountaintop-removal](../tag/mountaintop-removal), [jobs](../tag/jobs), [fellowship](../tag/fellowship), [permits](../tag/permits), [oil-and-gas](../tag/oil-and-gas), [job](../tag/job), [career](../tag/career), [permitting](../tag/permitting), [policy](../tag/policy), [environmental-policy](../tag/environmental-policy), [fellow](../tag/fellow), [fellowship-team](../tag/fellowship-team), [mmmp](../tag/mmmp)
+August 11, 2021 21:12 | Tags: [coal-mining](/tag/coal-mining), [west-virginia](/tag/west-virginia), [reporting](/tag/reporting), [mountaintop-removal](/tag/mountaintop-removal), [jobs](/tag/jobs), [fellowship](/tag/fellowship), [permits](/tag/permits), [oil-and-gas](/tag/oil-and-gas), [job](/tag/job), [career](/tag/career), [permitting](/tag/permitting), [policy](/tag/policy), [environmental-policy](/tag/environmental-policy), [fellow](/tag/fellow), [fellowship-team](/tag/fellowship-team), [mmmp](/tag/mmmp)
 
 ----
 

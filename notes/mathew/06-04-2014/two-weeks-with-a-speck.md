@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/06-04-2014/two-weeks-with-a-speck.md
 nid: 10528
 uid: 4
-
 cids: 9169,9173,9185,9186,9187,9312
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/517/original/14155445079_6657caf3aa_b.jpg)
 
 # Two weeks with a Speck
 
-by [mathew](../../../profile/mathew) | June 04, 2014 03:51
+by [mathew](/profile/mathew) | June 04, 2014 03:51
 
-June 04, 2014 03:51 | Tags: [air](../tag/air), [dust](../tag/dust), [open-air](../tag/open-air), [particle-sensing](../tag/particle-sensing), [particle-monitoring](../tag/particle-monitoring), [particulate-monitoring](../tag/particulate-monitoring), [dust-monitoring](../tag/dust-monitoring), [openair](../tag/openair)
+June 04, 2014 03:51 | Tags: [air](/tag/air), [dust](/tag/dust), [open-air](/tag/open-air), [particle-sensing](/tag/particle-sensing), [particle-monitoring](/tag/particle-monitoring), [particulate-monitoring](/tag/particulate-monitoring), [dust-monitoring](/tag/dust-monitoring), [openair](/tag/openair)
 
 ----
 

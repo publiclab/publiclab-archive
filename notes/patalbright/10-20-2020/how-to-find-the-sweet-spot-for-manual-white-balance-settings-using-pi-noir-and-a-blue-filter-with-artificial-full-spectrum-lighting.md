@@ -6,18 +6,16 @@ author: patalbright
 path: /notes/patalbright/10-20-2020/how-to-find-the-sweet-spot-for-manual-white-balance-settings-using-pi-noir-and-a-blue-filter-with-artificial-full-spectrum-lighting.md
 nid: 24774
 uid: 719087
-
 cids: 27491,27492,27494,27496,27504,27509,27513,27515,27532,27548,27553,27641,27654,27707
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/176/original/Example_3.JPG)
 
 # How to find the sweet spot for manual white balance settings using Pi NoIR and a blue filter with artificial (full spectrum) lighting
 
-by [patalbright](../../../profile/patalbright) | October 20, 2020 09:56
+by [patalbright](/profile/patalbright) | October 20, 2020 09:56
 
-October 20, 2020 09:56 | Tags: [ndvi](../tag/ndvi), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [question:white-balance](../tag/question:white-balance), [whitebalance](../tag/whitebalance), [raspberrypi](../tag/raspberrypi), [noir](../tag/noir), [first-time-poster](../tag/first-time-poster), [infragram-pi](../tag/infragram-pi), [question:infragram-pi](../tag/question:infragram-pi), [question:raspberrypi](../tag/question:raspberrypi), [bluefilter](../tag/bluefilter), [question:whitebalance](../tag/question:whitebalance), [question:noir](../tag/question:noir), [question:bluefilter](../tag/question:bluefilter)
+October 20, 2020 09:56 | Tags: [ndvi](/tag/ndvi), [white-balance](/tag/white-balance), [infragram](/tag/infragram), [question:ndvi](/tag/question:ndvi), [question:infragram](/tag/question:infragram), [question:white-balance](/tag/question:white-balance), [whitebalance](/tag/whitebalance), [raspberrypi](/tag/raspberrypi), [noir](/tag/noir), [first-time-poster](/tag/first-time-poster), [infragram-pi](/tag/infragram-pi), [question:infragram-pi](/tag/question:infragram-pi), [question:raspberrypi](/tag/question:raspberrypi), [bluefilter](/tag/bluefilter), [question:whitebalance](/tag/question:whitebalance), [question:noir](/tag/question:noir), [question:bluefilter](/tag/question:bluefilter)
 
 ----
 

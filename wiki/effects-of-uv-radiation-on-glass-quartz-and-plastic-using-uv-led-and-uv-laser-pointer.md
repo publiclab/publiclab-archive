@@ -6,14 +6,14 @@ author: dhaffnersr
 path: /wiki/effects-of-uv-radiation-on-glass-quartz-and-plastic-using-uv-led-and-uv-laser-pointer.md
 nid: 13203
 uid: 461120
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/656/original/UV_LED_june16bmp.bmp)
 
 # Effects of UV Radiation on Glass, Quartz and Plastic using UV LED and UV Laser Pointer
 
-by [dhaffnersr](../profile/dhaffnersr)
+by [dhaffnersr](/profile/dhaffnersr)
 
 June 16, 2016 23:18 | Tags: 
 

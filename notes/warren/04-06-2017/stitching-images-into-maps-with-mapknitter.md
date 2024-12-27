@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/04-06-2017/stitching-images-into-maps-with-mapknitter.md
 nid: 14095
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/102/original/Screen_Shot_2017-04-06_at_3.28.48_PM.png)
 
 # Stitching Images into Maps with MapKnitter
 
-by [warren](../../../profile/warren) | April 06, 2017 19:32
+by [warren](/profile/warren) | April 06, 2017 19:32
 
-April 06, 2017 19:32 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [image-stitching](../tag/image-stitching), [stitch](../tag/stitch), [workshop](../tag/workshop), [sorting](../tag/sorting), [with:stevie](../tag/with:stevie), [stitching](../tag/stitching), [with:liz](../tag/with:liz), [land-use](../tag/land-use), [activity:balloon-mapping](../tag/activity:balloon-mapping), [activity:teach-and-learn](../tag/activity:teach-and-learn), [teach-and-learn](../tag/teach-and-learn), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lon:-80](../tag/lon:-80), [activity:mapknitter](../tag/activity:mapknitter), [lat:26](../tag/lat:26), [pin:activity:balloon-mapping](../tag/pin:activity:balloon-mapping), [activity:land-use](../tag/activity:land-use), [zoom:6](../tag/zoom:6), [zoom:17](../tag/zoom:17), [lat:26.804](../tag/lat:26.804), [lon:-80.28](../tag/lon:-80.28), [place:loxahatchee-fl-33470-united-states](../tag/place:loxahatchee-fl-33470-united-states), [pin:balloon-mapping](../tag/pin:balloon-mapping)
+April 06, 2017 19:32 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [mapknitter](/tag/mapknitter), [image-stitching](/tag/image-stitching), [stitch](/tag/stitch), [workshop](/tag/workshop), [sorting](/tag/sorting), [with:stevie](/tag/with:stevie), [stitching](/tag/stitching), [with:liz](/tag/with:liz), [land-use](/tag/land-use), [activity:balloon-mapping](/tag/activity:balloon-mapping), [activity:teach-and-learn](/tag/activity:teach-and-learn), [teach-and-learn](/tag/teach-and-learn), [location:blurred](/tag/location:blurred), [place:united-states](/tag/place:united-states), [lon:-80](/tag/lon:-80), [activity:mapknitter](/tag/activity:mapknitter), [lat:26](/tag/lat:26), [pin:activity:balloon-mapping](/tag/pin:activity:balloon-mapping), [activity:land-use](/tag/activity:land-use), [zoom:6](/tag/zoom:6), [zoom:17](/tag/zoom:17), [lat:26.804](/tag/lat:26.804), [lon:-80.28](/tag/lon:-80.28), [place:loxahatchee-fl-33470-united-states](/tag/place:loxahatchee-fl-33470-united-states), [pin:balloon-mapping](/tag/pin:balloon-mapping)
 
 ----
 

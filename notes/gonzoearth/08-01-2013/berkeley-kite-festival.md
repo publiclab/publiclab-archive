@@ -6,18 +6,16 @@ author: gonzoearth
 path: /notes/gonzoearth/08-01-2013/berkeley-kite-festival.md
 nid: 8952
 uid: 12
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/993/original/2013-07-28-california-berkeley-kite-festival-top.jpg)
 
 # Berkeley Kite Festival
 
-by [gonzoearth](../../../profile/gonzoearth) | August 01, 2013 16:38
+by [gonzoearth](/profile/gonzoearth) | August 01, 2013 16:38
 
-August 01, 2013 16:38 | Tags: [kite-mapping](../tag/kite-mapping), [response:3682](../tag/response:3682)
+August 01, 2013 16:38 | Tags: [kite-mapping](/tag/kite-mapping), [response:3682](/tag/response:3682)
 
 ----
 

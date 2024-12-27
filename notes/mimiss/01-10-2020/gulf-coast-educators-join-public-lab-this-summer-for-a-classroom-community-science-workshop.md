@@ -6,18 +6,16 @@ author: mimiss
 path: /notes/mimiss/01-10-2020/gulf-coast-educators-join-public-lab-this-summer-for-a-classroom-community-science-workshop.md
 nid: 22270
 uid: 579821
-
 cids: 26397,27102
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/563/original/IMG_1352v2.jpg)
 
 # Gulf Coast Educators: Join Public Lab this summer for a Classroom Community Science Workshop
 
-by [mimiss](../../../profile/mimiss) | January 10, 2020 18:06
+by [mimiss](/profile/mimiss) | January 10, 2020 18:06
 
-January 10, 2020 18:06 | Tags: [gulf-coast](../tag/gulf-coast), [education](../tag/education), [workshop](../tag/workshop), [new-orleans](../tag/new-orleans), [blog](../tag/blog), [environmental-education](../tag/environmental-education), [lesson](../tag/lesson), [lat:29.954934](../tag/lat:29.954934), [lon:-90.076904](../tag/lon:-90.076904)
+January 10, 2020 18:06 | Tags: [gulf-coast](/tag/gulf-coast), [education](/tag/education), [workshop](/tag/workshop), [new-orleans](/tag/new-orleans), [blog](/tag/blog), [environmental-education](/tag/environmental-education), [lesson](/tag/lesson), [lat:29.954934](/tag/lat:29.954934), [lon:-90.076904](/tag/lon:-90.076904)
 
 ----
 

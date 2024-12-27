@@ -6,16 +6,14 @@ author: natalie_stjean
 path: /notes/natalie_stjean/10-29-2019/outreachy-proposal-refine-geographic-ui-and-js-integration-for-publiclab-org.md
 nid: 21336
 uid: 625194
-
 cids: 25788,25794,25795,25796,25798,25800,26506
-
 ---
 
 # Outreachy proposal: Refine Geographic UI and JS Integration for PublicLab.org
 
-by [natalie_stjean](../../../profile/natalie_stjean) | October 29, 2019 15:32
+by [natalie_stjean](/profile/natalie_stjean) | October 29, 2019 15:32
 
-October 29, 2019 15:32 | Tags: [software](../tag/software), [soc](../tag/soc), [outreachy](../tag/outreachy), [response:17359](../tag/response:17359), [first-time-poster](../tag/first-time-poster), [soc-2019](../tag/soc-2019), [outreachy-2019](../tag/outreachy-2019), [outreachy-2019-proposals](../tag/outreachy-2019-proposals)
+October 29, 2019 15:32 | Tags: [software](/tag/software), [soc](/tag/soc), [outreachy](/tag/outreachy), [response:17359](/tag/response:17359), [first-time-poster](/tag/first-time-poster), [soc-2019](/tag/soc-2019), [outreachy-2019](/tag/outreachy-2019), [outreachy-2019-proposals](/tag/outreachy-2019-proposals)
 
 ----
 

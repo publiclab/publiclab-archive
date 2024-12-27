@@ -6,16 +6,14 @@ author: Mohamed
 path: /notes/Mohamed/12-26-2015/asc-airborne-smart-cultivator-r-d-project.md
 nid: 12545
 uid: 431141
-
 cids: 13207,16780
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/476/original/ASC-Robot-Y.mp4_snapshot_02.09__2015.10.29_02.13.00_.jpg)
 
 # ASC- Airborne Smart Cultivator R&D project
 
-by [Mohamed](../../../profile/Mohamed) | December 26, 2015 18:42
+by [Mohamed](/profile/Mohamed) | December 26, 2015 18:42
 
 December 26, 2015 18:42 | Tags: 
 

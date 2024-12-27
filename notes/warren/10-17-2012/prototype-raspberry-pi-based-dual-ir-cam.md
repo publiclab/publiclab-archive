@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/10-17-2012/prototype-raspberry-pi-based-dual-ir-cam.md
 nid: 4471
 uid: 1
-
 cids: 1680,1689,1691,1969,2038,5282
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0923.JPG)
 
 # Prototype Raspberry Pi-based dual IR cam
 
-by [warren](../../../profile/warren) | October 17, 2012 20:35
+by [warren](/profile/warren) | October 17, 2012 20:35
 
-October 17, 2012 20:35 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [raspberry-pi](../tag/raspberry-pi), [ircam](../tag/ircam)
+October 17, 2012 20:35 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [nrg](/tag/nrg), [ndvi](/tag/ndvi), [raspberry-pi](/tag/raspberry-pi), [ircam](/tag/ircam)
 
 ----
 

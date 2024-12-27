@@ -6,14 +6,14 @@ author: tonyc
 path: /wiki/mobius.md
 nid: 12617
 uid: 447491
-
+cids: 
 ---
 
 # Mobius
 
-by [warren](../profile/warren), [Clash](../profile/Clash), [tonyc](../profile/tonyc)
+by [warren](/profile/warren), [Clash](/profile/Clash), [tonyc](/profile/tonyc)
 
-January 25, 2016 22:07 | Tags: [infrared-camera](../tag/infrared-camera), [infragram](../tag/infragram), [mobius-actioncam](../tag/mobius-actioncam), [mobius](../tag/mobius), [pendulum-rig](../tag/pendulum-rig)
+January 25, 2016 22:07 | Tags: [infrared-camera](/tag/infrared-camera), [infragram](/tag/infragram), [mobius-actioncam](/tag/mobius-actioncam), [mobius](/tag/mobius), [pendulum-rig](/tag/pendulum-rig)
 
 ----
 
@@ -23,11 +23,11 @@ The purpose of this page is to provide an overview of operation for these camera
 
 ## Questions
 
-[mobius](../../tag/question:mobius)
+[mobius](/tag/question:mobius)
 
 ## Activities
 
-[mobius](../../tag/activity:mobius)
+[mobius](/tag/activity:mobius)
 
 ****
 

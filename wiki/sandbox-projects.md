@@ -6,12 +6,12 @@ author: warren
 path: /wiki/sandbox-projects.md
 nid: 20537
 uid: 1
-
+cids: 
 ---
 
 # Sandbox projects
 
-by [liz](../profile/liz), [warren](../profile/warren)
+by [liz](/profile/liz), [warren](/profile/warren)
 
 August 15, 2019 17:21 | Tags: 
 

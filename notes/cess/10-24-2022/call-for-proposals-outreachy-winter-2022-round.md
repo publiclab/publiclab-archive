@@ -6,18 +6,16 @@ author: cess
 path: /notes/cess/10-24-2022/call-for-proposals-outreachy-winter-2022-round.md
 nid: 35976
 uid: 525958
-
 cids: 30728
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/243/original/Outreachy_Winter_2022%281%29.png)
 
 # Call for proposals: Outreachy Winter 2022 round
 
-by [cess](../../../profile/cess) | October 24, 2022 12:33
+by [cess](/profile/cess) | October 24, 2022 12:33
 
-October 24, 2022 12:33 | Tags: [with:warren](../tag/with:warren), [outreachy](../tag/outreachy), [call-for-proposals](../tag/call-for-proposals), [zoom:6](../tag/zoom:6), [outreachy-2022](../tag/outreachy-2022), [with:mathildaudufo](../tag/with:mathildaudufo), [lat:-1.010689](../tag/lat:-1.010689), [lon:35.99121](../tag/lon:35.99121)
+October 24, 2022 12:33 | Tags: [with:warren](/tag/with:warren), [outreachy](/tag/outreachy), [call-for-proposals](/tag/call-for-proposals), [zoom:6](/tag/zoom:6), [outreachy-2022](/tag/outreachy-2022), [with:mathildaudufo](/tag/with:mathildaudufo), [lat:-1.010689](/tag/lat:-1.010689), [lon:35.99121](/tag/lon:35.99121)
 
 ----
 
@@ -72,12 +70,12 @@ Also see summer's proposals:  [2022 Outreachy Summer Proposals](https://publicla
 
 ## Proposals 
 
-[outreachy-winter-2022](../../tag/outreachy-winter-2022)
+[outreachy-winter-2022](/tag/outreachy-winter-2022)
 
 ---------
 
 ## Questions 
 
-[outreachy-winter-2022](../../tag/question:outreachy-winter-2022)
+[outreachy-winter-2022](/tag/question:outreachy-winter-2022)
 
 ---------

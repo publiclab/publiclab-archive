@@ -6,18 +6,16 @@ author: BrentNewhall
 path: /notes/brentnewhall/1-5-2013/only-getting-spectra-top-image.md
 nid: 5425
 uid: 45471
-
 cids: 2938,2946
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Photo on 1-5-13 at 9.31 AM.jpg)
 
 # Only getting color at top of image
 
-by [BrentNewhall](../../../profile/BrentNewhall) | January 05, 2013 14:55
+by [BrentNewhall](/profile/BrentNewhall) | January 05, 2013 14:55
 
-January 05, 2013 14:55 | Tags: [calibration](../tag/calibration), [troubleshooting](../tag/troubleshooting)
+January 05, 2013 14:55 | Tags: [calibration](/tag/calibration), [troubleshooting](/tag/troubleshooting)
 
 ----
 

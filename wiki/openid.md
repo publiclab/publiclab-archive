@@ -6,12 +6,12 @@ author: warren
 path: /wiki/openid.md
 nid: 4666
 uid: 1
-
+cids: 
 ---
 
 # OpenID
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 October 26, 2012 13:43 | Tags: 
 

@@ -6,18 +6,16 @@ author: sakshi24
 path: /notes/sakshi24/04-19-2022/outreachy-proposal-mapknitter-org-spam-management-system.md
 nid: 30512
 uid: 781808
-
 cids: 30089,30120,30139
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/213/original/2560px-Outreachy-logo.svg.png)
 
 # Outreachy proposal: MapKnitter.org Spam Management system
 
-by [sakshi24](../../../profile/sakshi24) | April 19, 2022 23:44
+by [sakshi24](/profile/sakshi24) | April 19, 2022 23:44
 
-April 19, 2022 23:44 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
+April 19, 2022 23:44 | Tags: [software](/tag/software), [outreachy](/tag/outreachy), [first-time-poster](/tag/first-time-poster), [outreachy-2022](/tag/outreachy-2022), [outreachy-summer-2022](/tag/outreachy-summer-2022)
 
 ----
 

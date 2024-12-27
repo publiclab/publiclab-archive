@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/08-01-2018/are-there-any-databases-available-for-information-on-caves.md
 nid: 16824
 uid: 422561
-
 cids: 20251
-
 ---
 
 # Are there any databases available for information on caves?
 
-by [stevie](../../../profile/stevie) | August 01, 2018 20:46
+by [stevie](/profile/stevie) | August 01, 2018 20:46
 
-August 01, 2018 20:46 | Tags: [question:question](../tag/question:question), [question:karst](../tag/question:karst), [question:sinkholes](../tag/question:sinkholes), [question:caves](../tag/question:caves), [question:geology](../tag/question:geology)
+August 01, 2018 20:46 | Tags: [question:question](/tag/question:question), [question:karst](/tag/question:karst), [question:sinkholes](/tag/question:sinkholes), [question:caves](/tag/question:caves), [question:geology](/tag/question:geology)
 
 ----
 

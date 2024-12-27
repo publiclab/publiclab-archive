@@ -6,14 +6,14 @@ author: warren
 path: /wiki/open-hardware-licensing-detail.md
 nid: 923
 uid: 1
-
+cids: 
 ---
 
 # Open hardware licensing in detail
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-March 14, 2012 02:05 | Tags: [licensing](../tag/licensing), [open-hardware](../tag/open-hardware), [open-source-communities](../tag/open-source-communities)
+March 14, 2012 02:05 | Tags: [licensing](/tag/licensing), [open-hardware](/tag/open-hardware), [open-source-communities](/tag/open-source-communities)
 
 ----
 

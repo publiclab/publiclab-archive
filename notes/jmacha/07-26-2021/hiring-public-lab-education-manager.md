@@ -6,18 +6,16 @@ author: jmacha
 path: /notes/jmacha/07-26-2021/hiring-public-lab-education-manager.md
 nid: 27327
 uid: 423019
-
 cids: 29062,29531,31142
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/496/original/public_lab_header.png)
 
 # Hiring: Public Lab Education Manager
 
-by [jmacha](../../../profile/jmacha) | July 26, 2021 20:02
+by [jmacha](/profile/jmacha) | July 26, 2021 20:02
 
-July 26, 2021 20:02 | Tags: [education](../tag/education), [jobs](../tag/jobs), [locked](../tag/locked), [careers](../tag/careers)
+July 26, 2021 20:02 | Tags: [education](/tag/education), [jobs](/tag/jobs), [locked](/tag/locked), [careers](/tag/careers)
 
 ----
 

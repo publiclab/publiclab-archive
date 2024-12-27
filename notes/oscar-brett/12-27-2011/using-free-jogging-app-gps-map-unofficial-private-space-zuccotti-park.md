@@ -6,18 +6,16 @@ author: oscarbrett
 path: /notes/oscar-brett/12-27-2011/using-free-jogging-app-gps-map-unofficial-private-space-zuccotti-park.md
 nid: 663
 uid: 409
-
 cids: 400
-
 ---
 
 ![](https://publiclab.org/sites/default/files/*5_0.png)
 
 # Using a free Jogging app to GPS map unofficial private space in Zuccotti Park 
 
-by [oscarbrett](../../../profile/oscarbrett) | December 27, 2011 22:06
+by [oscarbrett](/profile/oscarbrett) | December 27, 2011 22:06
 
-December 27, 2011 22:06 | Tags: [first-time-poster](../tag/first-time-poster)
+December 27, 2011 22:06 | Tags: [first-time-poster](/tag/first-time-poster)
 
 ----
 

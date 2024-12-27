@@ -6,16 +6,16 @@ author: michelleiL
 path: /wiki/barnraising-florida-2022.md
 nid: 31143
 uid: 799004
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/988/original/Barnraising_Draft_3_%282%29.png)
 
 # Barnraising Florida 2023 
 
-by [michelleiL](../profile/michelleiL), [jmacha](../profile/jmacha)
+by [michelleiL](/profile/michelleiL), [jmacha](/profile/jmacha)
 
-June 22, 2022 21:02 | Tags: [barnraising](../tag/barnraising), [publiclab](../tag/publiclab), [environmentaljustice](../tag/environmentaljustice), [communityscience](../tag/communityscience), [2022barnraisingfl](../tag/2022barnraisingfl), [flbarnraising](../tag/flbarnraising), [flbarnraising2022](../tag/flbarnraising2022)
+June 22, 2022 21:02 | Tags: [barnraising](/tag/barnraising), [publiclab](/tag/publiclab), [environmentaljustice](/tag/environmentaljustice), [communityscience](/tag/communityscience), [2022barnraisingfl](/tag/2022barnraisingfl), [flbarnraising](/tag/flbarnraising), [flbarnraising2022](/tag/flbarnraising2022)
 
 ----
 

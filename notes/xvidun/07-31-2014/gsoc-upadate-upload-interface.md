@@ -6,18 +6,16 @@ author: xvidun
 path: /notes/xvidun/07-31-2014/gsoc-upadate-upload-interface.md
 nid: 10999
 uid: 421168
-
 cids: 9985,10002,10043,10044,10045,10046,10048,10049,10050,10051,10052,10053,10054,10083,10084,10085,10086
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/683/original/UI.png)
 
 # GSoC Upadate - Upload Interface
 
-by [xvidun](../../../profile/xvidun) | July 31, 2014 17:41
+by [xvidun](/profile/xvidun) | July 31, 2014 17:41
 
-July 31, 2014 17:41 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [response:10594](../tag/response:10594), [upload-interface](../tag/upload-interface)
+July 31, 2014 17:41 | Tags: [mapknitter](/tag/mapknitter), [gsoc](/tag/gsoc), [gsoc-2014](/tag/gsoc-2014), [response:10594](/tag/response:10594), [upload-interface](/tag/upload-interface)
 
 ----
 

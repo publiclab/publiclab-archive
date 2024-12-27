@@ -6,14 +6,14 @@ author: gonzoearth
 path: /wiki/mapping-curriculum-citations.md
 nid: 399
 uid: 12
-
+cids: 
 ---
 
 # Mapping Curriculum: Citations
 
-by [gonzoearth](../profile/gonzoearth)
+by [gonzoearth](/profile/gonzoearth)
 
-July 21, 2011 05:53 | Tags: [curriculum](../tag/curriculum), [literature-review](../tag/literature-review), [parent:mapping-curriculum](../tag/parent:mapping-curriculum), [mapping-curriculum](../tag/mapping-curriculum), [citations](../tag/citations), [works-cited](../tag/works-cited), [resources](../tag/resources), [references](../tag/references)
+July 21, 2011 05:53 | Tags: [curriculum](/tag/curriculum), [literature-review](/tag/literature-review), [parent:mapping-curriculum](/tag/parent:mapping-curriculum), [mapping-curriculum](/tag/mapping-curriculum), [citations](/tag/citations), [works-cited](/tag/works-cited), [resources](/tag/resources), [references](/tag/references)
 
 ----
 

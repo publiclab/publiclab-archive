@@ -6,18 +6,16 @@ author: sagarpreet
 path: /notes/sagarpreet/06-06-2018/leaflet-environmental-layer-library.md
 nid: 16437
 uid: 516343
-
 cids: 19762,19769,19794,19795,19806,19807,19808,19810,19822,20068,20075,20242,20243,20265,20266,20267,20269,20786,20787,25465,25466
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/130/original/Screen_Shot_2018-06-06_at_4.20.39_PM.png)
 
 # Leaflet Environmental Layers Library
 
-by [sagarpreet](../../../profile/sagarpreet) | June 06, 2018 10:49
+by [sagarpreet](/profile/sagarpreet) | June 06, 2018 10:49
 
-June 06, 2018 10:49 | Tags: [mapping](../tag/mapping), [gsoc](../tag/gsoc), [pollution](../tag/pollution), [leaflet](../tag/leaflet), [skytruth](../tag/skytruth), [barnstar:basic](../tag/barnstar:basic), [weather](../tag/weather), [alerts](../tag/alerts), [odor](../tag/odor), [soc](../tag/soc), [lon:77](../tag/lon:77), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [tri](../tag/tri), [odor-logging](../tag/odor-logging), [odor-mapping](../tag/odor-mapping), [geographic](../tag/geographic), [toxic-release-inventory](../tag/toxic-release-inventory), [justicemap](../tag/justicemap), [skytruth-alerts](../tag/skytruth-alerts), [leaflet-environmental-layers](../tag/leaflet-environmental-layers), [lat:17](../tag/lat:17)
+June 06, 2018 10:49 | Tags: [mapping](/tag/mapping), [gsoc](/tag/gsoc), [pollution](/tag/pollution), [leaflet](/tag/leaflet), [skytruth](/tag/skytruth), [barnstar:basic](/tag/barnstar:basic), [weather](/tag/weather), [alerts](/tag/alerts), [odor](/tag/odor), [soc](/tag/soc), [lon:77](/tag/lon:77), [gsoc-2018](/tag/gsoc-2018), [soc-2018](/tag/soc-2018), [tri](/tag/tri), [odor-logging](/tag/odor-logging), [odor-mapping](/tag/odor-mapping), [geographic](/tag/geographic), [toxic-release-inventory](/tag/toxic-release-inventory), [justicemap](/tag/justicemap), [skytruth-alerts](/tag/skytruth-alerts), [leaflet-environmental-layers](/tag/leaflet-environmental-layers), [lat:17](/tag/lat:17)
 
 ----
 

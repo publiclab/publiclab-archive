@@ -6,14 +6,14 @@ author: mathew
 path: /wiki/dual-camera-trigger.md
 nid: 1923
 uid: 4
-
+cids: 
 ---
 
 # dual camera trigger
 
-by [mathew](../profile/mathew), [cfastie](../profile/cfastie)
+by [mathew](/profile/mathew), [cfastie](/profile/cfastie)
 
-May 07, 2012 23:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [triggering](../tag/triggering)
+May 07, 2012 23:33 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [triggering](/tag/triggering)
 
 ----
 

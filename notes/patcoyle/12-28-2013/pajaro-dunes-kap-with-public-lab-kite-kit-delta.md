@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/12-28-2013/pajaro-dunes-kap-with-public-lab-kite-kit-delta.md
 nid: 9916
 uid: 77
-
 cids: 8010
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/457/original/P1090338.JPG)
 
 # Pajaro Dunes KAP with Public Lab Kite kit Delta
 
-by [patcoyle](../../../profile/patcoyle) | December 28, 2013 19:51
+by [patcoyle](/profile/patcoyle) | December 28, 2013 19:51
 
-December 28, 2013 19:51 | Tags: [kite-mapping](../tag/kite-mapping)
+December 28, 2013 19:51 | Tags: [kite-mapping](/tag/kite-mapping)
 
 ----
 

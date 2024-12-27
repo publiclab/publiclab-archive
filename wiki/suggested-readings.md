@@ -6,14 +6,14 @@ author: Shannon
 path: /wiki/suggested-readings.md
 nid: 404
 uid: 9
-
+cids: 
 ---
 
 # Suggested Readings
 
-by [liz](../profile/liz), [sara](../profile/sara), [donblair](../profile/donblair), [warren](../profile/warren), [Shannon](../profile/Shannon)
+by [liz](/profile/liz), [sara](/profile/sara), [donblair](/profile/donblair), [warren](/profile/warren), [Shannon](/profile/Shannon)
 
-July 21, 2011 16:01 | Tags: [readings](../tag/readings), [literature-review](../tag/literature-review), [works-cited](../tag/works-cited), [bibliography](../tag/bibliography)
+July 21, 2011 16:01 | Tags: [readings](/tag/readings), [literature-review](/tag/literature-review), [works-cited](/tag/works-cited), [bibliography](/tag/bibliography)
 
 ----
 

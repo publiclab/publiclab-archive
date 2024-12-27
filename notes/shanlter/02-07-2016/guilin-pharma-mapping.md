@@ -6,18 +6,16 @@ author: shanlter
 path: /notes/shanlter/02-07-2016/guilin-pharma-mapping.md
 nid: 12667
 uid: 420999
-
 cids: 13547,14728,20671,20676,20699
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/125/original/_DSC9387.JPG)
 
 # Guilin Pharma mapping
 
-by [shanlter](../../../profile/shanlter) | February 07, 2016 08:59
+by [shanlter](/profile/shanlter) | February 07, 2016 08:59
 
-February 07, 2016 08:59 | Tags: [balloon-mapping](../tag/balloon-mapping), [blog](../tag/blog), [asia](../tag/asia), [barnstar:watchdog](../tag/barnstar:watchdog), [china](../tag/china), [pharmaceutical](../tag/pharmaceutical), [guilin](../tag/guilin)
+February 07, 2016 08:59 | Tags: [balloon-mapping](/tag/balloon-mapping), [blog](/tag/blog), [asia](/tag/asia), [barnstar:watchdog](/tag/barnstar:watchdog), [china](/tag/china), [pharmaceutical](/tag/pharmaceutical), [guilin](/tag/guilin)
 
 ----
 

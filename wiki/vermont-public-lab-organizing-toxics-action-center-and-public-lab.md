@@ -6,14 +6,14 @@ author: sara
 path: /wiki/vermont-public-lab-organizing-toxics-action-center-and-public-lab.md
 nid: 3449
 uid: 8
-
+cids: 
 ---
 
 # Vermont Public Lab Organizing: Toxics Action Center and Public Lab!
 
-by [cfastie](../profile/cfastie), [sara](../profile/sara)
+by [cfastie](/profile/cfastie), [sara](/profile/sara)
 
-August 24, 2012 15:00 | Tags: [balloon-mapping](../tag/balloon-mapping), [vermont](../tag/vermont), [northeast](../tag/northeast), [traffic](../tag/traffic)
+August 24, 2012 15:00 | Tags: [balloon-mapping](/tag/balloon-mapping), [vermont](/tag/vermont), [northeast](/tag/northeast), [traffic](/tag/traffic)
 
 ----
 

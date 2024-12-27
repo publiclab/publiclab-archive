@@ -6,18 +6,16 @@ author: neilh20
 path: /notes/neilh20/01-06-2017/envirodiy-workshop-jan-26-27-2017.md
 nid: 13843
 uid: 425914
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/227/original/MayflyBoard20160508_134514-001_%28Small%29.jpg)
 
 # Envirodiy workshop Jan 26/27 2017
 
-by [neilh20](../../../profile/neilh20) | January 06, 2017 20:51
+by [neilh20](/profile/neilh20) | January 06, 2017 20:51
 
-January 06, 2017 20:51 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [date:01-06-2017](../tag/date:01-06-2017)
+January 06, 2017 20:51 | Tags: [event](/tag/event), [event:rsvp](/tag/event:rsvp), [date:01-06-2017](/tag/date:01-06-2017)
 
 ----
 

@@ -6,18 +6,16 @@ author: cindy_excites
 path: /notes/Cindy_ExCites/06-24-2015/diy-aerial-photography-kite-mapping-workshop-in-london-uk.md
 nid: 12000
 uid: 1083
-
 cids: 12875,12876
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/427/original/Kite_mapping.jpeg)
 
 # DIY aerial photography: Kite-mapping workshop in London, UK
 
-by [cindy_excites](../../../profile/cindy_excites) | June 24, 2015 14:45
+by [cindy_excites](/profile/cindy_excites) | June 24, 2015 14:45
 
-June 24, 2015 14:45 | Tags: [kite-mapping](../tag/kite-mapping), [london](../tag/london), [workshop](../tag/workshop), [event](../tag/event), [kitemapping](../tag/kitemapping), [event:rsvp](../tag/event:rsvp), [eu](../tag/eu), [date:06-24-2015](../tag/date:06-24-2015), [rsvp:edibleurban](../tag/rsvp:edibleurban), [replication:14022](../tag/replication:14022)
+June 24, 2015 14:45 | Tags: [kite-mapping](/tag/kite-mapping), [london](/tag/london), [workshop](/tag/workshop), [event](/tag/event), [kitemapping](/tag/kitemapping), [event:rsvp](/tag/event:rsvp), [eu](/tag/eu), [date:06-24-2015](/tag/date:06-24-2015), [rsvp:edibleurban](/tag/rsvp:edibleurban), [replication:14022](/tag/replication:14022)
 
 ----
 

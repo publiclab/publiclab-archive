@@ -6,14 +6,14 @@ author: warren
 path: /wiki/spectrometer-materials.md
 nid: 3561
 uid: 1
-
+cids: 
 ---
 
 # Spectrometer materials list
 
-by [warren](../profile/warren), [gonzoearth](../profile/gonzoearth)
+by [warren](/profile/warren), [gonzoearth](/profile/gonzoearth)
 
-August 29, 2012 19:35 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter), [materials](../tag/materials)
+August 29, 2012 19:35 | Tags: [spectrometer](/tag/spectrometer), [kickstarter](/tag/kickstarter), [materials](/tag/materials)
 
 ----
 

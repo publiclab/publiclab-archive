@@ -6,14 +6,14 @@ author: warren
 path: /wiki/helium-kite.md
 nid: 1730
 uid: 1
-
+cids: 
 ---
 
 # Helium Kite
 
-by [mathew](../profile/mathew), [warren](../profile/warren)
+by [mathew](/profile/mathew), [warren](/profile/warren)
 
-April 21, 2012 14:36 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [grassrootsmappingwiki](../tag/grassrootsmappingwiki), [diy-balloon](../tag/diy-balloon)
+April 21, 2012 14:36 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [grassrootsmappingwiki](/tag/grassrootsmappingwiki), [diy-balloon](/tag/diy-balloon)
 
 ----
 

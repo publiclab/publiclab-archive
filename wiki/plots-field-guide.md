@@ -6,12 +6,12 @@ author: donblair
 path: /wiki/plots-field-guide.md
 nid: 4331
 uid: 43651
-
+cids: 
 ---
 
 # PLOTS Field Guide
 
-by [donblair](../profile/donblair)
+by [donblair](/profile/donblair)
 
 October 10, 2012 22:14 | Tags: 
 

@@ -6,18 +6,16 @@ author: lukebrown
 path: /notes/lukebrown/07-11-2015/desktop-spectrometry-kit-v3-for-vnir-field-spectroscopy.md
 nid: 12047
 uid: 444973
-
 cids: 12149,12154,12172,12173,12174,12180,12183,12391
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/627/original/mail.google.com.jpg)
 
 # Desktop Spectrometry Kit (V3) for VNIR Field Spectroscopy
 
-by [lukebrown](../../../profile/lukebrown) | July 11, 2015 11:29
+by [lukebrown](/profile/lukebrown) | July 11, 2015 11:29
 
-July 11, 2015 11:29 | Tags: [spectrometer](../tag/spectrometer), [bamboo](../tag/bamboo), [radiometric-calibration](../tag/radiometric-calibration), [spectroscopy](../tag/spectroscopy), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [vegetation](../tag/vegetation), [barnstar:basic](../tag/barnstar:basic), [enclosure](../tag/enclosure)
+July 11, 2015 11:29 | Tags: [spectrometer](/tag/spectrometer), [bamboo](/tag/bamboo), [radiometric-calibration](/tag/radiometric-calibration), [spectroscopy](/tag/spectroscopy), [desktop-spectrometry-kit](/tag/desktop-spectrometry-kit), [vegetation](/tag/vegetation), [barnstar:basic](/tag/barnstar:basic), [enclosure](/tag/enclosure)
 
 ----
 

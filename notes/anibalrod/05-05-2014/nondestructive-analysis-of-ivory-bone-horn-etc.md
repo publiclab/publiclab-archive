@@ -6,16 +6,14 @@ author: anibalrod
 path: /notes/anibalrod/05-05-2014/nondestructive-analysis-of-ivory-bone-horn-etc.md
 nid: 10423
 uid: 421831
-
 cids: 
-
 ---
 
 # Nondestructive Analysis of ivory, bone, horn etc
 
-by [anibalrod](../../../profile/anibalrod) | May 05, 2014 12:25
+by [anibalrod](/profile/anibalrod) | May 05, 2014 12:25
 
-May 05, 2014 12:25 | Tags: [ivory](../tag/ivory), [bone](../tag/bone), [horn](../tag/horn)
+May 05, 2014 12:25 | Tags: [ivory](/tag/ivory), [bone](/tag/bone), [horn](/tag/horn)
 
 ----
 

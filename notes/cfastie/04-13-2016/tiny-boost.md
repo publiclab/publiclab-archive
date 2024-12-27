@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/04-13-2016/tiny-boost.md
 nid: 12963
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/501/original/LREOS40o40_3k.jpg)
 
 # Tiny boost
 
-by [cfastie](../../../profile/cfastie) | April 13, 2016 01:22
+by [cfastie](/profile/cfastie) | April 13, 2016 01:22
 
-April 13, 2016 01:22 | Tags: [kite-mapping](../tag/kite-mapping), [arduino](../tag/arduino), [vermont](../tag/vermont), [kite](../tag/kite), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [eos_m](../tag/eos_m), [voltage](../tag/voltage), [battery](../tag/battery), [boost](../tag/boost), [response:12906](../tag/response:12906)
+April 13, 2016 01:22 | Tags: [kite-mapping](/tag/kite-mapping), [arduino](/tag/arduino), [vermont](/tag/vermont), [kite](/tag/kite), [saturnv](/tag/saturnv), [skyshield](/tag/skyshield), [half-spherical](/tag/half-spherical), [eos_m](/tag/eos_m), [voltage](/tag/voltage), [battery](/tag/battery), [boost](/tag/boost), [response:12906](/tag/response:12906)
 
 ----
 

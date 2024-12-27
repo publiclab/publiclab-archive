@@ -6,12 +6,12 @@ author: stevie
 path: /wiki/germany.md
 nid: 16232
 uid: 422561
-
+cids: 
 ---
 
 # Germany
 
-by [niklasjordan](../profile/niklasjordan), [stevie](../profile/stevie)
+by [niklasjordan](/profile/niklasjordan), [stevie](/profile/stevie)
 
 April 27, 2018 15:02 | Tags: 
 
@@ -45,12 +45,12 @@ You have ideas for joint projects? Then write something here.
 ## Log of German Public Lab community
 
 #### Notes
-[germany](../../tag/germany) 
+[germany](/tag/germany) 
 
 ****
 #### Questions
-[germany](../../tag/question:germany)
+[germany](/tag/question:germany)
 
 ****
 #### Activities
-[germany](../../tag/activity:germany)
+[germany](/tag/activity:germany)

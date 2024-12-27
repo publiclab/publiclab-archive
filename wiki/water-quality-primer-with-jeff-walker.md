@@ -6,16 +6,16 @@ author: kanarinka
 path: /wiki/water-quality-primer-with-jeff-walker.md
 nid: 10424
 uid: 994
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/157/original/Slide01.jpg)
 
 # Water Quality Primer with Jeff Walker
 
-by [kanarinka](../profile/kanarinka)
+by [kanarinka](/profile/kanarinka)
 
-May 05, 2014 13:40 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [conductivity](../tag/conductivity), [mystic-river](../tag/mystic-river), [stormwater](../tag/stormwater), [open-water](../tag/open-water), [parent:water-quality](../tag/parent:water-quality)
+May 05, 2014 13:40 | Tags: [water-quality](/tag/water-quality), [water](/tag/water), [conductivity](/tag/conductivity), [mystic-river](/tag/mystic-river), [stormwater](/tag/stormwater), [open-water](/tag/open-water), [parent:water-quality](/tag/parent:water-quality)
 
 ----
 

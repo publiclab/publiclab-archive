@@ -6,18 +6,16 @@ author: peppepegasus
 path: /notes/peppepegasus/03-15-2016/help-about-ndvi-obtained-with-mapri-cameras.md
 nid: 12848
 uid: 468764
-
 cids: 13937,13938,13939,13963,13964,13965,13967,14079,14081,14093,14094,14100,14102,14117,14121,14160,14164,14165,14183,14184,19734,19735
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/066/original/ndvi_ph3.pdf)
 
 # Help about NDVI obtained with Mapir cameras.
 
-by [peppepegasus](../../../profile/peppepegasus) | March 15, 2016 17:03
+by [peppepegasus](/profile/peppepegasus) | March 15, 2016 17:03
 
-March 15, 2016 17:03 | Tags: [help](../tag/help), [uk](../tag/uk), [mailing-lists](../tag/mailing-lists), [research](../tag/research), [forum](../tag/forum), [forums](../tag/forums), [lists](../tag/lists), [discussion](../tag/discussion)
+March 15, 2016 17:03 | Tags: [help](/tag/help), [uk](/tag/uk), [mailing-lists](/tag/mailing-lists), [research](/tag/research), [forum](/tag/forum), [forums](/tag/forums), [lists](/tag/lists), [discussion](/tag/discussion)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/05-12-2017/share-large-numbers-of-photos-or-files-using-bittorrent.md
 nid: 14183
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/427/original/Screen_Shot_2017-05-12_at_12.37.31_PM.png)
 
 # Share large numbers of photos (or files) using BitTorrent
 
-by [warren](../../../profile/warren) | May 12, 2017 16:51
+by [warren](/profile/warren) | May 12, 2017 16:51
 
-May 12, 2017 16:51 | Tags: [balloon-mapping](../tag/balloon-mapping), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [bittorrent](../tag/bittorrent), [file-sharing](../tag/file-sharing), [activity:bittorrent](../tag/activity:bittorrent), [activity:photo-sharing](../tag/activity:photo-sharing), [photo-sharing](../tag/photo-sharing)
+May 12, 2017 16:51 | Tags: [balloon-mapping](/tag/balloon-mapping), [photo-monitoring](/tag/photo-monitoring), [timelapse](/tag/timelapse), [bittorrent](/tag/bittorrent), [file-sharing](/tag/file-sharing), [activity:bittorrent](/tag/activity:bittorrent), [activity:photo-sharing](/tag/activity:photo-sharing), [photo-sharing](/tag/photo-sharing)
 
 ----
 

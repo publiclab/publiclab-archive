@@ -6,16 +6,16 @@ author: liz
 path: /wiki/start-here.md
 nid: 11483
 uid: 7
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/556/original/IMG_2768_edit.jpg)
 
 # Start Here
 
-by [warren](../profile/warren), [liz](../profile/liz)
+by [warren](/profile/warren), [liz](/profile/liz)
 
-December 18, 2014 15:50 | Tags: [elp](../tag/elp), [mental-mapping](../tag/mental-mapping), [parent:gardening-toolkit](../tag/parent:gardening-toolkit), [gardening-toolkit](../tag/gardening-toolkit)
+December 18, 2014 15:50 | Tags: [elp](/tag/elp), [mental-mapping](/tag/mental-mapping), [parent:gardening-toolkit](/tag/parent:gardening-toolkit), [gardening-toolkit](/tag/gardening-toolkit)
 
 ----
 

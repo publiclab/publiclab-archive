@@ -6,18 +6,16 @@ author: ghk
 path: /notes/ghk/04-05-2014/revamping-infragram-js-to-to-the-job-on-the-client-side.md
 nid: 10270
 uid: 422181
-
 cids: 8684,8685,8686,8801,8836,8837,8849
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/519/original/pedro2_jaxo.png)
 
 # Revamping infragram.js to to the job on the client side
 
-by [ghk](../../../profile/ghk) | April 05, 2014 12:33
+by [ghk](/profile/ghk) | April 05, 2014 12:33
 
-April 05, 2014 12:33 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [near-infrared](../tag/near-infrared), [infragram](../tag/infragram), [camera](../tag/camera), [first-time-poster](../tag/first-time-poster)
+April 05, 2014 12:33 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [near-infrared](/tag/near-infrared), [infragram](/tag/infragram), [camera](/tag/camera), [first-time-poster](/tag/first-time-poster)
 
 ----
 

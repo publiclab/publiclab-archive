@@ -6,16 +6,16 @@ author: warren
 path: /wiki/spectral-analysis.md
 nid: 3394
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/478/original/tmp_3803-Screenshot_2015-07-30_at_11.12.17_AM1710726510.png)
 
 # Spectral analysis
 
-by [warren](../profile/warren), [jamesbond007](../profile/jamesbond007), [Jasonchoi82222](../profile/Jasonchoi82222), [chongyukwai](../profile/chongyukwai), [mchapman87501](../profile/mchapman87501)
+by [warren](/profile/warren), [jamesbond007](/profile/jamesbond007), [Jasonchoi82222](/profile/Jasonchoi82222), [chongyukwai](/profile/chongyukwai), [mchapman87501](/profile/mchapman87501)
 
-August 22, 2012 16:31 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [methodologies](../tag/methodologies), [location:blurred](../tag/location:blurred), [lat:-32](../tag/lat:-32), [zoom:7](../tag/zoom:7), [place:argentina](../tag/place:argentina), [lon:-64](../tag/lon:-64)
+August 22, 2012 16:31 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [methodologies](/tag/methodologies), [location:blurred](/tag/location:blurred), [lat:-32](/tag/lat:-32), [zoom:7](/tag/zoom:7), [place:argentina](/tag/place:argentina), [lon:-64](/tag/lon:-64)
 
 ----
 

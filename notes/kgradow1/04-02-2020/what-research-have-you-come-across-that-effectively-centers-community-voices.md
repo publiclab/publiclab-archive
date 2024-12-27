@@ -6,16 +6,14 @@ author: kgradow1
 path: /notes/kgradow1/04-02-2020/what-research-have-you-come-across-that-effectively-centers-community-voices.md
 nid: 23289
 uid: 297929
-
 cids: 
-
 ---
 
 # What research have you come across that effectively centers community voices?
 
-by [kgradow1](../../../profile/kgradow1) | April 02, 2020 21:34
+by [kgradow1](/profile/kgradow1) | April 02, 2020 21:34
 
-April 02, 2020 21:34 | Tags: [interviews](../tag/interviews), [housing](../tag/housing), [quantitative](../tag/quantitative), [question:general](../tag/question:general), [general](../tag/general), [affordable-housing](../tag/affordable-housing), [community-voice](../tag/community-voice)
+April 02, 2020 21:34 | Tags: [interviews](/tag/interviews), [housing](/tag/housing), [quantitative](/tag/quantitative), [question:general](/tag/question:general), [general](/tag/general), [affordable-housing](/tag/affordable-housing), [community-voice](/tag/community-voice)
 
 ----
 

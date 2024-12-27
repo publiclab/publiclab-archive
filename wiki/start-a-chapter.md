@@ -6,14 +6,14 @@ author: warren
 path: /wiki/start-a-chapter.md
 nid: 7405
 uid: 1
-
+cids: 
 ---
 
 # Start a Chapter
 
-by [stevie](../profile/stevie), [warren](../profile/warren), [hagitkeysar](../profile/hagitkeysar), [liz](../profile/liz), [Ghastly](../profile/Ghastly), [nkemosprint](../profile/nkemosprint)
+by [stevie](/profile/stevie), [warren](/profile/warren), [hagitkeysar](/profile/hagitkeysar), [liz](/profile/liz), [Ghastly](/profile/Ghastly), [nkemosprint](/profile/nkemosprint)
 
-May 10, 2013 13:39 | Tags: [community](../tag/community), [organizers](../tag/organizers), [chapters](../tag/chapters), [workshops](../tag/workshops)
+May 10, 2013 13:39 | Tags: [community](/tag/community), [organizers](/tag/organizers), [chapters](/tag/chapters), [workshops](/tag/workshops)
 
 ----
 
@@ -64,7 +64,7 @@ Here are some overall best practices that have been compiled from chapters:
 
 ## Questions
 
-[chapters](../../tag/question:chapters)
+[chapters](/tag/question:chapters)
 
 ****
 

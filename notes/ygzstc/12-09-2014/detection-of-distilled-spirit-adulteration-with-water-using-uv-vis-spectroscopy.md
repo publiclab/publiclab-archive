@@ -6,18 +6,16 @@ author: ygzstc
 path: /notes/ygzstc/12-09-2014/detection-of-distilled-spirit-adulteration-with-water-using-uv-vis-spectroscopy.md
 nid: 11444
 uid: 422489
-
 cids: 10923,10928,10934,10935
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/315/original/PictureJD-1.png)
 
 # Detection of Distilled Spirit Adulteration (with water) Using Visual Light Spectroscopy
 
-by [ygzstc](../../../profile/ygzstc) | December 09, 2014 21:12
+by [ygzstc](/profile/ygzstc) | December 09, 2014 21:12
 
-December 09, 2014 21:12 | Tags: [desktop-spectrometer](../tag/desktop-spectrometer), [barnstar:basic](../tag/barnstar:basic), [food-fraud](../tag/food-fraud), [food-safety](../tag/food-safety), [distilled-spirit-adulteration](../tag/distilled-spirit-adulteration), [replicable](../tag/replicable)
+December 09, 2014 21:12 | Tags: [desktop-spectrometer](/tag/desktop-spectrometer), [barnstar:basic](/tag/barnstar:basic), [food-fraud](/tag/food-fraud), [food-safety](/tag/food-safety), [distilled-spirit-adulteration](/tag/distilled-spirit-adulteration), [replicable](/tag/replicable)
 
 ----
 

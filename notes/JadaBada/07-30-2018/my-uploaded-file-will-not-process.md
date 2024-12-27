@@ -6,16 +6,14 @@ author: JadaBada
 path: /notes/JadaBada/07-30-2018/my-uploaded-file-will-not-process.md
 nid: 16811
 uid: 543272
-
 cids: 20312,23192
-
 ---
 
 # My uploaded file will not process.
 
-by [JadaBada](../../../profile/JadaBada) | July 30, 2018 12:45
+by [JadaBada](/profile/JadaBada) | July 30, 2018 12:45
 
-July 30, 2018 12:45 | Tags: [spectrometer](../tag/spectrometer), [spectral-workbench](../tag/spectral-workbench), [barnstar:basic](../tag/barnstar:basic), [question:spectral-workbench](../tag/question:spectral-workbench)
+July 30, 2018 12:45 | Tags: [spectrometer](/tag/spectrometer), [spectral-workbench](/tag/spectral-workbench), [barnstar:basic](/tag/barnstar:basic), [question:spectral-workbench](/tag/question:spectral-workbench)
 
 ----
 

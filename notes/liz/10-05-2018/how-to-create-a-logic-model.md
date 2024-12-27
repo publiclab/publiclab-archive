@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/10-05-2018/how-to-create-a-logic-model.md
 nid: 17235
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/821/original/Screen_Shot_2018-10-05_at_5.04.33_PM.png)
 
 # How to create a Logic Model
 
-by [liz](../../../profile/liz) | October 05, 2018 21:07
+by [liz](/profile/liz) | October 05, 2018 21:07
 
-October 05, 2018 21:07 | Tags: [evaluation](../tag/evaluation), [activity:evaluation](../tag/activity:evaluation)
+October 05, 2018 21:07 | Tags: [evaluation](/tag/evaluation), [activity:evaluation](/tag/activity:evaluation)
 
 ----
 

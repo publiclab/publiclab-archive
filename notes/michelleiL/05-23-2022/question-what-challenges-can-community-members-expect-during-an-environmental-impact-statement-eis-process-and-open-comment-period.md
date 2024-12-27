@@ -6,16 +6,14 @@ author: michelleiL
 path: /notes/michelleiL/05-23-2022/question-what-challenges-can-community-members-expect-during-an-environmental-impact-statement-eis-process-and-open-comment-period.md
 nid: 30874
 uid: 799004
-
 cids: 30214,30230,30274
-
 ---
 
 # Question: What challenges can community members expect during an Environmental Impact Statement (EIS) Process and open comment period?
 
-by [michelleiL](../../../profile/michelleiL) | May 23, 2022 15:43
+by [michelleiL](/profile/michelleiL) | May 23, 2022 15:43
 
-May 23, 2022 15:43 | Tags: [organizing](../tag/organizing), [fellowship](../tag/fellowship), [public-comment](../tag/public-comment), [lon:-80](../tag/lon:-80), [first-time-poster](../tag/first-time-poster), [lat:20](../tag/lat:20), [zoom:5](../tag/zoom:5), [law-and-policy](../tag/law-and-policy), [question:law-and-policy](../tag/question:law-and-policy), [question:public-comment](../tag/question:public-comment)
+May 23, 2022 15:43 | Tags: [organizing](/tag/organizing), [fellowship](/tag/fellowship), [public-comment](/tag/public-comment), [lon:-80](/tag/lon:-80), [first-time-poster](/tag/first-time-poster), [lat:20](/tag/lat:20), [zoom:5](/tag/zoom:5), [law-and-policy](/tag/law-and-policy), [question:law-and-policy](/tag/question:law-and-policy), [question:public-comment](/tag/question:public-comment)
 
 ----
 

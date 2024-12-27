@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/09-25-2013/photo-printed-collimation-slit-for-the-backpack-spectrometer.md
 nid: 9366
 uid: 4
-
 cids: 7014,7018,7019
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/671/original/9925545636_602ee6e16d_z.jpg)
 
 # Photo-printed collimation slit for the Backpack Spectrometer 
 
-by [mathew](../../../profile/mathew) | September 25, 2013 02:02
+by [mathew](/profile/mathew) | September 25, 2013 02:02
 
-September 25, 2013 02:02 | Tags: [spectrometer](../tag/spectrometer), [slit](../tag/slit), [stepped-slit](../tag/stepped-slit), [slit-width](../tag/slit-width)
+September 25, 2013 02:02 | Tags: [spectrometer](/tag/spectrometer), [slit](/tag/slit), [stepped-slit](/tag/stepped-slit), [slit-width](/tag/slit-width)
 
 ----
 

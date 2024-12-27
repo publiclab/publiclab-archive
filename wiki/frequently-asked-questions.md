@@ -6,14 +6,14 @@ author: Shannon
 path: /wiki/frequently-asked-questions.md
 nid: 567
 uid: 9
-
+cids: 
 ---
 
 # Frequently Asked Questions
 
-by [Becki](../profile/Becki), [warren](../profile/warren), [Shannon](../profile/Shannon)
+by [Becki](/profile/Becki), [warren](/profile/warren), [Shannon](/profile/Shannon)
 
-November 18, 2011 15:39 | Tags: [community](../tag/community), [welcome](../tag/welcome), [needs-revision](../tag/needs-revision)
+November 18, 2011 15:39 | Tags: [community](/tag/community), [welcome](/tag/welcome), [needs-revision](/tag/needs-revision)
 
 ----
 

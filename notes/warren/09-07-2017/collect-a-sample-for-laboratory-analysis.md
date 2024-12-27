@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/09-07-2017/collect-a-sample-for-laboratory-analysis.md
 nid: 14843
 uid: 1
-
 cids: 17341,18325
-
 ---
 
 # Draft: Collect a sample for laboratory analysis
 
-by [warren](../../../profile/warren) | September 07, 2017 20:16
+by [warren](/profile/warren) | September 07, 2017 20:16
 
-September 07, 2017 20:16 | Tags: [oil](../tag/oil), [sample-containers](../tag/sample-containers), [water-quality](../tag/water-quality), [sampling](../tag/sampling), [with:eustatic](../tag/with:eustatic), [with:gretchengehrke](../tag/with:gretchengehrke), [oil-pollution](../tag/oil-pollution), [activity:spectrometry](../tag/activity:spectrometry), [harvey](../tag/harvey), [harvey-response](../tag/harvey-response), [sample-collection](../tag/sample-collection), [soil-sampling](../tag/soil-sampling), [water-sampling](../tag/water-sampling), [oil-sampling](../tag/oil-sampling), [activity:sampling](../tag/activity:sampling), [activity:water-sampling](../tag/activity:water-sampling), [activity:soil-sampling](../tag/activity:soil-sampling), [activity:water-quality](../tag/activity:water-quality), [activity:sample-collection](../tag/activity:sample-collection), [soil-quality](../tag/soil-quality), [activity:soil](../tag/activity:soil), [soil-sampling-main](../tag/soil-sampling-main)
+September 07, 2017 20:16 | Tags: [oil](/tag/oil), [sample-containers](/tag/sample-containers), [water-quality](/tag/water-quality), [sampling](/tag/sampling), [with:eustatic](/tag/with:eustatic), [with:gretchengehrke](/tag/with:gretchengehrke), [oil-pollution](/tag/oil-pollution), [activity:spectrometry](/tag/activity:spectrometry), [harvey](/tag/harvey), [harvey-response](/tag/harvey-response), [sample-collection](/tag/sample-collection), [soil-sampling](/tag/soil-sampling), [water-sampling](/tag/water-sampling), [oil-sampling](/tag/oil-sampling), [activity:sampling](/tag/activity:sampling), [activity:water-sampling](/tag/activity:water-sampling), [activity:soil-sampling](/tag/activity:soil-sampling), [activity:water-quality](/tag/activity:water-quality), [activity:sample-collection](/tag/activity:sample-collection), [soil-quality](/tag/soil-quality), [activity:soil](/tag/activity:soil), [soil-sampling-main](/tag/soil-sampling-main)
 
 ----
 
@@ -83,6 +81,6 @@ When collecting a sample for third-party laboratory analysis, to submit to a loc
 
 (Jeff) I have a lot of questions about this, so I'm adding a Questions section here:
 
-[question:sampling](../../tag/question:sampling)
+[question:sampling](/tag/question:sampling)
 
 <a class="btn btn-primary" href="/post?tags=oil,sample-containers,water-quality,question:sampling,oil-pollution,question:sample-collection,question:soil-sampling,question:water-sampling,question:oil-sampling,soil-quality">Ask a question</a>

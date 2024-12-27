@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/06-25-2019/musings-on-conflict-resilience.md
 nid: 19862
 uid: 7
-
 cids: 24895,24914,24962
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/202/original/phases.png)
 
 # musings on conflict resilience
 
-by [liz](../../../profile/liz) | June 25, 2019 20:44
+by [liz](/profile/liz) | June 25, 2019 20:44
 
-June 25, 2019 20:44 | Tags: [conduct](../tag/conduct)
+June 25, 2019 20:44 | Tags: [conduct](/tag/conduct)
 
 ----
 

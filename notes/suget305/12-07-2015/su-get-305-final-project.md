@@ -6,16 +6,14 @@ author: suget305
 path: /notes/suget305/12-07-2015/su-get-305-final-project.md
 nid: 12483
 uid: 452260
-
 cids: 
-
 ---
 
 # SU GET 305 Final Project
 
-by [suget305](../../../profile/suget305) | December 07, 2015 03:50
+by [suget305](/profile/suget305) | December 07, 2015 03:50
 
-December 07, 2015 03:50 | Tags: [first-time-poster](../tag/first-time-poster)
+December 07, 2015 03:50 | Tags: [first-time-poster](/tag/first-time-poster)
 
 ----
 

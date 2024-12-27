@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/09-01-2016/cfl-spectral-irradiance-study-using-spekwin32.md
 nid: 13409
 uid: 461120
-
 cids: 15284
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/876/original/CFL_lamp_set_up_title_picture.png)
 
 # CFL Spectral Irradiance Study using Spekwin32
 
-by [dhaffnersr](../../../profile/dhaffnersr) | September 01, 2016 13:11
+by [dhaffnersr](/profile/dhaffnersr) | September 01, 2016 13:11
 
 September 01, 2016 13:11 | Tags: 
 

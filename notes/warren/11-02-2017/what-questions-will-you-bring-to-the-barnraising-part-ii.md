@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/11-02-2017/what-questions-will-you-bring-to-the-barnraising-part-ii.md
 nid: 15141
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/174/original/questioners.png)
 
 # What questions will you bring to the Barnraising? (Part II)
 
-by [warren](../../../profile/warren) | November 02, 2017 14:11
+by [warren](/profile/warren) | November 02, 2017 14:11
 
-November 02, 2017 14:11 | Tags: [west-virginia](../tag/west-virginia), [cocodrie](../tag/cocodrie), [barnraising](../tag/barnraising), [blog](../tag/blog), [videos](../tag/videos), [questions](../tag/questions), [barnraising-2017](../tag/barnraising-2017), [regional-barnraising](../tag/regional-barnraising), [barnraising-vw](../tag/barnraising-vw), [morgantown](../tag/morgantown), [series:barnraising-questions](../tag/series:barnraising-questions)
+November 02, 2017 14:11 | Tags: [west-virginia](/tag/west-virginia), [cocodrie](/tag/cocodrie), [barnraising](/tag/barnraising), [blog](/tag/blog), [videos](/tag/videos), [questions](/tag/questions), [barnraising-2017](/tag/barnraising-2017), [regional-barnraising](/tag/regional-barnraising), [barnraising-vw](/tag/barnraising-vw), [morgantown](/tag/morgantown), [series:barnraising-questions](/tag/series:barnraising-questions)
 
 ----
 

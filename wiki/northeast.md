@@ -6,16 +6,16 @@ author: liz
 path: /wiki/northeast.md
 nid: 10393
 uid: 7
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/161/original/Screen_Shot_2014-05-07_at_2.33.43_PM.png)
 
 # Northeast US and Eastern Canada
 
-by [liz](../profile/liz), [wward1400](../profile/wward1400), [Hudonnoodles](../profile/Hudonnoodles), [warren](../profile/warren)
+by [liz](/profile/liz), [wward1400](/profile/wward1400), [Hudonnoodles](/profile/Hudonnoodles), [warren](/profile/warren)
 
-May 02, 2014 16:07 | Tags: [list:publiclab-northeast](../tag/list:publiclab-northeast), [events:northeast](../tag/events:northeast), [regional](../tag/regional), [region](../tag/region)
+May 02, 2014 16:07 | Tags: [list:publiclab-northeast](/tag/list:publiclab-northeast), [events:northeast](/tag/events:northeast), [regional](/tag/regional), [region](/tag/region)
 
 ----
 

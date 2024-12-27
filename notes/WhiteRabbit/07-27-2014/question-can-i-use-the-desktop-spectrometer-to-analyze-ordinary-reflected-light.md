@@ -6,18 +6,16 @@ author: WhiteRabbit
 path: /notes/WhiteRabbit/07-27-2014/question-can-i-use-the-desktop-spectrometer-to-analyze-ordinary-reflected-light.md
 nid: 10984
 uid: 425996
-
 cids: 18204,22858,26645
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/602/original/greenGrassReflectanceCircles.png)
 
 # Question: Can the Public Labs Desktop Spectrometer analyze light from a patch of grass?
 
-by [WhiteRabbit](../../../profile/WhiteRabbit) | July 27, 2014 17:11
+by [WhiteRabbit](/profile/WhiteRabbit) | July 27, 2014 17:11
 
-July 27, 2014 17:11 | Tags: [question:spectrometry](../tag/question:spectrometry)
+July 27, 2014 17:11 | Tags: [question:spectrometry](/tag/question:spectrometry)
 
 ----
 

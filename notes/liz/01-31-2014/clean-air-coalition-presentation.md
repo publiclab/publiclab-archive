@@ -6,16 +6,14 @@ author: liz
 path: /notes/liz/01-31-2014/clean-air-coalition-presentation.md
 nid: 9996
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/710/original/cleanair_logo.png)
 
 # Clean Air Coalition presentation
 
-by [liz](../../../profile/liz) | January 31, 2014 18:34
+by [liz](/profile/liz) | January 31, 2014 18:34
 
 January 31, 2014 18:34 | Tags: 
 

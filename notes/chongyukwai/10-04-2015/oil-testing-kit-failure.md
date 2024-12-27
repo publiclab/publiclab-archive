@@ -6,18 +6,16 @@ author: chongyukwai
 path: /notes/chongyukwai/10-04-2015/oil-testing-kit-failure.md
 nid: 12264
 uid: 442298
-
 cids: 12645,12646
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/898/original/undefined)
 
 # Oil testing kit Evaluation
 
-by [chongyukwai](../../../profile/chongyukwai) | October 04, 2015 11:32
+by [chongyukwai](/profile/chongyukwai) | October 04, 2015 11:32
 
-October 04, 2015 11:32 | Tags: [oil-testing-kit](../tag/oil-testing-kit)
+October 04, 2015 11:32 | Tags: [oil-testing-kit](/tag/oil-testing-kit)
 
 ----
 

@@ -6,14 +6,14 @@ author: donblair
 path: /wiki/waterchestnuts.md
 nid: 8877
 uid: 43651
-
+cids: 
 ---
 
 # WATERCHESTNUTS
 
-by [warren](../profile/warren), [cfastie](../profile/cfastie), [donblair](../profile/donblair), [Bob](../profile/Bob), [Hudonnoodles](../profile/Hudonnoodles)
+by [warren](/profile/warren), [cfastie](/profile/cfastie), [donblair](/profile/donblair), [Bob](/profile/Bob), [Hudonnoodles](/profile/Hudonnoodles)
 
-July 13, 2013 23:56 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [boston](../tag/boston), [amherst](../tag/amherst), [pvos](../tag/pvos), [event](../tag/event), [massachusetts](../tag/massachusetts), [water-chestnut](../tag/water-chestnut), [invasive](../tag/invasive), [umass](../tag/umass), [umass-amherst](../tag/umass-amherst)
+July 13, 2013 23:56 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [boston](/tag/boston), [amherst](/tag/amherst), [pvos](/tag/pvos), [event](/tag/event), [massachusetts](/tag/massachusetts), [water-chestnut](/tag/water-chestnut), [invasive](/tag/invasive), [umass](/tag/umass), [umass-amherst](/tag/umass-amherst)
 
 ----
 
@@ -21,7 +21,7 @@ July 13, 2013 23:56 | Tags: [near-infrared-camera](../tag/near-infrared-camera),
 
 Here are some research notes about the workshops, mapping, and work with the mapping images from the WATERCHESTNUT event:
 
-[h2onutz](../../tag/h2onutz)
+[h2onutz](/tag/h2onutz)
 
 ![pblklabcloud.png](https://i.publiclab.org/system/images/photos/000/000/913/medium/pblklabcloud.png) 
 

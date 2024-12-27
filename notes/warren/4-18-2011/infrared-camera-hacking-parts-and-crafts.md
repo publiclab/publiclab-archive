@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/4-18-2011/infrared-camera-hacking-parts-and-crafts.md
 nid: 179
 uid: 1
-
 cids: 24957
-
 ---
 
 ![](https://publiclab.org/sites/default/files/100_0074_0.JPG)
 
 # Infrared camera hacking at Parts and Crafts
 
-by [warren](../../../profile/warren) | April 18, 2011 23:25
+by [warren](/profile/warren) | April 18, 2011 23:25
 
-April 18, 2011 23:25 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [somerville-massachusetts](../tag/somerville-massachusetts), [infrared](../tag/infrared), [partsandcrafts](../tag/partsandcrafts), [massachusetts](../tag/massachusetts), [parts-and-crafts](../tag/parts-and-crafts), [keychain-cameras](../tag/keychain-cameras)
+April 18, 2011 23:25 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [somerville-massachusetts](/tag/somerville-massachusetts), [infrared](/tag/infrared), [partsandcrafts](/tag/partsandcrafts), [massachusetts](/tag/massachusetts), [parts-and-crafts](/tag/parts-and-crafts), [keychain-cameras](/tag/keychain-cameras)
 
 ----
 

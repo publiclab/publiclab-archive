@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/05-11-2017/dual-ndvi-ultra-probe-unit.md
 nid: 14177
 uid: 554
-
 cids: 16743,16744,16751,16755,16756,16774,18221,20164,24874
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/405/original/nanolog_20170508-8619psc.jpg)
 
 # Dual NDVI Ultra Probe Unit
 
-by [cfastie](../../../profile/cfastie) | May 11, 2017 02:01
+by [cfastie](/profile/cfastie) | May 11, 2017 02:01
 
-May 11, 2017 02:01 | Tags: [arduino](../tag/arduino), [ndvi](../tag/ndvi), [data-logging](../tag/data-logging), [arduino-nano](../tag/arduino-nano), [nano-data-logger](../tag/nano-data-logger), [16x2_lcd](../tag/16x2_lcd), [response:14160](../tag/response:14160), [tsl2561](../tag/tsl2561), [activity:nano-data-logger](../tag/activity:nano-data-logger)
+May 11, 2017 02:01 | Tags: [arduino](/tag/arduino), [ndvi](/tag/ndvi), [data-logging](/tag/data-logging), [arduino-nano](/tag/arduino-nano), [nano-data-logger](/tag/nano-data-logger), [16x2_lcd](/tag/16x2_lcd), [response:14160](/tag/response:14160), [tsl2561](/tag/tsl2561), [activity:nano-data-logger](/tag/activity:nano-data-logger)
 
 ----
 

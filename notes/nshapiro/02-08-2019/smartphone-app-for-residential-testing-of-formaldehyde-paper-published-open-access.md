@@ -6,18 +6,16 @@ author: nshapiro
 path: /notes/nshapiro/02-08-2019/smartphone-app-for-residential-testing-of-formaldehyde-paper-published-open-access.md
 nid: 18317
 uid: 380298
-
 cids: 21863,21865,21878,21879,21896,27970
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/254/original/smartform.jpg)
 
 # 'Smartphone App for Residential Testing of Formaldehyde' Paper published (Open Access)
 
-by [nshapiro](../../../profile/nshapiro) | February 08, 2019 18:51
+by [nshapiro](/profile/nshapiro) | February 08, 2019 18:51
 
-February 08, 2019 18:51 | Tags: [air-quality](../tag/air-quality), [publication](../tag/publication), [colorimetric](../tag/colorimetric), [with:gretchengehrke](../tag/with:gretchengehrke), [indoor-air](../tag/indoor-air), [smart-form](../tag/smart-form), [air-sensors](../tag/air-sensors), [with:haines241](../tag/with:haines241)
+February 08, 2019 18:51 | Tags: [air-quality](/tag/air-quality), [publication](/tag/publication), [colorimetric](/tag/colorimetric), [with:gretchengehrke](/tag/with:gretchengehrke), [indoor-air](/tag/indoor-air), [smart-form](/tag/smart-form), [air-sensors](/tag/air-sensors), [with:haines241](/tag/with:haines241)
 
 ----
 

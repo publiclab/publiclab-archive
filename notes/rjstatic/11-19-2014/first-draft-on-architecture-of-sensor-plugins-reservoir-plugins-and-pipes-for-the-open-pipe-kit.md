@@ -6,18 +6,16 @@ author: rjstatic
 path: /11-19-2014/first-draft-on-architecture-of-sensor-plugins-reservoir-plugins-and-pipes-for-the-open-pipe-kit.md
 nid: 11370
 uid: 174
-
 cids: 10800,10801,10808,10809,12230
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/017/original/icon_51835.png)
 
 # First draft on architecture of Sensor plugins, Reservoir plugins, and Pipes for the Open Pipe Kit
 
-by [rjstatic](../../../profile/rjstatic) | November 19, 2014 22:59
+by [rjstatic](/profile/rjstatic) | November 19, 2014 22:59
 
-November 19, 2014 22:59 | Tags: [open-pipe-kit](../tag/open-pipe-kit)
+November 19, 2014 22:59 | Tags: [open-pipe-kit](/tag/open-pipe-kit)
 
 ----
 

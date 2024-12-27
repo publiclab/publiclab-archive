@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/08-14-2014/sample-container-search.md
 nid: 11051
 uid: 1
-
 cids: 10004,10005,10012,10014,10035,10038,10039,10042,10061,10062,10242,10351
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/270/original/IMG_20140814_172536.jpg)
 
 # Sample container search
 
-by [warren](../../../profile/warren) | August 14, 2014 21:38
+by [warren](/profile/warren) | August 14, 2014 21:38
 
-August 14, 2014 21:38 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [cuvettes](../tag/cuvettes), [sample-containers](../tag/sample-containers), [sample-prep](../tag/sample-prep), [oil-testing-kit](../tag/oil-testing-kit), [nano-drop](../tag/nano-drop), [question:spectrometry](../tag/question:spectrometry), [question:spectrometry-sampling](../tag/question:spectrometry-sampling), [question:spectrometry-turbidity](../tag/question:spectrometry-turbidity)
+August 14, 2014 21:38 | Tags: [spectrometer](/tag/spectrometer), [fluorescence](/tag/fluorescence), [cuvettes](/tag/cuvettes), [sample-containers](/tag/sample-containers), [sample-prep](/tag/sample-prep), [oil-testing-kit](/tag/oil-testing-kit), [nano-drop](/tag/nano-drop), [question:spectrometry](/tag/question:spectrometry), [question:spectrometry-sampling](/tag/question:spectrometry-sampling), [question:spectrometry-turbidity](/tag/question:spectrometry-turbidity)
 
 ----
 

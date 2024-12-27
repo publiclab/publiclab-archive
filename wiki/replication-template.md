@@ -6,14 +6,14 @@ author: warren
 path: /wiki/replication-template.md
 nid: 15798
 uid: 1
-
+cids: 
 ---
 
 # replication-template
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-February 22, 2018 00:36 | Tags: [template](../tag/template), [parent:templates](../tag/parent:templates)
+February 22, 2018 00:36 | Tags: [template](/tag/template), [parent:templates](/tag/parent:templates)
 
 ----
 

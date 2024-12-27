@@ -6,18 +6,16 @@ author: megan
 path: /notes/megan/9-7-2012/first-experiment-analyzed.md
 nid: 3688
 uid: 775
-
 cids: 1304,1305
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Info correlated in gradient_0.jpg)
 
 # First Experiment Analyzed 
 
-by [megan](../../../profile/megan) | September 07, 2012 19:22
+by [megan](/profile/megan) | September 07, 2012 19:22
 
-September 07, 2012 19:22 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [new-mexico](../tag/new-mexico), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper)
+September 07, 2012 19:22 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [new-mexico](/tag/new-mexico), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [h2s-photopaper](/tag/h2s-photopaper)
 
 ----
 

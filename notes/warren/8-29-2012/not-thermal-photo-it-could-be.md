@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/8-29-2012/not-thermal-photo-it-could-be.md
 nid: 3559
 uid: 1
-
 cids: 4529,5475,6070
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Are-You-Really-Lost.JPG)
 
 # This is not a thermal photo but it could be...
 
-by [warren](../../../profile/warren) | August 29, 2012 13:28
+by [warren](/profile/warren) | August 29, 2012 13:28
 
-August 29, 2012 13:28 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight)
+August 29, 2012 13:28 | Tags: [thermal-photography](/tag/thermal-photography), [thermal-flashlight](/tag/thermal-flashlight)
 
 ----
 

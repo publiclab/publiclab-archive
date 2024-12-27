@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/05-22-2015/ifarm-aerial-panoramas.md
 nid: 11830
 uid: 554
-
 cids: 11744,11764,11765
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/973/original/201-208_214_9o9.jpg)
 
 # iFARM aerial panoramas
 
-by [cfastie](../../../profile/cfastie) | May 22, 2015 21:46
+by [cfastie](/profile/cfastie) | May 22, 2015 21:46
 
-May 22, 2015 21:46 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [new-hampshire](../tag/new-hampshire), [uav](../tag/uav), [farm](../tag/farm), [kap](../tag/kap), [autokap](../tag/autokap), [ifarm](../tag/ifarm), [2015](../tag/2015), [hack](../tag/hack), [nh](../tag/nh), [ifarm2015](../tag/ifarm2015), [response:11825](../tag/response:11825), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield)
+May 22, 2015 21:46 | Tags: [kite-aerial-photography](/tag/kite-aerial-photography), [new-hampshire](/tag/new-hampshire), [uav](/tag/uav), [farm](/tag/farm), [kap](/tag/kap), [autokap](/tag/autokap), [ifarm](/tag/ifarm), [2015](/tag/2015), [hack](/tag/hack), [nh](/tag/nh), [ifarm2015](/tag/ifarm2015), [response:11825](/tag/response:11825), [saturnv](/tag/saturnv), [skyshield](/tag/skyshield)
 
 ----
 

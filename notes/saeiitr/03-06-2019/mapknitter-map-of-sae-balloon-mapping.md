@@ -6,16 +6,14 @@ author: saeiitr
 path: /notes/saeiitr/03-06-2019/mapknitter-map-of-sae-balloon-mapping.md
 nid: 18475
 uid: 577444
-
 cids: 22095,22096
-
 ---
 
 # MapKnitter map of SAE Balloon Mapping
 
-by [saeiitr](../../../profile/saeiitr) | March 06, 2019 18:53
+by [saeiitr](/profile/saeiitr) | March 06, 2019 18:53
 
-March 06, 2019 18:53 | Tags: [mapknitter](../tag/mapknitter), [first-time-poster](../tag/first-time-poster), [lat:29.8648599](../tag/lat:29.8648599), [lon:77.8965787](../tag/lon:77.8965787)
+March 06, 2019 18:53 | Tags: [mapknitter](/tag/mapknitter), [first-time-poster](/tag/first-time-poster), [lat:29.8648599](/tag/lat:29.8648599), [lon:77.8965787](/tag/lon:77.8965787)
 
 ----
 

@@ -6,16 +6,14 @@ author: gangrin
 path: /notes/gangrin/09-28-2015/bluelight.md
 nid: 12247
 uid: 452627
-
 cids: 
-
 ---
 
 # Bluelight
 
-by [gangrin](../../../profile/gangrin) | September 28, 2015 07:22
+by [gangrin](/profile/gangrin) | September 28, 2015 07:22
 
-September 28, 2015 07:22 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [date:09-28-2015](../tag/date:09-28-2015)
+September 28, 2015 07:22 | Tags: [event](/tag/event), [event:rsvp](/tag/event:rsvp), [date:09-28-2015](/tag/date:09-28-2015)
 
 ----
 

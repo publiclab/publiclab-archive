@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/03-07-2016/web-working-group-monthly-recap-11-february-2016.md
 nid: 12781
 uid: 1
-
 cids: 13814
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/672/original/dash-sketch.jpg)
 
 # Web Working Group Monthly Recap 11: February 2016
 
-by [warren](../../../profile/warren) | March 07, 2016 22:15
+by [warren](/profile/warren) | March 07, 2016 22:15
 
-March 07, 2016 22:15 | Tags: [mapknitter](../tag/mapknitter), [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [spectral-workbench](../tag/spectral-workbench), [wwg](../tag/wwg), [webwg](../tag/webwg), [response:12660](../tag/response:12660)
+March 07, 2016 22:15 | Tags: [mapknitter](/tag/mapknitter), [web-development](/tag/web-development), [software](/tag/software), [plots2](/tag/plots2), [spectral-workbench](/tag/spectral-workbench), [wwg](/tag/wwg), [webwg](/tag/webwg), [response:12660](/tag/response:12660)
 
 ----
 

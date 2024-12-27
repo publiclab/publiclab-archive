@@ -6,16 +6,14 @@ author: adam-griffith
 path: /notes/adam-griffith/3-1-2011/barataria-bay-flyover.md
 nid: 107
 uid: 3
-
 cids: 
-
 ---
 
 # Barataria Bay Flyover
 
-by [adam-griffith](../../../profile/adam-griffith) | March 01, 2011 23:48
+by [adam-griffith](/profile/adam-griffith) | March 01, 2011 23:48
 
-March 01, 2011 23:48 | Tags: [gulf-coast](../tag/gulf-coast), [barataria-bay](../tag/barataria-bay), [louisiana](../tag/louisiana), [first-time-poster](../tag/first-time-poster)
+March 01, 2011 23:48 | Tags: [gulf-coast](/tag/gulf-coast), [barataria-bay](/tag/barataria-bay), [louisiana](/tag/louisiana), [first-time-poster](/tag/first-time-poster)
 
 ----
 

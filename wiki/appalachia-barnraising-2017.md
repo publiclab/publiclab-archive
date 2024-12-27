@@ -6,16 +6,16 @@ author: stevie
 path: /wiki/appalachia-barnraising-2017.md
 nid: 14687
 uid: 422561
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/214/original/Screen_Shot_2017-05-05_at_9.16.00_AM.png)
 
 # Appalachia Barnraising 2017
 
-by [stevie](../profile/stevie)
+by [stevie](/profile/stevie)
 
-July 26, 2017 20:45 | Tags: [barnraising](../tag/barnraising), [appalachia-barnraising](../tag/appalachia-barnraising)
+July 26, 2017 20:45 | Tags: [barnraising](/tag/barnraising), [appalachia-barnraising](/tag/appalachia-barnraising)
 
 ----
 

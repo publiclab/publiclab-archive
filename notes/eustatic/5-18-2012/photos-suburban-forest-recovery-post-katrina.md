@@ -6,18 +6,16 @@ author: eustatic
 path: /5-18-2012/photos-suburban-forest-recovery-post-katrina.md
 nid: 2131
 uid: 379
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Woodlands Conservancy Map Medium.PNG)
 
 # photos of a (sub)urban forest recovery Post-Katrina 
 
-by [eustatic](../../../profile/eustatic) | May 18, 2012 11:54
+by [eustatic](/profile/eustatic) | May 18, 2012 11:54
 
-May 18, 2012 11:54 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [wetlands](../tag/wetlands), [gulf-restoration-network](../tag/gulf-restoration-network), [coastalmonitoring](../tag/coastalmonitoring), [gulfrestorationnetwork](../tag/gulfrestorationnetwork), [lousiana](../tag/lousiana)
+May 18, 2012 11:54 | Tags: [gulf-coast](/tag/gulf-coast), [balloon-mapping](/tag/balloon-mapping), [wetlands](/tag/wetlands), [gulf-restoration-network](/tag/gulf-restoration-network), [coastalmonitoring](/tag/coastalmonitoring), [gulfrestorationnetwork](/tag/gulfrestorationnetwork), [lousiana](/tag/lousiana)
 
 ----
 

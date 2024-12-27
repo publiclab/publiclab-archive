@@ -6,14 +6,14 @@ author: gilbert
 path: /wiki/remote-sensing.md
 nid: 14618
 uid: 508551
-
+cids: 
 ---
 
 # Remote Sensing
 
-by [warren](../profile/warren), [gilbert](../profile/gilbert)
+by [warren](/profile/warren), [gilbert](/profile/gilbert)
 
-July 05, 2017 15:46 | Tags: [remote-sensing](../tag/remote-sensing), [satellite-imagery](../tag/satellite-imagery), [historic-aerial](../tag/historic-aerial), [americaview](../tag/americaview), [remote-sensing-data-availability](../tag/remote-sensing-data-availability), [parent:aerial-imagery-in-the-public-domain](../tag/parent:aerial-imagery-in-the-public-domain)
+July 05, 2017 15:46 | Tags: [remote-sensing](/tag/remote-sensing), [satellite-imagery](/tag/satellite-imagery), [historic-aerial](/tag/historic-aerial), [americaview](/tag/americaview), [remote-sensing-data-availability](/tag/remote-sensing-data-availability), [parent:aerial-imagery-in-the-public-domain](/tag/parent:aerial-imagery-in-the-public-domain)
 
 ----
 
@@ -21,12 +21,12 @@ This page lists selected publicly available archival remote sensing data.
 
 ### Questions
 
-[remote-sensing](../../tag/question:remote-sensing)
+[remote-sensing](/tag/question:remote-sensing)
 
 
 ## Activities
 
-[remote-sensing](../../tag/activity:remote-sensing)
+[remote-sensing](/tag/activity:remote-sensing)
 
 ****
 

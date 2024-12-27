@@ -6,14 +6,14 @@ author: liz
 path: /wiki/march-mapping-madness-ny-nj-ct-region.md
 nid: 860
 uid: 7
-
+cids: 
 ---
 
 # March Mapping Madness NY-NJ-CT
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-February 27, 2012 17:42 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [events:new-york-city](../tag/events:new-york-city)
+February 27, 2012 17:42 | Tags: [new-york-city](/tag/new-york-city), [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [events:new-york-city](/tag/events:new-york-city)
 
 ----
 

@@ -6,18 +6,16 @@ author: lperovich
 path: /notes/lperovich/08-26-2015/dock-test-data.md
 nid: 12172
 uid: 443410
-
 cids: 12453,12471
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/287/original/dockTest8.25.15.jpg)
 
 # Dock Test Data!
 
-by [lperovich](../../../profile/lperovich) | August 26, 2015 19:09
+by [lperovich](/profile/lperovich) | August 26, 2015 19:09
 
-August 26, 2015 19:09 | Tags: [water-quality](../tag/water-quality), [thermal-fishing-bob](../tag/thermal-fishing-bob), [thermal](../tag/thermal), [thermal-pollution](../tag/thermal-pollution), [riffle](../tag/riffle), [heat](../tag/heat), [multiple-input-thermal-fishing-bob](../tag/multiple-input-thermal-fishing-bob), [replication:689](../tag/replication:689)
+August 26, 2015 19:09 | Tags: [water-quality](/tag/water-quality), [thermal-fishing-bob](/tag/thermal-fishing-bob), [thermal](/tag/thermal), [thermal-pollution](/tag/thermal-pollution), [riffle](/tag/riffle), [heat](/tag/heat), [multiple-input-thermal-fishing-bob](/tag/multiple-input-thermal-fishing-bob), [replication:689](/tag/replication:689)
 
 ----
 

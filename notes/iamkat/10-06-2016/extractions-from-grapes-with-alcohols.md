@@ -6,18 +6,16 @@ author: iamkat
 path: /notes/iamkat/10-06-2016/extractions-from-grapes-with-alcohols.md
 nid: 13529
 uid: 492745
-
 cids: 15576,15589
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/287/original/GrapesW2Eth1.png)
 
 # Extractions from Grapes with Alcohols
 
-by [iamkat](../../../profile/iamkat) | October 06, 2016 15:58
+by [iamkat](/profile/iamkat) | October 06, 2016 15:58
 
-October 06, 2016 15:58 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [comparison](../tag/comparison), [extraction](../tag/extraction), [spectrum](../tag/spectrum), [grapes](../tag/grapes), [polyphenols](../tag/polyphenols), [alcohol](../tag/alcohol), [phytophenol](../tag/phytophenol), [anthocyanin](../tag/anthocyanin), [chemical_analysis](../tag/chemical_analysis)
+October 06, 2016 15:58 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [comparison](/tag/comparison), [extraction](/tag/extraction), [spectrum](/tag/spectrum), [grapes](/tag/grapes), [polyphenols](/tag/polyphenols), [alcohol](/tag/alcohol), [phytophenol](/tag/phytophenol), [anthocyanin](/tag/anthocyanin), [chemical_analysis](/tag/chemical_analysis)
 
 ----
 

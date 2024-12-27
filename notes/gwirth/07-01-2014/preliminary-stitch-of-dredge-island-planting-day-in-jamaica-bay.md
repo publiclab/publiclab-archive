@@ -6,18 +6,16 @@ author: gwirth
 path: /notes/gwirth/07-01-2014/preliminary-stitch-of-dredge-island-planting-day-in-jamaica-bay.md
 nid: 10640
 uid: 30539
-
 cids: 9390,9439,9555
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/075/original/Screen_Shot_2014-06-27_at_2.26.16_PM.png)
 
 # Preliminary Stitch of Dredge Island Planting Day in Jamaica Bay 
 
-by [gwirth](../../../profile/gwirth) | July 01, 2014 21:35
+by [gwirth](/profile/gwirth) | July 01, 2014 21:35
 
-July 01, 2014 21:35 | Tags: [new-york-city](../tag/new-york-city), [wetlands](../tag/wetlands), [jamaica-bay](../tag/jamaica-bay), [spartina](../tag/spartina), [nyc](../tag/nyc), [northeast](../tag/northeast), [bay](../tag/bay), [jamaica](../tag/jamaica), [dredge](../tag/dredge), [dredgeresearchcollaborative](../tag/dredgeresearchcollaborative), [location:blurred](../tag/location:blurred), [lat:40.6](../tag/lat:40.6), [lon:-73.8](../tag/lon:-73.8), [place:jamaica-bay](../tag/place:jamaica-bay)
+July 01, 2014 21:35 | Tags: [new-york-city](/tag/new-york-city), [wetlands](/tag/wetlands), [jamaica-bay](/tag/jamaica-bay), [spartina](/tag/spartina), [nyc](/tag/nyc), [northeast](/tag/northeast), [bay](/tag/bay), [jamaica](/tag/jamaica), [dredge](/tag/dredge), [dredgeresearchcollaborative](/tag/dredgeresearchcollaborative), [location:blurred](/tag/location:blurred), [lat:40.6](/tag/lat:40.6), [lon:-73.8](/tag/lon:-73.8), [place:jamaica-bay](/tag/place:jamaica-bay)
 
 ----
 

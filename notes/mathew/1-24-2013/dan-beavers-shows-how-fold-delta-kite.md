@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/1-24-2013/dan-beavers-shows-how-fold-delta-kite.md
 nid: 5694
 uid: 4
-
 cids: 3224
-
 ---
 
 ![](https://publiclab.org/sites/default/files/foldyourkite.gif)
 
 # Dan Beavers shows how to fold a Delta Kite
 
-by [mathew](../../../profile/mathew) | January 24, 2013 18:24
+by [mathew](/profile/mathew) | January 24, 2013 18:24
 
-January 24, 2013 18:24 | Tags: [kite](../tag/kite), [diy-kite](../tag/diy-kite), [homemade-kites](../tag/homemade-kites), [easy-cut-delta](../tag/easy-cut-delta)
+January 24, 2013 18:24 | Tags: [kite](/tag/kite), [diy-kite](/tag/diy-kite), [homemade-kites](/tag/homemade-kites), [easy-cut-delta](/tag/easy-cut-delta)
 
 ----
 

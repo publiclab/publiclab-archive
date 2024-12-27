@@ -6,16 +6,16 @@ author: liz
 path: /wiki/maine.md
 nid: 10479
 uid: 7
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/534/original/gac_050113_kidderpt_aerial_capt.jpg)
 
 # maine
 
-by [liz](../profile/liz), [ronhuber](../profile/ronhuber), [ajawitz](../profile/ajawitz)
+by [liz](/profile/liz), [ronhuber](/profile/ronhuber), [ajawitz](/profile/ajawitz)
 
-May 19, 2014 15:43 | Tags: [maine](../tag/maine), [northeast](../tag/northeast), [parent:northeast](../tag/parent:northeast), [phosphogypsum](../tag/phosphogypsum), [bauxite](../tag/bauxite), [alum](../tag/alum), [penobscot](../tag/penobscot)
+May 19, 2014 15:43 | Tags: [maine](/tag/maine), [northeast](/tag/northeast), [parent:northeast](/tag/parent:northeast), [phosphogypsum](/tag/phosphogypsum), [bauxite](/tag/bauxite), [alum](/tag/alum), [penobscot](/tag/penobscot)
 
 ----
 

@@ -6,18 +6,16 @@ author: jacktemp
 path: /notes/jacktemp/09-30-2014/follow-up-group-2-water-sample-results.md
 nid: 11210
 uid: 428016
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/138/original/unnamed.jpg)
 
 # Follow up — Group 2 Water Sample Results
 
-by [jacktemp](../../../profile/jacktemp) | September 30, 2014 20:44
+by [jacktemp](/profile/jacktemp) | September 30, 2014 20:44
 
-September 30, 2014 20:44 | Tags: [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [open-water](../tag/open-water), [coqui](../tag/coqui), [emerson](../tag/emerson), [parent:coqui](../tag/parent:coqui)
+September 30, 2014 20:44 | Tags: [water-quality](/tag/water-quality), [conductivity](/tag/conductivity), [open-water](/tag/open-water), [coqui](/tag/coqui), [emerson](/tag/emerson), [parent:coqui](/tag/parent:coqui)
 
 ----
 

@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/04-07-2015/designing-an-oil-testing-kit-cuvette-frame.md
 nid: 11750
 uid: 4
-
 cids: 11742,11743,11763,11772,11808,11809,11813
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/566/original/IMG_20150407_150745.jpg)
 
 # Designing an Oil Testing Kit Cuvette Frame
 
-by [mathew](../../../profile/mathew) | April 07, 2015 22:53
+by [mathew](/profile/mathew) | April 07, 2015 22:53
 
-April 07, 2015 22:53 | Tags: [laser](../tag/laser), [fluorescence](../tag/fluorescence), [desktop-spectrometer](../tag/desktop-spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [405nm](../tag/405nm), [otk](../tag/otk)
+April 07, 2015 22:53 | Tags: [laser](/tag/laser), [fluorescence](/tag/fluorescence), [desktop-spectrometer](/tag/desktop-spectrometer), [oil-testing-kit](/tag/oil-testing-kit), [405nm](/tag/405nm), [otk](/tag/otk)
 
 ----
 

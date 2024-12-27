@@ -6,16 +6,14 @@ author: gretchengehrke
 path: /notes/gretchengehrke/11-30-2017/are-there-air-quality-standards-for-hydrogen-sulfide.md
 nid: 15272
 uid: 430549
-
 cids: 22766
-
 ---
 
 # Are there air quality standards for hydrogen sulfide? 
 
-by [gretchengehrke](../../../profile/gretchengehrke) | November 30, 2017 17:37
+by [gretchengehrke](/profile/gretchengehrke) | November 30, 2017 17:37
 
-November 30, 2017 17:37 | Tags: [answered](../tag/answered), [question:question](../tag/question:question), [question:regulations](../tag/question:regulations), [question:hydrogen-sulfide](../tag/question:hydrogen-sulfide), [question:legal](../tag/question:legal), [question:hydrogen-sulfide-regulations](../tag/question:hydrogen-sulfide-regulations), [law-and-policy](../tag/law-and-policy), [question:law-and-policy](../tag/question:law-and-policy)
+November 30, 2017 17:37 | Tags: [answered](/tag/answered), [question:question](/tag/question:question), [question:regulations](/tag/question:regulations), [question:hydrogen-sulfide](/tag/question:hydrogen-sulfide), [question:legal](/tag/question:legal), [question:hydrogen-sulfide-regulations](/tag/question:hydrogen-sulfide-regulations), [law-and-policy](/tag/law-and-policy), [question:law-and-policy](/tag/question:law-and-policy)
 
 ----
 

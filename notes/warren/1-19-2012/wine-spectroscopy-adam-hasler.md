@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/1-19-2012/wine-spectroscopy-adam-hasler.md
 nid: 706
 uid: 1
-
 cids: 408,409,1211,1242
-
 ---
 
 ![](https://publiclab.org/sites/default/files/wine.jpg)
 
 # Wine spectroscopy with Adam Hasler
 
-by [warren](../../../profile/warren) | January 19, 2012 15:47
+by [warren](/profile/warren) | January 19, 2012 15:47
 
-January 19, 2012 15:47 | Tags: [spectrometer](../tag/spectrometer), [wine](../tag/wine), [absorption-spectrometry](../tag/absorption-spectrometry)
+January 19, 2012 15:47 | Tags: [spectrometer](/tag/spectrometer), [wine](/tag/wine), [absorption-spectrometry](/tag/absorption-spectrometry)
 
 ----
 

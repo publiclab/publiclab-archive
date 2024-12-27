@@ -6,14 +6,14 @@ author: mathew
 path: /wiki/tech-review.md
 nid: 12936
 uid: 4
-
+cids: 
 ---
 
 # tech-review
 
-by [mathew](../profile/mathew)
+by [mathew](/profile/mathew)
 
-April 07, 2016 21:31 | Tags: [method](../tag/method)
+April 07, 2016 21:31 | Tags: [method](/tag/method)
 
 ----
 

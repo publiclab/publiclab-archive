@@ -6,16 +6,14 @@ author: gonzoearth
 path: /notes/gonzoearth/12-16-2011/kickstarter-rewards.md
 nid: 645
 uid: 12
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/kickstarter-rewards.jpg)
 
 # Kickstarter Rewards
 
-by [gonzoearth](../../../profile/gonzoearth) | December 16, 2011 22:32
+by [gonzoearth](/profile/gonzoearth) | December 16, 2011 22:32
 
 December 16, 2011 22:32 | Tags: 
 

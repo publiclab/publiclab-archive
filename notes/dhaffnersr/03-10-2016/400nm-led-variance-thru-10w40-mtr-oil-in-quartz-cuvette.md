@@ -6,18 +6,16 @@ author: dhaffnersr
 path: /notes/dhaffnersr/03-10-2016/400nm-led-variance-thru-10w40-mtr-oil-in-quartz-cuvette.md
 nid: 12826
 uid: 461120
-
 cids: 13854,13855,13858,13859,13871,13874
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/738/original/led_variance_test_mar10.png)
 
 # 400nm LED variance thru 10w40 mtr oil in Quartz cuvette
 
-by [dhaffnersr](../../../profile/dhaffnersr) | March 10, 2016 17:38
+by [dhaffnersr](/profile/dhaffnersr) | March 10, 2016 17:38
 
-March 10, 2016 17:38 | Tags: [response:12818](../tag/response:12818)
+March 10, 2016 17:38 | Tags: [response:12818](/tag/response:12818)
 
 ----
 

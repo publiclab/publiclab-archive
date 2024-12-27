@@ -6,12 +6,12 @@ author: liz
 path: /wiki/air-quality-class-5.md
 nid: 6092
 uid: 7
-
+cids: 
 ---
 
 # Air Quality Class 5
 
-by [philipsilva](../profile/philipsilva), [MrDan13](../profile/MrDan13), [georgiabullen](../profile/georgiabullen), [liz](../profile/liz)
+by [philipsilva](/profile/philipsilva), [MrDan13](/profile/MrDan13), [georgiabullen](/profile/georgiabullen), [liz](/profile/liz)
 
 February 22, 2013 17:06 | Tags: 
 

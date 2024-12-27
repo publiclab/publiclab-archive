@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/02-16-2017/public-lab-nonprofit-job-posting-open-hardware-community-manager.md
 nid: 13934
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/154/original/plots-logo-transparent.jpg)
 
 # Public Lab nonprofit job posting: Open Hardware Community Manager
 
-by [Shannon](../../../profile/Shannon) | February 16, 2017 15:43
+by [Shannon](/profile/Shannon) | February 16, 2017 15:43
 
-February 16, 2017 15:43 | Tags: [nonprofit](../tag/nonprofit), [jobs](../tag/jobs)
+February 16, 2017 15:43 | Tags: [nonprofit](/tag/nonprofit), [jobs](/tag/jobs)
 
 ----
 

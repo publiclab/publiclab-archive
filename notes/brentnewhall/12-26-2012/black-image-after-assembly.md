@@ -6,18 +6,16 @@ author: BrentNewhall
 path: /notes/brentnewhall/12-26-2012/black-image-after-assembly.md
 nid: 5353
 uid: 45471
-
 cids: 2824,2827,2835,2852,2856,2944
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Spectrometer 9 inches from CFL_0.jpg)
 
 # Black image after assembly
 
-by [BrentNewhall](../../../profile/BrentNewhall) | December 26, 2012 16:51
+by [BrentNewhall](/profile/BrentNewhall) | December 26, 2012 16:51
 
-December 26, 2012 16:51 | Tags: [calibration](../tag/calibration), [kit](../tag/kit), [first-time-poster](../tag/first-time-poster)
+December 26, 2012 16:51 | Tags: [calibration](/tag/calibration), [kit](/tag/kit), [first-time-poster](/tag/first-time-poster)
 
 ----
 

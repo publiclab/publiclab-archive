@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/08-01-2016/absorption-spectra-of-extra-virgin-olive-oil-supplementation-part-iii.md
 nid: 13320
 uid: 461120
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/291/original/EVOO_july_31.png)
 
 # Absorption spectra of extra virgin olive oil-Supplementation part III 
 
-by [dhaffnersr](../../../profile/dhaffnersr) | August 01, 2016 11:51
+by [dhaffnersr](/profile/dhaffnersr) | August 01, 2016 11:51
 
 August 01, 2016 11:51 | Tags: 
 

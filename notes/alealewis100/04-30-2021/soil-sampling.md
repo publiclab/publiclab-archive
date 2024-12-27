@@ -6,18 +6,16 @@ author: alealewis100
 path: /notes/alealewis100/04-30-2021/soil-sampling.md
 nid: 26430
 uid: 754778
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/631/original/MicrosoftTeams-image_%281%29.png)
 
 # Soil Sampling 
 
-by [alealewis100](../../../profile/alealewis100) | April 30, 2021 18:41
+by [alealewis100](/profile/alealewis100) | April 30, 2021 18:41
 
-April 30, 2021 18:41 | Tags: [lat:29](../tag/lat:29), [lon:-90](../tag/lon:-90), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6)
+April 30, 2021 18:41 | Tags: [lat:29](/tag/lat:29), [lon:-90](/tag/lon:-90), [first-time-poster](/tag/first-time-poster), [zoom:6](/tag/zoom:6)
 
 ----
 

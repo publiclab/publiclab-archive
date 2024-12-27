@@ -6,16 +6,14 @@ author: caseyrcampbell327
 path: /notes/caseyrcampbell327/09-30-2014/follow-up-on-bridget-and-casey-s-water-samples.md
 nid: 11208
 uid: 427892
-
 cids: 10483
-
 ---
 
 # Follow up on Bridget and Casey's water samples
 
-by [caseyrcampbell327](../../../profile/caseyrcampbell327) | September 30, 2014 13:59
+by [caseyrcampbell327](/profile/caseyrcampbell327) | September 30, 2014 13:59
 
-September 30, 2014 13:59 | Tags: [massachusetts](../tag/massachusetts), [plymouth](../tag/plymouth), [testing](../tag/testing), [water](../tag/water), [conductivity](../tag/conductivity), [journalism](../tag/journalism), [beacon](../tag/beacon), [hill](../tag/hill), [emerson](../tag/emerson), [college](../tag/college)
+September 30, 2014 13:59 | Tags: [massachusetts](/tag/massachusetts), [plymouth](/tag/plymouth), [testing](/tag/testing), [water](/tag/water), [conductivity](/tag/conductivity), [journalism](/tag/journalism), [beacon](/tag/beacon), [hill](/tag/hill), [emerson](/tag/emerson), [college](/tag/college)
 
 ----
 

@@ -6,18 +6,16 @@ author: jmacha
 path: /notes/jmacha/08-03-2022/important-update-from-public-lab.md
 nid: 34816
 uid: 423019
-
 cids: 30604,30628,30655,30661,30726,30733,30734,30807,30815,30879,31274,31306,31534
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/933/original/Public_Lab_Banner.png)
 
 # Important Update from Public Lab
 
-by [jmacha](../../../profile/jmacha) | August 03, 2022 19:55
+by [jmacha](/profile/jmacha) | August 03, 2022 19:55
 
-August 03, 2022 19:55 | Tags: [education](../tag/education), [events](../tag/events), [kits](../tag/kits), [spectralworkbench](../tag/spectralworkbench), [barnraising](../tag/barnraising), [organizing](../tag/organizing), [research](../tag/research), [fundraising](../tag/fundraising), [web](../tag/web), [blog](../tag/blog), [barnstar:basic](../tag/barnstar:basic), [kits-initiative](../tag/kits-initiative), [parent:mapknitter](../tag/parent:mapknitter), [publiclab.org](../tag/publiclab.org), [kits-store](../tag/kits-store), [updates](../tag/updates), [funding](../tag/funding)
+August 03, 2022 19:55 | Tags: [education](/tag/education), [events](/tag/events), [kits](/tag/kits), [spectralworkbench](/tag/spectralworkbench), [barnraising](/tag/barnraising), [organizing](/tag/organizing), [research](/tag/research), [fundraising](/tag/fundraising), [web](/tag/web), [blog](/tag/blog), [barnstar:basic](/tag/barnstar:basic), [kits-initiative](/tag/kits-initiative), [parent:mapknitter](/tag/parent:mapknitter), [publiclab.org](/tag/publiclab.org), [kits-store](/tag/kits-store), [updates](/tag/updates), [funding](/tag/funding)
 
 ----
 

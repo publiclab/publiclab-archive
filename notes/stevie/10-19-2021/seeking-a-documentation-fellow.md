@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/10-19-2021/seeking-a-documentation-fellow.md
 nid: 27947
 uid: 422561
-
 cids: 29339
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/939/original/Screen_Shot_2021-10-19_at_2.37.36_PM.png)
 
 # Seeking a Documentation Fellow
 
-by [stevie](../../../profile/stevie) | October 19, 2021 18:40
+by [stevie](/profile/stevie) | October 19, 2021 18:40
 
-October 19, 2021 18:40 | Tags: [documentation](../tag/documentation), [air-quality](../tag/air-quality), [jobs](../tag/jobs), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [job](../tag/job), [fellowship-team](../tag/fellowship-team), [careers](../tag/careers), [st-james](../tag/st-james), [with:travislondon](../tag/with:travislondon), [formosaplastics](../tag/formosaplastics)
+October 19, 2021 18:40 | Tags: [documentation](/tag/documentation), [air-quality](/tag/air-quality), [jobs](/tag/jobs), [fellows](/tag/fellows), [fellowship](/tag/fellowship), [job](/tag/job), [fellowship-team](/tag/fellowship-team), [careers](/tag/careers), [st-james](/tag/st-james), [with:travislondon](/tag/with:travislondon), [formosaplastics](/tag/formosaplastics)
 
 ----
 

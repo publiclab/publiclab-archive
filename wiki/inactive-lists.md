@@ -6,14 +6,14 @@ author: stevie
 path: /wiki/inactive-lists.md
 nid: 15476
 uid: 422561
-
+cids: 
 ---
 
 # Inactive Lists 
 
-by [stevie](../profile/stevie)
+by [stevie](/profile/stevie)
 
-January 08, 2018 16:34 | Tags: [community](../tag/community), [forum](../tag/forum), [chat](../tag/chat), [forums](../tag/forums), [lists](../tag/lists), [discussion](../tag/discussion), [locked](../tag/locked)
+January 08, 2018 16:34 | Tags: [community](/tag/community), [forum](/tag/forum), [chat](/tag/chat), [forums](/tag/forums), [lists](/tag/lists), [discussion](/tag/discussion), [locked](/tag/locked)
 
 ----
 

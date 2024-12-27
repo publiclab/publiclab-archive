@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/04-18-2014/mobius-filter-o-matic.md
 nid: 10327
 uid: 554
-
 cids: 8811,8818,12019,12021
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/706/original/MobTest-379-83.jpg)
 
 # Mobius Filter-O-Matic
 
-by [cfastie](../../../profile/cfastie) | April 18, 2014 15:14
+by [cfastie](/profile/cfastie) | April 18, 2014 15:14
 
-April 18, 2014 15:14 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [3d-printing](../tag/3d-printing), [infragram-sandbox](../tag/infragram-sandbox), [mobius-actioncam](../tag/mobius-actioncam), [response:10324](../tag/response:10324), [mobius](../tag/mobius), [infragram-point-shoot](../tag/infragram-point-shoot), [upgrade:multispectral-imaging](../tag/upgrade:multispectral-imaging), [upgrade:mobius](../tag/upgrade:mobius), [upgrade:infragram-point-shoot](../tag/upgrade:infragram-point-shoot), [upgrade:mobius-action-cam](../tag/upgrade:mobius-action-cam)
+April 18, 2014 15:14 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [infrared](/tag/infrared), [infragram](/tag/infragram), [3d-printing](/tag/3d-printing), [infragram-sandbox](/tag/infragram-sandbox), [mobius-actioncam](/tag/mobius-actioncam), [response:10324](/tag/response:10324), [mobius](/tag/mobius), [infragram-point-shoot](/tag/infragram-point-shoot), [upgrade:multispectral-imaging](/tag/upgrade:multispectral-imaging), [upgrade:mobius](/tag/upgrade:mobius), [upgrade:infragram-point-shoot](/tag/upgrade:infragram-point-shoot), [upgrade:mobius-action-cam](/tag/upgrade:mobius-action-cam)
 
 ----
 

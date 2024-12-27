@@ -6,16 +6,14 @@ author: paigesolomon
 path: /notes/paigesolomon/02-23-2015/reflection-on-sensor-journalism.md
 nid: 11620
 uid: 434147
-
 cids: 
-
 ---
 
 # Reflection on Sensor Journalism
 
-by [paigesolomon](../../../profile/paigesolomon) | February 23, 2015 07:25
+by [paigesolomon](/profile/paigesolomon) | February 23, 2015 07:25
 
-February 23, 2015 07:25 | Tags: [water](../tag/water), [data](../tag/data), [journalism](../tag/journalism), [sensor](../tag/sensor), [sensor-journalism](../tag/sensor-journalism)
+February 23, 2015 07:25 | Tags: [water](/tag/water), [data](/tag/data), [journalism](/tag/journalism), [sensor](/tag/sensor), [sensor-journalism](/tag/sensor-journalism)
 
 ----
 

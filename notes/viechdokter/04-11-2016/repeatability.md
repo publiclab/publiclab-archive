@@ -6,18 +6,16 @@ author: viechdokter
 path: /notes/viechdokter/04-11-2016/repeatability.md
 nid: 12959
 uid: 468990
-
 cids: 14178,14179,14180,14181,14182,14185,14186
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/496/original/Repeatability_-_header.jpg)
 
 # Repeatability
 
-by [viechdokter](../../../profile/viechdokter) | April 11, 2016 22:26
+by [viechdokter](/profile/viechdokter) | April 11, 2016 22:26
 
-April 11, 2016 22:26 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:empiricism](../tag/barnstar:empiricism), [repeatability](../tag/repeatability), [empiricism](../tag/empiricism)
+April 11, 2016 22:26 | Tags: [spectrometer](/tag/spectrometer), [oil-testing-kit](/tag/oil-testing-kit), [barnstar:empiricism](/tag/barnstar:empiricism), [repeatability](/tag/repeatability), [empiricism](/tag/empiricism)
 
 ----
 

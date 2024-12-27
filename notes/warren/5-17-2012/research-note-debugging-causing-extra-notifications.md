@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/5-17-2012/research-note-debugging-causing-extra-notifications.md
 nid: 2103
 uid: 1
-
 cids: 
-
 ---
 
 # Research Note debugging causing extra notifications
 
-by [warren](../../../profile/warren) | May 17, 2012 18:32
+by [warren](/profile/warren) | May 17, 2012 18:32
 
-May 17, 2012 18:32 | Tags: [bugs](../tag/bugs), [server-status](../tag/server-status)
+May 17, 2012 18:32 | Tags: [bugs](/tag/bugs), [server-status](/tag/server-status)
 
 ----
 

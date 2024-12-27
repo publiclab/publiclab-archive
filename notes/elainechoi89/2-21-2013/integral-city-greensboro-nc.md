@@ -6,18 +6,16 @@ author: elainechoi89
 path: /notes/elainechoi89/2-21-2013/integral-city-greensboro-nc.md
 nid: 6080
 uid: 6102
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen Shot 2013-02-21 at 2.39.00 PM_0.png)
 
 # Integral City: Greensboro, NC
 
-by [elainechoi89](../../../profile/elainechoi89) | February 21, 2013 19:44
+by [elainechoi89](/profile/elainechoi89) | February 21, 2013 19:44
 
-February 21, 2013 19:44 | Tags: [balloon-mapping](../tag/balloon-mapping), [southeast](../tag/southeast)
+February 21, 2013 19:44 | Tags: [balloon-mapping](/tag/balloon-mapping), [southeast](/tag/southeast)
 
 ----
 

@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/08-01-2014/annotating-the-north-shore.md
 nid: 11003
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/722/original/IMG_2048.JPG)
 
 # Annotating the North Shore
 
-by [liz](../../../profile/liz) | August 01, 2014 20:01
+by [liz](/profile/liz) | August 01, 2014 20:01
 
-August 01, 2014 20:01 | Tags: [staten-island](../tag/staten-island)
+August 01, 2014 20:01 | Tags: [staten-island](/tag/staten-island)
 
 ----
 

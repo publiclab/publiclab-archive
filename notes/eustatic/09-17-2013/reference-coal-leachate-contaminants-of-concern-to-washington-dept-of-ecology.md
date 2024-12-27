@@ -6,18 +6,16 @@ author: eustatic
 path: /09-17-2013/reference-coal-leachate-contaminants-of-concern-to-washington-dept-of-ecology.md
 nid: 9335
 uid: 379
-
 cids: 6953
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/575/original/United_Bulk_2_september_post_issac.jpg)
 
 # Reference:  Coal leachate contaminants of concern to Washington Dept of Ecology
 
-by [eustatic](../../../profile/eustatic) | September 17, 2013 00:02
+by [eustatic](/profile/eustatic) | September 17, 2013 00:02
 
-September 17, 2013 00:02 | Tags: [gulf-coast](../tag/gulf-coast), [coal](../tag/coal), [coal-export](../tag/coal-export)
+September 17, 2013 00:02 | Tags: [gulf-coast](/tag/gulf-coast), [coal](/tag/coal), [coal-export](/tag/coal-export)
 
 ----
 

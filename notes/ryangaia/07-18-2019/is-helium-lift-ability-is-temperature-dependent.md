@@ -6,16 +6,14 @@ author: ryangaia
 path: /notes/ryangaia/07-18-2019/is-helium-lift-ability-is-temperature-dependent.md
 nid: 20181
 uid: 425275
-
 cids: 25064,25065
-
 ---
 
 # Is helium lift-ability is temperature dependent?
 
-by [ryangaia](../../../profile/ryangaia) | July 18, 2019 17:50
+by [ryangaia](/profile/ryangaia) | July 18, 2019 17:50
 
-July 18, 2019 17:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [california](../tag/california), [air-quality](../tag/air-quality), [helium](../tag/helium), [question:balloon-mapping](../tag/question:balloon-mapping), [question:helium](../tag/question:helium), [first-time-poster](../tag/first-time-poster), [saltonsea](../tag/saltonsea), [fav-balloon-mapping](../tag/fav-balloon-mapping)
+July 18, 2019 17:50 | Tags: [balloon-mapping](/tag/balloon-mapping), [california](/tag/california), [air-quality](/tag/air-quality), [helium](/tag/helium), [question:balloon-mapping](/tag/question:balloon-mapping), [question:helium](/tag/question:helium), [first-time-poster](/tag/first-time-poster), [saltonsea](/tag/saltonsea), [fav-balloon-mapping](/tag/fav-balloon-mapping)
 
 ----
 

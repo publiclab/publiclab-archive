@@ -6,14 +6,14 @@ author: warren
 path: /wiki/scanning-thermal-camera.md
 nid: 630
 uid: 1
-
+cids: 
 ---
 
 # Scanning thermal camera
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-December 13, 2011 16:20 | Tags: [thermal-photography](../tag/thermal-photography), [flir](../tag/flir), [thermal-camera](../tag/thermal-camera), [scanning](../tag/scanning)
+December 13, 2011 16:20 | Tags: [thermal-photography](/tag/thermal-photography), [flir](/tag/flir), [thermal-camera](/tag/thermal-camera), [scanning](/tag/scanning)
 
 ----
 

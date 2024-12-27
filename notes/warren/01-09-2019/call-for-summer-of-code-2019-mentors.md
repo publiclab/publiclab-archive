@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/01-09-2019/call-for-summer-of-code-2019-mentors.md
 nid: 18090
 uid: 1
-
 cids: 21686,21689,21732,21744,21747,21895,21960,21963,22022,22046,22047,22074,22100,22101,22197,23533,23549,23705,23807,23808,23942,23954,23960,24096,24097,24098
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/675/original/image.png)
 
 # Call for Summer of Code 2019 mentors!
 
-by [warren](../../../profile/warren) | January 09, 2019 16:50
+by [warren](/profile/warren) | January 09, 2019 16:50
 
-January 09, 2019 16:50 | Tags: [software](../tag/software), [outreach](../tag/outreach), [gsoc](../tag/gsoc), [google](../tag/google), [code](../tag/code), [software-outreach](../tag/software-outreach), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [summer-of-code](../tag/summer-of-code), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [call-for-mentors](../tag/call-for-mentors), [mentors](../tag/mentors), [mentorship](../tag/mentorship)
+January 09, 2019 16:50 | Tags: [software](/tag/software), [outreach](/tag/outreach), [gsoc](/tag/gsoc), [google](/tag/google), [code](/tag/code), [software-outreach](/tag/software-outreach), [rgsoc](/tag/rgsoc), [soc](/tag/soc), [summer-of-code](/tag/summer-of-code), [rgsoc-2019](/tag/rgsoc-2019), [gsoc-2019](/tag/gsoc-2019), [soc-2019](/tag/soc-2019), [call-for-mentors](/tag/call-for-mentors), [mentors](/tag/mentors), [mentorship](/tag/mentorship)
 
 ----
 

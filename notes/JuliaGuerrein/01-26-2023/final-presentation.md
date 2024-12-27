@@ -6,18 +6,16 @@ author: JuliaGuerrein
 path: /notes/JuliaGuerrein/01-26-2023/final-presentation.md
 nid: 38675
 uid: 796025
-
 cids: 30852,30866
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/420/original/signal-2023-01-18-11-45-45-418.png)
 
 # Final Presentation
 
-by [JuliaGuerrein](../../../profile/JuliaGuerrein) | January 26, 2023 02:14
+by [JuliaGuerrein](/profile/JuliaGuerrein) | January 26, 2023 02:14
 
-January 26, 2023 02:14 | Tags: [seeks:replications](../tag/seeks:replications), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [activity:mn-land-manoomin-protection](../tag/activity:mn-land-manoomin-protection)
+January 26, 2023 02:14 | Tags: [seeks:replications](/tag/seeks:replications), [mn-land-manoomin-protection](/tag/mn-land-manoomin-protection), [activity:mn-land-manoomin-protection](/tag/activity:mn-land-manoomin-protection)
 
 ----
 

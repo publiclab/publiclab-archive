@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/06-17-2013/white-balance.md
 nid: 8224
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/517/original/18WBsurface.jpg)
 
 # White balance
 
-by [cfastie](../../../profile/cfastie) | June 17, 2013 03:31
+by [cfastie](/profile/cfastie) | June 17, 2013 03:31
 
-June 17, 2013 03:31 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [response:8018](../tag/response:8018), [response:8196](../tag/response:8196)
+June 17, 2013 03:31 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [vermont](/tag/vermont), [white-balance](/tag/white-balance), [infragram](/tag/infragram), [infrablue](/tag/infrablue), [response:8018](/tag/response:8018), [response:8196](/tag/response:8196)
 
 ----
 

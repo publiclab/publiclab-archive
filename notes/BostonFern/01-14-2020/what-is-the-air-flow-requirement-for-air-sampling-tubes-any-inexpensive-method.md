@@ -6,16 +6,14 @@ author: BostonFern
 path: /notes/BostonFern/01-14-2020/what-is-the-air-flow-requirement-for-air-sampling-tubes-any-inexpensive-method.md
 nid: 22310
 uid: 643525
-
 cids: 26152,26158,26171,26243,26378
-
 ---
 
 # What is the air flow requirement for air sampling tubes?  Any inexpensive method?
 
-by [BostonFern](../../../profile/BostonFern) | January 14, 2020 21:05
+by [BostonFern](/profile/BostonFern) | January 14, 2020 21:05
 
-January 14, 2020 21:05 | Tags: [air-quality](../tag/air-quality), [formaldehyde](../tag/formaldehyde), [voc](../tag/voc), [question:general](../tag/question:general), [general](../tag/general)
+January 14, 2020 21:05 | Tags: [air-quality](/tag/air-quality), [formaldehyde](/tag/formaldehyde), [voc](/tag/voc), [question:general](/tag/question:general), [general](/tag/general)
 
 ----
 

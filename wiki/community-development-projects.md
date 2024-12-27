@@ -6,12 +6,12 @@ author: liz
 path: /wiki/community-development-projects.md
 nid: 13364
 uid: 7
-
+cids: 
 ---
 
 # community development projects
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
 August 18, 2016 14:41 | Tags: 
 

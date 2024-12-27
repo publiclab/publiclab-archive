@@ -6,18 +6,16 @@ author: natalie
 path: /notes/Natalie/02-18-2015/diy-camera-mount-for-pole-mapping.md
 nid: 11597
 uid: 424454
-
 cids: 11182,11193
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/002/original/IMG_1127.JPG)
 
 # DIY Camera Mount for Pole Mapping
 
-by [natalie](../../../profile/natalie) | February 18, 2015 02:37
+by [natalie](/profile/natalie) | February 18, 2015 02:37
 
-February 18, 2015 02:37 | Tags: [camera-rig-tests](../tag/camera-rig-tests), [polemapping](../tag/polemapping), [mapping](../tag/mapping), [pole-photography](../tag/pole-photography), [pole](../tag/pole), [pole-aerial-photography](../tag/pole-aerial-photography), [pole-mapping](../tag/pole-mapping), [low-aerial](../tag/low-aerial), [poles](../tag/poles)
+February 18, 2015 02:37 | Tags: [camera-rig-tests](/tag/camera-rig-tests), [polemapping](/tag/polemapping), [mapping](/tag/mapping), [pole-photography](/tag/pole-photography), [pole](/tag/pole), [pole-aerial-photography](/tag/pole-aerial-photography), [pole-mapping](/tag/pole-mapping), [low-aerial](/tag/low-aerial), [poles](/tag/poles)
 
 ----
 

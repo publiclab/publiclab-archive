@@ -6,18 +6,16 @@ author: tonyc
 path: /notes/tonyc/01-11-2016/riffle-testing.md
 nid: 12577
 uid: 447491
-
 cids: 13319,13320,13324,13334,13343
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/621/original/2016-01-11-152316.jpg)
 
 # Riffle testing
 
-by [tonyc](../../../profile/tonyc) | January 11, 2016 23:41
+by [tonyc](/profile/tonyc) | January 11, 2016 23:41
 
-January 11, 2016 23:41 | Tags: [riffle](../tag/riffle)
+January 11, 2016 23:41 | Tags: [riffle](/tag/riffle)
 
 ----
 

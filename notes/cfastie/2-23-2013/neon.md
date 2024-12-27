@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/2-23-2013/neon.md
 nid: 6105
 uid: 554
-
 cids: 3535
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Shin-2.jpg)
 
 # Neon
 
-by [cfastie](../../../profile/cfastie) | February 23, 2013 20:04
+by [cfastie](/profile/cfastie) | February 23, 2013 20:04
 
-February 23, 2013 20:04 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [ebert](../tag/ebert), [neon-sign](../tag/neon-sign), [neon](../tag/neon)
+February 23, 2013 20:04 | Tags: [spectrometer](/tag/spectrometer), [vermont](/tag/vermont), [ebert](/tag/ebert), [neon-sign](/tag/neon-sign), [neon](/tag/neon)
 
 ----
 

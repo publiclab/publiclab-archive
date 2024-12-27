@@ -6,14 +6,14 @@ author: warren
 path: /wiki/2011-harvard-gca-conference.md
 nid: 144
 uid: 1
-
+cids: 
 ---
 
 # 2011 Harvard GCA Conference
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-March 11, 2011 22:03 | Tags: [presentations](../tag/presentations), [talks](../tag/talks), [harvard](../tag/harvard)
+March 11, 2011 22:03 | Tags: [presentations](/tag/presentations), [talks](/tag/talks), [harvard](/tag/harvard)
 
 ----
 

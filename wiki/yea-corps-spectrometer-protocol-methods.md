@@ -6,14 +6,14 @@ author: SparkLab
 path: /wiki/yea-corps-spectrometer-protocol-methods.md
 nid: 8893
 uid: 170095
-
+cids: 
 ---
 
 # YEA Corps Spectrometer Protocol methods
 
-by [SparkLab](../profile/SparkLab)
+by [SparkLab](/profile/SparkLab)
 
-July 15, 2013 20:31 | Tags: [yea](../tag/yea), [yeacorps](../tag/yeacorps), [yeacorp](../tag/yeacorp), [yea_corps](../tag/yea_corps), [yea_corp](../tag/yea_corp)
+July 15, 2013 20:31 | Tags: [yea](/tag/yea), [yeacorps](/tag/yeacorps), [yeacorp](/tag/yeacorp), [yea_corps](/tag/yea_corps), [yea_corp](/tag/yea_corp)
 
 ----
 

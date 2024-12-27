@@ -6,18 +6,16 @@ author: mlamadrid
 path: /notes/mlamadrid/06-22-2016/local-knowledge-and-aerial-imagery.md
 nid: 13223
 uid: 45586
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/706/original/Howard-mine.jpeg)
 
 # Local  Knowledge and Aerial Imagery
 
-by [mlamadrid](../../../profile/mlamadrid) | June 22, 2016 00:54
+by [mlamadrid](/profile/mlamadrid) | June 22, 2016 00:54
 
-June 22, 2016 00:54 | Tags: [wisconsin](../tag/wisconsin), [blog](../tag/blog), [frac-sand](../tag/frac-sand), [parent:frac-sand](../tag/parent:frac-sand), [communityscienceforum](../tag/communityscienceforum), [with:marlokeno](../tag/with:marlokeno)
+June 22, 2016 00:54 | Tags: [wisconsin](/tag/wisconsin), [blog](/tag/blog), [frac-sand](/tag/frac-sand), [parent:frac-sand](/tag/parent:frac-sand), [communityscienceforum](/tag/communityscienceforum), [with:marlokeno](/tag/with:marlokeno)
 
 ----
 

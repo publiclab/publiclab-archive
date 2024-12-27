@@ -6,16 +6,16 @@ author: ajawitz
 path: /wiki/expanding-rural-transit-accesibility-through-open-source.md
 nid: 10216
 uid: 294634
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/369/original/BathTransitPrototype.png)
 
 # Expanding Rural Transit Accesibility through Open Source
 
-by [ajawitz](../profile/ajawitz)
+by [ajawitz](/profile/ajawitz)
 
-March 21, 2014 22:38 | Tags: [transit](../tag/transit)
+March 21, 2014 22:38 | Tags: [transit](/tag/transit)
 
 ----
 

@@ -6,18 +6,16 @@ author: nedhorning
 path: /notes/nedhorning/11-1-2012/update-photo-monitoring-plugin-imagejfiji.md
 nid: 4732
 uid: 133
-
 cids: 2605,2786,4037
-
 ---
 
 ![](https://publiclab.org/sites/default/files/RegPhotoFirstScreen.png)
 
 # Update on the photo monitoring plugin for ImageJ/Fiji
 
-by [nedhorning](../../../profile/nedhorning) | November 01, 2012 16:45
+by [nedhorning](/profile/nedhorning) | November 01, 2012 16:45
 
-November 01, 2012 16:45 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [plugin](../tag/plugin), [photo-monitoring](../tag/photo-monitoring)
+November 01, 2012 16:45 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [plugin](/tag/plugin), [photo-monitoring](/tag/photo-monitoring)
 
 ----
 

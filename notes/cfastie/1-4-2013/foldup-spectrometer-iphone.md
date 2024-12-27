@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/1-4-2013/foldup-spectrometer-iphone.md
 nid: 5414
 uid: 554
-
 cids: 2872,2894,2895,2940,2943,5637
-
 ---
 
 ![](https://publiclab.org/sites/default/files/foldup-20130102-3992angle2.jpg)
 
 # Foldup Spectrometer for iPhone
 
-by [cfastie](../../../profile/cfastie) | January 04, 2013 21:44
+by [cfastie](/profile/cfastie) | January 04, 2013 21:44
 
-January 04, 2013 21:44 | Tags: [spectrometer](../tag/spectrometer), [iphone](../tag/iphone), [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer), [fold-up](../tag/fold-up)
+January 04, 2013 21:44 | Tags: [spectrometer](/tag/spectrometer), [iphone](/tag/iphone), [fold-up-mini-spectrometer](/tag/fold-up-mini-spectrometer), [fold-up](/tag/fold-up)
 
 ----
 

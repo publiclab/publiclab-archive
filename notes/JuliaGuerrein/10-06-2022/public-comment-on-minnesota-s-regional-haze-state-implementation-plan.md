@@ -6,18 +6,16 @@ author: JuliaGuerrein
 path: /notes/JuliaGuerrein/10-06-2022/public-comment-on-minnesota-s-regional-haze-state-implementation-plan.md
 nid: 35032
 uid: 796025
-
 cids: 30729,30745,30785,30901,30902,31284,31287,31291,31293,31296
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/213/original/1622527496513.jpg)
 
 # Public Comment on Minnesota's Regional Haze State Implementation Plan
 
-by [JuliaGuerrein](../../../profile/JuliaGuerrein) | October 06, 2022 01:33
+by [JuliaGuerrein](/profile/JuliaGuerrein) | October 06, 2022 01:33
 
-October 06, 2022 01:33 | Tags: [air-quality](../tag/air-quality), [minnesota](../tag/minnesota), [haze](../tag/haze), [public-comment](../tag/public-comment), [lon:-90](../tag/lon:-90), [lat:40](../tag/lat:40), [zoom:4](../tag/zoom:4), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [regional-haze-state-implementation-plan](../tag/regional-haze-state-implementation-plan), [national-parks](../tag/national-parks)
+October 06, 2022 01:33 | Tags: [air-quality](/tag/air-quality), [minnesota](/tag/minnesota), [haze](/tag/haze), [public-comment](/tag/public-comment), [lon:-90](/tag/lon:-90), [lat:40](/tag/lat:40), [zoom:4](/tag/zoom:4), [mn-land-manoomin-protection](/tag/mn-land-manoomin-protection), [regional-haze-state-implementation-plan](/tag/regional-haze-state-implementation-plan), [national-parks](/tag/national-parks)
 
 ----
 

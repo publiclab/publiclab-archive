@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/07-23-2013/waterchestnut-big-picture.md
 nid: 8926
 uid: 554
-
 cids: 6353,6354,6358,6359,6360,6362,6363,6364,6366,6367,6410,6418,6420,6422,6425,6427,6428
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/903/original/hayangel1800.jpg)
 
 # WATERCHESTNUT Big Picture
 
-by [cfastie](../../../profile/cfastie) | July 23, 2013 22:20
+by [cfastie](/profile/cfastie) | July 23, 2013 22:20
 
-July 23, 2013 22:20 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [vegetation-mapping](../tag/vegetation-mapping), [lake](../tag/lake), [pvos](../tag/pvos), [event](../tag/event), [massachusetts](../tag/massachusetts), [invasive](../tag/invasive), [umass-amherst](../tag/umass-amherst), [aquatic](../tag/aquatic), [usfws](../tag/usfws), [classification](../tag/classification), [h2onutz](../tag/h2onutz), [invasive-species](../tag/invasive-species), [pioneer-valley](../tag/pioneer-valley)
+July 23, 2013 22:20 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [vermont](/tag/vermont), [vegetation-mapping](/tag/vegetation-mapping), [lake](/tag/lake), [pvos](/tag/pvos), [event](/tag/event), [massachusetts](/tag/massachusetts), [invasive](/tag/invasive), [umass-amherst](/tag/umass-amherst), [aquatic](/tag/aquatic), [usfws](/tag/usfws), [classification](/tag/classification), [h2onutz](/tag/h2onutz), [invasive-species](/tag/invasive-species), [pioneer-valley](/tag/pioneer-valley)
 
 ----
 

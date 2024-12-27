@@ -6,16 +6,14 @@ author: liz
 path: /notes/liz/11-15-2019/do-you-have-experience-using-a-gas-chromatograph.md
 nid: 21495
 uid: 7
-
 cids: 25858,26092,26118
-
 ---
 
 # Do you have experience using a gas chromatograph?
 
-by [liz](../../../profile/liz) | November 15, 2019 15:54
+by [liz](/profile/liz) | November 15, 2019 15:54
 
-November 15, 2019 15:54 | Tags: [question:general](../tag/question:general), [general](../tag/general), [gas-chromatograph](../tag/gas-chromatograph), [question:gas-chromatograph](../tag/question:gas-chromatograph), [creosote](../tag/creosote), [question:creosote](../tag/question:creosote)
+November 15, 2019 15:54 | Tags: [question:general](/tag/question:general), [general](/tag/general), [gas-chromatograph](/tag/gas-chromatograph), [question:gas-chromatograph](/tag/question:gas-chromatograph), [creosote](/tag/creosote), [question:creosote](/tag/question:creosote)
 
 ----
 

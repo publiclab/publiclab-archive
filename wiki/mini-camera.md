@@ -6,14 +6,14 @@ author: warren
 path: /wiki/mini-camera.md
 nid: 19405
 uid: 1
-
+cids: 
 ---
 
 # mini-camera
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-May 14, 2019 18:41 | Tags: [redirect:mini-cameras](../tag/redirect:mini-cameras)
+May 14, 2019 18:41 | Tags: [redirect:mini-cameras](/tag/redirect:mini-cameras)
 
 ----
 

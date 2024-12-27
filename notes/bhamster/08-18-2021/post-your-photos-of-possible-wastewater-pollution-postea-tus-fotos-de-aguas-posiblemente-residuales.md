@@ -6,18 +6,16 @@ author: bhamster
 path: /notes/bhamster/08-18-2021/post-your-photos-of-possible-wastewater-pollution-postea-tus-fotos-de-aguas-posiblemente-residuales.md
 nid: 27577
 uid: 664477
-
 cids: 29156,29184
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/678/original/Outfall_for_the_Hattiesburg_South_Sewage_Lagoon_copy.jpg)
 
 # Post your photos of possible wastewater pollution! / ¡Postea tus fotos de aguas posiblemente residuales! 📷
 
-by [bhamster](../../../profile/bhamster) | August 18, 2021 16:35
+by [bhamster](/profile/bhamster) | August 18, 2021 16:35
 
-August 18, 2021 16:35 | Tags: [sewage](../tag/sewage), [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [stormwater](../tag/stormwater), [lang:es](../tag/lang:es), [wastewater](../tag/wastewater), [with:alejobonifacio](../tag/with:alejobonifacio), [getting-started-wastewater](../tag/getting-started-wastewater), [wastewater-color](../tag/wastewater-color), [wastewater-advocacy](../tag/wastewater-advocacy)
+August 18, 2021 16:35 | Tags: [sewage](/tag/sewage), [water-quality](/tag/water-quality), [turbidity](/tag/turbidity), [stormwater](/tag/stormwater), [lang:es](/tag/lang:es), [wastewater](/tag/wastewater), [with:alejobonifacio](/tag/with:alejobonifacio), [getting-started-wastewater](/tag/getting-started-wastewater), [wastewater-color](/tag/wastewater-color), [wastewater-advocacy](/tag/wastewater-advocacy)
 
 ----
 

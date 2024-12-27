@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/5-27-2012/prototype-running-2-cameras-triggering-iphonechdk.md
 nid: 2220
 uid: 77
-
 cids: 781,782,783,804,828,22019
-
 ---
 
 ![](https://publiclab.org/sites/default/files/7271146692_c58354c49e_c.jpg)
 
 # Flew iPhone/CHDK robust prototype, 2 cameras triggering
 
-by [patcoyle](../../../profile/patcoyle) | May 27, 2012 04:44
+by [patcoyle](/profile/patcoyle) | May 27, 2012 04:44
 
-May 27, 2012 04:44 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [triggering](../tag/triggering), [chdk](../tag/chdk), [balloon-telemetry-kit](../tag/balloon-telemetry-kit)
+May 27, 2012 04:44 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [triggering](/tag/triggering), [chdk](/tag/chdk), [balloon-telemetry-kit](/tag/balloon-telemetry-kit)
 
 ----
 

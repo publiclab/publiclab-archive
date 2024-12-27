@@ -6,14 +6,14 @@ author: Shannon
 path: /wiki/interviews.md
 nid: 239
 uid: 9
-
+cids: 
 ---
 
 # Interviews
 
-by [Shannon](../profile/Shannon)
+by [Shannon](/profile/Shannon)
 
-May 16, 2011 16:34 | Tags: [interview](../tag/interview), [evaluation](../tag/evaluation)
+May 16, 2011 16:34 | Tags: [interview](/tag/interview), [evaluation](/tag/evaluation)
 
 ----
 

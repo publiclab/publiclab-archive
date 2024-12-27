@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/10-19-2017/where-do-you-send-air-grab-samples-to-for-testing.md
 nid: 15069
 uid: 422561
-
 cids: 22998,22999,27208
-
 ---
 
 # Where do you send air grab samples to for testing? 
 
-by [stevie](../../../profile/stevie) | October 19, 2017 20:12
+by [stevie](/profile/stevie) | October 19, 2017 20:12
 
-October 19, 2017 20:12 | Tags: [air-quality](../tag/air-quality), [lab](../tag/lab), [grab](../tag/grab), [air-sampling](../tag/air-sampling), [question:air-sampling](../tag/question:air-sampling), [grab-sampling](../tag/grab-sampling), [bucket-monitor](../tag/bucket-monitor), [question:bucket-monitor](../tag/question:bucket-monitor), [air-lab-testing](../tag/air-lab-testing), [question:air-lab-testing](../tag/question:air-lab-testing)
+October 19, 2017 20:12 | Tags: [air-quality](/tag/air-quality), [lab](/tag/lab), [grab](/tag/grab), [air-sampling](/tag/air-sampling), [question:air-sampling](/tag/question:air-sampling), [grab-sampling](/tag/grab-sampling), [bucket-monitor](/tag/bucket-monitor), [question:bucket-monitor](/tag/question:bucket-monitor), [air-lab-testing](/tag/air-lab-testing), [question:air-lab-testing](/tag/question:air-lab-testing)
 
 ----
 

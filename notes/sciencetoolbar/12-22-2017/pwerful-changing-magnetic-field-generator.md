@@ -6,18 +6,16 @@ author: sciencetoolbar
 path: /notes/sciencetoolbar/12-22-2017/pwerful-changing-magnetic-field-generator.md
 nid: 15421
 uid: 513114
-
 cids: 18009,18022,18026
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/574/original/neogymyum_magnets_spheres.jpg)
 
 # Powerful changing magnetic field generator 
 
-by [sciencetoolbar](../../../profile/sciencetoolbar) | December 22, 2017 11:29
+by [sciencetoolbar](/profile/sciencetoolbar) | December 22, 2017 11:29
 
-December 22, 2017 11:29 | Tags: [magnetic-field](../tag/magnetic-field), [magnetic-field-generator](../tag/magnetic-field-generator), [changing-magnetic-field-generator](../tag/changing-magnetic-field-generator), [magnetic-flux-generator](../tag/magnetic-flux-generator)
+December 22, 2017 11:29 | Tags: [magnetic-field](/tag/magnetic-field), [magnetic-field-generator](/tag/magnetic-field-generator), [changing-magnetic-field-generator](/tag/changing-magnetic-field-generator), [magnetic-flux-generator](/tag/magnetic-flux-generator)
 
 ----
 

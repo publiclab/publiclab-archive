@@ -6,16 +6,16 @@ author: bhamster
 path: /wiki/law-and-policy.md
 nid: 24116
 uid: 664477
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/123/original/No_planet_B_sign.jpg)
 
 # Law and Policy
 
-by [bhamster](../profile/bhamster), [liz](../profile/liz)
+by [bhamster](/profile/bhamster), [liz](/profile/liz)
 
-July 08, 2020 16:05 | Tags: [evidence](../tag/evidence), [reporting](../tag/reporting), [legal](../tag/legal), [regulations](../tag/regulations), [advocacy](../tag/advocacy), [enforcement](../tag/enforcement), [public-comment](../tag/public-comment), [permits](../tag/permits), [federal-regulations](../tag/federal-regulations), [state-regulations](../tag/state-regulations), [environmental-regulations](../tag/environmental-regulations), [parent:advocacy](../tag/parent:advocacy), [law-and-policy](../tag/law-and-policy)
+July 08, 2020 16:05 | Tags: [evidence](/tag/evidence), [reporting](/tag/reporting), [legal](/tag/legal), [regulations](/tag/regulations), [advocacy](/tag/advocacy), [enforcement](/tag/enforcement), [public-comment](/tag/public-comment), [permits](/tag/permits), [federal-regulations](/tag/federal-regulations), [state-regulations](/tag/state-regulations), [environmental-regulations](/tag/environmental-regulations), [parent:advocacy](/tag/parent:advocacy), [law-and-policy](/tag/law-and-policy)
 
 ----
 
@@ -55,7 +55,7 @@ _**What other resources related to law and policy would be helpful to collect he
 
 Questions tagged with `question:law-and-policy` will appear here
 
-[law-and-policy](../../tag/question:law-and-policy)
+[law-and-policy](/tag/question:law-and-policy)
 
 <br>
 
@@ -63,7 +63,7 @@ Questions tagged with `question:law-and-policy` will appear here
 
 Activities on Public Lab that have been tagged with `law-and-policy` will appear here
 
-[law-and-policy](../../tag/activity:law-and-policy)
+[law-and-policy](/tag/activity:law-and-policy)
 
 <hr>
 
@@ -90,7 +90,7 @@ You can find the full posts on “Citizen Science Investigations: aka 'Common Le
 
 The posts below include discussions and information on how community-collected data can become evidence in a legal case.
 
-[grid:series:evidence-project](../../tag/grid:series:evidence-project)
+[grid:series:evidence-project](/tag/grid:series:evidence-project)
 
 
 <hr>

@@ -6,18 +6,16 @@ author: MrDan13
 path: /notes/mrdan13/2-14-2013/air-quality-egg-chcs-classroom.md
 nid: 5981
 uid: 50414
-
 cids: 3521
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Air Quality Egg Classroom Location.jpg)
 
 # Air Quality Egg in CHCS Classroom
 
-by [MrDan13](../../../profile/MrDan13) | February 14, 2013 16:35
+by [MrDan13](/profile/MrDan13) | February 14, 2013 16:35
 
-February 14, 2013 16:35 | Tags: [new-york-city](../tag/new-york-city), [cypress-hills](../tag/cypress-hills), [chaq](../tag/chaq), [first-time-poster](../tag/first-time-poster)
+February 14, 2013 16:35 | Tags: [new-york-city](/tag/new-york-city), [cypress-hills](/tag/cypress-hills), [chaq](/tag/chaq), [first-time-poster](/tag/first-time-poster)
 
 ----
 

@@ -6,18 +6,16 @@ author: manetomapping
 path: /notes/manetomapping/10-08-2014/balloon-mapping-public-space-usage-at-a-pop-up-park-in-philadelphia.md
 nid: 11252
 uid: 59273
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/378/original/balloonmapping.jpg)
 
 # Balloon Mapping Public Space Usage at a Pop-Up Park in Philadelphia 
 
-by [manetomapping](../../../profile/manetomapping) | October 08, 2014 20:09
+by [manetomapping](/profile/manetomapping) | October 08, 2014 20:09
 
-October 08, 2014 20:09 | Tags: [balloon-mapping](../tag/balloon-mapping), [philadelphia](../tag/philadelphia), [public-space](../tag/public-space), [urban-design](../tag/urban-design), [northeast](../tag/northeast), [land-use](../tag/land-use), [first-time-poster](../tag/first-time-poster)
+October 08, 2014 20:09 | Tags: [balloon-mapping](/tag/balloon-mapping), [philadelphia](/tag/philadelphia), [public-space](/tag/public-space), [urban-design](/tag/urban-design), [northeast](/tag/northeast), [land-use](/tag/land-use), [first-time-poster](/tag/first-time-poster)
 
 ----
 

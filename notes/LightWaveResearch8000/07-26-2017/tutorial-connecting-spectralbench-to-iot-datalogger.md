@@ -6,16 +6,14 @@ author: LightWaveResearch8000
 path: /notes/LightWaveResearch8000/07-26-2017/tutorial-connecting-spectralbench-to-iot-datalogger.md
 nid: 14682
 uid: 510698
-
 cids: 
-
 ---
 
 # Tutorial Connecting SpectralBench To IoT Datalogger?
 
-by [LightWaveResearch8000](../../../profile/LightWaveResearch8000) | July 26, 2017 18:00
+by [LightWaveResearch8000](/profile/LightWaveResearch8000) | July 26, 2017 18:00
 
-July 26, 2017 18:00 | Tags: [arduino](../tag/arduino), [datalogger](../tag/datalogger), [sensor](../tag/sensor), [data-logging](../tag/data-logging), [question:general](../tag/question:general), [nano](../tag/nano), [response:14135](../tag/response:14135), [nano-data-logger](../tag/nano-data-logger)
+July 26, 2017 18:00 | Tags: [arduino](/tag/arduino), [datalogger](/tag/datalogger), [sensor](/tag/sensor), [data-logging](/tag/data-logging), [question:general](/tag/question:general), [nano](/tag/nano), [response:14135](/tag/response:14135), [nano-data-logger](/tag/nano-data-logger)
 
 ----
 

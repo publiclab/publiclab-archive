@@ -6,18 +6,16 @@ author: melaniescobar
 path: /notes/melaniescobar/02-24-2016/sensor-journalism-reflection.md
 nid: 12740
 uid: 461508
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/560/original/Sensor_Journalism-_Data_Viz.docx)
 
 # Sensor Journalism Reflection 
 
-by [melaniescobar](../../../profile/melaniescobar) | February 24, 2016 16:25
+by [melaniescobar](/profile/melaniescobar) | February 24, 2016 16:25
 
-February 24, 2016 16:25 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
+February 24, 2016 16:25 | Tags: [sensor-journalism](/tag/sensor-journalism), [response:12748](/tag/response:12748), [hidden:response](/tag/hidden:response)
 
 ----
 

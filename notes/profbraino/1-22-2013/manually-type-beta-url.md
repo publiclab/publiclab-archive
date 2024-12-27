@@ -6,14 +6,12 @@ author: prof_braino
 path: /notes/profbraino/1-22-2013/manually-type-beta-url.md
 nid: 5677
 uid: 48546
-
 cids: 
-
 ---
 
 # manually type beta url
 
-by [prof_braino](../../../profile/prof_braino) | January 22, 2013 17:56
+by [prof_braino](/profile/prof_braino) | January 22, 2013 17:56
 
 January 22, 2013 17:56 | Tags: 
 

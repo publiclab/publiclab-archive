@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/3-1-2012/triggering-a495-buttonusb.md
 nid: 881
 uid: 1
-
 cids: 507,509,517,518,538,539,540,613
-
 ---
 
 ![](https://publiclab.org/sites/default/files/dual-a490.jpg)
 
 # Triggering A495 by button/USB
 
-by [warren](../../../profile/warren) | March 01, 2012 21:39
+by [warren](/profile/warren) | March 01, 2012 21:39
 
 March 01, 2012 21:39 | Tags: 
 

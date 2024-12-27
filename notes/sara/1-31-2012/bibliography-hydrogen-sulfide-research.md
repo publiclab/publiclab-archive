@@ -6,18 +6,16 @@ author: sara
 path: /notes/sara/1-31-2012/bibliography-hydrogen-sulfide-research.md
 nid: 734
 uid: 8
-
 cids: 9096
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Horwell et al H2S image.png)
 
 # Bibliography for Hydrogen Sulfide Research
 
-by [sara](../../../profile/sara) | January 31, 2012 20:35
+by [sara](/profile/sara) | January 31, 2012 20:35
 
-January 31, 2012 20:35 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper), [bibliography](../tag/bibliography)
+January 31, 2012 20:35 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [h2s-photopaper](/tag/h2s-photopaper), [bibliography](/tag/bibliography)
 
 ----
 

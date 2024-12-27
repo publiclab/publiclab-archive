@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/11-14-2017/adafruit-feathers-for-datalogging.md
 nid: 15181
 uid: 554
-
 cids: 17719,17720,17755,26068,26082,26083,26102,26154
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/382/original/Feather_20171112-1556-2.JPG)
 
 # Adafruit Feathers for datalogging
 
-by [cfastie](../../../profile/cfastie) | November 14, 2017 02:22
+by [cfastie](/profile/cfastie) | November 14, 2017 02:22
 
-November 14, 2017 02:22 | Tags: [sensors](../tag/sensors), [datalogger](../tag/datalogger), [riffle](../tag/riffle), [data-logging](../tag/data-logging), [mini-pearl-logger](../tag/mini-pearl-logger), [location:blurred](../tag/location:blurred), [adafruit](../tag/adafruit), [feather](../tag/feather), [mayfly](../tag/mayfly), [place:india](../tag/place:india), [lat:22](../tag/lat:22), [datalogger-option](../tag/datalogger-option), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
+November 14, 2017 02:22 | Tags: [sensors](/tag/sensors), [datalogger](/tag/datalogger), [riffle](/tag/riffle), [data-logging](/tag/data-logging), [mini-pearl-logger](/tag/mini-pearl-logger), [location:blurred](/tag/location:blurred), [adafruit](/tag/adafruit), [feather](/tag/feather), [mayfly](/tag/mayfly), [place:india](/tag/place:india), [lat:22](/tag/lat:22), [datalogger-option](/tag/datalogger-option), [lon:76](/tag/lon:76), [zoom:6](/tag/zoom:6)
 
 ----
 

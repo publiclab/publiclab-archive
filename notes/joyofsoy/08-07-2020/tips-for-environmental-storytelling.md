@@ -6,18 +6,16 @@ author: joyofsoy
 path: /notes/joyofsoy/08-07-2020/tips-for-environmental-storytelling.md
 nid: 24285
 uid: 540844
-
 cids: 27224,27256,27257
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/427/original/power-station-smoke-character-man-chimneys-pollution-a-person-to-think-scenery.jpg)
 
 # Tips for environmental storytelling
 
-by [joyofsoy](../../../profile/joyofsoy) | August 07, 2020 15:54
+by [joyofsoy](/profile/joyofsoy) | August 07, 2020 15:54
 
-August 07, 2020 15:54 | Tags: [blog](../tag/blog), [storytelling](../tag/storytelling), [lat:29](../tag/lat:29), [lon:-90](../tag/lon:-90), [zoom:6](../tag/zoom:6), [tbt](../tag/tbt), [communications](../tag/communications), [data-advocacy](../tag/data-advocacy)
+August 07, 2020 15:54 | Tags: [blog](/tag/blog), [storytelling](/tag/storytelling), [lat:29](/tag/lat:29), [lon:-90](/tag/lon:-90), [zoom:6](/tag/zoom:6), [tbt](/tag/tbt), [communications](/tag/communications), [data-advocacy](/tag/data-advocacy)
 
 ----
 

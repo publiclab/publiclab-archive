@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/1-24-2011/kinect-3d-mapping-car.md
 nid: 58
 uid: 1
-
 cids: 37,38,24020
-
 ---
 
 ![](https://publiclab.org/sites/default/files/screen-shot-2011-01-22-at-10-24-19-pm.png)
 
 # Kinect for 3d mapping from a car
 
-by [warren](../../../profile/warren) | January 24, 2011 21:16
+by [warren](/profile/warren) | January 24, 2011 21:16
 
-January 24, 2011 21:16 | Tags: [3d](../tag/3d), [kinect](../tag/kinect)
+January 24, 2011 21:16 | Tags: [3d](/tag/3d), [kinect](/tag/kinect)
 
 ----
 

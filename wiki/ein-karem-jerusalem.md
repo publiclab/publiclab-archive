@@ -6,14 +6,14 @@ author: hagitkeysar
 path: /wiki/ein-karem-jerusalem.md
 nid: 1988
 uid: 152
-
+cids: 
 ---
 
 # Ein Karem, Jerusalem
 
-by [hagitkeysar](../profile/hagitkeysar), [warren](../profile/warren), [shaief](../profile/shaief)
+by [hagitkeysar](/profile/hagitkeysar), [warren](/profile/warren), [shaief](/profile/shaief)
 
-May 15, 2012 10:37 | Tags: [kite-mapping](../tag/kite-mapping), [education](../tag/education), [jerusalem](../tag/jerusalem)
+May 15, 2012 10:37 | Tags: [kite-mapping](/tag/kite-mapping), [education](/tag/education), [jerusalem](/tag/jerusalem)
 
 ----
 

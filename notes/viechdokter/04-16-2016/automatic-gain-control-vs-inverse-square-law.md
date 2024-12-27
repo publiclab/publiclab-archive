@@ -6,18 +6,16 @@ author: viechdokter
 path: /notes/viechdokter/04-16-2016/automatic-gain-control-vs-inverse-square-law.md
 nid: 12989
 uid: 468990
-
 cids: 14284,14285,14286,14290
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/591/original/Inverse_square_law.svg)
 
 # Automatic Gain Control vs. Inverse square law
 
-by [viechdokter](../../../profile/viechdokter) | April 16, 2016 16:07
+by [viechdokter](/profile/viechdokter) | April 16, 2016 16:07
 
-April 16, 2016 16:07 | Tags: [spectrometer](../tag/spectrometer), [intensity-calibration](../tag/intensity-calibration), [intensity](../tag/intensity), [distance](../tag/distance), [agc](../tag/agc), [gain-control](../tag/gain-control)
+April 16, 2016 16:07 | Tags: [spectrometer](/tag/spectrometer), [intensity-calibration](/tag/intensity-calibration), [intensity](/tag/intensity), [distance](/tag/distance), [agc](/tag/agc), [gain-control](/tag/gain-control)
 
 ----
 

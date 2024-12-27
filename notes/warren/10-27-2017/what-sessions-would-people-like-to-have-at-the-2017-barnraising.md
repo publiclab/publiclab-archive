@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/10-27-2017/what-sessions-would-people-like-to-have-at-the-2017-barnraising.md
 nid: 15103
 uid: 1
-
 cids: 17598,17599,22689,22690,22691,22694,22696,22697,22698,22699,22703
-
 ---
 
 # What sessions would people like to have at the 2017 Barnraising?
 
-by [warren](../../../profile/warren) | October 27, 2017 02:37
+by [warren](/profile/warren) | October 27, 2017 02:37
 
-October 27, 2017 02:37 | Tags: [barnraising](../tag/barnraising), [question:barnraising](../tag/question:barnraising), [planning](../tag/planning), [marketplace](../tag/marketplace), [open-space](../tag/open-space), [sessions](../tag/sessions)
+October 27, 2017 02:37 | Tags: [barnraising](/tag/barnraising), [question:barnraising](/tag/question:barnraising), [planning](/tag/planning), [marketplace](/tag/marketplace), [open-space](/tag/open-space), [sessions](/tag/sessions)
 
 ----
 

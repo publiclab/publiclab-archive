@@ -6,18 +6,16 @@ author: danbeavers
 path: /notes/danbeavers/08-21-2014/picayune-make-meeting-notes-for-16-august-2014.md
 nid: 11069
 uid: 51
-
 cids: 10093,10094
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/360/original/20140816_164550.jpg)
 
 # Picayune Make Meeting Notes for 16 August 2014
 
-by [danbeavers](../../../profile/danbeavers) | August 21, 2014 18:53
+by [danbeavers](/profile/danbeavers) | August 21, 2014 18:53
 
-August 21, 2014 18:53 | Tags: [surface-mount](../tag/surface-mount), [mississippi](../tag/mississippi), [event](../tag/event), [makerfaire](../tag/makerfaire), [circuit](../tag/circuit), [maker](../tag/maker), [event:rsvp](../tag/event:rsvp), [date:08-16-2014](../tag/date:08-16-2014), [circuit-board](../tag/circuit-board), [rackspace](../tag/rackspace), [etch](../tag/etch), [make](../tag/make)
+August 21, 2014 18:53 | Tags: [surface-mount](/tag/surface-mount), [mississippi](/tag/mississippi), [event](/tag/event), [makerfaire](/tag/makerfaire), [circuit](/tag/circuit), [maker](/tag/maker), [event:rsvp](/tag/event:rsvp), [date:08-16-2014](/tag/date:08-16-2014), [circuit-board](/tag/circuit-board), [rackspace](/tag/rackspace), [etch](/tag/etch), [make](/tag/make)
 
 ----
 

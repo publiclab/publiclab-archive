@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/08-19-2020/haam-2-plataforma-beal-y-metales-pesados.md
 nid: 24356
 uid: 495038
-
 cids: 27298,27307
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/563/original/haam2.jpg)
 
 # HAAM#2: Plataforma Beal y metales pesados
 
-by [imvec](../../../profile/imvec) | August 19, 2020 11:33
+by [imvec](/profile/imvec) | August 19, 2020 11:33
 
-August 19, 2020 11:33 | Tags: [heavy-metals](../tag/heavy-metals), [lang:es](../tag/lang:es), [espana](../tag/espana), [soil-quality](../tag/soil-quality), [spanish](../tag/spanish), [zoom:11](../tag/zoom:11), [haam](../tag/haam), [murcia](../tag/murcia), [metales-pesados](../tag/metales-pesados), [lat:37.622389](../tag/lat:37.622389), [lon:-0.880285](../tag/lon:-0.880285), [lat:37.624021](../tag/lat:37.624021), [lon:-0.885726](../tag/lon:-0.885726)
+August 19, 2020 11:33 | Tags: [heavy-metals](/tag/heavy-metals), [lang:es](/tag/lang:es), [espana](/tag/espana), [soil-quality](/tag/soil-quality), [spanish](/tag/spanish), [zoom:11](/tag/zoom:11), [haam](/tag/haam), [murcia](/tag/murcia), [metales-pesados](/tag/metales-pesados), [lat:37.622389](/tag/lat:37.622389), [lon:-0.880285](/tag/lon:-0.880285), [lat:37.624021](/tag/lat:37.624021), [lon:-0.885726](/tag/lon:-0.885726)
 
 ----
 

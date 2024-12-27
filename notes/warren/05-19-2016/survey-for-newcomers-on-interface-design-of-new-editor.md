@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/05-19-2016/survey-for-newcomers-on-interface-design-of-new-editor.md
 nid: 13129
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/272/original/IMG_20160523_111116-2.jpg)
 
 # Survey for newcomers on interface design of new editor
 
-by [warren](../../../profile/warren) | May 19, 2016 17:00
+by [warren](/profile/warren) | May 19, 2016 17:00
 
-May 19, 2016 17:00 | Tags: [software](../tag/software), [developers](../tag/developers), [code](../tag/code), [survey](../tag/survey), [editor](../tag/editor), [rich-editor](../tag/rich-editor), [newcomers](../tag/newcomers)
+May 19, 2016 17:00 | Tags: [software](/tag/software), [developers](/tag/developers), [code](/tag/code), [survey](/tag/survey), [editor](/tag/editor), [rich-editor](/tag/rich-editor), [newcomers](/tag/newcomers)
 
 ----
 

@@ -6,16 +6,16 @@ author: warren
 path: /wiki/oil-testing-kit-construction.md
 nid: 12014
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/459/original/IMG_20150521_143730_3_%28copy%29.jpg)
 
 # Oil Testing Kit Construction
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-June 26, 2015 18:39 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [parent:oil-testing-kit](../tag/parent:oil-testing-kit), [beta](../tag/beta)
+June 26, 2015 18:39 | Tags: [spectrometer](/tag/spectrometer), [oil-testing-kit](/tag/oil-testing-kit), [parent:oil-testing-kit](/tag/parent:oil-testing-kit), [beta](/tag/beta)
 
 ----
 

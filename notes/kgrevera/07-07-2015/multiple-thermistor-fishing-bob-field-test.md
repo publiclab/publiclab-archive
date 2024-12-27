@@ -6,18 +6,16 @@ author: kgrevera
 path: /notes/kgrevera/07-07-2015/multiple-thermistor-fishing-bob-field-test.md
 nid: 12036
 uid: 432001
-
 cids: 12116
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/552/original/Screen_Shot_2015-07-06_at_11.46.21_AM.png)
 
 # Multiple Thermistor Fishing Bob Field Test
 
-by [kgrevera](../../../profile/kgrevera) | July 07, 2015 20:05
+by [kgrevera](/profile/kgrevera) | July 07, 2015 20:05
 
-July 07, 2015 20:05 | Tags: [thermal-photography](../tag/thermal-photography), [cape-cod](../tag/cape-cod), [water-quality](../tag/water-quality), [thermal-fishing-bob](../tag/thermal-fishing-bob), [thermal](../tag/thermal), [thermal-pollution](../tag/thermal-pollution), [heat](../tag/heat), [multiple-input-thermal-fishing-bob](../tag/multiple-input-thermal-fishing-bob), [replication:689](../tag/replication:689), [upgrade:thermal-fishing-bob](../tag/upgrade:thermal-fishing-bob)
+July 07, 2015 20:05 | Tags: [thermal-photography](/tag/thermal-photography), [cape-cod](/tag/cape-cod), [water-quality](/tag/water-quality), [thermal-fishing-bob](/tag/thermal-fishing-bob), [thermal](/tag/thermal), [thermal-pollution](/tag/thermal-pollution), [heat](/tag/heat), [multiple-input-thermal-fishing-bob](/tag/multiple-input-thermal-fishing-bob), [replication:689](/tag/replication:689), [upgrade:thermal-fishing-bob](/tag/upgrade:thermal-fishing-bob)
 
 ----
 

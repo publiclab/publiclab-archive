@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/09-16-2016/what-s-the-best-way-to-archive-store-a-timelapse-video.md
 nid: 13454
 uid: 1
-
 cids: 18340,22285,22370
-
 ---
 
 # What's the best way to archive/store a timelapse video?
 
-by [warren](../../../profile/warren) | September 16, 2016 18:48
+by [warren](/profile/warren) | September 16, 2016 18:48
 
-September 16, 2016 18:48 | Tags: [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [question:timelapse](../tag/question:timelapse), [method82](../tag/method82), [smoke-school](../tag/smoke-school), [question:evidence](../tag/question:evidence), [question:legal](../tag/question:legal), [law-and-policy](../tag/law-and-policy), [question:law-and-policy](../tag/question:law-and-policy)
+September 16, 2016 18:48 | Tags: [photo-monitoring](/tag/photo-monitoring), [timelapse](/tag/timelapse), [question:timelapse](/tag/question:timelapse), [method82](/tag/method82), [smoke-school](/tag/smoke-school), [question:evidence](/tag/question:evidence), [question:legal](/tag/question:legal), [law-and-policy](/tag/law-and-policy), [question:law-and-policy](/tag/question:law-and-policy)
 
 ----
 

@@ -6,18 +6,16 @@ author: natevw
 path: /notes/natevw/4-9-2012/balloon-kit-tips.md
 nid: 1636
 uid: 804
-
 cids: 587
-
 ---
 
 ![](https://publiclab.org/sites/default/files/fusing_rope.jpg)
 
 # Balloon kit tips
 
-by [natevw](../../../profile/natevw) | April 10, 2012 02:40
+by [natevw](/profile/natevw) | April 10, 2012 02:40
 
-April 10, 2012 02:40 | Tags: [balloon-mapping](../tag/balloon-mapping), [mobile-phone-camera](../tag/mobile-phone-camera), [photo-rig](../tag/photo-rig), [diy-balloon](../tag/diy-balloon), [camera-rig](../tag/camera-rig), [first-time-poster](../tag/first-time-poster)
+April 10, 2012 02:40 | Tags: [balloon-mapping](/tag/balloon-mapping), [mobile-phone-camera](/tag/mobile-phone-camera), [photo-rig](/tag/photo-rig), [diy-balloon](/tag/diy-balloon), [camera-rig](/tag/camera-rig), [first-time-poster](/tag/first-time-poster)
 
 ----
 

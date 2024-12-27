@@ -6,18 +6,16 @@ author: Matej
 path: /notes/Matej/11-13-2015/separating-oil-from-water-by-freezing-the-water.md
 nid: 12405
 uid: 451808
-
 cids: 12897,12898,12901,12904,12907,12918,13064,13112,13173,13174,13555,13556
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/739/original/IMG_6508.JPG)
 
 # Separating Oil from Water by Freezing the Water
 
-by [Matej](../../../profile/Matej) | November 13, 2015 17:28
+by [Matej](/profile/Matej) | November 13, 2015 17:28
 
-November 13, 2015 17:28 | Tags: [spectrometer](../tag/spectrometer), [oil-spill](../tag/oil-spill), [oil](../tag/oil), [crude](../tag/crude), [water-quality](../tag/water-quality), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:basic](../tag/barnstar:basic), [sheen](../tag/sheen), [otk](../tag/otk), [os](../tag/os), [ost](../tag/ost), [freezing-oil](../tag/freezing-oil), [activity:spectrometry-sampling](../tag/activity:spectrometry-sampling)
+November 13, 2015 17:28 | Tags: [spectrometer](/tag/spectrometer), [oil-spill](/tag/oil-spill), [oil](/tag/oil), [crude](/tag/crude), [water-quality](/tag/water-quality), [oil-testing-kit](/tag/oil-testing-kit), [barnstar:basic](/tag/barnstar:basic), [sheen](/tag/sheen), [otk](/tag/otk), [os](/tag/os), [ost](/tag/ost), [freezing-oil](/tag/freezing-oil), [activity:spectrometry-sampling](/tag/activity:spectrometry-sampling)
 
 ----
 

@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/05-05-2015/evaluating-low-cost-optical-dust-sensors.md
 nid: 11783
 uid: 4
-
 cids: 11591,11593,11645,11708,11709,11711,12065,12547,12718,12719,12845,12846,13344,13626,14108,14110,14327,14334,14336,14337,14338,14339,14342
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/773/original/figD1.png)
 
 # Evaluating low-cost optical dust sensors
 
-by [mathew](../../../profile/mathew) | May 05, 2015 00:13
+by [mathew](/profile/mathew) | May 05, 2015 00:13
 
-May 05, 2015 00:13 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [air](../tag/air), [dustduino](../tag/dustduino), [dust](../tag/dust), [particulates](../tag/particulates), [speck](../tag/speck), [particle-sensing](../tag/particle-sensing), [openair](../tag/openair), [dylos](../tag/dylos), [airbeam](../tag/airbeam), [air-sensors](../tag/air-sensors)
+May 05, 2015 00:13 | Tags: [wisconsin](/tag/wisconsin), [air-quality](/tag/air-quality), [air](/tag/air), [dustduino](/tag/dustduino), [dust](/tag/dust), [particulates](/tag/particulates), [speck](/tag/speck), [particle-sensing](/tag/particle-sensing), [openair](/tag/openair), [dylos](/tag/dylos), [airbeam](/tag/airbeam), [air-sensors](/tag/air-sensors)
 
 ----
 

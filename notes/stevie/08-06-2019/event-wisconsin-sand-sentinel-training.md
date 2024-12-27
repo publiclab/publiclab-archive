@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/08-06-2019/event-wisconsin-sand-sentinel-training.md
 nid: 20438
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/371/original/Screen_Shot_2019-08-06_at_9.28.19_AM.png)
 
 # Event: Wisconsin Sand Sentinel Training 
 
-by [stevie](../../../profile/stevie) | August 06, 2019 13:26
+by [stevie](/profile/stevie) | August 06, 2019 13:26
 
-August 06, 2019 13:26 | Tags: [reporting](../tag/reporting), [event](../tag/event), [wisconsin](../tag/wisconsin), [legal](../tag/legal), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [midwest](../tag/midwest), [sentinel](../tag/sentinel), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program), [sand-sentinel](../tag/sand-sentinel), [law-and-policy](../tag/law-and-policy)
+August 06, 2019 13:26 | Tags: [reporting](/tag/reporting), [event](/tag/event), [wisconsin](/tag/wisconsin), [legal](/tag/legal), [frac-sand](/tag/frac-sand), [pm](/tag/pm), [midwest](/tag/midwest), [sentinel](/tag/sentinel), [parent:the-sand-sentinel-program](/tag/parent:the-sand-sentinel-program), [sand-sentinel](/tag/sand-sentinel), [law-and-policy](/tag/law-and-policy)
 
 ----
 

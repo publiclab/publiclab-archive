@@ -6,14 +6,14 @@ author: liz
 path: /wiki/march-mapping-madness.md
 nid: 827
 uid: 7
-
+cids: 
 ---
 
 # March Mapping Madness
 
-by [gonzoearth](../profile/gonzoearth), [sara](../profile/sara), [kjalbert](../profile/kjalbert), [warren](../profile/warren), [Hudonnoodles](../profile/Hudonnoodles), [kronick](../profile/kronick), [jimiwo](../profile/jimiwo), [patcoyle](../profile/patcoyle), [cfastie](../profile/cfastie), [MicheleTobias](../profile/MicheleTobias), [hagitkeysar](../profile/hagitkeysar), [jbreen](../profile/jbreen), [arlduc](../profile/arlduc), [liz](../profile/liz), [mathew](../profile/mathew), [adam-griffith](../profile/adam-griffith)
+by [gonzoearth](/profile/gonzoearth), [sara](/profile/sara), [kjalbert](/profile/kjalbert), [warren](/profile/warren), [Hudonnoodles](/profile/Hudonnoodles), [kronick](/profile/kronick), [jimiwo](/profile/jimiwo), [patcoyle](/profile/patcoyle), [cfastie](/profile/cfastie), [MicheleTobias](/profile/MicheleTobias), [hagitkeysar](/profile/hagitkeysar), [jbreen](/profile/jbreen), [arlduc](/profile/arlduc), [liz](/profile/liz), [mathew](/profile/mathew), [adam-griffith](/profile/adam-griffith)
 
-February 21, 2012 20:22 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [march-mapping-madness](../tag/march-mapping-madness)
+February 21, 2012 20:22 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [march-mapping-madness](/tag/march-mapping-madness)
 
 ----
 

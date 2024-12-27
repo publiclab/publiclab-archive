@@ -6,16 +6,14 @@ author: SyncPoint
 path: /notes/SyncPoint/02-06-2015/open-source-mapping-database.md
 nid: 11558
 uid: 434942
-
 cids: 11135,11165
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/825/original/Icarus_I__concept.png)
 
 # Open source mapping database
 
-by [SyncPoint](../../../profile/SyncPoint) | February 06, 2015 19:45
+by [SyncPoint](/profile/SyncPoint) | February 06, 2015 19:45
 
 February 06, 2015 19:45 | Tags: 
 

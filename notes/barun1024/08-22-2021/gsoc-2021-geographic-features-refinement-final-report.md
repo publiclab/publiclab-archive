@@ -6,18 +6,16 @@ author: barun1024
 path: /notes/barun1024/08-22-2021/gsoc-2021-geographic-features-refinement-final-report.md
 nid: 27614
 uid: 647185
-
 cids: 29173,29174,29206,29221
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/697/original/Geographic_features_refinement%281%29.png)
 
 # GSoC 2021: Geographic Features Refinement - Final Report 
 
-by [barun1024](../../../profile/barun1024) | August 22, 2021 20:01
+by [barun1024](/profile/barun1024) | August 22, 2021 20:01
 
-August 22, 2021 20:01 | Tags: [leaflet](../tag/leaflet), [soc](../tag/soc), [map](../tag/map), [geographic](../tag/geographic), [leaflet-environmental-layers](../tag/leaflet-environmental-layers), [lat:28.632746](../tag/lat:28.632746), [zoom:5](../tag/zoom:5), [soc-2021](../tag/soc-2021), [gsoc-2021](../tag/gsoc-2021), [soc-2021-final](../tag/soc-2021-final), [lon:77.43164](../tag/lon:77.43164)
+August 22, 2021 20:01 | Tags: [leaflet](/tag/leaflet), [soc](/tag/soc), [map](/tag/map), [geographic](/tag/geographic), [leaflet-environmental-layers](/tag/leaflet-environmental-layers), [lat:28.632746](/tag/lat:28.632746), [zoom:5](/tag/zoom:5), [soc-2021](/tag/soc-2021), [gsoc-2021](/tag/gsoc-2021), [soc-2021-final](/tag/soc-2021-final), [lon:77.43164](/tag/lon:77.43164)
 
 ----
 

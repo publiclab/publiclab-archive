@@ -6,18 +6,16 @@ author: Greenhorns
 path: /notes/Greenhorns/05-13-2021/proposed-wolfden-mine-at-pickett-mountain.md
 nid: 26582
 uid: 756206
-
 cids: 28779,28780,28791,28814,28863,29032,29403,31461,31463,31486
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/785/original/Screen_Shot_2021-05-13_at_5.10.38_PM.png)
 
 # Proposed Wolfden Mine at Pickett Mountain
 
-by [Greenhorns](../../../profile/Greenhorns) | May 13, 2021 21:44
+by [Greenhorns](/profile/Greenhorns) | May 13, 2021 21:44
 
-May 13, 2021 21:44 | Tags: [mining](../tag/mining), [water-quality](../tag/water-quality), [maine](../tag/maine), [mine](../tag/mine), [northeast](../tag/northeast), [lead](../tag/lead), [zinc](../tag/zinc), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [mines](../tag/mines), [lat:46.125882](../tag/lat:46.125882), [lon:-68.439756](../tag/lon:-68.439756), [questions:water-quality](../tag/questions:water-quality)
+May 13, 2021 21:44 | Tags: [mining](/tag/mining), [water-quality](/tag/water-quality), [maine](/tag/maine), [mine](/tag/mine), [northeast](/tag/northeast), [lead](/tag/lead), [zinc](/tag/zinc), [first-time-poster](/tag/first-time-poster), [zoom:6](/tag/zoom:6), [mines](/tag/mines), [lat:46.125882](/tag/lat:46.125882), [lon:-68.439756](/tag/lon:-68.439756), [questions:water-quality](/tag/questions:water-quality)
 
 ----
 

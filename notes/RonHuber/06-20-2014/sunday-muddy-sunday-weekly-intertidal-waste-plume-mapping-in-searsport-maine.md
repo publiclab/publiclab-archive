@@ -6,18 +6,16 @@ author: ronhuber
 path: /notes/RonHuber/06-20-2014/sunday-muddy-sunday-weekly-intertidal-waste-plume-mapping-in-searsport-maine.md
 nid: 10598
 uid: 437
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/910/original/gacshore_050113_aerial_cove_captions.jpg)
 
 # Sunday, Muddy Sunday!  weekly intertidal  waste plume mapping in Searsport Maine.
 
-by [ronhuber](../../../profile/ronhuber) | June 20, 2014 20:40
+by [ronhuber](/profile/ronhuber) | June 20, 2014 20:40
 
-June 20, 2014 20:40 | Tags: [maine](../tag/maine), [penobscot](../tag/penobscot), [bay](../tag/bay), [stockton](../tag/stockton), [harbor](../tag/harbor), [searsport](../tag/searsport)
+June 20, 2014 20:40 | Tags: [maine](/tag/maine), [penobscot](/tag/penobscot), [bay](/tag/bay), [stockton](/tag/stockton), [harbor](/tag/harbor), [searsport](/tag/searsport)
 
 ----
 

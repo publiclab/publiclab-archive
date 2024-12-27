@@ -6,16 +6,14 @@ author: eustatic
 path: /01-20-2021/how-do-we-get-relevant-pm-data-to-residents-in-under-10-minutes.md
 nid: 25501
 uid: 379
-
 cids: 27998,28003,28007,28024,28070,28824,28825,28827,29464
-
 ---
 
 # How do we get relevant PM data to residents in under 10 minutes?
 
-by [eustatic](../../../profile/eustatic) | January 20, 2021 03:24
+by [eustatic](/profile/eustatic) | January 20, 2021 03:24
 
-January 20, 2021 03:24 | Tags: [air-quality](../tag/air-quality), [pm](../tag/pm), [particulate-monitoring](../tag/particulate-monitoring), [weather-station](../tag/weather-station), [particulate-matter](../tag/particulate-matter), [activity:air-quality](../tag/activity:air-quality), [purpleair](../tag/purpleair), [sms](../tag/sms), [question:purpleair](../tag/question:purpleair), [healthygulf](../tag/healthygulf), [airwyn](../tag/airwyn), [iseechange](../tag/iseechange)
+January 20, 2021 03:24 | Tags: [air-quality](/tag/air-quality), [pm](/tag/pm), [particulate-monitoring](/tag/particulate-monitoring), [weather-station](/tag/weather-station), [particulate-matter](/tag/particulate-matter), [activity:air-quality](/tag/activity:air-quality), [purpleair](/tag/purpleair), [sms](/tag/sms), [question:purpleair](/tag/question:purpleair), [healthygulf](/tag/healthygulf), [airwyn](/tag/airwyn), [iseechange](/tag/iseechange)
 
 ----
 

@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/8-21-2012/bronx-river-soundview-park-oyster-reef-mapping.md
 nid: 3354
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Oyster spat at Soundview 8_21_12. 3.jpg)
 
 # Bronx River Soundview Park Oyster Reef Mapping
 
-by [liz](../../../profile/liz) | August 21, 2012 21:50
+by [liz](/profile/liz) | August 21, 2012 21:50
 
-August 21, 2012 21:50 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [oyster-reef](../tag/oyster-reef), [bronx](../tag/bronx), [oysters](../tag/oysters), [soundview-park](../tag/soundview-park), [river](../tag/river)
+August 21, 2012 21:50 | Tags: [new-york-city](/tag/new-york-city), [balloon-mapping](/tag/balloon-mapping), [oyster-reef](/tag/oyster-reef), [bronx](/tag/bronx), [oysters](/tag/oysters), [soundview-park](/tag/soundview-park), [river](/tag/river)
 
 ----
 

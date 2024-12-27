@@ -6,18 +6,16 @@ author: viechdokter
 path: /notes/viechdokter/04-13-2016/reproducibility-test-using-a-cfl-lamp.md
 nid: 12966
 uid: 468990
-
 cids: 14208,14214,14215,14218,14219,14221
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/515/original/CFL_reproducibility_animation.gif)
 
 # Reproducibility test using a CFL lamp
 
-by [viechdokter](../../../profile/viechdokter) | April 13, 2016 14:26
+by [viechdokter](/profile/viechdokter) | April 13, 2016 14:26
 
-April 13, 2016 14:26 | Tags: [spectrometer](../tag/spectrometer), [cfl](../tag/cfl), [lamp](../tag/lamp), [spectrum](../tag/spectrum), [reproducibility](../tag/reproducibility)
+April 13, 2016 14:26 | Tags: [spectrometer](/tag/spectrometer), [cfl](/tag/cfl), [lamp](/tag/lamp), [spectrum](/tag/spectrum), [reproducibility](/tag/reproducibility)
 
 ----
 

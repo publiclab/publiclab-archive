@@ -6,16 +6,14 @@ author: kellyraymond
 path: /notes/kellyraymond/03-05-2020/art-in-ruins-711-putnam-pike.md
 nid: 23050
 uid: 664202
-
 cids: 
-
 ---
 
 # Art in Ruins (711 Putnam Pike)
 
-by [kellyraymond](../../../profile/kellyraymond) | March 05, 2020 02:06
+by [kellyraymond](/profile/kellyraymond) | March 05, 2020 02:06
 
-March 05, 2020 02:06 | Tags: [hidden:response](../tag/hidden:response), [lat:41.7](../tag/lat:41.7), [zoom:8](../tag/zoom:8), [lon:-71.5](../tag/lon:-71.5), [zoom:10](../tag/zoom:10), [lat:41.877741](../tag/lat:41.877741), [lon:-71.570434](../tag/lon:-71.570434), [response:23080](../tag/response:23080)
+March 05, 2020 02:06 | Tags: [hidden:response](/tag/hidden:response), [lat:41.7](/tag/lat:41.7), [zoom:8](/tag/zoom:8), [lon:-71.5](/tag/lon:-71.5), [zoom:10](/tag/zoom:10), [lat:41.877741](/tag/lat:41.877741), [lon:-71.570434](/tag/lon:-71.570434), [response:23080](/tag/response:23080)
 
 ----
 

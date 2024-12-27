@@ -6,16 +6,14 @@ author: liz
 path: /notes/liz/10-24-2019/how-can-we-build-this-wind-turbine-to-power-lights.md
 nid: 21283
 uid: 7
-
 cids: 25743,25762,25763,25870,25876,25962
-
 ---
 
 # How can we build this wind turbine to power lights?
 
-by [liz](../../../profile/liz) | October 24, 2019 18:14
+by [liz](/profile/liz) | October 24, 2019 18:14
 
-October 24, 2019 18:14 | Tags: [wind](../tag/wind), [lebanon](../tag/lebanon), [bourjalshamali](../tag/bourjalshamali), [with:mustapha](../tag/with:mustapha), [question:wind](../tag/question:wind)
+October 24, 2019 18:14 | Tags: [wind](/tag/wind), [lebanon](/tag/lebanon), [bourjalshamali](/tag/bourjalshamali), [with:mustapha](/tag/with:mustapha), [question:wind](/tag/question:wind)
 
 ----
 

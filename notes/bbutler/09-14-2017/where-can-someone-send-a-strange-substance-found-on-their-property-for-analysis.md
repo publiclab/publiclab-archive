@@ -6,16 +6,14 @@ author: bbutler
 path: /notes/bbutler/09-14-2017/where-can-someone-send-a-strange-substance-found-on-their-property-for-analysis.md
 nid: 14896
 uid: 514395
-
 cids: 17381,17382,17383,17384,17385,17386,17387,17388,22902
-
 ---
 
 # Where can someone send a strange substance found on their property for analysis?
 
-by [bbutler](../../../profile/bbutler) | September 14, 2017 18:57
+by [bbutler](/profile/bbutler) | September 14, 2017 18:57
 
-September 14, 2017 18:57 | Tags: [soil](../tag/soil), [superfund](../tag/superfund), [toxic-waste](../tag/toxic-waste), [soil-sampling](../tag/soil-sampling), [question:sampling](../tag/question:sampling), [question:soil-sampling](../tag/question:soil-sampling), [question:superfund](../tag/question:superfund), [labs](../tag/labs), [question:soil](../tag/question:soil)
+September 14, 2017 18:57 | Tags: [soil](/tag/soil), [superfund](/tag/superfund), [toxic-waste](/tag/toxic-waste), [soil-sampling](/tag/soil-sampling), [question:sampling](/tag/question:sampling), [question:soil-sampling](/tag/question:soil-sampling), [question:superfund](/tag/question:superfund), [labs](/tag/labs), [question:soil](/tag/question:soil)
 
 ----
 

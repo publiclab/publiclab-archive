@@ -6,18 +6,16 @@ author: bhamster
 path: /notes/bhamster/01-31-2022/event-feb-8-kicking-off-a-research-area-review-on-mine-reclamation.md
 nid: 29605
 uid: 664477
-
 cids: 29616,29624,29625,29627,29628,29630,29632,29636,29637
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/348/original/Frac_sand_mine.jpg)
 
 # EVENT Feb. 8: Kicking off a research area review on mine reclamation
 
-by [bhamster](../../../profile/bhamster) | January 31, 2022 16:28
+by [bhamster](/profile/bhamster) | January 31, 2022 16:28
 
-January 31, 2022 16:28 | Tags: [event](../tag/event), [mining](../tag/mining), [event:rsvp](../tag/event:rsvp), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review), [research-curation-fellows-event](../tag/research-curation-fellows-event), [rsvp:pat](../tag/rsvp:pat), [reclamation](../tag/reclamation), [with:laurel_mire](../tag/with:laurel_mire), [mine-reclamation](../tag/mine-reclamation), [land-rehabilitation](../tag/land-rehabilitation), [rsvp:junior_walk1337](../tag/rsvp:junior_walk1337)
+January 31, 2022 16:28 | Tags: [event](/tag/event), [mining](/tag/mining), [event:rsvp](/tag/event:rsvp), [reviews](/tag/reviews), [research-area-review](/tag/research-area-review), [research-curation-fellows-event](/tag/research-curation-fellows-event), [rsvp:pat](/tag/rsvp:pat), [reclamation](/tag/reclamation), [with:laurel_mire](/tag/with:laurel_mire), [mine-reclamation](/tag/mine-reclamation), [land-rehabilitation](/tag/land-rehabilitation), [rsvp:junior_walk1337](/tag/rsvp:junior_walk1337)
 
 ----
 

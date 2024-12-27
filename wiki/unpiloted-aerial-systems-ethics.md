@@ -6,16 +6,16 @@ author: mollydanielsson
 path: /wiki/unpiloted-aerial-systems-ethics.md
 nid: 11563
 uid: 1259
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/856/original/my_little_dronie_christopher_smith.png)
 
 # Unpiloted Aerial Systems Ethics
 
-by [mollydanielsson](../profile/mollydanielsson)
+by [mollydanielsson](/profile/mollydanielsson)
 
-February 08, 2015 00:37 | Tags: [open-source](../tag/open-source), [gmf](../tag/gmf), [drones](../tag/drones), [grassrootsmappingforum](../tag/grassrootsmappingforum), [aerial-photos](../tag/aerial-photos), [style:fancy](../tag/style:fancy), [gmf-2](../tag/gmf-2)
+February 08, 2015 00:37 | Tags: [open-source](/tag/open-source), [gmf](/tag/gmf), [drones](/tag/drones), [grassrootsmappingforum](/tag/grassrootsmappingforum), [aerial-photos](/tag/aerial-photos), [style:fancy](/tag/style:fancy), [gmf-2](/tag/gmf-2)
 
 ----
 

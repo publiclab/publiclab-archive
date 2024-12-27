@@ -6,14 +6,14 @@ author: warren
 path: /wiki/issues.md
 nid: 2104
 uid: 1
-
+cids: 
 ---
 
 # Issues
 
-by [gauravano](../profile/gauravano), [warren](../profile/warren), [liz](../profile/liz)
+by [gauravano](/profile/gauravano), [warren](/profile/warren), [liz](/profile/liz)
 
-May 17, 2012 20:20 | Tags: [website](../tag/website), [troubleshooting](../tag/troubleshooting), [bugs](../tag/bugs), [issues](../tag/issues), [parent:website](../tag/parent:website), [website-utilities](../tag/website-utilities)
+May 17, 2012 20:20 | Tags: [website](/tag/website), [troubleshooting](/tag/troubleshooting), [bugs](/tag/bugs), [issues](/tag/issues), [parent:website](/tag/parent:website), [website-utilities](/tag/website-utilities)
 
 ----
 
@@ -44,7 +44,7 @@ In this example below, see how the graph can spike into 20 or 30 second load tim
 
 Here are issues reported by others:
 
-[website](../../tag/question:website)
+[website](/tag/question:website)
 
 Your help makes Public Lab better! **We deeply appreciate** your helping refine and improve this site.
 

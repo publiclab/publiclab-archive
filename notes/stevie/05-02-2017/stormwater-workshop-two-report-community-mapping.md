@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/05-02-2017/stormwater-workshop-two-report-community-mapping.md
 nid: 14158
 uid: 422561
-
 cids: 16910
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/334/original/20170408_141510.jpg)
 
 # Stormwater Workshop Two Report: Community Mapping
 
-by [stevie](../../../profile/stevie) | May 02, 2017 19:19
+by [stevie](/profile/stevie) | May 02, 2017 19:19
 
-May 02, 2017 19:19 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [mapping](../tag/mapping), [new-orleans](../tag/new-orleans), [stormwater](../tag/stormwater), [activity:stormwater](../tag/activity:stormwater)
+May 02, 2017 19:19 | Tags: [gulf-coast](/tag/gulf-coast), [balloon-mapping](/tag/balloon-mapping), [mapping](/tag/mapping), [new-orleans](/tag/new-orleans), [stormwater](/tag/stormwater), [activity:stormwater](/tag/activity:stormwater)
 
 ----
 

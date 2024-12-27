@@ -6,16 +6,16 @@ author: warren
 path: /wiki/mapmill.md
 nid: 141
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/428/original/Screen_Shot_2017-05-12_at_2.46.31_PM.png)
 
 # MapMill
 
-by [warren](../profile/warren), [liz](../profile/liz), [gonzoearth](../profile/gonzoearth)
+by [warren](/profile/warren), [liz](/profile/liz), [gonzoearth](/profile/gonzoearth)
 
-March 09, 2011 17:04 | Tags: [software](../tag/software), [needs-revision](../tag/needs-revision), [developers](../tag/developers), [mapmill](../tag/mapmill), [photo-sharing](../tag/photo-sharing)
+March 09, 2011 17:04 | Tags: [software](/tag/software), [needs-revision](/tag/needs-revision), [developers](/tag/developers), [mapmill](/tag/mapmill), [photo-sharing](/tag/photo-sharing)
 
 ----
 
@@ -31,7 +31,7 @@ For other approaches to photo sharing, see [Photo Sharing](/wiki/photo-sharing).
 
 ## Questions
 
-[mapmill](../../tag/question:mapmill)
+[mapmill](/tag/question:mapmill)
 
 ****
 

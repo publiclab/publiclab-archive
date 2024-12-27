@@ -6,16 +6,16 @@ author: cfastie
 path: /wiki/kaptery-aerial-rigs.md
 nid: 12188
 uid: 554
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/419/original/Kapolantrn-547-235.jpg)
 
 # KAPtery Aerial Rigs
 
-by [cfastie](../profile/cfastie)
+by [cfastie](/profile/cfastie)
 
-August 31, 2015 03:22 | Tags: [balloon-mapping](../tag/balloon-mapping), [picavet](../tag/picavet), [kite-aerial-photography](../tag/kite-aerial-photography), [agriculture](../tag/agriculture), [kite](../tag/kite), [kap](../tag/kap), [mining](../tag/mining), [balloon](../tag/balloon), [urban-planning](../tag/urban-planning), [3d-printing](../tag/3d-printing), [fracking](../tag/fracking), [tool](../tag/tool), [titan](../tag/titan), [kap-rigs](../tag/kap-rigs), [redstone](../tag/redstone), [land-use](../tag/land-use), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [pendulum](../tag/pendulum), [industry](../tag/industry), [aerobee](../tag/aerobee), [method](../tag/method), [land-change](../tag/land-change), [oil-and-gas](../tag/oil-and-gas)
+August 31, 2015 03:22 | Tags: [balloon-mapping](/tag/balloon-mapping), [picavet](/tag/picavet), [kite-aerial-photography](/tag/kite-aerial-photography), [agriculture](/tag/agriculture), [kite](/tag/kite), [kap](/tag/kap), [mining](/tag/mining), [balloon](/tag/balloon), [urban-planning](/tag/urban-planning), [3d-printing](/tag/3d-printing), [fracking](/tag/fracking), [tool](/tag/tool), [titan](/tag/titan), [kap-rigs](/tag/kap-rigs), [redstone](/tag/redstone), [land-use](/tag/land-use), [kaptery](/tag/kaptery), [saturnv](/tag/saturnv), [skyshield](/tag/skyshield), [pendulum](/tag/pendulum), [industry](/tag/industry), [aerobee](/tag/aerobee), [method](/tag/method), [land-change](/tag/land-change), [oil-and-gas](/tag/oil-and-gas)
 
 ----
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/first-contribution.md
 nid: 16325
 uid: 1
-
+cids: 
 ---
 
 # Your First Contribution on Public Lab
 
-by [bhamster](../profile/bhamster), [liz](../profile/liz), [warren](../profile/warren)
+by [bhamster](/profile/bhamster), [liz](/profile/liz), [warren](/profile/warren)
 
-May 10, 2018 21:44 | Tags: [welcome](../tag/welcome), [newcomers](../tag/newcomers), [first-timers](../tag/first-timers), [first-contribution](../tag/first-contribution)
+May 10, 2018 21:44 | Tags: [welcome](/tag/welcome), [newcomers](/tag/newcomers), [first-timers](/tag/first-timers), [first-contribution](/tag/first-contribution)
 
 ----
 

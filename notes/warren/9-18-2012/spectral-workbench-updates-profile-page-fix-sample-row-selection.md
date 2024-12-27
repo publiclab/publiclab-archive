@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/9-18-2012/spectral-workbench-updates-profile-page-fix-sample-row-selection.md
 nid: 3864
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-09-18 at 8.38.14 AM.png)
 
 # Spectral Workbench updates: profile page fix & sample row selection
 
-by [warren](../../../profile/warren) | September 18, 2012 12:40
+by [warren](/profile/warren) | September 18, 2012 12:40
 
-September 18, 2012 12:40 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench)
+September 18, 2012 12:40 | Tags: [spectrometer](/tag/spectrometer), [spectralworkbench](/tag/spectralworkbench)
 
 ----
 

@@ -6,18 +6,16 @@ author: wsnutt
 path: /notes/wsnutt/07-31-2015/argonne-interns-at-public-lab-2015-midwest-regional-barnraising.md
 nid: 12110
 uid: 446438
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/946/original/undefined)
 
 # Argonne Interns at Public Lab 2015 Midwest Regional Barnraising
 
-by [wsnutt](../../../profile/wsnutt) | July 31, 2015 16:12
+by [wsnutt](/profile/wsnutt) | July 31, 2015 16:12
 
-July 31, 2015 16:12 | Tags: [barnraising](../tag/barnraising), [blog](../tag/blog), [barnstar:basic](../tag/barnstar:basic)
+July 31, 2015 16:12 | Tags: [barnraising](/tag/barnraising), [blog](/tag/blog), [barnstar:basic](/tag/barnstar:basic)
 
 ----
 

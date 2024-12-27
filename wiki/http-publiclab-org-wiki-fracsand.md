@@ -6,12 +6,12 @@ author: gretchengehrke
 path: /wiki/http-publiclab-org-wiki-fracsand.md
 nid: 12521
 uid: 430549
-
+cids: 
 ---
 
 # http://publiclab.org/wiki/fracsand
 
-by [stevie](../profile/stevie), [gretchengehrke](../profile/gretchengehrke)
+by [stevie](/profile/stevie), [gretchengehrke](/profile/gretchengehrke)
 
 December 15, 2015 19:05 | Tags: 
 

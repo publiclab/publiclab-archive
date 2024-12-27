@@ -6,16 +6,14 @@ author: tawah_peggy
 path: /notes/tawah_peggy/11-06-2020/outreachy-proposal-comment-editor-overhaul-project.md
 nid: 24939
 uid: 725762
-
 cids: 27642,27647,28197
-
 ---
 
 # Outreachy proposal: Comment Editor Overhaul Project.
 
-by [tawah_peggy](../../../profile/tawah_peggy) | November 06, 2020 13:15
+by [tawah_peggy](/profile/tawah_peggy) | November 06, 2020 13:15
 
-November 06, 2020 13:15 | Tags: [software](../tag/software), [first-time-poster](../tag/first-time-poster), [lat:1.010689](../tag/lat:1.010689), [lon:9.997558](../tag/lon:9.997558), [zoom:6](../tag/zoom:6), [outreachy-winter-2020](../tag/outreachy-winter-2020), [outreachy-2020-winter-proposals](../tag/outreachy-2020-winter-proposals), [response:24687](../tag/response:24687), [lat:7.362466](../tag/lat:7.362466), [lon:12.348632](../tag/lon:12.348632)
+November 06, 2020 13:15 | Tags: [software](/tag/software), [first-time-poster](/tag/first-time-poster), [lat:1.010689](/tag/lat:1.010689), [lon:9.997558](/tag/lon:9.997558), [zoom:6](/tag/zoom:6), [outreachy-winter-2020](/tag/outreachy-winter-2020), [outreachy-2020-winter-proposals](/tag/outreachy-2020-winter-proposals), [response:24687](/tag/response:24687), [lat:7.362466](/tag/lat:7.362466), [lon:12.348632](/tag/lon:12.348632)
 
 ----
 

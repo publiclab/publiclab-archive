@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/11-30-2021/community-organizing-fellowship-is-open.md
 nid: 28316
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/114/original/IMG_2044.JPG)
 
 # Community Organizing Fellowship is open!
 
-by [stevie](../../../profile/stevie) | November 30, 2021 19:49
+by [stevie](/profile/stevie) | November 30, 2021 19:49
 
-November 30, 2021 19:49 | Tags: [organizing](../tag/organizing), [jobs](../tag/jobs), [fellows](../tag/fellows), [fellowships](../tag/fellowships), [frontline-communities](../tag/frontline-communities), [frontline](../tag/frontline)
+November 30, 2021 19:49 | Tags: [organizing](/tag/organizing), [jobs](/tag/jobs), [fellows](/tag/fellows), [fellowships](/tag/fellowships), [frontline-communities](/tag/frontline-communities), [frontline](/tag/frontline)
 
 ----
 

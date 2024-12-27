@@ -6,16 +6,14 @@ author: Bronwen
 path: /notes/Bronwen/02-13-2019/what-tools-or-methods-do-you-use-to-monitor-odors.md
 nid: 18359
 uid: 237313
-
 cids: 21866,21891,21894,21910,23318
-
 ---
 
 # What tools or methods do you use to monitor odors?
 
-by [Bronwen](../../../profile/Bronwen) | February 13, 2019 15:09
+by [Bronwen](/profile/Bronwen) | February 13, 2019 15:09
 
-February 13, 2019 15:09 | Tags: [question:question](../tag/question:question), [question:odor](../tag/question:odor), [question:odor-monitoring](../tag/question:odor-monitoring)
+February 13, 2019 15:09 | Tags: [question:question](/tag/question:question), [question:odor](/tag/question:odor), [question:odor-monitoring](/tag/question:odor-monitoring)
 
 ----
 

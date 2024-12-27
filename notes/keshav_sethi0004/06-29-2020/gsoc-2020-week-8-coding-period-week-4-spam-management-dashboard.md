@@ -6,18 +6,16 @@ author: keshav_sethi0004
 path: /notes/keshav_sethi0004/06-29-2020/gsoc-2020-week-8-coding-period-week-4-spam-management-dashboard.md
 nid: 24062
 uid: 653396
-
 cids: 27129,27147
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/002/original/Screenshot_from_2020-06-29_22-47-52.png)
 
 # GSOC 2020 Week 8 (coding Period Week-4)@Spam Management Dashboard
 
-by [keshav_sethi0004](../../../profile/keshav_sethi0004) | June 29, 2020 17:58
+by [keshav_sethi0004](/profile/keshav_sethi0004) | June 29, 2020 17:58
 
-June 29, 2020 17:58 | Tags: [gsoc](../tag/gsoc), [spam](../tag/spam), [gsoc-2020](../tag/gsoc-2020), [keshav](../tag/keshav), [smd](../tag/smd), [weekly-update](../tag/weekly-update)
+June 29, 2020 17:58 | Tags: [gsoc](/tag/gsoc), [spam](/tag/spam), [gsoc-2020](/tag/gsoc-2020), [keshav](/tag/keshav), [smd](/tag/smd), [weekly-update](/tag/weekly-update)
 
 ----
 

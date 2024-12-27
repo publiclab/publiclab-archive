@@ -6,18 +6,16 @@ author: viechdokter
 path: /notes/viechdokter/04-15-2016/thinking-about-a-more-stable-spectrometer.md
 nid: 12986
 uid: 468990
-
 cids: 14269,14271,14273,14275,14276,14288,14291,14293,14296,14297,14298,14299,14300,14419,14420,15454,15455
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/564/original/more_stable_spectrometer_plan_header.jpg)
 
 # Thinking about a more stable spectrometer...
 
-by [viechdokter](../../../profile/viechdokter) | April 15, 2016 20:20
+by [viechdokter](/profile/viechdokter) | April 15, 2016 20:20
 
-April 15, 2016 20:20 | Tags: [spectrometer](../tag/spectrometer), [design](../tag/design), [barnstar:basic](../tag/barnstar:basic), [stability](../tag/stability), [setup](../tag/setup), [rigidness](../tag/rigidness)
+April 15, 2016 20:20 | Tags: [spectrometer](/tag/spectrometer), [design](/tag/design), [barnstar:basic](/tag/barnstar:basic), [stability](/tag/stability), [setup](/tag/setup), [rigidness](/tag/rigidness)
 
 ----
 

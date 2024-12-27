@@ -6,16 +6,14 @@ author: gretchengehrke
 path: /notes/gretchengehrke/11-09-2017/can-copper-sulfide-and-copper-oxide-products-be-precisely-visually-identified.md
 nid: 15166
 uid: 430549
-
 cids: 18853,18886,18897,18930,22988
-
 ---
 
 # Can copper sulfide and copper oxide products be precisely visually identified?
 
-by [gretchengehrke](../../../profile/gretchengehrke) | November 09, 2017 00:00
+by [gretchengehrke](/profile/gretchengehrke) | November 09, 2017 00:00
 
-November 09, 2017 00:00 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [copper](../tag/copper), [answered](../tag/answered), [h2s-copper-pipe](../tag/h2s-copper-pipe), [question:h2s](../tag/question:h2s), [question:h2s-copper-pipe](../tag/question:h2s-copper-pipe)
+November 09, 2017 00:00 | Tags: [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [copper](/tag/copper), [answered](/tag/answered), [h2s-copper-pipe](/tag/h2s-copper-pipe), [question:h2s](/tag/question:h2s), [question:h2s-copper-pipe](/tag/question:h2s-copper-pipe)
 
 ----
 

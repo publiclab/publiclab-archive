@@ -6,16 +6,16 @@ author: liz
 path: /wiki/flushing-bay.md
 nid: 10442
 uid: 7
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/274/original/flushingmarinacleanup_all_2014_05_16_q1_santucci_sl.jpg)
 
 # flushing-bay
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-May 07, 2014 19:36 | Tags: [new-york-city](../tag/new-york-city), [flushing-bay](../tag/flushing-bay), [northeast](../tag/northeast), [dragon-boat](../tag/dragon-boat)
+May 07, 2014 19:36 | Tags: [new-york-city](/tag/new-york-city), [flushing-bay](/tag/flushing-bay), [northeast](/tag/northeast), [dragon-boat](/tag/dragon-boat)
 
 ----
 

@@ -6,16 +6,14 @@ author: Pat
 path: /notes/Pat/05-30-2018/are-there-any-tools-for-measuring-ra-226-ra228-contained-in-deicers.md
 nid: 16409
 uid: 424836
-
 cids: 23102
-
 ---
 
 # Are there any tools for measuring Ra 226/Ra228 contained in deicers?
 
-by [Pat](../../../profile/Pat) | May 30, 2018 06:02
+by [Pat](/profile/Pat) | May 30, 2018 06:02
 
-May 30, 2018 06:02 | Tags: [answered](../tag/answered), [question:question](../tag/question:question), [question:radiation](../tag/question:radiation), [question:radium](../tag/question:radium)
+May 30, 2018 06:02 | Tags: [answered](/tag/answered), [question:question](/tag/question:question), [question:radiation](/tag/question:radiation), [question:radium](/tag/question:radium)
 
 ----
 

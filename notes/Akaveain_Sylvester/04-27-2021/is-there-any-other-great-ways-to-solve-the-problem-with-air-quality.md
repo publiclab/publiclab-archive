@@ -6,16 +6,14 @@ author: Akaveain_Sylvester
 path: /notes/Akaveain_Sylvester/04-27-2021/is-there-any-other-great-ways-to-solve-the-problem-with-air-quality.md
 nid: 26371
 uid: 754379
-
 cids: 28639,28676,28684
-
 ---
 
 # Does the air quality affect the animals in the environment?
 
-by [Akaveain_Sylvester](../../../profile/Akaveain_Sylvester) | April 27, 2021 19:09
+by [Akaveain_Sylvester](/profile/Akaveain_Sylvester) | April 27, 2021 19:09
 
-April 27, 2021 19:09 | Tags: [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
+April 27, 2021 19:09 | Tags: [question:general](/tag/question:general), [general](/tag/general), [first-time-poster](/tag/first-time-poster)
 
 ----
 

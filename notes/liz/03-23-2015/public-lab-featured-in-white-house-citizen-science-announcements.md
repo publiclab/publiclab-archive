@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/03-23-2015/public-lab-featured-in-white-house-citizen-science-announcements.md
 nid: 11716
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/398/original/Screen_Shot_2015-03-23_at_11.07.29_AM.png)
 
 # Public Lab featured in White House Citizen Science announcements
 
-by [liz](../../../profile/liz) | March 23, 2015 15:08
+by [liz](/profile/liz) | March 23, 2015 15:08
 
-March 23, 2015 15:08 | Tags: [media](../tag/media), [press-release](../tag/press-release), [white-house](../tag/white-house)
+March 23, 2015 15:08 | Tags: [media](/tag/media), [press-release](/tag/press-release), [white-house](/tag/white-house)
 
 ----
 

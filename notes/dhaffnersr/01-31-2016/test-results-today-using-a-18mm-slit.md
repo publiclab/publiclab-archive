@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/01-31-2016/test-results-today-using-a-18mm-slit.md
 nid: 12637
 uid: 461120
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/005/original/honeywell_plant_in_Hopewell_va.jpg)
 
 # Test results today using a .18mm slit
 
-by [dhaffnersr](../../../profile/dhaffnersr) | January 31, 2016 01:20
+by [dhaffnersr](/profile/dhaffnersr) | January 31, 2016 01:20
 
 January 31, 2016 01:20 | Tags: 
 

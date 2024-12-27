@@ -6,16 +6,14 @@ author: lukecollins
 path: /notes/lukecollins/09-19-2019/people-vs-storm-drains.md
 nid: 20928
 uid: 618898
-
 cids: 25550,29320
-
 ---
 
 # People Vs. Storm Drains
 
-by [lukecollins](../../../profile/lukecollins) | September 19, 2019 14:43
+by [lukecollins](/profile/lukecollins) | September 19, 2019 14:43
 
-September 19, 2019 14:43 | Tags: [stormwater](../tag/stormwater), [storm](../tag/storm), [issue-brief](../tag/issue-brief), [storm-drain](../tag/storm-drain), [first-time-poster](../tag/first-time-poster), [lat:29.935867](../tag/lat:29.935867), [lon:-90.114476](../tag/lon:-90.114476), [catch-basin](../tag/catch-basin), [with:jeanell873](../tag/with:jeanell873)
+September 19, 2019 14:43 | Tags: [stormwater](/tag/stormwater), [storm](/tag/storm), [issue-brief](/tag/issue-brief), [storm-drain](/tag/storm-drain), [first-time-poster](/tag/first-time-poster), [lat:29.935867](/tag/lat:29.935867), [lon:-90.114476](/tag/lon:-90.114476), [catch-basin](/tag/catch-basin), [with:jeanell873](/tag/with:jeanell873)
 
 ----
 
@@ -46,4 +44,4 @@ Lusher Charter School and Math and Science are involved because they are in the 
 - What kind of plastic is being thrown onto the ground?
 
   
-[tagname](../../tag/question:tagname)
+[tagname](/tag/question:tagname)

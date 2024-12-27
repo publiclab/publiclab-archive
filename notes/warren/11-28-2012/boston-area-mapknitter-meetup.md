@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/11-28-2012/boston-area-mapknitter-meetup.md
 nid: 5038
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Picture 12.png)
 
 # Boston-area MapKnitter meetup
 
-by [warren](../../../profile/warren) | November 28, 2012 21:32
+by [warren](/profile/warren) | November 28, 2012 21:32
 
-November 28, 2012 21:32 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [meetup](../tag/meetup), [event](../tag/event)
+November 28, 2012 21:32 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [mapknitter](/tag/mapknitter), [meetup](/tag/meetup), [event](/tag/event)
 
 ----
 

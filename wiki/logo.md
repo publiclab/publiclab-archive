@@ -6,14 +6,14 @@ author: warren
 path: /wiki/logo.md
 nid: 15540
 uid: 1
-
+cids: 
 ---
 
 # Logo
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-January 17, 2018 20:45 | Tags: [logo](../tag/logo), [logos](../tag/logos)
+January 17, 2018 20:45 | Tags: [logo](/tag/logo), [logos](/tag/logos)
 
 ----
 

@@ -6,14 +6,14 @@ author: gretchengehrke
 path: /wiki/literature-review.md
 nid: 13398
 uid: 430549
-
+cids: 
 ---
 
 # Conducting a Literature Review
 
-by [gretchengehrke](../profile/gretchengehrke)
+by [gretchengehrke](/profile/gretchengehrke)
 
-August 26, 2016 20:31 | Tags: [research](../tag/research), [tool](../tag/tool), [literature-review](../tag/literature-review), [method](../tag/method)
+August 26, 2016 20:31 | Tags: [research](/tag/research), [tool](/tag/tool), [literature-review](/tag/literature-review), [method](/tag/method)
 
 ----
 

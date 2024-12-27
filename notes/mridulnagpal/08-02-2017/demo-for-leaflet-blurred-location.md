@@ -6,18 +6,16 @@ author: mridulnagpal
 path: /notes/mridulnagpal/08-02-2017/demo-for-leaflet-blurred-location.md
 nid: 14705
 uid: 497953
-
 cids: 17139,17149,17150,17151,17154,17164,17167,17169,17171
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/255/original/Screenshot_from_2017-08-02_08-34-30.png)
 
 # Demo for leaflet-blurred-location
 
-by [mridulnagpal](../../../profile/mridulnagpal) | August 02, 2017 03:05
+by [mridulnagpal](/profile/mridulnagpal) | August 02, 2017 03:05
 
-August 02, 2017 03:05 | Tags: [website](../tag/website), [geo-tagging](../tag/geo-tagging), [geolocation](../tag/geolocation), [soc](../tag/soc), [geographic-features](../tag/geographic-features)
+August 02, 2017 03:05 | Tags: [website](/tag/website), [geo-tagging](/tag/geo-tagging), [geolocation](/tag/geolocation), [soc](/tag/soc), [geographic-features](/tag/geographic-features)
 
 ----
 

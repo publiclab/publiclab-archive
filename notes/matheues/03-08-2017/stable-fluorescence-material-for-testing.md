@@ -6,16 +6,14 @@ author: matheues
 path: /notes/matheues/03-08-2017/stable-fluorescence-material-for-testing.md
 nid: 13992
 uid: 503736
-
 cids: 16395,16413,17608
-
 ---
 
 # Stable fluorescence material for testing
 
-by [matheues](../../../profile/matheues) | March 08, 2017 10:09
+by [matheues](/profile/matheues) | March 08, 2017 10:09
 
-March 08, 2017 10:09 | Tags: [question:fluoroscence](../tag/question:fluoroscence)
+March 08, 2017 10:09 | Tags: [question:fluoroscence](/tag/question:fluoroscence)
 
 ----
 

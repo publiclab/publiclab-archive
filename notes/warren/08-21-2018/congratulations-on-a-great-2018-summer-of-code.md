@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/08-21-2018/congratulations-on-a-great-2018-summer-of-code.md
 nid: 16979
 uid: 1
-
 cids: 20445,20453,21678,21679
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/275/original/Screenshot_2018-08-21_at_10.32.14_PM.png)
 
 # Congratulations on a great 2018 Summer of Code!
 
-by [warren](../../../profile/warren) | August 21, 2018 19:41
+by [warren](/profile/warren) | August 21, 2018 19:41
 
-August 21, 2018 19:41 | Tags: [website](../tag/website), [gsoc](../tag/gsoc), [google](../tag/google), [developers](../tag/developers), [code](../tag/code), [wwg](../tag/wwg), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [rgsoc-2018](../tag/rgsoc-2018), [programming](../tag/programming), [response:16197](../tag/response:16197)
+August 21, 2018 19:41 | Tags: [website](/tag/website), [gsoc](/tag/gsoc), [google](/tag/google), [developers](/tag/developers), [code](/tag/code), [wwg](/tag/wwg), [rgsoc](/tag/rgsoc), [soc](/tag/soc), [gsoc-2018](/tag/gsoc-2018), [soc-2018](/tag/soc-2018), [rgsoc-2018](/tag/rgsoc-2018), [programming](/tag/programming), [response:16197](/tag/response:16197)
 
 ----
 
@@ -41,7 +39,7 @@ THANKS!!!
 
 ## Project report-ins
 
-[soc-2018-final-report](../../tag/soc-2018-final-report)
+[soc-2018-final-report](/tag/soc-2018-final-report)
 
 Plus these three:
 

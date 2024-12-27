@@ -6,18 +6,16 @@ author: gbathree
 path: /notes/gbathree/08-13-2013/photosynq-preparing-for-the-open-hardware-summit.md
 nid: 8997
 uid: 53164
-
 cids: 6625,6729,6731
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/125/original/IMG_20130813_144209.jpg)
 
 # Photosynq - Preparing for the Open Hardware Summit
 
-by [gbathree](../../../profile/gbathree) | August 13, 2013 19:18
+by [gbathree](/profile/gbathree) | August 13, 2013 19:18
 
-August 13, 2013 19:18 | Tags: [open-hardware](../tag/open-hardware), [photosynthesis](../tag/photosynthesis), [photosynq](../tag/photosynq), [ohs](../tag/ohs), [open-hardware-summit](../tag/open-hardware-summit)
+August 13, 2013 19:18 | Tags: [open-hardware](/tag/open-hardware), [photosynthesis](/tag/photosynthesis), [photosynq](/tag/photosynq), [ohs](/tag/ohs), [open-hardware-summit](/tag/open-hardware-summit)
 
 ----
 

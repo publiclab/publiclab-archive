@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/08-19-2014/ultra-micro-cuvette-tests-uv-led-and-low-temperature-fluorescence.md
 nid: 11063
 uid: 1
-
 cids: 10078,12081,12933,12934,12935,12936,12961
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/337/original/IMG_20140819_122124.jpg)
 
 # Ultra micro cuvette tests, UV LED and low-temperature fluorescence
 
-by [warren](../../../profile/warren) | August 19, 2014 17:56
+by [warren](/profile/warren) | August 19, 2014 17:56
 
-August 19, 2014 17:56 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [temperature](../tag/temperature), [oil](../tag/oil), [ultraviolet](../tag/ultraviolet), [laser](../tag/laser), [fluorescence](../tag/fluorescence), [cuvette](../tag/cuvette), [cuvettes](../tag/cuvettes), [sample-containers](../tag/sample-containers), [sample-prep](../tag/sample-prep), [crude](../tag/crude), [led](../tag/led), [oil-testing-kit](../tag/oil-testing-kit), [cuvette-frame](../tag/cuvette-frame)
+August 19, 2014 17:56 | Tags: [spectrometer](/tag/spectrometer), [uv](/tag/uv), [temperature](/tag/temperature), [oil](/tag/oil), [ultraviolet](/tag/ultraviolet), [laser](/tag/laser), [fluorescence](/tag/fluorescence), [cuvette](/tag/cuvette), [cuvettes](/tag/cuvettes), [sample-containers](/tag/sample-containers), [sample-prep](/tag/sample-prep), [crude](/tag/crude), [led](/tag/led), [oil-testing-kit](/tag/oil-testing-kit), [cuvette-frame](/tag/cuvette-frame)
 
 ----
 

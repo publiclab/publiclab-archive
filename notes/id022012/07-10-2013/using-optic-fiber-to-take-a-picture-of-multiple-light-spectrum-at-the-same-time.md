@@ -6,18 +6,16 @@ author: id022012
 path: /notes/id022012/07-10-2013/using-optic-fiber-to-take-a-picture-of-multiple-light-spectrum-at-the-same-time.md
 nid: 8804
 uid: 60504
-
 cids: 6304,6305
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/727/original/TST_-_Spectro__Sch%C3%A8ma_130702GP.jpg)
 
 # Using optic fiber to take a picture of multiple light spectrum at the same time
 
-by [id022012](../../../profile/id022012) | July 10, 2013 12:01
+by [id022012](/profile/id022012) | July 10, 2013 12:01
 
-July 10, 2013 12:01 | Tags: [spectrometer](../tag/spectrometer), [fiber](../tag/fiber), [optic_fiber](../tag/optic_fiber)
+July 10, 2013 12:01 | Tags: [spectrometer](/tag/spectrometer), [fiber](/tag/fiber), [optic_fiber](/tag/optic_fiber)
 
 ----
 

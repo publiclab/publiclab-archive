@@ -6,18 +6,16 @@ author: Becki
 path: /notes/Becki/03-25-2014/public-lab-community-newsletter-3-24-14.md
 nid: 10220
 uid: 46673
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/384/original/logo.png)
 
 # Public Lab Community Newsletter 3.24.14
 
-by [Becki](../../../profile/Becki) | March 25, 2014 01:00
+by [Becki](/profile/Becki) | March 25, 2014 01:00
 
-March 25, 2014 01:00 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+March 25, 2014 01:00 | Tags: [newsletter](/tag/newsletter), [newsletter-archive](/tag/newsletter-archive)
 
 ----
 

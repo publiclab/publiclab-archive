@@ -6,14 +6,14 @@ author: liz
 path: /wiki/ecohackii.md
 nid: 811
 uid: 7
-
+cids: 
 ---
 
 # EcoHackII
 
-by [liz](../profile/liz), [warren](../profile/warren), [Shannon](../profile/Shannon)
+by [liz](/profile/liz), [warren](/profile/warren), [Shannon](/profile/Shannon)
 
-February 18, 2012 19:57 | Tags: [balloon-mapping](../tag/balloon-mapping), [air-column-monitor](../tag/air-column-monitor)
+February 18, 2012 19:57 | Tags: [balloon-mapping](/tag/balloon-mapping), [air-column-monitor](/tag/air-column-monitor)
 
 ----
 

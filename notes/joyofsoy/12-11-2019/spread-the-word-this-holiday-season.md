@@ -6,18 +6,16 @@ author: joyofsoy
 path: /notes/joyofsoy/12-11-2019/spread-the-word-this-holiday-season.md
 nid: 21732
 uid: 540844
-
 cids: 26079,26368
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/008/original/OI000012_copy.jpg)
 
 # Spread the word this holiday season
 
-by [joyofsoy](../../../profile/joyofsoy) | December 11, 2019 16:45
+by [joyofsoy](/profile/joyofsoy) | December 11, 2019 16:45
 
-December 11, 2019 16:45 | Tags: [blog](../tag/blog), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lat:37](../tag/lat:37), [lon:-95](../tag/lon:-95), [zoom:6](../tag/zoom:6)
+December 11, 2019 16:45 | Tags: [blog](/tag/blog), [location:blurred](/tag/location:blurred), [place:united-states](/tag/place:united-states), [lat:37](/tag/lat:37), [lon:-95](/tag/lon:-95), [zoom:6](/tag/zoom:6)
 
 ----
 

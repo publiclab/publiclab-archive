@@ -6,16 +6,14 @@ author: Bronwen
 path: /notes/bronwen/10-21-2014/intellectual-property-primer-work-in-progress.md
 nid: 11285
 uid: 237313
-
 cids: 10602,10603,10604,10605
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/564/original/locks.jpg)
 
 # Intellectual Property Primer (work in progress)
 
-by [Bronwen](../../../profile/Bronwen) | October 21, 2014 00:22
+by [Bronwen](/profile/Bronwen) | October 21, 2014 00:22
 
 October 21, 2014 00:22 | Tags: 
 

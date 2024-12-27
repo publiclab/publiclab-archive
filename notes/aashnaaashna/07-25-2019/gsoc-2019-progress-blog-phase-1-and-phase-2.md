@@ -6,16 +6,14 @@ author: aashnaaashna
 path: /notes/aashnaaashna/07-25-2019/gsoc-2019-progress-blog-phase-1-and-phase-2.md
 nid: 20317
 uid: 553271
-
 cids: 25146,25147,25149,25150,25188
-
 ---
 
 # Gsoc-2019 Progress Blog: Phase 1 and Phase 2
 
-by [aashnaaashna](../../../profile/aashnaaashna) | July 25, 2019 18:45
+by [aashnaaashna](/profile/aashnaaashna) | July 25, 2019 18:45
 
-July 25, 2019 18:45 | Tags: [soc-2019-eval](../tag/soc-2019-eval)
+July 25, 2019 18:45 | Tags: [soc-2019-eval](/tag/soc-2019-eval)
 
 ----
 

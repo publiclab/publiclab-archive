@@ -6,12 +6,12 @@ author: liz
 path: /wiki/ny-nj-2012-goal-meeting.md
 nid: 826
 uid: 7
-
+cids: 
 ---
 
 # NY-NJ 2012 meeting
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
 February 21, 2012 19:31 | Tags: 
 

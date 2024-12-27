@@ -6,18 +6,16 @@ author: eustatic
 path: /08-23-2018/how-not-to-grow-lotus-for-wetland-transplanting.md
 nid: 16985
 uid: 379
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/321/original/43268898564_d99bc59189_b.jpg)
 
 # How (not) to grow Lotus for wetland transplanting
 
-by [eustatic](../../../profile/eustatic) | August 23, 2018 04:11
+by [eustatic](/profile/eustatic) | August 23, 2018 04:11
 
-August 23, 2018 04:11 | Tags: [bienvenue](../tag/bienvenue), [plant](../tag/plant), [neworleans](../tag/neworleans), [cultivation](../tag/cultivation), [office](../tag/office), [lotus](../tag/lotus), [swamp](../tag/swamp), [stbernard](../tag/stbernard)
+August 23, 2018 04:11 | Tags: [bienvenue](/tag/bienvenue), [plant](/tag/plant), [neworleans](/tag/neworleans), [cultivation](/tag/cultivation), [office](/tag/office), [lotus](/tag/lotus), [swamp](/tag/swamp), [stbernard](/tag/stbernard)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/12-06-2017/help-document-how-to-connect-different-sensors-to-a-data-logger.md
 nid: 15320
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/824/original/Screenshot_2017-12-06_at_11.04.57_AM.png)
 
 # Help document how to connect different sensors to a data logger
 
-by [warren](../../../profile/warren) | December 06, 2017 16:05
+by [warren](/profile/warren) | December 06, 2017 16:05
 
-December 06, 2017 16:05 | Tags: [arduino](../tag/arduino), [seeks:replications](../tag/seeks:replications), [requests](../tag/requests), [activity:requests](../tag/activity:requests)
+December 06, 2017 16:05 | Tags: [arduino](/tag/arduino), [seeks:replications](/tag/seeks:replications), [requests](/tag/requests), [activity:requests](/tag/activity:requests)
 
 ----
 

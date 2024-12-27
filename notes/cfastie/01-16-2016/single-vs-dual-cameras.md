@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/01-16-2016/single-vs-dual-cameras.md
 nid: 12592
 uid: 554
-
 cids: 13378
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/688/original/Middopt-708-3.jpg)
 
 # Single vs. dual cameras
 
-by [cfastie](../../../profile/cfastie) | January 16, 2016 21:41
+by [cfastie](/profile/cfastie) | January 16, 2016 21:41
 
-January 16, 2016 21:41 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [filter](../tag/filter), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [dualband](../tag/dualband), [midopt](../tag/midopt), [dichroic](../tag/dichroic), [interference](../tag/interference), [response:12473](../tag/response:12473)
+January 16, 2016 21:41 | Tags: [ndvi](/tag/ndvi), [infrared](/tag/infrared), [filter](/tag/filter), [infragram](/tag/infragram), [plant-health](/tag/plant-health), [dualband](/tag/dualband), [midopt](/tag/midopt), [dichroic](/tag/dichroic), [interference](/tag/interference), [response:12473](/tag/response:12473)
 
 ----
 

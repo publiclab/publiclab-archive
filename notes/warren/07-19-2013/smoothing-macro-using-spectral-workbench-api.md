@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/07-19-2013/smoothing-macro-using-spectral-workbench-api.md
 nid: 8908
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/850/original/Screen_Shot_2013-07-19_at_11.46.10_AM.png)
 
 # Smoothing macro using Spectral Workbench API
 
-by [warren](../../../profile/warren) | July 19, 2013 15:49
+by [warren](/profile/warren) | July 19, 2013 15:49
 
-July 19, 2013 15:49 | Tags: [spectrometer](../tag/spectrometer), [spectral-workbench](../tag/spectral-workbench), [smoothing](../tag/smoothing), [spectral-workbench-api](../tag/spectral-workbench-api), [macros](../tag/macros), [response:8906](../tag/response:8906)
+July 19, 2013 15:49 | Tags: [spectrometer](/tag/spectrometer), [spectral-workbench](/tag/spectral-workbench), [smoothing](/tag/smoothing), [spectral-workbench-api](/tag/spectral-workbench-api), [macros](/tag/macros), [response:8906](/tag/response:8906)
 
 ----
 

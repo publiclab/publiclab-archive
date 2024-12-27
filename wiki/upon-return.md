@@ -6,14 +6,14 @@ author: warren
 path: /wiki/upon-return.md
 nid: 230
 uid: 1
-
+cids: 
 ---
 
 # Upon Return
 
-by [liz](../profile/liz), [gonzoearth](../profile/gonzoearth), [warren](../profile/warren), [Shannon](../profile/Shannon)
+by [liz](/profile/liz), [gonzoearth](/profile/gonzoearth), [warren](/profile/warren), [Shannon](/profile/Shannon)
 
-May 09, 2011 04:37 | Tags: [redirect:13474](../tag/redirect:13474)
+May 09, 2011 04:37 | Tags: [redirect:13474](/tag/redirect:13474)
 
 ----
 

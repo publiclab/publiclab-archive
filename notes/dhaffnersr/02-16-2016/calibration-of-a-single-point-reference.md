@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/02-16-2016/calibration-of-a-single-point-reference.md
 nid: 12695
 uid: 461120
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/339/original/UV_scan_eosin_in_wtr_feb16_stable_calibration_of_405nm.bmp)
 
 # Calibration of a single point reference
 
-by [dhaffnersr](../../../profile/dhaffnersr) | February 16, 2016 18:12
+by [dhaffnersr](/profile/dhaffnersr) | February 16, 2016 18:12
 
 February 16, 2016 18:12 | Tags: 
 

@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/08-08-2014/wratten-25-and-ndvi-a1200-imagery-from-terravion-fly-along.md
 nid: 11024
 uid: 77
-
 cids: 9846,9848
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/148/original/both_rtd_crpd.jpg)
 
 # Wratten 25 and NDVI A1200 imagery from TerrAvion fly-along
 
-by [patcoyle](../../../profile/patcoyle) | August 08, 2014 23:08
+by [patcoyle](/profile/patcoyle) | August 08, 2014 23:08
 
-August 08, 2014 23:08 | Tags: [ndvi](../tag/ndvi), [agriculture](../tag/agriculture), [wratten25a](../tag/wratten25a), [fixed_wing_aircraft](../tag/fixed_wing_aircraft), [commercial_services](../tag/commercial_services)
+August 08, 2014 23:08 | Tags: [ndvi](/tag/ndvi), [agriculture](/tag/agriculture), [wratten25a](/tag/wratten25a), [fixed_wing_aircraft](/tag/fixed_wing_aircraft), [commercial_services](/tag/commercial_services)
 
 ----
 

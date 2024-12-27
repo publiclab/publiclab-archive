@@ -6,18 +6,16 @@ author: mimiss
 path: /notes/mimiss/06-04-2019/workshop-viii.md
 nid: 19615
 uid: 579821
-
 cids: 25484,28352
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/704/original/NAS_Community_Science_in_the_Classroom_Overview.png)
 
 # Workshop VIII: What will we do to conduct our study?
 
-by [mimiss](../../../profile/mimiss) | June 04, 2019 18:35
+by [mimiss](/profile/mimiss) | June 04, 2019 18:35
 
-June 04, 2019 18:35 | Tags: [education](../tag/education), [workshop](../tag/workshop), [curriculum](../tag/curriculum), [activity:education](../tag/activity:education), [study-design](../tag/study-design), [lesson](../tag/lesson), [parent:student-led-community-science-in-the-classroom-a-curriculum](../tag/parent:student-led-community-science-in-the-classroom-a-curriculum), [with:purl](../tag/with:purl)
+June 04, 2019 18:35 | Tags: [education](/tag/education), [workshop](/tag/workshop), [curriculum](/tag/curriculum), [activity:education](/tag/activity:education), [study-design](/tag/study-design), [lesson](/tag/lesson), [parent:student-led-community-science-in-the-classroom-a-curriculum](/tag/parent:student-led-community-science-in-the-classroom-a-curriculum), [with:purl](/tag/with:purl)
 
 ----
 

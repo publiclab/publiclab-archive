@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/9-11-2012/art-environment-action.md
 nid: 3736
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/AEA! Opening invite.jpg)
 
 # Art Environment Action!
 
-by [liz](../../../profile/liz) | September 11, 2012 13:49
+by [liz](/profile/liz) | September 11, 2012 13:49
 
-September 11, 2012 13:49 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter)
+September 11, 2012 13:49 | Tags: [balloon-mapping](/tag/balloon-mapping), [mapknitter](/tag/mapknitter)
 
 ----
 

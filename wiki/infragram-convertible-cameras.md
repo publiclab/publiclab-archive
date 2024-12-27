@@ -6,16 +6,16 @@ author: warren
 path: /wiki/infragram-convertible-cameras.md
 nid: 7823
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/704/original/Canon_IXUS_40_medium.JPG)
 
 # Infragram convertible cameras
 
-by [warren](../profile/warren), [jenjimah](../profile/jenjimah), [cfastie](../profile/cfastie), [cindy_excites](../profile/cindy_excites), [funkycbj](../profile/funkycbj), [SWeedenWright](../profile/SWeedenWright), [limon93](../profile/limon93), [arsenix](../profile/arsenix), [davidminn](../profile/davidminn), [carlozousa](../profile/carlozousa), [allie01](../profile/allie01), [AerieWorks](../profile/AerieWorks), [ajchavar](../profile/ajchavar), [Korartiz](../profile/Korartiz), [gpenzo](../profile/gpenzo), [Chernabog](../profile/Chernabog), [danbeavers](../profile/danbeavers), [carllipo](../profile/carllipo)
+by [warren](/profile/warren), [jenjimah](/profile/jenjimah), [cfastie](/profile/cfastie), [cindy_excites](/profile/cindy_excites), [funkycbj](/profile/funkycbj), [SWeedenWright](/profile/SWeedenWright), [limon93](/profile/limon93), [arsenix](/profile/arsenix), [davidminn](/profile/davidminn), [carlozousa](/profile/carlozousa), [allie01](/profile/allie01), [AerieWorks](/profile/AerieWorks), [ajchavar](/profile/ajchavar), [Korartiz](/profile/Korartiz), [gpenzo](/profile/gpenzo), [Chernabog](/profile/Chernabog), [danbeavers](/profile/danbeavers), [carllipo](/profile/carllipo)
 
-May 22, 2013 19:11 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [conversion](../tag/conversion), [filter](../tag/filter), [infragram](../tag/infragram), [parent:infragram](../tag/parent:infragram), [74](../tag/74)
+May 22, 2013 19:11 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [conversion](/tag/conversion), [filter](/tag/filter), [infragram](/tag/infragram), [parent:infragram](/tag/parent:infragram), [74](/tag/74)
 
 ----
 
@@ -61,7 +61,7 @@ Read more about filter choice at the [Infragram filters page](/wiki/infragram-fi
 
 ## Questions
 
-[infrared-camera-conversion](../../tag/question:infrared-camera-conversion)
+[infrared-camera-conversion](/tag/question:infrared-camera-conversion)
 
 
 ****
@@ -70,7 +70,7 @@ Read more about filter choice at the [Infragram filters page](/wiki/infragram-fi
 
 While this page has accumulated a great list of cameras, we're hoping to provide more step-by-step activity guides to converting specific cameras, with photos. If you can share a conversion process you've successfully worked on, consider posting it as an activity:
 
-[infrared-camera-conversion](../../tag/activity:infrared-camera-conversion)
+[infrared-camera-conversion](/tag/activity:infrared-camera-conversion)
 
 ****
 

@@ -6,14 +6,12 @@ author: jschaffr
 path: /notes/jschaffr/1-31-2012/h2s-detectors-light-contamination-test-environment.md
 nid: 736
 uid: 315
-
 cids: 425
-
 ---
 
 # H2S Detectors - Light Contamination Test Environment
 
-by [jschaffr](../../../profile/jschaffr) | February 01, 2012 00:27
+by [jschaffr](/profile/jschaffr) | February 01, 2012 00:27
 
 February 01, 2012 00:27 | Tags: 
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/air-column-analysis.md
 nid: 745
 uid: 1
-
+cids: 
 ---
 
 # Air column analysis
 
-by [liz](../profile/liz), [warren](../profile/warren)
+by [liz](/profile/liz), [warren](/profile/warren)
 
-February 03, 2012 16:31 | Tags: [air-column-monitor](../tag/air-column-monitor), [air-column](../tag/air-column), [vibrations](../tag/vibrations), [string](../tag/string), [windspeed](../tag/windspeed)
+February 03, 2012 16:31 | Tags: [air-column-monitor](/tag/air-column-monitor), [air-column](/tag/air-column), [vibrations](/tag/vibrations), [string](/tag/string), [windspeed](/tag/windspeed)
 
 ----
 

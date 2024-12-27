@@ -6,14 +6,14 @@ author: liz
 path: /wiki/freshkills-park.md
 nid: 10439
 uid: 7
-
+cids: 
 ---
 
 # freshkills-park
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-May 07, 2014 15:15 | Tags: [new-york-city](../tag/new-york-city), [staten-island](../tag/staten-island)
+May 07, 2014 15:15 | Tags: [new-york-city](/tag/new-york-city), [staten-island](/tag/staten-island)
 
 ----
 

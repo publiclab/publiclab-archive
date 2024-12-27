@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/08-30-2021/mapknitter-map-of-more-updates-to-construction-site-near-mocho-park-livermore-ca.md
 nid: 27637
 uid: 77
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/763/original/odm_orthophoto_copy_smlr_medium.jpeg)
 
 # MapKnitter map of more updates to construction site near Mocho Park Livermore CA
 
-by [patcoyle](../../../profile/patcoyle) | August 30, 2021 23:35
+by [patcoyle](/profile/patcoyle) | August 30, 2021 23:35
 
-August 30, 2021 23:35 | Tags: [mapknitter](../tag/mapknitter), [zoom:16](../tag/zoom:16), [lat:37.673027255](../tag/lat:37.673027255), [lon:-121.780431834](../tag/lon:-121.780431834), [lat:37.673027](../tag/lat:37.673027), [lon:-121.780431](../tag/lon:-121.780431)
+August 30, 2021 23:35 | Tags: [mapknitter](/tag/mapknitter), [zoom:16](/tag/zoom:16), [lat:37.673027255](/tag/lat:37.673027255), [lon:-121.780431834](/tag/lon:-121.780431834), [lat:37.673027](/tag/lat:37.673027), [lon:-121.780431](/tag/lon:-121.780431)
 
 ----
 

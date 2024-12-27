@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/07-02-2013/infragrams-over-nyc-davidson-garden-bronx.md
 nid: 8608
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/585/original/BX-davidson-stitch-small-NDVI.jpg)
 
 # Infragrams over NYC: Davidson Garden, Bronx
 
-by [liz](../../../profile/liz) | July 02, 2013 17:01
+by [liz](/profile/liz) | July 02, 2013 17:01
 
-July 02, 2013 17:01 | Tags: [new-york-city](../tag/new-york-city), [near-infrared-camera](../tag/near-infrared-camera), [5bf](../tag/5bf), [five-borough-farm](../tag/five-borough-farm), [pole-photography](../tag/pole-photography), [pole](../tag/pole)
+July 02, 2013 17:01 | Tags: [new-york-city](/tag/new-york-city), [near-infrared-camera](/tag/near-infrared-camera), [5bf](/tag/5bf), [five-borough-farm](/tag/five-borough-farm), [pole-photography](/tag/pole-photography), [pole](/tag/pole)
 
 ----
 

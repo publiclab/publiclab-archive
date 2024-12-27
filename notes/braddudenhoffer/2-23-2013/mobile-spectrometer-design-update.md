@@ -6,18 +6,16 @@ author: BradDudenhoffer
 path: /notes/braddudenhoffer/2-23-2013/mobile-spectrometer-design-update.md
 nid: 6106
 uid: 571
-
 cids: 3538,3656,31366
-
 ---
 
 ![](https://publiclab.org/sites/default/files/20130223_01.jpg)
 
 # Mobile Spectrometer Design Update
 
-by [BradDudenhoffer](../../../profile/BradDudenhoffer) | February 23, 2013 21:40
+by [BradDudenhoffer](/profile/BradDudenhoffer) | February 23, 2013 21:40
 
-February 23, 2013 21:40 | Tags: [spectrometer](../tag/spectrometer), [mobile](../tag/mobile), [backpack-spectrometer](../tag/backpack-spectrometer), [backpack](../tag/backpack), [mobile-spectrometer](../tag/mobile-spectrometer)
+February 23, 2013 21:40 | Tags: [spectrometer](/tag/spectrometer), [mobile](/tag/mobile), [backpack-spectrometer](/tag/backpack-spectrometer), [backpack](/tag/backpack), [mobile-spectrometer](/tag/mobile-spectrometer)
 
 ----
 

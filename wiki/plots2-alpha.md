@@ -6,14 +6,14 @@ author: warren
 path: /wiki/plots2-alpha.md
 nid: 4847
 uid: 1
-
+cids: 
 ---
 
 # plots2 Alpha
 
-by [warren](../profile/warren), [liz](../profile/liz)
+by [warren](/profile/warren), [liz](/profile/liz)
 
-November 09, 2012 10:10 | Tags: [website](../tag/website), [plots2](../tag/plots2), [alphatest](../tag/alphatest)
+November 09, 2012 10:10 | Tags: [website](/tag/website), [plots2](/tag/plots2), [alphatest](/tag/alphatest)
 
 ----
 

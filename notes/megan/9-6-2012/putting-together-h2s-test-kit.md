@@ -6,18 +6,16 @@ author: megan
 path: /notes/megan/9-6-2012/putting-together-h2s-test-kit.md
 nid: 3674
 uid: 775
-
 cids: 1306,17985
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_1116_0.JPG)
 
 # Putting together H2S Test Kit
 
-by [megan](../../../profile/megan) | September 07, 2012 02:13
+by [megan](/profile/megan) | September 07, 2012 02:13
 
-September 07, 2012 02:13 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper), [activity:h2s-photopaper](../tag/activity:h2s-photopaper)
+September 07, 2012 02:13 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [h2s-photopaper](/tag/h2s-photopaper), [activity:h2s-photopaper](/tag/activity:h2s-photopaper)
 
 ----
 

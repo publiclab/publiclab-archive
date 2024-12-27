@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/08-17-2021/introducing-a-new-dashboard-for-publiclab-org.md
 nid: 27575
 uid: 1
-
 cids: 29150,29151,29176,29608,29611,29710,30024,30142,30217,30233,30268,30623,30625,30727,30758,30811,31029,31035,31150,31162,31350,31443,31449,31450,31524,31528,31539,31540
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/675/original/Screen_Shot_2021-08-17_at_2.47.47_PM.png)
 
 # Introducing a new Dashboard for PublicLab.org
 
-by [warren](../../../profile/warren) | August 17, 2021 19:05
+by [warren](/profile/warren) | August 17, 2021 19:05
 
-August 17, 2021 19:05 | Tags: [website](../tag/website), [design](../tag/design), [code](../tag/code), [barnstar:basic](../tag/barnstar:basic), [wwg](../tag/wwg), [dashboard](../tag/dashboard), [ui](../tag/ui), [outreachy](../tag/outreachy)
+August 17, 2021 19:05 | Tags: [website](/tag/website), [design](/tag/design), [code](/tag/code), [barnstar:basic](/tag/barnstar:basic), [wwg](/tag/wwg), [dashboard](/tag/dashboard), [ui](/tag/ui), [outreachy](/tag/outreachy)
 
 ----
 

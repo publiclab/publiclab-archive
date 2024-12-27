@@ -6,12 +6,12 @@ author: warren
 path: /wiki/nonprofit.md
 nid: 165
 uid: 1
-
+cids: 
 ---
 
 # Nonprofit
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 April 07, 2011 23:15 | Tags: 
 

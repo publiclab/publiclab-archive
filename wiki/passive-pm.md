@@ -6,14 +6,14 @@ author: mathew
 path: /wiki/passive-pm.md
 nid: 12563
 uid: 4
-
+cids: 
 ---
 
 # passive-pm
 
-by [stevie](../profile/stevie), [mathew](../profile/mathew)
+by [stevie](/profile/stevie), [mathew](/profile/mathew)
 
-January 05, 2016 22:52 | Tags: [parent:pm](../tag/parent:pm)
+January 05, 2016 22:52 | Tags: [parent:pm](/tag/parent:pm)
 
 ----
 

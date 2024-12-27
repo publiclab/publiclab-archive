@@ -6,14 +6,14 @@ author: Shannon
 path: /wiki/how-we-are-funded.md
 nid: 657
 uid: 9
-
+cids: 
 ---
 
 # Public Lab Financials
 
-by [thewrightjess](../profile/thewrightjess), [joyofsoy](../profile/joyofsoy), [Shannon](../profile/Shannon), [warren](../profile/warren), [Margie](../profile/Margie), [liz](../profile/liz), [Becki](../profile/Becki), [adam-griffith](../profile/adam-griffith)
+by [thewrightjess](/profile/thewrightjess), [joyofsoy](/profile/joyofsoy), [Shannon](/profile/Shannon), [warren](/profile/warren), [Margie](/profile/Margie), [liz](/profile/liz), [Becki](/profile/Becki), [adam-griffith](/profile/adam-griffith)
 
-December 22, 2011 19:25 | Tags: [fundraising](../tag/fundraising), [nonprofit](../tag/nonprofit), [parent:about](../tag/parent:about)
+December 22, 2011 19:25 | Tags: [fundraising](/tag/fundraising), [nonprofit](/tag/nonprofit), [parent:about](/tag/parent:about)
 
 ----
 

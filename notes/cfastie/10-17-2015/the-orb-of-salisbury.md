@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/10-17-2015/the-orb-of-salisbury.md
 nid: 12315
 uid: 554
-
 cids: 14730,14757,14760
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/978/original/MMfarm726_100_ps2k.jpg)
 
 # The Orb of Salisbury
 
-by [cfastie](../../../profile/cfastie) | October 17, 2015 04:28
+by [cfastie](/profile/cfastie) | October 17, 2015 04:28
 
-October 17, 2015 04:28 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kite](../tag/kite), [blog](../tag/blog), [gigapan](../tag/gigapan), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [response:12313](../tag/response:12313), [littleplanet](../tag/littleplanet)
+October 17, 2015 04:28 | Tags: [kite-mapping](/tag/kite-mapping), [vermont](/tag/vermont), [kite](/tag/kite), [blog](/tag/blog), [gigapan](/tag/gigapan), [saturnv](/tag/saturnv), [skyshield](/tag/skyshield), [half-spherical](/tag/half-spherical), [response:12313](/tag/response:12313), [littleplanet](/tag/littleplanet)
 
 ----
 

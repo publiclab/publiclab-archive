@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/03-02-2014/snowfest-the-movie.md
 nid: 10097
 uid: 554
-
 cids: 8392
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/114/original/IMG_9337b.jpg)
 
 # SNOWFEST the Movie
 
-by [cfastie](../../../profile/cfastie) | March 02, 2014 17:02
+by [cfastie](/profile/cfastie) | March 02, 2014 17:02
 
-March 02, 2014 17:02 | Tags: [video](../tag/video), [vermont](../tag/vermont), [events:vermont](../tag/events:vermont), [riffle](../tag/riffle), [snowfest](../tag/snowfest), [blair-house](../tag/blair-house), [quinzee](../tag/quinzee), [response:10058](../tag/response:10058), [northeast](../tag/northeast), [barnstar:video-documentation](../tag/barnstar:video-documentation), [snowfest2014](../tag/snowfest2014)
+March 02, 2014 17:02 | Tags: [video](/tag/video), [vermont](/tag/vermont), [events:vermont](/tag/events:vermont), [riffle](/tag/riffle), [snowfest](/tag/snowfest), [blair-house](/tag/blair-house), [quinzee](/tag/quinzee), [response:10058](/tag/response:10058), [northeast](/tag/northeast), [barnstar:video-documentation](/tag/barnstar:video-documentation), [snowfest2014](/tag/snowfest2014)
 
 ----
 

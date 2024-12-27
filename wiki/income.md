@@ -6,12 +6,12 @@ author: warren
 path: /wiki/income.md
 nid: 555
 uid: 1
-
+cids: 
 ---
 
 # Income
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 November 10, 2011 16:30 | Tags: 
 

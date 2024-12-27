@@ -6,16 +6,14 @@ author: kellyraymond
 path: /notes/kellyraymond/03-04-2020/art-in-ruins-274-weybosset-street.md
 nid: 23012
 uid: 664202
-
 cids: 
-
 ---
 
 # Art in Ruins (274 Weybosset Street)
 
-by [kellyraymond](../../../profile/kellyraymond) | March 04, 2020 16:48
+by [kellyraymond](/profile/kellyraymond) | March 04, 2020 16:48
 
-March 04, 2020 16:48 | Tags: [hidden:response](../tag/hidden:response), [lat:41.7](../tag/lat:41.7), [lat:41.820455](../tag/lat:41.820455), [lon:-71.5](../tag/lon:-71.5), [zoom:10](../tag/zoom:10), [lon:-71.413879](../tag/lon:-71.413879), [response:23080](../tag/response:23080)
+March 04, 2020 16:48 | Tags: [hidden:response](/tag/hidden:response), [lat:41.7](/tag/lat:41.7), [lat:41.820455](/tag/lat:41.820455), [lon:-71.5](/tag/lon:-71.5), [zoom:10](/tag/zoom:10), [lon:-71.413879](/tag/lon:-71.413879), [response:23080](/tag/response:23080)
 
 ----
 

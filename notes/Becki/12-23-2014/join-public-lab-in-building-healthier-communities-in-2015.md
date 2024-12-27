@@ -6,16 +6,14 @@ author: Becki
 path: /notes/Becki/12-23-2014/join-public-lab-in-building-healthier-communities-in-2015.md
 nid: 11495
 uid: 46673
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/528/original/Barnraising_Group_Shot_Fall_2014.jpg)
 
 # Join Public Lab in building healthier communities in 2015
 
-by [Becki](../../../profile/Becki) | December 23, 2014 18:09
+by [Becki](/profile/Becki) | December 23, 2014 18:09
 
 December 23, 2014 18:09 | Tags: 
 

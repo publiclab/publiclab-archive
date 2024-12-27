@@ -6,18 +6,16 @@ author: gauravano
 path: /notes/gauravano/08-12-2018/gsoc-2018-final-work-product-of-draft-feature-and-email-integration-project.md
 nid: 16913
 uid: 515081
-
 cids: 20509
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/157/original/draft_page.png)
 
 # GSoC 2018: Final Work Product of Draft Feature and Email Integration Project 
 
-by [gauravano](../../../profile/gauravano) | August 11, 2018 15:07
+by [gauravano](/profile/gauravano) | August 11, 2018 15:07
 
-August 11, 2018 15:07 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [gsoc-2018-final](../tag/gsoc-2018-final), [draft-feature](../tag/draft-feature), [soc-2018-final-report](../tag/soc-2018-final-report)
+August 11, 2018 15:07 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [soc](/tag/soc), [gsoc-2018](/tag/gsoc-2018), [soc-2018](/tag/soc-2018), [gsoc-2018-final](/tag/gsoc-2018-final), [draft-feature](/tag/draft-feature), [soc-2018-final-report](/tag/soc-2018-final-report)
 
 ----
 

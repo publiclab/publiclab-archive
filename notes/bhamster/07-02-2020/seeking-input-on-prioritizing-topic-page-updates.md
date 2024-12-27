@@ -6,18 +6,16 @@ author: bhamster
 path: /notes/bhamster/07-02-2020/seeking-input-on-prioritizing-topic-page-updates.md
 nid: 24079
 uid: 664477
-
 cids: 27109,27110,27118,27125,27137,27171
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/050/original/Screen_Shot_2020-07-01_at_10.45.43_AM.png)
 
 # Seeking input on prioritizing Topic page updates
 
-by [bhamster](../../../profile/bhamster) | July 02, 2020 15:07
+by [bhamster](/profile/bhamster) | July 02, 2020 15:07
 
-July 02, 2020 15:07 | Tags: [organizers](../tag/organizers), [research](../tag/research), [community-development](../tag/community-development), [topics](../tag/topics), [research-area-review](../tag/research-area-review)
+July 02, 2020 15:07 | Tags: [organizers](/tag/organizers), [research](/tag/research), [community-development](/tag/community-development), [topics](/tag/topics), [research-area-review](/tag/research-area-review)
 
 ----
 

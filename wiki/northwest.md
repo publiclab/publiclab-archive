@@ -6,16 +6,16 @@ author: ann
 path: /wiki/northwest.md
 nid: 11447
 uid: 421543
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/505/original/Screen_Shot_2014-12-18_at_7.16.51_PM.png)
 
 # Northwest
 
-by [ann](../profile/ann), [liz](../profile/liz), [mathew](../profile/mathew)
+by [ann](/profile/ann), [liz](/profile/liz), [mathew](/profile/mathew)
 
-December 10, 2014 01:43 | Tags: [edmonton](../tag/edmonton), [canada](../tag/canada), [alberta](../tag/alberta), [northwest](../tag/northwest), [vancouver](../tag/vancouver), [list:northwest](../tag/list:northwest), [parent:region](../tag/parent:region), [lat:49.2500](../tag/lat:49.2500), [lon:123.1000](../tag/lon:123.1000), [events:northwest](../tag/events:northwest)
+December 10, 2014 01:43 | Tags: [edmonton](/tag/edmonton), [canada](/tag/canada), [alberta](/tag/alberta), [northwest](/tag/northwest), [vancouver](/tag/vancouver), [list:northwest](/tag/list:northwest), [parent:region](/tag/parent:region), [lat:49.2500](/tag/lat:49.2500), [lon:123.1000](/tag/lon:123.1000), [events:northwest](/tag/events:northwest)
 
 ----
 

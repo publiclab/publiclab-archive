@@ -6,16 +6,14 @@ author: jkpetter
 path: /notes/jkpetter/10-10-2016/mapknitter-map-of-prairie-island-pole-mapping-3-grasses.md
 nid: 13543
 uid: 489340
-
 cids: 15602
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/380/original/IMG_0050.JPG)
 
 # MapKnitter map of Prairie Island Pole Mapping 3, Grasses
 
-by [jkpetter](../../../profile/jkpetter) | October 10, 2016 00:20
+by [jkpetter](/profile/jkpetter) | October 10, 2016 00:20
 
 October 10, 2016 00:20 | Tags: 
 

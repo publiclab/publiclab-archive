@@ -6,16 +6,14 @@ author: ajy00
 path: /notes/ajy00/03-28-2018/an-evolution-of-the-spectrometer-for-3d-printing.md
 nid: 16032
 uid: 521938
-
 cids: 
-
 ---
 
 # An evolution of the Spectrometer for 3D printing
 
-by [ajy00](../../../profile/ajy00) | March 28, 2018 15:41
+by [ajy00](/profile/ajy00) | March 28, 2018 15:41
 
-March 28, 2018 15:41 | Tags: [upgrade:spectrometry](../tag/upgrade:spectrometry), [seeks:builds](../tag/seeks:builds)
+March 28, 2018 15:41 | Tags: [upgrade:spectrometry](/tag/upgrade:spectrometry), [seeks:builds](/tag/seeks:builds)
 
 ----
 

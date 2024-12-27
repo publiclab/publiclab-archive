@@ -6,18 +6,16 @@ author: silentsairam
 path: /notes/silentsairam/05-10-2020/particulate-matter-and-its-influence-on-covid-19-and-its-mortality-rate.md
 nid: 23595
 uid: 553044
-
 cids: 26786,26790,26799
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/334/original/effects.jpg)
 
 # Particulate Matter and its influence on CoVID-19 and its mortality rate
 
-by [silentsairam](../../../profile/silentsairam) | May 10, 2020 17:57
+by [silentsairam](/profile/silentsairam) | May 10, 2020 17:57
 
-May 10, 2020 17:57 | Tags: [air-quality](../tag/air-quality), [sensors](../tag/sensors), [lat:12.940322](../tag/lat:12.940322), [lon:80.15625](../tag/lon:80.15625), [zoom:6](../tag/zoom:6), [covidimpact](../tag/covidimpact)
+May 10, 2020 17:57 | Tags: [air-quality](/tag/air-quality), [sensors](/tag/sensors), [lat:12.940322](/tag/lat:12.940322), [lon:80.15625](/tag/lon:80.15625), [zoom:6](/tag/zoom:6), [covidimpact](/tag/covidimpact)
 
 ----
 

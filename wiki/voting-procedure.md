@@ -6,12 +6,12 @@ author: warren
 path: /wiki/voting-procedure.md
 nid: 529
 uid: 1
-
+cids: 
 ---
 
 # Voting procedure
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 October 31, 2011 16:44 | Tags: 
 

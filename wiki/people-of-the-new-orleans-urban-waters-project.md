@@ -6,16 +6,16 @@ author: stevie
 path: /wiki/people-of-the-new-orleans-urban-waters-project.md
 nid: 12091
 uid: 422561
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/846/original/20150523_175051.jpg)
 
 # People of the New Orleans Urban Waters Project
 
-by [stevie](../profile/stevie)
+by [stevie](/profile/stevie)
 
-July 22, 2015 15:52 | Tags: [parent:urban-waters-mapping-nola](../tag/parent:urban-waters-mapping-nola)
+July 22, 2015 15:52 | Tags: [parent:urban-waters-mapping-nola](/tag/parent:urban-waters-mapping-nola)
 
 ----
 

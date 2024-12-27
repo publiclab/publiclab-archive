@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/02-20-2018/proofmode-open-camera.md
 nid: 15786
 uid: 495038
-
 cids: 18546,18585,18626
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/634/original/oc.jpg)
 
 # Proofmode + Open Camera
 
-by [imvec](../../../profile/imvec) | February 20, 2018 12:24
+by [imvec](/profile/imvec) | February 20, 2018 12:24
 
-February 20, 2018 12:24 | Tags: [photography](../tag/photography), [spain](../tag/spain), [android](../tag/android), [reporting](../tag/reporting), [photo-monitoring](../tag/photo-monitoring), [metadata](../tag/metadata), [eu](../tag/eu), [visual-monitoring](../tag/visual-monitoring), [site-survey](../tag/site-survey), [activity:site-survey](../tag/activity:site-survey), [violation-reporting](../tag/violation-reporting), [image-gathering](../tag/image-gathering), [verifcation](../tag/verifcation), [pgp](../tag/pgp), [openpgp](../tag/openpgp), [sha256](../tag/sha256), [guardian-project](../tag/guardian-project), [proofmode](../tag/proofmode), [spill-reporting](../tag/spill-reporting)
+February 20, 2018 12:24 | Tags: [photography](/tag/photography), [spain](/tag/spain), [android](/tag/android), [reporting](/tag/reporting), [photo-monitoring](/tag/photo-monitoring), [metadata](/tag/metadata), [eu](/tag/eu), [visual-monitoring](/tag/visual-monitoring), [site-survey](/tag/site-survey), [activity:site-survey](/tag/activity:site-survey), [violation-reporting](/tag/violation-reporting), [image-gathering](/tag/image-gathering), [verifcation](/tag/verifcation), [pgp](/tag/pgp), [openpgp](/tag/openpgp), [sha256](/tag/sha256), [guardian-project](/tag/guardian-project), [proofmode](/tag/proofmode), [spill-reporting](/tag/spill-reporting)
 
 ----
 

@@ -6,16 +6,14 @@ author: SrishtyMittal
 path: /notes/SrishtyMittal/03-14-2018/rgsoc-proposal-entrepreneurial-network-and-enhanced-ux.md
 nid: 15952
 uid: 526047
-
 cids: 18945,18976,19151,20606
-
 ---
 
 # RGSoC proposal: Entrepreneurial Network And Enhanced UX
 
-by [SrishtyMittal](../../../profile/SrishtyMittal) | March 14, 2018 13:43
+by [SrishtyMittal](/profile/SrishtyMittal) | March 14, 2018 13:43
 
-March 14, 2018 13:43 | Tags: [software](../tag/software), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [soc-2018](../tag/soc-2018), [rgsoc-2018](../tag/rgsoc-2018), [soc-2018-proposals](../tag/soc-2018-proposals)
+March 14, 2018 13:43 | Tags: [software](/tag/software), [rgsoc](/tag/rgsoc), [soc](/tag/soc), [response:13975](/tag/response:13975), [soc-2018](/tag/soc-2018), [rgsoc-2018](/tag/rgsoc-2018), [soc-2018-proposals](/tag/soc-2018-proposals)
 
 ----
 

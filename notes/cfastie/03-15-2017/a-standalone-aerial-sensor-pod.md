@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/03-15-2017/a-standalone-aerial-sensor-pod.md
 nid: 14020
 uid: 554
-
 cids: 16367,16370,16371,16372,16375,16376
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/813/original/GPSpod_parts.jpg)
 
 # A standalone aerial sensor pod
 
-by [cfastie](../../../profile/cfastie) | March 15, 2017 04:44
+by [cfastie](/profile/cfastie) | March 15, 2017 04:44
 
-March 15, 2017 04:44 | Tags: [arduino](../tag/arduino), [gps](../tag/gps), [logging](../tag/logging), [barnstar:basic](../tag/barnstar:basic), [saturnv](../tag/saturnv), [activity:arduino](../tag/activity:arduino), [data_logging](../tag/data_logging), [response:13850](../tag/response:13850), [activity:datalogger](../tag/activity:datalogger), [skypod](../tag/skypod)
+March 15, 2017 04:44 | Tags: [arduino](/tag/arduino), [gps](/tag/gps), [logging](/tag/logging), [barnstar:basic](/tag/barnstar:basic), [saturnv](/tag/saturnv), [activity:arduino](/tag/activity:arduino), [data_logging](/tag/data_logging), [response:13850](/tag/response:13850), [activity:datalogger](/tag/activity:datalogger), [skypod](/tag/skypod)
 
 ----
 

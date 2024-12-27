@@ -6,18 +6,16 @@ author: divyabaid16
 path: /notes/divyabaid16/04-06-2019/gsoc-proposal-mapknitter-image-management-and-synchronous-editing.md
 nid: 18976
 uid: 578652
-
 cids: 23764,23795
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/164/original/mapknitter-yarn.png)
 
 # GSoC proposal: Mapknitter Image Management and Synchronous Editing
 
-by [divyabaid16](../../../profile/divyabaid16) | April 06, 2019 11:20
+by [divyabaid16](/profile/divyabaid16) | April 06, 2019 11:20
 
-April 06, 2019 11:20 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [soc-2019-projects](../tag/soc-2019-projects)
+April 06, 2019 11:20 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [soc](/tag/soc), [response:13975](/tag/response:13975), [rgsoc-2019](/tag/rgsoc-2019), [gsoc-2019](/tag/gsoc-2019), [soc-2019](/tag/soc-2019), [soc-2019-proposals](/tag/soc-2019-proposals), [soc-2019-projects](/tag/soc-2019-projects)
 
 ----
 

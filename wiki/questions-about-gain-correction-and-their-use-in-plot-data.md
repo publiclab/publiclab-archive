@@ -6,14 +6,14 @@ author: dhaffnersr
 path: /wiki/questions-about-gain-correction-and-their-use-in-plot-data.md
 nid: 13246
 uid: 461120
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/810/original/solux_50w_3500k_june_26.png)
 
 # Questions About Gain Correction and their use in Plot Data
 
-by [dhaffnersr](../profile/dhaffnersr), [stoft](../profile/stoft)
+by [dhaffnersr](/profile/dhaffnersr), [stoft](/profile/stoft)
 
 June 27, 2016 15:06 | Tags: 
 

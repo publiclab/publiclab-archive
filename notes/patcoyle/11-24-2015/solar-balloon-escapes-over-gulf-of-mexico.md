@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/11-24-2015/solar-balloon-escapes-over-gulf-of-mexico.md
 nid: 12444
 uid: 77
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/027/original/solar_ballon_escape_from_paper.jpg)
 
 # SOLAR BALLOON ESCAPES OVER GULF OF MEXICO
 
-by [patcoyle](../../../profile/patcoyle) | November 24, 2015 22:55
+by [patcoyle](/profile/patcoyle) | November 24, 2015 22:55
 
-November 24, 2015 22:55 | Tags: [solar-balloon](../tag/solar-balloon), [documentation](../tag/documentation), [barnraising](../tag/barnraising), [the-barnraiser](../tag/the-barnraiser)
+November 24, 2015 22:55 | Tags: [solar-balloon](/tag/solar-balloon), [documentation](/tag/documentation), [barnraising](/tag/barnraising), [the-barnraiser](/tag/the-barnraiser)
 
 ----
 

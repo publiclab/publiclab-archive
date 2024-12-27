@@ -6,14 +6,14 @@ author: briandegger
 path: /wiki/chlorophyll-fluorometer.md
 nid: 10041
 uid: 58232
-
+cids: 
 ---
 
 # Chlorophyll Fluorometer 
 
-by [briandegger](../profile/briandegger)
+by [briandegger](/profile/briandegger)
 
-February 15, 2014 17:16 | Tags: [uv](../tag/uv), [question](../tag/question), [spectroscopy](../tag/spectroscopy), [algae](../tag/algae)
+February 15, 2014 17:16 | Tags: [uv](/tag/uv), [question](/tag/question), [spectroscopy](/tag/spectroscopy), [algae](/tag/algae)
 
 ----
 

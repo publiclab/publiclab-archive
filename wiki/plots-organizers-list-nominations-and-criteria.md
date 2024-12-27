@@ -6,12 +6,12 @@ author: warren
 path: /wiki/plots-organizers-list-nominations-and-criteria.md
 nid: 1860
 uid: 1
-
+cids: 
 ---
 
 # "PLOTS-organizers" list nominations and criteria
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 May 01, 2012 02:59 | Tags: 
 

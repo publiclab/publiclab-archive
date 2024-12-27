@@ -6,18 +6,16 @@ author: GSan
 path: /notes/GSan/08-28-2015/hackear.md
 nid: 12177
 uid: 426547
-
 cids: 12468
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/310/original/dustduino_post1.png)
 
 # HackeAr
 
-by [GSan](../../../profile/GSan) | August 28, 2015 00:56
+by [GSan](/profile/GSan) | August 28, 2015 00:56
 
-August 28, 2015 00:56 | Tags: [air](../tag/air), [transportation](../tag/transportation), [dustduino](../tag/dustduino), [dust](../tag/dust), [brasil](../tag/brasil), [traffic](../tag/traffic), [lang:pt](../tag/lang:pt), [hackear](../tag/hackear), [south-america](../tag/south-america), [replication:12400](../tag/replication:12400)
+August 28, 2015 00:56 | Tags: [air](/tag/air), [transportation](/tag/transportation), [dustduino](/tag/dustduino), [dust](/tag/dust), [brasil](/tag/brasil), [traffic](/tag/traffic), [lang:pt](/tag/lang:pt), [hackear](/tag/hackear), [south-america](/tag/south-america), [replication:12400](/tag/replication:12400)
 
 ----
 

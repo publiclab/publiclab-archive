@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/6-27-2011/slideshow-modifying-plantcam-timelapse-infrared.md
 nid: 357
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0001.JPG)
 
 # Slideshow: Modifying a plantcam for timelapse infrared
 
-by [warren](../../../profile/warren) | June 27, 2011 12:37
+by [warren](/profile/warren) | June 27, 2011 12:37
 
-June 27, 2011 12:37 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [timelapse](../tag/timelapse), [plantcam](../tag/plantcam)
+June 27, 2011 12:37 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [timelapse](/tag/timelapse), [plantcam](/tag/plantcam)
 
 ----
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/grants-mit-100k.md
 nid: 113
 uid: 1
-
+cids: 
 ---
 
 # Grants: MIT 100k
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-March 02, 2011 21:57 | Tags: [education](../tag/education), [kits](../tag/kits), [curriculum](../tag/curriculum), [baloon-mapping](../tag/baloon-mapping), [grants](../tag/grants), [proposal](../tag/proposal), [do_your_own_baloon_mapping](../tag/do_your_own_baloon_mapping)
+March 02, 2011 21:57 | Tags: [education](/tag/education), [kits](/tag/kits), [curriculum](/tag/curriculum), [baloon-mapping](/tag/baloon-mapping), [grants](/tag/grants), [proposal](/tag/proposal), [do_your_own_baloon_mapping](/tag/do_your_own_baloon_mapping)
 
 ----
 

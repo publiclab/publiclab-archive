@@ -6,18 +6,16 @@ author: RocketScientist
 path: /notes/RocketScientist/04-11-2019/s4-small-satellites-for-secondary-students.md
 nid: 19041
 uid: 583835
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/421/original/fullsizeoutput_acb3.jpeg)
 
 # S4: Small Satellites for Secondary Students
 
-by [RocketScientist](../../../profile/RocketScientist) | April 11, 2019 23:06
+by [RocketScientist](/profile/RocketScientist) | April 11, 2019 23:06
 
-April 11, 2019 23:06 | Tags: [spectrometer](../tag/spectrometer), [balloon-telemetry-kit](../tag/balloon-telemetry-kit), [sensor](../tag/sensor), [first-time-poster](../tag/first-time-poster)
+April 11, 2019 23:06 | Tags: [spectrometer](/tag/spectrometer), [balloon-telemetry-kit](/tag/balloon-telemetry-kit), [sensor](/tag/sensor), [first-time-poster](/tag/first-time-poster)
 
 ----
 

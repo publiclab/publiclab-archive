@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/4-28-2011/balloon-mapping-harvard-gsd.md
 nid: 202
 uid: 1
-
 cids: 247,248
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2011-04-28 at 3.10.22 PM.png)
 
 # Balloon Mapping Harvard GSD
 
-by [warren](../../../profile/warren) | April 28, 2011 19:11
+by [warren](/profile/warren) | April 28, 2011 19:11
 
-April 28, 2011 19:11 | Tags: [balloon-mapping](../tag/balloon-mapping), [boston](../tag/boston), [massachusetts](../tag/massachusetts), [northeast](../tag/northeast)
+April 28, 2011 19:11 | Tags: [balloon-mapping](/tag/balloon-mapping), [boston](/tag/boston), [massachusetts](/tag/massachusetts), [northeast](/tag/northeast)
 
 ----
 

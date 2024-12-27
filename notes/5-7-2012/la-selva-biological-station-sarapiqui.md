@@ -6,16 +6,14 @@ author:
 path: /notes/5-7-2012/la-selva-biological-station-sarapiqui.md
 nid: 2095
 uid: 0
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/RECNX_20110219_080539_080639_medium_0.jpg)
 
 # la-selva-biological-station--sarapiqui
 
-by [](../../../profile/) | May 07, 2012 21:08
+by [](/profile/) | May 07, 2012 21:08
 
 May 07, 2012 21:08 | Tags: 
 

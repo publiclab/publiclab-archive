@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/12-10-2018/extra-super-volatile.md
 nid: 17848
 uid: 554
-
 cids: 21554,21557
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/217/original/VOC3d_20181130-4304.JPG)
 
 # Extra Super Volatile
 
-by [cfastie](../../../profile/cfastie) | December 10, 2018 05:31
+by [cfastie](/profile/cfastie) | December 10, 2018 05:31
 
-December 10, 2018 05:31 | Tags: [arduino](../tag/arduino), [air-quality](../tag/air-quality), [sensors](../tag/sensors), [dust](../tag/dust), [indoor-air-quality-monitoring](../tag/indoor-air-quality-monitoring), [hardware](../tag/hardware), [data-logging](../tag/data-logging), [activity:particulate-monitoring](../tag/activity:particulate-monitoring), [activity:arduino](../tag/activity:arduino), [nano-data-logger](../tag/nano-data-logger), [activity:nano-data-logger](../tag/activity:nano-data-logger), [activity:data-logging](../tag/activity:data-logging), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [plantower](../tag/plantower), [pms7003](../tag/pms7003), [air-quality-monitoring](../tag/air-quality-monitoring), [ccs811-gas-sensor](../tag/ccs811-gas-sensor)
+December 10, 2018 05:31 | Tags: [arduino](/tag/arduino), [air-quality](/tag/air-quality), [sensors](/tag/sensors), [dust](/tag/dust), [indoor-air-quality-monitoring](/tag/indoor-air-quality-monitoring), [hardware](/tag/hardware), [data-logging](/tag/data-logging), [activity:particulate-monitoring](/tag/activity:particulate-monitoring), [activity:arduino](/tag/activity:arduino), [nano-data-logger](/tag/nano-data-logger), [activity:nano-data-logger](/tag/activity:nano-data-logger), [activity:data-logging](/tag/activity:data-logging), [air-sensors](/tag/air-sensors), [purpleair](/tag/purpleair), [plantower](/tag/plantower), [pms7003](/tag/pms7003), [air-quality-monitoring](/tag/air-quality-monitoring), [ccs811-gas-sensor](/tag/ccs811-gas-sensor)
 
 ----
 

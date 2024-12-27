@@ -6,12 +6,12 @@ author: warren
 path: /feature/post-chooser.md
 nid: 24228
 uid: 1
-
+cids: 
 ---
 
 # post-chooser
 
-July 28, 2020 16:12 | Tags: [choose-screen](../tag/choose-screen)
+July 28, 2020 16:12 | Tags: [choose-screen](/tag/choose-screen)
 
 ----
 

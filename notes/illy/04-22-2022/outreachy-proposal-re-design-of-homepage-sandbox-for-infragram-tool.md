@@ -6,18 +6,16 @@ author: illy
 path: /notes/illy/04-22-2022/outreachy-proposal-re-design-of-homepage-sandbox-for-infragram-tool.md
 nid: 30577
 uid: 793723
-
 cids: 30132
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/605/original/Sandbox_both.png)
 
 # Outreachy proposal: Re-design of Homepage & Sandbox for Infragram tool
 
-by [illy](../../../profile/illy) | April 22, 2022 14:24
+by [illy](/profile/illy) | April 22, 2022 14:24
 
-April 22, 2022 14:24 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
+April 22, 2022 14:24 | Tags: [software](/tag/software), [outreachy](/tag/outreachy), [first-time-poster](/tag/first-time-poster), [outreachy-2022](/tag/outreachy-2022), [outreachy-summer-2022](/tag/outreachy-summer-2022)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/09-12-2018/introducing-a-new-privacy-policy-for-public-lab.md
 nid: 17103
 uid: 1
-
 cids: 20665,20670
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/544/original/pl-narrow.png)
 
 # Introducing a new Privacy Policy for Public Lab
 
-by [warren](../../../profile/warren) | September 12, 2018 22:16
+by [warren](/profile/warren) | September 12, 2018 22:16
 
-September 12, 2018 22:16 | Tags: [blog](../tag/blog), [privacy](../tag/privacy), [privacy-policy](../tag/privacy-policy), [gdpr](../tag/gdpr)
+September 12, 2018 22:16 | Tags: [blog](/tag/blog), [privacy](/tag/privacy), [privacy-policy](/tag/privacy-policy), [gdpr](/tag/gdpr)
 
 ----
 

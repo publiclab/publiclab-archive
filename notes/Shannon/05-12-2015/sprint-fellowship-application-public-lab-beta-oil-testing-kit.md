@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/05-12-2015/sprint-fellowship-application-public-lab-beta-oil-testing-kit.md
 nid: 11806
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/865/original/plots-logo-transparent.jpg)
 
 # Sprint Fellowship Application: Public Lab Beta Oil Testing Kit
 
-by [Shannon](../../../profile/Shannon) | May 12, 2015 12:59
+by [Shannon](/profile/Shannon) | May 12, 2015 12:59
 
-May 12, 2015 12:59 | Tags: [oil-testing-kit](../tag/oil-testing-kit), [fellows](../tag/fellows)
+May 12, 2015 12:59 | Tags: [oil-testing-kit](/tag/oil-testing-kit), [fellows](/tag/fellows)
 
 ----
 

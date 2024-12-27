@@ -6,14 +6,14 @@ author: liz
 path: /wiki/membership.md
 nid: 6746
 uid: 7
-
+cids: 
 ---
 
 # Membership
 
-by [warren](../profile/warren), [Becki](../profile/Becki), [liz](../profile/liz)
+by [warren](/profile/warren), [Becki](/profile/Becki), [liz](/profile/liz)
 
-April 09, 2013 22:21 | Tags: [community](../tag/community), [style:wide](../tag/style:wide), [style:presentation](../tag/style:presentation), [locked](../tag/locked), [sidebar:none](../tag/sidebar:none)
+April 09, 2013 22:21 | Tags: [community](/tag/community), [style:wide](/tag/style:wide), [style:presentation](/tag/style:presentation), [locked](/tag/locked), [sidebar:none](/tag/sidebar:none)
 
 ----
 

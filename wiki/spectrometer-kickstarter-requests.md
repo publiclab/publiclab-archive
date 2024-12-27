@@ -6,12 +6,12 @@ author: warren
 path: /wiki/spectrometer-kickstarter-requests.md
 nid: 3910
 uid: 1
-
+cids: 
 ---
 
 # Spectrometer Kickstarter requests
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 September 20, 2012 19:28 | Tags: 
 

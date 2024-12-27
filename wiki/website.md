@@ -6,14 +6,14 @@ author: warren
 path: /wiki/website.md
 nid: 18871
 uid: 1
-
+cids: 
 ---
 
 # How to use and improve this website
 
-by [laurel_mire](../profile/laurel_mire), [liz](../profile/liz), [warren](../profile/warren)
+by [laurel_mire](/profile/laurel_mire), [liz](/profile/liz), [warren](/profile/warren)
 
-March 26, 2019 20:23 | Tags: [website](../tag/website)
+March 26, 2019 20:23 | Tags: [website](/tag/website)
 
 ----
 
@@ -66,7 +66,7 @@ These pages provide documentation on creating content on this website:
 
 ## Questions
 
-[website-structure](../../tag/question:website-structure)
+[website-structure](/tag/question:website-structure)
 
 ****
 

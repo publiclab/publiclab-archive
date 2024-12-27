@@ -6,18 +6,16 @@ author: hagitkeysar
 path: /notes/hagitkeysar/07-28-2015/a-lending-library-shipping-and-other-troubles-in-the-holyland.md
 nid: 12104
 uid: 152
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/911/original/Screen_Shot_2015-07-28_at_22.37.46.png)
 
 # A Lending Library (shipping and other troubles in the holyland)
 
-by [hagitkeysar](../../../profile/hagitkeysar) | July 28, 2015 19:40
+by [hagitkeysar](/profile/hagitkeysar) | July 28, 2015 19:40
 
-July 28, 2015 19:40 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [jerusalem](../tag/jerusalem), [diy](../tag/diy), [israel](../tag/israel), [palestine](../tag/palestine), [lending-library](../tag/lending-library), [troubles-in-the-holyland](../tag/troubles-in-the-holyland), [middle-east](../tag/middle-east)
+July 28, 2015 19:40 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [jerusalem](/tag/jerusalem), [diy](/tag/diy), [israel](/tag/israel), [palestine](/tag/palestine), [lending-library](/tag/lending-library), [troubles-in-the-holyland](/tag/troubles-in-the-holyland), [middle-east](/tag/middle-east)
 
 ----
 

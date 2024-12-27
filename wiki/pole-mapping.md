@@ -6,16 +6,16 @@ author: liz
 path: /wiki/pole-mapping.md
 nid: 11512
 uid: 7
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/488/original/Pole_and_Garden_Photos_3.jpg)
 
 # Pole Mapping
 
-by [warren](../profile/warren), [joyofsoy](../profile/joyofsoy), [natalie](../profile/natalie), [stevie](../profile/stevie), [liz](../profile/liz)
+by [warren](/profile/warren), [joyofsoy](/profile/joyofsoy), [natalie](/profile/natalie), [stevie](/profile/stevie), [liz](/profile/liz)
 
-January 07, 2015 22:39 | Tags: [agriculture](../tag/agriculture), [polemapping](../tag/polemapping), [urban-planning](../tag/urban-planning), [pole-mapping](../tag/pole-mapping), [tool](../tag/tool), [land-use](../tag/land-use), [difficulty:medium](../tag/difficulty:medium), [status:in-progress](../tag/status:in-progress), [time:1h](../tag/time:1h), [activity:aerial-photography](../tag/activity:aerial-photography), [category:monitor](../tag/category:monitor), [parent:aerial-photography](../tag/parent:aerial-photography), [method](../tag/method), [land-change](../tag/land-change)
+January 07, 2015 22:39 | Tags: [agriculture](/tag/agriculture), [polemapping](/tag/polemapping), [urban-planning](/tag/urban-planning), [pole-mapping](/tag/pole-mapping), [tool](/tag/tool), [land-use](/tag/land-use), [difficulty:medium](/tag/difficulty:medium), [status:in-progress](/tag/status:in-progress), [time:1h](/tag/time:1h), [activity:aerial-photography](/tag/activity:aerial-photography), [category:monitor](/tag/category:monitor), [parent:aerial-photography](/tag/parent:aerial-photography), [method](/tag/method), [land-change](/tag/land-change)
 
 ----
 
@@ -31,7 +31,7 @@ _Below: from http://publiclab.org/notes/liz/09-17-2014/newark-green-garden-2nd-a
 
 [![IMG_2318.JPG](https://i.publiclab.org/system/images/photos/000/006/831/original/IMG_2318.JPG)](https://i.publiclab.org/system/images/photos/000/006/831/original/IMG_2318.JPG)
 
-[grid:activity:pole-mapping](../../tag/grid:activity:pole-mapping)
+[grid:activity:pole-mapping](/tag/grid:activity:pole-mapping)
 
 ****
 Another pole developed by the Public Lab Gulf Coast Chapter, see @ddileona [post for design.](http://publiclab.org/notes/ddileona/03-17-2015/spring-fling-building-a-better-pole-for-mapping)

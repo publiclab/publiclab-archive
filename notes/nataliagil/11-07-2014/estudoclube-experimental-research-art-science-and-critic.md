@@ -6,16 +6,14 @@ author: nataliagil
 path: /notes/nataliagil/11-07-2014/estudoclube-experimental-research-art-science-and-critic.md
 nid: 11320
 uid: 431087
-
 cids: 
-
 ---
 
 # estudoclube - experimental research: art, science and critic
 
-by [nataliagil](../../../profile/nataliagil) | November 07, 2014 02:11
+by [nataliagil](/profile/nataliagil) | November 07, 2014 02:11
 
-November 07, 2014 02:11 | Tags: [education](../tag/education), [science](../tag/science), [research](../tag/research), [art](../tag/art), [experimental](../tag/experimental), [critic](../tag/critic)
+November 07, 2014 02:11 | Tags: [education](/tag/education), [science](/tag/science), [research](/tag/research), [art](/tag/art), [experimental](/tag/experimental), [critic](/tag/critic)
 
 ----
 

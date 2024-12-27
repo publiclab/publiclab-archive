@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/shannon/8-5-2012/prep-canisters-photo-strips.md
 nid: 3140
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/7447204808_df5804b033.jpg)
 
 # Prep of canisters for photo strips
 
-by [Shannon](../../../profile/Shannon) | August 05, 2012 16:35
+by [Shannon](/profile/Shannon) | August 05, 2012 16:35
 
-August 05, 2012 16:35 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [wetlands](../tag/wetlands)
+August 05, 2012 16:35 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [wetlands](/tag/wetlands)
 
 ----
 

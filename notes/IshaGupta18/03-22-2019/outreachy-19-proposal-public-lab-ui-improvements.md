@@ -6,18 +6,16 @@ author: IshaGupta18
 path: /notes/IshaGupta18/03-22-2019/outreachy-19-proposal-public-lab-ui-improvements.md
 nid: 18806
 uid: 568043
-
 cids: 23366,23371,23372,23384,23385,23386,23391,23397,23405,23416,23421,23422,23453,23457,23458,23459,23460,23573,23583,23604,23713
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/462/original/Copy_of_PublicLab_mockups.jpg)
 
 # Outreachy'19 Proposal: Public Lab UI Improvements
 
-by [IshaGupta18](../../../profile/IshaGupta18) | March 22, 2019 03:53
+by [IshaGupta18](/profile/IshaGupta18) | March 22, 2019 03:53
 
-March 22, 2019 03:53 | Tags: [software](../tag/software), [soc](../tag/soc), [outreachy](../tag/outreachy), [response:17359](../tag/response:17359), [soc-2019](../tag/soc-2019), [outreachy-2019](../tag/outreachy-2019), [outreachy-2019-proposals](../tag/outreachy-2019-proposals)
+March 22, 2019 03:53 | Tags: [software](/tag/software), [soc](/tag/soc), [outreachy](/tag/outreachy), [response:17359](/tag/response:17359), [soc-2019](/tag/soc-2019), [outreachy-2019](/tag/outreachy-2019), [outreachy-2019-proposals](/tag/outreachy-2019-proposals)
 
 ----
 

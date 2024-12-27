@@ -6,14 +6,14 @@ author: liz
 path: /wiki/cypress-hills-air-quality-initiative.md
 nid: 6442
 uid: 7
-
+cids: 
 ---
 
 # Cypress Hills Air Quality Initiative
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-March 19, 2013 23:45 | Tags: [new-york-city](../tag/new-york-city), [chaq](../tag/chaq), [air-quality](../tag/air-quality), [air-quality-egg](../tag/air-quality-egg)
+March 19, 2013 23:45 | Tags: [new-york-city](/tag/new-york-city), [chaq](/tag/chaq), [air-quality](/tag/air-quality), [air-quality-egg](/tag/air-quality-egg)
 
 ----
 

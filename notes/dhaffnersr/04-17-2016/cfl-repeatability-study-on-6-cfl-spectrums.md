@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/04-17-2016/cfl-repeatability-study-on-6-cfl-spectrums.md
 nid: 12995
 uid: 461120
-
 cids: 14343,14349,14350
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/630/original/slit_width_comparisons_mar3.png)
 
 # CFL Repeatability Study on 6 CFL spectrums
 
-by [dhaffnersr](../../../profile/dhaffnersr) | April 17, 2016 20:14
+by [dhaffnersr](/profile/dhaffnersr) | April 17, 2016 20:14
 
 April 17, 2016 20:14 | Tags: 
 

@@ -6,16 +6,16 @@ author: gilbert
 path: /wiki/chronology-presidential-contributions-to-public-health-the-environment.md
 nid: 15266
 uid: 508551
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/655/original/download.jpg)
 
 # Chronology: Presidential Contributions to  Public Health & the Environment
 
-by [gilbert](../profile/gilbert)
+by [gilbert](/profile/gilbert)
 
-November 29, 2017 19:15 | Tags: [environmental-regulations](../tag/environmental-regulations), [executive-orders](../tag/executive-orders), [deregulation](../tag/deregulation), [presidents-usa](../tag/presidents-usa), [public-health-legislation](../tag/public-health-legislation)
+November 29, 2017 19:15 | Tags: [environmental-regulations](/tag/environmental-regulations), [executive-orders](/tag/executive-orders), [deregulation](/tag/deregulation), [presidents-usa](/tag/presidents-usa), [public-health-legislation](/tag/public-health-legislation)
 
 ----
 

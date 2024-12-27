@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/02-12-2014/snappicam-a-raspberry-pi-point-shoot.md
 nid: 10029
 uid: 4
-
 cids: 9215,9227
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/876/original/NewImage13.png)
 
 # SnapPiCam: a Raspberry Pi Point & Shoot
 
-by [mathew](../../../profile/mathew) | February 12, 2014 01:00
+by [mathew](/profile/mathew) | February 12, 2014 01:00
 
-February 12, 2014 01:00 | Tags: [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [pi-camera](../tag/pi-camera), [infragram-pi](../tag/infragram-pi)
+February 12, 2014 01:00 | Tags: [raspberry-pi](/tag/raspberry-pi), [infragram](/tag/infragram), [pi-camera](/tag/pi-camera), [infragram-pi](/tag/infragram-pi)
 
 ----
 

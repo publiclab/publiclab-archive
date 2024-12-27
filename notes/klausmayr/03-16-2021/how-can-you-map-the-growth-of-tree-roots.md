@@ -6,16 +6,14 @@ author: klausmayr
 path: /notes/klausmayr/03-16-2021/how-can-you-map-the-growth-of-tree-roots.md
 nid: 25946
 uid: 737257
-
 cids: 
-
 ---
 
 # How can you map the growth of tree roots?
 
-by [klausmayr](../../../profile/klausmayr) | March 16, 2021 17:07
+by [klausmayr](/profile/klausmayr) | March 16, 2021 17:07
 
-March 16, 2021 17:07 | Tags: [trees](../tag/trees), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster), [roots](../tag/roots), [root-growth](../tag/root-growth)
+March 16, 2021 17:07 | Tags: [trees](/tag/trees), [question:general](/tag/question:general), [general](/tag/general), [first-time-poster](/tag/first-time-poster), [roots](/tag/roots), [root-growth](/tag/root-growth)
 
 ----
 

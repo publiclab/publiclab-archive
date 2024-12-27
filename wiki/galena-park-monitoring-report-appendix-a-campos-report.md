@@ -6,14 +6,14 @@ author: liz
 path: /wiki/galena-park-monitoring-report-appendix-a-campos-report.md
 nid: 12185
 uid: 7
-
+cids: 
 ---
 
 # galena-park-monitoring-report-appendix-a-campos-report
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-August 28, 2015 21:29 | Tags: [parent:texas](../tag/parent:texas), [texas](../tag/texas)
+August 28, 2015 21:29 | Tags: [parent:texas](/tag/parent:texas), [texas](/tag/texas)
 
 ----
 

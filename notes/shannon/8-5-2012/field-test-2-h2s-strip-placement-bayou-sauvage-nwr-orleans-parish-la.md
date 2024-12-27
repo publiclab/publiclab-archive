@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/shannon/8-5-2012/field-test-2-h2s-strip-placement-bayou-sauvage-nwr-orleans-parish-la.md
 nid: 3141
 uid: 9
-
 cids: 1141
-
 ---
 
 ![](https://publiclab.org/sites/default/files/GPX H2s2  Bayou Sauvage.jpg)
 
 # Field test #2: H2S strip placement in Bayou Sauvage NWR, Orleans Parish, LA
 
-by [Shannon](../../../profile/Shannon) | August 05, 2012 16:53
+by [Shannon](/profile/Shannon) | August 05, 2012 16:53
 
-August 05, 2012 16:53 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [wetlands](../tag/wetlands), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s)
+August 05, 2012 16:53 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [wetlands](/tag/wetlands), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s)
 
 ----
 

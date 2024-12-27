@@ -6,18 +6,16 @@ author: Giiwedin
 path: /notes/Giiwedin/09-20-2022/what-is-this-on-the-manoomin-wild-rice.md
 nid: 34972
 uid: 799642
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/165/original/0574F654-C3A3-4F45-8B2F-A501D0B51860.jpeg)
 
 # What is this on the Manoomin, wild rice?
 
-by [Giiwedin](../../../profile/Giiwedin) | September 20, 2022 05:59
+by [Giiwedin](/profile/Giiwedin) | September 20, 2022 05:59
 
-September 20, 2022 05:59 | Tags: [lake](../tag/lake), [fungus](../tag/fungus), [biodiversity](../tag/biodiversity), [wild-rice](../tag/wild-rice), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [manoomin](../tag/manoomin), [wildrice](../tag/wildrice), [aquatic-species](../tag/aquatic-species), [aquatuc-species](../tag/aquatuc-species)
+September 20, 2022 05:59 | Tags: [lake](/tag/lake), [fungus](/tag/fungus), [biodiversity](/tag/biodiversity), [wild-rice](/tag/wild-rice), [mn-land-manoomin-protection](/tag/mn-land-manoomin-protection), [manoomin](/tag/manoomin), [wildrice](/tag/wildrice), [aquatic-species](/tag/aquatic-species), [aquatuc-species](/tag/aquatuc-species)
 
 ----
 

@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/01-17-2014/updated-maps-construction-site-activities-near-mocho-park.md
 nid: 9956
 uid: 77
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/582/original/IMG_1205.JPG)
 
 # Updated maps - construction site activities near Mocho Park
 
-by [patcoyle](../../../profile/patcoyle) | January 17, 2014 23:56
+by [patcoyle](/profile/patcoyle) | January 17, 2014 23:56
 
-January 17, 2014 23:56 | Tags: [time-lapse](../tag/time-lapse), [kap](../tag/kap), [sx260hs](../tag/sx260hs), [construction](../tag/construction), [juice-bottle-rig](../tag/juice-bottle-rig)
+January 17, 2014 23:56 | Tags: [time-lapse](/tag/time-lapse), [kap](/tag/kap), [sx260hs](/tag/sx260hs), [construction](/tag/construction), [juice-bottle-rig](/tag/juice-bottle-rig)
 
 ----
 

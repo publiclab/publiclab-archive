@@ -6,14 +6,14 @@ author: mathew
 path: /wiki/pm-dev.md
 nid: 12689
 uid: 4
-
+cids: 
 ---
 
 # Passive Particulate Tool Development
 
-by [warren](../profile/warren), [mathew](../profile/mathew), [stevie](../profile/stevie), [gretchengehrke](../profile/gretchengehrke)
+by [warren](/profile/warren), [mathew](/profile/mathew), [stevie](/profile/stevie), [gretchengehrke](/profile/gretchengehrke)
 
-February 15, 2016 06:28 | Tags: [parent:pm](../tag/parent:pm)
+February 15, 2016 06:28 | Tags: [parent:pm](/tag/parent:pm)
 
 ----
 
@@ -43,7 +43,7 @@ Towards that end, we're formulating a series of questions using the new Q&A syst
 
 <a class="btn btn-primary" href="/post?tags=pm,passive-pm,question:pm,question:passive-pm,dust,particle-monitoring">Ask a question about passive-pm</a>
 
-[question:passive-pm](../../tag/question:passive-pm)
+[question:passive-pm](/tag/question:passive-pm)
 
 ****
 

@@ -6,18 +6,16 @@ author: johnb1003
 path: /notes/johnb1003/10-24-2018/air-sensor-project.md
 nid: 17388
 uid: 556306
-
 cids: 20963,21022,21072
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/954/original/fullsizeoutput_364.jpeg)
 
 # Air Sensor Project
 
-by [johnb1003](../../../profile/johnb1003) | October 24, 2018 19:26
+by [johnb1003](/profile/johnb1003) | October 24, 2018 19:26
 
-October 24, 2018 19:26 | Tags: [particulate-sensing](../tag/particulate-sensing), [amherst](../tag/amherst), [massachusetts](../tag/massachusetts), [air-quality](../tag/air-quality), [umass-amherst](../tag/umass-amherst), [dust](../tag/dust), [pm](../tag/pm), [dust-monitoring](../tag/dust-monitoring), [dht22](../tag/dht22), [shinyei](../tag/shinyei), [air-sensing](../tag/air-sensing), [air-sensors](../tag/air-sensors), [air-sensor-projects](../tag/air-sensor-projects)
+October 24, 2018 19:26 | Tags: [particulate-sensing](/tag/particulate-sensing), [amherst](/tag/amherst), [massachusetts](/tag/massachusetts), [air-quality](/tag/air-quality), [umass-amherst](/tag/umass-amherst), [dust](/tag/dust), [pm](/tag/pm), [dust-monitoring](/tag/dust-monitoring), [dht22](/tag/dht22), [shinyei](/tag/shinyei), [air-sensing](/tag/air-sensing), [air-sensors](/tag/air-sensors), [air-sensor-projects](/tag/air-sensor-projects)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/05-20-2019/set-up-a-raspberry-pi-camera-with-pi-builder.md
 nid: 19462
 uid: 1
-
 cids: 24214,24243,24266,24267,24299,24300,25042,25049,25050,25052,25058,25060,25071,25078,25090,25178,25179,25230,25537,26488,28849
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/344/original/Screen_Shot_2019-05-17_at_5.20.32_PM.png)
 
 # Set up a Raspberry Pi Camera with Pi Builder
 
-by [warren](../../../profile/warren) | May 20, 2019 15:11
+by [warren](/profile/warren) | May 20, 2019 15:11
 
-May 20, 2019 15:11 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [nasa](../tag/nasa), [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [timelapse](../tag/timelapse), [pi-camera](../tag/pi-camera), [activity:timelapse](../tag/activity:timelapse), [activity:infragram](../tag/activity:infragram), [aren](../tag/aren), [location:blurred](../tag/location:blurred), [activity:pi-camera](../tag/activity:pi-camera), [kite-](../tag/kite-), [balloon-](../tag/balloon-), [infragram-pi](../tag/infragram-pi), [activity:infragram-pi](../tag/activity:infragram-pi), [activity:pi-camera-setup](../tag/activity:pi-camera-setup), [pin:activity:pi-camera-setup](../tag/pin:activity:pi-camera-setup), [zoom:6](../tag/zoom:6), [lat:46](../tag/lat:46), [lon:48](../tag/lon:48), [place:russia](../tag/place:russia)
+May 20, 2019 15:11 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [nasa](/tag/nasa), [raspberry-pi](/tag/raspberry-pi), [infragram](/tag/infragram), [timelapse](/tag/timelapse), [pi-camera](/tag/pi-camera), [activity:timelapse](/tag/activity:timelapse), [activity:infragram](/tag/activity:infragram), [aren](/tag/aren), [location:blurred](/tag/location:blurred), [activity:pi-camera](/tag/activity:pi-camera), [kite-](/tag/kite-), [balloon-](/tag/balloon-), [infragram-pi](/tag/infragram-pi), [activity:infragram-pi](/tag/activity:infragram-pi), [activity:pi-camera-setup](/tag/activity:pi-camera-setup), [pin:activity:pi-camera-setup](/tag/pin:activity:pi-camera-setup), [zoom:6](/tag/zoom:6), [lat:46](/tag/lat:46), [lon:48](/tag/lon:48), [place:russia](/tag/place:russia)
 
 ----
 

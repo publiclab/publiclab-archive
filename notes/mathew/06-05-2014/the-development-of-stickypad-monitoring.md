@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/06-05-2014/the-development-of-stickypad-monitoring.md
 nid: 10530
 uid: 4
-
 cids: 9143,9144,10570,19583,19590,29086
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/527/original/Screen_Shot_2014-06-04_at_8.39.39_PM.png)
 
 # The development of stickypad monitoring
 
-by [mathew](../../../profile/mathew) | June 05, 2014 03:42
+by [mathew](/profile/mathew) | June 05, 2014 03:42
 
-June 05, 2014 03:42 | Tags: [air](../tag/air), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [midwest](../tag/midwest), [particle-monitoring](../tag/particle-monitoring), [particulate-monitoring](../tag/particulate-monitoring), [openair](../tag/openair), [passive-pm](../tag/passive-pm), [activity:dust-collection](../tag/activity:dust-collection), [activity:sticky-pad](../tag/activity:sticky-pad)
+June 05, 2014 03:42 | Tags: [air](/tag/air), [dust](/tag/dust), [silica](/tag/silica), [pm](/tag/pm), [midwest](/tag/midwest), [particle-monitoring](/tag/particle-monitoring), [particulate-monitoring](/tag/particulate-monitoring), [openair](/tag/openair), [passive-pm](/tag/passive-pm), [activity:dust-collection](/tag/activity:dust-collection), [activity:sticky-pad](/tag/activity:sticky-pad)
 
 ----
 

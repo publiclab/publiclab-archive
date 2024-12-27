@@ -6,18 +6,16 @@ author: homechemist
 path: /notes/homechemist/08-30-2013/homemade-spectometer-for-sample-absorstion-analysys-and-a-type-of-ramman-spectroscopy.md
 nid: 9077
 uid: 212574
-
 cids: 6745,6746,6747,6748
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/342/original/test.jpg)
 
 # HOMEMADE SPECTROMETER FOR SAMPLE ABSORPTION ANALYSIS AND A TYPE OF RAMMAN SPECTROSCOPY
 
-by [homechemist](../../../profile/homechemist) | August 30, 2013 10:09
+by [homechemist](/profile/homechemist) | August 30, 2013 10:09
 
-August 30, 2013 10:09 | Tags: [spectrometer](../tag/spectrometer), [spain](../tag/spain), [raman](../tag/raman), [soil](../tag/soil), [chlorophyll](../tag/chlorophyll), [first-time-poster](../tag/first-time-poster)
+August 30, 2013 10:09 | Tags: [spectrometer](/tag/spectrometer), [spain](/tag/spain), [raman](/tag/raman), [soil](/tag/soil), [chlorophyll](/tag/chlorophyll), [first-time-poster](/tag/first-time-poster)
 
 ----
 

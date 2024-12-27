@@ -6,18 +6,16 @@ author: sara
 path: /notes/sara/7-11-2012/bayou-sauvage-results-1-problems-labeling-test-strips.md
 nid: 2762
 uid: 8
-
 cids: 1000,1001,1002,1003
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Test strip labels stuck on shipping material.jpeg)
 
 # Bayou Sauvage Results 1: problems in labeling test strips
 
-by [sara](../../../profile/sara) | July 12, 2012 01:35
+by [sara](/profile/sara) | July 12, 2012 01:35
 
-July 12, 2012 01:35 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper)
+July 12, 2012 01:35 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [h2s-photopaper](/tag/h2s-photopaper)
 
 ----
 

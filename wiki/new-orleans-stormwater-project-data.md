@@ -6,16 +6,16 @@ author: stevie
 path: /wiki/new-orleans-stormwater-project-data.md
 nid: 14517
 uid: 422561
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/798/original/20170614_105500.jpg)
 
 # New Orleans Stormwater Project Data
 
-by [stevie](../profile/stevie), [warren](../profile/warren)
+by [stevie](/profile/stevie), [warren](/profile/warren)
 
-June 09, 2017 21:45 | Tags: [new-orleans](../tag/new-orleans), [stormwater](../tag/stormwater), [rain](../tag/rain)
+June 09, 2017 21:45 | Tags: [new-orleans](/tag/new-orleans), [stormwater](/tag/stormwater), [rain](/tag/rain)
 
 ----
 

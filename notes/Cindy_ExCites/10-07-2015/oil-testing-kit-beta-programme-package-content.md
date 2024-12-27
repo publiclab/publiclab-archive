@@ -6,18 +6,16 @@ author: cindy_excites
 path: /notes/Cindy_ExCites/10-07-2015/oil-testing-kit-beta-programme-package-content.md
 nid: 12276
 uid: 1083
-
 cids: 12759
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/812/original/IMG_4015.JPG)
 
 # Oil testing kit Beta programme - Package content
 
-by [cindy_excites](../../../profile/cindy_excites) | October 07, 2015 15:47
+by [cindy_excites](/profile/cindy_excites) | October 07, 2015 15:47
 
-October 07, 2015 15:47 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta)
+October 07, 2015 15:47 | Tags: [spectrometer](/tag/spectrometer), [fluorescence](/tag/fluorescence), [oil-testing-kit](/tag/oil-testing-kit), [oil-testing-kit-beta](/tag/oil-testing-kit-beta)
 
 ----
 

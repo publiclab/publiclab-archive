@@ -6,18 +6,16 @@ author: JirkaPanek
 path: /notes/JirkaPanek/04-01-2014/balloon-mapping-at-the-department-of-development-studies-olomouc-czech-republic.md
 nid: 10246
 uid: 179
-
 cids: 8643,8673
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/459/original/009.JPG)
 
 # Balloon mapping at the Department of Development Studies, Olomouc, Czech Republic
 
-by [JirkaPanek](../../../profile/JirkaPanek) | April 01, 2014 11:06
+by [JirkaPanek](/profile/JirkaPanek) | April 01, 2014 11:06
 
-April 01, 2014 11:06 | Tags: [balloon-mapping](../tag/balloon-mapping), [chdk](../tag/chdk), [field-test](../tag/field-test), [failure](../tag/failure), [first-time-poster](../tag/first-time-poster)
+April 01, 2014 11:06 | Tags: [balloon-mapping](/tag/balloon-mapping), [chdk](/tag/chdk), [field-test](/tag/field-test), [failure](/tag/failure), [first-time-poster](/tag/first-time-poster)
 
 ----
 

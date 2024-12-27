@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/6-20-2012/analytics-aerial-images-using-filesize.md
 nid: 2589
 uid: 1
-
 cids: 924,927,932,933,946,9154
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Picture 4_2.png)
 
 # Analytics on aerial images -- using filesize
 
-by [warren](../../../profile/warren) | June 20, 2012 19:50
+by [warren](/profile/warren) | June 20, 2012 19:50
 
-June 20, 2012 19:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [analysis](../tag/analysis), [temperature](../tag/temperature), [blurriness](../tag/blurriness), [sorting](../tag/sorting), [image-sorting](../tag/image-sorting), [activity:image-sorting](../tag/activity:image-sorting)
+June 20, 2012 19:50 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [analysis](/tag/analysis), [temperature](/tag/temperature), [blurriness](/tag/blurriness), [sorting](/tag/sorting), [image-sorting](/tag/image-sorting), [activity:image-sorting](/tag/activity:image-sorting)
 
 ----
 

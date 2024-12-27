@@ -6,12 +6,12 @@ author: bhamster
 path: /wiki/sandbox-climate-change.md
 nid: 24213
 uid: 664477
-
+cids: 
 ---
 
 # sandbox-climate-change
 
-by [bhamster](../profile/bhamster), [muthaliganesh77](../profile/muthaliganesh77)
+by [bhamster](/profile/bhamster), [muthaliganesh77](/profile/muthaliganesh77)
 
 July 23, 2020 14:42 | Tags: 
 
@@ -63,7 +63,7 @@ Learn about <a href="/wiki/sandbox-climate-change#Next+step+challenges">next ste
 + Ask a question so other community members can offer support
 + Sign up below to be notified when someone asks a climate change question.
 
-[climate-change](../../tag/question:climate-change)
+[climate-change](/tag/question:climate-change)
 <br>
 
 ### Post an Issue Brief
@@ -153,7 +153,7 @@ _Please contribute your ideas here!_
 
 Posts written by Public Lab community members and tagged with `climate-change` will appear here
 
-[climate-change!question:climate-change](../../tag/climate-change!question:climate-change)
+[climate-change!question:climate-change](/tag/climate-change!question:climate-change)
 
 <br>
 
@@ -161,7 +161,7 @@ Posts written by Public Lab community members and tagged with `climate-change` w
 
 Activities on Public Lab that have been tagged with `climate-change` will appear here
 
-[climate-change](../../tag/activity:climate-change)
+[climate-change](/tag/activity:climate-change)
 
 <br>
 <hr>

@@ -6,16 +6,14 @@ author: RQ-05
 path: /notes/RQ-05/08-01-2015/fiji-photo-monitoring-plugin-issues.md
 nid: 12114
 uid: 440673
-
 cids: 12309
-
 ---
 
 # Fiji Photo Monitoring Plugin issues
 
-by [RQ-05](../../../profile/RQ-05) | August 01, 2015 22:03
+by [RQ-05](/profile/RQ-05) | August 01, 2015 22:03
 
-August 01, 2015 22:03 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [imagej](../tag/imagej), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [fiji](../tag/fiji), [photo-monitoring-plugin](../tag/photo-monitoring-plugin)
+August 01, 2015 22:03 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [imagej](/tag/imagej), [infragram](/tag/infragram), [infrablue](/tag/infrablue), [fiji](/tag/fiji), [photo-monitoring-plugin](/tag/photo-monitoring-plugin)
 
 ----
 

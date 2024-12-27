@@ -6,18 +6,16 @@ author: anita
 path: /notes/anita/2-2-2012/lima-peru-kite-makingballon-mapping-workshop-u-san-marcos.md
 nid: 743
 uid: 481
-
 cids: 430,432,457,458,477,488,6220
-
 ---
 
 ![](https://publiclab.org/sites/default/files/stadium4.JPG)
 
 # Lima, Peru: Kite Making/Ballon Mapping Workshop, U. of San Marcos
 
-by [anita](../../../profile/anita) | February 02, 2012 18:26
+by [anita](/profile/anita) | February 02, 2012 18:26
 
-February 02, 2012 18:26 | Tags: [lima](../tag/lima), [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [peru](../tag/peru), [kite-making](../tag/kite-making), [first-time-poster](../tag/first-time-poster)
+February 02, 2012 18:26 | Tags: [lima](/tag/lima), [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [peru](/tag/peru), [kite-making](/tag/kite-making), [first-time-poster](/tag/first-time-poster)
 
 ----
 

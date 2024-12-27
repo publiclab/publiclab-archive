@@ -6,16 +6,14 @@ author: marlokeno
 path: /notes/marlokeno/11-27-2015/barnraising-images-louisiana-nov-2015.md
 nid: 12451
 uid: 420760
-
 cids: 
-
 ---
 
 # barnraising images, Louisiana, Nov 2015
 
-by [marlokeno](../../../profile/marlokeno) | November 27, 2015 03:01
+by [marlokeno](/profile/marlokeno) | November 27, 2015 03:01
 
-November 27, 2015 03:01 | Tags: [barnraising](../tag/barnraising), [event](../tag/event), [barnraising-2015](../tag/barnraising-2015)
+November 27, 2015 03:01 | Tags: [barnraising](/tag/barnraising), [event](/tag/event), [barnraising-2015](/tag/barnraising-2015)
 
 ----
 

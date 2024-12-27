@@ -6,14 +6,14 @@ author: warren
 path: /wiki/get-involved.md
 nid: 5530
 uid: 1
-
+cids: 
 ---
 
 # Notes for new Get Involved sequence
 
-by [liz](../profile/liz), [mathew](../profile/mathew), [mollydanielsson](../profile/mollydanielsson), [eustatic](../profile/eustatic), [warren](../profile/warren)
+by [liz](/profile/liz), [mathew](/profile/mathew), [mollydanielsson](/profile/mollydanielsson), [eustatic](/profile/eustatic), [warren](/profile/warren)
 
-January 10, 2013 17:37 | Tags: [website](../tag/website), [plots2](../tag/plots2), [introduction](../tag/introduction), [participation](../tag/participation), [wintercamp](../tag/wintercamp), [out-of-date](../tag/out-of-date)
+January 10, 2013 17:37 | Tags: [website](/tag/website), [plots2](/tag/plots2), [introduction](/tag/introduction), [participation](/tag/participation), [wintercamp](/tag/wintercamp), [out-of-date](/tag/out-of-date)
 
 ----
 

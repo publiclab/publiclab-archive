@@ -6,16 +6,14 @@ author: Bonnieralston
 path: /notes/Bonnieralston/03-31-2019/how-do-i-troubleshoot-my-webcam-s-focus.md
 nid: 18916
 uid: 564730
-
 cids: 23582
-
 ---
 
 # How do I...troubleshoot my webcam's focus?
 
-by [Bonnieralston](../../../profile/Bonnieralston) | March 31, 2019 23:11
+by [Bonnieralston](/profile/Bonnieralston) | March 31, 2019 23:11
 
-March 31, 2019 23:11 | Tags: [community-microscope](../tag/community-microscope), [question:community-microscope](../tag/question:community-microscope), [first-time-poster](../tag/first-time-poster), [faq-community-microscope](../tag/faq-community-microscope)
+March 31, 2019 23:11 | Tags: [community-microscope](/tag/community-microscope), [question:community-microscope](/tag/question:community-microscope), [first-time-poster](/tag/first-time-poster), [faq-community-microscope](/tag/faq-community-microscope)
 
 ----
 

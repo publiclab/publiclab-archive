@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/12-02-2015/random-bits-atmel-low-power-libraries-rtc-wakeup.md
 nid: 12471
 uid: 43651
-
 cids: 13004,13007,13009,13010,13011,13015
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/158/original/microAmpere.png)
 
 # Random Bits: Atmel Low Power Libraries & RTC wakeup
 
-by [donblair](../../../profile/donblair) | December 02, 2015 19:14
+by [donblair](/profile/donblair) | December 02, 2015 19:14
 
-December 02, 2015 19:14 | Tags: [riffle](../tag/riffle), [low-power](../tag/low-power)
+December 02, 2015 19:14 | Tags: [riffle](/tag/riffle), [low-power](/tag/low-power)
 
 ----
 

@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/11-24-2011/links-rgb-led-thermometer.md
 nid: 582
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/img_0470.jpg)
 
 # Links for rgb led thermometer
 
-by [warren](../../../profile/warren) | November 24, 2011 17:45
+by [warren](/profile/warren) | November 24, 2011 17:45
 
 November 24, 2011 17:45 | Tags: 
 

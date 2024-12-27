@@ -6,18 +6,16 @@ author: mimiss
 path: /notes/mimiss/04-21-2020/live-build-with-public-lab-mini-kites.md
 nid: 23437
 uid: 579821
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/146/original/IMG_2457_2.jpeg)
 
 # Live Build with Public Lab: Mini Kites! 
 
-by [mimiss](../../../profile/mimiss) | April 21, 2020 13:16
+by [mimiss](/profile/mimiss) | April 21, 2020 13:16
 
-April 21, 2020 13:16 | Tags: [education](../tag/education), [diy-kite](../tag/diy-kite), [diy-kites](../tag/diy-kites), [open-hour](../tag/open-hour), [mini-kite-build](../tag/mini-kite-build), [activity:mini-kite-build](../tag/activity:mini-kite-build), [live-build](../tag/live-build), [mini-kite](../tag/mini-kite), [indoor-kite](../tag/indoor-kite)
+April 21, 2020 13:16 | Tags: [education](/tag/education), [diy-kite](/tag/diy-kite), [diy-kites](/tag/diy-kites), [open-hour](/tag/open-hour), [mini-kite-build](/tag/mini-kite-build), [activity:mini-kite-build](/tag/activity:mini-kite-build), [live-build](/tag/live-build), [mini-kite](/tag/mini-kite), [indoor-kite](/tag/indoor-kite)
 
 ----
 

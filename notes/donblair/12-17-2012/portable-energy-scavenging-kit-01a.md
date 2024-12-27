@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/12-17-2012/portable-energy-scavenging-kit-01a.md
 nid: 5229
 uid: 43651
-
 cids: 2754,2768,2790,2791,2806,2809,2811
-
 ---
 
 ![](https://publiclab.org/sites/default/files/escavenger_cef08a60dc_0.jpg)
 
 # Portable Energy Scavenging Kit 0.1a
 
-by [donblair](../../../profile/donblair) | December 17, 2012 23:57
+by [donblair](/profile/donblair) | December 17, 2012 23:57
 
-December 17, 2012 23:57 | Tags: [pvos](../tag/pvos), [portable-energy-scavenging-kit](../tag/portable-energy-scavenging-kit)
+December 17, 2012 23:57 | Tags: [pvos](/tag/pvos), [portable-energy-scavenging-kit](/tag/portable-energy-scavenging-kit)
 
 ----
 

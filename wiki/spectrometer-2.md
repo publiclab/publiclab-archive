@@ -6,12 +6,12 @@ author: warren
 path: /wiki/spectrometer-2.md
 nid: 19
 uid: 1
-
+cids: 
 ---
 
 # Spectrometer
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 December 10, 2010 03:08 | Tags: 
 

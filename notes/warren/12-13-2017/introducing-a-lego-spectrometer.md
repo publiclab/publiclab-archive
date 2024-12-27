@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/12-13-2017/introducing-a-lego-spectrometer.md
 nid: 15364
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/930/original/PC051869.JPG)
 
 # Introducing a Lego Spectrometer
 
-by [warren](../../../profile/warren) | December 13, 2017 17:34
+by [warren](/profile/warren) | December 13, 2017 17:34
 
-December 13, 2017 17:34 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [spectrometry](../tag/spectrometry), [blog](../tag/blog), [lego](../tag/lego), [lego-spectrometer](../tag/lego-spectrometer), [lego-quickstart](../tag/lego-quickstart)
+December 13, 2017 17:34 | Tags: [spectrometer](/tag/spectrometer), [kits](/tag/kits), [spectrometry](/tag/spectrometry), [blog](/tag/blog), [lego](/tag/lego), [lego-spectrometer](/tag/lego-spectrometer), [lego-quickstart](/tag/lego-quickstart)
 
 ----
 
@@ -97,4 +95,4 @@ But most of all, we're looking for well-documented guides on how to do different
 
 Try solving some of these challenges, or add your own!
 
-[spectrometry-challenge](../../tag/question:spectrometry-challenge)
+[spectrometry-challenge](/tag/question:spectrometry-challenge)

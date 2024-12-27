@@ -6,18 +6,16 @@ author: gwirth
 path: /notes/gwirth/06-10-2014/jamaica-bay-marsh-planting.md
 nid: 10547
 uid: 30539
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/655/original/JB_Mapping.jpg)
 
 # Jamaica Bay Marsh Planting 
 
-by [gwirth](../../../profile/gwirth) | June 10, 2014 18:02
+by [gwirth](/profile/gwirth) | June 10, 2014 18:02
 
-June 10, 2014 18:02 | Tags: [new-york-city](../tag/new-york-city), [kite-mapping](../tag/kite-mapping), [kite](../tag/kite), [jamaica-bay](../tag/jamaica-bay), [queens](../tag/queens), [balloon](../tag/balloon), [nyc](../tag/nyc), [marsh](../tag/marsh), [northeast](../tag/northeast), [rulersbar](../tag/rulersbar), [island](../tag/island), [gateway](../tag/gateway), [kitemapping](../tag/kitemapping)
+June 10, 2014 18:02 | Tags: [new-york-city](/tag/new-york-city), [kite-mapping](/tag/kite-mapping), [kite](/tag/kite), [jamaica-bay](/tag/jamaica-bay), [queens](/tag/queens), [balloon](/tag/balloon), [nyc](/tag/nyc), [marsh](/tag/marsh), [northeast](/tag/northeast), [rulersbar](/tag/rulersbar), [island](/tag/island), [gateway](/tag/gateway), [kitemapping](/tag/kitemapping)
 
 ----
 

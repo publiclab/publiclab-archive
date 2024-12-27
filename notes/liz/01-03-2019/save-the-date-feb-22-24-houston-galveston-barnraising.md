@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/01-03-2019/save-the-date-feb-22-24-houston-galveston-barnraising.md
 nid: 18048
 uid: 7
-
 cids: 21637,21638,21797
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/595/original/TexasBarnraising_flyer.jpg)
 
 # Save the Date Feb 22-24! Houston-Galveston Barnraising 
 
-by [liz](../../../profile/liz) | January 02, 2019 22:15
+by [liz](/profile/liz) | January 02, 2019 22:15
 
-January 02, 2019 22:15 | Tags: [disaster-preparedness](../tag/disaster-preparedness), [barnraising](../tag/barnraising), [with:stevie](../tag/with:stevie), [texas](../tag/texas), [disaster-response](../tag/disaster-response), [disaster-resilience](../tag/disaster-resilience), [disaster-recovery](../tag/disaster-recovery), [barnraising-texas-2019](../tag/barnraising-texas-2019), [txbarnraising](../tag/txbarnraising)
+January 02, 2019 22:15 | Tags: [disaster-preparedness](/tag/disaster-preparedness), [barnraising](/tag/barnraising), [with:stevie](/tag/with:stevie), [texas](/tag/texas), [disaster-response](/tag/disaster-response), [disaster-resilience](/tag/disaster-resilience), [disaster-recovery](/tag/disaster-recovery), [barnraising-texas-2019](/tag/barnraising-texas-2019), [txbarnraising](/tag/txbarnraising)
 
 ----
 

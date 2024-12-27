@@ -6,18 +6,16 @@ author: MaggPi
 path: /notes/MaggPi/06-10-2019/draft-of-public-lab-image-sequencer-user-manual-comments-welcome.md
 nid: 19642
 uid: 501996
-
 cids: 24755,24757,24763,24766,24769,24956
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/752/original/image_sequencer_example.JPG)
 
 # Draft of Public Lab Image Sequencer User Manual – Comments Welcome!
 
-by [MaggPi](../../../profile/MaggPi) | June 10, 2019 04:29
+by [MaggPi](/profile/MaggPi) | June 10, 2019 04:29
 
-June 10, 2019 04:29 | Tags: [documentation](../tag/documentation), [soc](../tag/soc), [activity:documentation](../tag/activity:documentation), [image-sequencer](../tag/image-sequencer), [activity:image-sequencer](../tag/activity:image-sequencer), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [status:request](../tag/status:request)
+June 10, 2019 04:29 | Tags: [documentation](/tag/documentation), [soc](/tag/soc), [activity:documentation](/tag/activity:documentation), [image-sequencer](/tag/image-sequencer), [activity:image-sequencer](/tag/activity:image-sequencer), [gsoc-2019](/tag/gsoc-2019), [soc-2019](/tag/soc-2019), [status:request](/tag/status:request)
 
 ----
 

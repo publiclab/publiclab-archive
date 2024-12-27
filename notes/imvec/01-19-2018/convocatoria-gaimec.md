@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/01-19-2018/convocatoria-gaimec.md
 nid: 15555
 uid: 495038
-
 cids: 18225,18228
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/257/original/convocatoria_GAIMeC_DEF.jpg)
 
 # Convocatoria GAIMeC
 
-by [imvec](../../../profile/imvec) | January 19, 2018 15:37
+by [imvec](/profile/imvec) | January 19, 2018 15:37
 
-January 19, 2018 15:37 | Tags: [barcelona](../tag/barcelona), [spain](../tag/spain), [event](../tag/event), [lang:es](../tag/lang:es), [event:rsvp](../tag/event:rsvp), [learning](../tag/learning), [opencall](../tag/opencall), [gaimec](../tag/gaimec), [donosti](../tag/donosti), [spanish](../tag/spanish), [date:01-31-2018](../tag/date:01-31-2018)
+January 19, 2018 15:37 | Tags: [barcelona](/tag/barcelona), [spain](/tag/spain), [event](/tag/event), [lang:es](/tag/lang:es), [event:rsvp](/tag/event:rsvp), [learning](/tag/learning), [opencall](/tag/opencall), [gaimec](/tag/gaimec), [donosti](/tag/donosti), [spanish](/tag/spanish), [date:01-31-2018](/tag/date:01-31-2018)
 
 ----
 

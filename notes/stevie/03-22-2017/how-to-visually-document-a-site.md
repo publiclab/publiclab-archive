@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/03-22-2017/how-to-visually-document-a-site.md
 nid: 14047
 uid: 422561
-
 cids: 18623,28251,31361
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/903/original/20170304_142516.jpg)
 
 # How to visually document a site
 
-by [stevie](../../../profile/stevie) | March 22, 2017 19:13
+by [stevie](/profile/stevie) | March 22, 2017 19:13
 
-March 22, 2017 19:13 | Tags: [wetlands](../tag/wetlands), [organizing](../tag/organizing), [stormwater](../tag/stormwater), [getting-started](../tag/getting-started), [seeks:replications](../tag/seeks:replications), [activity:timelapse](../tag/activity:timelapse), [activity:photo-monitoring](../tag/activity:photo-monitoring), [activity:stormwater](../tag/activity:stormwater), [site-survey](../tag/site-survey), [activity:site-survey](../tag/activity:site-survey), [activity:wetlands](../tag/activity:wetlands), [activity:organizing](../tag/activity:organizing), [where-to-map](../tag/where-to-map)
+March 22, 2017 19:13 | Tags: [wetlands](/tag/wetlands), [organizing](/tag/organizing), [stormwater](/tag/stormwater), [getting-started](/tag/getting-started), [seeks:replications](/tag/seeks:replications), [activity:timelapse](/tag/activity:timelapse), [activity:photo-monitoring](/tag/activity:photo-monitoring), [activity:stormwater](/tag/activity:stormwater), [site-survey](/tag/site-survey), [activity:site-survey](/tag/activity:site-survey), [activity:wetlands](/tag/activity:wetlands), [activity:organizing](/tag/activity:organizing), [where-to-map](/tag/where-to-map)
 
 ----
 

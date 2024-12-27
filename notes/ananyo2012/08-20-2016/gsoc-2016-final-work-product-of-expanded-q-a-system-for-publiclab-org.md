@@ -6,18 +6,16 @@ author: ananyo2012
 path: /notes/ananyo2012/08-20-2016/gsoc-2016-final-work-product-of-expanded-q-a-system-for-publiclab-org.md
 nid: 13372
 uid: 468506
-
 cids: 15195,15196,15197,15198,15199,15200,15209,15226,15227,15228
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/693/original/question_index.png)
 
 # GSoC 2016: Final Work Product of Expanded Q & A System for publiclab.org
 
-by [ananyo2012](../../../profile/ananyo2012) | August 20, 2016 10:36
+by [ananyo2012](/profile/ananyo2012) | August 20, 2016 10:36
 
-August 20, 2016 10:36 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [web](../tag/web), [developers](../tag/developers), [coding](../tag/coding), [barnstar:basic](../tag/barnstar:basic), [gsoc-2016](../tag/gsoc-2016), [q-and-a](../tag/q-and-a), [response:13397](../tag/response:13397)
+August 20, 2016 10:36 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [web](/tag/web), [developers](/tag/developers), [coding](/tag/coding), [barnstar:basic](/tag/barnstar:basic), [gsoc-2016](/tag/gsoc-2016), [q-and-a](/tag/q-and-a), [response:13397](/tag/response:13397)
 
 ----
 

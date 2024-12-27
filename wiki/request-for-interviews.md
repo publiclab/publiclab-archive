@@ -6,12 +6,12 @@ author: paultnylund
 path: /wiki/request-for-interviews.md
 nid: 12249
 uid: 452753
-
+cids: 
 ---
 
 # Request for Interviews
 
-by [paultnylund](../profile/paultnylund)
+by [paultnylund](/profile/paultnylund)
 
 September 28, 2015 08:53 | Tags: 
 

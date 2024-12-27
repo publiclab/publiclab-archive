@@ -6,18 +6,16 @@ author: xvidun
 path: /notes/xvidun/03-07-2014/gsoc-proposal-draft-mapknitter-enhancements.md
 nid: 10138
 uid: 421168
-
 cids: 8445,8446,8447,8448,8449,8463,8467,8492,8493,8635,8669,8734
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/181/original/Neyyar.png)
 
 # [GSOC PROPOSAL DRAFT] MapKnitter Enhancements.
 
-by [xvidun](../../../profile/xvidun) | March 07, 2014 20:54
+by [xvidun](/profile/xvidun) | March 07, 2014 20:54
 
-March 07, 2014 20:54 | Tags: [mapknitter](../tag/mapknitter), [gps](../tag/gps), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [coding](../tag/coding), [first-time-poster](../tag/first-time-poster)
+March 07, 2014 20:54 | Tags: [mapknitter](/tag/mapknitter), [gps](/tag/gps), [gsoc](/tag/gsoc), [gsoc-2014](/tag/gsoc-2014), [coding](/tag/coding), [first-time-poster](/tag/first-time-poster)
 
 ----
 

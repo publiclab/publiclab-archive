@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/05-01-2018/diy-windmill-and-solar-light-workshop.md
 nid: 53
 uid: 1
-
 cids: 23974
-
 ---
 
 # DIY Windmill and Solar Light Workshop
 
-by [warren](../../../profile/warren) | January 24, 2011 00:56
+by [warren](/profile/warren) | January 24, 2011 00:56
 
-January 24, 2011 00:56 | Tags: [lima](../tag/lima), [peru](../tag/peru), [workshop](../tag/workshop), [wind](../tag/wind), [solar](../tag/solar), [activity:classroom](../tag/activity:classroom), [windmill](../tag/windmill)
+January 24, 2011 00:56 | Tags: [lima](/tag/lima), [peru](/tag/peru), [workshop](/tag/workshop), [wind](/tag/wind), [solar](/tag/solar), [activity:classroom](/tag/activity:classroom), [windmill](/tag/windmill)
 
 ----
 

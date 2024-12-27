@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/2-5-2013/grating-angle.md
 nid: 5892
 uid: 554
-
 cids: 3339,3340,3344,3346,3347,3352,3353,3354,3356,3357,3367,3387,10436,10440
-
 ---
 
 ![](https://publiclab.org/sites/default/files/legomanframe.jpg)
 
 # Grating angle
 
-by [cfastie](../../../profile/cfastie) | February 05, 2013 16:40
+by [cfastie](/profile/cfastie) | February 05, 2013 16:40
 
-February 05, 2013 16:40 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [diffraction-grating](../tag/diffraction-grating), [entrance-slit](../tag/entrance-slit), [ebert](../tag/ebert), [focus](../tag/focus), [barnstar:empiricism](../tag/barnstar:empiricism), [lego](../tag/lego)
+February 05, 2013 16:40 | Tags: [spectrometer](/tag/spectrometer), [vermont](/tag/vermont), [diffraction-grating](/tag/diffraction-grating), [entrance-slit](/tag/entrance-slit), [ebert](/tag/ebert), [focus](/tag/focus), [barnstar:empiricism](/tag/barnstar:empiricism), [lego](/tag/lego)
 
 ----
 

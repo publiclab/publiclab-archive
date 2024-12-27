@@ -6,16 +6,14 @@ author: bsugar
 path: /notes/bsugar/04-15-2019/how-are-the-q-a-s-tied-together-in-the-website-database.md
 nid: 19064
 uid: 217812
-
 cids: 23894,23904,23908,23911,30358
-
 ---
 
 # How are the Q&A's tied together in the website database?
 
-by [bsugar](../../../profile/bsugar) | April 15, 2019 06:06
+by [bsugar](/profile/bsugar) | April 15, 2019 06:06
 
-April 15, 2019 06:06 | Tags: [database](../tag/database), [data](../tag/data), [code](../tag/code), [question:website](../tag/question:website), [programming](../tag/programming)
+April 15, 2019 06:06 | Tags: [database](/tag/database), [data](/tag/data), [code](/tag/code), [question:website](/tag/question:website), [programming](/tag/programming)
 
 ----
 

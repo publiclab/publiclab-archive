@@ -6,16 +6,14 @@ author: mountevans
 path: /notes/mountevans/01-30-2018/can-i-get-a-file-of-numbers-instead-of-a-graph-from-the-foldable-spectrometer-software.md
 nid: 15637
 uid: 523855
-
 cids: 18344,18350,22900,22901
-
 ---
 
 # Can I get a file of numbers instead of a graph from the foldable spectrometer software?
 
-by [mountevans](../../../profile/mountevans) | January 30, 2018 01:40
+by [mountevans](/profile/mountevans) | January 30, 2018 01:40
 
-January 30, 2018 01:40 | Tags: [question:spectrometry](../tag/question:spectrometry), [question:spectral-workbench](../tag/question:spectral-workbench), [question:foldable-spec](../tag/question:foldable-spec), [question:software](../tag/question:software)
+January 30, 2018 01:40 | Tags: [question:spectrometry](/tag/question:spectrometry), [question:spectral-workbench](/tag/question:spectral-workbench), [question:foldable-spec](/tag/question:foldable-spec), [question:software](/tag/question:software)
 
 ----
 

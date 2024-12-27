@@ -6,16 +6,16 @@ author: shanlter
 path: /wiki/knowflow.md
 nid: 14599
 uid: 420999
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/963/original/KnowFlow_by_the_River.jpg)
 
 # KnowFlow
 
-by [liz](../profile/liz), [shanlter](../profile/shanlter)
+by [liz](/profile/liz), [shanlter](/profile/shanlter)
 
-July 01, 2017 10:01 | Tags: [water-quality-monitoring](../tag/water-quality-monitoring), [water-quality](../tag/water-quality), [water-quality-sensor](../tag/water-quality-sensor), [tool](../tag/tool), [knowflow](../tag/knowflow), [parent:data-logging](../tag/parent:data-logging), [project:water-quality](../tag/project:water-quality)
+July 01, 2017 10:01 | Tags: [water-quality-monitoring](/tag/water-quality-monitoring), [water-quality](/tag/water-quality), [water-quality-sensor](/tag/water-quality-sensor), [tool](/tag/tool), [knowflow](/tag/knowflow), [parent:data-logging](/tag/parent:data-logging), [project:water-quality](/tag/project:water-quality)
 
 ----
 
@@ -28,10 +28,10 @@ Most of the sensor used are from [DFRobot](https://www.dfrobot.com) and [Atlas S
 
 Questions can be either frequently asked questions, or "next step" challenges we're looking to solve.
 
-[knowflow](../../tag/question:knowflow)
+[knowflow](/tag/question:knowflow)
 
 ## Activities
 
 Activities show how to use this project, step by step.
 
-[knowflow](../../tag/activity:knowflow)
+[knowflow](/tag/activity:knowflow)

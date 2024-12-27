@@ -6,18 +6,16 @@ author: JSummers
 path: /notes/JSummers/01-01-2016/gui-code-for-connecting-your-computer-to-your-microcontroller.md
 nid: 12554
 uid: 304279
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/487/original/GUI-1.png)
 
 #  GUI code for connecting your computer to your microcontroller.
 
-by [JSummers](../../../profile/JSummers) | January 01, 2016 20:27
+by [JSummers](/profile/JSummers) | January 01, 2016 20:27
 
-January 01, 2016 20:27 | Tags: [processing](../tag/processing), [datalogger](../tag/datalogger), [interface](../tag/interface), [microcontroller](../tag/microcontroller), [graphic](../tag/graphic), [user](../tag/user), [graphic-user-interface](../tag/graphic-user-interface), [response:11822](../tag/response:11822)
+January 01, 2016 20:27 | Tags: [processing](/tag/processing), [datalogger](/tag/datalogger), [interface](/tag/interface), [microcontroller](/tag/microcontroller), [graphic](/tag/graphic), [user](/tag/user), [graphic-user-interface](/tag/graphic-user-interface), [response:11822](/tag/response:11822)
 
 ----
 

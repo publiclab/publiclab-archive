@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/12-10-2018/frac-sand-sentinel-fellowship.md
 nid: 17853
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/258/original/pl-narrow.png)
 
 # Frac Sand Sentinel Fellowship 
 
-by [stevie](../../../profile/stevie) | December 10, 2018 18:57
+by [stevie](/profile/stevie) | December 10, 2018 18:57
 
-December 10, 2018 18:57 | Tags: [reporting](../tag/reporting), [wisconsin](../tag/wisconsin), [jobs](../tag/jobs), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [mid-west](../tag/mid-west), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [job](../tag/job), [sentinel](../tag/sentinel), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program)
+December 10, 2018 18:57 | Tags: [reporting](/tag/reporting), [wisconsin](/tag/wisconsin), [jobs](/tag/jobs), [frac-sand](/tag/frac-sand), [pm](/tag/pm), [mid-west](/tag/mid-west), [fellows](/tag/fellows), [fellowship](/tag/fellowship), [job](/tag/job), [sentinel](/tag/sentinel), [parent:the-sand-sentinel-program](/tag/parent:the-sand-sentinel-program)
 
 ----
 

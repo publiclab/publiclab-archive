@@ -6,16 +6,14 @@ author: rollinrenola
 path: /notes/rollinrenola/11-19-2019/week-7-fellowship-update.md
 nid: 21531
 uid: 618903
-
 cids: 
-
 ---
 
 # Week 7 Fellowship Update 
 
-by [rollinrenola](../../../profile/rollinrenola) | November 19, 2019 15:11
+by [rollinrenola](/profile/rollinrenola) | November 19, 2019 15:11
 
-November 19, 2019 15:11 | Tags: [lat:1](../tag/lat:1), [lon:10](../tag/lon:10), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
+November 19, 2019 15:11 | Tags: [lat:1](/tag/lat:1), [lon:10](/tag/lon:10), [oil-and-gas-water-trio](/tag/oil-and-gas-water-trio)
 
 ----
 

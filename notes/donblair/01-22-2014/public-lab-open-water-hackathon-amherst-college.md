@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/01-22-2014/public-lab-open-water-hackathon-amherst-college.md
 nid: 9964
 uid: 43651
-
 cids: 8070
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/604/original/hackThumb.png)
 
 # Public Lab 'Open Water Hackathon' @ Amherst College
 
-by [donblair](../../../profile/donblair) | January 22, 2014 23:16
+by [donblair](/profile/donblair) | January 22, 2014 23:16
 
-January 22, 2014 23:16 | Tags: [amherst](../tag/amherst), [pvos](../tag/pvos), [event](../tag/event), [massachusetts](../tag/massachusetts), [sensors](../tag/sensors), [visualization](../tag/visualization), [hackathon](../tag/hackathon), [water-quality](../tag/water-quality), [water](../tag/water), [umass-amherst](../tag/umass-amherst)
+January 22, 2014 23:16 | Tags: [amherst](/tag/amherst), [pvos](/tag/pvos), [event](/tag/event), [massachusetts](/tag/massachusetts), [sensors](/tag/sensors), [visualization](/tag/visualization), [hackathon](/tag/hackathon), [water-quality](/tag/water-quality), [water](/tag/water), [umass-amherst](/tag/umass-amherst)
 
 ----
 

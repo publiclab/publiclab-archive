@@ -6,16 +6,14 @@ author: ananyo2012
 path: /notes/ananyo2012/03-25-2016/expanded-q-a-system-for-publiclab-org.md
 nid: 12890
 uid: 468506
-
 cids: 
-
 ---
 
 # Expanded Q & A System for Publiclab.org
 
-by [ananyo2012](../../../profile/ananyo2012) | March 25, 2016 19:06
+by [ananyo2012](/profile/ananyo2012) | March 25, 2016 19:06
 
-March 25, 2016 19:06 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [coding](../tag/coding), [hidden:response](../tag/hidden:response), [gsoc-2016](../tag/gsoc-2016), [gsoc-2016-proposals](../tag/gsoc-2016-proposals), [response:12827](../tag/response:12827), [first-time-poster](../tag/first-time-poster)
+March 25, 2016 19:06 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [coding](/tag/coding), [hidden:response](/tag/hidden:response), [gsoc-2016](/tag/gsoc-2016), [gsoc-2016-proposals](/tag/gsoc-2016-proposals), [response:12827](/tag/response:12827), [first-time-poster](/tag/first-time-poster)
 
 ----
 

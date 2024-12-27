@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/03-07-2018/make-barnraising-signs.md
 nid: 15881
 uid: 7
-
 cids: 18797,18798,19323,19413
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/865/original/IMG_1941.jpg)
 
 # Make Open Space signs for an event like the Barnraising
 
-by [liz](../../../profile/liz) | March 07, 2018 20:28
+by [liz](/profile/liz) | March 07, 2018 20:28
 
-March 07, 2018 20:28 | Tags: [barnraising](../tag/barnraising), [activity:barnraising](../tag/activity:barnraising), [activity:night-before-barnraising](../tag/activity:night-before-barnraising)
+March 07, 2018 20:28 | Tags: [barnraising](/tag/barnraising), [activity:barnraising](/tag/activity:barnraising), [activity:night-before-barnraising](/tag/activity:night-before-barnraising)
 
 ----
 

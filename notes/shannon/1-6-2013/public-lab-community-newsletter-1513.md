@@ -6,16 +6,14 @@ author: Shannon
 path: /notes/shannon/1-6-2013/public-lab-community-newsletter-1513.md
 nid: 5437
 uid: 9
-
 cids: 
-
 ---
 
 # Public Lab community newsletter 1.5.13
 
-by [Shannon](../../../profile/Shannon) | January 07, 2013 01:13
+by [Shannon](/profile/Shannon) | January 07, 2013 01:13
 
-January 07, 2013 01:13 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+January 07, 2013 01:13 | Tags: [newsletter](/tag/newsletter), [newsletter-archive](/tag/newsletter-archive)
 
 ----
 

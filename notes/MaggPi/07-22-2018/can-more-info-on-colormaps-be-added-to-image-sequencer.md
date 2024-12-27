@@ -6,16 +6,14 @@ author: MaggPi
 path: /notes/MaggPi/07-22-2018/can-more-info-on-colormaps-be-added-to-image-sequencer.md
 nid: 16763
 uid: 501996
-
 cids: 20194,20195,21770
-
 ---
 
 # Can more info on  colormaps be added to image-sequencer?
 
-by [MaggPi](../../../profile/MaggPi) | July 22, 2018 03:04
+by [MaggPi](/profile/MaggPi) | July 22, 2018 03:04
 
-July 22, 2018 03:04 | Tags: [ndvi](../tag/ndvi), [colormap](../tag/colormap), [image-sequencer](../tag/image-sequencer), [question:image-sequencer](../tag/question:image-sequencer), [noir](../tag/noir)
+July 22, 2018 03:04 | Tags: [ndvi](/tag/ndvi), [colormap](/tag/colormap), [image-sequencer](/tag/image-sequencer), [question:image-sequencer](/tag/question:image-sequencer), [noir](/tag/noir)
 
 ----
 

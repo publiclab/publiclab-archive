@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/04-19-2017/hack-the-earth-5th-edition.md
 nid: 14123
 uid: 495038
-
 cids: 16602
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/165/original/ants.jpg)
 
 # Hack The Earth 5th edition
 
-by [imvec](../../../profile/imvec) | April 19, 2017 16:55
+by [imvec](/profile/imvec) | April 19, 2017 16:55
 
-April 19, 2017 16:55 | Tags: [event](../tag/event), [air-quality](../tag/air-quality), [timelapse](../tag/timelapse), [energy](../tag/energy), [place:ca-la-fou](../tag/place:ca-la-fou)
+April 19, 2017 16:55 | Tags: [event](/tag/event), [air-quality](/tag/air-quality), [timelapse](/tag/timelapse), [energy](/tag/energy), [place:ca-la-fou](/tag/place:ca-la-fou)
 
 ----
 

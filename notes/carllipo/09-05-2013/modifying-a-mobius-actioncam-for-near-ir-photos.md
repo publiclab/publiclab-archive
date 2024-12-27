@@ -6,18 +6,16 @@ author: carllipo
 path: /notes/carllipo/09-05-2013/modifying-a-mobius-actioncam-for-near-ir-photos.md
 nid: 9293
 uid: 170171
-
 cids: 8541,8542,8545,8556,8562
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/408/original/mobius.jpg)
 
 # Modifying a Mobius ActionCam for Near IR Photos
 
-by [carllipo](../../../profile/carllipo) | September 05, 2013 19:35
+by [carllipo](/profile/carllipo) | September 05, 2013 19:35
 
-September 05, 2013 19:35 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [infragram-conversion](../tag/infragram-conversion), [infragram-sandbox](../tag/infragram-sandbox), [mobius-actioncam](../tag/mobius-actioncam), [rcgroups](../tag/rcgroups)
+September 05, 2013 19:35 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [infragram](/tag/infragram), [infragram-conversion](/tag/infragram-conversion), [infragram-sandbox](/tag/infragram-sandbox), [mobius-actioncam](/tag/mobius-actioncam), [rcgroups](/tag/rcgroups)
 
 ----
 

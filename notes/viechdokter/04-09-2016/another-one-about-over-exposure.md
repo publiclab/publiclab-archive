@@ -6,18 +6,16 @@ author: viechdokter
 path: /notes/viechdokter/04-09-2016/another-one-about-over-exposure.md
 nid: 12950
 uid: 468990
-
 cids: 14156,14157,14187
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/443/original/over-exposure.jpg)
 
 # Another one about over-exposure...
 
-by [viechdokter](../../../profile/viechdokter) | April 09, 2016 16:15
+by [viechdokter](/profile/viechdokter) | April 09, 2016 16:15
 
-April 09, 2016 16:15 | Tags: [spectrometer](../tag/spectrometer), [overexposure](../tag/overexposure), [clipping](../tag/clipping), [exposure](../tag/exposure), [sunlight](../tag/sunlight), [replication:13460](../tag/replication:13460)
+April 09, 2016 16:15 | Tags: [spectrometer](/tag/spectrometer), [overexposure](/tag/overexposure), [clipping](/tag/clipping), [exposure](/tag/exposure), [sunlight](/tag/sunlight), [replication:13460](/tag/replication:13460)
 
 ----
 

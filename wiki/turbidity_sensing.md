@@ -6,16 +6,16 @@ author: donblair
 path: /wiki/turbidity_sensing.md
 nid: 13478
 uid: 43651
-
+cids: 21939
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/140/original/turbidimeter_designs.png)
 
 # turbidity_sensing
 
-by [warren](../profile/warren), [donblair](../profile/donblair)
+by [warren](/profile/warren), [donblair](/profile/donblair)
 
-September 24, 2016 01:51 | Tags: [water](../tag/water), [turbidity](../tag/turbidity), [riffle](../tag/riffle), [open-water](../tag/open-water), [upgrade:riffle](../tag/upgrade:riffle), [parent:turbidity](../tag/parent:turbidity)
+September 24, 2016 01:51 | Tags: [water](/tag/water), [turbidity](/tag/turbidity), [riffle](/tag/riffle), [open-water](/tag/open-water), [upgrade:riffle](/tag/upgrade:riffle), [parent:turbidity](/tag/parent:turbidity)
 
 ----
 

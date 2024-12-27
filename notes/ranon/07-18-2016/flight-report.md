@@ -6,18 +6,16 @@ author: ranon
 path: /notes/ranon/07-18-2016/flight-report.md
 nid: 13298
 uid: 477060
-
 cids: 14980,15220,15221,15222,15223
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/140/original/Full_Panorama.jpg)
 
 # Flight Report
 
-by [ranon](../../../profile/ranon) | July 18, 2016 20:30
+by [ranon](/profile/ranon) | July 18, 2016 20:30
 
-July 18, 2016 20:30 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [balloon-mapping-kit](../tag/balloon-mapping-kit), [panorama](../tag/panorama), [autokap](../tag/autokap), [kap-rigs](../tag/kap-rigs), [dii-mount-kit](../tag/dii-mount-kit), [reconfigurable-rig](../tag/reconfigurable-rig)
+July 18, 2016 20:30 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-aerial-photography](/tag/kite-aerial-photography), [kap](/tag/kap), [photo-rig](/tag/photo-rig), [balloon-mapping-kit](/tag/balloon-mapping-kit), [panorama](/tag/panorama), [autokap](/tag/autokap), [kap-rigs](/tag/kap-rigs), [dii-mount-kit](/tag/dii-mount-kit), [reconfigurable-rig](/tag/reconfigurable-rig)
 
 ----
 

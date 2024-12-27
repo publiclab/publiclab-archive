@@ -6,18 +6,16 @@ author: gbathree
 path: /notes/gbathree/5-1-2013/look-mom-no-cords-well-almost.md
 nid: 7188
 uid: 53164
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20130501_121902.jpg)
 
 # Look mom - no cords! ... well, almost
 
-by [gbathree](../../../profile/gbathree) | May 01, 2013 17:32
+by [gbathree](/profile/gbathree) | May 01, 2013 17:32
 
-May 01, 2013 17:32 | Tags: [arduino](../tag/arduino), [photosynthesis](../tag/photosynthesis), [photosynq](../tag/photosynq), [teensy](../tag/teensy)
+May 01, 2013 17:32 | Tags: [arduino](/tag/arduino), [photosynthesis](/tag/photosynthesis), [photosynq](/tag/photosynq), [teensy](/tag/teensy)
 
 ----
 

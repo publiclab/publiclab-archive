@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/6-27-2012/waag-society-citizen-science-presentation.md
 nid: 2636
 uid: 1
-
 cids: 957,958
-
 ---
 
 # Waag Society: Citizen Science presentation
 
-by [warren](../../../profile/warren) | June 27, 2012 07:15
+by [warren](/profile/warren) | June 27, 2012 07:15
 
-June 27, 2012 07:15 | Tags: [waagsociety](../tag/waagsociety), [amsterdam](../tag/amsterdam), [presentations](../tag/presentations), [presentation](../tag/presentation), [waag](../tag/waag)
+June 27, 2012 07:15 | Tags: [waagsociety](/tag/waagsociety), [amsterdam](/tag/amsterdam), [presentations](/tag/presentations), [presentation](/tag/presentation), [waag](/tag/waag)
 
 ----
 

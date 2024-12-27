@@ -6,14 +6,12 @@ author: warren
 path: /notes/warren/12-7-2010/toy-spectrometers-arrived.md
 nid: 6
 uid: 1
-
 cids: 
-
 ---
 
 # Toy spectrometers arrived
 
-by [warren](../../../profile/warren) | December 07, 2010 07:19
+by [warren](/profile/warren) | December 07, 2010 07:19
 
 December 07, 2010 07:19 | Tags: 
 

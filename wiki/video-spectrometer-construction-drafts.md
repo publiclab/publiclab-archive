@@ -6,12 +6,12 @@ author: warren
 path: /wiki/video-spectrometer-construction-drafts.md
 nid: 558
 uid: 1
-
+cids: 
 ---
 
 # Video spectrometer construction drafts
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 November 11, 2011 16:19 | Tags: 
 

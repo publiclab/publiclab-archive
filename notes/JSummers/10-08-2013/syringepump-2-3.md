@@ -6,18 +6,16 @@ author: JSummers
 path: /notes/JSummers/10-08-2013/syringepump-2-3.md
 nid: 9421
 uid: 304279
-
 cids: 7162,7171,7423,8304,8305
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/809/original/SyringePumpC.jpg)
 
 # SyringePump 2.3
 
-by [JSummers](../../../profile/JSummers) | October 08, 2013 18:52
+by [JSummers](/profile/JSummers) | October 08, 2013 18:52
 
-October 08, 2013 18:52 | Tags: [syringe](../tag/syringe), [pump](../tag/pump), [first-time-poster](../tag/first-time-poster)
+October 08, 2013 18:52 | Tags: [syringe](/tag/syringe), [pump](/tag/pump), [first-time-poster](/tag/first-time-poster)
 
 ----
 

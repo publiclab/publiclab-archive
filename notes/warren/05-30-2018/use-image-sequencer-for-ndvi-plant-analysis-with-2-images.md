@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/05-30-2018/use-image-sequencer-for-ndvi-plant-analysis-with-2-images.md
 nid: 16411
 uid: 1
-
 cids: 19719,19720,19722,19730,19751,20163,20193,25941,25948,27569
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/061/original/Screen_Shot_2018-05-30_at_5.59.00_PM.png)
 
 # Use Image Sequencer for NDVI plant analysis with 2 images
 
-by [warren](../../../profile/warren) | May 30, 2018 22:09
+by [warren](/profile/warren) | May 30, 2018 22:09
 
-May 30, 2018 22:09 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [video](../tag/video), [remote-sensing](../tag/remote-sensing), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [nasa](../tag/nasa), [infragram](../tag/infragram), [photosynthesis](../tag/photosynthesis), [infrared-photography](../tag/infrared-photography), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:infragram](../tag/activity:infragram), [multispectral-imaging](../tag/multispectral-imaging), [activity:image-analysis](../tag/activity:image-analysis), [aren](../tag/aren), [image-sequencer](../tag/image-sequencer), [activity:image-sequencer](../tag/activity:image-sequencer), [activity:aren](../tag/activity:aren), [activity:nasa](../tag/activity:nasa)
+May 30, 2018 22:09 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [video](/tag/video), [remote-sensing](/tag/remote-sensing), [ndvi](/tag/ndvi), [infrared](/tag/infrared), [nasa](/tag/nasa), [infragram](/tag/infragram), [photosynthesis](/tag/photosynthesis), [infrared-photography](/tag/infrared-photography), [activity:multispectral-imaging](/tag/activity:multispectral-imaging), [activity:infragram](/tag/activity:infragram), [multispectral-imaging](/tag/multispectral-imaging), [activity:image-analysis](/tag/activity:image-analysis), [aren](/tag/aren), [image-sequencer](/tag/image-sequencer), [activity:image-sequencer](/tag/activity:image-sequencer), [activity:aren](/tag/activity:aren), [activity:nasa](/tag/activity:nasa)
 
 ----
 

@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/5-21-2012/range-tiny-remote.md
 nid: 2154
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/FobAntIR-525ft.jpg)
 
 # Range of Tiny Remote
 
-by [cfastie](../../../profile/cfastie) | May 21, 2012 14:14
+by [cfastie](/profile/cfastie) | May 21, 2012 14:14
 
-May 21, 2012 14:14 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [triggering](../tag/triggering), [photo-rig](../tag/photo-rig), [replication:1746](../tag/replication:1746)
+May 21, 2012 14:14 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [triggering](/tag/triggering), [photo-rig](/tag/photo-rig), [replication:1746](/tag/replication:1746)
 
 ----
 

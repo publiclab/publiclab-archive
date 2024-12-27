@@ -6,18 +6,16 @@ author: Schroyer
 path: /notes/Schroyer/06-26-2014/broadcast-dust-readings-from-a-smartphone.md
 nid: 10620
 uid: 381809
-
 cids: 9306,9363,9371,9376,9377,9378,9379,9381,9382,9434,9445,10253
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/996/original/DustDuino_Logo.jpg)
 
 # Broadcast dust readings from a smartphone
 
-by [Schroyer](../../../profile/Schroyer) | June 26, 2014 01:35
+by [Schroyer](/profile/Schroyer) | June 26, 2014 01:35
 
-June 26, 2014 01:35 | Tags: [particulate-sensing](../tag/particulate-sensing), [air-quality](../tag/air-quality), [dustduino](../tag/dustduino), [dust](../tag/dust), [particulates](../tag/particulates), [particulate](../tag/particulate), [pm](../tag/pm), [dylos](../tag/dylos), [air-sensors](../tag/air-sensors)
+June 26, 2014 01:35 | Tags: [particulate-sensing](/tag/particulate-sensing), [air-quality](/tag/air-quality), [dustduino](/tag/dustduino), [dust](/tag/dust), [particulates](/tag/particulates), [particulate](/tag/particulate), [pm](/tag/pm), [dylos](/tag/dylos), [air-sensors](/tag/air-sensors)
 
 ----
 

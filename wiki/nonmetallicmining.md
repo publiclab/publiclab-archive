@@ -6,16 +6,16 @@ author: gretchengehrke
 path: /wiki/nonmetallicmining.md
 nid: 12583
 uid: 430549
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/297/original/IMG_7752.JPG)
 
 # Background on Frac Sand
 
-by [stevie](../profile/stevie), [gretchengehrke](../profile/gretchengehrke)
+by [stevie](/profile/stevie), [gretchengehrke](/profile/gretchengehrke)
 
-January 13, 2016 20:49 | Tags: [parent:frac-sand](../tag/parent:frac-sand)
+January 13, 2016 20:49 | Tags: [parent:frac-sand](/tag/parent:frac-sand)
 
 ----
 

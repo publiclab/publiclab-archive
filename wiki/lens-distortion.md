@@ -6,14 +6,14 @@ author: warren
 path: /wiki/lens-distortion.md
 nid: 15086
 uid: 1
-
+cids: 
 ---
 
 # Lens Distortion
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-October 23, 2017 20:58 | Tags: [gopro](../tag/gopro), [mobius-action-cam](../tag/mobius-action-cam), [fisheyegl](../tag/fisheyegl), [parent:mini-camera](../tag/parent:mini-camera)
+October 23, 2017 20:58 | Tags: [gopro](/tag/gopro), [mobius-action-cam](/tag/mobius-action-cam), [fisheyegl](/tag/fisheyegl), [parent:mini-camera](/tag/parent:mini-camera)
 
 ----
 
@@ -28,7 +28,7 @@ This is especially helpful when using photos from smaller cameras like the #mobi
 
 ## Questions
 
-[lens-distortion](../../tag/question:lens-distortion)
+[lens-distortion](/tag/question:lens-distortion)
 
 ****
 
@@ -36,7 +36,7 @@ This is especially helpful when using photos from smaller cameras like the #mobi
 
 There are a number of ways to remove lens distortion, including #fisheyegl, [**LensFun**](http://lensfun.sourceforge.net/), and **Agisoft Lens**. We're collecting guides on using these here; please add one if you can!
 
-[lens-distortion](../../tag/activity:lens-distortion)
+[lens-distortion](/tag/activity:lens-distortion)
 
 ****
 

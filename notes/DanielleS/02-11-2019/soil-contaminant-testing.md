@@ -6,18 +6,16 @@ author: DanielleS
 path: /notes/DanielleS/02-11-2019/soil-contaminant-testing.md
 nid: 18344
 uid: 569208
-
 cids: 21861,21862,21897,21905,21955,21980,22238,23336,23373,23404,23425
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/291/original/AgHortSoilTesting.png)
 
 # Soil Contaminant Testing 
 
-by [DanielleS](../../../profile/DanielleS) | February 11, 2019 19:30
+by [DanielleS](/profile/DanielleS) | February 11, 2019 19:30
 
-February 11, 2019 19:30 | Tags: [barnraising](../tag/barnraising), [heavy-metals](../tag/heavy-metals), [soil](../tag/soil), [pah](../tag/pah), [lead](../tag/lead), [soil-testing](../tag/soil-testing), [colorimeter](../tag/colorimeter), [oil-and-gas](../tag/oil-and-gas), [soil-quality](../tag/soil-quality), [spectometry](../tag/spectometry)
+February 11, 2019 19:30 | Tags: [barnraising](/tag/barnraising), [heavy-metals](/tag/heavy-metals), [soil](/tag/soil), [pah](/tag/pah), [lead](/tag/lead), [soil-testing](/tag/soil-testing), [colorimeter](/tag/colorimeter), [oil-and-gas](/tag/oil-and-gas), [soil-quality](/tag/soil-quality), [spectometry](/tag/spectometry)
 
 ----
 

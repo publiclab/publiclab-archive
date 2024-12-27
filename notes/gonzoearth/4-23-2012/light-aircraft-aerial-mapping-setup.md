@@ -6,18 +6,16 @@ author: gonzoearth
 path: /notes/gonzoearth/4-23-2012/light-aircraft-aerial-mapping-setup.md
 nid: 1759
 uid: 12
-
 cids: 626,627,628,629,635
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_1052_0.JPG)
 
 # Light Aircraft Aerial Mapping Setup
 
-by [gonzoearth](../../../profile/gonzoearth) | April 23, 2012 20:04
+by [gonzoearth](/profile/gonzoearth) | April 23, 2012 20:04
 
-April 23, 2012 20:04 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [aerial-photography](../tag/aerial-photography), [plane](../tag/plane), [overflight](../tag/overflight), [hand-clamp](../tag/hand-clamp), [clamp](../tag/clamp), [cessna](../tag/cessna), [window](../tag/window)
+April 23, 2012 20:04 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [aerial-photography](/tag/aerial-photography), [plane](/tag/plane), [overflight](/tag/overflight), [hand-clamp](/tag/hand-clamp), [clamp](/tag/clamp), [cessna](/tag/cessna), [window](/tag/window)
 
 ----
 

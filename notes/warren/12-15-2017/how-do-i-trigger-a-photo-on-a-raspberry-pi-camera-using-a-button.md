@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/12-15-2017/how-do-i-trigger-a-photo-on-a-raspberry-pi-camera-using-a-button.md
 nid: 15378
 uid: 1
-
 cids: 18636,22957
-
 ---
 
 # How do I trigger a photo on a Raspberry Pi camera using a button?
 
-by [warren](../../../profile/warren) | December 15, 2017 17:07
+by [warren](/profile/warren) | December 15, 2017 17:07
 
-December 15, 2017 17:07 | Tags: [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [timelapse](../tag/timelapse), [answered](../tag/answered), [pi-camera](../tag/pi-camera), [question:raspberry-pi](../tag/question:raspberry-pi), [question:pi-camera](../tag/question:pi-camera), [raspberry-pi-infragram](../tag/raspberry-pi-infragram), [question:raspberry-pi-infragram](../tag/question:raspberry-pi-infragram), [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer), [question:raspberry-pi-spectrometer](../tag/question:raspberry-pi-spectrometer), [basic-microscope](../tag/basic-microscope), [question:lego-spectrometer](../tag/question:lego-spectrometer), [lego-spectrometer](../tag/lego-spectrometer), [question:lego-spectrometer-challenge](../tag/question:lego-spectrometer-challenge)
+December 15, 2017 17:07 | Tags: [raspberry-pi](/tag/raspberry-pi), [infragram](/tag/infragram), [timelapse](/tag/timelapse), [answered](/tag/answered), [pi-camera](/tag/pi-camera), [question:raspberry-pi](/tag/question:raspberry-pi), [question:pi-camera](/tag/question:pi-camera), [raspberry-pi-infragram](/tag/raspberry-pi-infragram), [question:raspberry-pi-infragram](/tag/question:raspberry-pi-infragram), [raspberry-pi-spectrometer](/tag/raspberry-pi-spectrometer), [question:raspberry-pi-spectrometer](/tag/question:raspberry-pi-spectrometer), [basic-microscope](/tag/basic-microscope), [question:lego-spectrometer](/tag/question:lego-spectrometer), [lego-spectrometer](/tag/lego-spectrometer), [question:lego-spectrometer-challenge](/tag/question:lego-spectrometer-challenge)
 
 ----
 

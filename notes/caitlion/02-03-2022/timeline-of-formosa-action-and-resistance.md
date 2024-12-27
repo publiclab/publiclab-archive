@@ -6,16 +6,14 @@ author: caitlion
 path: /notes/caitlion/02-03-2022/timeline-of-formosa-action-and-resistance.md
 nid: 29611
 uid: 780686
-
 cids: 29713
-
 ---
 
 # Timeline of Formosa Action and Resistance 
 
-by [caitlion](../../../profile/caitlion) | February 03, 2022 22:01
+by [caitlion](/profile/caitlion) | February 03, 2022 22:01
 
-February 03, 2022 22:01 | Tags: [first-time-poster](../tag/first-time-poster), [formosaplastics](../tag/formosaplastics)
+February 03, 2022 22:01 | Tags: [first-time-poster](/tag/first-time-poster), [formosaplastics](/tag/formosaplastics)
 
 ----
 

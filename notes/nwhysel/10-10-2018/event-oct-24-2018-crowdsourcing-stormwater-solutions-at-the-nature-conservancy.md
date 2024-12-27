@@ -6,18 +6,16 @@ author: nwhysel
 path: /notes/nwhysel/10-10-2018/event-oct-24-2018-crowdsourcing-stormwater-solutions-at-the-nature-conservancy.md
 nid: 17268
 uid: 434096
-
 cids: 20885,20890
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/894/original/highres_474970365.jpeg)
 
 # Event: Oct 24, 2018 Crowdsourcing Stormwater Solutions at The Nature Conservancy
 
-by [nwhysel](../../../profile/nwhysel) | October 10, 2018 14:26
+by [nwhysel](/profile/nwhysel) | October 10, 2018 14:26
 
-October 10, 2018 14:26 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event), [stormwater](../tag/stormwater), [green-infrastructure](../tag/green-infrastructure), [mitigation](../tag/mitigation)
+October 10, 2018 14:26 | Tags: [new-york-city](/tag/new-york-city), [event](/tag/event), [stormwater](/tag/stormwater), [green-infrastructure](/tag/green-infrastructure), [mitigation](/tag/mitigation)
 
 ----
 

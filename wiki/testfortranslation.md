@@ -6,14 +6,14 @@ author: rmeister
 path: /wiki/testfortranslation.md
 nid: 13530
 uid: 468994
-
+cids: 
 ---
 
 # testfortranslation
 
-by [rmeister](../profile/rmeister)
+by [rmeister](/profile/rmeister)
 
-October 06, 2016 16:22 | Tags: [test](../tag/test)
+October 06, 2016 16:22 | Tags: [test](/tag/test)
 
 ----
 

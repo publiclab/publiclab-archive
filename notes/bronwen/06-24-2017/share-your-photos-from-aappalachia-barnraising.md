@@ -6,18 +6,16 @@ author: Bronwen
 path: /notes/bronwen/06-24-2017/share-your-photos-from-aappalachia-barnraising.md
 nid: 14579
 uid: 237313
-
 cids: 16925,16926,16927,16928,16929,16930
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/875/original/IMG_20170624_100123_583.jpg)
 
 # Share your photos from Aappalachia Barnraising
 
-by [Bronwen](../../../profile/Bronwen) | June 24, 2017 18:01
+by [Bronwen](/profile/Bronwen) | June 24, 2017 18:01
 
-June 24, 2017 18:01 | Tags: [barnraising](../tag/barnraising), [barnraisingwv2017thanks](../tag/barnraisingwv2017thanks)
+June 24, 2017 18:01 | Tags: [barnraising](/tag/barnraising), [barnraisingwv2017thanks](/tag/barnraisingwv2017thanks)
 
 ----
 

@@ -6,16 +6,16 @@ author: stevie
 path: /wiki/barnraising-2014.md
 nid: 11404
 uid: 422561
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/405/original/8gGuWgBzcs8AdkQPiOdUDJafmtzDNlERxEGYsmrhuXo.jpg)
 
 # barnraising-2014
 
-by [liz](../profile/liz), [stevie](../profile/stevie), [ann](../profile/ann)
+by [liz](/profile/liz), [stevie](/profile/stevie), [ann](/profile/ann)
 
-November 26, 2014 00:24 | Tags: [events](../tag/events), [barnraising](../tag/barnraising), [event](../tag/event), [great-photos](../tag/great-photos), [parent:barnraising](../tag/parent:barnraising), [barnraising2014](../tag/barnraising2014)
+November 26, 2014 00:24 | Tags: [events](/tag/events), [barnraising](/tag/barnraising), [event](/tag/event), [great-photos](/tag/great-photos), [parent:barnraising](/tag/parent:barnraising), [barnraising2014](/tag/barnraising2014)
 
 ----
 

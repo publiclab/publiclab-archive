@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/07-02-2016/question-does-the-levitation-light-dive-for-you-too.md
 nid: 13256
 uid: 4
-
 cids: 14846
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/845/original/diving.png)
 
 # Question: Does the Levitation Light dive for you too?
 
-by [mathew](../../../profile/mathew) | July 02, 2016 00:10
+by [mathew](/profile/mathew) | July 02, 2016 00:10
 
-July 02, 2016 00:10 | Tags: [kite-mapping](../tag/kite-mapping), [kap](../tag/kap), [kites](../tag/kites), [levitation-delta](../tag/levitation-delta), [question:kites](../tag/question:kites)
+July 02, 2016 00:10 | Tags: [kite-mapping](/tag/kite-mapping), [kap](/tag/kap), [kites](/tag/kites), [levitation-delta](/tag/levitation-delta), [question:kites](/tag/question:kites)
 
 ----
 

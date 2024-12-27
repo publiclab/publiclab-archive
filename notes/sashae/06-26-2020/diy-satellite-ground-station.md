@@ -6,18 +6,16 @@ author: sashae
 path: /notes/sashae/06-26-2020/diy-satellite-ground-station.md
 nid: 24043
 uid: 693684
-
 cids: 27061,27104,27134,27164,27165,27166,27168,27169,27178,27180,27188,27189,27190,27200,27202,27203,27227,27255,27259,27267,27271,27272,27273,27323,27342,27376,27382,27383,27385,27386,27389,27391,27749,28908,28948,28951,30936
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/417/original/DSC00603.jpg)
 
 # DIY Satellite Ground Station
 
-by [sashae](../../../profile/sashae) | June 26, 2020 17:12
+by [sashae](/profile/sashae) | June 26, 2020 17:12
 
-June 26, 2020 17:12 | Tags: [satellite-imagery](../tag/satellite-imagery), [barnstar:basic](../tag/barnstar:basic), [barnstar:empiricism](../tag/barnstar:empiricism), [seeks:replications](../tag/seeks:replications), [noaa](../tag/noaa), [lat:51.50735](../tag/lat:51.50735), [lon:-0.127758](../tag/lon:-0.127758), [antenna](../tag/antenna), [zoom:6](../tag/zoom:6), [open-weather](../tag/open-weather), [activity:open-weather](../tag/activity:open-weather), [with:sophied](../tag/with:sophied)
+June 26, 2020 17:12 | Tags: [satellite-imagery](/tag/satellite-imagery), [barnstar:basic](/tag/barnstar:basic), [barnstar:empiricism](/tag/barnstar:empiricism), [seeks:replications](/tag/seeks:replications), [noaa](/tag/noaa), [lat:51.50735](/tag/lat:51.50735), [lon:-0.127758](/tag/lon:-0.127758), [antenna](/tag/antenna), [zoom:6](/tag/zoom:6), [open-weather](/tag/open-weather), [activity:open-weather](/tag/activity:open-weather), [with:sophied](/tag/with:sophied)
 
 ----
 

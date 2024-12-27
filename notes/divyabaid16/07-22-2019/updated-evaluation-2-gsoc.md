@@ -6,16 +6,14 @@ author: divyabaid16
 path: /notes/divyabaid16/07-22-2019/updated-evaluation-2-gsoc.md
 nid: 20226
 uid: 578652
-
 cids: 25086,25124,25167,25168,25172
-
 ---
 
 # Updated: Evaluation 2 GSoC
 
-by [divyabaid16](../../../profile/divyabaid16) | July 22, 2019 05:54
+by [divyabaid16](/profile/divyabaid16) | July 22, 2019 05:54
 
-July 22, 2019 05:54 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-eval](../tag/soc-2019-eval)
+July 22, 2019 05:54 | Tags: [gsoc](/tag/gsoc), [soc](/tag/soc), [gsoc-2019](/tag/gsoc-2019), [soc-2019](/tag/soc-2019), [soc-2019-eval](/tag/soc-2019-eval)
 
 ----
 

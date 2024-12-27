@@ -6,14 +6,14 @@ author: karenv
 path: /wiki/cape-cod-bay-watch-landsat-tutorial-notes-7-14-14.md
 nid: 10980
 uid: 60501
-
+cids: 
 ---
 
 # Cape Cod Bay Watch Landsat Tutorial notes 7/14/14
 
-by [karenv](../profile/karenv)
+by [karenv](/profile/karenv)
 
-July 26, 2014 15:11 | Tags: [massachusetts](../tag/massachusetts), [cape-cod-bay-watch](../tag/cape-cod-bay-watch), [landsat](../tag/landsat), [tutorial](../tag/tutorial), [thermal](../tag/thermal), [northeast](../tag/northeast), [thermal-plume](../tag/thermal-plume), [landsat-7](../tag/landsat-7), [qgis](../tag/qgis)
+July 26, 2014 15:11 | Tags: [massachusetts](/tag/massachusetts), [cape-cod-bay-watch](/tag/cape-cod-bay-watch), [landsat](/tag/landsat), [tutorial](/tag/tutorial), [thermal](/tag/thermal), [northeast](/tag/northeast), [thermal-plume](/tag/thermal-plume), [landsat-7](/tag/landsat-7), [qgis](/tag/qgis)
 
 ----
 

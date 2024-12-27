@@ -6,14 +6,14 @@ author: warren
 path: /wiki/host-a-balloon-mapping-workshop.md
 nid: 869
 uid: 1
-
+cids: 
 ---
 
 # Host a balloon mapping workshop
 
-by [liz](../profile/liz), [mathew](../profile/mathew), [warren](../profile/warren)
+by [liz](/profile/liz), [mathew](/profile/mathew), [warren](/profile/warren)
 
-February 29, 2012 13:06 | Tags: [education](../tag/education), [workshop](../tag/workshop), [organizers](../tag/organizers)
+February 29, 2012 13:06 | Tags: [education](/tag/education), [workshop](/tag/workshop), [organizers](/tag/organizers)
 
 ----
 

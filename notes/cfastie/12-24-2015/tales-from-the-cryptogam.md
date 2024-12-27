@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/12-24-2015/tales-from-the-cryptogam.md
 nid: 12541
 uid: 554
-
 cids: 13203,13205,13210
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/459/original/MossPole222LPrect2k.jpg)
 
 # Tales from the Cryptogam
 
-by [cfastie](../../../profile/cfastie) | December 24, 2015 23:43
+by [cfastie](/profile/cfastie) | December 24, 2015 23:43
 
-December 24, 2015 23:43 | Tags: [vermont](../tag/vermont), [polemapping](../tag/polemapping), [pole-photography](../tag/pole-photography), [pap](../tag/pap), [pole-aerial-photography](../tag/pole-aerial-photography), [pole-mapping](../tag/pole-mapping), [moss](../tag/moss), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [response:8988](../tag/response:8988), [cryptogam](../tag/cryptogam), [pole-bracket](../tag/pole-bracket)
+December 24, 2015 23:43 | Tags: [vermont](/tag/vermont), [polemapping](/tag/polemapping), [pole-photography](/tag/pole-photography), [pap](/tag/pap), [pole-aerial-photography](/tag/pole-aerial-photography), [pole-mapping](/tag/pole-mapping), [moss](/tag/moss), [kaptery](/tag/kaptery), [saturnv](/tag/saturnv), [response:8988](/tag/response:8988), [cryptogam](/tag/cryptogam), [pole-bracket](/tag/pole-bracket)
 
 ----
 

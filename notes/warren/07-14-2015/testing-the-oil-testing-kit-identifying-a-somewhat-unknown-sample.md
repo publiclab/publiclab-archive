@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/07-14-2015/testing-the-oil-testing-kit-identifying-a-somewhat-unknown-sample.md
 nid: 12063
 uid: 1
-
 cids: 13057,13059,13060,13062,27723
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/684/original/IMG_20150713_171909_%281%29.jpg)
 
 # Testing the Oil Testing Kit: identifying a "somewhat unknown" sample
 
-by [warren](../../../profile/warren) | July 14, 2015 19:37
+by [warren](/profile/warren) | July 14, 2015 19:37
 
-July 14, 2015 19:37 | Tags: [spectrometer](../tag/spectrometer), [laser](../tag/laser), [fluorescence](../tag/fluorescence), [crude](../tag/crude), [oil-testing-kit](../tag/oil-testing-kit), [405nm](../tag/405nm), [response:11173](../tag/response:11173), [response:11163](../tag/response:11163), [response:12046](../tag/response:12046), [activity:spectrometry](../tag/activity:spectrometry), [activity:spectrometry-sampling](../tag/activity:spectrometry-sampling)
+July 14, 2015 19:37 | Tags: [spectrometer](/tag/spectrometer), [laser](/tag/laser), [fluorescence](/tag/fluorescence), [crude](/tag/crude), [oil-testing-kit](/tag/oil-testing-kit), [405nm](/tag/405nm), [response:11173](/tag/response:11173), [response:11163](/tag/response:11163), [response:12046](/tag/response:12046), [activity:spectrometry](/tag/activity:spectrometry), [activity:spectrometry-sampling](/tag/activity:spectrometry-sampling)
 
 ----
 

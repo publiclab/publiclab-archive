@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/12-01-2015/cross-posting-the-tapajos-river-communities-begin-to-monitor-water-quality-with-sensor.md
 nid: 12467
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/112/original/DSC_0788-e1448393832236.jpg)
 
 # Cross-posting:: The Tapajos River communities begin to monitor water quality with sensor
 
-by [stevie](../../../profile/stevie) | December 01, 2015 18:35
+by [stevie](/profile/stevie) | December 01, 2015 18:35
 
-December 01, 2015 18:35 | Tags: [blog](../tag/blog)
+December 01, 2015 18:35 | Tags: [blog](/tag/blog)
 
 ----
 

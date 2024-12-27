@@ -6,16 +6,14 @@ author: denissebn_06
 path: /notes/denissebn_06/04-01-2021/is-the-ballon-legal.md
 nid: 26117
 uid: 749988
-
 cids: 28452,28454,28471
-
 ---
 
 # Is the ballon legal?
 
-by [denissebn_06](../../../profile/denissebn_06) | April 01, 2021 18:37
+by [denissebn_06](/profile/denissebn_06) | April 01, 2021 18:37
 
-April 01, 2021 18:37 | Tags: [question:general](../tag/question:general), [general](../tag/general), [ballon-mapping](../tag/ballon-mapping), [first-time-poster](../tag/first-time-poster)
+April 01, 2021 18:37 | Tags: [question:general](/tag/question:general), [general](/tag/general), [ballon-mapping](/tag/ballon-mapping), [first-time-poster](/tag/first-time-poster)
 
 ----
 

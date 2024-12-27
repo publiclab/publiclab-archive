@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/04-15-2013/new-spectrometer-liner-design-with-integrated-camera-mount.md
 nid: 6839
 uid: 1
-
 cids: 4448,4449,4450,4461,4462
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/060/original/1366031736824.jpg)
 
 # New spectrometer liner design with integrated camera mount
 
-by [warren](../../../profile/warren) | April 15, 2013 13:31
+by [warren](/profile/warren) | April 15, 2013 13:31
 
-April 15, 2013 13:31 | Tags: [spectrometer](../tag/spectrometer), [kit](../tag/kit), [insert](../tag/insert), [refinement](../tag/refinement)
+April 15, 2013 13:31 | Tags: [spectrometer](/tag/spectrometer), [kit](/tag/kit), [insert](/tag/insert), [refinement](/tag/refinement)
 
 ----
 

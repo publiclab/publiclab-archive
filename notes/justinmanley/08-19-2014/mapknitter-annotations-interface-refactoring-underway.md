@@ -6,18 +6,16 @@ author: justinmanley
 path: /notes/justinmanley/08-19-2014/mapknitter-annotations-interface-refactoring-underway.md
 nid: 11062
 uid: 421556
-
 cids: 10070,10072,10075,10076,10087,10089,10090,10091
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/328/original/Screenshot_from_2014-08-18_18_53_28.png)
 
 # MapKnitter Annotations: Interface Refactoring Underway
 
-by [justinmanley](../../../profile/justinmanley) | August 19, 2014 00:03
+by [justinmanley](/profile/justinmanley) | August 19, 2014 00:03
 
-August 19, 2014 00:03 | Tags: [mapknitter](../tag/mapknitter), [map-annotations](../tag/map-annotations), [annotations](../tag/annotations)
+August 19, 2014 00:03 | Tags: [mapknitter](/tag/mapknitter), [map-annotations](/tag/map-annotations), [annotations](/tag/annotations)
 
 ----
 

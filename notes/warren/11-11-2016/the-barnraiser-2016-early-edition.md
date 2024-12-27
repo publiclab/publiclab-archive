@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/11-11-2016/the-barnraiser-2016-early-edition.md
 nid: 13697
 uid: 1
-
 cids: 15827
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/777/original/IMG_20161111_083445.jpg)
 
 # The Barnraiser 2016 -- early edition
 
-by [warren](../../../profile/warren) | November 11, 2016 16:03
+by [warren](/profile/warren) | November 11, 2016 16:03
 
-November 11, 2016 16:03 | Tags: [documentation](../tag/documentation), [cocodrie](../tag/cocodrie), [barnraising](../tag/barnraising), [doccom](../tag/doccom), [barnraiser](../tag/barnraiser), [the-barnraiser](../tag/the-barnraiser), [barnraising-2016](../tag/barnraising-2016)
+November 11, 2016 16:03 | Tags: [documentation](/tag/documentation), [cocodrie](/tag/cocodrie), [barnraising](/tag/barnraising), [doccom](/tag/doccom), [barnraiser](/tag/barnraiser), [the-barnraiser](/tag/the-barnraiser), [barnraising-2016](/tag/barnraising-2016)
 
 ----
 

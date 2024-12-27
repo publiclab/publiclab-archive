@@ -6,12 +6,12 @@ author: tonyc
 path: /wiki/mobius-actioncam-for-aerial-photography.md
 nid: 12567
 uid: 447491
-
+cids: 
 ---
 
 # Mobius ActionCam for Aerial Photography
 
-by [tonyc](../profile/tonyc)
+by [tonyc](/profile/tonyc)
 
 January 07, 2016 01:18 | Tags: 
 

@@ -6,16 +6,14 @@ author: kellyraymond
 path: /notes/kellyraymond/03-05-2020/art-in-ruins-310-bourne-ave.md
 nid: 23039
 uid: 664202
-
 cids: 
-
 ---
 
 # Art in Ruins (310 Bourne Ave)
 
-by [kellyraymond](../../../profile/kellyraymond) | March 05, 2020 01:45
+by [kellyraymond](/profile/kellyraymond) | March 05, 2020 01:45
 
-March 05, 2020 01:45 | Tags: [hidden:response](../tag/hidden:response), [zoom:9](../tag/zoom:9), [lat:41.842966](../tag/lat:41.842966), [lat:41.55324897773725](../tag/lat:41.55324897773725), [lon:-71.47293090820314](../tag/lon:-71.47293090820314), [lon:-71.369934](../tag/lon:-71.369934), [response:23080](../tag/response:23080)
+March 05, 2020 01:45 | Tags: [hidden:response](/tag/hidden:response), [zoom:9](/tag/zoom:9), [lat:41.842966](/tag/lat:41.842966), [lat:41.55324897773725](/tag/lat:41.55324897773725), [lon:-71.47293090820314](/tag/lon:-71.47293090820314), [lon:-71.369934](/tag/lon:-71.369934), [response:23080](/tag/response:23080)
 
 ----
 

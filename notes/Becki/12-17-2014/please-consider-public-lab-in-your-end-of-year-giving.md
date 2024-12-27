@@ -6,16 +6,14 @@ author: Becki
 path: /notes/Becki/12-17-2014/please-consider-public-lab-in-your-end-of-year-giving.md
 nid: 11471
 uid: 46673
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/462/original/Barnraising_Group_Shot_Fall_2014.jpg)
 
 # Please consider Public Lab in your end of year giving!
 
-by [Becki](../../../profile/Becki) | December 17, 2014 17:43
+by [Becki](/profile/Becki) | December 17, 2014 17:43
 
 December 17, 2014 17:43 | Tags: 
 

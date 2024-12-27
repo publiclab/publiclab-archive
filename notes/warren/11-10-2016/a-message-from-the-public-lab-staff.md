@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/11-10-2016/a-message-from-the-public-lab-staff.md
 nid: 13693
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/738/original/PublicLab_-_Maker_Summit.png)
 
 # A message from the Public Lab staff
 
-by [warren](../../../profile/warren) | November 10, 2016 18:08
+by [warren](/profile/warren) | November 10, 2016 18:08
 
-November 10, 2016 18:08 | Tags: [blog](../tag/blog)
+November 10, 2016 18:08 | Tags: [blog](/tag/blog)
 
 ----
 

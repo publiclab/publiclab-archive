@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/08-13-2014/working-oil-testing-event-guide.md
 nid: 11046
 uid: 422561
-
 cids: 9989,9990,10645
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/243/original/IMG_2342.JPG)
 
 # Working Oil Testing Event Guide 
 
-by [stevie](../../../profile/stevie) | August 13, 2014 22:04
+by [stevie](/profile/stevie) | August 13, 2014 22:04
 
-August 13, 2014 22:04 | Tags: [spectrometer](../tag/spectrometer), [community](../tag/community), [workshop](../tag/workshop), [oil-response-toolkit](../tag/oil-response-toolkit), [oil-testing-kit](../tag/oil-testing-kit), [event-guide](../tag/event-guide), [activity:host-an-event](../tag/activity:host-an-event), [activity:teach-and-learn](../tag/activity:teach-and-learn)
+August 13, 2014 22:04 | Tags: [spectrometer](/tag/spectrometer), [community](/tag/community), [workshop](/tag/workshop), [oil-response-toolkit](/tag/oil-response-toolkit), [oil-testing-kit](/tag/oil-testing-kit), [event-guide](/tag/event-guide), [activity:host-an-event](/tag/activity:host-an-event), [activity:teach-and-learn](/tag/activity:teach-and-learn)
 
 ----
 

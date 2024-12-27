@@ -6,14 +6,14 @@ author: sara
 path: /wiki/march-mapping-madness-boston.md
 nid: 890
 uid: 8
-
+cids: 
 ---
 
 # March Mapping Madness-Boston
 
-by [warren](../profile/warren), [rjstatic](../profile/rjstatic), [sara](../profile/sara)
+by [warren](/profile/warren), [rjstatic](/profile/rjstatic), [sara](/profile/sara)
 
-March 06, 2012 00:56 | Tags: [balloon-mapping](../tag/balloon-mapping), [somerville-massachusetts](../tag/somerville-massachusetts)
+March 06, 2012 00:56 | Tags: [balloon-mapping](/tag/balloon-mapping), [somerville-massachusetts](/tag/somerville-massachusetts)
 
 ----
 

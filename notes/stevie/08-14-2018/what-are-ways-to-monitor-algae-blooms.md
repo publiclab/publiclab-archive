@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/08-14-2018/what-are-ways-to-monitor-algae-blooms.md
 nid: 16930
 uid: 422561
-
 cids: 20396,20404,20503,20903,23204,23205,23206,23317
-
 ---
 
 # What are ways to monitor algae blooms? 
 
-by [stevie](../../../profile/stevie) | August 14, 2018 15:44
+by [stevie](/profile/stevie) | August 14, 2018 15:44
 
-August 14, 2018 15:44 | Tags: [algae](../tag/algae), [answered](../tag/answered), [question:water-quality](../tag/question:water-quality), [question:nir](../tag/question:nir), [question:general](../tag/question:general), [question:algae](../tag/question:algae), [question:algaebloom](../tag/question:algaebloom), [question:near-infrared](../tag/question:near-infrared), [question:algae-bloom](../tag/question:algae-bloom), [question:nitrogen](../tag/question:nitrogen), [algae-bloom](../tag/algae-bloom)
+August 14, 2018 15:44 | Tags: [algae](/tag/algae), [answered](/tag/answered), [question:water-quality](/tag/question:water-quality), [question:nir](/tag/question:nir), [question:general](/tag/question:general), [question:algae](/tag/question:algae), [question:algaebloom](/tag/question:algaebloom), [question:near-infrared](/tag/question:near-infrared), [question:algae-bloom](/tag/question:algae-bloom), [question:nitrogen](/tag/question:nitrogen), [algae-bloom](/tag/algae-bloom)
 
 ----
 

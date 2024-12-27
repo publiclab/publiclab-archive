@@ -6,16 +6,16 @@ author: bhickman
 path: /wiki/detection-of-metals-in-water-with-the-wheestat.md
 nid: 11030
 uid: 201929
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/219/original/ASVanalysis1.png)
 
 # Detection of Metals in Water with the WheeStat
 
-by [bhickman](../profile/bhickman), [JSummers](../profile/JSummers), [Bfoster](../profile/Bfoster)
+by [bhickman](/profile/bhickman), [JSummers](/profile/JSummers), [Bfoster](/profile/Bfoster)
 
-August 11, 2014 03:57 | Tags: [heavy-metals](../tag/heavy-metals), [water-quality](../tag/water-quality), [potentiostat](../tag/potentiostat), [arsenic](../tag/arsenic), [lead](../tag/lead), [metals](../tag/metals), [copper](../tag/copper), [wheestat](../tag/wheestat), [parent:wheestat-user-s-manual](../tag/parent:wheestat-user-s-manual)
+August 11, 2014 03:57 | Tags: [heavy-metals](/tag/heavy-metals), [water-quality](/tag/water-quality), [potentiostat](/tag/potentiostat), [arsenic](/tag/arsenic), [lead](/tag/lead), [metals](/tag/metals), [copper](/tag/copper), [wheestat](/tag/wheestat), [parent:wheestat-user-s-manual](/tag/parent:wheestat-user-s-manual)
 
 ----
 

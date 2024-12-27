@@ -6,18 +6,16 @@ author: abcieslik
 path: /notes/abcieslik/10-07-2014/a-reflection-of-sensor-journalism.md
 nid: 11247
 uid: 428083
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/346/original/IMG_4978.JPG)
 
 # A reflection of sensor journalism
 
-by [abcieslik](../../../profile/abcieslik) | October 07, 2014 16:44
+by [abcieslik](/profile/abcieslik) | October 07, 2014 16:44
 
-October 07, 2014 16:44 | Tags: [water-quality](../tag/water-quality), [coqui](../tag/coqui), [sensor-journalism](../tag/sensor-journalism)
+October 07, 2014 16:44 | Tags: [water-quality](/tag/water-quality), [coqui](/tag/coqui), [sensor-journalism](/tag/sensor-journalism)
 
 ----
 

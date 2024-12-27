@@ -6,14 +6,14 @@ author: warren
 path: /wiki/t-bracket-dual-camera-rig.md
 nid: 832
 uid: 1
-
+cids: 
 ---
 
 # T-bracket Dual Camera Rig
 
-by [mathew](../profile/mathew), [warren](../profile/warren)
+by [mathew](/profile/mathew), [warren](/profile/warren)
 
-February 22, 2012 22:30 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [photo-rig](../tag/photo-rig)
+February 22, 2012 22:30 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [photo-rig](/tag/photo-rig)
 
 ----
 

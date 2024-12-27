@@ -6,18 +6,16 @@ author: gonzoearth
 path: /notes/gonzoearth/7-5-2011/yet-another-soda-bottle-camera-house.md
 nid: 369
 uid: 12
-
 cids: 296,16219
-
 ---
 
 ![](https://publiclab.org/sites/default/files/camera-bottle.jpg)
 
 # Yet another soda bottle camera house
 
-by [gonzoearth](../../../profile/gonzoearth) | July 05, 2011 16:24
+by [gonzoearth](/profile/gonzoearth) | July 05, 2011 16:24
 
-July 05, 2011 16:24 | Tags: [balloon-mapping](../tag/balloon-mapping), [photo-rig](../tag/photo-rig), [activity:photo-rig](../tag/activity:photo-rig), [replication:13948](../tag/replication:13948)
+July 05, 2011 16:24 | Tags: [balloon-mapping](/tag/balloon-mapping), [photo-rig](/tag/photo-rig), [activity:photo-rig](/tag/activity:photo-rig), [replication:13948](/tag/replication:13948)
 
 ----
 

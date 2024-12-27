@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/3-6-2013/plastics-options-spectrometers.md
 nid: 6223
 uid: 1
-
 cids: 3646,3661
-
 ---
 
 ![](https://publiclab.org/sites/default/files/2013-03-06-155128.jpg)
 
 # Plastics options for spectrometers
 
-by [warren](../../../profile/warren) | March 06, 2013 21:34
+by [warren](/profile/warren) | March 06, 2013 21:34
 
-March 06, 2013 21:34 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [materials](../tag/materials)
+March 06, 2013 21:34 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [spectrometer](/tag/spectrometer), [materials](/tag/materials)
 
 ----
 

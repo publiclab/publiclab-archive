@@ -6,18 +6,16 @@ author: mimiss
 path: /notes/mimiss/04-20-2021/student-views-explaining-science-with-babylegs-a-photo-essay.md
 nid: 26284
 uid: 579821
-
 cids: 28665,29599,29600,30794,31205,31311,31324
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/354/original/image3.jpg)
 
 # Student Views: Explaining Science with Babylegs, A Photo Essay
 
-by [mimiss](../../../profile/mimiss) | April 20, 2021 16:27
+by [mimiss](/profile/mimiss) | April 20, 2021 16:27
 
-April 20, 2021 16:27 | Tags: [education](../tag/education), [water-quality](../tag/water-quality), [community-science](../tag/community-science), [microplastics](../tag/microplastics), [babylegs](../tag/babylegs), [classroom-community-science](../tag/classroom-community-science), [with:purl](../tag/with:purl)
+April 20, 2021 16:27 | Tags: [education](/tag/education), [water-quality](/tag/water-quality), [community-science](/tag/community-science), [microplastics](/tag/microplastics), [babylegs](/tag/babylegs), [classroom-community-science](/tag/classroom-community-science), [with:purl](/tag/with:purl)
 
 ----
 

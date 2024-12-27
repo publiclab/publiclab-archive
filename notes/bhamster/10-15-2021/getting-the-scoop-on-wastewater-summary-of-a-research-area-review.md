@@ -6,18 +6,16 @@ author: bhamster
 path: /notes/bhamster/10-15-2021/getting-the-scoop-on-wastewater-summary-of-a-research-area-review.md
 nid: 27852
 uid: 664477
-
 cids: 29316
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/906/original/WastewaterRAR_pres_screenshot.png)
 
 # Getting the scoop on Wastewater: Summary of a research area review
 
-by [bhamster](../../../profile/bhamster) | October 15, 2021 15:03
+by [bhamster](/profile/bhamster) | October 15, 2021 15:03
 
-October 15, 2021 15:03 | Tags: [sewage](../tag/sewage), [water-quality](../tag/water-quality), [stormwater](../tag/stormwater), [wastewater](../tag/wastewater), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review), [pin:water-quality](../tag/pin:water-quality), [with:alejobonifacio](../tag/with:alejobonifacio)
+October 15, 2021 15:03 | Tags: [sewage](/tag/sewage), [water-quality](/tag/water-quality), [stormwater](/tag/stormwater), [wastewater](/tag/wastewater), [reviews](/tag/reviews), [research-area-review](/tag/research-area-review), [pin:water-quality](/tag/pin:water-quality), [with:alejobonifacio](/tag/with:alejobonifacio)
 
 ----
 

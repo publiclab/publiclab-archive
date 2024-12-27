@@ -6,18 +6,16 @@ author: mimiss
 path: /notes/mimiss/05-21-2019/workshop-iv-what-do-we-know-and-what-do-we-want-to-learn.md
 nid: 19431
 uid: 579821
-
 cids: 28350
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/292/original/NAS_Community_Science_in_the_Classroom_Overview.png)
 
 # Workshop IV: What do we know, and what do we want to learn?
 
-by [mimiss](../../../profile/mimiss) | May 16, 2019 18:29
+by [mimiss](/profile/mimiss) | May 16, 2019 18:29
 
-May 16, 2019 18:29 | Tags: [education](../tag/education), [workshop](../tag/workshop), [curriculum](../tag/curriculum), [activity:education](../tag/activity:education), [lesson](../tag/lesson), [exploring-environmental-issues](../tag/exploring-environmental-issues), [parent:student-led-community-science-in-the-classroom-a-curriculum](../tag/parent:student-led-community-science-in-the-classroom-a-curriculum), [activity:student-community-science](../tag/activity:student-community-science), [with:purl](../tag/with:purl)
+May 16, 2019 18:29 | Tags: [education](/tag/education), [workshop](/tag/workshop), [curriculum](/tag/curriculum), [activity:education](/tag/activity:education), [lesson](/tag/lesson), [exploring-environmental-issues](/tag/exploring-environmental-issues), [parent:student-led-community-science-in-the-classroom-a-curriculum](/tag/parent:student-led-community-science-in-the-classroom-a-curriculum), [activity:student-community-science](/tag/activity:student-community-science), [with:purl](/tag/with:purl)
 
 ----
 

@@ -6,18 +6,16 @@ author: cindy_excites
 path: /notes/cindyexcites/9-20-2012/infrared-camera-test-film-types.md
 nid: 3907
 uid: 1083
-
 cids: 1398,1399,1400,1534,1538,1539,1540,1541,3598
-
 ---
 
 ![](https://publiclab.org/sites/default/files/0011_end_of_dvlpd_film_20percent.jpg)
 
 # Infrared camera test - film types
 
-by [cindy_excites](../../../profile/cindy_excites) | September 20, 2012 11:01
+by [cindy_excites](/profile/cindy_excites) | September 20, 2012 11:01
 
-September 20, 2012 11:01 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi)
+September 20, 2012 11:01 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [nrg](/tag/nrg), [ndvi](/tag/ndvi)
 
 ----
 

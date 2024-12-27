@@ -6,16 +6,14 @@ author: ZzzPopFzzz
 path: /notes/ZzzPopFzzz/12-24-2017/where-is-there-a-group-interested-in-measuring-the-radiation-levels-from-japan.md
 nid: 15427
 uid: 521127
-
 cids: 22812
-
 ---
 
 # Where is there a group interested in measuring the radiation levels from Japan?
 
-by [ZzzPopFzzz](../../../profile/ZzzPopFzzz) | December 24, 2017 22:08
+by [ZzzPopFzzz](/profile/ZzzPopFzzz) | December 24, 2017 22:08
 
-December 24, 2017 22:08 | Tags: [question:general](../tag/question:general), [question:radiation](../tag/question:radiation)
+December 24, 2017 22:08 | Tags: [question:general](/tag/question:general), [question:radiation](/tag/question:radiation)
 
 ----
 

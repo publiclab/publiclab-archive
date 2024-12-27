@@ -6,12 +6,12 @@ author: warren
 path: /wiki/pilgrim-plant-newspaper.md
 nid: 10535
 uid: 1
-
+cids: 
 ---
 
 # Pilgrim Plant Newspaper
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 June 07, 2014 15:38 | Tags: 
 

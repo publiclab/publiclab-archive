@@ -6,16 +6,14 @@ author: jmacha
 path: /notes/jmacha/03-21-2022/community-outreach-associate-temporary.md
 nid: 30153
 uid: 423019
-
 cids: 31404
-
 ---
 
 # Community Outreach Associate (Temporary)
 
-by [jmacha](../../../profile/jmacha) | March 21, 2022 15:57
+by [jmacha](/profile/jmacha) | March 21, 2022 15:57
 
-March 21, 2022 15:57 | Tags: [outreach](../tag/outreach), [organizing](../tag/organizing), [jobs](../tag/jobs), [job](../tag/job), [career](../tag/career), [careers](../tag/careers)
+March 21, 2022 15:57 | Tags: [outreach](/tag/outreach), [organizing](/tag/organizing), [jobs](/tag/jobs), [job](/tag/job), [career](/tag/career), [careers](/tag/careers)
 
 ----
 

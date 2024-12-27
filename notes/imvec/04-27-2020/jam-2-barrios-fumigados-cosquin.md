@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/04-27-2020/jam-2-barrios-fumigados-cosquin.md
 nid: 23486
 uid: 495038
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/197/original/bfc.jpg)
 
 # JAM#2: Barrios Fumigados Cosquín
 
-by [imvec](../../../profile/imvec) | April 27, 2020 16:38
+by [imvec](/profile/imvec) | April 27, 2020 16:38
 
-April 27, 2020 16:38 | Tags: [lang:es](../tag/lang:es), [argentina](../tag/argentina), [spanish](../tag/spanish), [zoom:16](../tag/zoom:16), [cosquin](../tag/cosquin), [monsanto](../tag/monsanto), [glifosato](../tag/glifosato), [agrotoxicos](../tag/agrotoxicos), [lat:41.408488](../tag/lat:41.408488), [lon:2.199325](../tag/lon:2.199325), [jam](../tag/jam), [autodefensa](../tag/autodefensa), [atrazina](../tag/atrazina), [bayer](../tag/bayer), [autodefensa-vecinal](../tag/autodefensa-vecinal)
+April 27, 2020 16:38 | Tags: [lang:es](/tag/lang:es), [argentina](/tag/argentina), [spanish](/tag/spanish), [zoom:16](/tag/zoom:16), [cosquin](/tag/cosquin), [monsanto](/tag/monsanto), [glifosato](/tag/glifosato), [agrotoxicos](/tag/agrotoxicos), [lat:41.408488](/tag/lat:41.408488), [lon:2.199325](/tag/lon:2.199325), [jam](/tag/jam), [autodefensa](/tag/autodefensa), [atrazina](/tag/atrazina), [bayer](/tag/bayer), [autodefensa-vecinal](/tag/autodefensa-vecinal)
 
 ----
 

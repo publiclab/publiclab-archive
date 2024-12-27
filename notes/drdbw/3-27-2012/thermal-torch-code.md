@@ -6,16 +6,14 @@ author: dr_dbw
 path: /notes/drdbw/3-27-2012/thermal-torch-code.md
 nid: 1548
 uid: 706
-
 cids: 559,560,561
-
 ---
 
 # Thermal Torch Code
 
-by [dr_dbw](../../../profile/dr_dbw) | March 27, 2012 22:24
+by [dr_dbw](/profile/dr_dbw) | March 27, 2012 22:24
 
-March 27, 2012 22:24 | Tags: [thermal-photography](../tag/thermal-photography), [first-time-poster](../tag/first-time-poster)
+March 27, 2012 22:24 | Tags: [thermal-photography](/tag/thermal-photography), [first-time-poster](/tag/first-time-poster)
 
 ----
 

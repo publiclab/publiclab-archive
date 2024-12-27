@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/01-18-2017/public-lab-and-uc-davis-partner-to-explore-community-science-and-civic-engagement.md
 nid: 13862
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/306/original/barnraising-handraising_copy.JPG)
 
 # Public Lab and UC-Davis partner to explore community science and civic engagement
 
-by [Shannon](../../../profile/Shannon) | January 18, 2017 19:18
+by [Shannon](/profile/Shannon) | January 18, 2017 19:18
 
-January 18, 2017 19:18 | Tags: [non-profit](../tag/non-profit), [grants](../tag/grants), [moore-foundation](../tag/moore-foundation), [moore](../tag/moore)
+January 18, 2017 19:18 | Tags: [non-profit](/tag/non-profit), [grants](/tag/grants), [moore-foundation](/tag/moore-foundation), [moore](/tag/moore)
 
 ----
 

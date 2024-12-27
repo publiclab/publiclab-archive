@@ -6,12 +6,12 @@ author: gonzoearth
 path: /wiki/getting-started-aerial-mapmaking.md
 nid: 233
 uid: 12
-
+cids: 
 ---
 
 # Getting started with aerial mapmaking
 
-by [gonzoearth](../profile/gonzoearth)
+by [gonzoearth](/profile/gonzoearth)
 
 May 10, 2011 03:28 | Tags: 
 

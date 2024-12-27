@@ -6,14 +6,14 @@ author: kits
 path: /wiki/kits-artwork.md
 nid: 14927
 uid: 514831
-
+cids: 
 ---
 
 # Kits Artwork
 
-by [warren](../profile/warren), [kits](../profile/kits)
+by [warren](/profile/warren), [kits](/profile/kits)
 
-September 21, 2017 15:45 | Tags: [kits](../tag/kits), [parent:kits](../tag/parent:kits), [artwork](../tag/artwork), [first-time-poster](../tag/first-time-poster)
+September 21, 2017 15:45 | Tags: [kits](/tag/kits), [parent:kits](/tag/parent:kits), [artwork](/tag/artwork), [first-time-poster](/tag/first-time-poster)
 
 ----
 

@@ -6,12 +6,12 @@ author: liz
 path: /wiki/staff-call-notes-5-7-2012.md
 nid: 1922
 uid: 7
-
+cids: 
 ---
 
 # Staff Call Notes 5-7-2012
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
 May 07, 2012 16:34 | Tags: 
 

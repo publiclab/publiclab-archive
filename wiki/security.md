@@ -6,14 +6,14 @@ author: warren
 path: /wiki/security.md
 nid: 17805
 uid: 1
-
+cids: 
 ---
 
 # Security/privacy best practices for data and devices
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-December 04, 2018 17:30 | Tags: [security](../tag/security), [locked](../tag/locked), [privacy](../tag/privacy), [risk](../tag/risk), [parent:privacy](../tag/parent:privacy)
+December 04, 2018 17:30 | Tags: [security](/tag/security), [locked](/tag/locked), [privacy](/tag/privacy), [risk](/tag/risk), [parent:privacy](/tag/parent:privacy)
 
 ----
 
@@ -50,4 +50,4 @@ Get the full document here:
 
 ## Questions
 
-[security](../../tag/question:security)
+[security](/tag/question:security)

@@ -6,18 +6,16 @@ author: hagitkeysar
 path: /notes/hagitkeysar/10-07-2013/new-ways-of-seeing-in-jerusalem-the-environment-justice-micro-magazine.md
 nid: 9418
 uid: 152
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/799/original/07-kite.jpg)
 
 # New Ways of Seeing in Jerusalem - the Environment + Justice Micro Magazine
 
-by [hagitkeysar](../../../profile/hagitkeysar) | October 07, 2013 18:13
+by [hagitkeysar](/profile/hagitkeysar) | October 07, 2013 18:13
 
-October 07, 2013 18:13 | Tags: [kite-mapping](../tag/kite-mapping), [jerusalem](../tag/jerusalem), [israel](../tag/israel), [palestine](../tag/palestine), [blog](../tag/blog), [censorship](../tag/censorship)
+October 07, 2013 18:13 | Tags: [kite-mapping](/tag/kite-mapping), [jerusalem](/tag/jerusalem), [israel](/tag/israel), [palestine](/tag/palestine), [blog](/tag/blog), [censorship](/tag/censorship)
 
 ----
 

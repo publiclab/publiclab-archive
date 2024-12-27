@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/09-10-2013/leaffest-fungal-fun.md
 nid: 9311
 uid: 554
-
 cids: 21953
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/467/original/HydnumSituNDVI.JPG)
 
 # LEAFFEST Fungal Fun
 
-by [cfastie](../../../profile/cfastie) | September 10, 2013 01:14
+by [cfastie](/profile/cfastie) | September 10, 2013 01:14
 
-September 10, 2013 01:14 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [leaffest](../tag/leaffest), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [leaffest2013](../tag/leaffest2013), [response:9302](../tag/response:9302), [response:9305](../tag/response:9305)
+September 10, 2013 01:14 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [vermont](/tag/vermont), [leaffest](/tag/leaffest), [infragram](/tag/infragram), [infrablue](/tag/infrablue), [leaffest2013](/tag/leaffest2013), [response:9302](/tag/response:9302), [response:9305](/tag/response:9305)
 
 ----
 

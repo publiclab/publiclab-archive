@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/5-30-2012/mockups-website-improvements.md
 nid: 2261
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Picture 5.png)
 
 # Mockups for website improvements
 
-by [warren](../../../profile/warren) | May 30, 2012 22:14
+by [warren](/profile/warren) | May 30, 2012 22:14
 
-May 30, 2012 22:14 | Tags: [website](../tag/website)
+May 30, 2012 22:14 | Tags: [website](/tag/website)
 
 ----
 

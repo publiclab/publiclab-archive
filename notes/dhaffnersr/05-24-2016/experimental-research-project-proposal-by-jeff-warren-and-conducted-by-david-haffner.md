@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/05-24-2016/experimental-research-project-proposal-by-jeff-warren-and-conducted-by-david-haffner.md
 nid: 13140
 uid: 461120
-
 cids: 14674,14675,14702,15092
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/277/original/PIC_0313.JPG)
 
 # Experimental research project proposal by Jeff Warren and conducted by David Haffner 
 
-by [dhaffnersr](../../../profile/dhaffnersr) | May 24, 2016 08:43
+by [dhaffnersr](/profile/dhaffnersr) | May 24, 2016 08:43
 
 May 24, 2016 08:43 | Tags: 
 

@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/03-02-2014/thermal-flashlight-reva-first-tests.md
 nid: 10094
 uid: 43651
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/111/original/thermalll.png)
 
 # Thermal Flashlight REVA -- first tests
 
-by [donblair](../../../profile/donblair) | March 02, 2014 00:12
+by [donblair](/profile/donblair) | March 02, 2014 00:12
 
-March 02, 2014 00:12 | Tags: [thermal-photography](../tag/thermal-photography), [arduino](../tag/arduino), [thermal-flashlight](../tag/thermal-flashlight), [thermal-fishing-bob](../tag/thermal-fishing-bob), [pcb](../tag/pcb)
+March 02, 2014 00:12 | Tags: [thermal-photography](/tag/thermal-photography), [arduino](/tag/arduino), [thermal-flashlight](/tag/thermal-flashlight), [thermal-fishing-bob](/tag/thermal-fishing-bob), [pcb](/tag/pcb)
 
 ----
 

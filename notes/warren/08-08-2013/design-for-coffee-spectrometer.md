@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/08-08-2013/design-for-coffee-spectrometer.md
 nid: 8981
 uid: 1
-
 cids: 6634,6822,8292,14035
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/063/original/Screen_Shot_2013-08-08_at_10.48.39_AM.png)
 
 # Design for coffee spectrometer
 
-by [warren](../../../profile/warren) | August 08, 2013 14:52
+by [warren](/profile/warren) | August 08, 2013 14:52
 
-August 08, 2013 14:52 | Tags: [spectrometer](../tag/spectrometer), [water-monitoring](../tag/water-monitoring), [3d-printing](../tag/3d-printing), [coffee](../tag/coffee), [sampling](../tag/sampling), [eyedropper](../tag/eyedropper), [response:8973](../tag/response:8973), [colorimetry](../tag/colorimetry)
+August 08, 2013 14:52 | Tags: [spectrometer](/tag/spectrometer), [water-monitoring](/tag/water-monitoring), [3d-printing](/tag/3d-printing), [coffee](/tag/coffee), [sampling](/tag/sampling), [eyedropper](/tag/eyedropper), [response:8973](/tag/response:8973), [colorimetry](/tag/colorimetry)
 
 ----
 

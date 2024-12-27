@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/10-23-2018/call-for-outreachy-2018-19-proposals.md
 nid: 17359
 uid: 1
-
 cids: 20952,20964,20967,21059,21060,21061,21093,21095,21097,21130,21131,21312,21315
-
 ---
 
 # Call for Outreachy 2018-19 proposals!
 
-by [warren](../../../profile/warren) | October 23, 2018 17:00
+by [warren](/profile/warren) | October 23, 2018 17:00
 
-October 23, 2018 17:00 | Tags: [website](../tag/website), [software](../tag/software), [code](../tag/code), [wwg](../tag/wwg), [software-outreach](../tag/software-outreach), [soc](../tag/soc), [outreachy](../tag/outreachy), [call-for-proposals](../tag/call-for-proposals), [outreachy-2018](../tag/outreachy-2018), [proposals](../tag/proposals), [call-](../tag/call-)
+October 23, 2018 17:00 | Tags: [website](/tag/website), [software](/tag/software), [code](/tag/code), [wwg](/tag/wwg), [software-outreach](/tag/software-outreach), [soc](/tag/soc), [outreachy](/tag/outreachy), [call-for-proposals](/tag/call-for-proposals), [outreachy-2018](/tag/outreachy-2018), [proposals](/tag/proposals), [call-](/tag/call-)
 
 ----
 
@@ -72,12 +70,12 @@ You can also read through past proposals for similar programs here: #call-for-pr
 
 ## Proposals
 
-[outreachy-2018-proposals](../../tag/outreachy-2018-proposals)
+[outreachy-2018-proposals](/tag/outreachy-2018-proposals)
 
 ---------
 
 ## Questions
 
-[soc](../../tag/question:soc)
+[soc](/tag/question:soc)
 
 Please ask questions! We're very friendly and we love welcoming new people into our community.

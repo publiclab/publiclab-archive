@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/08-11-2013/infairgrams.md
 nid: 8991
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/100/original/ACFair-SwingsC.jpg)
 
 # Infairgrams
 
-by [cfastie](../../../profile/cfastie) | August 11, 2013 15:21
+by [cfastie](/profile/cfastie) | August 11, 2013 15:21
 
-August 11, 2013 15:21 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [infrared](../tag/infrared), [photoshop](../tag/photoshop), [infragram](../tag/infragram)
+August 11, 2013 15:21 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [vermont](/tag/vermont), [infrared](/tag/infrared), [photoshop](/tag/photoshop), [infragram](/tag/infragram)
 
 ----
 

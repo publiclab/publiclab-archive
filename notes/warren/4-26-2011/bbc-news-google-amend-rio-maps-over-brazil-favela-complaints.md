@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/4-26-2011/bbc-news-google-amend-rio-maps-over-brazil-favela-complaints.md
 nid: 195
 uid: 1
-
 cids: 
-
 ---
 
 # BBC News - Google to amend Rio maps over Brazil favela complaints
 
-by [warren](../../../profile/warren) | April 26, 2011 23:35
+by [warren](/profile/warren) | April 26, 2011 23:35
 
-April 26, 2011 23:35 | Tags: [rio](../tag/rio), [brasil](../tag/brasil), [south-america](../tag/south-america)
+April 26, 2011 23:35 | Tags: [rio](/tag/rio), [brasil](/tag/brasil), [south-america](/tag/south-america)
 
 ----
 

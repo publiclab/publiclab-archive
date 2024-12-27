@@ -6,16 +6,16 @@ author: donblair
 path: /wiki/riffle.md
 nid: 10000
 uid: 43651
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/488/original/riffle_20160517-5550-2.jpg)
 
 # Riffle: an Open Source Water Monitoring Approach
 
-by [warren](../profile/warren), [stevie](../profile/stevie), [pdhixenbaugh](../profile/pdhixenbaugh), [liz](../profile/liz), [donblair](../profile/donblair), [mathew](../profile/mathew), [bgamari](../profile/bgamari)
+by [warren](/profile/warren), [stevie](/profile/stevie), [pdhixenbaugh](/profile/pdhixenbaugh), [liz](/profile/liz), [donblair](/profile/donblair), [mathew](/profile/mathew), [bgamari](/profile/bgamari)
 
-January 31, 2014 23:37 | Tags: [agriculture](../tag/agriculture), [pvos](../tag/pvos), [mining](../tag/mining), [water-quality](../tag/water-quality), [water](../tag/water), [water-monitoring](../tag/water-monitoring), [water-quality-sensor](../tag/water-quality-sensor), [fracking](../tag/fracking), [tool](../tag/tool), [datalogger](../tag/datalogger), [riffle](../tag/riffle), [list:plots-waterquality](../tag/list:plots-waterquality), [open-water](../tag/open-water), [data-logging](../tag/data-logging), [activities:riffle](../tag/activities:riffle), [upgrades:riffle](../tag/upgrades:riffle), [method](../tag/method), [chemicals](../tag/chemicals), [oil-and-gas](../tag/oil-and-gas), [electronic-sensors](../tag/electronic-sensors), [parent:data-logging](../tag/parent:data-logging), [project:water-quality](../tag/project:water-quality)
+January 31, 2014 23:37 | Tags: [agriculture](/tag/agriculture), [pvos](/tag/pvos), [mining](/tag/mining), [water-quality](/tag/water-quality), [water](/tag/water), [water-monitoring](/tag/water-monitoring), [water-quality-sensor](/tag/water-quality-sensor), [fracking](/tag/fracking), [tool](/tag/tool), [datalogger](/tag/datalogger), [riffle](/tag/riffle), [list:plots-waterquality](/tag/list:plots-waterquality), [open-water](/tag/open-water), [data-logging](/tag/data-logging), [activities:riffle](/tag/activities:riffle), [upgrades:riffle](/tag/upgrades:riffle), [method](/tag/method), [chemicals](/tag/chemicals), [oil-and-gas](/tag/oil-and-gas), [electronic-sensors](/tag/electronic-sensors), [parent:data-logging](/tag/parent:data-logging), [project:water-quality](/tag/project:water-quality)
 
 ----
 
@@ -51,7 +51,7 @@ We've started to summarize some of the approaches to sensing water parameters li
 
 Here are some activities the Public Lab community has conducted using the Riffle
 
-[riffle](../../tag/activity:riffle)
+[riffle](/tag/activity:riffle)
 
 
 # Project Status
@@ -83,13 +83,13 @@ The following dataloggers also have a real time clock and log to a micro SD card
 
 ## Questions
 
-[riffle](../../tag/question:riffle)
+[riffle](/tag/question:riffle)
 
 ****
 
 ###All updates related to the Riffle
 
-[riffle](../../tag/riffle)
+[riffle](/tag/riffle)
 
 ****
 
@@ -97,10 +97,10 @@ The following dataloggers also have a real time clock and log to a micro SD card
 
 Since the Riffle is Arduino-compatible, here are also some Q&A for Arduinos in general:
 
-[arduino](../../tag/question:arduino)
+[arduino](/tag/question:arduino)
 
 The Riffle is also a part of a larger area on data logging. Here are some Q&A asked more generally:
 
-[data_logging](../../tag/question:data_logging)
+[data_logging](/tag/question:data_logging)
 
-[nano-data-logger](../../tag/question:nano-data-logger)
+[nano-data-logger](/tag/question:nano-data-logger)

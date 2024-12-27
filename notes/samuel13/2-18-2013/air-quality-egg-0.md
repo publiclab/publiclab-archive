@@ -6,18 +6,16 @@ author: Samuel13
 path: /notes/samuel13/2-18-2013/air-quality-egg-0.md
 nid: 6038
 uid: 50437
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Camera(15) (2).jpg)
 
 # air quality egg
 
-by [Samuel13](../../../profile/Samuel13) | February 18, 2013 06:30
+by [Samuel13](/profile/Samuel13) | February 18, 2013 06:30
 
-February 18, 2013 06:30 | Tags: [new-york-city](../tag/new-york-city), [chcs](../tag/chcs)
+February 18, 2013 06:30 | Tags: [new-york-city](/tag/new-york-city), [chcs](/tag/chcs)
 
 ----
 

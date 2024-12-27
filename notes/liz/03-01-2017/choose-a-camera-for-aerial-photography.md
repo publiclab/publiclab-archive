@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/03-01-2017/choose-a-camera-for-aerial-photography.md
 nid: 13980
 uid: 7
-
 cids: 16285,16305
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/700/original/s-l1600.jpg)
 
 # Choose a camera for aerial photography
 
-by [liz](../../../profile/liz) | March 01, 2017 21:44
+by [liz](/profile/liz) | March 01, 2017 21:44
 
-March 01, 2017 21:44 | Tags: [with:cfastie](../tag/with:cfastie), [activity:balloon-mapping](../tag/activity:balloon-mapping), [activity:cameras](../tag/activity:cameras), [activity:bourjalshamali](../tag/activity:bourjalshamali)
+March 01, 2017 21:44 | Tags: [with:cfastie](/tag/with:cfastie), [activity:balloon-mapping](/tag/activity:balloon-mapping), [activity:cameras](/tag/activity:cameras), [activity:bourjalshamali](/tag/activity:bourjalshamali)
 
 ----
 

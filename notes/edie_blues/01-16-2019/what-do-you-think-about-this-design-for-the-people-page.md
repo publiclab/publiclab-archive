@@ -6,18 +6,16 @@ author: edie_blues
 path: /notes/edie_blues/01-16-2019/what-do-you-think-about-this-design-for-the-people-page.md
 nid: 18129
 uid: 552521
-
 cids: 21752,21760,21787,21788,21789,21875,21876,22212,22213,23363
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/892/original/New_Mockup_3.png)
 
 # What do you think about this design for the /people page?
 
-by [edie_blues](../../../profile/edie_blues) | January 16, 2019 21:00
+by [edie_blues](/profile/edie_blues) | January 16, 2019 21:00
 
-January 16, 2019 21:00 | Tags: [design](../tag/design), [ui](../tag/ui), [ui-designs](../tag/ui-designs)
+January 16, 2019 21:00 | Tags: [design](/tag/design), [ui](/tag/ui), [ui-designs](/tag/ui-designs)
 
 ----
 

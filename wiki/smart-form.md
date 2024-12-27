@@ -6,16 +6,16 @@ author: gretchengehrke
 path: /wiki/smart-form.md
 nid: 14930
 uid: 430549
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/944/original/Screen_Shot_2017-12-15_at_3.23.19_PM.png)
 
 # SmART-Form
 
-by [gretchengehrke](../profile/gretchengehrke), [nshapiro](../profile/nshapiro), [liz](../profile/liz)
+by [gretchengehrke](/profile/gretchengehrke), [nshapiro](/profile/nshapiro), [liz](/profile/liz)
 
-September 21, 2017 18:52 | Tags: [formaldehyde](../tag/formaldehyde), [indoor-air-quality-monitoring](../tag/indoor-air-quality-monitoring), [indoor-air-quality](../tag/indoor-air-quality), [smart-form](../tag/smart-form)
+September 21, 2017 18:52 | Tags: [formaldehyde](/tag/formaldehyde), [indoor-air-quality-monitoring](/tag/indoor-air-quality-monitoring), [indoor-air-quality](/tag/indoor-air-quality), [smart-form](/tag/smart-form)
 
 ----
 
@@ -42,10 +42,10 @@ To see the latest progress on this project, please search the [tag “smart-form
 ****
 
 #### Questions
-[smart-form](../../tag/question:smart-form)
+[smart-form](/tag/question:smart-form)
 ****
 #### Activities
-[smart-form](../../tag/activity:smart-form)
+[smart-form](/tag/activity:smart-form)
 
 ### Who is working on this?
 

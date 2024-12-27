@@ -6,18 +6,16 @@ author: jrmc502
 path: /notes/jrmc502/10-07-2020/towards-ai-assisted-water-testing-instructions.md
 nid: 24714
 uid: 705531
-
 cids: 27462
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/097/original/IMG_20200819_134838734_HDR.jpg)
 
 # (Towards) AI-Assisted Water Testing - Instructions
 
-by [jrmc502](../../../profile/jrmc502) | October 07, 2020 19:24
+by [jrmc502](/profile/jrmc502) | October 07, 2020 19:24
 
-October 07, 2020 19:24 | Tags: [first-time-poster](../tag/first-time-poster)
+October 07, 2020 19:24 | Tags: [first-time-poster](/tag/first-time-poster)
 
 ----
 

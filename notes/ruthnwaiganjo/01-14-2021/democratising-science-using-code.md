@@ -6,18 +6,16 @@ author: ruthnwaiganjo
 path: /notes/ruthnwaiganjo/01-14-2021/democratising-science-using-code.md
 nid: 25465
 uid: 725565
-
 cids: 27957,27960,27987,27993
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/409/original/Screenshot_2021-01-14_at_18.05.39.png)
 
 # Democratizing Science Using Code
 
-by [ruthnwaiganjo](../../../profile/ruthnwaiganjo) | January 14, 2021 15:31
+by [ruthnwaiganjo](/profile/ruthnwaiganjo) | January 14, 2021 15:31
 
-January 14, 2021 15:31 | Tags: [air-quality](../tag/air-quality), [coding](../tag/coding), [blog-submission](../tag/blog-submission), [dashboard](../tag/dashboard), [community-science](../tag/community-science), [outreachy](../tag/outreachy)
+January 14, 2021 15:31 | Tags: [air-quality](/tag/air-quality), [coding](/tag/coding), [blog-submission](/tag/blog-submission), [dashboard](/tag/dashboard), [community-science](/tag/community-science), [outreachy](/tag/outreachy)
 
 ----
 

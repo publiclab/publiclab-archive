@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/12-14-2020/english-regist-ro.md
 nid: 25252
 uid: 495038
-
 cids: 27800,27806,27823,27827,27838
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/015/original/front.png)
 
 # English regist.ro
 
-by [imvec](../../../profile/imvec) | December 14, 2020 15:21
+by [imvec](/profile/imvec) | December 14, 2020 15:21
 
-December 14, 2020 15:21 | Tags: [tools](../tag/tools), [english](../tag/english), [zoom:16](../tag/zoom:16), [lat:41.408488](../tag/lat:41.408488), [lon:2.199325](../tag/lon:2.199325), [lang:english](../tag/lang:english)
+December 14, 2020 15:21 | Tags: [tools](/tag/tools), [english](/tag/english), [zoom:16](/tag/zoom:16), [lat:41.408488](/tag/lat:41.408488), [lon:2.199325](/tag/lon:2.199325), [lang:english](/tag/lang:english)
 
 ----
 

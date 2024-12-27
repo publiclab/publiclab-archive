@@ -6,16 +6,16 @@ author: warren
 path: /wiki/welcome.md
 nid: 1624
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/702/original/BarnraisingToolTable_copy.jpg)
 
 # Welcome to Public Lab
 
-by [bhamster](../profile/bhamster), [laurel_mire](../profile/laurel_mire), [xose](../profile/xose), [liz](../profile/liz), [joyofsoy](../profile/joyofsoy), [stevie](../profile/stevie), [warren](../profile/warren)
+by [bhamster](/profile/bhamster), [laurel_mire](/profile/laurel_mire), [xose](/profile/xose), [liz](/profile/liz), [joyofsoy](/profile/joyofsoy), [stevie](/profile/stevie), [warren](/profile/warren)
 
-April 06, 2012 16:10 | Tags: [community](../tag/community), [website](../tag/website), [welcome](../tag/welcome), [getting-started](../tag/getting-started), [newcomers](../tag/newcomers), [onboarding](../tag/onboarding), [style:minimal](../tag/style:minimal), [content](../tag/content)
+April 06, 2012 16:10 | Tags: [community](/tag/community), [website](/tag/website), [welcome](/tag/welcome), [getting-started](/tag/getting-started), [newcomers](/tag/newcomers), [onboarding](/tag/onboarding), [style:minimal](/tag/style:minimal), [content](/tag/content)
 
 ----
 

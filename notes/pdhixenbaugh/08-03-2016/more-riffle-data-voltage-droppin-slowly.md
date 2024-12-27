@@ -6,18 +6,16 @@ author: pdhixenbaugh
 path: /notes/pdhixenbaugh/08-03-2016/more-riffle-data-voltage-droppin-slowly.md
 nid: 13332
 uid: 459085
-
 cids: 15075
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/349/original/2016-07-25Temp.PNG)
 
 # More Riffle Data - Voltage droppin slowly
 
-by [pdhixenbaugh](../../../profile/pdhixenbaugh) | August 03, 2016 23:10
+by [pdhixenbaugh](/profile/pdhixenbaugh) | August 03, 2016 23:10
 
-August 03, 2016 23:10 | Tags: [riffle](../tag/riffle), [riffle-beta](../tag/riffle-beta)
+August 03, 2016 23:10 | Tags: [riffle](/tag/riffle), [riffle-beta](/tag/riffle-beta)
 
 ----
 

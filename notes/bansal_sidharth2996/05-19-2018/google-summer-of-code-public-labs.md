@@ -6,16 +6,14 @@ author: bansal_sidharth2996
 path: /notes/bansal_sidharth2996/05-19-2018/google-summer-of-code-public-labs.md
 nid: 16368
 uid: 503599
-
 cids: 19665
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/996/original/gsoc.png)
 
 # GOOGLE SUMMER OF CODE & PUBLIC LABS
 
-by [bansal_sidharth2996](../../../profile/bansal_sidharth2996) | May 19, 2018 16:07
+by [bansal_sidharth2996](/profile/bansal_sidharth2996) | May 19, 2018 16:07
 
 May 19, 2018 16:07 | Tags: 
 

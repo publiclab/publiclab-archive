@@ -6,18 +6,16 @@ author: alejobonifacio
 path: /notes/alejobonifacio/07-22-2021/como-evaluo-la-calidad-de-un-ambiente-acuatico-con-mi-telefono-movil-how-do-i-assess-the-quality-of-an-aquatic-environment-with-my-mobile-phone.md
 nid: 27184
 uid: 639376
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/426/original/AppEar.png)
 
 # ¿Cómo evaluo la calidad de un ambiente acuático con mi teléfono móvil? / How do I assess the quality of an aquatic environment with my mobile phone?
 
-by [alejobonifacio](../../../profile/alejobonifacio) | July 22, 2021 15:06
+by [alejobonifacio](/profile/alejobonifacio) | July 22, 2021 15:06
 
-July 22, 2021 15:06 | Tags: [water-quality](../tag/water-quality), [lang:es](../tag/lang:es), [new](../tag/new), [difficulty:easy](../tag/difficulty:easy), [category:observe](../tag/category:observe), [time:1h](../tag/time:1h), [status:complete](../tag/status:complete), [activity:water-quality](../tag/activity:water-quality), [activity:new](../tag/activity:new), [lat:-30](../tag/lat:-30), [english](../tag/english), [zoom:7](../tag/zoom:7), [zoom:17](../tag/zoom:17), [research-curation-fellows](../tag/research-curation-fellows), [appear](../tag/appear), [response:12448](../tag/response:12448), [lon:-63](../tag/lon:-63), [getting-started-wastewater](../tag/getting-started-wastewater), [lat:-31.431995](../tag/lat:-31.431995), [lon:-64.192535](../tag/lon:-64.192535)
+July 22, 2021 15:06 | Tags: [water-quality](/tag/water-quality), [lang:es](/tag/lang:es), [new](/tag/new), [difficulty:easy](/tag/difficulty:easy), [category:observe](/tag/category:observe), [time:1h](/tag/time:1h), [status:complete](/tag/status:complete), [activity:water-quality](/tag/activity:water-quality), [activity:new](/tag/activity:new), [lat:-30](/tag/lat:-30), [english](/tag/english), [zoom:7](/tag/zoom:7), [zoom:17](/tag/zoom:17), [research-curation-fellows](/tag/research-curation-fellows), [appear](/tag/appear), [response:12448](/tag/response:12448), [lon:-63](/tag/lon:-63), [getting-started-wastewater](/tag/getting-started-wastewater), [lat:-31.431995](/tag/lat:-31.431995), [lon:-64.192535](/tag/lon:-64.192535)
 
 ----
 

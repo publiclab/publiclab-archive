@@ -6,18 +6,16 @@ author: chadalfonso
 path: /notes/chadalfonso/04-13-2021/plastic-in-the-mississippi-river-the-malleable-mississippi.md
 nid: 26222
 uid: 750414
-
 cids: 28567,28589,28600,28608,29275,29417
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/284/original/download_%2838%29.jpeg)
 
 # Plastic in the Mississippi River:The Malleable Mississippi?
 
-by [chadalfonso](../../../profile/chadalfonso) | April 13, 2021 16:57
+by [chadalfonso](/profile/chadalfonso) | April 13, 2021 16:57
 
-April 13, 2021 16:57 | Tags: [gulf-coast](../tag/gulf-coast), [mississippi-river](../tag/mississippi-river), [issue-brief](../tag/issue-brief), [microplastics](../tag/microplastics), [plastic](../tag/plastic), [first-time-poster](../tag/first-time-poster), [student-community-science](../tag/student-community-science), [lat:29.951065](../tag/lat:29.951065), [lon:-90.071532](../tag/lon:-90.071532), [zoom:6](../tag/zoom:6)
+April 13, 2021 16:57 | Tags: [gulf-coast](/tag/gulf-coast), [mississippi-river](/tag/mississippi-river), [issue-brief](/tag/issue-brief), [microplastics](/tag/microplastics), [plastic](/tag/plastic), [first-time-poster](/tag/first-time-poster), [student-community-science](/tag/student-community-science), [lat:29.951065](/tag/lat:29.951065), [lon:-90.071532](/tag/lon:-90.071532), [zoom:6](/tag/zoom:6)
 
 ----
 
@@ -83,4 +81,4 @@ Trash collection path (0.2 miles):
   
   
   
-[tagname](../../tag/question:tagname)
+[tagname](/tag/question:tagname)

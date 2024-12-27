@@ -6,18 +6,16 @@ author: stef
 path: /notes/stef/09-28-2016/ambient-light-reflection-suppression.md
 nid: 13497
 uid: 482758
-
 cids: 15518,15522
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/191/original/IMGP1462.JPG)
 
 # Ambient Light Reflection Suppression
 
-by [stef](../../../profile/stef) | September 28, 2016 18:45
+by [stef](/profile/stef) | September 28, 2016 18:45
 
-September 28, 2016 18:45 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [ambient-light](../tag/ambient-light), [reflections](../tag/reflections), [build:13470](../tag/build:13470), [first-time-poster](../tag/first-time-poster)
+September 28, 2016 18:45 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [ambient-light](/tag/ambient-light), [reflections](/tag/reflections), [build:13470](/tag/build:13470), [first-time-poster](/tag/first-time-poster)
 
 ----
 

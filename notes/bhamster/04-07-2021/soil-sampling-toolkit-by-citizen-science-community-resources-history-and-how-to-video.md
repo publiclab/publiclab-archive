@@ -6,18 +6,16 @@ author: bhamster
 path: /notes/bhamster/04-07-2021/soil-sampling-toolkit-by-citizen-science-community-resources-history-and-how-to-video.md
 nid: 26118
 uid: 664477
-
 cids: 28462,28463,28468
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/113/original/Thumbnail.png)
 
 # Soil Sampling Toolkit by Citizen Science Community Resources: History and How-To Video
 
-by [bhamster](../../../profile/bhamster) | April 07, 2021 15:32
+by [bhamster](/profile/bhamster) | April 07, 2021 15:32
 
-April 07, 2021 15:32 | Tags: [video](../tag/video), [soil](../tag/soil), [soil-testing](../tag/soil-testing), [soil-sampling](../tag/soil-sampling), [soil-testing-toolkit](../tag/soil-testing-toolkit), [with:jjcreedon](../tag/with:jjcreedon), [soil-contamination](../tag/soil-contamination), [with:mike_cscr](../tag/with:mike_cscr)
+April 07, 2021 15:32 | Tags: [video](/tag/video), [soil](/tag/soil), [soil-testing](/tag/soil-testing), [soil-sampling](/tag/soil-sampling), [soil-testing-toolkit](/tag/soil-testing-toolkit), [with:jjcreedon](/tag/with:jjcreedon), [soil-contamination](/tag/soil-contamination), [with:mike_cscr](/tag/with:mike_cscr)
 
 ----
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/balloon-mapping-media.md
 nid: 7140
 uid: 1
-
+cids: 
 ---
 
 # balloon-mapping-media
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-April 30, 2013 22:15 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [media](../tag/media)
+April 30, 2013 22:15 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [media](/tag/media)
 
 ----
 

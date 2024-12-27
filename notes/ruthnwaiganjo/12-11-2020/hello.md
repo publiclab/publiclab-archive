@@ -6,18 +6,16 @@ author: ruthnwaiganjo
 path: /notes/ruthnwaiganjo/12-11-2020/hello.md
 nid: 25228
 uid: 725565
-
 cids: 27799,27802,27803,27841,27842,27844,27926
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/953/original/Ugali___Sukuma_Wiki.jpg)
 
 # Hello
 
-by [ruthnwaiganjo](../../../profile/ruthnwaiganjo) | December 11, 2020 14:07
+by [ruthnwaiganjo](/profile/ruthnwaiganjo) | December 11, 2020 14:07
 
-December 11, 2020 14:07 | Tags: [food](../tag/food), [coding](../tag/coding), [dashboard](../tag/dashboard), [technology](../tag/technology), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster)
+December 11, 2020 14:07 | Tags: [food](/tag/food), [coding](/tag/coding), [dashboard](/tag/dashboard), [technology](/tag/technology), [outreachy](/tag/outreachy), [first-time-poster](/tag/first-time-poster)
 
 ----
 

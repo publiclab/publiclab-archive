@@ -6,18 +6,16 @@ author: TheChessGym
 path: /notes/TheChessGym/08-25-2022/adverse-effects-on-our-everchanging-environment.md
 nid: 34900
 uid: 788868
-
 cids: 30489,30490,30491,30492,30493,30494,30495,30496,30497,30498,30499,30500,30501,30502,30503,30504,30505,30506,30507,30508,30509
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/067/original/Burmese.jpg)
 
 # Adverse Effects On Our Everchanging Environment
 
-by [TheChessGym](../../../profile/TheChessGym) | August 25, 2022 13:28
+by [TheChessGym](/profile/TheChessGym) | August 25, 2022 13:28
 
-August 25, 2022 13:28 | Tags: [lat:1](../tag/lat:1), [lat:22](../tag/lat:22), [lon:10](../tag/lon:10), [first-time-poster](../tag/first-time-poster), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
+August 25, 2022 13:28 | Tags: [lat:1](/tag/lat:1), [lat:22](/tag/lat:22), [lon:10](/tag/lon:10), [first-time-poster](/tag/first-time-poster), [lon:76](/tag/lon:76), [zoom:6](/tag/zoom:6)
 
 ----
 

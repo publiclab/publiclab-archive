@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/3-8-2013/macro-system-spectral-workbench-api.md
 nid: 6247
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/macros.png)
 
 # Macro system for Spectral Workbench API
 
-by [warren](../../../profile/warren) | March 08, 2013 21:28
+by [warren](/profile/warren) | March 08, 2013 21:28
 
-March 08, 2013 21:28 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [api](../tag/api)
+March 08, 2013 21:28 | Tags: [spectrometer](/tag/spectrometer), [spectralworkbench](/tag/spectralworkbench), [api](/tag/api)
 
 ----
 

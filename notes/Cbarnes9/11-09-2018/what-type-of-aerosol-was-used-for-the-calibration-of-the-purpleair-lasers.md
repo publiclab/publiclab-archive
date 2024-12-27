@@ -6,16 +6,14 @@ author: Cbarnes9
 path: /notes/Cbarnes9/11-09-2018/what-type-of-aerosol-was-used-for-the-calibration-of-the-purpleair-lasers.md
 nid: 17496
 uid: 558529
-
 cids: 21214,21216,21379,21909,23281
-
 ---
 
 # What type of aerosol was used for the calibration of the purpleair lasers? 
 
-by [Cbarnes9](../../../profile/Cbarnes9) | November 09, 2018 00:33
+by [Cbarnes9](/profile/Cbarnes9) | November 09, 2018 00:33
 
-November 09, 2018 00:33 | Tags: [spectroscopy](../tag/spectroscopy), [air-quality](../tag/air-quality), [question:air-sensors](../tag/question:air-sensors), [purpleair](../tag/purpleair), [question:purpleair](../tag/question:purpleair), [lasers](../tag/lasers), [partical-composition](../tag/partical-composition)
+November 09, 2018 00:33 | Tags: [spectroscopy](/tag/spectroscopy), [air-quality](/tag/air-quality), [question:air-sensors](/tag/question:air-sensors), [purpleair](/tag/purpleair), [question:purpleair](/tag/question:purpleair), [lasers](/tag/lasers), [partical-composition](/tag/partical-composition)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/02-10-2016/announcing-spectral-workbench-2.md
 nid: 12677
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/220/original/Screenshot_2016-02-10_at_9.27.16_AM.png)
 
 # Announcing Spectral Workbench 2
 
-by [warren](../../../profile/warren) | February 10, 2016 14:34
+by [warren](/profile/warren) | February 10, 2016 14:34
 
-February 10, 2016 14:34 | Tags: [spectrometer](../tag/spectrometer), [software](../tag/software), [spectral-workbench](../tag/spectral-workbench), [developers](../tag/developers), [code](../tag/code), [oil-testing-kit](../tag/oil-testing-kit)
+February 10, 2016 14:34 | Tags: [spectrometer](/tag/spectrometer), [software](/tag/software), [spectral-workbench](/tag/spectral-workbench), [developers](/tag/developers), [code](/tag/code), [oil-testing-kit](/tag/oil-testing-kit)
 
 ----
 

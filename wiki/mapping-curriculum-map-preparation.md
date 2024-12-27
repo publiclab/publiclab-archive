@@ -6,12 +6,12 @@ author: warren
 path: /wiki/mapping-curriculum-map-preparation.md
 nid: 420
 uid: 1
-
+cids: 
 ---
 
 # Mapping Curriculum: Map Production with PLOTS Map Toolkit 
 
-by [gonzoearth](../profile/gonzoearth), [warren](../profile/warren)
+by [gonzoearth](/profile/gonzoearth), [warren](/profile/warren)
 
 July 29, 2011 19:41 | Tags: 
 

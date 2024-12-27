@@ -6,16 +6,16 @@ author: warren
 path: /wiki/formaldehyde-exposure.md
 nid: 11829
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/356/original/H2CO_.gif)
 
 # Formaldehyde Exposure
 
-by [nshapiro](../profile/nshapiro), [liz](../profile/liz), [mathew](../profile/mathew), [novakn](../profile/novakn), [warren](../profile/warren)
+by [nshapiro](/profile/nshapiro), [liz](/profile/liz), [mathew](/profile/mathew), [novakn](/profile/novakn), [warren](/profile/warren)
 
-May 22, 2015 19:33 | Tags: [formaldehyde](../tag/formaldehyde), [wherewebreathe](../tag/wherewebreathe), [literature-review](../tag/literature-review), [wwb](../tag/wwb), [indoor-air-quality](../tag/indoor-air-quality), [parent:indoor-air-quality-monitoring](../tag/parent:indoor-air-quality-monitoring)
+May 22, 2015 19:33 | Tags: [formaldehyde](/tag/formaldehyde), [wherewebreathe](/tag/wherewebreathe), [literature-review](/tag/literature-review), [wwb](/tag/wwb), [indoor-air-quality](/tag/indoor-air-quality), [parent:indoor-air-quality-monitoring](/tag/parent:indoor-air-quality-monitoring)
 
 ----
 

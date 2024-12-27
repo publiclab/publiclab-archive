@@ -6,14 +6,14 @@ author: warren
 path: /wiki/occupy-maps.md
 nid: 577
 uid: 1
-
+cids: 
 ---
 
 # Occupy Maps
 
-by [warren](../profile/warren), [gonzoearth](../profile/gonzoearth)
+by [warren](/profile/warren), [gonzoearth](/profile/gonzoearth)
 
-November 22, 2011 20:46 | Tags: [protest-mapping](../tag/protest-mapping), [occupy](../tag/occupy)
+November 22, 2011 20:46 | Tags: [protest-mapping](/tag/protest-mapping), [occupy](/tag/occupy)
 
 ----
 

@@ -6,18 +6,16 @@ author: nedhorning
 path: /notes/nedhorning/11-3-2012/white-balance-and-nir-photography.md
 nid: 4759
 uid: 133
-
 cids: 2587,2589,2590,2591,2592,2593,2594,2595,2598,2599,2600,2601,2602,2604,2772
-
 ---
 
 ![](https://publiclab.org/sites/default/files/MixedNIR.jpg.png)
 
 # White balance and NIR photography
 
-by [nedhorning](../../../profile/nedhorning) | November 03, 2012 12:00
+by [nedhorning](/profile/nedhorning) | November 03, 2012 12:00
 
-November 03, 2012 12:00 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nir](../tag/nir), [infrared](../tag/infrared), [white-balance](../tag/white-balance)
+November 03, 2012 12:00 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [nir](/tag/nir), [infrared](/tag/infrared), [white-balance](/tag/white-balance)
 
 ----
 

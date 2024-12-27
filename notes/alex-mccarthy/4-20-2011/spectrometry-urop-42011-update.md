@@ -6,16 +6,14 @@ author: Alex-McCarthy
 path: /notes/alex-mccarthy/4-20-2011/spectrometry-urop-42011-update.md
 nid: 183
 uid: 125
-
 cids: 
-
 ---
 
 # Spectrometry UROP 4/20/11 update
 
-by [Alex-McCarthy](../../../profile/Alex-McCarthy) | April 20, 2011 15:26
+by [Alex-McCarthy](/profile/Alex-McCarthy) | April 20, 2011 15:26
 
-April 20, 2011 15:26 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [fluorescence](../tag/fluorescence), [flame](../tag/flame), [pah](../tag/pah), [detergent](../tag/detergent), [salt](../tag/salt)
+April 20, 2011 15:26 | Tags: [spectrometer](/tag/spectrometer), [uv](/tag/uv), [fluorescence](/tag/fluorescence), [flame](/tag/flame), [pah](/tag/pah), [detergent](/tag/detergent), [salt](/tag/salt)
 
 ----
 

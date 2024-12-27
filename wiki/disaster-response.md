@@ -6,16 +6,16 @@ author: stevie
 path: /wiki/disaster-response.md
 nid: 21599
 uid: 422561
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/470/original/Screen_Shot_2020-05-20_at_9.54.44_AM.png)
 
 # Disaster-response
 
-by [bhamster](../profile/bhamster), [joyofsoy](../profile/joyofsoy), [stevie](../profile/stevie)
+by [bhamster](/profile/bhamster), [joyofsoy](/profile/joyofsoy), [stevie](/profile/stevie)
 
-November 26, 2019 18:44 | Tags: [disaster-preparedness](../tag/disaster-preparedness), [disaster-response](../tag/disaster-response)
+November 26, 2019 18:44 | Tags: [disaster-preparedness](/tag/disaster-preparedness), [disaster-response](/tag/disaster-response)
 
 ----
 
@@ -37,10 +37,10 @@ Read more about the events in our community science publication here: [![27572.j
 
 
 ###Questions
-[Disaster-response](../../tag/question:Disaster-response)
+[Disaster-response](/tag/question:Disaster-response)
 
 ###Activities
-[Disaster-response](../../tag/activity:Disaster-response)
+[Disaster-response](/tag/activity:Disaster-response)
 
 ###Research notes
-[Disaster-response](../../tag/Disaster-response)
+[Disaster-response](/tag/Disaster-response)

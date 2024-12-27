@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/04-02-2019/what-are-some-activities-for-using-the-simple-air-sensor-as-part-of-a-broader-air-quality-project.md
 nid: 18937
 uid: 1
-
 cids: 23625,23626,23627,23628,23629,23630,23632,23637,23638,23642,23643,23666,23667,23694,23703
-
 ---
 
 # What are some activities for using the Simple Air Sensor as part of a broader air quality project?
 
-by [warren](../../../profile/warren) | April 02, 2019 18:40
+by [warren](/profile/warren) | April 02, 2019 18:40
 
-April 02, 2019 18:40 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [pm](../tag/pm), [plantower](../tag/plantower), [purple-air](../tag/purple-air), [question:simple-air-sensor](../tag/question:simple-air-sensor), [simple-air-sensor](../tag/simple-air-sensor)
+April 02, 2019 18:40 | Tags: [air-quality](/tag/air-quality), [dust](/tag/dust), [pm](/tag/pm), [plantower](/tag/plantower), [purple-air](/tag/purple-air), [question:simple-air-sensor](/tag/question:simple-air-sensor), [simple-air-sensor](/tag/simple-air-sensor)
 
 ----
 

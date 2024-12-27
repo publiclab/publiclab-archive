@@ -6,16 +6,14 @@ author: Ag8n
 path: /notes/Ag8n/02-19-2018/kite-altitude-question.md
 nid: 15762
 uid: 520994
-
 cids: 18515,22933,22935,22954
-
 ---
 
 # Kite altitude question
 
-by [Ag8n](../../../profile/Ag8n) | February 19, 2018 00:59
+by [Ag8n](/profile/Ag8n) | February 19, 2018 00:59
 
-February 19, 2018 00:59 | Tags: [question:balloon-mapping](../tag/question:balloon-mapping), [answered](../tag/answered), [question:kite-mapping](../tag/question:kite-mapping)
+February 19, 2018 00:59 | Tags: [question:balloon-mapping](/tag/question:balloon-mapping), [answered](/tag/answered), [question:kite-mapping](/tag/question:kite-mapping)
 
 ----
 

@@ -6,16 +6,16 @@ author: warren
 path: /wiki/posters.md
 nid: 161
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/787/original/WhiteHouse_NDVI_Final.pdf)
 
 # Posters
 
-by [sara](../profile/sara), [warren](../profile/warren)
+by [sara](/profile/sara), [warren](/profile/warren)
 
-April 07, 2011 16:34 | Tags: [spectrometer](../tag/spectrometer), [thermal-photography](../tag/thermal-photography), [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [grassrootsmapping](../tag/grassrootsmapping), [ndvi](../tag/ndvi), [makerfaire](../tag/makerfaire), [white-house](../tag/white-house)
+April 07, 2011 16:34 | Tags: [spectrometer](/tag/spectrometer), [thermal-photography](/tag/thermal-photography), [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [grassrootsmapping](/tag/grassrootsmapping), [ndvi](/tag/ndvi), [makerfaire](/tag/makerfaire), [white-house](/tag/white-house)
 
 ----
 

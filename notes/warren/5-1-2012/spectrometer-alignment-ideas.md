@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/5-1-2012/spectrometer-alignment-ideas.md
 nid: 1871
 uid: 1
-
 cids: 661
-
 ---
 
 ![](https://publiclab.org/sites/default/files/ColorTouch_0.jpeg)
 
 # Spectrometer alignment ideas
 
-by [warren](../../../profile/warren) | May 01, 2012 14:50
+by [warren](/profile/warren) | May 01, 2012 14:50
 
-May 01, 2012 14:50 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration)
+May 01, 2012 14:50 | Tags: [spectrometer](/tag/spectrometer), [calibration](/tag/calibration)
 
 ----
 

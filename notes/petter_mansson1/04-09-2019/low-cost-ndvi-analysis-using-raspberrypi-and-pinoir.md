@@ -6,18 +6,16 @@ author: petter_mansson1
 path: /notes/petter_mansson1/04-09-2019/low-cost-ndvi-analysis-using-raspberrypi-and-pinoir.md
 nid: 19007
 uid: 573015
-
 cids: 23821,23831,23833,23834,23869,23876,23877,23878,23901,23902,23903,23912,23913,23914,24357,25200,25201,25212,27335,28558,29250,31357,31538
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/764/original/ndvi_2019-4-20-16-0-5.png)
 
 # Low cost NDVI analysis using RaspberryPi and PiNoIR
 
-by [petter_mansson1](../../../profile/petter_mansson1) | April 09, 2019 11:34
+by [petter_mansson1](/profile/petter_mansson1) | April 09, 2019 11:34
 
-April 09, 2019 11:34 | Tags: [ndvi](../tag/ndvi), [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [colormap](../tag/colormap), [ndvi-calibrate](../tag/ndvi-calibrate), [pi-camera](../tag/pi-camera), [pinoir](../tag/pinoir), [activity:infragram](../tag/activity:infragram), [activity:ndvi](../tag/activity:ndvi), [replication:15075](../tag/replication:15075), [first-time-poster](../tag/first-time-poster), [infragram-pi](../tag/infragram-pi), [lat:55.604981](../tag/lat:55.604981), [lon:13.003822](../tag/lon:13.003822), [activity:infragram-pi](../tag/activity:infragram-pi), [pin:activity:ndvi](../tag/pin:activity:ndvi), [pin:activity:infragram](../tag/pin:activity:infragram), [pin:activity:infragram-pi](../tag/pin:activity:infragram-pi)
+April 09, 2019 11:34 | Tags: [ndvi](/tag/ndvi), [raspberry-pi](/tag/raspberry-pi), [infragram](/tag/infragram), [colormap](/tag/colormap), [ndvi-calibrate](/tag/ndvi-calibrate), [pi-camera](/tag/pi-camera), [pinoir](/tag/pinoir), [activity:infragram](/tag/activity:infragram), [activity:ndvi](/tag/activity:ndvi), [replication:15075](/tag/replication:15075), [first-time-poster](/tag/first-time-poster), [infragram-pi](/tag/infragram-pi), [lat:55.604981](/tag/lat:55.604981), [lon:13.003822](/tag/lon:13.003822), [activity:infragram-pi](/tag/activity:infragram-pi), [pin:activity:ndvi](/tag/pin:activity:ndvi), [pin:activity:infragram](/tag/pin:activity:infragram), [pin:activity:infragram-pi](/tag/pin:activity:infragram-pi)
 
 ----
 

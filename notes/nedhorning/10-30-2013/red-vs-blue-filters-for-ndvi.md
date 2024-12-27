@@ -6,18 +6,16 @@ author: nedhorning
 path: /notes/nedhorning/10-30-2013/red-vs-blue-filters-for-ndvi.md
 nid: 9691
 uid: 133
-
 cids: 7397,7398,7399,7427,7429,7431,7432,7439,7441,7661,7662,11175,11178,11179,11231,11615,12044,12045,12046,12048,12050,12051,12052,12737,16454,16456,16460,16464,16466,16473,16981,16983
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/077/original/Calibrate-264.jpg)
 
 # Red vs. blue filters for NDVI
 
-by [nedhorning](../../../profile/nedhorning) | October 30, 2013 19:07
+by [nedhorning](/profile/nedhorning) | October 30, 2013 19:07
 
-October 30, 2013 19:07 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [calibration](../tag/calibration), [infrared](../tag/infrared), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [wratten25a](../tag/wratten25a), [super-red](../tag/super-red), [red-vs-blue](../tag/red-vs-blue)
+October 30, 2013 19:07 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [calibration](/tag/calibration), [infrared](/tag/infrared), [infragram](/tag/infragram), [infrablue](/tag/infrablue), [wratten25a](/tag/wratten25a), [super-red](/tag/super-red), [red-vs-blue](/tag/red-vs-blue)
 
 ----
 

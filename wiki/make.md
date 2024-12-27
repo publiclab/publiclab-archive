@@ -6,16 +6,16 @@ author: Bronwen
 path: /wiki/make.md
 nid: 19514
 uid: 237313
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/293/original/1_Sadie_Prego_IMG_3834.jpg)
 
 # Make: Magazine
 
-by [joyofsoy](../profile/joyofsoy), [liz](../profile/liz), [Bronwen](../profile/Bronwen), [warren](../profile/warren)
+by [joyofsoy](/profile/joyofsoy), [liz](/profile/liz), [Bronwen](/profile/Bronwen), [warren](/profile/warren)
 
-May 24, 2019 15:28 | Tags: [media](../tag/media), [event](../tag/event), [style:fancy](../tag/style:fancy), [make-magazine](../tag/make-magazine)
+May 24, 2019 15:28 | Tags: [media](/tag/media), [event](/tag/event), [style:fancy](/tag/style:fancy), [make-magazine](/tag/make-magazine)
 
 ----
 

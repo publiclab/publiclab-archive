@@ -6,16 +6,14 @@ author: John_Wells
 path: /notes/johnwells/2-26-2013/clockwork-picavet.md
 nid: 6132
 uid: 372
-
 cids: 3577,3581,3584,3600
-
 ---
 
 # Clockwork Picavet
 
-by [John_Wells](../../../profile/John_Wells) | February 27, 2013 00:23
+by [John_Wells](/profile/John_Wells) | February 27, 2013 00:23
 
-February 27, 2013 00:23 | Tags: [picavet](../tag/picavet), [autokap](../tag/autokap), [clockwork](../tag/clockwork), [cheap](../tag/cheap), [first-time-poster](../tag/first-time-poster)
+February 27, 2013 00:23 | Tags: [picavet](/tag/picavet), [autokap](/tag/autokap), [clockwork](/tag/clockwork), [cheap](/tag/cheap), [first-time-poster](/tag/first-time-poster)
 
 ----
 

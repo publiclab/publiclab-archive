@@ -6,16 +6,16 @@ author: bhamster
 path: /wiki/interpret-soil-tests.md
 nid: 25865
 uid: 664477
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/902/original/soil_test_results.jpg)
 
 # Making meaning of soil test results and reports
 
-by [laurel_mire](../profile/laurel_mire), [bhamster](../profile/bhamster)
+by [laurel_mire](/profile/laurel_mire), [bhamster](/profile/bhamster)
 
-March 08, 2021 23:11 | Tags: [soil](../tag/soil), [soil-testing](../tag/soil-testing), [method](../tag/method), [lab-testing](../tag/lab-testing), [soil-contamination](../tag/soil-contamination), [parent:soil](../tag/parent:soil), [interpret-soil-tests](../tag/interpret-soil-tests)
+March 08, 2021 23:11 | Tags: [soil](/tag/soil), [soil-testing](/tag/soil-testing), [method](/tag/method), [lab-testing](/tag/lab-testing), [soil-contamination](/tag/soil-contamination), [parent:soil](/tag/parent:soil), [interpret-soil-tests](/tag/interpret-soil-tests)
 
 ----
 
@@ -53,7 +53,7 @@ Here are some resources and activities that can help you understand the kinds of
 
 ### Activities
 
-[grid:activity:interpret-soil-tests](../../tag/grid:activity:interpret-soil-tests)
+[grid:activity:interpret-soil-tests](/tag/grid:activity:interpret-soil-tests)
 
 <br>
 
@@ -97,7 +97,7 @@ Your soil test results or report might already list local standard or screening 
 
 #### More background on technical documents and standard levels
 
-[grid:interpret-results-intro](../../tag/grid:interpret-results-intro)
+[grid:interpret-results-intro](/tag/grid:interpret-results-intro)
 
 <br>
 
@@ -105,7 +105,7 @@ Your soil test results or report might already list local standard or screening 
 
 Questions from the Public Lab community tagged with `interpret-soil-tests` will appear here
 
-[interpret-soil-tests](../../tag/question:interpret-soil-tests)
+[interpret-soil-tests](/tag/question:interpret-soil-tests)
 
 <br>
 

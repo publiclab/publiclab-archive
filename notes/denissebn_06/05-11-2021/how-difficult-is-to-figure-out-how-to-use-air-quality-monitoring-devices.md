@@ -6,16 +6,14 @@ author: denissebn_06
 path: /notes/denissebn_06/05-11-2021/how-difficult-is-to-figure-out-how-to-use-air-quality-monitoring-devices.md
 nid: 26557
 uid: 749988
-
 cids: 28757,28767
-
 ---
 
 # How difficult is to figure out how to use Air Quality monitoring devices?
 
-by [denissebn_06](../../../profile/denissebn_06) | May 11, 2021 20:17
+by [denissebn_06](/profile/denissebn_06) | May 11, 2021 20:17
 
-May 11, 2021 20:17 | Tags: [california](../tag/california), [air-quality](../tag/air-quality), [pm](../tag/pm), [air-monitoring](../tag/air-monitoring), [question:general](../tag/question:general), [general](../tag/general), [particulate-matter](../tag/particulate-matter), [air-sampling](../tag/air-sampling), [technology-costs](../tag/technology-costs), [question:vvamp](../tag/question:vvamp)
+May 11, 2021 20:17 | Tags: [california](/tag/california), [air-quality](/tag/air-quality), [pm](/tag/pm), [air-monitoring](/tag/air-monitoring), [question:general](/tag/question:general), [general](/tag/general), [particulate-matter](/tag/particulate-matter), [air-sampling](/tag/air-sampling), [technology-costs](/tag/technology-costs), [question:vvamp](/tag/question:vvamp)
 
 ----
 

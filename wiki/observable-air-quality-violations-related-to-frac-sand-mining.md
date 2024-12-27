@@ -6,14 +6,14 @@ author: stevie
 path: /wiki/observable-air-quality-violations-related-to-frac-sand-mining.md
 nid: 19660
 uid: 422561
-
+cids: 
 ---
 
 # Observable air quality violations related to frac sand mining
 
-by [stevie](../profile/stevie)
+by [stevie](/profile/stevie)
 
-June 11, 2019 17:04 | Tags: [reporting](../tag/reporting), [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [frac-sand](../tag/frac-sand), [midwest](../tag/midwest), [sentinel](../tag/sentinel), [local-reporting](../tag/local-reporting), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program)
+June 11, 2019 17:04 | Tags: [reporting](/tag/reporting), [wisconsin](/tag/wisconsin), [air-quality](/tag/air-quality), [frac-sand](/tag/frac-sand), [midwest](/tag/midwest), [sentinel](/tag/sentinel), [local-reporting](/tag/local-reporting), [parent:the-sand-sentinel-program](/tag/parent:the-sand-sentinel-program)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/5-31-2012/field-spec-3-demonstration-video.md
 nid: 2280
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Picture 6_1.png)
 
 # Field Spec 3 demonstration video
 
-by [warren](../../../profile/warren) | May 31, 2012 19:35
+by [warren](/profile/warren) | May 31, 2012 19:35
 
-May 31, 2012 19:35 | Tags: [spectrometer](../tag/spectrometer)
+May 31, 2012 19:35 | Tags: [spectrometer](/tag/spectrometer)
 
 ----
 

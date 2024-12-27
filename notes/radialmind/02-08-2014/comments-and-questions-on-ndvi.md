@@ -6,18 +6,16 @@ author: radialmind
 path: /notes/radialmind/02-08-2014/comments-and-questions-on-ndvi.md
 nid: 10021
 uid: 170347
-
 cids: 8193,8196,8197,8198,8199
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/834/original/IMG_0117.JPG)
 
 # Comments and questions on NDVI
 
-by [radialmind](../../../profile/radialmind) | February 08, 2014 12:54
+by [radialmind](/profile/radialmind) | February 08, 2014 12:54
 
-February 08, 2014 12:54 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [wratten25a](../tag/wratten25a), [first-time-poster](../tag/first-time-poster)
+February 08, 2014 12:54 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [infragram](/tag/infragram), [wratten25a](/tag/wratten25a), [first-time-poster](/tag/first-time-poster)
 
 ----
 

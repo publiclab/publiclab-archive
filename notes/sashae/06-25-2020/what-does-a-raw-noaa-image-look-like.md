@@ -6,18 +6,16 @@ author: sashae
 path: /notes/sashae/06-25-2020/what-does-a-raw-noaa-image-look-like.md
 nid: 24040
 uid: 693684
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/929/original/NOAA_18_S_72_W_2020-06-05_11-10_BST_contrast.png)
 
 # What does a raw NOAA image look like?
 
-by [sashae](../../../profile/sashae) | June 25, 2020 13:32
+by [sashae](/profile/sashae) | June 25, 2020 13:32
 
-June 25, 2020 13:32 | Tags: [satellite-imagery](../tag/satellite-imagery), [noaa](../tag/noaa), [lat:51.50735](../tag/lat:51.50735), [lon:-0.127758](../tag/lon:-0.127758), [zoom:6](../tag/zoom:6), [open-weather](../tag/open-weather)
+June 25, 2020 13:32 | Tags: [satellite-imagery](/tag/satellite-imagery), [noaa](/tag/noaa), [lat:51.50735](/tag/lat:51.50735), [lon:-0.127758](/tag/lon:-0.127758), [zoom:6](/tag/zoom:6), [open-weather](/tag/open-weather)
 
 ----
 

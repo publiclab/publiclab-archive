@@ -6,16 +6,14 @@ author: eustatic
 path: /06-30-2020/how-do-i-follow-airplanes-dispersing-corexit-9500-w932h-n38wa-n64766-n64767.md
 nid: 24073
 uid: 379
-
 cids: 27077,27079,27080,27091,27092,27099,27119,27124
-
 ---
 
 # How do I follow airplanes dispersing Corexit 9500? N932H N38WA N64766 N64767
 
-by [eustatic](../../../profile/eustatic) | June 30, 2020 22:15
+by [eustatic](/profile/eustatic) | June 30, 2020 22:15
 
-June 30, 2020 22:15 | Tags: [health](../tag/health), [water-quality](../tag/water-quality), [airplane](../tag/airplane), [dispersant](../tag/dispersant), [question:general](../tag/question:general), [general](../tag/general), [gulf-of-mexico](../tag/gulf-of-mexico), [zoom:16](../tag/zoom:16), [zoom:15](../tag/zoom:15), [prince-william-sound](../tag/prince-william-sound), [lat:29.568306](../tag/lat:29.568306), [lon:-90.657505](../tag/lon:-90.657505)
+June 30, 2020 22:15 | Tags: [health](/tag/health), [water-quality](/tag/water-quality), [airplane](/tag/airplane), [dispersant](/tag/dispersant), [question:general](/tag/question:general), [general](/tag/general), [gulf-of-mexico](/tag/gulf-of-mexico), [zoom:16](/tag/zoom:16), [zoom:15](/tag/zoom:15), [prince-william-sound](/tag/prince-william-sound), [lat:29.568306](/tag/lat:29.568306), [lon:-90.657505](/tag/lon:-90.657505)
 
 ----
 

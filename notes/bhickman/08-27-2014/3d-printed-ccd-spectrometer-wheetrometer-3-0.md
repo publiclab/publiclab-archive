@@ -6,18 +6,16 @@ author: bhickman
 path: /notes/bhickman/08-27-2014/3d-printed-ccd-spectrometer-wheetrometer-3-0.md
 nid: 11079
 uid: 201929
-
 cids: 10142,10144,10145,11281,11293,11311,11316,11324,11325,11333,11344,11347,11519,11520,11523,11534,11540,11543,11546,11550,11551,11552,11553,11554,11555,11556,11559,11560,11564,11570,11574,13970,14813,14831,14885,14886,14905,16014,18108,18109,19661,19700,19716,19746
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/445/original/WP_20140825_001.jpg)
 
 # 3D Printed CCD Spectrometer (WheeTrometer 3.0)
 
-by [bhickman](../../../profile/bhickman) | August 27, 2014 08:49
+by [bhickman](/profile/bhickman) | August 27, 2014 08:49
 
-August 27, 2014 08:49 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [cuvette](../tag/cuvette), [3d-printing](../tag/3d-printing), [barnstar:basic](../tag/barnstar:basic)
+August 27, 2014 08:49 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [cuvette](/tag/cuvette), [3d-printing](/tag/3d-printing), [barnstar:basic](/tag/barnstar:basic)
 
 ----
 

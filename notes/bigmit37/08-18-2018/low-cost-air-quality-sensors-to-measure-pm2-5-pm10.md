@@ -6,16 +6,14 @@ author: bigmit37
 path: /notes/bigmit37/08-18-2018/low-cost-air-quality-sensors-to-measure-pm2-5-pm10.md
 nid: 16958
 uid: 547166
-
 cids: 20440,20515,20523,20535,20547,21007,21396
-
 ---
 
 # Low-cost air quality sensors to measure PM2.5, PM10?
 
-by [bigmit37](../../../profile/bigmit37) | August 18, 2018 18:48
+by [bigmit37](/profile/bigmit37) | August 18, 2018 18:48
 
-August 18, 2018 18:48 | Tags: [transportation](../tag/transportation), [question:air-quality](../tag/question:air-quality), [question:pm](../tag/question:pm), [question:general](../tag/question:general), [purpleair](../tag/purpleair), [question:purpleair](../tag/question:purpleair), [question:traffic](../tag/question:traffic), [question:transportation](../tag/question:transportation)
+August 18, 2018 18:48 | Tags: [transportation](/tag/transportation), [question:air-quality](/tag/question:air-quality), [question:pm](/tag/question:pm), [question:general](/tag/question:general), [purpleair](/tag/purpleair), [question:purpleair](/tag/question:purpleair), [question:traffic](/tag/question:traffic), [question:transportation](/tag/question:transportation)
 
 ----
 

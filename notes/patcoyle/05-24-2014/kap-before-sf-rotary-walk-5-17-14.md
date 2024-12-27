@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/05-24-2014/kap-before-sf-rotary-walk-5-17-14.md
 nid: 10509
 uid: 77
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/447/original/rotary-fundraising-walk-san-francisco-.jpg)
 
 #  Suggests fundraising opportunities: KAP before SF Rotary walk 5-17-14
 
-by [patcoyle](../../../profile/patcoyle) | May 24, 2014 04:41
+by [patcoyle](/profile/patcoyle) | May 24, 2014 04:41
 
-May 24, 2014 04:41 | Tags: [kap](../tag/kap), [sfm](../tag/sfm), [fundraising](../tag/fundraising), [local-projects](../tag/local-projects), [ewb](../tag/ewb)
+May 24, 2014 04:41 | Tags: [kap](/tag/kap), [sfm](/tag/sfm), [fundraising](/tag/fundraising), [local-projects](/tag/local-projects), [ewb](/tag/ewb)
 
 ----
 

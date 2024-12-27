@@ -6,18 +6,16 @@ author: tonyc
 path: /notes/tonyc/03-17-2016/mobius-microcam.md
 nid: 12856
 uid: 447491
-
 cids: 13982,13983,13984,13989
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/129/original/IMG_0008.JPG)
 
 # Mobius MicroCam
 
-by [tonyc](../../../profile/tonyc) | March 17, 2016 19:55
+by [tonyc](/profile/tonyc) | March 17, 2016 19:55
 
-March 17, 2016 19:55 | Tags: [mobius](../tag/mobius), [microscope](../tag/microscope), [microscopes](../tag/microscopes)
+March 17, 2016 19:55 | Tags: [mobius](/tag/mobius), [microscope](/tag/microscope), [microscopes](/tag/microscopes)
 
 ----
 

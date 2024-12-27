@@ -6,18 +6,16 @@ author: RosaL
 path: /notes/RosaL/06-10-2021/tribal-intertidal-digital-ecological-surveys-tides.md
 nid: 26805
 uid: 751774
-
 cids: 28915,28916,28921,28925,29017,29306,31533
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/117/original/IMG_E7816.JPG)
 
 # Tribal Intertidal Digital Ecological Surveys (TIDES)
 
-by [RosaL](../../../profile/RosaL) | June 10, 2021 00:25
+by [RosaL](/profile/RosaL) | June 10, 2021 00:25
 
-June 10, 2021 00:25 | Tags: [image-stitching](../tag/image-stitching), [pvc](../tag/pvc), [california](../tag/california), [mapping](../tag/mapping), [intertidal](../tag/intertidal), [coastalmonitoring](../tag/coastalmonitoring), [3d-models](../tag/3d-models), [slr](../tag/slr), [pole-mapping](../tag/pole-mapping), [climate-change](../tag/climate-change), [climate](../tag/climate), [low-cost](../tag/low-cost), [oceanography](../tag/oceanography), [activity:camera-rigs](../tag/activity:camera-rigs), [camera-rigs](../tag/camera-rigs), [site-survey](../tag/site-survey), [activity:site-survey](../tag/activity:site-survey), [change](../tag/change), [first-time-poster](../tag/first-time-poster), [pole-kit](../tag/pole-kit), [zoom:8](../tag/zoom:8), [3d-mapping](../tag/3d-mapping), [carpgangster](../tag/carpgangster), [lat:41.853196](../tag/lat:41.853196), [lon:-124.189571](../tag/lon:-124.189571), [tides-project](../tag/tides-project), [tolowa-deeni-nation](../tag/tolowa-deeni-nation), [uc-san-diego](../tag/uc-san-diego), [scripps](../tag/scripps), [rocky-intertidal](../tag/rocky-intertidal), [indigenous-mapping](../tag/indigenous-mapping), [pulley](../tag/pulley), [indigenous-language](../tag/indigenous-language), [coastal-monitoring](../tag/coastal-monitoring), [fishing-reels](../tag/fishing-reels), [mounted-camera](../tag/mounted-camera)
+June 10, 2021 00:25 | Tags: [image-stitching](/tag/image-stitching), [pvc](/tag/pvc), [california](/tag/california), [mapping](/tag/mapping), [intertidal](/tag/intertidal), [coastalmonitoring](/tag/coastalmonitoring), [3d-models](/tag/3d-models), [slr](/tag/slr), [pole-mapping](/tag/pole-mapping), [climate-change](/tag/climate-change), [climate](/tag/climate), [low-cost](/tag/low-cost), [oceanography](/tag/oceanography), [activity:camera-rigs](/tag/activity:camera-rigs), [camera-rigs](/tag/camera-rigs), [site-survey](/tag/site-survey), [activity:site-survey](/tag/activity:site-survey), [change](/tag/change), [first-time-poster](/tag/first-time-poster), [pole-kit](/tag/pole-kit), [zoom:8](/tag/zoom:8), [3d-mapping](/tag/3d-mapping), [carpgangster](/tag/carpgangster), [lat:41.853196](/tag/lat:41.853196), [lon:-124.189571](/tag/lon:-124.189571), [tides-project](/tag/tides-project), [tolowa-deeni-nation](/tag/tolowa-deeni-nation), [uc-san-diego](/tag/uc-san-diego), [scripps](/tag/scripps), [rocky-intertidal](/tag/rocky-intertidal), [indigenous-mapping](/tag/indigenous-mapping), [pulley](/tag/pulley), [indigenous-language](/tag/indigenous-language), [coastal-monitoring](/tag/coastal-monitoring), [fishing-reels](/tag/fishing-reels), [mounted-camera](/tag/mounted-camera)
 
 ----
 

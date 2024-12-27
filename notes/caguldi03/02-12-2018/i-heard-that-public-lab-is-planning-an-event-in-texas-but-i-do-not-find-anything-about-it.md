@@ -6,16 +6,14 @@ author: caguldi03
 path: /notes/caguldi03/02-12-2018/i-heard-that-public-lab-is-planning-an-event-in-texas-but-i-do-not-find-anything-about-it.md
 nid: 15721
 uid: 524947
-
 cids: 18421,18422
-
 ---
 
 # I heard that Public Lab is planning an event in Texas, but I do not find anything about it.
 
-by [caguldi03](../../../profile/caguldi03) | February 12, 2018 16:34
+by [caguldi03](/profile/caguldi03) | February 12, 2018 16:34
 
-February 12, 2018 16:34 | Tags: [barnraising](../tag/barnraising), [texas](../tag/texas), [question:general](../tag/question:general), [question:barnraising](../tag/question:barnraising)
+February 12, 2018 16:34 | Tags: [barnraising](/tag/barnraising), [texas](/tag/texas), [question:general](/tag/question:general), [question:barnraising](/tag/question:barnraising)
 
 ----
 

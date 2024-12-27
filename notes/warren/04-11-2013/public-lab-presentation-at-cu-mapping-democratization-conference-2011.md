@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/04-11-2013/public-lab-presentation-at-cu-mapping-democratization-conference-2011.md
 nid: 6786
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/040/original/presentation-wilkinson.png)
 
 # Public Lab presentation at CU Mapping Democratization Conference, 2011
 
-by [warren](../../../profile/warren) | April 11, 2013 18:46
+by [warren](/profile/warren) | April 11, 2013 18:46
 
-April 11, 2013 18:46 | Tags: [presentation](../tag/presentation)
+April 11, 2013 18:46 | Tags: [presentation](/tag/presentation)
 
 ----
 

@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/11-24-2012/video-november-2-4-2012-plots-barnraising-cocodrie-la-lumcon.md
 nid: 5013
 uid: 77
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/8167049049_0bfce6b7da_z.jpg)
 
 # video - November 2-4, 2012, PLOTS Barnraising, Cocodrie, LA at LUMCON
 
-by [patcoyle](../../../profile/patcoyle) | November 24, 2012 07:24
+by [patcoyle](/profile/patcoyle) | November 24, 2012 07:24
 
-November 24, 2012 07:24 | Tags: [gulf-coast](../tag/gulf-coast), [plots](../tag/plots), [barnraising2012](../tag/barnraising2012), [lumcon](../tag/lumcon), [publiclaboratory](../tag/publiclaboratory), [cocodrie-la](../tag/cocodrie-la)
+November 24, 2012 07:24 | Tags: [gulf-coast](/tag/gulf-coast), [plots](/tag/plots), [barnraising2012](/tag/barnraising2012), [lumcon](/tag/lumcon), [publiclaboratory](/tag/publiclaboratory), [cocodrie-la](/tag/cocodrie-la)
 
 ----
 

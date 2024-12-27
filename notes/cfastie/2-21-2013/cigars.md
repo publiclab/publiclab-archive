@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/2-21-2013/cigars.md
 nid: 6087
 uid: 554
-
 cids: 3524,3525
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Cigars-20130221-4953.jpg)
 
 # Cigars
 
-by [cfastie](../../../profile/cfastie) | February 22, 2013 00:10
+by [cfastie](/profile/cfastie) | February 22, 2013 00:10
 
-February 22, 2013 00:10 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [emission-spectroscopy](../tag/emission-spectroscopy), [ebert](../tag/ebert), [neon-sign](../tag/neon-sign)
+February 22, 2013 00:10 | Tags: [spectrometer](/tag/spectrometer), [vermont](/tag/vermont), [emission-spectroscopy](/tag/emission-spectroscopy), [ebert](/tag/ebert), [neon-sign](/tag/neon-sign)
 
 ----
 

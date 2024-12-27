@@ -6,16 +6,16 @@ author: pablo
 path: /wiki/spain.md
 nid: 10194
 uid: 160
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/413/original/PublicLabFlyer_Spanish.jpg)
 
 # Spain
 
-by [xose](../profile/xose), [warren](../profile/warren), [pablo](../profile/pablo), [lot](../profile/lot), [liz](../profile/liz)
+by [xose](/profile/xose), [warren](/profile/warren), [pablo](/profile/pablo), [lot](/profile/lot), [liz](/profile/liz)
 
-March 17, 2014 09:16 | Tags: [spain](../tag/spain), [chapter](../tag/chapter), [list:laboratoriopublico](../tag/list:laboratoriopublico), [events:spain](../tag/events:spain), [lat:39.895](../tag/lat:39.895), [lon:-4.024](../tag/lon:-4.024), [lang:es](../tag/lang:es), [eu](../tag/eu), [europe](../tag/europe)
+March 17, 2014 09:16 | Tags: [spain](/tag/spain), [chapter](/tag/chapter), [list:laboratoriopublico](/tag/list:laboratoriopublico), [events:spain](/tag/events:spain), [lat:39.895](/tag/lat:39.895), [lon:-4.024](/tag/lon:-4.024), [lang:es](/tag/lang:es), [eu](/tag/eu), [europe](/tag/europe)
 
 ----
 
@@ -73,4 +73,4 @@ Entrevista con Jeff Warren en Español: http://www.euskadinnova.net/es/innovacio
 
 <a class="btn btn-primary" href="/post?tags=spain,espana&template=question">Comparte algo</a>
 
-[spain](../../tag/spain)
+[spain](/tag/spain)

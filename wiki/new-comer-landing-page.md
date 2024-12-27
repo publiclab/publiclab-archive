@@ -6,14 +6,14 @@ author: mollydanielsson
 path: /wiki/new-comer-landing-page.md
 nid: 5608
 uid: 1259
-
+cids: 
 ---
 
 # New Comer Landing Page
 
-by [liz](../profile/liz), [mollydanielsson](../profile/mollydanielsson), [warren](../profile/warren)
+by [liz](/profile/liz), [mollydanielsson](/profile/mollydanielsson), [warren](/profile/warren)
 
-January 16, 2013 17:51 | Tags: [website](../tag/website), [plots2](../tag/plots2), [introduction](../tag/introduction), [wintercamp](../tag/wintercamp), [newcomers](../tag/newcomers), [onboarding](../tag/onboarding), [out-of-date](../tag/out-of-date)
+January 16, 2013 17:51 | Tags: [website](/tag/website), [plots2](/tag/plots2), [introduction](/tag/introduction), [wintercamp](/tag/wintercamp), [newcomers](/tag/newcomers), [onboarding](/tag/onboarding), [out-of-date](/tag/out-of-date)
 
 ----
 

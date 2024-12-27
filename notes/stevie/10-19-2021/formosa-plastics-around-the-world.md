@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/10-19-2021/formosa-plastics-around-the-world.md
 nid: 27943
 uid: 422561
-
 cids: 29336,29538
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/935/original/Formosa_explosion.jpeg)
 
 # Formosa Plastics around the world
 
-by [stevie](../../../profile/stevie) | October 19, 2021 17:21
+by [stevie](/profile/stevie) | October 19, 2021 17:21
 
-October 19, 2021 17:21 | Tags: [louisiana](../tag/louisiana), [air-quality](../tag/air-quality), [pollution](../tag/pollution), [pm](../tag/pm), [industry](../tag/industry), [particulate-matter](../tag/particulate-matter), [game-over-formosa](../tag/game-over-formosa), [st-james](../tag/st-james), [fellowship-teams](../tag/fellowship-teams), [with:travislondon](../tag/with:travislondon), [with:caitlion](../tag/with:caitlion), [formosaplastics](../tag/formosaplastics)
+October 19, 2021 17:21 | Tags: [louisiana](/tag/louisiana), [air-quality](/tag/air-quality), [pollution](/tag/pollution), [pm](/tag/pm), [industry](/tag/industry), [particulate-matter](/tag/particulate-matter), [game-over-formosa](/tag/game-over-formosa), [st-james](/tag/st-james), [fellowship-teams](/tag/fellowship-teams), [with:travislondon](/tag/with:travislondon), [with:caitlion](/tag/with:caitlion), [formosaplastics](/tag/formosaplastics)
 
 ----
 

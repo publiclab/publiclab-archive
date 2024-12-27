@@ -6,18 +6,16 @@ author: junior_walk1337
 path: /notes/junior_walk1337/02-10-2022/pettus-packsville-2-10-22.md
 nid: 30020
 uid: 756318
-
 cids: 29643
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/372/original/Pettus-Packsville2-10-22.00_03_49_05.Still001.jpg)
 
 # Pettus/Packsville 2/10/22
 
-by [junior_walk1337](../../../profile/junior_walk1337) | February 10, 2022 19:54
+by [junior_walk1337](/profile/junior_walk1337) | February 10, 2022 19:54
 
-February 10, 2022 19:54 | Tags: [drones](../tag/drones), [west-virginia](../tag/west-virginia), [water-quality](../tag/water-quality), [coal](../tag/coal), [mmmp](../tag/mmmp)
+February 10, 2022 19:54 | Tags: [drones](/tag/drones), [west-virginia](/tag/west-virginia), [water-quality](/tag/water-quality), [coal](/tag/coal), [mmmp](/tag/mmmp)
 
 ----
 

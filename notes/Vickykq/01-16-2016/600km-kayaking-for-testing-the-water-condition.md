@@ -6,18 +6,16 @@ author: Vickykq
 path: /notes/Vickykq/01-16-2016/600km-kayaking-for-testing-the-water-condition.md
 nid: 12589
 uid: 461714
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/673/original/undefined)
 
 # 600km Kayaking for testing the water condition
 
-by [Vickykq](../../../profile/Vickykq) | January 16, 2016 04:36
+by [Vickykq](/profile/Vickykq) | January 16, 2016 04:36
 
-January 16, 2016 04:36 | Tags: [water-quality](../tag/water-quality), [asia](../tag/asia), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [kayak](../tag/kayak), [china](../tag/china), [canton](../tag/canton), [greenovation-hub](../tag/greenovation-hub), [ghub](../tag/ghub)
+January 16, 2016 04:36 | Tags: [water-quality](/tag/water-quality), [asia](/tag/asia), [barnstar:excessive-enthusiasm](/tag/barnstar:excessive-enthusiasm), [kayak](/tag/kayak), [china](/tag/china), [canton](/tag/canton), [greenovation-hub](/tag/greenovation-hub), [ghub](/tag/ghub)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/8-25-2012/sweet-new-spectralworkbench-capture-interface.md
 nid: 3463
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/new-interface.png)
 
 # Sweet new SpectralWorkbench capture interface
 
-by [warren](../../../profile/warren) | August 25, 2012 18:06
+by [warren](/profile/warren) | August 25, 2012 18:06
 
-August 25, 2012 18:06 | Tags: [spectrometer](../tag/spectrometer)
+August 25, 2012 18:06 | Tags: [spectrometer](/tag/spectrometer)
 
 ----
 

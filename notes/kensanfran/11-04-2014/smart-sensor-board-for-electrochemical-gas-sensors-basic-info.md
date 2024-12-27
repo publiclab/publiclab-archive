@@ -6,18 +6,16 @@ author: kensanfran
 path: /notes/kensanfran/11-04-2014/smart-sensor-board-for-electrochemical-gas-sensors-basic-info.md
 nid: 11318
 uid: 430796
-
 cids: 10699,10702,10722,11045,11099,14672,14877
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/715/original/echem328a_back_anglelogo.png)
 
 # Smart sensor board for electrochemical gas sensors (basic info)
 
-by [kensanfran](../../../profile/kensanfran) | November 04, 2014 09:53
+by [kensanfran](/profile/kensanfran) | November 04, 2014 09:53
 
-November 04, 2014 09:53 | Tags: [air-quality](../tag/air-quality), [barnstar:basic](../tag/barnstar:basic), [sensor](../tag/sensor), [nerds-for-nature](../tag/nerds-for-nature), [gas-sensor](../tag/gas-sensor), [electrochemical-sensor](../tag/electrochemical-sensor), [echem328](../tag/echem328), [data-logging](../tag/data-logging), [air-sensors](../tag/air-sensors)
+November 04, 2014 09:53 | Tags: [air-quality](/tag/air-quality), [barnstar:basic](/tag/barnstar:basic), [sensor](/tag/sensor), [nerds-for-nature](/tag/nerds-for-nature), [gas-sensor](/tag/gas-sensor), [electrochemical-sensor](/tag/electrochemical-sensor), [echem328](/tag/echem328), [data-logging](/tag/data-logging), [air-sensors](/tag/air-sensors)
 
 ----
 

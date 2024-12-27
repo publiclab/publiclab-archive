@@ -6,18 +6,16 @@ author: mlamadrid
 path: /notes/mlamadrid/06-21-2016/history-of-community-air-monitoring-in-western-wisconsin.md
 nid: 13217
 uid: 45586
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/694/original/P_20160520_153314_HDR_copy.jpg)
 
 # History of Community Air Monitoring in Western Wisconsin
 
-by [mlamadrid](../../../profile/mlamadrid) | June 21, 2016 20:23
+by [mlamadrid](/profile/mlamadrid) | June 21, 2016 20:23
 
-June 21, 2016 20:23 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [frac-sand](../tag/frac-sand), [with:mathew](../tag/with:mathew), [parent:frac-sand](../tag/parent:frac-sand), [communityscienceforum](../tag/communityscienceforum), [air-sensors](../tag/air-sensors)
+June 21, 2016 20:23 | Tags: [wisconsin](/tag/wisconsin), [air-quality](/tag/air-quality), [frac-sand](/tag/frac-sand), [with:mathew](/tag/with:mathew), [parent:frac-sand](/tag/parent:frac-sand), [communityscienceforum](/tag/communityscienceforum), [air-sensors](/tag/air-sensors)
 
 ----
 

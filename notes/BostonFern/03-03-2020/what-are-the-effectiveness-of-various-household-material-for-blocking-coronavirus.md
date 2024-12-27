@@ -6,16 +6,14 @@ author: BostonFern
 path: /notes/BostonFern/03-03-2020/what-are-the-effectiveness-of-various-household-material-for-blocking-coronavirus.md
 nid: 22980
 uid: 643525
-
 cids: 26415,26425,26434
-
 ---
 
 # What are the effectiveness of various household material for blocking coronavirus? 
 
-by [BostonFern](../../../profile/BostonFern) | March 03, 2020 00:42
+by [BostonFern](/profile/BostonFern) | March 03, 2020 00:42
 
-March 03, 2020 00:42 | Tags: [mask](../tag/mask), [issue-brief](../tag/issue-brief), [virus](../tag/virus), [coronavirus](../tag/coronavirus)
+March 03, 2020 00:42 | Tags: [mask](/tag/mask), [issue-brief](/tag/issue-brief), [virus](/tag/virus), [coronavirus](/tag/coronavirus)
 
 ----
 
@@ -41,4 +39,4 @@ Here is the pattern for the mask with both Chinese and English
 [https://bit.ly/32lWrtZ](https://bit.ly/32lWrtZ?fbclid=IwAR0NdoShsH2RCxShZCpBGP7IRL5t2WlXhwfabarQqciyLrTUmge-oTPAnK4)
 
 How to wear HK Mask  
-[https://www.youtube.com/watch?v=bttYhG1laJk](https://www.youtube.com/watch?v=bttYhG1laJk&fbclid=IwAR3cWj3A7OAPPLgO0sxJbZQtuzep57R5xsaMRHyPy72rj9tu9b8A8kY5l7A "https://www.youtube.com/watch?v=bttYhG1laJk&fbclid=IwAR3cWj3A7OAPPLgO0sxJbZQtuzep57R5xsaMRHyPy72rj9tu9b8A8kY5l7A")[tagname](../../tag/question:tagname)
+[https://www.youtube.com/watch?v=bttYhG1laJk](https://www.youtube.com/watch?v=bttYhG1laJk&fbclid=IwAR3cWj3A7OAPPLgO0sxJbZQtuzep57R5xsaMRHyPy72rj9tu9b8A8kY5l7A "https://www.youtube.com/watch?v=bttYhG1laJk&fbclid=IwAR3cWj3A7OAPPLgO0sxJbZQtuzep57R5xsaMRHyPy72rj9tu9b8A8kY5l7A")[tagname](/tag/question:tagname)

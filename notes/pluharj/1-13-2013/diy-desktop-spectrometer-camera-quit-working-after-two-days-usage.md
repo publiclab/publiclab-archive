@@ -6,18 +6,16 @@ author: pluharj
 path: /notes/pluharj/1-13-2013/diy-desktop-spectrometer-camera-quit-working-after-two-days-usage.md
 nid: 5573
 uid: 46812
-
 cids: 3049,3075
-
 ---
 
 ![](https://publiclab.org/sites/default/files/genius-facecam-1320-webcam.jpg)
 
 # DIY Desktop Spectrometer - camera quit working after two days of usage
 
-by [pluharj](../../../profile/pluharj) | January 13, 2013 15:12
+by [pluharj](/profile/pluharj) | January 13, 2013 15:12
 
-January 13, 2013 15:12 | Tags: [spectrometer](../tag/spectrometer), [troubleshooting](../tag/troubleshooting), [desktop-spectrometer](../tag/desktop-spectrometer)
+January 13, 2013 15:12 | Tags: [spectrometer](/tag/spectrometer), [troubleshooting](/tag/troubleshooting), [desktop-spectrometer](/tag/desktop-spectrometer)
 
 ----
 

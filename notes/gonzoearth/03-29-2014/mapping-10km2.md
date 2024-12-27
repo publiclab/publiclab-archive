@@ -6,18 +6,16 @@ author: gonzoearth
 path: /notes/gonzoearth/03-29-2014/mapping-10km2.md
 nid: 10243
 uid: 12
-
 cids: 8691,8692,8694,8695,8696,8697
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/447/original/Screen_Shot_2014-03-28_at_3.05.31_PM.png)
 
 # Mapping 10km2 
 
-by [gonzoearth](../../../profile/gonzoearth) | March 29, 2014 01:32
+by [gonzoearth](/profile/gonzoearth) | March 29, 2014 01:32
 
-March 29, 2014 01:32 | Tags: [balloon-mapping](../tag/balloon-mapping), [guides](../tag/guides), [activity:balloon-mapping](../tag/activity:balloon-mapping)
+March 29, 2014 01:32 | Tags: [balloon-mapping](/tag/balloon-mapping), [guides](/tag/guides), [activity:balloon-mapping](/tag/activity:balloon-mapping)
 
 ----
 

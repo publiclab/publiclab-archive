@@ -6,16 +6,14 @@ author: DanielleS
 path: /notes/DanielleS/03-24-2019/do-you-do-soil-testing-and-analysis.md
 nid: 18836
 uid: 569208
-
 cids: 23408
-
 ---
 
 # Do you do Soil Testing and Analysis? 
 
-by [DanielleS](../../../profile/DanielleS) | March 24, 2019 19:23
+by [DanielleS](/profile/DanielleS) | March 24, 2019 19:23
 
-March 24, 2019 19:23 | Tags: [event](../tag/event), [soil](../tag/soil), [methods](../tag/methods), [openhour](../tag/openhour), [soil-testing](../tag/soil-testing), [soil-analysis](../tag/soil-analysis), [question:soil](../tag/question:soil), [soil-contamination](../tag/soil-contamination), [response:18344](../tag/response:18344)
+March 24, 2019 19:23 | Tags: [event](/tag/event), [soil](/tag/soil), [methods](/tag/methods), [openhour](/tag/openhour), [soil-testing](/tag/soil-testing), [soil-analysis](/tag/soil-analysis), [question:soil](/tag/question:soil), [soil-contamination](/tag/soil-contamination), [response:18344](/tag/response:18344)
 
 ----
 

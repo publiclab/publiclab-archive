@@ -6,18 +6,16 @@ author: Guillaume123
 path: /notes/Guillaume123/01-21-2015/spectrometer-for-analysing-garden-soil.md
 nid: 11535
 uid: 284858
-
 cids: 11075,11078,11080,11084,11085,11086,11090,11093
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/721/original/Spectrometer.jpg)
 
 # Spectrometer for analysing garden soil
 
-by [Guillaume123](../../../profile/Guillaume123) | January 21, 2015 19:52
+by [Guillaume123](/profile/Guillaume123) | January 21, 2015 19:52
 
-January 21, 2015 19:52 | Tags: [spectrometer](../tag/spectrometer), [soil](../tag/soil), [spectrometer-calibration](../tag/spectrometer-calibration), [garden](../tag/garden), [slit-width](../tag/slit-width), [spectrum-comparisons](../tag/spectrum-comparisons), [nitrogen](../tag/nitrogen), [phosphates](../tag/phosphates), [first-time-poster](../tag/first-time-poster), [project:water-quality](../tag/project:water-quality), [potash](../tag/potash)
+January 21, 2015 19:52 | Tags: [spectrometer](/tag/spectrometer), [soil](/tag/soil), [spectrometer-calibration](/tag/spectrometer-calibration), [garden](/tag/garden), [slit-width](/tag/slit-width), [spectrum-comparisons](/tag/spectrum-comparisons), [nitrogen](/tag/nitrogen), [phosphates](/tag/phosphates), [first-time-poster](/tag/first-time-poster), [project:water-quality](/tag/project:water-quality), [potash](/tag/potash)
 
 ----
 

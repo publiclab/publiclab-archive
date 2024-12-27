@@ -6,16 +6,14 @@ author: gretchengehrke
 path: /notes/gretchengehrke/07-07-2017/do-you-have-resources-on-odor-logs-and-odor-reporting-platforms.md
 nid: 14632
 uid: 430549
-
 cids: 17079,17080,22028,22528,22529,22530,23320
-
 ---
 
 # Do you have resources on odor logs and odor reporting platforms? 
 
-by [gretchengehrke](../../../profile/gretchengehrke) | July 07, 2017 20:40
+by [gretchengehrke](/profile/gretchengehrke) | July 07, 2017 20:40
 
-July 07, 2017 20:40 | Tags: [question:air-quality](../tag/question:air-quality), [answered](../tag/answered), [question:odor](../tag/question:odor), [question:smell](../tag/question:smell)
+July 07, 2017 20:40 | Tags: [question:air-quality](/tag/question:air-quality), [answered](/tag/answered), [question:odor](/tag/question:odor), [question:smell](/tag/question:smell)
 
 ----
 

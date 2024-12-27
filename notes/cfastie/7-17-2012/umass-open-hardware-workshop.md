@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/7-17-2012/umass-open-hardware-workshop.md
 nid: 2848
 uid: 554
-
 cids: 1031,1040,1047,1062
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Amherst_NDVI_Color_logo.jpg)
 
 # UMass Open Hardware Workshop
 
-by [cfastie](../../../profile/cfastie) | July 18, 2012 01:29
+by [cfastie](/profile/cfastie) | July 18, 2012 01:29
 
-July 18, 2012 01:29 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [arduino](../tag/arduino), [open-source](../tag/open-source), [open-hardware](../tag/open-hardware), [conferences](../tag/conferences), [umass-amherst](../tag/umass-amherst)
+July 18, 2012 01:29 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [arduino](/tag/arduino), [open-source](/tag/open-source), [open-hardware](/tag/open-hardware), [conferences](/tag/conferences), [umass-amherst](/tag/umass-amherst)
 
 ----
 

@@ -6,18 +6,16 @@ author: ekpeterman
 path: /notes/ekpeterman/11-24-2021/common-permit-violations-mmmp.md
 nid: 28278
 uid: 641166
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/181/original/white_oak_collapsing_highwall2.png)
 
 # Common Permit Violations: MMMP
 
-by [ekpeterman](../../../profile/ekpeterman) | November 24, 2021 16:25
+by [ekpeterman](/profile/ekpeterman) | November 24, 2021 16:25
 
-November 24, 2021 16:25 | Tags: [coal-mining](../tag/coal-mining), [organizing](../tag/organizing), [mining](../tag/mining), [water-quality](../tag/water-quality), [advocacy](../tag/advocacy), [with:junior_walk1337](../tag/with:junior_walk1337), [with:mmmp](../tag/with:mmmp)
+November 24, 2021 16:25 | Tags: [coal-mining](/tag/coal-mining), [organizing](/tag/organizing), [mining](/tag/mining), [water-quality](/tag/water-quality), [advocacy](/tag/advocacy), [with:junior_walk1337](/tag/with:junior_walk1337), [with:mmmp](/tag/with:mmmp)
 
 ----
 

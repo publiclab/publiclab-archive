@@ -6,16 +6,14 @@ author: cesarharada
 path: /notes/cesarharada/10-19-2011/goldsmiths-university-first-mapping-session.md
 nid: 511
 uid: 50
-
 cids: 7264
-
 ---
 
 # Goldsmiths University First Mapping session
 
-by [cesarharada](../../../profile/cesarharada) | October 20, 2011 01:03
+by [cesarharada](/profile/cesarharada) | October 20, 2011 01:03
 
-October 20, 2011 01:03 | Tags: [balloon-mapping](../tag/balloon-mapping), [london](../tag/london), [uk](../tag/uk), [goldsmiths](../tag/goldsmiths), [eu](../tag/eu)
+October 20, 2011 01:03 | Tags: [balloon-mapping](/tag/balloon-mapping), [london](/tag/london), [uk](/tag/uk), [goldsmiths](/tag/goldsmiths), [eu](/tag/eu)
 
 ----
 

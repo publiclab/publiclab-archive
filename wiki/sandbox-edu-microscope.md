@@ -6,12 +6,12 @@ author: mimiss
 path: /wiki/sandbox-edu-microscope.md
 nid: 19504
 uid: 579821
-
+cids: 
 ---
 
 # sandbox-edu-microscope
 
-by [mimiss](../profile/mimiss)
+by [mimiss](/profile/mimiss)
 
 May 23, 2019 15:10 | Tags: 
 
@@ -59,7 +59,7 @@ For step-by-step instructions on how to convert your webcam, [click here](https:
 
 Here we would curate a list of lessons for the microscope. Pin the Hello World Activity (would it be an interesting video?) Use a tag like 'edu-microscope-lesson' to get things to show up here. 
 
-[grid:activity:edu-microscope-lesson](../../tag/grid:activity:edu-microscope-lesson)
+[grid:activity:edu-microscope-lesson](/tag/grid:activity:edu-microscope-lesson)
 
 ## Get Help
 

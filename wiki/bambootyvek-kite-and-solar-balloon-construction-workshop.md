@@ -6,14 +6,14 @@ author: liz
 path: /wiki/bambootyvek-kite-and-solar-balloon-construction-workshop.md
 nid: 2539
 uid: 7
-
+cids: 
 ---
 
 # Bamboo/tyvek kite and solar balloon construction workshop
 
-by [liz](../profile/liz), [mathew](../profile/mathew), [rjstatic](../profile/rjstatic)
+by [liz](/profile/liz), [mathew](/profile/mathew), [rjstatic](/profile/rjstatic)
 
-June 18, 2012 17:11 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [ilab](../tag/ilab), [solar-balloon](../tag/solar-balloon), [event](../tag/event)
+June 18, 2012 17:11 | Tags: [new-york-city](/tag/new-york-city), [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [ilab](/tag/ilab), [solar-balloon](/tag/solar-balloon), [event](/tag/event)
 
 ----
 

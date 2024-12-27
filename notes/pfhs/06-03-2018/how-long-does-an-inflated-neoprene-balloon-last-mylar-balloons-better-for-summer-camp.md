@@ -6,16 +6,14 @@ author: pfhs
 path: /notes/pfhs/06-03-2018/how-long-does-an-inflated-neoprene-balloon-last-mylar-balloons-better-for-summer-camp.md
 nid: 16426
 uid: 442023
-
 cids: 19749,19750,23107
-
 ---
 
 # How long does an inflated neoprene balloon last? Mylar balloons better for summer camp?
 
-by [pfhs](../../../profile/pfhs) | June 03, 2018 05:39
+by [pfhs](/profile/pfhs) | June 03, 2018 05:39
 
-June 03, 2018 05:39 | Tags: [mylar](../tag/mylar), [question:balloon-mapping](../tag/question:balloon-mapping), [neoprene](../tag/neoprene), [question:mini-balloon-kit](../tag/question:mini-balloon-kit), [question:mylar](../tag/question:mylar), [chloroprene](../tag/chloroprene), [first-time-poster](../tag/first-time-poster), [pin:question:balloon-mapping](../tag/pin:question:balloon-mapping)
+June 03, 2018 05:39 | Tags: [mylar](/tag/mylar), [question:balloon-mapping](/tag/question:balloon-mapping), [neoprene](/tag/neoprene), [question:mini-balloon-kit](/tag/question:mini-balloon-kit), [question:mylar](/tag/question:mylar), [chloroprene](/tag/chloroprene), [first-time-poster](/tag/first-time-poster), [pin:question:balloon-mapping](/tag/pin:question:balloon-mapping)
 
 ----
 

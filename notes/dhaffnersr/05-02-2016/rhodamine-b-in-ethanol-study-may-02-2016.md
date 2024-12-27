@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/05-02-2016/rhodamine-b-in-ethanol-study-may-02-2016.md
 nid: 13062
 uid: 461120
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/898/original/rhod_b_may2_small_pic_936x.png)
 
 # Rhodamine b in ethanol study May/02/2016
 
-by [dhaffnersr](../../../profile/dhaffnersr) | May 02, 2016 19:13
+by [dhaffnersr](/profile/dhaffnersr) | May 02, 2016 19:13
 
 May 02, 2016 19:13 | Tags: 
 

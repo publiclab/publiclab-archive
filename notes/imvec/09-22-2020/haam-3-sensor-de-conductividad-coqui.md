@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/09-22-2020/haam-3-sensor-de-conductividad-coqui.md
 nid: 24626
 uid: 495038
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/960/original/haam3.jpg)
 
 # HAAM#3: Sensor de conductividad Coqui 
 
-by [imvec](../../../profile/imvec) | September 22, 2020 13:56
+by [imvec](/profile/imvec) | September 22, 2020 13:56
 
-September 22, 2020 13:56 | Tags: [workshop](../tag/workshop), [coqui](../tag/coqui), [spanish](../tag/spanish), [taller](../tag/taller), [haam](../tag/haam)
+September 22, 2020 13:56 | Tags: [workshop](/tag/workshop), [coqui](/tag/coqui), [spanish](/tag/spanish), [taller](/tag/taller), [haam](/tag/haam)
 
 ----
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/kite-mapping-tips.md
 nid: 10321
 uid: 1
-
+cids: 
 ---
 
 # Kite Mapping Tips
 
-by [mathew](../profile/mathew), [warren](../profile/warren)
+by [mathew](/profile/mathew), [warren](/profile/warren)
 
-April 16, 2014 20:14 | Tags: [kite-mapping](../tag/kite-mapping), [guide](../tag/guide), [quick-start](../tag/quick-start), [parent:kite-mapping](../tag/parent:kite-mapping)
+April 16, 2014 20:14 | Tags: [kite-mapping](/tag/kite-mapping), [guide](/tag/guide), [quick-start](/tag/quick-start), [parent:kite-mapping](/tag/parent:kite-mapping)
 
 ----
 

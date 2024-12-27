@@ -6,14 +6,14 @@ author: warren
 path: /wiki/hydrogen-sulfide-effects.md
 nid: 14952
 uid: 1
-
+cids: 
 ---
 
 # Hydrogen Sulfide Effects
 
-by [warren](../profile/warren), [gretchengehrke](../profile/gretchengehrke)
+by [warren](/profile/warren), [gretchengehrke](/profile/gretchengehrke)
 
-September 25, 2017 19:40 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [parent:hydrogen-sulfide](../tag/parent:hydrogen-sulfide), [h2s-overview](../tag/h2s-overview)
+September 25, 2017 19:40 | Tags: [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [parent:hydrogen-sulfide](/tag/parent:hydrogen-sulfide), [h2s-overview](/tag/h2s-overview)
 
 ----
 
@@ -73,7 +73,7 @@ Information about hydrogen sulfide toxicity can be found here: http://www.tandfo
 
 Post and answer questions about the health effects of hydrogen sulfide here:
 
-[hydrogen-sulfide-effects,hydrogen-sulfide,h2s](../../tag/question:hydrogen-sulfide-effects,hydrogen-sulfide,h2s)
+[hydrogen-sulfide-effects,hydrogen-sulfide,h2s](/tag/question:hydrogen-sulfide-effects,hydrogen-sulfide,h2s)
 
 ****
 

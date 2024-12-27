@@ -6,16 +6,16 @@ author: warren
 path: /wiki/oil-testing-kit-warning.md
 nid: 12105
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/913/original/Screenshot_2015-07-29_at_9.52.58_AM.png)
 
 # Oil Testing Kit Warning
 
-by [warren](../profile/warren), [danbeavers](../profile/danbeavers), [gretchengehrke](../profile/gretchengehrke)
+by [warren](/profile/warren), [danbeavers](/profile/danbeavers), [gretchengehrke](/profile/gretchengehrke)
 
-July 29, 2015 13:51 | Tags: [safety](../tag/safety), [laser](../tag/laser), [instructions](../tag/instructions), [realgenius](../tag/realgenius), [usefull](../tag/usefull)
+July 29, 2015 13:51 | Tags: [safety](/tag/safety), [laser](/tag/laser), [instructions](/tag/instructions), [realgenius](/tag/realgenius), [usefull](/tag/usefull)
 
 ----
 

@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/05-28-2015/formaldehyde-testing-kit-for-lending.md
 nid: 11850
 uid: 4
-
 cids: 11784,11785,11793,11802,11876
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/045/original/IMG_20150527_221022.jpg)
 
 # Formaldehyde Testing Kit for Lending 
 
-by [mathew](../../../profile/mathew) | May 28, 2015 06:00
+by [mathew](/profile/mathew) | May 28, 2015 06:00
 
-May 28, 2015 06:00 | Tags: [air-quality](../tag/air-quality), [formaldehyde](../tag/formaldehyde), [open-air](../tag/open-air), [openair](../tag/openair), [lending-library](../tag/lending-library), [indoor-air-quality](../tag/indoor-air-quality), [library](../tag/library), [replication:11317](../tag/replication:11317)
+May 28, 2015 06:00 | Tags: [air-quality](/tag/air-quality), [formaldehyde](/tag/formaldehyde), [open-air](/tag/open-air), [openair](/tag/openair), [lending-library](/tag/lending-library), [indoor-air-quality](/tag/indoor-air-quality), [library](/tag/library), [replication:11317](/tag/replication:11317)
 
 ----
 

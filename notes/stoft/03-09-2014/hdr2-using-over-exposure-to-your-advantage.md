@@ -6,18 +6,16 @@ author: stoft
 path: /notes/stoft/03-09-2014/hdr2-using-over-exposure-to-your-advantage.md
 nid: 10147
 uid: 54025
-
 cids: 8452,8453,8456,24744
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/188/original/HDR2.jpg)
 
 # HDR2: Using Over-Exposure to Your Advantage
 
-by [stoft](../../../profile/stoft) | March 09, 2014 19:57
+by [stoft](/profile/stoft) | March 09, 2014 19:57
 
-March 09, 2014 19:57 | Tags: [spectrometer](../tag/spectrometer), [hdr](../tag/hdr), [dynamic-range](../tag/dynamic-range)
+March 09, 2014 19:57 | Tags: [spectrometer](/tag/spectrometer), [hdr](/tag/hdr), [dynamic-range](/tag/dynamic-range)
 
 ----
 

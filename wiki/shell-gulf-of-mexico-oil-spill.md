@@ -6,16 +6,16 @@ author: Shannon
 path: /wiki/shell-gulf-of-mexico-oil-spill.md
 nid: 13130
 uid: 9
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/987/original/shell_glider.jpg)
 
 # Shell Gulf of Mexico Oil Spill
 
-by [eustatic](../profile/eustatic), [Shannon](../profile/Shannon), [danbeavers](../profile/danbeavers), [gretchengehrke](../profile/gretchengehrke), [warren](../profile/warren), [tonyc](../profile/tonyc), [stevie](../profile/stevie)
+by [eustatic](/profile/eustatic), [Shannon](/profile/Shannon), [danbeavers](/profile/danbeavers), [gretchengehrke](/profile/gretchengehrke), [warren](/profile/warren), [tonyc](/profile/tonyc), [stevie](/profile/stevie)
 
-May 19, 2016 20:44 | Tags: [oil](../tag/oil), [gulfcoast](../tag/gulfcoast), [oilspill](../tag/oilspill), [shelloil](../tag/shelloil), [gulfmonitoringconsortium](../tag/gulfmonitoringconsortium), [gulfofmexico](../tag/gulfofmexico)
+May 19, 2016 20:44 | Tags: [oil](/tag/oil), [gulfcoast](/tag/gulfcoast), [oilspill](/tag/oilspill), [shelloil](/tag/shelloil), [gulfmonitoringconsortium](/tag/gulfmonitoringconsortium), [gulfofmexico](/tag/gulfofmexico)
 
 ----
 

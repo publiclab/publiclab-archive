@@ -6,16 +6,14 @@ author: jiteovien
 path: /notes/jiteovien/08-08-2018/can-the-community-microscope-analyze-ocean-microplastics.md
 nid: 16886
 uid: 540008
-
 cids: 20337,20340,20346,20356,20368,24330,24338
-
 ---
 
 # Can the Community Microscope analyze ocean microplastics?
 
-by [jiteovien](../../../profile/jiteovien) | August 08, 2018 21:12
+by [jiteovien](/profile/jiteovien) | August 08, 2018 21:12
 
-August 08, 2018 21:12 | Tags: [water-quality](../tag/water-quality), [microscope](../tag/microscope), [question:microplastics](../tag/question:microplastics), [microplastics](../tag/microplastics), [question:babylegs](../tag/question:babylegs), [question:community-microscope-challenges](../tag/question:community-microscope-challenges), [community-microscope-challenges](../tag/community-microscope-challenges)
+August 08, 2018 21:12 | Tags: [water-quality](/tag/water-quality), [microscope](/tag/microscope), [question:microplastics](/tag/question:microplastics), [microplastics](/tag/microplastics), [question:babylegs](/tag/question:babylegs), [question:community-microscope-challenges](/tag/question:community-microscope-challenges), [community-microscope-challenges](/tag/community-microscope-challenges)
 
 ----
 

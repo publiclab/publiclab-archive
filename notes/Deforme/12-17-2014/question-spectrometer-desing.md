@@ -6,18 +6,16 @@ author: Deforme
 path: /notes/Deforme/12-17-2014/question-spectrometer-desing.md
 nid: 11480
 uid: 432880
-
 cids: 10972,10985
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/486/original/Prism_Monochrometer.jpg)
 
 # Question: Spectrometer Desing
 
-by [Deforme](../../../profile/Deforme) | December 17, 2014 23:53
+by [Deforme](/profile/Deforme) | December 17, 2014 23:53
 
-December 17, 2014 23:53 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [wavelength](../tag/wavelength), [question:spectometer](../tag/question:spectometer), [question:calibration](../tag/question:calibration), [question:wavelength](../tag/question:wavelength)
+December 17, 2014 23:53 | Tags: [spectrometer](/tag/spectrometer), [calibration](/tag/calibration), [wavelength](/tag/wavelength), [question:spectometer](/tag/question:spectometer), [question:calibration](/tag/question:calibration), [question:wavelength](/tag/question:wavelength)
 
 ----
 

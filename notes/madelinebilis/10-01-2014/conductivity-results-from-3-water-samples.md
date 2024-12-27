@@ -6,18 +6,16 @@ author: madelinebilis
 path: /notes/madelinebilis/10-01-2014/conductivity-results-from-3-water-samples.md
 nid: 11218
 uid: 428057
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/224/original/thumbnail.jpg)
 
 # Conductivity Results from 3 Water Samples
 
-by [madelinebilis](../../../profile/madelinebilis) | October 01, 2014 02:36
+by [madelinebilis](/profile/madelinebilis) | October 01, 2014 02:36
 
-October 01, 2014 02:36 | Tags: [conductivity](../tag/conductivity), [open-water](../tag/open-water), [coqui](../tag/coqui), [response:11205](../tag/response:11205), [first-time-poster](../tag/first-time-poster)
+October 01, 2014 02:36 | Tags: [conductivity](/tag/conductivity), [open-water](/tag/open-water), [coqui](/tag/coqui), [response:11205](/tag/response:11205), [first-time-poster](/tag/first-time-poster)
 
 ----
 

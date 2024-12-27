@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/10-26-2019/taller-construeix-el-teu-microscopi.md
 nid: 21304
 uid: 495038
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/028/original/mic.jpg)
 
 # Taller construeix el teu microscopi
 
-by [imvec](../../../profile/imvec) | October 26, 2019 17:47
+by [imvec](/profile/imvec) | October 26, 2019 17:47
 
-October 26, 2019 17:47 | Tags: [barcelona](../tag/barcelona), [spain](../tag/spain), [workshop](../tag/workshop), [event](../tag/event), [lang:es](../tag/lang:es), [eu](../tag/eu), [lat:1](../tag/lat:1), [spanish](../tag/spanish), [lon:10](../tag/lon:10), [community-microscope](../tag/community-microscope), [communitymicroscope](../tag/communitymicroscope)
+October 26, 2019 17:47 | Tags: [barcelona](/tag/barcelona), [spain](/tag/spain), [workshop](/tag/workshop), [event](/tag/event), [lang:es](/tag/lang:es), [eu](/tag/eu), [lat:1](/tag/lat:1), [spanish](/tag/spanish), [lon:10](/tag/lon:10), [community-microscope](/tag/community-microscope), [communitymicroscope](/tag/communitymicroscope)
 
 ----
 

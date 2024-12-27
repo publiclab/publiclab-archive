@@ -6,16 +6,14 @@ author: belkinsa
 path: /notes/belkinsa/01-30-2022/can-pond-testing-kits-be-used-for-stream-river-water.md
 nid: 29231
 uid: 504609
-
 cids: 29614,29615,29617,29620,29634
-
 ---
 
 # Can pond testing kits be used for stream/river water?
 
-by [belkinsa](../../../profile/belkinsa) | January 30, 2022 23:17
+by [belkinsa](/profile/belkinsa) | January 30, 2022 23:17
 
-January 30, 2022 23:17 | Tags: [wetlands](../tag/wetlands), [water-quality](../tag/water-quality), [water](../tag/water), [water-testing](../tag/water-testing), [question:water-quality](../tag/question:water-quality), [question:water-testing](../tag/question:water-testing)
+January 30, 2022 23:17 | Tags: [wetlands](/tag/wetlands), [water-quality](/tag/water-quality), [water](/tag/water), [water-testing](/tag/water-testing), [question:water-quality](/tag/question:water-quality), [question:water-testing](/tag/question:water-testing)
 
 ----
 

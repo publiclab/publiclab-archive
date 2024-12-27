@@ -6,14 +6,14 @@ author: gretchengehrke
 path: /wiki/hydrogen-sulfide-detection.md
 nid: 15055
 uid: 430549
-
+cids: 
 ---
 
 # Hydrogen Sulfide Detection
 
-by [gretchengehrke](../profile/gretchengehrke), [warren](../profile/warren)
+by [gretchengehrke](/profile/gretchengehrke), [warren](/profile/warren)
 
-October 16, 2017 16:14 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [parent:hydrogen-sulfide](../tag/parent:hydrogen-sulfide), [h2s-overview](../tag/h2s-overview)
+October 16, 2017 16:14 | Tags: [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [parent:hydrogen-sulfide](/tag/parent:hydrogen-sulfide), [h2s-overview](/tag/h2s-overview)
 
 ----
 
@@ -21,7 +21,7 @@ Hydrogen sulfide can be measured a variety of methods due to sulfur’s versatil
 
 ## Questions
 
-[hydrogen-sulfide-detection](../../tag/question:hydrogen-sulfide-detection)
+[hydrogen-sulfide-detection](/tag/question:hydrogen-sulfide-detection)
 ****
 
 ##Regulatory Methods for Measuring Hydrogen Sulfide

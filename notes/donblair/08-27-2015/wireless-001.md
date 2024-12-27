@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/08-27-2015/wireless-001.md
 nid: 12175
 uid: 43651
-
 cids: 12458,12462,12478,12479
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/297/original/wireless.png)
 
 # Wireless 001
 
-by [donblair](../../../profile/donblair) | August 27, 2015 18:53
+by [donblair](/profile/donblair) | August 27, 2015 18:53
 
-August 27, 2015 18:53 | Tags: [wireless](../tag/wireless), [open-water](../tag/open-water), [radio](../tag/radio)
+August 27, 2015 18:53 | Tags: [wireless](/tag/wireless), [open-water](/tag/open-water), [radio](/tag/radio)
 
 ----
 

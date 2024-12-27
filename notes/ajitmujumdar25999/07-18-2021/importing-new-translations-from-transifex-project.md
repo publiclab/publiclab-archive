@@ -6,18 +6,16 @@ author: ajitmujumdar25999
 path: /notes/ajitmujumdar25999/07-18-2021/importing-new-translations-from-transifex-project.md
 nid: 27099
 uid: 654056
-
 cids: 29040
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/413/original/Screenshot_from_2021-07-18_13-22-30.png)
 
 # Importing New Translations from Transifex Project ( managers only)
 
-by [ajitmujumdar25999](../../../profile/ajitmujumdar25999) | July 18, 2021 09:05
+by [ajitmujumdar25999](/profile/ajitmujumdar25999) | July 18, 2021 09:05
 
-July 18, 2021 09:05 | Tags: [localization](../tag/localization), [translation](../tag/translation), [activity:localization](../tag/activity:localization), [activity:localization-managers](../tag/activity:localization-managers), [localization-managers](../tag/localization-managers)
+July 18, 2021 09:05 | Tags: [localization](/tag/localization), [translation](/tag/translation), [activity:localization](/tag/activity:localization), [activity:localization-managers](/tag/activity:localization-managers), [localization-managers](/tag/localization-managers)
 
 ----
 

@@ -6,12 +6,12 @@ author: liz
 path: /wiki/cornell-ee-capacity.md
 nid: 10490
 uid: 7
-
+cids: 
 ---
 
 # cornell-ee-capacity
 
-by [liz](../profile/liz), [rupu_gupta](../profile/rupu_gupta)
+by [liz](/profile/liz), [rupu_gupta](/profile/rupu_gupta)
 
 May 20, 2014 17:17 | Tags: 
 

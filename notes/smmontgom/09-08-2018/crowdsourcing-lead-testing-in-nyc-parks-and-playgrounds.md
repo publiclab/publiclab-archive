@@ -6,18 +6,16 @@ author: smmontgom
 path: /notes/smmontgom/09-08-2018/crowdsourcing-lead-testing-in-nyc-parks-and-playgrounds.md
 nid: 17082
 uid: 488474
-
 cids: 20621,20627,20630,20672,20716,26910
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/495/original/KidPhoto2_2.5_tight-crop_400x267.png)
 
 # Crowdsourcing lead testing in NYC parks and playgrounds
 
-by [smmontgom](../../../profile/smmontgom) | September 08, 2018 12:57
+by [smmontgom](/profile/smmontgom) | September 08, 2018 12:57
 
-September 08, 2018 12:57 | Tags: [new-york-city](../tag/new-york-city), [water-sensing](../tag/water-sensing), [heavy-metals](../tag/heavy-metals), [water-quality](../tag/water-quality), [open-water](../tag/open-water), [northeast](../tag/northeast), [lead](../tag/lead), [lead-testing](../tag/lead-testing), [lat:40.712775](../tag/lat:40.712775), [lon:-74.005972](../tag/lon:-74.005972), [place:new-york-ny-usa](../tag/place:new-york-ny-usa)
+September 08, 2018 12:57 | Tags: [new-york-city](/tag/new-york-city), [water-sensing](/tag/water-sensing), [heavy-metals](/tag/heavy-metals), [water-quality](/tag/water-quality), [open-water](/tag/open-water), [northeast](/tag/northeast), [lead](/tag/lead), [lead-testing](/tag/lead-testing), [lat:40.712775](/tag/lat:40.712775), [lon:-74.005972](/tag/lon:-74.005972), [place:new-york-ny-usa](/tag/place:new-york-ny-usa)
 
 ----
 

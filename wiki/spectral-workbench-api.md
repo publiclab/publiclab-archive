@@ -6,14 +6,14 @@ author: warren
 path: /wiki/spectral-workbench-api.md
 nid: 4343
 uid: 1
-
+cids: 17899,17917
 ---
 
 # Spectral Workbench API
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-October 11, 2012 16:46 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench)
+October 11, 2012 16:46 | Tags: [spectrometer](/tag/spectrometer), [spectralworkbench](/tag/spectralworkbench)
 
 ----
 

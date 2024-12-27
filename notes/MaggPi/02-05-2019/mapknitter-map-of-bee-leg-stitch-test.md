@@ -6,18 +6,16 @@ author: MaggPi
 path: /notes/MaggPi/02-05-2019/mapknitter-map-of-bee-leg-stitch-test.md
 nid: 18258
 uid: 501996
-
 cids: 21839,21841,21845,21846,21850,21981
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/183/original/beeleg1.jpg)
 
 # MapKnitter map of bee leg stitch test
 
-by [MaggPi](../../../profile/MaggPi) | February 05, 2019 04:46
+by [MaggPi](/profile/MaggPi) | February 05, 2019 04:46
 
-February 05, 2019 04:46 | Tags: [mapknitter](../tag/mapknitter), [image-stitching](../tag/image-stitching), [stitch](../tag/stitch), [microscopy](../tag/microscopy), [activity:microscope](../tag/activity:microscope), [activity:community-microscope](../tag/activity:community-microscope), [lat:37.09024](../tag/lat:37.09024), [lon:-95.712891](../tag/lon:-95.712891), [activity:mapknitter](../tag/activity:mapknitter)
+February 05, 2019 04:46 | Tags: [mapknitter](/tag/mapknitter), [image-stitching](/tag/image-stitching), [stitch](/tag/stitch), [microscopy](/tag/microscopy), [activity:microscope](/tag/activity:microscope), [activity:community-microscope](/tag/activity:community-microscope), [lat:37.09024](/tag/lat:37.09024), [lon:-95.712891](/tag/lon:-95.712891), [activity:mapknitter](/tag/activity:mapknitter)
 
 ----
 

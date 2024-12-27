@@ -6,18 +6,16 @@ author: clauds
 path: /notes/clauds/12-17-2016/how-useful-is-a-map.md
 nid: 13791
 uid: 43867
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/068/original/L1260087_copy.jpg)
 
 # How useful is a map?
 
-by [clauds](../../../profile/clauds) | December 17, 2016 02:31
+by [clauds](/profile/clauds) | December 17, 2016 02:31
 
-December 17, 2016 02:31 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapping](../tag/mapping), [evaluation](../tag/evaluation), [lebanon](../tag/lebanon), [middle-east](../tag/middle-east), [bourjalshamali](../tag/bourjalshamali), [indicators](../tag/indicators), [usefulness](../tag/usefulness), [dialogue](../tag/dialogue), [silvarclark](../tag/silvarclark)
+December 17, 2016 02:31 | Tags: [balloon-mapping](/tag/balloon-mapping), [mapping](/tag/mapping), [evaluation](/tag/evaluation), [lebanon](/tag/lebanon), [middle-east](/tag/middle-east), [bourjalshamali](/tag/bourjalshamali), [indicators](/tag/indicators), [usefulness](/tag/usefulness), [dialogue](/tag/dialogue), [silvarclark](/tag/silvarclark)
 
 ----
 

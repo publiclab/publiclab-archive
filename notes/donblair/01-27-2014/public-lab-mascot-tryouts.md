@@ -6,16 +6,14 @@ author: donblair
 path: /notes/donblair/01-27-2014/public-lab-mascot-tryouts.md
 nid: 9983
 uid: 43651
-
 cids: 8092,8141
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/676/original/Public_Lab_Mascot_Tryouts.png)
 
 # Public Lab Mascot Tryouts
 
-by [donblair](../../../profile/donblair) | January 27, 2014 04:39
+by [donblair](/profile/donblair) | January 27, 2014 04:39
 
 January 27, 2014 04:39 | Tags: 
 

@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/07-11-2014/simple-555-conductivity-meter.md
 nid: 10675
 uid: 43651
-
 cids: 9480,9481,9483,9499,9503,9506,9537
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/216/original/555conductivity.png)
 
 # Simple 555 conductivity meter
 
-by [donblair](../../../profile/donblair) | July 11, 2014 04:16
+by [donblair](/profile/donblair) | July 11, 2014 04:16
 
-July 11, 2014 04:16 | Tags: [arduino](../tag/arduino), [water-quality](../tag/water-quality), [thermal-fishing-bob](../tag/thermal-fishing-bob), [conductivity](../tag/conductivity), [555](../tag/555), [openwater](../tag/openwater), [response:10589](../tag/response:10589), [response:10538](../tag/response:10538)
+July 11, 2014 04:16 | Tags: [arduino](/tag/arduino), [water-quality](/tag/water-quality), [thermal-fishing-bob](/tag/thermal-fishing-bob), [conductivity](/tag/conductivity), [555](/tag/555), [openwater](/tag/openwater), [response:10589](/tag/response:10589), [response:10538](/tag/response:10538)
 
 ----
 

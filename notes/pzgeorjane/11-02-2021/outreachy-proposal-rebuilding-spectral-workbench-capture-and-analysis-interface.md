@@ -6,18 +6,16 @@ author: pzgeorjane
 path: /notes/pzgeorjane/11-02-2021/outreachy-proposal-rebuilding-spectral-workbench-capture-and-analysis-interface.md
 nid: 28042
 uid: 775513
-
 cids: 29388,29393,29400
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/020/original/DIY.jpg)
 
 # Outreachy proposal: Rebuilding Spectral Workbench capture and analysis interface
 
-by [pzgeorjane](../../../profile/pzgeorjane) | November 02, 2021 16:29
+by [pzgeorjane](/profile/pzgeorjane) | November 02, 2021 16:29
 
-November 02, 2021 16:29 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [zoom:5](../tag/zoom:5), [outreachy-2021](../tag/outreachy-2021), [outreachy-winter-2021](../tag/outreachy-winter-2021), [lat:5.965753](../tag/lat:5.965753), [lon:10.151367](../tag/lon:10.151367)
+November 02, 2021 16:29 | Tags: [software](/tag/software), [outreachy](/tag/outreachy), [first-time-poster](/tag/first-time-poster), [zoom:5](/tag/zoom:5), [outreachy-2021](/tag/outreachy-2021), [outreachy-winter-2021](/tag/outreachy-winter-2021), [lat:5.965753](/tag/lat:5.965753), [lon:10.151367](/tag/lon:10.151367)
 
 ----
 

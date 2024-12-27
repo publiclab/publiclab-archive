@@ -6,16 +6,16 @@ author: warren
 path: /wiki/flare-spectroscopy-activity.md
 nid: 9401
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/721/original/IMG_0200.JPG)
 
 # Flare Spectroscopy Activity
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-October 05, 2013 15:54 | Tags: [education](../tag/education), [spectrometry](../tag/spectrometry), [classroom](../tag/classroom), [activity](../tag/activity), [response:4406](../tag/response:4406)
+October 05, 2013 15:54 | Tags: [education](/tag/education), [spectrometry](/tag/spectrometry), [classroom](/tag/classroom), [activity](/tag/activity), [response:4406](/tag/response:4406)
 
 ----
 

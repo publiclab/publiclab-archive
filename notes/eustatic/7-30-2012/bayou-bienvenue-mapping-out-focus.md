@@ -6,18 +6,16 @@ author: eustatic
 path: /7-30-2012/bayou-bienvenue-mapping-out-focus.md
 nid: 3026
 uid: 379
-
 cids: 1103,1140,1560
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_4468.JPG)
 
 # Bayou Bienvenue mapping:  out of focus
 
-by [eustatic](../../../profile/eustatic) | July 30, 2012 13:45
+by [eustatic](/profile/eustatic) | July 30, 2012 13:45
 
-July 30, 2012 13:45 | Tags: [balloon-mapping](../tag/balloon-mapping), [bayou-bienvenue](../tag/bayou-bienvenue), [green-slice](../tag/green-slice), [bienvenue](../tag/bienvenue), [urbanwater](../tag/urbanwater)
+July 30, 2012 13:45 | Tags: [balloon-mapping](/tag/balloon-mapping), [bayou-bienvenue](/tag/bayou-bienvenue), [green-slice](/tag/green-slice), [bienvenue](/tag/bienvenue), [urbanwater](/tag/urbanwater)
 
 ----
 

@@ -6,18 +6,16 @@ author: partsandcrafts
 path: /notes/partsandcrafts/10-22-2017/project-night-at-fabville-somerville-diy-microscopes.md
 nid: 15080
 uid: 66014
-
 cids: 17562,17583,17585,17586,27113,27114,27127
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/076/original/IMG_20171026_192925.jpg)
 
 # Project Night:  DIY Microscopes!
 
-by [partsandcrafts](../../../profile/partsandcrafts) | October 22, 2017 21:45
+by [partsandcrafts](/profile/partsandcrafts) | October 22, 2017 21:45
 
-October 22, 2017 21:45 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [with:kgradow1](../tag/with:kgradow1), [date:10-26-2017](../tag/date:10-26-2017), [with:wmacfarl](../tag/with:wmacfarl), [first-time-poster](../tag/first-time-poster)
+October 22, 2017 21:45 | Tags: [event](/tag/event), [event:rsvp](/tag/event:rsvp), [with:kgradow1](/tag/with:kgradow1), [date:10-26-2017](/tag/date:10-26-2017), [with:wmacfarl](/tag/with:wmacfarl), [first-time-poster](/tag/first-time-poster)
 
 ----
 

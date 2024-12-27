@@ -6,18 +6,16 @@ author: eustatic
 path: /07-12-2017/adventures-on-the-gowanus-on-a-july-evening.md
 nid: 14646
 uid: 379
-
 cids: 17026,17606,20218,20220
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/106/original/a_IMAG0257_gowanus_is_coming__for_ya_infra.JPG)
 
 # Adventures on the Gowanus on a July Evening
 
-by [eustatic](../../../profile/eustatic) | July 12, 2017 16:59
+by [eustatic](/profile/eustatic) | July 12, 2017 16:59
 
-July 12, 2017 16:59 | Tags: [gowanus](../tag/gowanus), [new-york](../tag/new-york), [nyc](../tag/nyc), [northeast](../tag/northeast), [barnstar:photo-documentation](../tag/barnstar:photo-documentation)
+July 12, 2017 16:59 | Tags: [gowanus](/tag/gowanus), [new-york](/tag/new-york), [nyc](/tag/nyc), [northeast](/tag/northeast), [barnstar:photo-documentation](/tag/barnstar:photo-documentation)
 
 ----
 

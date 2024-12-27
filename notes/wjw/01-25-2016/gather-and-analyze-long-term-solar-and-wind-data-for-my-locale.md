@@ -6,18 +6,16 @@ author: wjw
 path: /notes/wjw/01-25-2016/gather-and-analyze-long-term-solar-and-wind-data-for-my-locale.md
 nid: 12610
 uid: 462290
-
 cids: 13532,13811
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/799/original/2015_hhllc_araial.png)
 
 # Gather and analyze long term solar and wind data for my locale
 
-by [wjw](../../../profile/wjw) | January 25, 2016 01:09
+by [wjw](/profile/wjw) | January 25, 2016 01:09
 
-January 25, 2016 01:09 | Tags: [arduino](../tag/arduino), [wisconsin](../tag/wisconsin), [wind](../tag/wind), [monitoring](../tag/monitoring), [weather](../tag/weather), [solar](../tag/solar), [activity:arduino](../tag/activity:arduino), [activity:weather](../tag/activity:weather), [activity:wind](../tag/activity:wind), [activity:solar](../tag/activity:solar)
+January 25, 2016 01:09 | Tags: [arduino](/tag/arduino), [wisconsin](/tag/wisconsin), [wind](/tag/wind), [monitoring](/tag/monitoring), [weather](/tag/weather), [solar](/tag/solar), [activity:arduino](/tag/activity:arduino), [activity:weather](/tag/activity:weather), [activity:wind](/tag/activity:wind), [activity:solar](/tag/activity:solar)
 
 ----
 

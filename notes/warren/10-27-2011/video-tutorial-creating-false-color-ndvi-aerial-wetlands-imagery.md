@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/10-27-2011/video-tutorial-creating-false-color-ndvi-aerial-wetlands-imagery.md
 nid: 523
 uid: 1
-
 cids: 11992,12011,12962,12964,12966,12969,12970,12971,12973,12975,12986,12990,12993,12995,13051,13073,29374,29378
-
 ---
 
 ![](https://publiclab.org/sites/default/files/barataria-ndvi-falsecolor.jpg)
 
 # Video tutorial: Creating false-color NDVI with aerial wetlands imagery
 
-by [warren](../../../profile/warren) | October 27, 2011 18:52
+by [warren](/profile/warren) | October 27, 2011 18:52
 
-October 27, 2011 18:52 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [video](../tag/video), [ndvi](../tag/ndvi), [archaeology](../tag/archaeology), [gimp](../tag/gimp), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:infragram](../tag/activity:infragram), [activity:ndvi](../tag/activity:ndvi)
+October 27, 2011 18:52 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [video](/tag/video), [ndvi](/tag/ndvi), [archaeology](/tag/archaeology), [gimp](/tag/gimp), [activity:multispectral-imaging](/tag/activity:multispectral-imaging), [activity:infragram](/tag/activity:infragram), [activity:ndvi](/tag/activity:ndvi)
 
 ----
 

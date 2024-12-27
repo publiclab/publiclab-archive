@@ -6,18 +6,16 @@ author: zengirl2
 path: /notes/Zengirl2/09-01-2017/mini-pearl-logger-replication.md
 nid: 14818
 uid: 423961
-
 cids: 17301,17302,17303,17306
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/522/original/MiniPearlLit.jpg)
 
 # Mini Pearl Logger Replication
 
-by [zengirl2](../../../profile/zengirl2) | September 01, 2017 22:25
+by [zengirl2](/profile/zengirl2) | September 01, 2017 22:25
 
-September 01, 2017 22:25 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [data-logging](../tag/data-logging), [arduino-pro-mini](../tag/arduino-pro-mini), [mini-pearl-logger](../tag/mini-pearl-logger), [replication:14518](../tag/replication:14518)
+September 01, 2017 22:25 | Tags: [arduino](/tag/arduino), [sensors](/tag/sensors), [data-logging](/tag/data-logging), [arduino-pro-mini](/tag/arduino-pro-mini), [mini-pearl-logger](/tag/mini-pearl-logger), [replication:14518](/tag/replication:14518)
 
 ----
 

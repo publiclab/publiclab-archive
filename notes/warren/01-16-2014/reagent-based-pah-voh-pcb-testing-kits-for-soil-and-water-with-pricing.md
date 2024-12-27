@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/01-16-2014/reagent-based-pah-voh-pcb-testing-kits-for-soil-and-water-with-pricing.md
 nid: 9951
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/569/original/Screen_Shot_2014-01-16_at_4.22.17_PM.png)
 
 # Reagent-based PAH, VOH, PCB testing kits for soil and water, with pricing
 
-by [warren](../../../profile/warren) | January 16, 2014 21:23
+by [warren](/profile/warren) | January 16, 2014 21:23
 
-January 16, 2014 21:23 | Tags: [spectrometer](../tag/spectrometer), [field-testing](../tag/field-testing), [soil](../tag/soil), [testing](../tag/testing), [water](../tag/water), [pah](../tag/pah), [reagents](../tag/reagents), [voh](../tag/voh), [pcb](../tag/pcb), [colorimetry](../tag/colorimetry), [screen-soil](../tag/screen-soil)
+January 16, 2014 21:23 | Tags: [spectrometer](/tag/spectrometer), [field-testing](/tag/field-testing), [soil](/tag/soil), [testing](/tag/testing), [water](/tag/water), [pah](/tag/pah), [reagents](/tag/reagents), [voh](/tag/voh), [pcb](/tag/pcb), [colorimetry](/tag/colorimetry), [screen-soil](/tag/screen-soil)
 
 ----
 

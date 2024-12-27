@@ -6,18 +6,16 @@ author: edie_blues
 path: /notes/edie_blues/01-29-2019/do-you-like-this-design-for-keeping-track-of-events-and-projects.md
 nid: 18200
 uid: 552521
-
 cids: 21812,21814,21818,21819,21820,21838,21957
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/076/original/projects_v3.png)
 
 # Do you like this design for keeping track of events and projects?
 
-by [edie_blues](../../../profile/edie_blues) | January 29, 2019 07:19
+by [edie_blues](/profile/edie_blues) | January 29, 2019 07:19
 
-January 29, 2019 07:19 | Tags: [design](../tag/design), [ui](../tag/ui), [ui-designs](../tag/ui-designs)
+January 29, 2019 07:19 | Tags: [design](/tag/design), [ui](/tag/ui), [ui-designs](/tag/ui-designs)
 
 ----
 

@@ -6,16 +6,14 @@ author: Jayla_Ezidore
 path: /notes/Jayla_Ezidore/04-30-2021/building-the-community-microscope-kit.md
 nid: 26422
 uid: 754782
-
 cids: 
-
 ---
 
 # Building The Community Microscope Kit
 
-by [Jayla_Ezidore](../../../profile/Jayla_Ezidore) | April 30, 2021 18:23
+by [Jayla_Ezidore](/profile/Jayla_Ezidore) | April 30, 2021 18:23
 
-April 30, 2021 18:23 | Tags: [location:blurred](../tag/location:blurred), [first-time-poster](../tag/first-time-poster), [zoom:18](../tag/zoom:18), [zoom:17](../tag/zoom:17), [lat:30.016](../tag/lat:30.016), [lon:-90.553](../tag/lon:-90.553), [place:edgard-la-70049-united-states](../tag/place:edgard-la-70049-united-states), [lat:30.016638](../tag/lat:30.016638), [lon:-90.553088](../tag/lon:-90.553088)
+April 30, 2021 18:23 | Tags: [location:blurred](/tag/location:blurred), [first-time-poster](/tag/first-time-poster), [zoom:18](/tag/zoom:18), [zoom:17](/tag/zoom:17), [lat:30.016](/tag/lat:30.016), [lon:-90.553](/tag/lon:-90.553), [place:edgard-la-70049-united-states](/tag/place:edgard-la-70049-united-states), [lat:30.016638](/tag/lat:30.016638), [lon:-90.553088](/tag/lon:-90.553088)
 
 ----
 

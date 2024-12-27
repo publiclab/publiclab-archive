@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/02-25-2014/mobile-cuvette-holder.md
 nid: 10065
 uid: 554
-
 cids: 8339,8341,8351
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/022/original/SNOWFEST-339-26a.jpg)
 
 # Mobile cuvette holder
 
-by [cfastie](../../../profile/cfastie) | February 25, 2014 18:27
+by [cfastie](/profile/cfastie) | February 25, 2014 18:27
 
-February 25, 2014 18:27 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [cuvettes](../tag/cuvettes), [3d-printing](../tag/3d-printing), [sampling](../tag/sampling), [oil-sampling-kit](../tag/oil-sampling-kit), [smartphone](../tag/smartphone), [snowfest2014](../tag/snowfest2014), [activity:spectrometry-sampling](../tag/activity:spectrometry-sampling)
+February 25, 2014 18:27 | Tags: [spectrometer](/tag/spectrometer), [vermont](/tag/vermont), [cuvettes](/tag/cuvettes), [3d-printing](/tag/3d-printing), [sampling](/tag/sampling), [oil-sampling-kit](/tag/oil-sampling-kit), [smartphone](/tag/smartphone), [snowfest2014](/tag/snowfest2014), [activity:spectrometry-sampling](/tag/activity:spectrometry-sampling)
 
 ----
 

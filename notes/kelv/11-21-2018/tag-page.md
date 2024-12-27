@@ -6,18 +6,16 @@ author: kelv
 path: /notes/kelv/11-21-2018/tag-page.md
 nid: 17724
 uid: 553553
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/776/original/lead.png)
 
 # tag page
 
-by [kelv](../../../profile/kelv) | November 21, 2018 11:39
+by [kelv](/profile/kelv) | November 21, 2018 11:39
 
-November 21, 2018 11:39 | Tags: [first-time-poster](../tag/first-time-poster)
+November 21, 2018 11:39 | Tags: [first-time-poster](/tag/first-time-poster)
 
 ----
 

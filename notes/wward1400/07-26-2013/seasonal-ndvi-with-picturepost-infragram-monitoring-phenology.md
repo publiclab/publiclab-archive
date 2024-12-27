@@ -6,18 +6,16 @@ author: wward1400
 path: /notes/wward1400/07-26-2013/seasonal-ndvi-with-picturepost-infragram-monitoring-phenology.md
 nid: 8930
 uid: 46742
-
 cids: 6392
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/920/original/Infragram_PicturePost_SSC.png)
 
 # Seasonal NDVI with PicturePost & Infragram: Monitoring & Phenology
 
-by [wward1400](../../../profile/wward1400) | July 26, 2013 03:11
+by [wward1400](/profile/wward1400) | July 26, 2013 03:11
 
-July 26, 2013 03:11 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [nir](../tag/nir), [nasa](../tag/nasa), [community-garden](../tag/community-garden), [infragram](../tag/infragram), [picturepost](../tag/picturepost), [response:8074](../tag/response:8074), [image-analysis](../tag/image-analysis)
+July 26, 2013 03:11 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [nrg](/tag/nrg), [nir](/tag/nir), [nasa](/tag/nasa), [community-garden](/tag/community-garden), [infragram](/tag/infragram), [picturepost](/tag/picturepost), [response:8074](/tag/response:8074), [image-analysis](/tag/image-analysis)
 
 ----
 

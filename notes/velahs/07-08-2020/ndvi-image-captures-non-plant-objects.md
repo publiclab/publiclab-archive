@@ -6,16 +6,14 @@ author: velahs
 path: /notes/velahs/07-08-2020/ndvi-image-captures-non-plant-objects.md
 nid: 24118
 uid: 706471
-
 cids: 27158,27159,27161,27201,27347,27753,28299
-
 ---
 
 # NDVI Image Captures Non-Plant Objects
 
-by [velahs](../../../profile/velahs) | July 08, 2020 20:24
+by [velahs](/profile/velahs) | July 08, 2020 20:24
 
-July 08, 2020 20:24 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [question:ndvi](../tag/question:ndvi), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [question:infragram](../tag/question:infragram), [question:infrared](../tag/question:infrared), [raspberrypi](../tag/raspberrypi), [first-time-poster](../tag/first-time-poster), [bluefilter](../tag/bluefilter), [automatedfieldphenomics](../tag/automatedfieldphenomics)
+July 08, 2020 20:24 | Tags: [ndvi](/tag/ndvi), [infrared](/tag/infrared), [infragram](/tag/infragram), [question:ndvi](/tag/question:ndvi), [barnstar:photo-documentation](/tag/barnstar:photo-documentation), [question:infragram](/tag/question:infragram), [question:infrared](/tag/question:infrared), [raspberrypi](/tag/raspberrypi), [first-time-poster](/tag/first-time-poster), [bluefilter](/tag/bluefilter), [automatedfieldphenomics](/tag/automatedfieldphenomics)
 
 ----
 

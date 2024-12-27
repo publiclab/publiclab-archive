@@ -6,18 +6,16 @@ author: kgradow1
 path: /notes/kgradow1/09-26-2020/host-a-community-meeting-to-discuss-your-air-sampling-goals.md
 nid: 24655
 uid: 297929
-
 cids: 27414,27417,27420,27431,27915,27916
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/996/original/Screen_Shot_2020-09-26_at_12.44.37_AM.png)
 
 # How to host a community meeting
 
-by [kgradow1](../../../profile/kgradow1) | September 26, 2020 05:11
+by [kgradow1](/profile/kgradow1) | September 26, 2020 05:11
 
-September 26, 2020 05:11 | Tags: [organizing](../tag/organizing), [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [new](../tag/new), [getting-started](../tag/getting-started), [draft](../tag/draft), [community-organizing](../tag/community-organizing), [activity:air-quality](../tag/activity:air-quality), [air-sampling](../tag/air-sampling), [activity:community-organizing](../tag/activity:community-organizing), [activity:new](../tag/activity:new), [lon:-71](../tag/lon:-71), [lat:42](../tag/lat:42), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor), [activity:air-sampling](../tag/activity:air-sampling), [activity:bucket-monitor](../tag/activity:bucket-monitor), [community-meeting](../tag/community-meeting), [activity:organizing](../tag/activity:organizing)
+September 26, 2020 05:11 | Tags: [organizing](/tag/organizing), [air-quality](/tag/air-quality), [bucket-brigade](/tag/bucket-brigade), [new](/tag/new), [getting-started](/tag/getting-started), [draft](/tag/draft), [community-organizing](/tag/community-organizing), [activity:air-quality](/tag/activity:air-quality), [air-sampling](/tag/air-sampling), [activity:community-organizing](/tag/activity:community-organizing), [activity:new](/tag/activity:new), [lon:-71](/tag/lon:-71), [lat:42](/tag/lat:42), [zoom:6](/tag/zoom:6), [bucket-monitor](/tag/bucket-monitor), [activity:air-sampling](/tag/activity:air-sampling), [activity:bucket-monitor](/tag/activity:bucket-monitor), [community-meeting](/tag/community-meeting), [activity:organizing](/tag/activity:organizing)
 
 ----
 

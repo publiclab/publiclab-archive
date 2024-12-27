@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/1-26-2011/focus-shift-bifocal-filter.md
 nid: 61
 uid: 1
-
 cids: 1234
-
 ---
 
 ![](https://publiclab.org/sites/default/files/GEDC4109.JPG)
 
 # Focus shift in bifocal filter?
 
-by [warren](../../../profile/warren) | January 26, 2011 05:05
+by [warren](/profile/warren) | January 26, 2011 05:05
 
-January 26, 2011 05:05 | Tags: [lima](../tag/lima), [near-infrared-camera](../tag/near-infrared-camera), [peru](../tag/peru)
+January 26, 2011 05:05 | Tags: [lima](/tag/lima), [near-infrared-camera](/tag/near-infrared-camera), [peru](/tag/peru)
 
 ----
 

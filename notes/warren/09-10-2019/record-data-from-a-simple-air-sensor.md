@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/09-10-2019/record-data-from-a-simple-air-sensor.md
 nid: 20818
 uid: 1
-
 cids: 25474,26031,26032,26034
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/200/original/IMG_20190910_173314_867.jpg)
 
 # Record data from a Simple Air Sensor
 
-by [warren](../../../profile/warren) | September 10, 2019 21:32
+by [warren](/profile/warren) | September 10, 2019 21:32
 
-September 10, 2019 21:32 | Tags: [air-quality](../tag/air-quality), [seeks:replications](../tag/seeks:replications), [data-logging](../tag/data-logging), [simple-air-sensor](../tag/simple-air-sensor), [activity:simple-air-sensor](../tag/activity:simple-air-sensor), [simple-air-sensor-data](../tag/simple-air-sensor-data)
+September 10, 2019 21:32 | Tags: [air-quality](/tag/air-quality), [seeks:replications](/tag/seeks:replications), [data-logging](/tag/data-logging), [simple-air-sensor](/tag/simple-air-sensor), [activity:simple-air-sensor](/tag/activity:simple-air-sensor), [simple-air-sensor-data](/tag/simple-air-sensor-data)
 
 ----
 

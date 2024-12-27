@@ -6,18 +6,16 @@ author: sara
 path: /notes/Sara/01-02-2014/talk-at-national-institute-of-environmental-health-science-niehs.md
 nid: 9920
 uid: 8
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/474/original/Screen_Shot_2014-01-02_at_11.04.04_AM.png)
 
 # Talk at National Institute of Environmental Health Science (NIEHS)
 
-by [sara](../../../profile/sara) | January 02, 2014 16:10
+by [sara](/profile/sara) | January 02, 2014 16:10
 
-January 02, 2014 16:10 | Tags: [boston](../tag/boston)
+January 02, 2014 16:10 | Tags: [boston](/tag/boston)
 
 ----
 

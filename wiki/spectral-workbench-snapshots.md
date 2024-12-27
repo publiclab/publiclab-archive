@@ -6,14 +6,14 @@ author: warren
 path: /wiki/spectral-workbench-snapshots.md
 nid: 12474
 uid: 1
-
+cids: 
 ---
 
 # Spectral Workbench Snapshots
 
-by [larsonreever](../profile/larsonreever), [warren](../profile/warren)
+by [larsonreever](/profile/larsonreever), [warren](/profile/warren)
 
-December 03, 2015 21:11 | Tags: [software](../tag/software), [spectral-workbench](../tag/spectral-workbench), [parent:spectral-workbench](../tag/parent:spectral-workbench), [data-management](../tag/data-management), [versioning](../tag/versioning), [151](../tag/151)
+December 03, 2015 21:11 | Tags: [software](/tag/software), [spectral-workbench](/tag/spectral-workbench), [parent:spectral-workbench](/tag/parent:spectral-workbench), [data-management](/tag/data-management), [versioning](/tag/versioning), [151](/tag/151)
 
 ----
 

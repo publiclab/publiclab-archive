@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/04-15-2014/pierre-s-plastic-picavet.md
 nid: 10311
 uid: 554
-
 cids: 9329,9330
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/665/original/3Dstore-363-73.jpg)
 
 # Pierre's plastic Picavet
 
-by [cfastie](../../../profile/cfastie) | April 15, 2014 16:19
+by [cfastie](/profile/cfastie) | April 15, 2014 16:19
 
-April 15, 2014 16:19 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [picavet](../tag/picavet), [kap](../tag/kap), [3d-printing](../tag/3d-printing), [makerbot](../tag/makerbot), [response:10230](../tag/response:10230), [titan](../tag/titan), [redstone](../tag/redstone)
+April 15, 2014 16:19 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [vermont](/tag/vermont), [picavet](/tag/picavet), [kap](/tag/kap), [3d-printing](/tag/3d-printing), [makerbot](/tag/makerbot), [response:10230](/tag/response:10230), [titan](/tag/titan), [redstone](/tag/redstone)
 
 ----
 

@@ -6,16 +6,14 @@ author: tonyc
 path: /notes/tonyc/12-14-2015/chosing-a-mobius-camera-to-offer-through-kits-store.md
 nid: 12517
 uid: 447491
-
 cids: 13104,13106,13107,13108,13187
-
 ---
 
 # chosing a mobius camera to offer through kits store
 
-by [tonyc](../../../profile/tonyc) | December 14, 2015 19:06
+by [tonyc](/profile/tonyc) | December 14, 2015 19:06
 
-December 14, 2015 19:06 | Tags: [mapping](../tag/mapping), [aerial](../tag/aerial), [mobius](../tag/mobius), [nonfisheye](../tag/nonfisheye)
+December 14, 2015 19:06 | Tags: [mapping](/tag/mapping), [aerial](/tag/aerial), [mobius](/tag/mobius), [nonfisheye](/tag/nonfisheye)
 
 ----
 

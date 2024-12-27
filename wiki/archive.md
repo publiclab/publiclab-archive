@@ -6,12 +6,12 @@ author: warren
 path: /wiki/archive.md
 nid: 267
 uid: 1
-
+cids: 
 ---
 
 # The PLOTS Archive
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 May 23, 2011 21:35 | Tags: 
 

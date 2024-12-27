@@ -6,18 +6,16 @@ author: Girija0707
 path: /notes/Girija0707/04-16-2022/outreachy-proposal-design-a-new-full-screen-user-interface-for-infragram-org.md
 nid: 30441
 uid: 795457
-
 cids: 30017,30026,30029,30067,30097,30098,30099
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/294/original/Infragram_%281%29.png)
 
 # Outreachy proposal: Design a new full-screen user interface for Infragram.org
 
-by [Girija0707](../../../profile/Girija0707) | April 16, 2022 18:05
+by [Girija0707](/profile/Girija0707) | April 16, 2022 18:05
 
-April 16, 2022 18:05 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [lat:20.593684](../tag/lat:20.593684), [lon:78.96288](../tag/lon:78.96288), [zoom:6](../tag/zoom:6), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
+April 16, 2022 18:05 | Tags: [software](/tag/software), [outreachy](/tag/outreachy), [first-time-poster](/tag/first-time-poster), [lat:20.593684](/tag/lat:20.593684), [lon:78.96288](/tag/lon:78.96288), [zoom:6](/tag/zoom:6), [outreachy-2022](/tag/outreachy-2022), [outreachy-summer-2022](/tag/outreachy-summer-2022)
 
 ----
 

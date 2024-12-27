@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/3-23-2012/working-auto-camera-triggering.md
 nid: 1533
 uid: 1
-
 cids: 551,11419
-
 ---
 
 ![](https://publiclab.org/sites/default/files/camera-triggering.png)
 
 # Working auto camera triggering
 
-by [warren](../../../profile/warren) | March 23, 2012 18:57
+by [warren](/profile/warren) | March 23, 2012 18:57
 
-March 23, 2012 18:57 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
+March 23, 2012 18:57 | Tags: [near-infrared-camera](/tag/near-infrared-camera)
 
 ----
 

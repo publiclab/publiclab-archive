@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/5-1-2012/article-difference-between-scientific-evidence-and-scientific-method.md
 nid: 1873
 uid: 1
-
 cids: 
-
 ---
 
 # Article: "The Difference Between Scientific Evidence And The Scientific Method"
 
-by [warren](../../../profile/warren) | May 01, 2012 18:18
+by [warren](/profile/warren) | May 01, 2012 18:18
 
-May 01, 2012 18:18 | Tags: [evidence](../tag/evidence), [legal](../tag/legal), [law-and-policy](../tag/law-and-policy)
+May 01, 2012 18:18 | Tags: [evidence](/tag/evidence), [legal](/tag/legal), [law-and-policy](/tag/law-and-policy)
 
 ----
 

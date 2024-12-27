@@ -6,16 +6,14 @@ author: natdep
 path: /notes/natdep/11-15-2015/a-fish-name-d-will-depue.md
 nid: 12412
 uid: 456410
-
 cids: 12903
-
 ---
 
 # a fish name d will depue
 
-by [natdep](../../../profile/natdep) | November 15, 2015 04:13
+by [natdep](/profile/natdep) | November 15, 2015 04:13
 
-November 15, 2015 04:13 | Tags: [mapknitter](../tag/mapknitter), [lat:34.0539038849](../tag/lat:34.0539038849), [lon:-118.5403883457](../tag/lon:-118.5403883457)
+November 15, 2015 04:13 | Tags: [mapknitter](/tag/mapknitter), [lat:34.0539038849](/tag/lat:34.0539038849), [lon:-118.5403883457](/tag/lon:-118.5403883457)
 
 ----
 

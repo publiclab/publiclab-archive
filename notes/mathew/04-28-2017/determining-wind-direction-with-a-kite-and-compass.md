@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/04-28-2017/determining-wind-direction-with-a-kite-and-compass.md
 nid: 14148
 uid: 4
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/259/original/IMG_7783.jpg)
 
 # Determining wind direction with a kite and compass
 
-by [mathew](../../../profile/mathew) | April 28, 2017 21:57
+by [mathew](/profile/mathew) | April 28, 2017 21:57
 
-April 28, 2017 21:57 | Tags: [kite-mapping](../tag/kite-mapping), [anemometer](../tag/anemometer), [wind-speed-meter](../tag/wind-speed-meter), [with:gretchengehrke](../tag/with:gretchengehrke), [kite-anemometer](../tag/kite-anemometer), [with:marlokeno](../tag/with:marlokeno), [activity:kite-anemometer](../tag/activity:kite-anemometer), [wind-speed](../tag/wind-speed), [activity:wind-speed](../tag/activity:wind-speed)
+April 28, 2017 21:57 | Tags: [kite-mapping](/tag/kite-mapping), [anemometer](/tag/anemometer), [wind-speed-meter](/tag/wind-speed-meter), [with:gretchengehrke](/tag/with:gretchengehrke), [kite-anemometer](/tag/kite-anemometer), [with:marlokeno](/tag/with:marlokeno), [activity:kite-anemometer](/tag/activity:kite-anemometer), [wind-speed](/tag/wind-speed), [activity:wind-speed](/tag/activity:wind-speed)
 
 ----
 

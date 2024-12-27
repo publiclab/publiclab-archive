@@ -6,12 +6,12 @@ author: warren
 path: /wiki/votes.md
 nid: 508
 uid: 1
-
+cids: 
 ---
 
 # Votes
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 October 14, 2011 16:37 | Tags: 
 

@@ -6,18 +6,16 @@ author: maxliboiron
 path: /notes/maxliboiron/07-17-2018/how-to-use-babylegs.md
 nid: 16735
 uid: 310707
-
 cids: 20180,20181
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/702/original/25735.png)
 
 # How to use BabyLegs
 
-by [maxliboiron](../../../profile/maxliboiron) | July 17, 2018 22:13
+by [maxliboiron](/profile/maxliboiron) | July 17, 2018 22:13
 
-July 17, 2018 22:13 | Tags: [kits](../tag/kits), [seeks:replications](../tag/seeks:replications), [micro-plastics](../tag/micro-plastics), [community-kits](../tag/community-kits), [microplastics](../tag/microplastics), [babylegs](../tag/babylegs), [activity:babylegs](../tag/activity:babylegs), [trawling](../tag/trawling), [trawl](../tag/trawl), [activity:microplastics](../tag/activity:microplastics)
+July 17, 2018 22:13 | Tags: [kits](/tag/kits), [seeks:replications](/tag/seeks:replications), [micro-plastics](/tag/micro-plastics), [community-kits](/tag/community-kits), [microplastics](/tag/microplastics), [babylegs](/tag/babylegs), [activity:babylegs](/tag/activity:babylegs), [trawling](/tag/trawling), [trawl](/tag/trawl), [activity:microplastics](/tag/activity:microplastics)
 
 ----
 

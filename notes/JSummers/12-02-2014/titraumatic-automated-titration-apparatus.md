@@ -6,18 +6,16 @@ author: JSummers
 path: /notes/JSummers/12-02-2014/titraumatic-automated-titration-apparatus.md
 nid: 11418
 uid: 304279
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/175/original/Titraumatic1b-11-30-14.png)
 
 # Titraumatic: An apparatus for automated pH titration.
 
-by [JSummers](../../../profile/JSummers) | December 02, 2014 01:49
+by [JSummers](/profile/JSummers) | December 02, 2014 01:49
 
-December 02, 2014 01:49 | Tags: [response:9421](../tag/response:9421), [ph](../tag/ph), [titraumatic](../tag/titraumatic), [titration](../tag/titration)
+December 02, 2014 01:49 | Tags: [response:9421](/tag/response:9421), [ph](/tag/ph), [titraumatic](/tag/titraumatic), [titration](/tag/titration)
 
 ----
 

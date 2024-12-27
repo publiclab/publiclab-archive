@@ -6,18 +6,16 @@ author: lach_myers
 path: /notes/lach_myers/07-08-2018/lego-spectrometer-publiclab-design.md
 nid: 16660
 uid: 425849
-
 cids: 20034,20035,20092,20093,20094,20102,20108,20147,20282,20283,20292
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/510/original/P1020358a.jpg)
 
 # Lego spectrometer - Publiclab design
 
-by [lach_myers](../../../profile/lach_myers) | July 08, 2018 13:30
+by [lach_myers](/profile/lach_myers) | July 08, 2018 13:30
 
-July 08, 2018 13:30 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [fluorescence](../tag/fluorescence), [raspberry-pi](../tag/raspberry-pi), [lego](../tag/lego), [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer), [lego-spectrometer](../tag/lego-spectrometer), [response:15360](../tag/response:15360), [replication:15360](../tag/replication:15360)
+July 08, 2018 13:30 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [fluorescence](/tag/fluorescence), [raspberry-pi](/tag/raspberry-pi), [lego](/tag/lego), [raspberry-pi-spectrometer](/tag/raspberry-pi-spectrometer), [lego-spectrometer](/tag/lego-spectrometer), [response:15360](/tag/response:15360), [replication:15360](/tag/replication:15360)
 
 ----
 

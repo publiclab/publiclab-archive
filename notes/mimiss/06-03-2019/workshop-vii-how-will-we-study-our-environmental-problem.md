@@ -6,18 +6,16 @@ author: mimiss
 path: /notes/mimiss/06-03-2019/workshop-vii-how-will-we-study-our-environmental-problem.md
 nid: 19606
 uid: 579821
-
 cids: 28351
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/697/original/NAS_Community_Science_in_the_Classroom_Overview.png)
 
 # Workshop VII: How will we study our environmental problem?
 
-by [mimiss](../../../profile/mimiss) | June 03, 2019 22:46
+by [mimiss](/profile/mimiss) | June 03, 2019 22:46
 
-June 03, 2019 22:46 | Tags: [education](../tag/education), [workshop](../tag/workshop), [curriculum](../tag/curriculum), [activity:education](../tag/activity:education), [study-design](../tag/study-design), [lesson](../tag/lesson), [parent:student-led-community-science-in-the-classroom-a-curriculum](../tag/parent:student-led-community-science-in-the-classroom-a-curriculum), [activity:student-community-science](../tag/activity:student-community-science), [with:purl](../tag/with:purl)
+June 03, 2019 22:46 | Tags: [education](/tag/education), [workshop](/tag/workshop), [curriculum](/tag/curriculum), [activity:education](/tag/activity:education), [study-design](/tag/study-design), [lesson](/tag/lesson), [parent:student-led-community-science-in-the-classroom-a-curriculum](/tag/parent:student-led-community-science-in-the-classroom-a-curriculum), [activity:student-community-science](/tag/activity:student-community-science), [with:purl](/tag/with:purl)
 
 ----
 

@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/1-13-2012/new-whistleblower-website-promises-transparency-appalachia.md
 nid: 686
 uid: 1
-
 cids: 
-
 ---
 
 # New Whistleblower Website Promises Transparency in Appalachia
 
-by [warren](../../../profile/warren) | January 13, 2012 19:55
+by [warren](/profile/warren) | January 13, 2012 19:55
 
-January 13, 2012 19:55 | Tags: [southeast](../tag/southeast), [appalachia](../tag/appalachia)
+January 13, 2012 19:55 | Tags: [southeast](/tag/southeast), [appalachia](/tag/appalachia)
 
 ----
 

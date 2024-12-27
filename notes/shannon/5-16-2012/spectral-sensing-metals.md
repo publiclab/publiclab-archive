@@ -6,16 +6,14 @@ author: Shannon
 path: /notes/shannon/5-16-2012/spectral-sensing-metals.md
 nid: 2007
 uid: 9
-
 cids: 
-
 ---
 
 # Spectral sensing for metals
 
-by [Shannon](../../../profile/Shannon) | May 16, 2012 04:14
+by [Shannon](/profile/Shannon) | May 16, 2012 04:14
 
-May 16, 2012 04:14 | Tags: [spectrometer](../tag/spectrometer), [air-column-monitor](../tag/air-column-monitor), [xrf](../tag/xrf)
+May 16, 2012 04:14 | Tags: [spectrometer](/tag/spectrometer), [air-column-monitor](/tag/air-column-monitor), [xrf](/tag/xrf)
 
 ----
 

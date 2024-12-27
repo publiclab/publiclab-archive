@@ -6,18 +6,16 @@ author: nanocastro
 path: /notes/nanocastro/04-17-2019/first-experiment-with-the-wheestat-quercetin.md
 nid: 19092
 uid: 506212
-
 cids: 23929,23951,23959,23965
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/595/original/20190312_120521.jpg)
 
 # First experiment with the WheeStat - Quercetin
 
-by [nanocastro](../../../profile/nanocastro) | April 17, 2019 20:45
+by [nanocastro](/profile/nanocastro) | April 17, 2019 20:45
 
-April 17, 2019 20:45 | Tags: [potentiostat](../tag/potentiostat), [wheestat](../tag/wheestat), [food-quality](../tag/food-quality), [activity:potentiostat](../tag/activity:potentiostat), [potenciostat](../tag/potenciostat), [lat:-32.934928](../tag/lat:-32.934928), [lon:-68.818875](../tag/lon:-68.818875), [activity:wheestat](../tag/activity:wheestat)
+April 17, 2019 20:45 | Tags: [potentiostat](/tag/potentiostat), [wheestat](/tag/wheestat), [food-quality](/tag/food-quality), [activity:potentiostat](/tag/activity:potentiostat), [potenciostat](/tag/potenciostat), [lat:-32.934928](/tag/lat:-32.934928), [lon:-68.818875](/tag/lon:-68.818875), [activity:wheestat](/tag/activity:wheestat)
 
 ----
 

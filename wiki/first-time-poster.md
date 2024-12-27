@@ -6,16 +6,16 @@ author: warren
 path: /wiki/first-time-poster.md
 nid: 17444
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/372/original/OI000153_copy1_copy.jpg)
 
 # First-time posters
 
-by [fongvania](../profile/fongvania), [bhamster](../profile/bhamster), [joyofsoy](../profile/joyofsoy), [warren](../profile/warren)
+by [fongvania](/profile/fongvania), [bhamster](/profile/bhamster), [joyofsoy](/profile/joyofsoy), [warren](/profile/warren)
 
-October 31, 2018 13:49 | Tags: [community](../tag/community), [parent:welcome](../tag/parent:welcome), [first-time-poster](../tag/first-time-poster)
+October 31, 2018 13:49 | Tags: [community](/tag/community), [parent:welcome](/tag/parent:welcome), [first-time-poster](/tag/first-time-poster)
 
 ----
 

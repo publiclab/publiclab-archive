@@ -6,16 +6,14 @@ author: xmv79667
 path: /notes/xmv79667/01-03-2020/how-to-do-the-white-balancing-for-the-red-filter.md
 nid: 22208
 uid: 641890
-
 cids: 26087
-
 ---
 
 # How to do the white-balancing for the RED filter?
 
-by [xmv79667](../../../profile/xmv79667) | January 03, 2020 10:34
+by [xmv79667](/profile/xmv79667) | January 03, 2020 10:34
 
-January 03, 2020 10:34 | Tags: [ndvi](../tag/ndvi), [infragram](../tag/infragram), [rosco](../tag/rosco), [canon](../tag/canon), [question:infragram](../tag/question:infragram), [filters](../tag/filters), [first-time-poster](../tag/first-time-poster), [question:filters](../tag/question:filters)
+January 03, 2020 10:34 | Tags: [ndvi](/tag/ndvi), [infragram](/tag/infragram), [rosco](/tag/rosco), [canon](/tag/canon), [question:infragram](/tag/question:infragram), [filters](/tag/filters), [first-time-poster](/tag/first-time-poster), [question:filters](/tag/question:filters)
 
 ----
 

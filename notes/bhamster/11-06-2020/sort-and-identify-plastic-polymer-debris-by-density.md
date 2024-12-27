@@ -6,18 +6,16 @@ author: bhamster
 path: /notes/bhamster/11-06-2020/sort-and-identify-plastic-polymer-debris-by-density.md
 nid: 24709
 uid: 664477
-
 cids: 27674
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/079/original/RIC.png)
 
 # Sort and identify plastic polymer debris by density
 
-by [bhamster](../../../profile/bhamster) | November 06, 2020 17:01
+by [bhamster](/profile/bhamster) | November 06, 2020 17:01
 
-November 06, 2020 17:01 | Tags: [micro-plastics](../tag/micro-plastics), [microplastics](../tag/microplastics), [plastics](../tag/plastics), [polymers](../tag/polymers), [plastic](../tag/plastic), [activity:microplastics](../tag/activity:microplastics), [marine-debris](../tag/marine-debris), [plastic-pollution](../tag/plastic-pollution), [method:microplastics](../tag/method:microplastics)
+November 06, 2020 17:01 | Tags: [micro-plastics](/tag/micro-plastics), [microplastics](/tag/microplastics), [plastics](/tag/plastics), [polymers](/tag/polymers), [plastic](/tag/plastic), [activity:microplastics](/tag/activity:microplastics), [marine-debris](/tag/marine-debris), [plastic-pollution](/tag/plastic-pollution), [method:microplastics](/tag/method:microplastics)
 
 ----
 

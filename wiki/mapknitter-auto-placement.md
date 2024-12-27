@@ -6,14 +6,14 @@ author: warren
 path: /wiki/mapknitter-auto-placement.md
 nid: 10596
 uid: 1
-
+cids: 
 ---
 
 # MapKnitter Auto-placement
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-June 20, 2014 17:11 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [auto-knitting](../tag/auto-knitting), [auto-placement](../tag/auto-placement)
+June 20, 2014 17:11 | Tags: [mapknitter](/tag/mapknitter), [gsoc](/tag/gsoc), [gsoc-2014](/tag/gsoc-2014), [auto-knitting](/tag/auto-knitting), [auto-placement](/tag/auto-placement)
 
 ----
 

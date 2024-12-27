@@ -6,16 +6,14 @@ author: ChristineColeman
 path: /notes/ChristineColeman/04-11-2019/education.md
 nid: 19037
 uid: 580300
-
 cids: 23890,24061
-
 ---
 
 # Education 
 
-by [ChristineColeman](../../../profile/ChristineColeman) | April 11, 2019 13:13
+by [ChristineColeman](/profile/ChristineColeman) | April 11, 2019 13:13
 
-April 11, 2019 13:13 | Tags: [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster)
+April 11, 2019 13:13 | Tags: [question:general](/tag/question:general), [first-time-poster](/tag/first-time-poster)
 
 ----
 

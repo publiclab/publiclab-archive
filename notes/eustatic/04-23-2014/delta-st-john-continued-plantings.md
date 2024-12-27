@@ -6,18 +6,16 @@ author: eustatic
 path: /04-23-2014/delta-st-john-continued-plantings.md
 nid: 10344
 uid: 379
-
 cids: 8858,8859,8860,8861,8864,8866
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/813/original/d_IMG_9255.JPG)
 
 # Delta St John: continued plantings
 
-by [eustatic](../../../profile/eustatic) | April 23, 2014 01:02
+by [eustatic](/profile/eustatic) | April 23, 2014 01:02
 
-April 23, 2014 01:02 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [louisiana](../tag/louisiana), [eustatic](../tag/eustatic), [dredgefestla](../tag/dredgefestla), [bsj](../tag/bsj), [bayou-st-john](../tag/bayou-st-john), [response:10189](../tag/response:10189), [dredgefest](../tag/dredgefest)
+April 23, 2014 01:02 | Tags: [gulf-coast](/tag/gulf-coast), [kite-mapping](/tag/kite-mapping), [wetlands](/tag/wetlands), [louisiana](/tag/louisiana), [eustatic](/tag/eustatic), [dredgefestla](/tag/dredgefestla), [bsj](/tag/bsj), [bayou-st-john](/tag/bayou-st-john), [response:10189](/tag/response:10189), [dredgefest](/tag/dredgefest)
 
 ----
 

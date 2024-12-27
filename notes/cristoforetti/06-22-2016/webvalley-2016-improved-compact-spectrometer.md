@@ -6,18 +6,16 @@ author: cristoforetti
 path: /notes/cristoforetti/06-22-2016/webvalley-2016-improved-compact-spectrometer.md
 nid: 13225
 uid: 470966
-
 cids: 14783,14785,14805,14806,14808,14827,14830
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/710/original/pl2.jpg)
 
 # WebValley 2016: improved compact spectrometer
 
-by [cristoforetti](../../../profile/cristoforetti) | June 22, 2016 12:38
+by [cristoforetti](/profile/cristoforetti) | June 22, 2016 12:38
 
-June 22, 2016 12:38 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [raspberry-pi](../tag/raspberry-pi), [italy](../tag/italy), [portable](../tag/portable), [webvalley](../tag/webvalley), [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer)
+June 22, 2016 12:38 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [raspberry-pi](/tag/raspberry-pi), [italy](/tag/italy), [portable](/tag/portable), [webvalley](/tag/webvalley), [raspberry-pi-spectrometer](/tag/raspberry-pi-spectrometer)
 
 ----
 

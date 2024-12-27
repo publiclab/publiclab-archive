@@ -6,14 +6,12 @@ author: Shannon
 path: /notes/shannon/11-5-2011/oil-and-industry-special-issue.md
 nid: 545
 uid: 9
-
 cids: 
-
 ---
 
 # Oil and Industry special issue
 
-by [Shannon](../../../profile/Shannon) | November 06, 2011 01:48
+by [Shannon](/profile/Shannon) | November 06, 2011 01:48
 
 November 06, 2011 01:48 | Tags: 
 

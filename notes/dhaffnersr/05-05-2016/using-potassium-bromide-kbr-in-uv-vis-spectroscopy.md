@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/05-05-2016/using-potassium-bromide-kbr-in-uv-vis-spectroscopy.md
 nid: 13077
 uid: 461120
-
 cids: 14539
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/960/original/fluoro_in_acetone_may4.png)
 
 # Using Potassium Bromide (KBr) in UV/VIS spectroscopy
 
-by [dhaffnersr](../../../profile/dhaffnersr) | May 05, 2016 09:18
+by [dhaffnersr](/profile/dhaffnersr) | May 05, 2016 09:18
 
 May 05, 2016 09:18 | Tags: 
 

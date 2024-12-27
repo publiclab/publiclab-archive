@@ -6,18 +6,16 @@ author: TheChessGym
 path: /notes/TheChessGym/03-15-2022/the-formation-and-beginning-of-public-lab.md
 nid: 30130
 uid: 788868
-
 cids: 29800,29801,29804,29829
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/520/original/Mississippi_River.jpg)
 
 # The Formation and Beginning of "Public Lab" 
 
-by [TheChessGym](../../../profile/TheChessGym) | March 15, 2022 14:39
+by [TheChessGym](/profile/TheChessGym) | March 15, 2022 14:39
 
-March 15, 2022 14:39 | Tags: [microplastics](../tag/microplastics), [zoom:6](../tag/zoom:6), [lat:22.004174](../tag/lat:22.004174), [lon:76.003417](../tag/lon:76.003417)
+March 15, 2022 14:39 | Tags: [microplastics](/tag/microplastics), [zoom:6](/tag/zoom:6), [lat:22.004174](/tag/lat:22.004174), [lon:76.003417](/tag/lon:76.003417)
 
 ----
 

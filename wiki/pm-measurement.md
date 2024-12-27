@@ -6,12 +6,12 @@ author: mathew
 path: /wiki/pm-measurement.md
 nid: 12571
 uid: 4
-
+cids: 
 ---
 
 # pm-measurement
 
-by [mathew](../profile/mathew)
+by [mathew](/profile/mathew)
 
 January 08, 2016 00:07 | Tags: 
 

@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/06-12-2015/saturn-v-at-crown-point.md
 nid: 11975
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/323/original/CPFort-627-119.jpg)
 
 # Saturn V at Crown Point
 
-by [cfastie](../../../profile/cfastie) | June 12, 2015 04:55
+by [cfastie](/profile/cfastie) | June 12, 2015 04:55
 
-June 12, 2015 04:55 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [kap](../tag/kap), [autokap](../tag/autokap), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [response:11900](../tag/response:11900), [half-spherical](../tag/half-spherical)
+June 12, 2015 04:55 | Tags: [kite-aerial-photography](/tag/kite-aerial-photography), [kap](/tag/kap), [autokap](/tag/autokap), [kaptery](/tag/kaptery), [saturnv](/tag/saturnv), [skyshield](/tag/skyshield), [response:11900](/tag/response:11900), [half-spherical](/tag/half-spherical)
 
 ----
 

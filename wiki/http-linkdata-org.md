@@ -6,14 +6,14 @@ author: davidgifford
 path: /wiki/http-linkdata-org.md
 nid: 6970
 uid: 58526
-
+cids: 
 ---
 
 # http://LinkData.org
 
-by [davidgifford](../profile/davidgifford)
+by [davidgifford](/profile/davidgifford)
 
-April 22, 2013 06:35 | Tags: [database](../tag/database), [standards](../tag/standards), [lod](../tag/lod), [rdf](../tag/rdf), [data](../tag/data)
+April 22, 2013 06:35 | Tags: [database](/tag/database), [standards](/tag/standards), [lod](/tag/lod), [rdf](/tag/rdf), [data](/tag/data)
 
 ----
 

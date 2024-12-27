@@ -6,18 +6,16 @@ author: klie
 path: /notes/klie/12-02-2015/native-plants-workshop-this-saturday-w-groundworks-nola.md
 nid: 12470
 uid: 441262
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/144/original/Screen_Shot_2015-12-02_at_11.14.48_AM.png)
 
 # Native Plants Workshop THIS Saturday w/ Groundwork NOLA
 
-by [klie](../../../profile/klie) | December 02, 2015 17:28
+by [klie](/profile/klie) | December 02, 2015 17:28
 
-December 02, 2015 17:28 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [event:rsvp](../tag/event:rsvp), [date:12-05-2015](../tag/date:12-05-2015), [location:neworleans](../tag/location:neworleans)
+December 02, 2015 17:28 | Tags: [gulf-coast](/tag/gulf-coast), [event](/tag/event), [event:rsvp](/tag/event:rsvp), [date:12-05-2015](/tag/date:12-05-2015), [location:neworleans](/tag/location:neworleans)
 
 ----
 

@@ -6,16 +6,16 @@ author: gonzoearth
 path: /wiki/mapknitter.md
 nid: 467
 uid: 12
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/086/original/Screenshot_2018-06-03_at_5.38.49_PM.png)
 
 # MapKnitter
 
-by [jmacha](../profile/jmacha), [liz](../profile/liz), [warren](../profile/warren), [GFFchris](../profile/GFFchris), [stevie](../profile/stevie), [freshcleaning15](../profile/freshcleaning15), [gonzoearth](../profile/gonzoearth), [Ariana16](../profile/Ariana16)
+by [jmacha](/profile/jmacha), [liz](/profile/liz), [warren](/profile/warren), [GFFchris](/profile/GFFchris), [stevie](/profile/stevie), [freshcleaning15](/profile/freshcleaning15), [gonzoearth](/profile/gonzoearth), [Ariana16](/profile/Ariana16)
 
-September 15, 2011 00:31 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [gps](../tag/gps), [software](../tag/software), [needs-revision](../tag/needs-revision), [tool](../tag/tool), [gps-autoplace](../tag/gps-autoplace), [method](../tag/method), [location:blurred](../tag/location:blurred), [lat:1](../tag/lat:1), [activities:mapknitter](../tag/activities:mapknitter), [questions:mapknitter](../tag/questions:mapknitter), [lon:9](../tag/lon:9)
+September 15, 2011 00:31 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [mapknitter](/tag/mapknitter), [gps](/tag/gps), [software](/tag/software), [needs-revision](/tag/needs-revision), [tool](/tag/tool), [gps-autoplace](/tag/gps-autoplace), [method](/tag/method), [location:blurred](/tag/location:blurred), [lat:1](/tag/lat:1), [activities:mapknitter](/tag/activities:mapknitter), [questions:mapknitter](/tag/questions:mapknitter), [lon:9](/tag/lon:9)
 
 ----
 
@@ -50,13 +50,13 @@ Learn more about [exporting maps in MapKnitter here](/mapknitter-exporting).
 
 ## Activities
 
-[mapknitter](../../tag/activity:mapknitter)
+[mapknitter](/tag/activity:mapknitter)
 
 ****
  
 ## Questions
 
-[mapknitter](../../tag/question:mapknitter)
+[mapknitter](/tag/question:mapknitter)
 
 ****
 

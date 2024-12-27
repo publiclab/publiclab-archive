@@ -6,18 +6,16 @@ author: jvanecek
 path: /notes/jvanecek/02-18-2016/melvin-price-locks-dam_balloon-mapping.md
 nid: 12711
 uid: 465990
-
 cids: 13667,13674
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/385/original/Mel_Price_1_Fave.png)
 
 # Melvin Price Locks and Dam_Balloon Mapping
 
-by [jvanecek](../../../profile/jvanecek) | February 18, 2016 20:47
+by [jvanecek](/profile/jvanecek) | February 18, 2016 20:47
 
-February 18, 2016 20:47 | Tags: [mapknitter](../tag/mapknitter), [lat:38.8663188149](../tag/lat:38.8663188149), [lon:-90.1548171043](../tag/lon:-90.1548171043), [publiclabriverratpack](../tag/publiclabriverratpack)
+February 18, 2016 20:47 | Tags: [mapknitter](/tag/mapknitter), [lat:38.8663188149](/tag/lat:38.8663188149), [lon:-90.1548171043](/tag/lon:-90.1548171043), [publiclabriverratpack](/tag/publiclabriverratpack)
 
 ----
 

@@ -6,18 +6,16 @@ author: viechdokter
 path: /notes/viechdokter/04-13-2016/reproducibility-test-of-data-using-an-ir-lamp.md
 nid: 12962
 uid: 468990
-
 cids: 14233,14236,14238,14240
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/502/original/IR_test_setup.jpg)
 
 # Reproducibility test of data using an IR lamp
 
-by [viechdokter](../../../profile/viechdokter) | April 13, 2016 00:28
+by [viechdokter](/profile/viechdokter) | April 13, 2016 00:28
 
-April 13, 2016 00:28 | Tags: [spectrometer](../tag/spectrometer), [infrared](../tag/infrared), [ir](../tag/ir), [lamp](../tag/lamp), [spectrum](../tag/spectrum), [repeatability](../tag/repeatability), [reproducibility](../tag/reproducibility), [stability](../tag/stability)
+April 13, 2016 00:28 | Tags: [spectrometer](/tag/spectrometer), [infrared](/tag/infrared), [ir](/tag/ir), [lamp](/tag/lamp), [spectrum](/tag/spectrum), [repeatability](/tag/repeatability), [reproducibility](/tag/reproducibility), [stability](/tag/stability)
 
 ----
 

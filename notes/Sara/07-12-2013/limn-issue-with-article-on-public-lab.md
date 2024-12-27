@@ -6,18 +6,16 @@ author: sara
 path: /notes/Sara/07-12-2013/limn-issue-with-article-on-public-lab.md
 nid: 8857
 uid: 8
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/762/original/Screen_Shot_2013-07-12_at_6.37.10_AM.png)
 
 # Limn Issue with Article on Public Lab
 
-by [sara](../../../profile/sara) | July 12, 2013 10:39
+by [sara](/profile/sara) | July 12, 2013 10:39
 
-July 12, 2013 10:39 | Tags: [boston](../tag/boston)
+July 12, 2013 10:39 | Tags: [boston](/tag/boston)
 
 ----
 

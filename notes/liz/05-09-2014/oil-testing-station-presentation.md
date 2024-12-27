@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/05-09-2014/oil-testing-station-presentation.md
 nid: 10459
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/210/original/IMG_2342.JPG)
 
 # oil testing station presentation
 
-by [liz](../../../profile/liz) | May 09, 2014 21:24
+by [liz](/profile/liz) | May 09, 2014 21:24
 
-May 09, 2014 21:24 | Tags: [presentations](../tag/presentations), [presentation](../tag/presentation), [oil-testing](../tag/oil-testing)
+May 09, 2014 21:24 | Tags: [presentations](/tag/presentations), [presentation](/tag/presentation), [oil-testing](/tag/oil-testing)
 
 ----
 

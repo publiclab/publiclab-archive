@@ -6,16 +6,16 @@ author: vjpixel
 path: /wiki/rede-infoamazonia.md
 nid: 13901
 uid: 420617
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/424/original/DSC_0117-1024x576.jpg)
 
 # rede-infoamazonia
 
-by [vjpixel](../profile/vjpixel)
+by [vjpixel](/profile/vjpixel)
 
-February 02, 2017 23:11 | Tags: [water-quality](../tag/water-quality), [list:plots-waterquality](../tag/list:plots-waterquality), [brasil](../tag/brasil), [parent:open-water](../tag/parent:open-water), [rede-infoamazonia](../tag/rede-infoamazonia)
+February 02, 2017 23:11 | Tags: [water-quality](/tag/water-quality), [list:plots-waterquality](/tag/list:plots-waterquality), [brasil](/tag/brasil), [parent:open-water](/tag/parent:open-water), [rede-infoamazonia](/tag/rede-infoamazonia)
 
 ----
 

@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/12-02-2014/less-is-more-the-role-of-small-data-for-governance-in-the-21st-century.md
 nid: 11421
 uid: 43651
-
 cids: 10891,10894
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/190/original/screenshot.png)
 
 # "Less is more: The Role of Small Data in 21st Century Governance."
 
-by [donblair](../../../profile/donblair) | December 02, 2014 22:12
+by [donblair](/profile/donblair) | December 02, 2014 22:12
 
-December 02, 2014 22:12 | Tags: [small-data](../tag/small-data), [with:warren](../tag/with:warren), [with:kanarinka](../tag/with:kanarinka), [philosophy](../tag/philosophy)
+December 02, 2014 22:12 | Tags: [small-data](/tag/small-data), [with:warren](/tag/with:warren), [with:kanarinka](/tag/with:kanarinka), [philosophy](/tag/philosophy)
 
 ----
 

@@ -6,18 +6,16 @@ author: pablo
 path: /notes/pablo/03-24-2015/talleres-de-fotografia-de-bajo-coste-desde-el-aire-en-madrid.md
 nid: 11719
 uid: 160
-
 cids: 11408,12573
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/400/original/foto-aerea-madrid-plaza-cebada.jpg)
 
 #  Talleres de Fotografía de bajo coste desde el aire en Madrid
 
-by [pablo](../../../profile/pablo) | March 24, 2015 11:49
+by [pablo](/profile/pablo) | March 24, 2015 11:49
 
-March 24, 2015 11:49 | Tags: [balloon-mapping](../tag/balloon-mapping), [spain](../tag/spain), [workshop](../tag/workshop), [madrid](../tag/madrid), [event](../tag/event), [lang:es](../tag/lang:es), [replication:14022](../tag/replication:14022)
+March 24, 2015 11:49 | Tags: [balloon-mapping](/tag/balloon-mapping), [spain](/tag/spain), [workshop](/tag/workshop), [madrid](/tag/madrid), [event](/tag/event), [lang:es](/tag/lang:es), [replication:14022](/tag/replication:14022)
 
 ----
 

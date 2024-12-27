@@ -6,16 +6,16 @@ author: Shannon
 path: /wiki/skane-sweden.md
 nid: 3827
 uid: 9
-
+cids: 
 ---
 
 ![](https://publiclab.org/sites/default/files/CRW_5098.jpg)
 
 # Skane, Sweden
 
-by [Ola](../profile/Ola), [Shannon](../profile/Shannon)
+by [Ola](/profile/Ola), [Shannon](/profile/Shannon)
 
-September 16, 2012 17:36 | Tags: [chapter](../tag/chapter), [sweden](../tag/sweden), [skane](../tag/skane), [lat:55.603663](../tag/lat:55.603663), [lon:13.036995](../tag/lon:13.036995)
+September 16, 2012 17:36 | Tags: [chapter](/tag/chapter), [sweden](/tag/sweden), [skane](/tag/skane), [lat:55.603663](/tag/lat:55.603663), [lon:13.036995](/tag/lon:13.036995)
 
 ----
 

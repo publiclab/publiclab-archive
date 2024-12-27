@@ -6,18 +6,16 @@ author: Craig
 path: /notes/Craig/11-12-2015/oil-testing-kit-betabeta.md
 nid: 12404
 uid: 443143
-
 cids: 12985
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/733/original/IMG_0836.JPG)
 
 # Oil Testing Kit BetaBeta 
 
-by [Craig](../../../profile/Craig) | November 12, 2015 10:12
+by [Craig](/profile/Craig) | November 12, 2015 10:12
 
-November 12, 2015 10:12 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [oil-testing-kit](../tag/oil-testing-kit), [for](../tag/for), [oil-testing-kit-beta](../tag/oil-testing-kit-beta)
+November 12, 2015 10:12 | Tags: [spectrometer](/tag/spectrometer), [oil](/tag/oil), [oil-testing-kit](/tag/oil-testing-kit), [for](/tag/for), [oil-testing-kit-beta](/tag/oil-testing-kit-beta)
 
 ----
 

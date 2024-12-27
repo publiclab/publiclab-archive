@@ -6,16 +6,16 @@ author: sara
 path: /wiki/thermal-fishing-bob-barnraising.md
 nid: 9406
 uid: 8
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/796/original/IMAG2366.jpg)
 
 # Thermal Fishing Bob Barnraising!!
 
-by [sara](../profile/sara), [kanarinka](../profile/kanarinka), [nicholas](../profile/nicholas)
+by [sara](/profile/sara), [kanarinka](/profile/kanarinka), [nicholas](/profile/nicholas)
 
-October 06, 2013 00:22 | Tags: [thermal-fishing-bob](../tag/thermal-fishing-bob)
+October 06, 2013 00:22 | Tags: [thermal-fishing-bob](/tag/thermal-fishing-bob)
 
 ----
 

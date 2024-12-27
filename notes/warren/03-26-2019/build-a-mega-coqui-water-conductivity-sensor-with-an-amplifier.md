@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/03-26-2019/build-a-mega-coqui-water-conductivity-sensor-with-an-amplifier.md
 nid: 18868
 uid: 1
-
 cids: 23461,23545
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/548/original/IMG_20190322_185608_063_copy.jpg)
 
 # Build a "Mega Coqui" water conductivity sensor with an amplifier
 
-by [warren](../../../profile/warren) | March 26, 2019 18:51
+by [warren](/profile/warren) | March 26, 2019 18:51
 
-March 26, 2019 18:51 | Tags: [water-quality](../tag/water-quality), [coqui](../tag/coqui), [seeks:replications](../tag/seeks:replications), [activity:coqui](../tag/activity:coqui), [lat:41.804078](../tag/lat:41.804078), [lon:-71.433105](../tag/lon:-71.433105), [with:mimiss](../tag/with:mimiss)
+March 26, 2019 18:51 | Tags: [water-quality](/tag/water-quality), [coqui](/tag/coqui), [seeks:replications](/tag/seeks:replications), [activity:coqui](/tag/activity:coqui), [lat:41.804078](/tag/lat:41.804078), [lon:-71.433105](/tag/lon:-71.433105), [with:mimiss](/tag/with:mimiss)
 
 ----
 

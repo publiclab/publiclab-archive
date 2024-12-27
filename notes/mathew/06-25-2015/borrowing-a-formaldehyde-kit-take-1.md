@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/06-25-2015/borrowing-a-formaldehyde-kit-take-1.md
 nid: 12003
 uid: 4
-
 cids: 12017,12020,12022,12023,12026,12027,12085,12086,12087,12092,12093,12094,12401,12403,12406
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/429/original/Untitled.png)
 
 # Borrowing a Formaldehyde Kit, Take 1
 
-by [mathew](../../../profile/mathew) | June 25, 2015 06:31
+by [mathew](/profile/mathew) | June 25, 2015 06:31
 
-June 25, 2015 06:31 | Tags: [air-quality](../tag/air-quality), [air](../tag/air), [formaldehyde](../tag/formaldehyde), [open-air](../tag/open-air), [openair](../tag/openair), [barnstar:video-documentation](../tag/barnstar:video-documentation), [indoor-air-quality](../tag/indoor-air-quality), [open](../tag/open)
+June 25, 2015 06:31 | Tags: [air-quality](/tag/air-quality), [air](/tag/air), [formaldehyde](/tag/formaldehyde), [open-air](/tag/open-air), [openair](/tag/openair), [barnstar:video-documentation](/tag/barnstar:video-documentation), [indoor-air-quality](/tag/indoor-air-quality), [open](/tag/open)
 
 ----
 

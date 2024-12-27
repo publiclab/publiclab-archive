@@ -6,16 +6,14 @@ author: gbathree
 path: /notes/gbathree/01-15-2014/using-photosynq-as-general-purpose-tool-for-detecting-contaminants.md
 nid: 9948
 uid: 53164
-
 cids: 8031,8033,8040,8041,8043
-
 ---
 
 # Using PhotosynQ as general purpose tool for detecting contaminants
 
-by [gbathree](../../../profile/gbathree) | January 15, 2014 18:00
+by [gbathree](/profile/gbathree) | January 15, 2014 18:00
 
-January 15, 2014 18:00 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [photosynthesis](../tag/photosynthesis), [photosynq](../tag/photosynq)
+January 15, 2014 18:00 | Tags: [spectrometer](/tag/spectrometer), [fluorescence](/tag/fluorescence), [photosynthesis](/tag/photosynthesis), [photosynq](/tag/photosynq)
 
 ----
 

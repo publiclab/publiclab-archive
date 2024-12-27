@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/02-23-2014/preliminary-plymouth-plant-plume-ponderings.md
 nid: 10057
 uid: 43651
-
 cids: 8319,8321,8598,9152,9850,9950,9955,9959
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/990/original/small.png)
 
 # Preliminary Plymouth Plant Plume Ponderings
 
-by [donblair](../../../profile/donblair) | February 23, 2014 03:56
+by [donblair](/profile/donblair) | February 23, 2014 03:56
 
-February 23, 2014 03:56 | Tags: [thermal-photography](../tag/thermal-photography), [plume](../tag/plume), [massachusetts](../tag/massachusetts), [tac](../tag/tac), [plymouth](../tag/plymouth), [thermal-imaging](../tag/thermal-imaging), [cape-cod-bay-watch](../tag/cape-cod-bay-watch), [landsat](../tag/landsat), [nuclear](../tag/nuclear), [thermal-pollution](../tag/thermal-pollution), [snowfest](../tag/snowfest), [satellite-imagery](../tag/satellite-imagery), [northeast](../tag/northeast), [barnstar:basic](../tag/barnstar:basic), [response:7189](../tag/response:7189), [snowfest2014](../tag/snowfest2014), [lat:41.942861](../tag/lat:41.942861), [lon:-70.576729](../tag/lon:-70.576729), [place:plymouth-nuclear-station](../tag/place:plymouth-nuclear-station)
+February 23, 2014 03:56 | Tags: [thermal-photography](/tag/thermal-photography), [plume](/tag/plume), [massachusetts](/tag/massachusetts), [tac](/tag/tac), [plymouth](/tag/plymouth), [thermal-imaging](/tag/thermal-imaging), [cape-cod-bay-watch](/tag/cape-cod-bay-watch), [landsat](/tag/landsat), [nuclear](/tag/nuclear), [thermal-pollution](/tag/thermal-pollution), [snowfest](/tag/snowfest), [satellite-imagery](/tag/satellite-imagery), [northeast](/tag/northeast), [barnstar:basic](/tag/barnstar:basic), [response:7189](/tag/response:7189), [snowfest2014](/tag/snowfest2014), [lat:41.942861](/tag/lat:41.942861), [lon:-70.576729](/tag/lon:-70.576729), [place:plymouth-nuclear-station](/tag/place:plymouth-nuclear-station)
 
 ----
 

@@ -6,18 +6,16 @@ author: yvv
 path: /notes/yvv/09-18-2014/glam-event.md
 nid: 11160
 uid: 427257
-
 cids: 10341,10417,10419,10421,10426,10455
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/891/original/Gowanus_Pic.jpg)
 
 # GLAM Event
 
-by [yvv](../../../profile/yvv) | September 18, 2014 19:40
+by [yvv](/profile/yvv) | September 18, 2014 19:40
 
-September 18, 2014 19:40 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [brooklyn](../tag/brooklyn), [mapping](../tag/mapping), [event](../tag/event), [glam](../tag/glam), [canal](../tag/canal), [event:rsvp](../tag/event:rsvp), [altitude](../tag/altitude), [rsvp:bronwen](../tag/rsvp:bronwen), [rsvp:liz](../tag/rsvp:liz), [conservancy](../tag/conservancy), [low](../tag/low), [program](../tag/program), [gcc](../tag/gcc), [date:09-27-2014](../tag/date:09-27-2014), [rsvp:yvv](../tag/rsvp:yvv), [rsvp:jenmansta](../tag/rsvp:jenmansta)
+September 18, 2014 19:40 | Tags: [new-york-city](/tag/new-york-city), [gowanus](/tag/gowanus), [brooklyn](/tag/brooklyn), [mapping](/tag/mapping), [event](/tag/event), [glam](/tag/glam), [canal](/tag/canal), [event:rsvp](/tag/event:rsvp), [altitude](/tag/altitude), [rsvp:bronwen](/tag/rsvp:bronwen), [rsvp:liz](/tag/rsvp:liz), [conservancy](/tag/conservancy), [low](/tag/low), [program](/tag/program), [gcc](/tag/gcc), [date:09-27-2014](/tag/date:09-27-2014), [rsvp:yvv](/tag/rsvp:yvv), [rsvp:jenmansta](/tag/rsvp:jenmansta)
 
 ----
 

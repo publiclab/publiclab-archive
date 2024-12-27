@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/9-26-2011/arsenic-detection-uv-vis-spectrometry.md
 nid: 480
 uid: 1
-
 cids: 334,10647,19364
-
 ---
 
 ![](https://publiclab.org/sites/default/files/malachite-green-arsenic-spectra.png)
 
 # Arsenic detection with UV-Vis spectrometry
 
-by [warren](../../../profile/warren) | September 26, 2011 19:26
+by [warren](/profile/warren) | September 26, 2011 19:26
 
-September 26, 2011 19:26 | Tags: [spectrometer](../tag/spectrometer), [soil](../tag/soil), [arsenic](../tag/arsenic), [umass-amherst](../tag/umass-amherst), [soil-testing](../tag/soil-testing), [soil-contamination](../tag/soil-contamination), [soil-contamination-testing](../tag/soil-contamination-testing)
+September 26, 2011 19:26 | Tags: [spectrometer](/tag/spectrometer), [soil](/tag/soil), [arsenic](/tag/arsenic), [umass-amherst](/tag/umass-amherst), [soil-testing](/tag/soil-testing), [soil-contamination](/tag/soil-contamination), [soil-contamination-testing](/tag/soil-contamination-testing)
 
 ----
 

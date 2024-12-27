@@ -6,14 +6,14 @@ author: liz
 path: /wiki/winter-holidays.md
 nid: 9747
 uid: 7
-
+cids: 
 ---
 
 # winter-holidays
 
-by [cfastie](../profile/cfastie), [balrog](../profile/balrog), [liz](../profile/liz)
+by [cfastie](/profile/cfastie), [balrog](/profile/balrog), [liz](/profile/liz)
 
-November 07, 2013 18:59 | Tags: [community](../tag/community)
+November 07, 2013 18:59 | Tags: [community](/tag/community)
 
 ----
 

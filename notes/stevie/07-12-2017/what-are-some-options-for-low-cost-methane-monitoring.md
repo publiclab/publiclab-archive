@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/07-12-2017/what-are-some-options-for-low-cost-methane-monitoring.md
 nid: 14645
 uid: 422561
-
 cids: 17065,17066,22538
-
 ---
 
 # What are some options for low cost methane monitoring? 
 
-by [stevie](../../../profile/stevie) | July 12, 2017 14:45
+by [stevie](/profile/stevie) | July 12, 2017 14:45
 
-July 12, 2017 14:45 | Tags: [air-quality](../tag/air-quality), [methane](../tag/methane), [question:general](../tag/question:general)
+July 12, 2017 14:45 | Tags: [air-quality](/tag/air-quality), [methane](/tag/methane), [question:general](/tag/question:general)
 
 ----
 

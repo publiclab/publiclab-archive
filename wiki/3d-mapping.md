@@ -6,14 +6,14 @@ author: warren
 path: /wiki/3d-mapping.md
 nid: 7118
 uid: 1
-
+cids: 
 ---
 
 # 3d-mapping
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-April 29, 2013 13:16 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [3d](../tag/3d)
+April 29, 2013 13:16 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [3d](/tag/3d)
 
 ----
 

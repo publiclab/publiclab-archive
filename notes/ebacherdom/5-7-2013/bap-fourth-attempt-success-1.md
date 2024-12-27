@@ -6,18 +6,16 @@ author: ebacherdom
 path: /notes/ebacherdom/5-7-2013/bap-fourth-attempt-success-1.md
 nid: 7294
 uid: 58977
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_2487.JPG)
 
 # BAP, fourth attempt a success.
 
-by [ebacherdom](../../../profile/ebacherdom) | May 07, 2013 15:33
+by [ebacherdom](/profile/ebacherdom) | May 07, 2013 15:33
 
-May 07, 2013 15:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [kit](../tag/kit), [bap](../tag/bap), [balloon](../tag/balloon)
+May 07, 2013 15:33 | Tags: [balloon-mapping](/tag/balloon-mapping), [kit](/tag/kit), [bap](/tag/bap), [balloon](/tag/balloon)
 
 ----
 

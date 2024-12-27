@@ -6,14 +6,14 @@ author: warren
 path: /wiki/research-notes-vs-wiki-pages.md
 nid: 1966
 uid: 1
-
+cids: 
 ---
 
 # Research notes vs wiki pages
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-May 14, 2012 18:52 | Tags: [help](../tag/help)
+May 14, 2012 18:52 | Tags: [help](/tag/help)
 
 ----
 

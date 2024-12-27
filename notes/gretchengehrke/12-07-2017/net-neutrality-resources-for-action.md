@@ -6,18 +6,16 @@ author: gretchengehrke
 path: /notes/gretchengehrke/12-07-2017/net-neutrality-resources-for-action.md
 nid: 15326
 uid: 430549
-
 cids: 18291,18292
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/841/original/NetNeutrality.jpg)
 
 # Net Neutrality: resources for action
 
-by [gretchengehrke](../../../profile/gretchengehrke) | December 07, 2017 15:13
+by [gretchengehrke](/profile/gretchengehrke) | December 07, 2017 15:13
 
-December 07, 2017 15:13 | Tags: [blog](../tag/blog), [blog-submission](../tag/blog-submission)
+December 07, 2017 15:13 | Tags: [blog](/tag/blog), [blog-submission](/tag/blog-submission)
 
 ----
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/flir.md
 nid: 14947
 uid: 1
-
+cids: 
 ---
 
 # FLIR
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-September 25, 2017 15:25 | Tags: [methane](../tag/methane)
+September 25, 2017 15:25 | Tags: [methane](/tag/methane)
 
 ----
 
@@ -21,8 +21,8 @@ FLIR is a company that makes thermal infrared cameras for taking photos or video
 
 ## Questions
 
-[flir](../../tag/question:flir)
+[flir](/tag/question:flir)
 
 ## Activities
 
-[flir](../../tag/activity:flir)
+[flir](/tag/activity:flir)

@@ -6,18 +6,16 @@ author: kkoerner
 path: /notes/kkoerner/09-17-2018/how-to-open-and-clean-a-pms-5003-air-sensor.md
 nid: 17133
 uid: 442666
-
 cids: 20701,20702,20711,23766,23947,25361,25371,25372,26393,27176,27177,27450,29159,29591,31389
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/588/original/IMG_20180917_134236.jpg)
 
 # How to Open and Clean a PMS 5003 Air Sensor
 
-by [kkoerner](../../../profile/kkoerner) | September 17, 2018 19:25
+by [kkoerner](/profile/kkoerner) | September 17, 2018 19:25
 
-September 17, 2018 19:25 | Tags: [teardown](../tag/teardown), [air-quality](../tag/air-quality), [pollution](../tag/pollution), [sensor](../tag/sensor), [airpollution](../tag/airpollution), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [plantower](../tag/plantower), [activity:purpleair](../tag/activity:purpleair), [pms-5003](../tag/pms-5003), [activity:plantower](../tag/activity:plantower)
+September 17, 2018 19:25 | Tags: [teardown](/tag/teardown), [air-quality](/tag/air-quality), [pollution](/tag/pollution), [sensor](/tag/sensor), [airpollution](/tag/airpollution), [air-sensors](/tag/air-sensors), [purpleair](/tag/purpleair), [plantower](/tag/plantower), [activity:purpleair](/tag/activity:purpleair), [pms-5003](/tag/pms-5003), [activity:plantower](/tag/activity:plantower)
 
 ----
 

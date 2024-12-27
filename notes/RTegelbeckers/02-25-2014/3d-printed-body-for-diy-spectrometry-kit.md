@@ -6,18 +6,16 @@ author: RTegelbeckers
 path: /notes/RTegelbeckers/02-25-2014/3d-printed-body-for-diy-spectrometry-kit.md
 nid: 10066
 uid: 421058
-
 cids: 8343,8346,8347
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/030/original/DSCI0577.JPG)
 
 # 3D Printed body for DIY Spectrometry Kit
 
-by [RTegelbeckers](../../../profile/RTegelbeckers) | February 25, 2014 19:22
+by [RTegelbeckers](/profile/RTegelbeckers) | February 25, 2014 19:22
 
-February 25, 2014 19:22 | Tags: [spectrometer](../tag/spectrometer), [dsk](../tag/dsk), [3d-printing](../tag/3d-printing), [instructables](../tag/instructables), [response:10065](../tag/response:10065)
+February 25, 2014 19:22 | Tags: [spectrometer](/tag/spectrometer), [dsk](/tag/dsk), [3d-printing](/tag/3d-printing), [instructables](/tag/instructables), [response:10065](/tag/response:10065)
 
 ----
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/hydrogen-balloons.md
 nid: 1732
 uid: 1
-
+cids: 18388
 ---
 
 # Hydrogen Balloons
 
-by [mathew](../profile/mathew), [oscarbrett](../profile/oscarbrett), [warren](../profile/warren)
+by [mathew](/profile/mathew), [oscarbrett](/profile/oscarbrett), [warren](/profile/warren)
 
-April 21, 2012 14:48 | Tags: [balloon-mapping](../tag/balloon-mapping), [grassrootsmappingwiki](../tag/grassrootsmappingwiki), [hydrogen](../tag/hydrogen), [diy-balloon](../tag/diy-balloon), [nuvu](../tag/nuvu)
+April 21, 2012 14:48 | Tags: [balloon-mapping](/tag/balloon-mapping), [grassrootsmappingwiki](/tag/grassrootsmappingwiki), [hydrogen](/tag/hydrogen), [diy-balloon](/tag/diy-balloon), [nuvu](/tag/nuvu)
 
 ----
 

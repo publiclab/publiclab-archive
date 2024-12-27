@@ -6,14 +6,14 @@ author: liz
 path: /wiki/gmf-8-molly-gordon.md
 nid: 12149
 uid: 7
-
+cids: 
 ---
 
 # gmf-8-Molly-Gordon
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-August 17, 2015 16:08 | Tags: [grassrootsmappingforum](../tag/grassrootsmappingforum), [blog](../tag/blog), [style:fancy](../tag/style:fancy), [gmf-8](../tag/gmf-8)
+August 17, 2015 16:08 | Tags: [grassrootsmappingforum](/tag/grassrootsmappingforum), [blog](/tag/blog), [style:fancy](/tag/style:fancy), [gmf-8](/tag/gmf-8)
 
 ----
 

@@ -6,18 +6,16 @@ author: Shizi
 path: /notes/Shizi/12-28-2016/diy.md
 nid: 13818
 uid: 475993
-
 cids: 16074
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/153/original/%3F%3F_2.png)
 
 # 拓展diy净水组件 
 
-by [Shizi](../../../profile/Shizi) | December 28, 2016 10:46
+by [Shizi](/profile/Shizi) | December 28, 2016 10:46
 
-December 28, 2016 10:46 | Tags: [water-quality](../tag/water-quality), [purelab](../tag/purelab)
+December 28, 2016 10:46 | Tags: [water-quality](/tag/water-quality), [purelab](/tag/purelab)
 
 ----
 

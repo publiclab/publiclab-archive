@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/03-14-2017/good-guides-on-doing-a-photo-survey-of-a-site.md
 nid: 14017
 uid: 1
-
 cids: 17347,22443,22444,22446,22454
-
 ---
 
 # Good guides on doing a photo survey of a site?
 
-by [warren](../../../profile/warren) | March 14, 2017 19:01
+by [warren](/profile/warren) | March 14, 2017 19:01
 
-March 14, 2017 19:01 | Tags: [documentation](../tag/documentation), [photo-monitoring](../tag/photo-monitoring), [answered](../tag/answered), [request:activity](../tag/request:activity), [question:photo-monitoring](../tag/question:photo-monitoring), [photographic-evidence](../tag/photographic-evidence), [photo-survey](../tag/photo-survey), [site-documentation](../tag/site-documentation), [question:photo-survey](../tag/question:photo-survey), [site-survey](../tag/site-survey), [question:site-survey](../tag/question:site-survey)
+March 14, 2017 19:01 | Tags: [documentation](/tag/documentation), [photo-monitoring](/tag/photo-monitoring), [answered](/tag/answered), [request:activity](/tag/request:activity), [question:photo-monitoring](/tag/question:photo-monitoring), [photographic-evidence](/tag/photographic-evidence), [photo-survey](/tag/photo-survey), [site-documentation](/tag/site-documentation), [question:photo-survey](/tag/question:photo-survey), [site-survey](/tag/site-survey), [question:site-survey](/tag/question:site-survey)
 
 ----
 

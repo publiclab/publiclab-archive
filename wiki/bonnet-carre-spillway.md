@@ -6,14 +6,14 @@ author: warren
 path: /wiki/bonnet-carre-spillway.md
 nid: 210
 uid: 1
-
+cids: 
 ---
 
 # Bonnet Carre Spillway
 
-by [gonzoearth](../profile/gonzoearth), [warren](../profile/warren)
+by [gonzoearth](/profile/gonzoearth), [warren](/profile/warren)
 
-May 02, 2011 16:35 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [bonne-carre](../tag/bonne-carre), [spillway](../tag/spillway)
+May 02, 2011 16:35 | Tags: [gulf-coast](/tag/gulf-coast), [balloon-mapping](/tag/balloon-mapping), [bonne-carre](/tag/bonne-carre), [spillway](/tag/spillway)
 
 ----
 

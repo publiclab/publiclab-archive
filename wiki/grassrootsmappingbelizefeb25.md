@@ -6,14 +6,14 @@ author: warren
 path: /wiki/grassrootsmappingbelizefeb25.md
 nid: 1737
 uid: 1
-
+cids: 
 ---
 
 # GrassrootsMappingBelizeFeb25
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-April 21, 2012 14:54 | Tags: [balloon-mapping](../tag/balloon-mapping), [grassrootsmappingwiki](../tag/grassrootsmappingwiki)
+April 21, 2012 14:54 | Tags: [balloon-mapping](/tag/balloon-mapping), [grassrootsmappingwiki](/tag/grassrootsmappingwiki)
 
 ----
 

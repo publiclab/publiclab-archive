@@ -6,18 +6,16 @@ author: Bronwen
 path: /notes/Bronwen/10-29-2019/simple-air-sensors-and-more-with-public-lab-and-the-queensbridge-tech-lab.md
 nid: 21339
 uid: 237313
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/088/original/SASTREE.jpg)
 
 # Simple Air Sensors (and more) with Public Lab and the Queensbridge Tech Lab
 
-by [Bronwen](../../../profile/Bronwen) | October 29, 2019 20:36
+by [Bronwen](/profile/Bronwen) | October 29, 2019 20:36
 
-October 29, 2019 20:36 | Tags: [events](../tag/events), [workshops](../tag/workshops), [nyc](../tag/nyc), [lat:1](../tag/lat:1), [lon:10](../tag/lon:10), [simple-air-sensor](../tag/simple-air-sensor), [with:sadieprego](../tag/with:sadieprego), [community-microcsope](../tag/community-microcsope)
+October 29, 2019 20:36 | Tags: [events](/tag/events), [workshops](/tag/workshops), [nyc](/tag/nyc), [lat:1](/tag/lat:1), [lon:10](/tag/lon:10), [simple-air-sensor](/tag/simple-air-sensor), [with:sadieprego](/tag/with:sadieprego), [community-microcsope](/tag/community-microcsope)
 
 ----
 

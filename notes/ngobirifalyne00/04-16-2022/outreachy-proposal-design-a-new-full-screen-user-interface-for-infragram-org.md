@@ -6,18 +6,16 @@ author: ngobirifalyne00
 path: /notes/ngobirifalyne00/04-16-2022/outreachy-proposal-design-a-new-full-screen-user-interface-for-infragram-org.md
 nid: 30435
 uid: 795460
-
 cids: 30015,30030
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/832/original/infragram_page.PNG)
 
 # Outreachy proposal: Design a new full-screen user interface for Infragram.org
 
-by [ngobirifalyne00](../../../profile/ngobirifalyne00) | April 16, 2022 09:38
+by [ngobirifalyne00](/profile/ngobirifalyne00) | April 16, 2022 09:38
 
-April 16, 2022 09:38 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022), [lat:4.022465](../tag/lat:4.022465), [lon:9.195443](../tag/lon:9.195443)
+April 16, 2022 09:38 | Tags: [software](/tag/software), [outreachy](/tag/outreachy), [first-time-poster](/tag/first-time-poster), [zoom:6](/tag/zoom:6), [outreachy-2022](/tag/outreachy-2022), [outreachy-summer-2022](/tag/outreachy-summer-2022), [lat:4.022465](/tag/lat:4.022465), [lon:9.195443](/tag/lon:9.195443)
 
 ----
 

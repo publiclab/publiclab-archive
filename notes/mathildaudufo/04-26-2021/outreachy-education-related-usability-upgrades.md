@@ -6,18 +6,16 @@ author: mathildaudufo
 path: /notes/mathildaudufo/04-26-2021/outreachy-education-related-usability-upgrades.md
 nid: 26348
 uid: 751138
-
 cids: 28621,28624,28650,28651,28652,28660,28662,28692,28694
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/482/original/outreachy-logo.png)
 
 # Outreachy proposal: Education-related usability upgrades
 
-by [mathildaudufo](../../../profile/mathildaudufo) | April 26, 2021 12:09
+by [mathildaudufo](/profile/mathildaudufo) | April 26, 2021 12:09
 
-April 26, 2021 12:09 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [outreachy-proposals](../tag/outreachy-proposals), [outreachy-summer-2021](../tag/outreachy-summer-2021), [outreachy-2021](../tag/outreachy-2021), [outreachy-proposals-2021](../tag/outreachy-proposals-2021)
+April 26, 2021 12:09 | Tags: [software](/tag/software), [outreachy](/tag/outreachy), [first-time-poster](/tag/first-time-poster), [outreachy-proposals](/tag/outreachy-proposals), [outreachy-summer-2021](/tag/outreachy-summer-2021), [outreachy-2021](/tag/outreachy-2021), [outreachy-proposals-2021](/tag/outreachy-proposals-2021)
 
 ----
 

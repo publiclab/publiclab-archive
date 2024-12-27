@@ -6,16 +6,14 @@ author: MoparWade
 path: /notes/MoparWade/03-24-2018/connecting-pi-camera-to-raspberry-pi.md
 nid: 16016
 uid: 528484
-
 cids: 19253
-
 ---
 
 # Connecting Pi camera to Raspberry Pi
 
-by [MoparWade](../../../profile/MoparWade) | March 24, 2018 05:39
+by [MoparWade](/profile/MoparWade) | March 24, 2018 05:39
 
-March 24, 2018 05:39 | Tags: [raspberry-pi](../tag/raspberry-pi), [raspberry-pi-cameras](../tag/raspberry-pi-cameras), [lego-spectrometer](../tag/lego-spectrometer)
+March 24, 2018 05:39 | Tags: [raspberry-pi](/tag/raspberry-pi), [raspberry-pi-cameras](/tag/raspberry-pi-cameras), [lego-spectrometer](/tag/lego-spectrometer)
 
 ----
 

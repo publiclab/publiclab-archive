@@ -6,18 +6,16 @@ author: gpenzo
 path: /notes/gpenzo/02-09-2014/nvdi-with-canon-a2500.md
 nid: 10024
 uid: 420719
-
 cids: 8203,8210,8301,8360,8371
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/855/original/CRW_0042_NDVI_Float.jpg)
 
 # NVDI with canon a2500
 
-by [gpenzo](../../../profile/gpenzo) | February 09, 2014 21:45
+by [gpenzo](/profile/gpenzo) | February 09, 2014 21:45
 
-February 09, 2014 21:45 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [first-time-poster](../tag/first-time-poster)
+February 09, 2014 21:45 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [nrg](/tag/nrg), [ndvi](/tag/ndvi), [infrared](/tag/infrared), [infragram](/tag/infragram), [infrablue](/tag/infrablue), [first-time-poster](/tag/first-time-poster)
 
 ----
 

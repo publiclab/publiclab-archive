@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/07-09-2014/infragram-kite-mapping-at-fab10-barcelona.md
 nid: 10666
 uid: 1
-
 cids: 9455,9457,9458,9459,9462,9463,9465,9466,9467,9473,9504,9526
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/175/original/IMAG0922.JPG)
 
 # Infragram kite mapping at Fab10 Barcelona
 
-by [warren](../../../profile/warren) | July 09, 2014 08:42
+by [warren](/profile/warren) | July 09, 2014 08:42
 
-July 09, 2014 08:42 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [barcelona](../tag/barcelona), [spain](../tag/spain), [infragram](../tag/infragram), [mobius](../tag/mobius), [fab10](../tag/fab10), [infragram-point-shoot](../tag/infragram-point-shoot), [mini-kite-kit](../tag/mini-kite-kit)
+July 09, 2014 08:42 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [barcelona](/tag/barcelona), [spain](/tag/spain), [infragram](/tag/infragram), [mobius](/tag/mobius), [fab10](/tag/fab10), [infragram-point-shoot](/tag/infragram-point-shoot), [mini-kite-kit](/tag/mini-kite-kit)
 
 ----
 

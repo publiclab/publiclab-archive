@@ -6,18 +6,16 @@ author: sidntrivedi012
 path: /notes/sidntrivedi012/04-01-2019/soc-proposal-spectral-workbench-capture.md
 nid: 18922
 uid: 572743
-
 cids: 23580,23613,23614,23617,23662,23663,23709,23758,23759,23760,23784,23812
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/929/original/proposal.png)
 
 # SoC Proposal : Spectral Workbench Capture
 
-by [sidntrivedi012](../../../profile/sidntrivedi012) | April 01, 2019 11:36
+by [sidntrivedi012](/profile/sidntrivedi012) | April 01, 2019 11:36
 
-April 01, 2019 11:36 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [soc-2019-projects](../tag/soc-2019-projects)
+April 01, 2019 11:36 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [soc](/tag/soc), [response:13975](/tag/response:13975), [rgsoc-2019](/tag/rgsoc-2019), [gsoc-2019](/tag/gsoc-2019), [soc-2019](/tag/soc-2019), [soc-2019-proposals](/tag/soc-2019-proposals), [soc-2019-projects](/tag/soc-2019-projects)
 
 ----
 

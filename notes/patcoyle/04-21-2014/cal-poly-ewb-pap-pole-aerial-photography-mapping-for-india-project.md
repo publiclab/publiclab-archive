@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/04-21-2014/cal-poly-ewb-pap-pole-aerial-photography-mapping-for-india-project.md
 nid: 10339
 uid: 77
-
 cids: 8841
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/764/original/Drawing_Set_Page_05.jpg)
 
 # Cal Poly EWB PAP (Pole Aerial Photography) mapping for India Project
 
-by [patcoyle](../../../profile/patcoyle) | April 21, 2014 04:58
+by [patcoyle](/profile/patcoyle) | April 21, 2014 04:58
 
-April 21, 2014 04:58 | Tags: [polemapping](../tag/polemapping), [california](../tag/california), [pole-photography](../tag/pole-photography), [pole](../tag/pole), [pap](../tag/pap), [pole-mapping](../tag/pole-mapping), [ewb](../tag/ewb), [photomapping](../tag/photomapping), [india](../tag/india), [calpoly](../tag/calpoly)
+April 21, 2014 04:58 | Tags: [polemapping](/tag/polemapping), [california](/tag/california), [pole-photography](/tag/pole-photography), [pole](/tag/pole), [pap](/tag/pap), [pole-mapping](/tag/pole-mapping), [ewb](/tag/ewb), [photomapping](/tag/photomapping), [india](/tag/india), [calpoly](/tag/calpoly)
 
 ----
 

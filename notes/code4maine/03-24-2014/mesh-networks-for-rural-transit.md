@@ -6,18 +6,16 @@ author: ajawitz
 path: /notes/code4maine/03-24-2014/mesh-networks-for-rural-transit.md
 nid: 10219
 uid: 294634
-
 cids: 8584,8587
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/381/original/MaineSailor.png)
 
 # Mesh Networks for Rural Transit
 
-by [ajawitz](../../../profile/ajawitz) | March 24, 2014 22:00
+by [ajawitz](/profile/ajawitz) | March 24, 2014 22:00
 
-March 24, 2014 22:00 | Tags: [gps](../tag/gps), [transit](../tag/transit), [openwrt](../tag/openwrt), [mesh](../tag/mesh)
+March 24, 2014 22:00 | Tags: [gps](/tag/gps), [transit](/tag/transit), [openwrt](/tag/openwrt), [mesh](/tag/mesh)
 
 ----
 

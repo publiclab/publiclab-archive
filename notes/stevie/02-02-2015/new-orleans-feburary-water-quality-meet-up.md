@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/02-02-2015/new-orleans-feburary-water-quality-meet-up.md
 nid: 11550
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/768/original/Water_Quality_Meetup.jpg)
 
 # New Orleans February Water Quality Meet-up
 
-by [stevie](../../../profile/stevie) | February 02, 2015 23:09
+by [stevie](/profile/stevie) | February 02, 2015 23:09
 
-February 02, 2015 23:09 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [water-quality](../tag/water-quality), [event:rsvp](../tag/event:rsvp), [urbanwater](../tag/urbanwater), [coqui](../tag/coqui), [date:02-26-2015](../tag/date:02-26-2015)
+February 02, 2015 23:09 | Tags: [gulf-coast](/tag/gulf-coast), [event](/tag/event), [water-quality](/tag/water-quality), [event:rsvp](/tag/event:rsvp), [urbanwater](/tag/urbanwater), [coqui](/tag/coqui), [date:02-26-2015](/tag/date:02-26-2015)
 
 ----
 

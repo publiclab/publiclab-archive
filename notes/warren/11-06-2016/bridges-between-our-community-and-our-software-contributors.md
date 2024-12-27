@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/11-06-2016/bridges-between-our-community-and-our-software-contributors.md
 nid: 13682
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/723/original/Screenshot_2016-11-05_at_8.12.04_PM.png)
 
 # Bridges between our community and our software contributors
 
-by [warren](../../../profile/warren) | November 06, 2016 00:24
+by [warren](/profile/warren) | November 06, 2016 00:24
 
-November 06, 2016 00:24 | Tags: [community](../tag/community), [software](../tag/software), [outreach](../tag/outreach), [gsoc](../tag/gsoc), [web](../tag/web), [coding](../tag/coding), [wwg](../tag/wwg), [software-outreach](../tag/software-outreach)
+November 06, 2016 00:24 | Tags: [community](/tag/community), [software](/tag/software), [outreach](/tag/outreach), [gsoc](/tag/gsoc), [web](/tag/web), [coding](/tag/coding), [wwg](/tag/wwg), [software-outreach](/tag/software-outreach)
 
 ----
 

@@ -6,18 +6,16 @@ author: junior_walk1337
 path: /notes/junior_walk1337/05-11-2022/edwight-5-11-22.md
 nid: 30721
 uid: 756318
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/670/original/Edwight.jpg)
 
 # Edwight 5/11/22
 
-by [junior_walk1337](../../../profile/junior_walk1337) | May 11, 2022 20:52
+by [junior_walk1337](/profile/junior_walk1337) | May 11, 2022 20:52
 
-May 11, 2022 20:52 | Tags: [drones](../tag/drones), [coal-mining](../tag/coal-mining), [mmmp](../tag/mmmp)
+May 11, 2022 20:52 | Tags: [drones](/tag/drones), [coal-mining](/tag/coal-mining), [mmmp](/tag/mmmp)
 
 ----
 

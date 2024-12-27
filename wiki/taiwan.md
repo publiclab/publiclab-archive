@@ -6,14 +6,14 @@ author: liz
 path: /wiki/taiwan.md
 nid: 11203
 uid: 7
-
+cids: 
 ---
 
 # taiwan
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-September 29, 2014 14:24 | Tags: [asia](../tag/asia), [china](../tag/china)
+September 29, 2014 14:24 | Tags: [asia](/tag/asia), [china](/tag/china)
 
 ----
 

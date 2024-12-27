@@ -6,18 +6,16 @@ author: tester
 path: /notes/tester/04-23-2016/new-moderation-system-for-first-time-posters.md
 nid: 13023
 uid: 60662
-
 cids: 14422,23895,25626,25953,26240,26390,26391,26587,26686,26986,27329,27831,27976,28288,28646,28994,29171,29237,29563,29579,29631,29691,29694,29723,29724,30117,30164,30231,30347,30352,30392,30600,30755,30786,31009,31010,31230,31244,31321,31478
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/755/original/Screenshot_2016-04-23_at_4.17.24_PM.png)
 
 # New moderation system for first-time posters
 
-by [tester](../../../profile/tester) | April 23, 2016 20:25
+by [tester](/profile/tester) | April 23, 2016 20:25
 
-April 23, 2016 20:25 | Tags: [community](../tag/community), [website](../tag/website), [organizers](../tag/organizers), [spam](../tag/spam), [barnstar:basic](../tag/barnstar:basic), [with:warren](../tag/with:warren), [moderation](../tag/moderation), [newcomers](../tag/newcomers), [location:blurred](../tag/location:blurred), [lat:-80](../tag/lat:-80), [lon:630](../tag/lon:630), [first-contribution](../tag/first-contribution)
+April 23, 2016 20:25 | Tags: [community](/tag/community), [website](/tag/website), [organizers](/tag/organizers), [spam](/tag/spam), [barnstar:basic](/tag/barnstar:basic), [with:warren](/tag/with:warren), [moderation](/tag/moderation), [newcomers](/tag/newcomers), [location:blurred](/tag/location:blurred), [lat:-80](/tag/lat:-80), [lon:630](/tag/lon:630), [first-contribution](/tag/first-contribution)
 
 ----
 

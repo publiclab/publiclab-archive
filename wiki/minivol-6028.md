@@ -6,14 +6,14 @@ author: mathew
 path: /wiki/minivol-6028.md
 nid: 13919
 uid: 4
-
+cids: 
 ---
 
 # MiniVol #6028
 
-by [eustatic](../profile/eustatic), [mathew](../profile/mathew)
+by [eustatic](/profile/eustatic), [mathew](/profile/mathew)
 
-February 10, 2017 19:14 | Tags: [6028](../tag/6028)
+February 10, 2017 19:14 | Tags: [6028](/tag/6028)
 
 ----
 

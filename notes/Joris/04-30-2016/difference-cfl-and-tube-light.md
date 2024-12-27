@@ -6,16 +6,14 @@ author: Joris
 path: /notes/Joris/04-30-2016/difference-cfl-and-tube-light.md
 nid: 13056
 uid: 471889
-
 cids: 14483,14516,14518,14519,14521
-
 ---
 
 # Difference CFL and Tube light?
 
-by [Joris](../../../profile/Joris) | April 30, 2016 19:31
+by [Joris](/profile/Joris) | April 30, 2016 19:31
 
-April 30, 2016 19:31 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered)
+April 30, 2016 19:31 | Tags: [question:spectral-workbench](/tag/question:spectral-workbench), [answered](/tag/answered)
 
 ----
 

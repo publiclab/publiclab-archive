@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/04-20-2013/superblue.md
 nid: 6923
 uid: 554
-
 cids: 4540,4585,4586,4587,4696,4699,4700,4701,4726,5081,5088,5367,5384,5388,6336,6708,6735,10792,10802,10848,10850,10853,10855,10856,10878,11110,11111,11823,11828,13295,13296
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/087/original/crocuscam-201335372.jpg)
 
 # Superblue
 
-by [cfastie](../../../profile/cfastie) | April 20, 2013 02:49
+by [cfastie](/profile/cfastie) | April 20, 2013 02:49
 
-April 20, 2013 02:49 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [superblue](../tag/superblue), [rosco](../tag/rosco), [infragram-filters](../tag/infragram-filters), [barnstar:basic](../tag/barnstar:basic)
+April 20, 2013 02:49 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [nrg](/tag/nrg), [ndvi](/tag/ndvi), [vermont](/tag/vermont), [white-balance](/tag/white-balance), [infragram](/tag/infragram), [plant-health](/tag/plant-health), [superblue](/tag/superblue), [rosco](/tag/rosco), [infragram-filters](/tag/infragram-filters), [barnstar:basic](/tag/barnstar:basic)
 
 ----
 

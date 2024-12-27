@@ -6,18 +6,16 @@ author: kbollhorst
 path: /notes/kbollhorst/04-30-2015/internal-image-of-desktop-spectrometer-with-gum-stick-camera.md
 nid: 11775
 uid: 439554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/726/original/Internal_Spectrometer.jpg)
 
 # Internal Image of Desktop Spectrometer with "Gum Stick" Camera
 
-by [kbollhorst](../../../profile/kbollhorst) | April 30, 2015 11:57
+by [kbollhorst](/profile/kbollhorst) | April 30, 2015 11:57
 
-April 30, 2015 11:57 | Tags: [spectrometer](../tag/spectrometer), [diy](../tag/diy)
+April 30, 2015 11:57 | Tags: [spectrometer](/tag/spectrometer), [diy](/tag/diy)
 
 ----
 

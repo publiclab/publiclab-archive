@@ -6,16 +6,16 @@ author: joyofsoy
 path: /wiki/anniversary.md
 nid: 22315
 uid: 540844
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/114/original/publiclab_mapping_1200x430.png)
 
 # Celebrating Public Lab's tenth anniversary
 
-by [joyofsoy](../profile/joyofsoy)
+by [joyofsoy](/profile/joyofsoy)
 
-January 15, 2020 05:29 | Tags: [blog](../tag/blog), [anniversary](../tag/anniversary), [pl10](../tag/pl10), [bp10](../tag/bp10), [geography-of-robots](../tag/geography-of-robots)
+January 15, 2020 05:29 | Tags: [blog](/tag/blog), [anniversary](/tag/anniversary), [pl10](/tag/pl10), [bp10](/tag/bp10), [geography-of-robots](/tag/geography-of-robots)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/12-06-2017/help-improve-the-step-by-step-guides-people-have-posted-on-publiclab-org.md
 nid: 15323
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/828/original/Screen_Shot_2017-12-06_at_2.14.11_PM.png)
 
 # Help improve the step-by-step guides people have posted on PublicLab.org
 
-by [warren](../../../profile/warren) | December 06, 2017 19:43
+by [warren](/profile/warren) | December 06, 2017 19:43
 
-December 06, 2017 19:43 | Tags: [seeks:replications](../tag/seeks:replications), [activities](../tag/activities), [requests](../tag/requests), [activity:requests](../tag/activity:requests), [activity:activities](../tag/activity:activities), [peer-support](../tag/peer-support), [authoring-help](../tag/authoring-help)
+December 06, 2017 19:43 | Tags: [seeks:replications](/tag/seeks:replications), [activities](/tag/activities), [requests](/tag/requests), [activity:requests](/tag/activity:requests), [activity:activities](/tag/activity:activities), [peer-support](/tag/peer-support), [authoring-help](/tag/authoring-help)
 
 ----
 

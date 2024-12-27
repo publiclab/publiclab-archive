@@ -6,16 +6,16 @@ author: warren
 path: /wiki/turbidity.md
 nid: 14953
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/922/original/2478687_orig.gif)
 
 # Assess Turbidity in Water
 
-by [liz](../profile/liz), [warren](../profile/warren)
+by [liz](/profile/liz), [warren](/profile/warren)
 
-September 25, 2017 19:46 | Tags: [agriculture](../tag/agriculture), [mining](../tag/mining), [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [method](../tag/method), [parent:water-quality](../tag/parent:water-quality)
+September 25, 2017 19:46 | Tags: [agriculture](/tag/agriculture), [mining](/tag/mining), [water-quality](/tag/water-quality), [turbidity](/tag/turbidity), [method](/tag/method), [parent:water-quality](/tag/parent:water-quality)
 
 ----
 
@@ -41,7 +41,7 @@ There are a LOT of resources available on these pages by @donblair and others:
 
 ## Questions
 
-[turbidity](../../tag/question:turbidity)
+[turbidity](/tag/question:turbidity)
 
 ****
 
@@ -67,12 +67,12 @@ Monitoring Residential Drinking Water Quality: http://www2.ucy.ac.cy/~faniseng/p
 
 Activities for people to test methods (these develop over time)
 
-[turbidity](../../tag/activity:turbidity)
+[turbidity](/tag/activity:turbidity)
 
 ****
 
 ## Existing work
 
-[turbidity](../../tag/turbidity)
+[turbidity](/tag/turbidity)
 
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/08-13-2013/comparative-and-qualitative-flame-spectroscopy.md
 nid: 8996
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/122/original/Screen_Shot_2013-08-13_at_12.25.58_PM.png)
 
 # Comparative and qualitative flame spectroscopy
 
-by [warren](../../../profile/warren) | August 13, 2013 16:28
+by [warren](/profile/warren) | August 13, 2013 16:28
 
-August 13, 2013 16:28 | Tags: [spectrometer](../tag/spectrometer), [flame](../tag/flame), [spectral-analysis](../tag/spectral-analysis), [flare](../tag/flare), [emission](../tag/emission), [emissions](../tag/emissions), [nist](../tag/nist), [spectral-databases](../tag/spectral-databases), [response:8995](../tag/response:8995)
+August 13, 2013 16:28 | Tags: [spectrometer](/tag/spectrometer), [flame](/tag/flame), [spectral-analysis](/tag/spectral-analysis), [flare](/tag/flare), [emission](/tag/emission), [emissions](/tag/emissions), [nist](/tag/nist), [spectral-databases](/tag/spectral-databases), [response:8995](/tag/response:8995)
 
 ----
 

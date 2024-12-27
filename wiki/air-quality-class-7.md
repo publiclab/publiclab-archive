@@ -6,14 +6,14 @@ author: liz
 path: /wiki/air-quality-class-7.md
 nid: 6441
 uid: 7
-
+cids: 
 ---
 
 # air quality class 7
 
-by [liz](../profile/liz), [jmsaavedra](../profile/jmsaavedra)
+by [liz](/profile/liz), [jmsaavedra](/profile/jmsaavedra)
 
-March 19, 2013 23:44 | Tags: [chaq](../tag/chaq), [air-quality](../tag/air-quality)
+March 19, 2013 23:44 | Tags: [chaq](/tag/chaq), [air-quality](/tag/air-quality)
 
 ----
 

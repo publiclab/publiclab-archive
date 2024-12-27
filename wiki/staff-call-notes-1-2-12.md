@@ -6,12 +6,12 @@ author: Shannon
 path: /wiki/staff-call-notes-1-2-12.md
 nid: 674
 uid: 9
-
+cids: 
 ---
 
 # Staff call notes 1-2-12
 
-by [Shannon](../profile/Shannon)
+by [Shannon](/profile/Shannon)
 
 January 02, 2012 20:50 | Tags: 
 

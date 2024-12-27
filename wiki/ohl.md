@@ -6,12 +6,12 @@ author: warren
 path: /wiki/ohl.md
 nid: 17728
 uid: 1
-
+cids: 
 ---
 
 # OHL
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 November 22, 2018 00:07 | Tags: 
 

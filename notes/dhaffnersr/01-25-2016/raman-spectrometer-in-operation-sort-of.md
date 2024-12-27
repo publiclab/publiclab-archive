@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/01-25-2016/raman-spectrometer-in-operation-sort-of.md
 nid: 12615
 uid: 461120
-
 cids: 17518
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/807/original/20160125_104801.jpg)
 
 # Raman spectrometer in operation (sort of)
 
-by [dhaffnersr](../../../profile/dhaffnersr) | January 25, 2016 16:26
+by [dhaffnersr](/profile/dhaffnersr) | January 25, 2016 16:26
 
 January 25, 2016 16:26 | Tags: 
 

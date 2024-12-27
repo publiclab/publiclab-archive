@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/10-05-2018/fun-with-u-blox.md
 nid: 17228
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/798/original/satsworbits.PNG)
 
 # Fun with u-blox
 
-by [cfastie](../../../profile/cfastie) | October 05, 2018 03:23
+by [cfastie](/profile/cfastie) | October 05, 2018 03:23
 
-October 05, 2018 03:23 | Tags: [arduino](../tag/arduino), [kite-aerial-photography](../tag/kite-aerial-photography), [gps](../tag/gps), [ublox](../tag/ublox), [skypod-gps-logger](../tag/skypod-gps-logger), [activity:skypod-gps-logger](../tag/activity:skypod-gps-logger)
+October 05, 2018 03:23 | Tags: [arduino](/tag/arduino), [kite-aerial-photography](/tag/kite-aerial-photography), [gps](/tag/gps), [ublox](/tag/ublox), [skypod-gps-logger](/tag/skypod-gps-logger), [activity:skypod-gps-logger](/tag/activity:skypod-gps-logger)
 
 ----
 

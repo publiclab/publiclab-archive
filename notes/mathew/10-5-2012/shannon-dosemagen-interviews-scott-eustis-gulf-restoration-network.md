@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/10-5-2012/shannon-dosemagen-interviews-scott-eustis-gulf-restoration-network.md
 nid: 4183
 uid: 4
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/2614510826_2c83e754f2_b_0.jpg)
 
 # Shannon Dosemagen Interviews Scott Eustis of Gulf Restoration Network 
 
-by [mathew](../../../profile/mathew) | October 05, 2012 04:19
+by [mathew](/profile/mathew) | October 05, 2012 04:19
 
-October 05, 2012 04:19 | Tags: [wetlands](../tag/wetlands), [gulf-restoration-network](../tag/gulf-restoration-network), [chandeleur-islands](../tag/chandeleur-islands), [restoration](../tag/restoration), [interview](../tag/interview)
+October 05, 2012 04:19 | Tags: [wetlands](/tag/wetlands), [gulf-restoration-network](/tag/gulf-restoration-network), [chandeleur-islands](/tag/chandeleur-islands), [restoration](/tag/restoration), [interview](/tag/interview)
 
 ----
 

@@ -6,18 +6,16 @@ author: ygzstc
 path: /notes/ygzstc/08-05-2015/oil-testing-kit-public-beta-program-announcing-participants.md
 nid: 12123
 uid: 422489
-
 cids: 12500,12507,12508,12516,12518,12541,12544,12546,12548,12549,12555,12564,12565
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/040/original/otk-b-flyer.png)
 
 # Oil Testing Kit Public Beta Program - Welcome!
 
-by [ygzstc](../../../profile/ygzstc) | August 05, 2015 17:55
+by [ygzstc](/profile/ygzstc) | August 05, 2015 17:55
 
-August 05, 2015 17:55 | Tags: [spectrometer](../tag/spectrometer), [oil-testing](../tag/oil-testing), [oil-testing-kit](../tag/oil-testing-kit), [homebrew-oil-testing-kit](../tag/homebrew-oil-testing-kit), [otk](../tag/otk), [homebrew](../tag/homebrew), [response:12060](../tag/response:12060)
+August 05, 2015 17:55 | Tags: [spectrometer](/tag/spectrometer), [oil-testing](/tag/oil-testing), [oil-testing-kit](/tag/oil-testing-kit), [homebrew-oil-testing-kit](/tag/homebrew-oil-testing-kit), [otk](/tag/otk), [homebrew](/tag/homebrew), [response:12060](/tag/response:12060)
 
 ----
 

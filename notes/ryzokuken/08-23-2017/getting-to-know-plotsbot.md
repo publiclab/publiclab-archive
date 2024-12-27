@@ -6,18 +6,16 @@ author: ryzokuken
 path: /notes/ryzokuken/08-23-2017/getting-to-know-plotsbot.md
 nid: 14779
 uid: 493113
-
 cids: 17207,17222,17223,17230,17231,17244,17245,17259,17298
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/397/original/PublicLab.png)
 
 # Getting to know plotsbot
 
-by [ryzokuken](../../../profile/ryzokuken) | August 23, 2017 14:23
+by [ryzokuken](/profile/ryzokuken) | August 23, 2017 14:23
 
-August 23, 2017 14:23 | Tags: [gsoc](../tag/gsoc), [google-summer-of-code](../tag/google-summer-of-code), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [plotsbot](../tag/plotsbot), [publiclab-testing](../tag/publiclab-testing), [response:14788](../tag/response:14788)
+August 23, 2017 14:23 | Tags: [gsoc](/tag/gsoc), [google-summer-of-code](/tag/google-summer-of-code), [gsoc-2017](/tag/gsoc-2017), [soc](/tag/soc), [soc-2017](/tag/soc-2017), [plotsbot](/tag/plotsbot), [publiclab-testing](/tag/publiclab-testing), [response:14788](/tag/response:14788)
 
 ----
 

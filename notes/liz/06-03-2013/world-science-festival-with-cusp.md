@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/06-03-2013/world-science-festival-with-cusp.md
 nid: 8020
 uid: 7
-
 cids: 4941,4964
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/467/original/IMG_2031.JPG)
 
 # World Science Festival with CUSP
 
-by [liz](../../../profile/liz) | June 03, 2013 01:19
+by [liz](/profile/liz) | June 03, 2013 01:19
 
-June 03, 2013 01:19 | Tags: [balloon-mapping](../tag/balloon-mapping)
+June 03, 2013 01:19 | Tags: [balloon-mapping](/tag/balloon-mapping)
 
 ----
 

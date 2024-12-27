@@ -6,16 +6,14 @@ author: mathew
 path: /notes/mathew/11-15-2012/barnraising-ethics-practice.md
 nid: 4927
 uid: 4
-
 cids: 
-
 ---
 
 # Barnraising: Ethics of Practice
 
-by [mathew](../../../profile/mathew) | November 16, 2012 04:23
+by [mathew](/profile/mathew) | November 16, 2012 04:23
 
-November 16, 2012 04:23 | Tags: [barnraising](../tag/barnraising), [barnraising2012](../tag/barnraising2012), [ethics](../tag/ethics), [excites](../tag/excites)
+November 16, 2012 04:23 | Tags: [barnraising](/tag/barnraising), [barnraising2012](/tag/barnraising2012), [ethics](/tag/ethics), [excites](/tag/excites)
 
 ----
 

@@ -6,16 +6,14 @@ author: adyr_construction
 path: /notes/adyr_construction/01-08-2018/how-to-choose-the-order-of-pictures-when-exporting.md
 nid: 15474
 uid: 522032
-
 cids: 18114,18123,18128,22825
-
 ---
 
 # How to choose the order of pictures when exporting
 
-by [adyr_construction](../../../profile/adyr_construction) | January 08, 2018 14:15
+by [adyr_construction](/profile/adyr_construction) | January 08, 2018 14:15
 
-January 08, 2018 14:15 | Tags: [mapknitter](../tag/mapknitter), [help](../tag/help), [tutorial](../tag/tutorial), [exporting](../tag/exporting), [answered](../tag/answered), [question:mapknitter](../tag/question:mapknitter)
+January 08, 2018 14:15 | Tags: [mapknitter](/tag/mapknitter), [help](/tag/help), [tutorial](/tag/tutorial), [exporting](/tag/exporting), [answered](/tag/answered), [question:mapknitter](/tag/question:mapknitter)
 
 ----
 

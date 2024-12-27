@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/07-21-2016/openflexure-microscope-high-resolution-assembly.md
 nid: 13303
 uid: 4
-
 cids: 14997,14999,15000,15002,15580,15588,15600
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/172/original/P_20160711_151836.jpg)
 
 # OpenFlexure Microscope: high-resolution assembly
 
-by [mathew](../../../profile/mathew) | July 21, 2016 19:17
+by [mathew](/profile/mathew) | July 21, 2016 19:17
 
-July 21, 2016 19:17 | Tags: [raspberry-pi](../tag/raspberry-pi), [dust](../tag/dust), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particle-monitoring](../tag/particle-monitoring), [microscope](../tag/microscope), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [parent:frac-sand](../tag/parent:frac-sand), [microscopy](../tag/microscopy), [openflexure](../tag/openflexure), [activity:microscope](../tag/activity:microscope), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes)
+July 21, 2016 19:17 | Tags: [raspberry-pi](/tag/raspberry-pi), [dust](/tag/dust), [frac-sand](/tag/frac-sand), [pm](/tag/pm), [particle-monitoring](/tag/particle-monitoring), [microscope](/tag/microscope), [passive-particle-monitors](/tag/passive-particle-monitors), [passive-pm](/tag/passive-pm), [parent:frac-sand](/tag/parent:frac-sand), [microscopy](/tag/microscopy), [openflexure](/tag/openflexure), [activity:microscope](/tag/activity:microscope), [microscopes](/tag/microscopes), [activity:microscopes](/tag/activity:microscopes)
 
 ----
 

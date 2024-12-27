@@ -6,14 +6,14 @@ author: donblair
 path: /wiki/conference-booth-nuts.md
 nid: 9936
 uid: 43651
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/520/original/nuts.png)
 
 # Conference Booth Nuts
 
-by [donblair](../profile/donblair)
+by [donblair](/profile/donblair)
 
 January 10, 2014 16:33 | Tags: 
 

@@ -6,16 +6,14 @@ author: jkenny23
 path: /notes/jkenny23/05-14-2020/measuring-uv-c-sources.md
 nid: 23629
 uid: 693382
-
 cids: 26818,26819,26821,26833
-
 ---
 
 # Measuring UV-C Sources
 
-by [jkenny23](../../../profile/jkenny23) | May 14, 2020 11:04
+by [jkenny23](/profile/jkenny23) | May 14, 2020 11:04
 
-May 14, 2020 11:04 | Tags: [spectrometry](../tag/spectrometry), [question:spectrometry](../tag/question:spectrometry), [first-time-poster](../tag/first-time-poster)
+May 14, 2020 11:04 | Tags: [spectrometry](/tag/spectrometry), [question:spectrometry](/tag/question:spectrometry), [first-time-poster](/tag/first-time-poster)
 
 ----
 

@@ -6,14 +6,14 @@ author: liz
 path: /wiki/gmf-8-an-ode-to-maps.md
 nid: 12148
 uid: 7
-
+cids: 
 ---
 
 # GMF-8-An-Ode-To-Maps
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-August 17, 2015 15:59 | Tags: [grassrootsmappingforum](../tag/grassrootsmappingforum), [style:fancy](../tag/style:fancy), [gmf-8](../tag/gmf-8)
+August 17, 2015 15:59 | Tags: [grassrootsmappingforum](/tag/grassrootsmappingforum), [style:fancy](/tag/style:fancy), [gmf-8](/tag/gmf-8)
 
 ----
 

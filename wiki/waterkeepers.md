@@ -6,14 +6,14 @@ author: amocorro
 path: /wiki/waterkeepers.md
 nid: 25470
 uid: 700923
-
+cids: 
 ---
 
 # waterkeepers
 
-by [amocorro](../profile/amocorro)
+by [amocorro](/profile/amocorro)
 
-January 15, 2021 15:45 | Tags: [water-monitoring](../tag/water-monitoring), [waterkeepers](../tag/waterkeepers)
+January 15, 2021 15:45 | Tags: [water-monitoring](/tag/water-monitoring), [waterkeepers](/tag/waterkeepers)
 
 ----
 

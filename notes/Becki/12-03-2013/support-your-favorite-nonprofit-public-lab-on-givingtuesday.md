@@ -6,18 +6,16 @@ author: Becki
 path: /notes/Becki/12-03-2013/support-your-favorite-nonprofit-public-lab-on-givingtuesday.md
 nid: 9844
 uid: 46673
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/352/original/PublicLabBarnraising2013Group_webresolution.jpg)
 
 # Support your favorite nonprofit (Public Lab!) on #GivingTuesday!
 
-by [Becki](../../../profile/Becki) | December 03, 2013 19:14
+by [Becki](/profile/Becki) | December 03, 2013 19:14
 
-December 03, 2013 19:14 | Tags: [fundraising](../tag/fundraising)
+December 03, 2013 19:14 | Tags: [fundraising](/tag/fundraising)
 
 ----
 

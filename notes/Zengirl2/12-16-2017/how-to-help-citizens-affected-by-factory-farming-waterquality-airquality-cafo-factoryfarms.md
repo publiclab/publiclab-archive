@@ -6,18 +6,16 @@ author: zengirl2
 path: /notes/Zengirl2/12-16-2017/how-to-help-citizens-affected-by-factory-farming-waterquality-airquality-cafo-factoryfarms.md
 nid: 15387
 uid: 423961
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/952/original/FarmSick.jpg)
 
 # How to Help Citizens Affected by Factory Farming? #waterquality #airquality #CAFO #factoryfarms
 
-by [zengirl2](../../../profile/zengirl2) | December 16, 2017 23:14
+by [zengirl2](/profile/zengirl2) | December 16, 2017 23:14
 
-December 16, 2017 23:14 | Tags: [balloon-mapping](../tag/balloon-mapping), [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [cafo](../tag/cafo), [ammonia](../tag/ammonia), [factory-farms](../tag/factory-farms), [srap](../tag/srap)
+December 16, 2017 23:14 | Tags: [balloon-mapping](/tag/balloon-mapping), [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](/tag/hydrogen-sulfide), [air-quality](/tag/air-quality), [water-quality](/tag/water-quality), [cafo](/tag/cafo), [ammonia](/tag/ammonia), [factory-farms](/tag/factory-farms), [srap](/tag/srap)
 
 ----
 

@@ -6,14 +6,14 @@ author: liz
 path: /wiki/barnraising-northeast-2014.md
 nid: 10466
 uid: 7
-
+cids: 
 ---
 
 # barnraising-northeast-2014
 
-by [Hudonnoodles](../profile/Hudonnoodles), [Shannon](../profile/Shannon), [kgradow1](../profile/kgradow1), [liz](../profile/liz), [warren](../profile/warren)
+by [Hudonnoodles](/profile/Hudonnoodles), [Shannon](/profile/Shannon), [kgradow1](/profile/kgradow1), [liz](/profile/liz), [warren](/profile/warren)
 
-May 12, 2014 22:14 | Tags: [barnraising](../tag/barnraising), [event](../tag/event), [massachusetts](../tag/massachusetts), [plymouth](../tag/plymouth), [tidmarsh](../tag/tidmarsh), [list:plots-barnraising](../tag/list:plots-barnraising), [northeast](../tag/northeast), [jones-river](../tag/jones-river), [parent:barnraising](../tag/parent:barnraising)
+May 12, 2014 22:14 | Tags: [barnraising](/tag/barnraising), [event](/tag/event), [massachusetts](/tag/massachusetts), [plymouth](/tag/plymouth), [tidmarsh](/tag/tidmarsh), [list:plots-barnraising](/tag/list:plots-barnraising), [northeast](/tag/northeast), [jones-river](/tag/jones-river), [parent:barnraising](/tag/parent:barnraising)
 
 ----
 

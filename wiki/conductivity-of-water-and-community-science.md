@@ -6,16 +6,16 @@ author: gilbert
 path: /wiki/conductivity-of-water-and-community-science.md
 nid: 15407
 uid: 508551
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/166/original/image.png)
 
 # Conductivity of Water and Community Science
 
-by [gilbert](../profile/gilbert)
+by [gilbert](/profile/gilbert)
 
-December 20, 2017 22:01 | Tags: [water-sensing](../tag/water-sensing), [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [community-science](../tag/community-science), [parent:water-quality](../tag/parent:water-quality)
+December 20, 2017 22:01 | Tags: [water-sensing](/tag/water-sensing), [water-quality](/tag/water-quality), [conductivity](/tag/conductivity), [community-science](/tag/community-science), [parent:water-quality](/tag/parent:water-quality)
 
 ----
 

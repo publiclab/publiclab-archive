@@ -6,14 +6,14 @@ author: warren
 path: /wiki/oil-testing-kit-literature.md
 nid: 11052
 uid: 1
-
+cids: 
 ---
 
 # Oil Testing Kit Literature
 
-by [warren](../profile/warren), [liz](../profile/liz), [eustatic](../profile/eustatic), [mathew](../profile/mathew), [mollydanielsson](../profile/mollydanielsson)
+by [warren](/profile/warren), [liz](/profile/liz), [eustatic](/profile/eustatic), [mathew](/profile/mathew), [mollydanielsson](/profile/mollydanielsson)
 
-August 14, 2014 21:52 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [literature](../tag/literature), [oil-testing-kit](../tag/oil-testing-kit), [parent:oil-testing-kit](../tag/parent:oil-testing-kit)
+August 14, 2014 21:52 | Tags: [spectrometer](/tag/spectrometer), [fluorescence](/tag/fluorescence), [literature](/tag/literature), [oil-testing-kit](/tag/oil-testing-kit), [parent:oil-testing-kit](/tag/parent:oil-testing-kit)
 
 ----
 

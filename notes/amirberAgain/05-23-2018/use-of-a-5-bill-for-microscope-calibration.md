@@ -6,18 +6,16 @@ author: amirberAgain
 path: /notes/amirberAgain/05-23-2018/use-of-a-5-bill-for-microscope-calibration.md
 nid: 16381
 uid: 420776
-
 cids: 19689
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/014/original/Crop.jpg)
 
 # Use of a 5$ bill for microscope calibration
 
-by [amirberAgain](../../../profile/amirberAgain) | May 23, 2018 19:02
+by [amirberAgain](/profile/amirberAgain) | May 23, 2018 19:02
 
-May 23, 2018 19:02 | Tags: [barnstar:basic](../tag/barnstar:basic), [microscope](../tag/microscope), [activity:microscope](../tag/activity:microscope), [microscope-calibration](../tag/microscope-calibration), [activity:community-microscope-usage](../tag/activity:community-microscope-usage), [activity:microscope-calibration](../tag/activity:microscope-calibration), [activity:starter-community-microscope](../tag/activity:starter-community-microscope)
+May 23, 2018 19:02 | Tags: [barnstar:basic](/tag/barnstar:basic), [microscope](/tag/microscope), [activity:microscope](/tag/activity:microscope), [microscope-calibration](/tag/microscope-calibration), [activity:community-microscope-usage](/tag/activity:community-microscope-usage), [activity:microscope-calibration](/tag/activity:microscope-calibration), [activity:starter-community-microscope](/tag/activity:starter-community-microscope)
 
 ----
 

@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/07-18-2014/lending-libraries.md
 nid: 10706
 uid: 7
-
 cids: 9557,9567,9596,9599,9703
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/382/original/IMG_0784.JPG)
 
 # Lending Libraries
 
-by [liz](../../../profile/liz) | July 18, 2014 16:23
+by [liz](/profile/liz) | July 18, 2014 16:23
 
-July 18, 2014 16:23 | Tags: [community](../tag/community), [lending-library](../tag/lending-library), [response:10953](../tag/response:10953)
+July 18, 2014 16:23 | Tags: [community](/tag/community), [lending-library](/tag/lending-library), [response:10953](/tag/response:10953)
 
 ----
 

@@ -6,12 +6,12 @@ author: warren
 path: /wiki/mailing-lists-stats.md
 nid: 3885
 uid: 1
-
+cids: 
 ---
 
 # Mailing lists stats
 
-by [warren](../profile/warren), [liz](../profile/liz)
+by [warren](/profile/warren), [liz](/profile/liz)
 
 September 19, 2012 17:01 | Tags: 
 

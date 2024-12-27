@@ -6,14 +6,14 @@ author: vjpixel
 path: /wiki/parametros-de-qualidade-da-agua.md
 nid: 12478
 uid: 420617
-
+cids: 
 ---
 
 # Parâmetros de qualidade da água
 
-by [vjpixel](../profile/vjpixel)
+by [vjpixel](/profile/vjpixel)
 
-December 04, 2015 06:20 | Tags: [water-quality-monitoring](../tag/water-quality-monitoring), [water-quality](../tag/water-quality), [list:plots-waterquality](../tag/list:plots-waterquality), [lang:pt](../tag/lang:pt), [list:publiclab-portugues](../tag/list:publiclab-portugues), [parent:water-quality](../tag/parent:water-quality)
+December 04, 2015 06:20 | Tags: [water-quality-monitoring](/tag/water-quality-monitoring), [water-quality](/tag/water-quality), [list:plots-waterquality](/tag/list:plots-waterquality), [lang:pt](/tag/lang:pt), [list:publiclab-portugues](/tag/list:publiclab-portugues), [parent:water-quality](/tag/parent:water-quality)
 
 ----
 

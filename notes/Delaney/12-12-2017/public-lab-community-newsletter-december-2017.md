@@ -6,18 +6,16 @@ author: Delaney
 path: /notes/Delaney/12-12-2017/public-lab-community-newsletter-december-2017.md
 nid: 15355
 uid: 517173
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/995/original/Header-2.png)
 
 # Public Lab Community Newsletter: December 2017
 
-by [Delaney](../../../profile/Delaney) | December 12, 2017 19:58
+by [Delaney](/profile/Delaney) | December 12, 2017 19:58
 
-December 12, 2017 19:58 | Tags: [gulf-coast](../tag/gulf-coast), [newsletter](../tag/newsletter), [kits](../tag/kits), [barnraising](../tag/barnraising), [lumcon](../tag/lumcon), [news](../tag/news), [staff](../tag/staff), [microscope](../tag/microscope), [open-call](../tag/open-call), [community-kits](../tag/community-kits)
+December 12, 2017 19:58 | Tags: [gulf-coast](/tag/gulf-coast), [newsletter](/tag/newsletter), [kits](/tag/kits), [barnraising](/tag/barnraising), [lumcon](/tag/lumcon), [news](/tag/news), [staff](/tag/staff), [microscope](/tag/microscope), [open-call](/tag/open-call), [community-kits](/tag/community-kits)
 
 ----
 

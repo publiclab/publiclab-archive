@@ -6,14 +6,14 @@ author: warren
 path: /wiki/spectrometer-media.md
 nid: 8925
 uid: 1
-
+cids: 
 ---
 
 # spectrometer-media
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-July 23, 2013 17:57 | Tags: [spectrometer](../tag/spectrometer), [media](../tag/media), [photos](../tag/photos)
+July 23, 2013 17:57 | Tags: [spectrometer](/tag/spectrometer), [media](/tag/media), [photos](/tag/photos)
 
 ----
 

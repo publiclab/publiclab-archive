@@ -6,14 +6,14 @@ author: gretchengehrke
 path: /wiki/hydrogen-sulfide-environment.md
 nid: 14966
 uid: 430549
-
+cids: 
 ---
 
 # Hydrogen Sulfide in the Environment
 
-by [gretchengehrke](../profile/gretchengehrke)
+by [gretchengehrke](/profile/gretchengehrke)
 
-September 28, 2017 17:15 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [parent:hydrogen-sulfide](../tag/parent:hydrogen-sulfide)
+September 28, 2017 17:15 | Tags: [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [parent:hydrogen-sulfide](/tag/parent:hydrogen-sulfide)
 
 ----
 

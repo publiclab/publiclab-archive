@@ -6,18 +6,16 @@ author: wward1400
 path: /notes/wward1400/10-09-2013/cartography-primer-no-1-at-pamet-marsh-cape-cod.md
 nid: 9429
 uid: 46742
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/824/original/Cartography_Primer_invitation_tix_v2.jpg)
 
 # Cartography Primer at Phats Valley Residency, Cape Cod
 
-by [wward1400](../../../profile/wward1400) | October 09, 2013 16:42
+by [wward1400](/profile/wward1400) | October 09, 2013 16:42
 
-October 09, 2013 16:42 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [annotated-maps](../tag/annotated-maps), [community-mapping](../tag/community-mapping), [infragram](../tag/infragram), [list:plots-boston](../tag/list:plots-boston), [coastalmonitoring](../tag/coastalmonitoring), [pamet](../tag/pamet)
+October 09, 2013 16:42 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [annotated-maps](/tag/annotated-maps), [community-mapping](/tag/community-mapping), [infragram](/tag/infragram), [list:plots-boston](/tag/list:plots-boston), [coastalmonitoring](/tag/coastalmonitoring), [pamet](/tag/pamet)
 
 ----
 

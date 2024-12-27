@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/03-12-2015/how-about-a-book-club-on-are-we-all-scientific-experts-now.md
 nid: 11672
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/244/original/18452_review_are_we_all_scientific_experts_now_harry_collins.jpg)
 
 # How about a book club on "Are we all scientific experts now?"
 
-by [liz](../../../profile/liz) | March 12, 2015 15:04
+by [liz](/profile/liz) | March 12, 2015 15:04
 
-March 12, 2015 15:04 | Tags: [readings](../tag/readings)
+March 12, 2015 15:04 | Tags: [readings](/tag/readings)
 
 ----
 

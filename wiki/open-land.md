@@ -6,14 +6,14 @@ author: liz
 path: /wiki/open-land.md
 nid: 11625
 uid: 7
-
+cids: 
 ---
 
 # Open Land
 
-by [eustatic](../profile/eustatic), [liz](../profile/liz)
+by [eustatic](/profile/eustatic), [liz](/profile/liz)
 
-February 23, 2015 17:51 | Tags: [wetlands](../tag/wetlands), [farmhack](../tag/farmhack), [wetland](../tag/wetland), [soil](../tag/soil), [garden](../tag/garden), [photosynq](../tag/photosynq), [soil-testing](../tag/soil-testing)
+February 23, 2015 17:51 | Tags: [wetlands](/tag/wetlands), [farmhack](/tag/farmhack), [wetland](/tag/wetland), [soil](/tag/soil), [garden](/tag/garden), [photosynq](/tag/photosynq), [soil-testing](/tag/soil-testing)
 
 ----
 

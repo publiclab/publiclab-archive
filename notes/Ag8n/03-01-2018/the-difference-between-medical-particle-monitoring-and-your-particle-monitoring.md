@@ -6,16 +6,14 @@ author: Ag8n
 path: /notes/Ag8n/03-01-2018/the-difference-between-medical-particle-monitoring-and-your-particle-monitoring.md
 nid: 15850
 uid: 520994
-
 cids: 18788,18789,18790,22969
-
 ---
 
 # The difference between medical particle monitoring and your particle monitoring?
 
-by [Ag8n](../../../profile/Ag8n) | March 01, 2018 18:04
+by [Ag8n](/profile/Ag8n) | March 01, 2018 18:04
 
-March 01, 2018 18:04 | Tags: [answered](../tag/answered), [question:pm](../tag/question:pm), [question:dust](../tag/question:dust), [question:air-sensors](../tag/question:air-sensors), [question:particle-monitoring](../tag/question:particle-monitoring)
+March 01, 2018 18:04 | Tags: [answered](/tag/answered), [question:pm](/tag/question:pm), [question:dust](/tag/question:dust), [question:air-sensors](/tag/question:air-sensors), [question:particle-monitoring](/tag/question:particle-monitoring)
 
 ----
 

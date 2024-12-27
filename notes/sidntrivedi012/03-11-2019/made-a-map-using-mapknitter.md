@@ -6,16 +6,14 @@ author: sidntrivedi012
 path: /notes/sidntrivedi012/03-11-2019/made-a-map-using-mapknitter.md
 nid: 18513
 uid: 572743
-
 cids: 
-
 ---
 
 # Made a map using Mapknitter.
 
-by [sidntrivedi012](../../../profile/sidntrivedi012) | March 11, 2019 10:26
+by [sidntrivedi012](/profile/sidntrivedi012) | March 11, 2019 10:26
 
-March 11, 2019 10:26 | Tags: [mapknitter](../tag/mapknitter), [first-time-poster](../tag/first-time-poster), [lat:26.4170467538](../tag/lat:26.4170467538), [lon:80.4057326755](../tag/lon:80.4057326755)
+March 11, 2019 10:26 | Tags: [mapknitter](/tag/mapknitter), [first-time-poster](/tag/first-time-poster), [lat:26.4170467538](/tag/lat:26.4170467538), [lon:80.4057326755](/tag/lon:80.4057326755)
 
 ----
 

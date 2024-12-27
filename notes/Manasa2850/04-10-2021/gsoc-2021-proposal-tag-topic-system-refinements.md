@@ -6,18 +6,16 @@ author: Manasa2850
 path: /notes/Manasa2850/04-10-2021/gsoc-2021-proposal-tag-topic-system-refinements.md
 nid: 26184
 uid: 752279
-
 cids: 28514,28517,28526,28536,28537,28610,28612,28655,28656,28657,28670,28671,28672,28673,28693,28695,28696,28710
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/209/original/1.png)
 
 # GSoC 2021 Proposal : Tag / topic system refinements
 
-by [Manasa2850](../../../profile/Manasa2850) | April 10, 2021 17:45
+by [Manasa2850](/profile/Manasa2850) | April 10, 2021 17:45
 
-April 10, 2021 17:45 | Tags: [software](../tag/software), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [gsoc-2021](../tag/gsoc-2021), [gsoc-2021-proposals](../tag/gsoc-2021-proposals), [outreachy-summer-2021](../tag/outreachy-summer-2021)
+April 10, 2021 17:45 | Tags: [software](/tag/software), [soc](/tag/soc), [first-time-poster](/tag/first-time-poster), [gsoc-2021](/tag/gsoc-2021), [gsoc-2021-proposals](/tag/gsoc-2021-proposals), [outreachy-summer-2021](/tag/outreachy-summer-2021)
 
 ----
 

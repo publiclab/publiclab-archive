@@ -6,14 +6,14 @@ author: mjain26
 path: /wiki/youth-balloon-mapping-workshop-curriculum.md
 nid: 10689
 uid: 424870
-
+cids: 
 ---
 
 # Youth Balloon Mapping Workshop Curriculum 
 
-by [warren](../profile/warren), [mjain26](../profile/mjain26)
+by [warren](/profile/warren), [mjain26](/profile/mjain26)
 
-July 14, 2014 18:45 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [curriculum](../tag/curriculum), [youth](../tag/youth), [chicago](../tag/chicago), [midwest](../tag/midwest), [civic-lab](../tag/civic-lab), [civiclb](../tag/civiclb), [response:10638](../tag/response:10638), [response:10612](../tag/response:10612)
+July 14, 2014 18:45 | Tags: [balloon-mapping](/tag/balloon-mapping), [education](/tag/education), [curriculum](/tag/curriculum), [youth](/tag/youth), [chicago](/tag/chicago), [midwest](/tag/midwest), [civic-lab](/tag/civic-lab), [civiclb](/tag/civiclb), [response:10638](/tag/response:10638), [response:10612](/tag/response:10612)
 
 ----
 

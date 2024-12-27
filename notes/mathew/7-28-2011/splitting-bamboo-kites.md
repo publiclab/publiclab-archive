@@ -6,16 +6,14 @@ author: mathew
 path: /notes/mathew/7-28-2011/splitting-bamboo-kites.md
 nid: 416
 uid: 4
-
 cids: 302
-
 ---
 
 # splitting bamboo for kites
 
-by [mathew](../../../profile/mathew) | July 28, 2011 04:17
+by [mathew](/profile/mathew) | July 28, 2011 04:17
 
-July 28, 2011 04:17 | Tags: [kite-mapping](../tag/kite-mapping), [diy-kite](../tag/diy-kite), [bamboo](../tag/bamboo), [diy-kites](../tag/diy-kites), [difficulty:easy](../tag/difficulty:easy), [category:build](../tag/category:build), [time:1h](../tag/time:1h), [kite-making](../tag/kite-making), [activity:kite-making](../tag/activity:kite-making), [activity:bamboo](../tag/activity:bamboo)
+July 28, 2011 04:17 | Tags: [kite-mapping](/tag/kite-mapping), [diy-kite](/tag/diy-kite), [bamboo](/tag/bamboo), [diy-kites](/tag/diy-kites), [difficulty:easy](/tag/difficulty:easy), [category:build](/tag/category:build), [time:1h](/tag/time:1h), [kite-making](/tag/kite-making), [activity:kite-making](/tag/activity:kite-making), [activity:bamboo](/tag/activity:bamboo)
 
 ----
 

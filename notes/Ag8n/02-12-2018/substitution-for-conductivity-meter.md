@@ -6,16 +6,14 @@ author: Ag8n
 path: /notes/Ag8n/02-12-2018/substitution-for-conductivity-meter.md
 nid: 15716
 uid: 520994
-
 cids: 18429,18430,18431,18436,18446,22924,22925
-
 ---
 
 # Substitution for conductivity meter
 
-by [Ag8n](../../../profile/Ag8n) | February 12, 2018 00:48
+by [Ag8n](/profile/Ag8n) | February 12, 2018 00:48
 
-February 12, 2018 00:48 | Tags: [question](../tag/question), [water-quality](../tag/water-quality), [water-quality-sensor](../tag/water-quality-sensor), [conductivity](../tag/conductivity), [tools](../tag/tools), [answered](../tag/answered), [question:data-logging](../tag/question:data-logging), [question:water-sensors](../tag/question:water-sensors), [water-sensors](../tag/water-sensors), [tds](../tag/tds), [question:conductivity](../tag/question:conductivity), [question:tds](../tag/question:tds), [aquarium](../tag/aquarium)
+February 12, 2018 00:48 | Tags: [question](/tag/question), [water-quality](/tag/water-quality), [water-quality-sensor](/tag/water-quality-sensor), [conductivity](/tag/conductivity), [tools](/tag/tools), [answered](/tag/answered), [question:data-logging](/tag/question:data-logging), [question:water-sensors](/tag/question:water-sensors), [water-sensors](/tag/water-sensors), [tds](/tag/tds), [question:conductivity](/tag/question:conductivity), [question:tds](/tag/question:tds), [aquarium](/tag/aquarium)
 
 ----
 

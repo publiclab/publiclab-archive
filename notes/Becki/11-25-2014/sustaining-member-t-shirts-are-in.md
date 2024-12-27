@@ -6,18 +6,16 @@ author: Becki
 path: /notes/Becki/11-25-2014/sustaining-member-t-shirts-are-in.md
 nid: 11403
 uid: 46673
-
 cids: 10863,10864
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/117/original/Tshirt-small.jpg)
 
 # Sustaining Member t-shirts are in!
 
-by [Becki](../../../profile/Becki) | November 25, 2014 23:53
+by [Becki](/profile/Becki) | November 25, 2014 23:53
 
-November 25, 2014 23:53 | Tags: [sustaining-members](../tag/sustaining-members)
+November 25, 2014 23:53 | Tags: [sustaining-members](/tag/sustaining-members)
 
 ----
 

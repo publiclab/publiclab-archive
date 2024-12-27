@@ -6,16 +6,14 @@ author: asnow
 path: /notes/asnow/05-14-2018/will-this-single-timer-work-for-the-coqui.md
 nid: 16348
 uid: 515746
-
 cids: 19638,19639,19640,19641,23091
-
 ---
 
 # Will this single timer work for the coqui?
 
-by [asnow](../../../profile/asnow) | May 14, 2018 16:45
+by [asnow](/profile/asnow) | May 14, 2018 16:45
 
-May 14, 2018 16:45 | Tags: [coqui](../tag/coqui), [question:coqui](../tag/question:coqui)
+May 14, 2018 16:45 | Tags: [coqui](/tag/coqui), [question:coqui](/tag/question:coqui)
 
 ----
 

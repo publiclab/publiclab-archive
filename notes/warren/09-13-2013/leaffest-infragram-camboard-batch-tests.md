@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/09-13-2013/leaffest-infragram-camboard-batch-tests.md
 nid: 9325
 uid: 1
-
 cids: 6905,6911,6913,6916,6919
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/543/original/leaffest-tests.jpg)
 
 # LEAFFEST Infragram camboard batch tests
 
-by [warren](../../../profile/warren) | September 13, 2013 15:52
+by [warren](/profile/warren) | September 13, 2013 15:52
 
-September 13, 2013 15:52 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [leaffest](../tag/leaffest), [infragram](../tag/infragram), [cameras](../tag/cameras), [photo-monitoring-plugin](../tag/photo-monitoring-plugin), [infragram-conversion](../tag/infragram-conversion), [leaffest2013](../tag/leaffest2013)
+September 13, 2013 15:52 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [leaffest](/tag/leaffest), [infragram](/tag/infragram), [cameras](/tag/cameras), [photo-monitoring-plugin](/tag/photo-monitoring-plugin), [infragram-conversion](/tag/infragram-conversion), [leaffest2013](/tag/leaffest2013)
 
 ----
 

@@ -6,16 +6,14 @@ author: tati
 path: /notes/tati/10-06-2014/water-samples-for-dataviz-reflection.md
 nid: 11233
 uid: 428062
-
 cids: 
-
 ---
 
 # Water Samples For DataViz Reflection 
 
-by [tati](../../../profile/tati) | October 06, 2014 02:20
+by [tati](/profile/tati) | October 06, 2014 02:20
 
-October 06, 2014 02:20 | Tags: [sensor-journalism](../tag/sensor-journalism)
+October 06, 2014 02:20 | Tags: [sensor-journalism](/tag/sensor-journalism)
 
 ----
 

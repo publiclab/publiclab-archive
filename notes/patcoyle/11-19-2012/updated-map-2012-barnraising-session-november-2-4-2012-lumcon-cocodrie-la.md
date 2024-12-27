@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/11-19-2012/updated-map-2012-barnraising-session-november-2-4-2012-lumcon-cocodrie-la.md
 nid: 4955
 uid: 77
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/a1200-lumcon--cocodrie--la_updated_resized.jpg)
 
 # updated map from 2012 Barnraising session November 2-4, 2012 at LUMCON, Cocodrie, LA
 
-by [patcoyle](../../../profile/patcoyle) | November 20, 2012 00:04
+by [patcoyle](/profile/patcoyle) | November 20, 2012 00:04
 
-November 20, 2012 00:04 | Tags: [plots](../tag/plots), [barnraising2012](../tag/barnraising2012), [lumcon](../tag/lumcon), [publiclaboratory](../tag/publiclaboratory), [cocodrie-la](../tag/cocodrie-la)
+November 20, 2012 00:04 | Tags: [plots](/tag/plots), [barnraising2012](/tag/barnraising2012), [lumcon](/tag/lumcon), [publiclaboratory](/tag/publiclaboratory), [cocodrie-la](/tag/cocodrie-la)
 
 ----
 

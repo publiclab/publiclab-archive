@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/2-7-2013/invitation-gardeners-and-farmers.md
 nid: 5915
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/FiveBoroughFarmLogo.jpg)
 
 # Invitation to Gardeners and Farmers
 
-by [liz](../../../profile/liz) | February 07, 2013 21:32
+by [liz](/profile/liz) | February 07, 2013 21:32
 
-February 07, 2013 21:32 | Tags: [5bf](../tag/5bf), [five-borough-farm](../tag/five-borough-farm), [urban-ag](../tag/urban-ag), [community-garden](../tag/community-garden), [food](../tag/food)
+February 07, 2013 21:32 | Tags: [5bf](/tag/5bf), [five-borough-farm](/tag/five-borough-farm), [urban-ag](/tag/urban-ag), [community-garden](/tag/community-garden), [food](/tag/food)
 
 ----
 

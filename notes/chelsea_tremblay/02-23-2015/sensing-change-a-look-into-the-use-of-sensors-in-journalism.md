@@ -6,18 +6,16 @@ author: chelsea_tremblay
 path: /notes/chelsea_tremblay/02-23-2015/sensing-change-a-look-into-the-use-of-sensors-in-journalism.md
 nid: 11629
 uid: 434198
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/063/original/Screen_Shot_2015-02-23_at_1.23.55_PM.png)
 
 # Sensing Change: A Look into the use of Sensors in Journalism
 
-by [chelsea_tremblay](../../../profile/chelsea_tremblay) | February 23, 2015 18:27
+by [chelsea_tremblay](/profile/chelsea_tremblay) | February 23, 2015 18:27
 
-February 23, 2015 18:27 | Tags: [sensor-journalism](../tag/sensor-journalism)
+February 23, 2015 18:27 | Tags: [sensor-journalism](/tag/sensor-journalism)
 
 ----
 

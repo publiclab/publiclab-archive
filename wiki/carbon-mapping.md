@@ -6,12 +6,12 @@ author: warren
 path: /wiki/carbon-mapping.md
 nid: 360
 uid: 1
-
+cids: 
 ---
 
 # Carbon mapping
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 June 27, 2011 16:11 | Tags: 
 

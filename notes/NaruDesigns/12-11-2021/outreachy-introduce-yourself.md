@@ -6,18 +6,16 @@ author: NaruDesigns
 path: /notes/NaruDesigns/12-11-2021/outreachy-introduce-yourself.md
 nid: 28439
 uid: 775118
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/208/original/Hello_Outreachy.jpg)
 
 # Outreachy - Introduce Yourself
 
-by [NaruDesigns](../../../profile/NaruDesigns) | December 11, 2021 21:53
+by [NaruDesigns](/profile/NaruDesigns) | December 11, 2021 21:53
 
-December 11, 2021 21:53 | Tags: [open-source](../tag/open-source), [outreachy](../tag/outreachy)
+December 11, 2021 21:53 | Tags: [open-source](/tag/open-source), [outreachy](/tag/outreachy)
 
 ----
 

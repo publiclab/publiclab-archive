@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/12-15-2017/what-are-good-activities-people-can-do-in-downtime-at-multiday-events.md
 nid: 15383
 uid: 422561
-
 cids: 
-
 ---
 
 # What are good activities people can do in downtime at multiday events? 
 
-by [stevie](../../../profile/stevie) | December 15, 2017 20:32
+by [stevie](/profile/stevie) | December 15, 2017 20:32
 
-December 15, 2017 20:32 | Tags: [events](../tag/events), [barnraising](../tag/barnraising), [question:general](../tag/question:general), [barnraising-host](../tag/barnraising-host), [question:hosting-materials](../tag/question:hosting-materials), [funcom](../tag/funcom)
+December 15, 2017 20:32 | Tags: [events](/tag/events), [barnraising](/tag/barnraising), [question:general](/tag/question:general), [barnraising-host](/tag/barnraising-host), [question:hosting-materials](/tag/question:hosting-materials), [funcom](/tag/funcom)
 
 ----
 

@@ -6,16 +6,14 @@ author: cassandrasue_
 path: /notes/cassandrasue_/10-01-2014/water-samples-group-7.md
 nid: 11225
 uid: 427890
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/269/original/Byuy9qHIEAAJ_Kx.jpg)
 
 # Water Samples Group 7 
 
-by [cassandrasue_](../../../profile/cassandrasue_) | October 01, 2014 19:03
+by [cassandrasue_](/profile/cassandrasue_) | October 01, 2014 19:03
 
 October 01, 2014 19:03 | Tags: 
 

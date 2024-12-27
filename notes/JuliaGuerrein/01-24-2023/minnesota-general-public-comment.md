@@ -6,18 +6,16 @@ author: JuliaGuerrein
 path: /notes/JuliaGuerrein/01-24-2023/minnesota-general-public-comment.md
 nid: 38557
 uid: 796025
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/417/original/istockphoto-1081574566-612x612.jpg)
 
 # Minnesota General Public Comment
 
-by [JuliaGuerrein](../../../profile/JuliaGuerrein) | January 24, 2023 01:20
+by [JuliaGuerrein](/profile/JuliaGuerrein) | January 24, 2023 01:20
 
-January 24, 2023 01:20 | Tags: [minnesota](../tag/minnesota), [public-comment](../tag/public-comment), [environmental-policy](../tag/environmental-policy), [zoom:6](../tag/zoom:6), [lat:46](../tag/lat:46), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [lon:-94](../tag/lon:-94)
+January 24, 2023 01:20 | Tags: [minnesota](/tag/minnesota), [public-comment](/tag/public-comment), [environmental-policy](/tag/environmental-policy), [zoom:6](/tag/zoom:6), [lat:46](/tag/lat:46), [mn-land-manoomin-protection](/tag/mn-land-manoomin-protection), [lon:-94](/tag/lon:-94)
 
 ----
 

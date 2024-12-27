@@ -6,16 +6,16 @@ author: Bronwen
 path: /wiki/soil-testing-toolkit.md
 nid: 17115
 uid: 237313
-
+cids: 20681
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/555/original/soilkit.jpg)
 
 # Soil Sampling Toolkit
 
-by [Bronwen](../profile/Bronwen), [xose](../profile/xose), [jjcreedon](../profile/jjcreedon)
+by [Bronwen](/profile/Bronwen), [xose](/profile/xose), [jjcreedon](/profile/jjcreedon)
 
-September 14, 2018 19:38 | Tags: [soil](../tag/soil), [soil-testing](../tag/soil-testing), [tonawanda](../tag/tonawanda), [method](../tag/method), [soil-sampling](../tag/soil-sampling), [with:jjcreedon](../tag/with:jjcreedon), [parent:soil](../tag/parent:soil), [parent:soil-sampling](../tag/parent:soil-sampling), [soil-sampling-main](../tag/soil-sampling-main)
+September 14, 2018 19:38 | Tags: [soil](/tag/soil), [soil-testing](/tag/soil-testing), [tonawanda](/tag/tonawanda), [method](/tag/method), [soil-sampling](/tag/soil-sampling), [with:jjcreedon](/tag/with:jjcreedon), [parent:soil](/tag/parent:soil), [parent:soil-sampling](/tag/parent:soil-sampling), [soil-sampling-main](/tag/soil-sampling-main)
 
 ----
 
@@ -41,12 +41,12 @@ This kit is designed to be used to prepare samples for lab testing. Arranging fo
 
 ## Activities
 
-[soil-testing-toolkit](../../tag/activity:soil-testing-toolkit)
+[soil-testing-toolkit](/tag/activity:soil-testing-toolkit)
 
 ****
 
 ## Questions
 
-[soil-testing-toolkit](../../tag/question:soil-testing-toolkit)
+[soil-testing-toolkit](/tag/question:soil-testing-toolkit)
 
 ****

@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/04-26-2013/may-4-ideascity-with-kickstarter.md
 nid: 7070
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/124/original/balloon-logo.jpg)
 
 # May 4 IdeasCity with Kickstarter!
 
-by [liz](../../../profile/liz) | April 26, 2013 17:50
+by [liz](/profile/liz) | April 26, 2013 17:50
 
-April 26, 2013 17:50 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event)
+April 26, 2013 17:50 | Tags: [new-york-city](/tag/new-york-city), [event](/tag/event)
 
 ----
 

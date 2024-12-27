@@ -6,18 +6,16 @@ author: dbenjamin
 path: /notes/dbenjamin/09-04-2015/photo-reconstruction-from-kap-at-acacia-reservation.md
 nid: 12199
 uid: 444468
-
 cids: 12495,12496,12497
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/476/original/flux-setup.exe)
 
 # Photo Reconstruction from KAP at Acacia Reservation
 
-by [dbenjamin](../../../profile/dbenjamin) | September 04, 2015 14:07
+by [dbenjamin](/profile/dbenjamin) | September 04, 2015 14:07
 
-September 04, 2015 14:07 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [kap](../tag/kap), [autokap](../tag/autokap), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [point-cloud](../tag/point-cloud)
+September 04, 2015 14:07 | Tags: [kite-aerial-photography](/tag/kite-aerial-photography), [kap](/tag/kap), [autokap](/tag/autokap), [kaptery](/tag/kaptery), [saturnv](/tag/saturnv), [skyshield](/tag/skyshield), [point-cloud](/tag/point-cloud)
 
 ----
 

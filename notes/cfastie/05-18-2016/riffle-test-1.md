@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/05-18-2016/riffle-test-1.md
 nid: 13122
 uid: 554
-
 cids: 14664,14665
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/198/original/riffle_20160517-5561.jpg)
 
 # Riffle test 1
 
-by [cfastie](../../../profile/cfastie) | May 18, 2016 05:01
+by [cfastie](/profile/cfastie) | May 18, 2016 05:01
 
-May 18, 2016 05:01 | Tags: [arduino](../tag/arduino), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [micro-sd](../tag/micro-sd), [category:verify](../tag/category:verify), [activity:riffle](../tag/activity:riffle), [activity:datalogger](../tag/activity:datalogger), [activity:data-logging](../tag/activity:data-logging)
+May 18, 2016 05:01 | Tags: [arduino](/tag/arduino), [water-quality](/tag/water-quality), [riffle](/tag/riffle), [micro-sd](/tag/micro-sd), [category:verify](/tag/category:verify), [activity:riffle](/tag/activity:riffle), [activity:datalogger](/tag/activity:datalogger), [activity:data-logging](/tag/activity:data-logging)
 
 ----
 

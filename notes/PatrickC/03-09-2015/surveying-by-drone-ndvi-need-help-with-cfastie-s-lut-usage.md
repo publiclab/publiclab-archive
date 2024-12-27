@@ -6,18 +6,16 @@ author: PatrickC
 path: /notes/PatrickC/03-09-2015/surveying-by-drone-ndvi-need-help-with-cfastie-s-lut-usage.md
 nid: 11663
 uid: 431386
-
 cids: 11308,11310
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/223/original/IB_5_color_scale.jpg)
 
 # Surveying by Drone, Need help with Cfastie's .lut Usage
 
-by [PatrickC](../../../profile/PatrickC) | March 09, 2015 04:13
+by [PatrickC](/profile/PatrickC) | March 09, 2015 04:13
 
-March 09, 2015 04:13 | Tags: [mapping](../tag/mapping), [drone](../tag/drone), [college](../tag/college), [shasta](../tag/shasta)
+March 09, 2015 04:13 | Tags: [mapping](/tag/mapping), [drone](/tag/drone), [college](/tag/college), [shasta](/tag/shasta)
 
 ----
 

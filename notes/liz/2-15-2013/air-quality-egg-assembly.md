@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/2-15-2013/air-quality-egg-assembly.md
 nid: 5997
 uid: 7
-
 cids: 6574
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20130214_194812.jpg)
 
 # Air Quality Egg assembly
 
-by [liz](../../../profile/liz) | February 15, 2013 14:48
+by [liz](/profile/liz) | February 15, 2013 14:48
 
-February 15, 2013 14:48 | Tags: [new-york-city](../tag/new-york-city), [cypress-hills](../tag/cypress-hills), [chaq](../tag/chaq)
+February 15, 2013 14:48 | Tags: [new-york-city](/tag/new-york-city), [cypress-hills](/tag/cypress-hills), [chaq](/tag/chaq)
 
 ----
 

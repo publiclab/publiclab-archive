@@ -6,16 +6,14 @@ author: leeuwenstein
 path: /notes/leeuwenstein/7-16-2012/question.md
 nid: 2823
 uid: 480
-
 cids: 1018
-
 ---
 
 # question
 
-by [leeuwenstein](../../../profile/leeuwenstein) | July 16, 2012 10:58
+by [leeuwenstein](/profile/leeuwenstein) | July 16, 2012 10:58
 
-July 16, 2012 10:58 | Tags: [spectrometer](../tag/spectrometer), [question:spectrometer](../tag/question:spectrometer)
+July 16, 2012 10:58 | Tags: [spectrometer](/tag/spectrometer), [question:spectrometer](/tag/question:spectrometer)
 
 ----
 

@@ -6,14 +6,14 @@ author: kanarinka
 path: /wiki/environmental-impacts-of-road-salt.md
 nid: 11092
 uid: 994
-
+cids: 
 ---
 
 # Environmental Impacts of Road Salt
 
-by [kanarinka](../profile/kanarinka)
+by [kanarinka](/profile/kanarinka)
 
-September 01, 2014 12:06 | Tags: [conductivity](../tag/conductivity), [journalism](../tag/journalism), [salt](../tag/salt)
+September 01, 2014 12:06 | Tags: [conductivity](/tag/conductivity), [journalism](/tag/journalism), [salt](/tag/salt)
 
 ----
 

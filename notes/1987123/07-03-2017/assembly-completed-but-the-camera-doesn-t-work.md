@@ -6,16 +6,14 @@ author: 1987123
 path: /notes/1987123/07-03-2017/assembly-completed-but-the-camera-doesn-t-work.md
 nid: 14610
 uid: 510180
-
 cids: 17083,17723,22684,22732
-
 ---
 
 # Assembly completed but the camera doesn't work.
 
-by [1987123](../../../profile/1987123) | July 03, 2017 15:59
+by [1987123](/profile/1987123) | July 03, 2017 15:59
 
-July 03, 2017 15:59 | Tags: [question:spectrometry](../tag/question:spectrometry), [answered](../tag/answered), [question:dssk](../tag/question:dssk), [question:kits](../tag/question:kits)
+July 03, 2017 15:59 | Tags: [question:spectrometry](/tag/question:spectrometry), [answered](/tag/answered), [question:dssk](/tag/question:dssk), [question:kits](/tag/question:kits)
 
 ----
 

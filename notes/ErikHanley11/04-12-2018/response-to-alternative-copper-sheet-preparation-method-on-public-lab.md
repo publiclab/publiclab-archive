@@ -6,16 +6,14 @@ author: ErikHanley11
 path: /notes/ErikHanley11/04-12-2018/response-to-alternative-copper-sheet-preparation-method-on-public-lab.md
 nid: 16139
 uid: 444638
-
 cids: 
-
 ---
 
 # Response to Alternative Copper Sheet Preparation Method on Public Lab
 
-by [ErikHanley11](../../../profile/ErikHanley11) | April 12, 2018 02:43
+by [ErikHanley11](/profile/ErikHanley11) | April 12, 2018 02:43
 
-April 12, 2018 02:43 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-copper-pipe](../tag/h2s-copper-pipe), [copper-pipe](../tag/copper-pipe), [copper-sheet](../tag/copper-sheet)
+April 12, 2018 02:43 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [h2s-copper-pipe](/tag/h2s-copper-pipe), [copper-pipe](/tag/copper-pipe), [copper-sheet](/tag/copper-sheet)
 
 ----
 

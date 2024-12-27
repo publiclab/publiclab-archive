@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/10-20-2014/nocca-mapping-at-city-park.md
 nid: 11281
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/551/original/20141020_111334.jpg)
 
 # NOCCA Mapping at City Park
 
-by [stevie](../../../profile/stevie) | October 20, 2014 19:26
+by [stevie](/profile/stevie) | October 20, 2014 19:26
 
-October 20, 2014 19:26 | Tags: [balloon-mapping](../tag/balloon-mapping), [gulfcoast](../tag/gulfcoast), [urbanwaters](../tag/urbanwaters)
+October 20, 2014 19:26 | Tags: [balloon-mapping](/tag/balloon-mapping), [gulfcoast](/tag/gulfcoast), [urbanwaters](/tag/urbanwaters)
 
 ----
 

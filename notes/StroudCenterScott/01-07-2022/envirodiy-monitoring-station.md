@@ -6,18 +6,16 @@ author: StroudCenterScott
 path: /notes/StroudCenterScott/01-07-2022/envirodiy-monitoring-station.md
 nid: 28687
 uid: 765031
-
 cids: 29585,29586
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/307/original/EnviroDIYMonitoringStation.jpg)
 
 # EnviroDIY Monitoring Station
 
-by [StroudCenterScott](../../../profile/StroudCenterScott) | January 07, 2022 12:45
+by [StroudCenterScott](/profile/StroudCenterScott) | January 07, 2022 12:45
 
-January 07, 2022 12:45 | Tags: [water-quality](../tag/water-quality), [seeks:replications](../tag/seeks:replications), [data-logging](../tag/data-logging), [activity:data-logging](../tag/activity:data-logging), [water-sensors](../tag/water-sensors), [lat:39](../tag/lat:39), [lon:-75](../tag/lon:-75), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6)
+January 07, 2022 12:45 | Tags: [water-quality](/tag/water-quality), [seeks:replications](/tag/seeks:replications), [data-logging](/tag/data-logging), [activity:data-logging](/tag/activity:data-logging), [water-sensors](/tag/water-sensors), [lat:39](/tag/lat:39), [lon:-75](/tag/lon:-75), [first-time-poster](/tag/first-time-poster), [zoom:6](/tag/zoom:6)
 
 ----
 

@@ -6,12 +6,12 @@ author: rjstatic
 path: /wiki/open-pipe-kit-architecture.md
 nid: 11379
 uid: 174
-
+cids: 
 ---
 
 # Open Pipe Kit architecture
 
-by [rjstatic](../profile/rjstatic)
+by [rjstatic](/profile/rjstatic)
 
 November 21, 2014 16:54 | Tags: 
 

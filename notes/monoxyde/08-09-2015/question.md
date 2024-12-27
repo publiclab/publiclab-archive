@@ -6,18 +6,16 @@ author: Monoxyde
 path: /notes/monoxyde/08-09-2015/question.md
 nid: 12127
 uid: 432132
-
 cids: 12341,12346,12374,12376,12377,12379,12492,12524,12592,12599,12608,12612,12637,12650,12651,12709,12710
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/071/original/IMAG0001.JPG)
 
 # Question: 
 
-by [Monoxyde](../../../profile/Monoxyde) | August 09, 2015 08:20
+by [Monoxyde](/profile/Monoxyde) | August 09, 2015 08:20
 
-August 09, 2015 08:20 | Tags: [question:near-infrared-camera](../tag/question:near-infrared-camera)
+August 09, 2015 08:20 | Tags: [question:near-infrared-camera](/tag/question:near-infrared-camera)
 
 ----
 

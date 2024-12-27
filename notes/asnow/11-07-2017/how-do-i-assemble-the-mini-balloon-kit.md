@@ -6,16 +6,14 @@ author: asnow
 path: /notes/asnow/11-07-2017/how-do-i-assemble-the-mini-balloon-kit.md
 nid: 15159
 uid: 515746
-
 cids: 22712
-
 ---
 
 # How do I assemble the mini-balloon kit?
 
-by [asnow](../../../profile/asnow) | November 07, 2017 15:32
+by [asnow](/profile/asnow) | November 07, 2017 15:32
 
-November 07, 2017 15:32 | Tags: [mini-balloon-kit](../tag/mini-balloon-kit), [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster)
+November 07, 2017 15:32 | Tags: [mini-balloon-kit](/tag/mini-balloon-kit), [question:general](/tag/question:general), [first-time-poster](/tag/first-time-poster)
 
 ----
 

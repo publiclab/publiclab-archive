@@ -6,18 +6,16 @@ author: lekhidugtal
 path: /notes/lekhidugtal/03-12-2019/create-a-visual-difference-in-wikis-and-notes.md
 nid: 18523
 uid: 577754
-
 cids: 22125,22127,22130,22131,22132,22133,22208,23374,23375,23376,23382,23383,23388,23389,23399,23511,23523
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/036/original/Untitled_%283%29.png)
 
 # Create a Visual difference in wikis and notes
 
-by [lekhidugtal](../../../profile/lekhidugtal) | March 12, 2019 16:52
+by [lekhidugtal](/profile/lekhidugtal) | March 12, 2019 16:52
 
-March 12, 2019 16:52 | Tags: [design](../tag/design), [ui](../tag/ui), [first-time-poster](../tag/first-time-poster), [ui-designs](../tag/ui-designs), [notes](../tag/notes), [wikis](../tag/wikis)
+March 12, 2019 16:52 | Tags: [design](/tag/design), [ui](/tag/ui), [first-time-poster](/tag/first-time-poster), [ui-designs](/tag/ui-designs), [notes](/tag/notes), [wikis](/tag/wikis)
 
 ----
 

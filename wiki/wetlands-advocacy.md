@@ -6,14 +6,14 @@ author: gretchengehrke
 path: /wiki/wetlands-advocacy.md
 nid: 12024
 uid: 430549
-
+cids: 
 ---
 
 # wetlands-advocacy
 
-by [gretchengehrke](../profile/gretchengehrke), [Shannon](../profile/Shannon)
+by [gretchengehrke](/profile/gretchengehrke), [Shannon](/profile/Shannon)
 
-June 30, 2015 14:02 | Tags: [wetlands](../tag/wetlands), [documentation](../tag/documentation), [lake-pontchartrain](../tag/lake-pontchartrain), [gulf-restoration-network](../tag/gulf-restoration-network), [aerial-mapping](../tag/aerial-mapping), [lousiana](../tag/lousiana), [city-planning](../tag/city-planning), [facilitation](../tag/facilitation), [parent:wetlands-toolkit](../tag/parent:wetlands-toolkit), [advocacy](../tag/advocacy), [healthygulf](../tag/healthygulf), [parish-planning](../tag/parish-planning), [county-planning](../tag/county-planning)
+June 30, 2015 14:02 | Tags: [wetlands](/tag/wetlands), [documentation](/tag/documentation), [lake-pontchartrain](/tag/lake-pontchartrain), [gulf-restoration-network](/tag/gulf-restoration-network), [aerial-mapping](/tag/aerial-mapping), [lousiana](/tag/lousiana), [city-planning](/tag/city-planning), [facilitation](/tag/facilitation), [parent:wetlands-toolkit](/tag/parent:wetlands-toolkit), [advocacy](/tag/advocacy), [healthygulf](/tag/healthygulf), [parish-planning](/tag/parish-planning), [county-planning](/tag/county-planning)
 
 ----
 

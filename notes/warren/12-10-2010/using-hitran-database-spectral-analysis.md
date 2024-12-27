@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/12-10-2010/using-hitran-database-spectral-analysis.md
 nid: 25
 uid: 1
-
 cids: 328,8603,8644,8647,8681,21291
-
 ---
 
 ![](https://publiclab.org/sites/default/files/directoutput-1.png)
 
 # Using the HITRAN database for spectral analysis
 
-by [warren](../../../profile/warren) | December 11, 2010 03:39
+by [warren](/profile/warren) | December 11, 2010 03:39
 
-December 11, 2010 03:39 | Tags: [spectrometer](../tag/spectrometer), [spectral-analysis](../tag/spectral-analysis), [spectral-matching](../tag/spectral-matching), [methane](../tag/methane), [hitran](../tag/hitran)
+December 11, 2010 03:39 | Tags: [spectrometer](/tag/spectrometer), [spectral-analysis](/tag/spectral-analysis), [spectral-matching](/tag/spectral-matching), [methane](/tag/methane), [hitran](/tag/hitran)
 
 ----
 

@@ -6,18 +6,16 @@ author: madelinebilis
 path: /notes/madelinebilis/10-06-2014/a-reflection-on-sensor-journalism.md
 nid: 11244
 uid: 428057
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/331/original/GoogleMap.jpg)
 
 # A Reflection on Sensor Journalism
 
-by [madelinebilis](../../../profile/madelinebilis) | October 06, 2014 18:57
+by [madelinebilis](/profile/madelinebilis) | October 06, 2014 18:57
 
-October 06, 2014 18:57 | Tags: [water-sensing](../tag/water-sensing), [conductivity](../tag/conductivity), [coqui](../tag/coqui), [sensor-journalism](../tag/sensor-journalism)
+October 06, 2014 18:57 | Tags: [water-sensing](/tag/water-sensing), [conductivity](/tag/conductivity), [coqui](/tag/coqui), [sensor-journalism](/tag/sensor-journalism)
 
 ----
 

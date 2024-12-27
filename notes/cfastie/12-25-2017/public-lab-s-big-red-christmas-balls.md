@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/12-25-2017/public-lab-s-big-red-christmas-balls.md
 nid: 15428
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/024/original/xmas_20171212-2087.JPG)
 
 # Public Lab's Big Red Christmas Balls
 
-by [cfastie](../../../profile/cfastie) | December 25, 2017 18:54
+by [cfastie](/profile/cfastie) | December 25, 2017 18:54
 
-December 25, 2017 18:54 | Tags: [holiday](../tag/holiday), [christmas](../tag/christmas), [mini-balloon-kit](../tag/mini-balloon-kit)
+December 25, 2017 18:54 | Tags: [holiday](/tag/holiday), [christmas](/tag/christmas), [mini-balloon-kit](/tag/mini-balloon-kit)
 
 ----
 

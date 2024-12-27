@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/05-30-2019/how-do-we-improve-wifi-signal-to-a-raspberry-pi-while-in-the-air.md
 nid: 19579
 uid: 1
-
 cids: 24309,24310,24314,24331,24851,25483
-
 ---
 
 # How do we improve WiFi signal to a Raspberry Pi while in the air?
 
-by [warren](../../../profile/warren) | May 30, 2019 15:30
+by [warren](/profile/warren) | May 30, 2019 15:30
 
-May 30, 2019 15:30 | Tags: [pi-camera](../tag/pi-camera), [wifi](../tag/wifi), [question:pi-camera](../tag/question:pi-camera), [antenna](../tag/antenna), [downlink](../tag/downlink)
+May 30, 2019 15:30 | Tags: [pi-camera](/tag/pi-camera), [wifi](/tag/wifi), [question:pi-camera](/tag/question:pi-camera), [antenna](/tag/antenna), [downlink](/tag/downlink)
 
 ----
 

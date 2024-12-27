@@ -6,12 +6,12 @@ author: gonzoearth
 path: /wiki/mapping-curriculum-publishing.md
 nid: 397
 uid: 12
-
+cids: 
 ---
 
 # mapping curriculum publishing
 
-by [gonzoearth](../profile/gonzoearth)
+by [gonzoearth](/profile/gonzoearth)
 
 July 21, 2011 05:50 | Tags: 
 

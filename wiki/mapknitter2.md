@@ -6,12 +6,12 @@ author: warren
 path: /wiki/mapknitter2.md
 nid: 11542
 uid: 1
-
+cids: 
 ---
 
 # mapknitter2
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 January 27, 2015 22:27 | Tags: 
 

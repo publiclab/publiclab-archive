@@ -6,18 +6,16 @@ author: Bronwen
 path: /notes/bronwen/06-29-2018/community-microscope-thank-you.md
 nid: 16590
 uid: 237313
-
 cids: 19972
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/357/original/IMG_3817.JPG)
 
 # Community Microscope-- THANK YOU
 
-by [Bronwen](../../../profile/Bronwen) | June 29, 2018 16:50
+by [Bronwen](/profile/Bronwen) | June 29, 2018 16:50
 
-June 29, 2018 16:50 | Tags: [kits](../tag/kits), [kickstarter](../tag/kickstarter), [blog](../tag/blog), [with:warren](../tag/with:warren), [microscope](../tag/microscope), [community-kits](../tag/community-kits), [remixthemicroscope](../tag/remixthemicroscope)
+June 29, 2018 16:50 | Tags: [kits](/tag/kits), [kickstarter](/tag/kickstarter), [blog](/tag/blog), [with:warren](/tag/with:warren), [microscope](/tag/microscope), [community-kits](/tag/community-kits), [remixthemicroscope](/tag/remixthemicroscope)
 
 ----
 

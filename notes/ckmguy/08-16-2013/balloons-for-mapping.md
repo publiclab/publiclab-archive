@@ -6,18 +6,16 @@ author: ckmguy
 path: /notes/ckmguy/08-16-2013/balloons-for-mapping.md
 nid: 9027
 uid: 194238
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/172/original/Space-elevator-helium-balloon-inflation.jpg)
 
 # Balloons for Mapping
 
-by [ckmguy](../../../profile/ckmguy) | August 16, 2013 20:45
+by [ckmguy](/profile/ckmguy) | August 16, 2013 20:45
 
-August 16, 2013 20:45 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-balloon-hybrid](../tag/kite-balloon-hybrid)
+August 16, 2013 20:45 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-balloon-hybrid](/tag/kite-balloon-hybrid)
 
 ----
 

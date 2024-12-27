@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/07-24-2015/spherical-panoramas-at-360cities.md
 nid: 12097
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/888/original/AK_0274_2L.jpg)
 
 # Kite panoramas at 360Cities
 
-by [cfastie](../../../profile/cfastie) | July 24, 2015 03:00
+by [cfastie](/profile/cfastie) | July 24, 2015 03:00
 
-July 24, 2015 03:00 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [alaska](../tag/alaska), [kap](../tag/kap), [autokap](../tag/autokap), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [response:12058](../tag/response:12058)
+July 24, 2015 03:00 | Tags: [kite-aerial-photography](/tag/kite-aerial-photography), [alaska](/tag/alaska), [kap](/tag/kap), [autokap](/tag/autokap), [kaptery](/tag/kaptery), [saturnv](/tag/saturnv), [skyshield](/tag/skyshield), [half-spherical](/tag/half-spherical), [response:12058](/tag/response:12058)
 
 ----
 

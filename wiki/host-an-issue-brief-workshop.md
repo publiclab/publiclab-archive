@@ -6,14 +6,14 @@ author: stevie
 path: /wiki/host-an-issue-brief-workshop.md
 nid: 15140
 uid: 422561
-
+cids: 
 ---
 
 # Host an Issue Brief workshop
 
-by [stevie](../profile/stevie)
+by [stevie](/profile/stevie)
 
-November 01, 2017 19:20 | Tags: [workshop](../tag/workshop), [event](../tag/event), [activity](../tag/activity), [getting-started](../tag/getting-started), [issue-brief](../tag/issue-brief), [activity:community-organizing](../tag/activity:community-organizing), [activity:issue-brief](../tag/activity:issue-brief)
+November 01, 2017 19:20 | Tags: [workshop](/tag/workshop), [event](/tag/event), [activity](/tag/activity), [getting-started](/tag/getting-started), [issue-brief](/tag/issue-brief), [activity:community-organizing](/tag/activity:community-organizing), [activity:issue-brief](/tag/activity:issue-brief)
 
 ----
 

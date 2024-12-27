@@ -6,18 +6,16 @@ author: mimiss
 path: /notes/mimiss/04-27-2021/webinar-community-science-local-knowledge-and-scientific-tools-joining-forces-to-document-urban-health-hazards.md
 nid: 26374
 uid: 579821
-
 cids: 30908,31204,31317
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/505/original/Coalition_Webinar_2021_CommSci_FB.png)
 
 # Webinar: Community Science – Local Knowledge and Scientific Tools Joining Forces to Document Urban Health Hazards
 
-by [mimiss](../../../profile/mimiss) | April 27, 2021 19:50
+by [mimiss](/profile/mimiss) | April 27, 2021 19:50
 
-April 27, 2021 19:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [event](../tag/event), [new-orleans](../tag/new-orleans)
+April 27, 2021 19:50 | Tags: [balloon-mapping](/tag/balloon-mapping), [education](/tag/education), [event](/tag/event), [new-orleans](/tag/new-orleans)
 
 ----
 

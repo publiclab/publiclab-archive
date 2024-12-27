@@ -6,18 +6,16 @@ author: sagarpreet
 path: /notes/sagarpreet/06-22-2018/what-is-the-correct-aqi-measure.md
 nid: 16551
 uid: 516343
-
 cids: 19876,19899,19900,19902,19907,19908,19924,19925,19926,19927,19928,19935,21257,23152,23153,23763,23816,23829
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/270/original/Screen_Shot_2018-06-22_at_5.40.41_PM.png)
 
 # What is the correct AQI measure ?
 
-by [sagarpreet](../../../profile/sagarpreet) | June 22, 2018 12:44
+by [sagarpreet](/profile/sagarpreet) | June 22, 2018 12:44
 
-June 22, 2018 12:44 | Tags: [mapping-meet-up](../tag/mapping-meet-up), [air-quality](../tag/air-quality), [leaflet](../tag/leaflet), [dust](../tag/dust), [pm](../tag/pm), [question:air-quality](../tag/question:air-quality), [question:pm](../tag/question:pm), [general](../tag/general), [purpleair](../tag/purpleair), [soc-2018](../tag/soc-2018), [question:purpleair](../tag/question:purpleair), [aqi](../tag/aqi)
+June 22, 2018 12:44 | Tags: [mapping-meet-up](/tag/mapping-meet-up), [air-quality](/tag/air-quality), [leaflet](/tag/leaflet), [dust](/tag/dust), [pm](/tag/pm), [question:air-quality](/tag/question:air-quality), [question:pm](/tag/question:pm), [general](/tag/general), [purpleair](/tag/purpleair), [soc-2018](/tag/soc-2018), [question:purpleair](/tag/question:purpleair), [aqi](/tag/aqi)
 
 ----
 

@@ -6,18 +6,16 @@ author: tylerknight
 path: /notes/tylerknight/04-28-2022/one-month-of-pm-2-5-data-around-st-james.md
 nid: 30637
 uid: 777566
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/546/original/Vacherie_April_6th.png)
 
 # One Month of PM 2.5 Data around St James
 
-by [tylerknight](../../../profile/tylerknight) | April 28, 2022 18:57
+by [tylerknight](/profile/tylerknight) | April 28, 2022 18:57
 
-April 28, 2022 18:57 | Tags: [gulf-coast](../tag/gulf-coast), [air-quality](../tag/air-quality), [pm](../tag/pm), [particulate-matter](../tag/particulate-matter), [purpleair](../tag/purpleair), [st-james](../tag/st-james), [formosaplastics](../tag/formosaplastics)
+April 28, 2022 18:57 | Tags: [gulf-coast](/tag/gulf-coast), [air-quality](/tag/air-quality), [pm](/tag/pm), [particulate-matter](/tag/particulate-matter), [purpleair](/tag/purpleair), [st-james](/tag/st-james), [formosaplastics](/tag/formosaplastics)
 
 ----
 

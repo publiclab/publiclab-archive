@@ -6,18 +6,16 @@ author: SimonPyle
 path: /notes/SimonPyle/05-13-2016/automating-imagej-for-particle-image-analysis.md
 nid: 13116
 uid: 468943
-
 cids: 14611,14612,14686,16050,16052,16055,16058,19254,31383
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/180/original/MacroProcess.gif)
 
 # Automating ImageJ for particle image analysis
 
-by [SimonPyle](../../../profile/SimonPyle) | May 13, 2016 23:33
+by [SimonPyle](/profile/SimonPyle) | May 13, 2016 23:33
 
-May 13, 2016 23:33 | Tags: [image-processing](../tag/image-processing), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [image-analysis](../tag/image-analysis), [microscope](../tag/microscope), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [activity:microscope](../tag/activity:microscope), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes), [particle-imaging](../tag/particle-imaging), [particle-analysis](../tag/particle-analysis)
+May 13, 2016 23:33 | Tags: [image-processing](/tag/image-processing), [dust](/tag/dust), [silica](/tag/silica), [pm](/tag/pm), [particle-sensing](/tag/particle-sensing), [image-analysis](/tag/image-analysis), [microscope](/tag/microscope), [passive-particle-monitors](/tag/passive-particle-monitors), [passive-pm](/tag/passive-pm), [activity:microscope](/tag/activity:microscope), [microscopes](/tag/microscopes), [activity:microscopes](/tag/activity:microscopes), [particle-imaging](/tag/particle-imaging), [particle-analysis](/tag/particle-analysis)
 
 ----
 

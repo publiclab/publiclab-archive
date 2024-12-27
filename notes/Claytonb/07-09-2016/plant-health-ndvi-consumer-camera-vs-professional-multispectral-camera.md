@@ -6,18 +6,16 @@ author: Claytonb
 path: /notes/Claytonb/07-09-2016/plant-health-ndvi-consumer-camera-vs-professional-multispectral-camera.md
 nid: 13275
 uid: 460246
-
 cids: 14899,14902,14936,14946,14947,14956,15367,15369,16223
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/938/original/side_by_side_cameras.JPG)
 
 # Plant Health NDVI Consumer camera vs Professional multispectral camera
 
-by [Claytonb](../../../profile/Claytonb) | July 09, 2016 17:50
+by [Claytonb](/profile/Claytonb) | July 09, 2016 17:50
 
-July 09, 2016 17:50 | Tags: [ndvi](../tag/ndvi), [calibration](../tag/calibration), [infrared](../tag/infrared), [near-infrared](../tag/near-infrared), [infragram](../tag/infragram), [comparison](../tag/comparison), [wratten25a](../tag/wratten25a), [super-red](../tag/super-red), [red-vs-blue](../tag/red-vs-blue), [barnstar:basic](../tag/barnstar:basic), [validation](../tag/validation), [response:12670](../tag/response:12670)
+July 09, 2016 17:50 | Tags: [ndvi](/tag/ndvi), [calibration](/tag/calibration), [infrared](/tag/infrared), [near-infrared](/tag/near-infrared), [infragram](/tag/infragram), [comparison](/tag/comparison), [wratten25a](/tag/wratten25a), [super-red](/tag/super-red), [red-vs-blue](/tag/red-vs-blue), [barnstar:basic](/tag/barnstar:basic), [validation](/tag/validation), [response:12670](/tag/response:12670)
 
 ----
 

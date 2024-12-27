@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/12-08-2017/what-do-i-need-to-get-started-with-the-community-kits-program.md
 nid: 15335
 uid: 1
-
 cids: 22794,22911
-
 ---
 
 # What do I need to get started with the Community Kits program?
 
-by [warren](../../../profile/warren) | December 08, 2017 15:12
+by [warren](/profile/warren) | December 08, 2017 15:12
 
-December 08, 2017 15:12 | Tags: [kits](../tag/kits), [answered](../tag/answered), [question:community-kits](../tag/question:community-kits), [community-kits](../tag/community-kits)
+December 08, 2017 15:12 | Tags: [kits](/tag/kits), [answered](/tag/answered), [question:community-kits](/tag/question:community-kits), [community-kits](/tag/community-kits)
 
 ----
 

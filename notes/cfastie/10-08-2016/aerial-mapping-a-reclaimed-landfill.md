@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/10-08-2016/aerial-mapping-a-reclaimed-landfill.md
 nid: 13534
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/357/original/Bristol_20161007-7073.JPG)
 
 # Aerial mapping a reclaimed landfill
 
-by [cfastie](../../../profile/cfastie) | October 08, 2016 03:35
+by [cfastie](/profile/cfastie) | October 08, 2016 03:35
 
-October 08, 2016 03:35 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kite-aerial-photography](../tag/kite-aerial-photography), [landfill](../tag/landfill), [kap](../tag/kap), [waste-management](../tag/waste-management), [waste](../tag/waste), [northeast](../tag/northeast), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [bristol-vt](../tag/bristol-vt)
+October 08, 2016 03:35 | Tags: [kite-mapping](/tag/kite-mapping), [vermont](/tag/vermont), [kite-aerial-photography](/tag/kite-aerial-photography), [landfill](/tag/landfill), [kap](/tag/kap), [waste-management](/tag/waste-management), [waste](/tag/waste), [northeast](/tag/northeast), [saturnv](/tag/saturnv), [skyshield](/tag/skyshield), [bristol-vt](/tag/bristol-vt)
 
 ----
 

@@ -6,16 +6,16 @@ author: ann
 path: /wiki/pipeline-mapping.md
 nid: 11411
 uid: 421543
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/135/original/image01.jpg)
 
 # Pipeline Mapping
 
-by [ann](../profile/ann)
+by [ann](/profile/ann)
 
-November 27, 2014 03:45 | Tags: [alberta](../tag/alberta)
+November 27, 2014 03:45 | Tags: [alberta](/tag/alberta)
 
 ----
 

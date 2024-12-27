@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/7-19-2012/surface-stations-citizen-science-about-government-science.md
 nid: 2894
 uid: 4
-
 cids: 1104
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-07-19 at 11.50.48 AM.png)
 
 # Surface Stations: Citizen Science about Government Science
 
-by [mathew](../../../profile/mathew) | July 19, 2012 18:53
+by [mathew](/profile/mathew) | July 19, 2012 18:53
 
-July 19, 2012 18:53 | Tags: [air-column-monitor](../tag/air-column-monitor)
+July 19, 2012 18:53 | Tags: [air-column-monitor](/tag/air-column-monitor)
 
 ----
 

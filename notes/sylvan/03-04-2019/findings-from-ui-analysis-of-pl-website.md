@@ -6,18 +6,16 @@ author: sylvan
 path: /notes/sylvan/03-04-2019/findings-from-ui-analysis-of-pl-website.md
 nid: 18467
 uid: 540012
-
 cids: 22039
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/739/original/Capture.PNG)
 
 # Findings from UI Analysis of PL website
 
-by [sylvan](../../../profile/sylvan) | March 04, 2019 20:10
+by [sylvan](/profile/sylvan) | March 04, 2019 20:10
 
-March 04, 2019 20:10 | Tags: [design](../tag/design), [request](../tag/request), [ui](../tag/ui), [pin:ui](../tag/pin:ui)
+March 04, 2019 20:10 | Tags: [design](/tag/design), [request](/tag/request), [ui](/tag/ui), [pin:ui](/tag/pin:ui)
 
 ----
 

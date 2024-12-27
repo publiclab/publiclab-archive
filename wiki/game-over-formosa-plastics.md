@@ -6,16 +6,16 @@ author: awoolverton1
 path: /wiki/game-over-formosa-plastics.md
 nid: 29606
 uid: 778039
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/349/original/Project_Page.PNG)
 
 # Game Over Formosa Plastics
 
-by [michelleiL](../profile/michelleiL), [stevie](../profile/stevie), [awoolverton1](../profile/awoolverton1)
+by [michelleiL](/profile/michelleiL), [stevie](/profile/stevie), [awoolverton1](/profile/awoolverton1)
 
-January 31, 2022 16:39 | Tags: [project](../tag/project), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lat:30](../tag/lat:30), [lon:-90](../tag/lon:-90), [projects](../tag/projects), [zoom:6](../tag/zoom:6), [formosaplastics](../tag/formosaplastics)
+January 31, 2022 16:39 | Tags: [project](/tag/project), [location:blurred](/tag/location:blurred), [place:united-states](/tag/place:united-states), [lat:30](/tag/lat:30), [lon:-90](/tag/lon:-90), [projects](/tag/projects), [zoom:6](/tag/zoom:6), [formosaplastics](/tag/formosaplastics)
 
 ----
 
@@ -52,9 +52,9 @@ Interested in following along in the project? Subscribe to the tag below to get 
 
 <a class="btn btn-large btn-primary" href="https://publiclab.org/subscribe/tag/FormosaPlastics">Subscribe to updates on this project </a>
 
-[FormosaPlastics](../../tag/FormosaPlastics)
+[FormosaPlastics](/tag/FormosaPlastics)
 
-[FormosaPlastics](../../tag/question:FormosaPlastics)
+[FormosaPlastics](/tag/question:FormosaPlastics)
 
 People Involved: 
 @TravisLondon @tylerknight @caitlion @awoolverton1

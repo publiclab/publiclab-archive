@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/10-09-2013/absorption-lines-in-flare-spectra.md
 nid: 9431
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/848/original/capture-2.png)
 
 # Absorption lines in flare spectra
 
-by [warren](../../../profile/warren) | October 09, 2013 20:10
+by [warren](/profile/warren) | October 09, 2013 20:10
 
-October 09, 2013 20:10 | Tags: [spectrometer](../tag/spectrometer), [analysis](../tag/analysis), [spectral-analysis](../tag/spectral-analysis), [absorption](../tag/absorption), [spectral-workbench](../tag/spectral-workbench), [flare](../tag/flare), [chalmette](../tag/chalmette), [response:8946](../tag/response:8946), [response:8944](../tag/response:8944)
+October 09, 2013 20:10 | Tags: [spectrometer](/tag/spectrometer), [analysis](/tag/analysis), [spectral-analysis](/tag/spectral-analysis), [absorption](/tag/absorption), [spectral-workbench](/tag/spectral-workbench), [flare](/tag/flare), [chalmette](/tag/chalmette), [response:8946](/tag/response:8946), [response:8944](/tag/response:8944)
 
 ----
 

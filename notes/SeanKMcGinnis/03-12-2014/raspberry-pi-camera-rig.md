@@ -6,18 +6,16 @@ author: seankmcginnis
 path: /notes/SeanKMcGinnis/03-12-2014/raspberry-pi-camera-rig.md
 nid: 10166
 uid: 552
-
 cids: 8474,8650,9716,24305,24306,24313
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/221/original/DSC02109.JPG)
 
 # Raspberry Pi Camera Rig
 
-by [seankmcginnis](../../../profile/seankmcginnis) | March 12, 2014 22:31
+by [seankmcginnis](/profile/seankmcginnis) | March 12, 2014 22:31
 
-March 12, 2014 22:31 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [photo-rig](../tag/photo-rig), [raspberry-pi](../tag/raspberry-pi), [activity:photo-rig](../tag/activity:photo-rig), [raspberry-pi-cameras](../tag/raspberry-pi-cameras), [activity:raspberry-pi](../tag/activity:raspberry-pi), [activity:raspberry-pi-infragram](../tag/activity:raspberry-pi-infragram), [activity:pi-camera](../tag/activity:pi-camera)
+March 12, 2014 22:31 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [photo-rig](/tag/photo-rig), [raspberry-pi](/tag/raspberry-pi), [activity:photo-rig](/tag/activity:photo-rig), [raspberry-pi-cameras](/tag/raspberry-pi-cameras), [activity:raspberry-pi](/tag/activity:raspberry-pi), [activity:raspberry-pi-infragram](/tag/activity:raspberry-pi-infragram), [activity:pi-camera](/tag/activity:pi-camera)
 
 ----
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/doccom.md
 nid: 12425
 uid: 1
-
+cids: 
 ---
 
 # DOCCOM
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-November 20, 2015 15:34 | Tags: [barnraising](../tag/barnraising), [parent:barnraising](../tag/parent:barnraising), [doccom](../tag/doccom), [barnraising-2015](../tag/barnraising-2015)
+November 20, 2015 15:34 | Tags: [barnraising](/tag/barnraising), [parent:barnraising](/tag/parent:barnraising), [doccom](/tag/doccom), [barnraising-2015](/tag/barnraising-2015)
 
 ----
 
@@ -57,7 +57,7 @@ We're seeking submissions (session report backs, deep dives, lightning talk summ
 
 ### Submissions
 
-[txbr-zine](../../tag/txbr-zine)
+[txbr-zine](/tag/txbr-zine)
 
 
 
@@ -80,7 +80,7 @@ The Barnraiser is a 1-page daily "mini newspaper" we publish during the #Barnrai
 
 ## Questions
 
-[doccom](../../tag/question:doccom)
+[doccom](/tag/question:doccom)
 
 ****
 

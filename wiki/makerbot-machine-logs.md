@@ -6,16 +6,16 @@ author: cfastie
 path: /wiki/makerbot-machine-logs.md
 nid: 10016
 uid: 554
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/819/original/LucReg-320-9.jpg)
 
 # Makerbot machine logs
 
-by [cfastie](../profile/cfastie), [seankmcginnis](../profile/seankmcginnis), [dhenrynola](../profile/dhenrynola), [nullpointer_rg](../profile/nullpointer_rg), [danbeavers](../profile/danbeavers), [stevie](../profile/stevie), [liz](../profile/liz), [mathew](../profile/mathew)
+by [cfastie](/profile/cfastie), [seankmcginnis](/profile/seankmcginnis), [dhenrynola](/profile/dhenrynola), [nullpointer_rg](/profile/nullpointer_rg), [danbeavers](/profile/danbeavers), [stevie](/profile/stevie), [liz](/profile/liz), [mathew](/profile/mathew)
 
-February 07, 2014 14:24 | Tags: [3d-printing](../tag/3d-printing), [makerbot](../tag/makerbot), [2](../tag/2), [1](../tag/1)
+February 07, 2014 14:24 | Tags: [3d-printing](/tag/3d-printing), [makerbot](/tag/makerbot), [2](/tag/2), [1](/tag/1)
 
 ----
 

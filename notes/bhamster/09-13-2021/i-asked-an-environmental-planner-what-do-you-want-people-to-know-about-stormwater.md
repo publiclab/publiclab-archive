@@ -6,18 +6,16 @@ author: bhamster
 path: /notes/bhamster/09-13-2021/i-asked-an-environmental-planner-what-do-you-want-people-to-know-about-stormwater.md
 nid: 27678
 uid: 664477
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/773/original/road_runoff_fig_caltrans_rev_1305wide.jpg)
 
 #  I asked an environmental planner, “What do you want people to know about stormwater?”
 
-by [bhamster](../../../profile/bhamster) | September 13, 2021 14:25
+by [bhamster](/profile/bhamster) | September 13, 2021 14:25
 
-September 13, 2021 14:25 | Tags: [water-quality](../tag/water-quality), [regulations](../tag/regulations), [stormwater](../tag/stormwater), [wastewater](../tag/wastewater), [advocacy](../tag/advocacy), [clean-water-act](../tag/clean-water-act), [ms4](../tag/ms4), [wastewater-advocacy](../tag/wastewater-advocacy)
+September 13, 2021 14:25 | Tags: [water-quality](/tag/water-quality), [regulations](/tag/regulations), [stormwater](/tag/stormwater), [wastewater](/tag/wastewater), [advocacy](/tag/advocacy), [clean-water-act](/tag/clean-water-act), [ms4](/tag/ms4), [wastewater-advocacy](/tag/wastewater-advocacy)
 
 ----
 

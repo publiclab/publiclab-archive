@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/06-18-2019/launching-a-newcomers-welcome-call.md
 nid: 19731
 uid: 422561
-
 cids: 24846,24912,25256
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/990/original/Screen_Shot_2019-06-18_at_3.54.19_PM.png)
 
 # Launching a Newcomers Welcome Call! 
 
-by [stevie](../../../profile/stevie) | June 18, 2019 19:52
+by [stevie](/profile/stevie) | June 18, 2019 19:52
 
-June 18, 2019 19:52 | Tags: [organizing](../tag/organizing), [blog](../tag/blog), [getting-started](../tag/getting-started), [organizer](../tag/organizer), [opencall](../tag/opencall), [location:blurred](../tag/location:blurred), [organize](../tag/organize), [zoom:6](../tag/zoom:6), [place:australia](../tag/place:australia), [lat:-36](../tag/lat:-36), [lon:143](../tag/lon:143)
+June 18, 2019 19:52 | Tags: [organizing](/tag/organizing), [blog](/tag/blog), [getting-started](/tag/getting-started), [organizer](/tag/organizer), [opencall](/tag/opencall), [location:blurred](/tag/location:blurred), [organize](/tag/organize), [zoom:6](/tag/zoom:6), [place:australia](/tag/place:australia), [lat:-36](/tag/lat:-36), [lon:143](/tag/lon:143)
 
 ----
 

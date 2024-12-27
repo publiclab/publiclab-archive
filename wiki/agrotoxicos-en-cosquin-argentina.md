@@ -6,16 +6,16 @@ author: imvec
 path: /wiki/agrotoxicos-en-cosquin-argentina.md
 nid: 22690
 uid: 495038
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/992/original/cosquin5.jpg)
 
 # Agrotóxicos en Cosquín - Argentina
 
-by [imvec](../profile/imvec), [xose](../profile/xose)
+by [imvec](/profile/imvec), [xose](/profile/xose)
 
-February 06, 2020 18:40 | Tags: [lang:es](../tag/lang:es), [project](../tag/project), [argentina](../tag/argentina), [soil-sampling](../tag/soil-sampling), [ballon-mapping](../tag/ballon-mapping), [spanish](../tag/spanish), [zoom:8](../tag/zoom:8), [cosquin](../tag/cosquin), [place:cordoba-argentina](../tag/place:cordoba-argentina), [monsanto](../tag/monsanto), [lat:-31.245681](../tag/lat:-31.245681), [lon:-64.467773](../tag/lon:-64.467773), [place:argentina](../tag/place:argentina), [autodefensa-vecinal](../tag/autodefensa-vecinal)
+February 06, 2020 18:40 | Tags: [lang:es](/tag/lang:es), [project](/tag/project), [argentina](/tag/argentina), [soil-sampling](/tag/soil-sampling), [ballon-mapping](/tag/ballon-mapping), [spanish](/tag/spanish), [zoom:8](/tag/zoom:8), [cosquin](/tag/cosquin), [place:cordoba-argentina](/tag/place:cordoba-argentina), [monsanto](/tag/monsanto), [lat:-31.245681](/tag/lat:-31.245681), [lon:-64.467773](/tag/lon:-64.467773), [place:argentina](/tag/place:argentina), [autodefensa-vecinal](/tag/autodefensa-vecinal)
 
 ----
 
@@ -61,4 +61,4 @@ El 31 de Marzo comienza el segundo juicio a las fumigaciones en el Barrio de Itu
 
 Si publicas alguna nota relacionada no olvides usar el tag **cosquin** para que la nota aparezca automáticamente en esta parrilla.
 
-[cosquin](../../tag/cosquin)
+[cosquin](/tag/cosquin)

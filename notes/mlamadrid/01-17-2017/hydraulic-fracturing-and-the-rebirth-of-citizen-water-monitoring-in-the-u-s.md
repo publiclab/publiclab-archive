@@ -6,18 +6,16 @@ author: mlamadrid
 path: /notes/mlamadrid/01-17-2017/hydraulic-fracturing-and-the-rebirth-of-citizen-water-monitoring-in-the-u-s.md
 nid: 13857
 uid: 45586
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/293/original/A_volunteer_monitors_water_at_a_leachate_treatment_plant_out_ow_pipe_in_New_York_State.jpg)
 
 # Hydraulic Fracturing and the Rebirth of Citizen Water Monitoring in the U.S
 
-by [mlamadrid](../../../profile/mlamadrid) | January 17, 2017 23:54
+by [mlamadrid](/profile/mlamadrid) | January 17, 2017 23:54
 
-January 17, 2017 23:54 | Tags: [citizen-science](../tag/citizen-science), [water-quality](../tag/water-quality), [water](../tag/water), [communityscienceforum](../tag/communityscienceforum), [water-monitor](../tag/water-monitor), [fractracker](../tag/fractracker)
+January 17, 2017 23:54 | Tags: [citizen-science](/tag/citizen-science), [water-quality](/tag/water-quality), [water](/tag/water), [communityscienceforum](/tag/communityscienceforum), [water-monitor](/tag/water-monitor), [fractracker](/tag/fractracker)
 
 ----
 

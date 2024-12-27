@@ -6,12 +6,12 @@ author: bhamster
 path: /wiki/sandbox-air-polluting-gases-and-monitoring-methods.md
 nid: 25102
 uid: 664477
-
+cids: 
 ---
 
 # sandbox-air-polluting-gases-and-monitoring-methods
 
-by [bhamster](../profile/bhamster)
+by [bhamster](/profile/bhamster)
 
 November 24, 2020 19:54 | Tags: 
 
@@ -256,14 +256,14 @@ And more research notes and wiki pages from the hydrogen sulfide tag page here: 
 
 ## Questions about outdoor gas-phase pollutants
 
-[gas-monitoring](../../tag/question:gas-monitoring)
+[gas-monitoring](/tag/question:gas-monitoring)
 
 <br>
 <br>
 
 ## Activities about outdoor gas-phase pollutants
 
-[gas-monitoring](../../tag/activity:gas-monitoring)
+[gas-monitoring](/tag/activity:gas-monitoring)
 
 <br>
 <br>

@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/2-12-2013/grating-angle-dvdr.md
 nid: 5964
 uid: 554
-
 cids: 3406,3410,3437,3438,3468,3472,3486,3497,3498,3500,3501,3502,3503,3505,3506,10999,11510,11512,11514,11515,11516
-
 ---
 
 ![](https://publiclab.org/sites/default/files/spectroPlanDVD.png)
 
 # Grating angle: DVD+R
 
-by [cfastie](../../../profile/cfastie) | February 13, 2013 03:39
+by [cfastie](/profile/cfastie) | February 13, 2013 03:39
 
-February 13, 2013 03:39 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [diffraction-grating](../tag/diffraction-grating), [focus](../tag/focus)
+February 13, 2013 03:39 | Tags: [spectrometer](/tag/spectrometer), [vermont](/tag/vermont), [diffraction-grating](/tag/diffraction-grating), [focus](/tag/focus)
 
 ----
 

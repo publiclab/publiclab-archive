@@ -6,16 +6,14 @@ author: Smokey45
 path: /notes/smokey45/3-4-2013/desperate-newbie-seeks-info.md
 nid: 6196
 uid: 51388
-
 cids: 3627,3628,3641,3643,3982,3984,3987
-
 ---
 
 # desperate newbie seeks info 
 
-by [Smokey45](../../../profile/Smokey45) | March 05, 2013 03:43
+by [Smokey45](/profile/Smokey45) | March 05, 2013 03:43
 
-March 05, 2013 03:43 | Tags: [spectrometer](../tag/spectrometer), [desktop-spectrometer](../tag/desktop-spectrometer)
+March 05, 2013 03:43 | Tags: [spectrometer](/tag/spectrometer), [desktop-spectrometer](/tag/desktop-spectrometer)
 
 ----
 

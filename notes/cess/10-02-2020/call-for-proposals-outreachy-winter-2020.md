@@ -6,18 +6,16 @@ author: cess
 path: /notes/cess/10-02-2020/call-for-proposals-outreachy-winter-2020.md
 nid: 24687
 uid: 525958
-
 cids: 27438,27521
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/035/original/mm.png)
 
 # Call for Proposals Outreachy Winter 2020
 
-by [cess](../../../profile/cess) | October 02, 2020 14:44
+by [cess](/profile/cess) | October 02, 2020 14:44
 
-October 02, 2020 14:44 | Tags: [with:warren](../tag/with:warren), [with:liz](../tag/with:liz), [seeks:responses](../tag/seeks:responses), [outreachy](../tag/outreachy), [lat:-1](../tag/lat:-1), [call-for-proposals](../tag/call-for-proposals), [with:sagarpreet](../tag/with:sagarpreet), [zoom:6](../tag/zoom:6), [lon:35](../tag/lon:35)
+October 02, 2020 14:44 | Tags: [with:warren](/tag/with:warren), [with:liz](/tag/with:liz), [seeks:responses](/tag/seeks:responses), [outreachy](/tag/outreachy), [lat:-1](/tag/lat:-1), [call-for-proposals](/tag/call-for-proposals), [with:sagarpreet](/tag/with:sagarpreet), [zoom:6](/tag/zoom:6), [lon:35](/tag/lon:35)
 
 ----
 
@@ -78,13 +76,13 @@ Also see [Summer  proposals here](https://publiclab.org/notes/liz/03-09-2020/cal
 
 ## Proposals 
 
-[outreachy-winter-2020](../../tag/outreachy-winter-2020)
+[outreachy-winter-2020](/tag/outreachy-winter-2020)
 
 ---------
 
 ## Questions 
 
-[soc-2020-proposals](../../tag/question:soc-2020-proposals)
+[soc-2020-proposals](/tag/question:soc-2020-proposals)
 
 ---------
 

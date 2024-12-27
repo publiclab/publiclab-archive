@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/11-10-2012/brainstorming-scaffolding-grassroots-science-learning.md
 nid: 4863
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0011.JPG)
 
 # Brainstorming a scaffolding for grassroots science learning
 
-by [warren](../../../profile/warren) | November 11, 2012 03:31
+by [warren](/profile/warren) | November 11, 2012 03:31
 
-November 11, 2012 03:31 | Tags: [helloworld](../tag/helloworld), [pedagogy](../tag/pedagogy)
+November 11, 2012 03:31 | Tags: [helloworld](/tag/helloworld), [pedagogy](/tag/pedagogy)
 
 ----
 

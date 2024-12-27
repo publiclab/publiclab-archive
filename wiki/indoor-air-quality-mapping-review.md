@@ -6,14 +6,14 @@ author: gonzoearth
 path: /wiki/indoor-air-quality-mapping-review.md
 nid: 704
 uid: 12
-
+cids: 
 ---
 
 # indoor air quality mapping review
 
-by [gonzoearth](../profile/gonzoearth)
+by [gonzoearth](/profile/gonzoearth)
 
-January 19, 2012 00:44 | Tags: [air-quality](../tag/air-quality), [review](../tag/review)
+January 19, 2012 00:44 | Tags: [air-quality](/tag/air-quality), [review](/tag/review)
 
 ----
 

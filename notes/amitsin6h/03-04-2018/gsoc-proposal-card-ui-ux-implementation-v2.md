@@ -6,18 +6,16 @@ author: amitsin6h
 path: /notes/amitsin6h/03-04-2018/gsoc-proposal-card-ui-ux-implementation-v2.md
 nid: 15859
 uid: 515111
-
 cids: 18792,18850,18851,18876,18877,18916,18979,19147,19201
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/162/original/card_ui_ux_design.png)
 
 # GSoC proposal: Card UI/UX Implementation v2 & Bootstrap 4 Upgradation
 
-by [amitsin6h](../../../profile/amitsin6h) | March 04, 2018 19:15
+by [amitsin6h](/profile/amitsin6h) | March 04, 2018 19:15
 
-March 04, 2018 19:15 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [soc-2018-proposals](../tag/soc-2018-proposals)
+March 04, 2018 19:15 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [soc](/tag/soc), [response:13975](/tag/response:13975), [gsoc-2018](/tag/gsoc-2018), [soc-2018](/tag/soc-2018), [soc-2018-proposals](/tag/soc-2018-proposals)
 
 ----
 

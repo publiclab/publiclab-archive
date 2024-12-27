@@ -6,16 +6,16 @@ author: mollydanielsson
 path: /wiki/lesson-1-wetlands-water-oil.md
 nid: 11556
 uid: 1259
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/853/original/image12.jpg)
 
 # Lesson 1: Wetlands, Water, & Oil
 
-by [gretchengehrke](../profile/gretchengehrke), [mathew](../profile/mathew), [mollydanielsson](../profile/mollydanielsson)
+by [gretchengehrke](/profile/gretchengehrke), [mathew](/profile/mathew), [mollydanielsson](/profile/mollydanielsson)
 
-February 06, 2015 01:41 | Tags: [education](../tag/education), [wetlands](../tag/wetlands), [curriculum](../tag/curriculum), [classroom](../tag/classroom), [lesson_plan](../tag/lesson_plan), [biology](../tag/biology), [ecology](../tag/ecology), [environmental_engineering](../tag/environmental_engineering), [with:amandaf](../tag/with:amandaf), [parent:wetlands-lesson-plans](../tag/parent:wetlands-lesson-plans), [activity:wetlands](../tag/activity:wetlands)
+February 06, 2015 01:41 | Tags: [education](/tag/education), [wetlands](/tag/wetlands), [curriculum](/tag/curriculum), [classroom](/tag/classroom), [lesson_plan](/tag/lesson_plan), [biology](/tag/biology), [ecology](/tag/ecology), [environmental_engineering](/tag/environmental_engineering), [with:amandaf](/tag/with:amandaf), [parent:wetlands-lesson-plans](/tag/parent:wetlands-lesson-plans), [activity:wetlands](/tag/activity:wetlands)
 
 ----
 

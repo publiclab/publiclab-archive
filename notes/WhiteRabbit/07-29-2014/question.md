@@ -6,18 +6,16 @@ author: WhiteRabbit
 path: /notes/WhiteRabbit/07-29-2014/question.md
 nid: 10993
 uid: 425996
-
 cids: 9704,9705,9706,9714,9724,9725,9739,22569
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/665/original/greengrass.jpg)
 
 # Accuracy of assembled Desktop Spectrometry kit?
 
-by [WhiteRabbit](../../../profile/WhiteRabbit) | July 29, 2014 17:26
+by [WhiteRabbit](/profile/WhiteRabbit) | July 29, 2014 17:26
 
-July 29, 2014 17:26 | Tags: [spectrometer](../tag/spectrometer), [comparison](../tag/comparison), [grass](../tag/grass), [question:spectrometry](../tag/question:spectrometry), [accuracy](../tag/accuracy)
+July 29, 2014 17:26 | Tags: [spectrometer](/tag/spectrometer), [comparison](/tag/comparison), [grass](/tag/grass), [question:spectrometry](/tag/question:spectrometry), [accuracy](/tag/accuracy)
 
 ----
 

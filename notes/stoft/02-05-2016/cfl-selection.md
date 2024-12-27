@@ -6,18 +6,16 @@ author: stoft
 path: /notes/stoft/02-05-2016/cfl-selection.md
 nid: 12658
 uid: 54025
-
 cids: 13478,13481,13492,25867
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/082/original/CFL-COMPARE.gif)
 
 # CFL Selection
 
-by [stoft](../../../profile/stoft) | February 05, 2016 07:54
+by [stoft](/profile/stoft) | February 05, 2016 07:54
 
-February 05, 2016 07:54 | Tags: [spectrometer](../tag/spectrometer), [cfl](../tag/cfl), [spectrometer-calibration](../tag/spectrometer-calibration), [response:12656](../tag/response:12656)
+February 05, 2016 07:54 | Tags: [spectrometer](/tag/spectrometer), [cfl](/tag/cfl), [spectrometer-calibration](/tag/spectrometer-calibration), [response:12656](/tag/response:12656)
 
 ----
 

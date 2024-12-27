@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/10-01-2019/pros-cons-to-cheap-handheld-water-meters-for-ph-tds-conductivity.md
 nid: 21044
 uid: 1
-
 cids: 25621,25631,25636
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/529/original/Screen_Shot_2019-10-01_at_2.17.27_PM.png)
 
 # Pros/cons to cheap handheld water meters for pH, TDS, conductivity?
 
-by [warren](../../../profile/warren) | October 01, 2019 18:29
+by [warren](/profile/warren) | October 01, 2019 18:29
 
-October 01, 2019 18:29 | Tags: [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [ph](../tag/ph), [question:water-quality](../tag/question:water-quality), [knowflow](../tag/knowflow), [question:water-sensors](../tag/question:water-sensors), [question:ph](../tag/question:ph), [water-sensors](../tag/water-sensors), [tds](../tag/tds), [question:conductivity](../tag/question:conductivity), [question:tds](../tag/question:tds), [dfrobot](../tag/dfrobot), [off-the-shelf](../tag/off-the-shelf)
+October 01, 2019 18:29 | Tags: [water-quality](/tag/water-quality), [conductivity](/tag/conductivity), [ph](/tag/ph), [question:water-quality](/tag/question:water-quality), [knowflow](/tag/knowflow), [question:water-sensors](/tag/question:water-sensors), [question:ph](/tag/question:ph), [water-sensors](/tag/water-sensors), [tds](/tag/tds), [question:conductivity](/tag/question:conductivity), [question:tds](/tag/question:tds), [dfrobot](/tag/dfrobot), [off-the-shelf](/tag/off-the-shelf)
 
 ----
 

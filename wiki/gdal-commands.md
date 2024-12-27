@@ -6,14 +6,14 @@ author: warren
 path: /wiki/gdal-commands.md
 nid: 228
 uid: 1
-
+cids: 
 ---
 
 # GDAL Commands
 
-by [liz](../profile/liz), [warren](../profile/warren), [gonzoearth](../profile/gonzoearth)
+by [liz](/profile/liz), [warren](/profile/warren), [gonzoearth](/profile/gonzoearth)
 
-May 07, 2011 04:08 | Tags: [gdal](../tag/gdal)
+May 07, 2011 04:08 | Tags: [gdal](/tag/gdal)
 
 ----
 

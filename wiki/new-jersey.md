@@ -6,14 +6,14 @@ author: liz
 path: /wiki/new-jersey.md
 nid: 10440
 uid: 7
-
+cids: 
 ---
 
 # new-jersey
 
-by [seankmcginnis](../profile/seankmcginnis), [liz](../profile/liz)
+by [seankmcginnis](/profile/seankmcginnis), [liz](/profile/liz)
 
-May 07, 2014 16:37 | Tags: [new-jersey](../tag/new-jersey), [events:new-jersey](../tag/events:new-jersey), [northeast](../tag/northeast), [parent:northeast](../tag/parent:northeast)
+May 07, 2014 16:37 | Tags: [new-jersey](/tag/new-jersey), [events:new-jersey](/tag/events:new-jersey), [northeast](/tag/northeast), [parent:northeast](/tag/parent:northeast)
 
 ----
 

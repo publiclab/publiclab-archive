@@ -6,18 +6,16 @@ author: akshaya
 path: /notes/ashkaya/09-17-2016/build-a-coqui-a-simple-water-conductivity-sensor.md
 nid: 13459
 uid: 472548
-
 cids: 15418,15419,15420,15425,15530,15532,19514,19518,19520,19741,19742,19743,19745,19792,21307,21311,21740,21996,21999,23948,23985
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/066/original/13.jpg)
 
 # Build a Coquí: A Simple Water Conductivity Sensor (version 1)
 
-by [akshaya](../../../profile/akshaya) | September 17, 2016 23:21
+by [akshaya](/profile/akshaya) | September 17, 2016 23:21
 
-September 17, 2016 23:21 | Tags: [water](../tag/water), [tutorial](../tag/tutorial), [conductivity](../tag/conductivity), [open-water](../tag/open-water), [with:kanarinka](../tag/with:kanarinka), [coqui](../tag/coqui), [tutorials](../tag/tutorials), [difficulty:easy](../tag/difficulty:easy), [status:review-me](../tag/status:review-me), [category:build](../tag/category:build), [time:1h](../tag/time:1h), [activity:coqui](../tag/activity:coqui)
+September 17, 2016 23:21 | Tags: [water](/tag/water), [tutorial](/tag/tutorial), [conductivity](/tag/conductivity), [open-water](/tag/open-water), [with:kanarinka](/tag/with:kanarinka), [coqui](/tag/coqui), [tutorials](/tag/tutorials), [difficulty:easy](/tag/difficulty:easy), [status:review-me](/tag/status:review-me), [category:build](/tag/category:build), [time:1h](/tag/time:1h), [activity:coqui](/tag/activity:coqui)
 
 ----
 

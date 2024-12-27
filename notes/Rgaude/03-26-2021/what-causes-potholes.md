@@ -6,16 +6,14 @@ author: Rgaude
 path: /notes/Rgaude/03-26-2021/what-causes-potholes.md
 nid: 26039
 uid: 749812
-
 cids: 28420,28422,28572,28583
-
 ---
 
 # What causes potholes?
 
-by [Rgaude](../../../profile/Rgaude) | March 26, 2021 15:11
+by [Rgaude](/profile/Rgaude) | March 26, 2021 15:11
 
-March 26, 2021 15:11 | Tags: [laplace](../tag/laplace), [louisiana](../tag/louisiana), [soil](../tag/soil), [new-orleans](../tag/new-orleans), [question:general](../tag/question:general), [general](../tag/general), [potholes](../tag/potholes), [first-time-poster](../tag/first-time-poster), [question:soil](../tag/question:soil)
+March 26, 2021 15:11 | Tags: [laplace](/tag/laplace), [louisiana](/tag/louisiana), [soil](/tag/soil), [new-orleans](/tag/new-orleans), [question:general](/tag/question:general), [general](/tag/general), [potholes](/tag/potholes), [first-time-poster](/tag/first-time-poster), [question:soil](/tag/question:soil)
 
 ----
 

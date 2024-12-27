@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/8-3-2011/using-car-diabolo-side-reel-giant-kite.md
 nid: 424
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/diablo.png)
 
 # Using an el Camino to reel in a giant kite
 
-by [warren](../../../profile/warren) | August 03, 2011 15:36
+by [warren](/profile/warren) | August 03, 2011 15:36
 
-August 03, 2011 15:36 | Tags: [kite-mapping](../tag/kite-mapping), [cires](../tag/cires)
+August 03, 2011 15:36 | Tags: [kite-mapping](/tag/kite-mapping), [cires](/tag/cires)
 
 ----
 

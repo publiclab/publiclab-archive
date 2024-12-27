@@ -6,12 +6,12 @@ author: Shannon
 path: /wiki/public-lab-web-survey-october-2012.md
 nid: 4480
 uid: 9
-
+cids: 
 ---
 
 # Public Lab web survey October 2012
 
-by [gonzoearth](../profile/gonzoearth), [cfastie](../profile/cfastie), [Shannon](../profile/Shannon)
+by [gonzoearth](/profile/gonzoearth), [cfastie](/profile/cfastie), [Shannon](/profile/Shannon)
 
 October 18, 2012 10:16 | Tags: 
 

@@ -6,18 +6,16 @@ author: laurel_mire
 path: /notes/laurel_mire/08-17-2021/join-public-lab-fellows-on-community-calls-about-air-water-land-and-organizing-and-advocacy.md
 nid: 27576
 uid: 759178
-
 cids: 29152,29153,29154,29867,30854,30894,30895,30896,31531
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/676/original/PL_CCresearchnote.png)
 
 # Join Public Lab Fellows on community calls about air, water, land, and organizing and advocacy
 
-by [laurel_mire](../../../profile/laurel_mire) | August 17, 2021 22:33
+by [laurel_mire](/profile/laurel_mire) | August 17, 2021 22:33
 
-August 17, 2021 22:33 | Tags: [community](../tag/community), [research](../tag/research), [fellows](../tag/fellows), [general](../tag/general), [research-curation-fellows](../tag/research-curation-fellows), [with:julia_e_masters](../tag/with:julia_e_masters), [with:alejobonifacio](../tag/with:alejobonifacio), [with:fongvania](../tag/with:fongvania)
+August 17, 2021 22:33 | Tags: [community](/tag/community), [research](/tag/research), [fellows](/tag/fellows), [general](/tag/general), [research-curation-fellows](/tag/research-curation-fellows), [with:julia_e_masters](/tag/with:julia_e_masters), [with:alejobonifacio](/tag/with:alejobonifacio), [with:fongvania](/tag/with:fongvania)
 
 ----
 

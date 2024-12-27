@@ -6,12 +6,12 @@ author: warren
 path: /wiki/contributor-emails.md
 nid: 653
 uid: 1
-
+cids: 
 ---
 
 # Contributor emails
 
-by [Shannon](../profile/Shannon), [warren](../profile/warren)
+by [Shannon](/profile/Shannon), [warren](/profile/warren)
 
 December 20, 2011 20:27 | Tags: 
 

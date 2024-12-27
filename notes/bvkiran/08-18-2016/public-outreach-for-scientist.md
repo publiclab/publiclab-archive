@@ -6,18 +6,16 @@ author: bvkiran
 path: /notes/bvkiran/08-18-2016/public-outreach-for-scientist.md
 nid: 13361
 uid: 488028
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/669/original/pepperscincelogo.jpg)
 
 # Public outreach for scientist
 
-by [bvkiran](../../../profile/bvkiran) | August 18, 2016 04:43
+by [bvkiran](/profile/bvkiran) | August 18, 2016 04:43
 
-August 18, 2016 04:43 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [startup](../tag/startup), [date:08-18-2016](../tag/date:08-18-2016), [pepperscience.com](../tag/pepperscience.com)
+August 18, 2016 04:43 | Tags: [event](/tag/event), [event:rsvp](/tag/event:rsvp), [startup](/tag/startup), [date:08-18-2016](/tag/date:08-18-2016), [pepperscience.com](/tag/pepperscience.com)
 
 ----
 

@@ -6,16 +6,14 @@ author: sara
 path: /notes/sara/4-27-2012/h2s-strip-batch-1-testing-made-426.md
 nid: 1817
 uid: 8
-
 cids: 649,650,651
-
 ---
 
 # H2S strip batch 1 for testing made 4/26
 
-by [sara](../../../profile/sara) | April 27, 2012 17:43
+by [sara](/profile/sara) | April 27, 2012 17:43
 
-April 27, 2012 17:43 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper)
+April 27, 2012 17:43 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [h2s-photopaper](/tag/h2s-photopaper)
 
 ----
 

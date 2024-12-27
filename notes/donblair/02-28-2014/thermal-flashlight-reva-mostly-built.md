@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/02-28-2014/thermal-flashlight-reva-mostly-built.md
 nid: 10077
 uid: 43651
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/083/original/thermal.png)
 
 # Thermal flashlight REVA -- mostly built!
 
-by [donblair](../../../profile/donblair) | February 28, 2014 03:59
+by [donblair](/profile/donblair) | February 28, 2014 03:59
 
-February 28, 2014 03:59 | Tags: [thermal-photography](../tag/thermal-photography), [arduino](../tag/arduino), [thermal-flashlight](../tag/thermal-flashlight), [thermal-fishing](../tag/thermal-fishing), [thermal-fishing-bob](../tag/thermal-fishing-bob), [pcb](../tag/pcb), [response:9980](../tag/response:9980)
+February 28, 2014 03:59 | Tags: [thermal-photography](/tag/thermal-photography), [arduino](/tag/arduino), [thermal-flashlight](/tag/thermal-flashlight), [thermal-fishing](/tag/thermal-fishing), [thermal-fishing-bob](/tag/thermal-fishing-bob), [pcb](/tag/pcb), [response:9980](/tag/response:9980)
 
 ----
 

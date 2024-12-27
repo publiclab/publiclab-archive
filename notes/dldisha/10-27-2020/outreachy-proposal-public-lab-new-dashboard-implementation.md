@@ -6,18 +6,16 @@ author: dldisha
 path: /notes/dldisha/10-27-2020/outreachy-proposal-public-lab-new-dashboard-implementation.md
 nid: 24825
 uid: 568154
-
 cids: 27543,27544,27560,27561,27564,27565,28217
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/312/original/cover.jpg)
 
 # Outreachy proposal: Public Lab New Dashboard Implementation
 
-by [dldisha](../../../profile/dldisha) | October 27, 2020 22:57
+by [dldisha](/profile/dldisha) | October 27, 2020 22:57
 
-October 27, 2020 22:57 | Tags: [software](../tag/software), [first-time-poster](../tag/first-time-poster), [outreachy-winter-2020](../tag/outreachy-winter-2020), [outreachy-2020-winter-proposals](../tag/outreachy-2020-winter-proposals), [response:24687](../tag/response:24687)
+October 27, 2020 22:57 | Tags: [software](/tag/software), [first-time-poster](/tag/first-time-poster), [outreachy-winter-2020](/tag/outreachy-winter-2020), [outreachy-2020-winter-proposals](/tag/outreachy-2020-winter-proposals), [response:24687](/tag/response:24687)
 
 ----
 

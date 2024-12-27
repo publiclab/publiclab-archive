@@ -6,18 +6,16 @@ author: JSummers
 path: /notes/JSummers/11-03-2015/improved-top-seal-for-homemade-reference-electrodes.md
 nid: 12358
 uid: 304279
-
 cids: 29283
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/345/original/comparison2.jpg)
 
 # Improved top seal for homemade reference electrodes.
 
-by [JSummers](../../../profile/JSummers) | November 03, 2015 17:22
+by [JSummers](/profile/JSummers) | November 03, 2015 17:22
 
-November 03, 2015 17:22 | Tags: [potentiostat](../tag/potentiostat), [cheapstat](../tag/cheapstat), [tool](../tag/tool), [wheestat](../tag/wheestat), [response:9932](../tag/response:9932)
+November 03, 2015 17:22 | Tags: [potentiostat](/tag/potentiostat), [cheapstat](/tag/cheapstat), [tool](/tag/tool), [wheestat](/tag/wheestat), [response:9932](/tag/response:9932)
 
 ----
 

@@ -6,18 +6,16 @@ author: klauritsen
 path: /notes/klauritsen/09-17-2022/osidc-update-1.md
 nid: 34969
 uid: 813970
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/162/original/IMG_3328.jpg)
 
 # OSIDC Update #1
 
-by [klauritsen](../../../profile/klauritsen) | September 17, 2022 14:31
+by [klauritsen](/profile/klauritsen) | September 17, 2022 14:31
 
-September 17, 2022 14:31 | Tags: [first-time-poster](../tag/first-time-poster)
+September 17, 2022 14:31 | Tags: [first-time-poster](/tag/first-time-poster)
 
 ----
 

@@ -6,16 +6,14 @@ author: natematias
 path: /notes/natematias/01-14-2023/creating-a-videocamera-for-passive-dust-collection-over-time.md
 nid: 38041
 uid: 829981
-
 cids: 30834,30836,30847,30855,30860,30861,30958,30959,31019,31097,31171,31270,31343,31504,31505,31506,31507,31508,31509,31511,31513,31514,31515
-
 ---
 
 # Creating a "videocamera" for passive dust collection over time?
 
-by [natematias](../../../profile/natematias) | January 14, 2023 18:44
+by [natematias](/profile/natematias) | January 14, 2023 18:44
 
-January 14, 2023 18:44 | Tags: [air-quality](../tag/air-quality), [air](../tag/air), [particles](../tag/particles), [air-monitoring](../tag/air-monitoring), [general](../tag/general), [air-sampling](../tag/air-sampling), [question:air-sampling](../tag/question:air-sampling), [question:air-monitoring](../tag/question:air-monitoring), [first-time-poster](../tag/first-time-poster), [question:air](../tag/question:air)
+January 14, 2023 18:44 | Tags: [air-quality](/tag/air-quality), [air](/tag/air), [particles](/tag/particles), [air-monitoring](/tag/air-monitoring), [general](/tag/general), [air-sampling](/tag/air-sampling), [question:air-sampling](/tag/question:air-sampling), [question:air-monitoring](/tag/question:air-monitoring), [first-time-poster](/tag/first-time-poster), [question:air](/tag/question:air)
 
 ----
 

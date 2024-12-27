@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/12-15-2011/toshiba-radiation-camera-makes-radioactivity-heatmaps.md
 nid: 641
 uid: 1
-
 cids: 380
-
 ---
 
 ![](https://publiclab.org/sites/default/files/radiation-camera.jpg)
 
 # Toshiba "radiation camera" makes radioactivity heatmaps
 
-by [warren](../../../profile/warren) | December 15, 2011 17:03
+by [warren](/profile/warren) | December 15, 2011 17:03
 
-December 15, 2011 17:03 | Tags: [radiation](../tag/radiation)
+December 15, 2011 17:03 | Tags: [radiation](/tag/radiation)
 
 ----
 

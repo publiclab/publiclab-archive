@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/05-06-2014/planning-jamaica-bay-mapping-sites.md
 nid: 10433
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/079/original/IMG_2375.JPG)
 
 # Planning Jamaica Bay mapping sites
 
-by [liz](../../../profile/liz) | May 06, 2014 20:34
+by [liz](/profile/liz) | May 06, 2014 20:34
 
-May 06, 2014 20:34 | Tags: [new-york-city](../tag/new-york-city), [wetlands](../tag/wetlands), [jamaica-bay](../tag/jamaica-bay), [dead-horse-bay](../tag/dead-horse-bay), [location:blurred](../tag/location:blurred), [place:rulers-bar-jamaica-bay](../tag/place:rulers-bar-jamaica-bay), [lat:40.6](../tag/lat:40.6), [lon:-73.8](../tag/lon:-73.8), [place:jamaica-bay](../tag/place:jamaica-bay), [idelwild-marsh](../tag/idelwild-marsh), [four-sparrows-marsh](../tag/four-sparrows-marsh), [spring-creek](../tag/spring-creek)
+May 06, 2014 20:34 | Tags: [new-york-city](/tag/new-york-city), [wetlands](/tag/wetlands), [jamaica-bay](/tag/jamaica-bay), [dead-horse-bay](/tag/dead-horse-bay), [location:blurred](/tag/location:blurred), [place:rulers-bar-jamaica-bay](/tag/place:rulers-bar-jamaica-bay), [lat:40.6](/tag/lat:40.6), [lon:-73.8](/tag/lon:-73.8), [place:jamaica-bay](/tag/place:jamaica-bay), [idelwild-marsh](/tag/idelwild-marsh), [four-sparrows-marsh](/tag/four-sparrows-marsh), [spring-creek](/tag/spring-creek)
 
 ----
 

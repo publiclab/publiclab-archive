@@ -6,18 +6,16 @@ author: gonzoearth
 path: /notes/gonzoearth/06-08-2014/oblique-aerials-from-gopro-publiclab-balloon-mapping-kit.md
 nid: 10541
 uid: 12
-
 cids: 9161,9162,9163
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/565/original/G0013438.JPG)
 
 # oblique aerials from GoPro + PublicLab balloon mapping kit
 
-by [gonzoearth](../../../profile/gonzoearth) | June 08, 2014 19:11
+by [gonzoearth](/profile/gonzoearth) | June 08, 2014 19:11
 
-June 08, 2014 19:11 | Tags: [balloon-mapping](../tag/balloon-mapping), [san-francisco](../tag/san-francisco), [california](../tag/california), [balloon-mapping-kit](../tag/balloon-mapping-kit), [gopro](../tag/gopro)
+June 08, 2014 19:11 | Tags: [balloon-mapping](/tag/balloon-mapping), [san-francisco](/tag/san-francisco), [california](/tag/california), [balloon-mapping-kit](/tag/balloon-mapping-kit), [gopro](/tag/gopro)
 
 ----
 

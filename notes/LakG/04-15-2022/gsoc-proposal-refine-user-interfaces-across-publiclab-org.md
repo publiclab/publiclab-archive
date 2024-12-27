@@ -6,18 +6,16 @@ author: LakG
 path: /notes/LakG/04-15-2022/gsoc-proposal-refine-user-interfaces-across-publiclab-org.md
 nid: 30433
 uid: 794832
-
 cids: 30025,30027,30041,30094,31411
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/813/original/gsoc.png)
 
 # GSoC"proposal: Refine User Interfaces across PublicLab.org 
 
-by [LakG](../../../profile/LakG) | April 15, 2022 22:32
+by [LakG](/profile/LakG) | April 15, 2022 22:32
 
-April 15, 2022 22:32 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [lat:20](../tag/lat:20), [lon:70](../tag/lon:70), [zoom:5](../tag/zoom:5), [gsoc-2022](../tag/gsoc-2022), [gsoc-2022-proposals](../tag/gsoc-2022-proposals)
+April 15, 2022 22:32 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [soc](/tag/soc), [first-time-poster](/tag/first-time-poster), [lat:20](/tag/lat:20), [lon:70](/tag/lon:70), [zoom:5](/tag/zoom:5), [gsoc-2022](/tag/gsoc-2022), [gsoc-2022-proposals](/tag/gsoc-2022-proposals)
 
 ----
 

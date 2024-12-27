@@ -6,14 +6,14 @@ author: warren
 path: /wiki/subscribe.md
 nid: 308
 uid: 1
-
+cids: 
 ---
 
 # Subscribe
 
-by [Becki](../profile/Becki), [warren](../profile/warren), [liz](../profile/liz), [mathew](../profile/mathew)
+by [Becki](/profile/Becki), [warren](/profile/warren), [liz](/profile/liz), [mathew](/profile/mathew)
 
-May 31, 2011 23:39 | Tags: [newsletter](../tag/newsletter), [sidebar:featured](../tag/sidebar:featured), [style:wide](../tag/style:wide), [style:presentation](../tag/style:presentation), [newsletter-archive](../tag/newsletter-archive)
+May 31, 2011 23:39 | Tags: [newsletter](/tag/newsletter), [sidebar:featured](/tag/sidebar:featured), [style:wide](/tag/style:wide), [style:presentation](/tag/style:presentation), [newsletter-archive](/tag/newsletter-archive)
 
 ----
 

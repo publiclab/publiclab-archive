@@ -6,12 +6,12 @@ author: sara
 path: /wiki/gear-map.md
 nid: 9410
 uid: 8
-
+cids: 
 ---
 
 # Gear Map
 
-by [sara](../profile/sara)
+by [sara](/profile/sara)
 
 October 06, 2013 19:15 | Tags: 
 

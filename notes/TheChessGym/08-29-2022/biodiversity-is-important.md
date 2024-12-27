@@ -6,18 +6,16 @@ author: TheChessGym
 path: /notes/TheChessGym/08-29-2022/biodiversity-is-important.md
 nid: 34919
 uid: 788868
-
 cids: 30536,30538,30539,30540,30541,30542,30543,30544,30545,30546,30547,30548,30549,30550,30551,30552
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/091/original/biomes-world_0.jpg)
 
 # Biodiversity Is Important 
 
-by [TheChessGym](../../../profile/TheChessGym) | August 29, 2022 12:09
+by [TheChessGym](/profile/TheChessGym) | August 29, 2022 12:09
 
-August 29, 2022 12:09 | Tags: [lat:22](../tag/lat:22), [first-time-poster](../tag/first-time-poster), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
+August 29, 2022 12:09 | Tags: [lat:22](/tag/lat:22), [first-time-poster](/tag/first-time-poster), [lon:76](/tag/lon:76), [zoom:6](/tag/zoom:6)
 
 ----
 

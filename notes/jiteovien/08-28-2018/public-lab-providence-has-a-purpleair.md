@@ -6,16 +6,14 @@ author: jiteovien
 path: /notes/jiteovien/08-28-2018/public-lab-providence-has-a-purpleair.md
 nid: 17006
 uid: 540008
-
 cids: 20492,20496,20497,20499,20500,20502,20512,20524,20540,20541,20542,20562
-
 ---
 
 # Public Lab Providence has a PurpleAir
 
-by [jiteovien](../../../profile/jiteovien) | August 28, 2018 15:26
+by [jiteovien](/profile/jiteovien) | August 28, 2018 15:26
 
-August 28, 2018 15:26 | Tags: [providence](../tag/providence), [air-quality](../tag/air-quality), [pm](../tag/pm), [particulate-matter](../tag/particulate-matter), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [place:providence](../tag/place:providence), [purple-air](../tag/purple-air), [replication:17009](../tag/replication:17009), [lat:41.809059](../tag/lat:41.809059), [lon:-71.426406](../tag/lon:-71.426406)
+August 28, 2018 15:26 | Tags: [providence](/tag/providence), [air-quality](/tag/air-quality), [pm](/tag/pm), [particulate-matter](/tag/particulate-matter), [air-sensors](/tag/air-sensors), [purpleair](/tag/purpleair), [place:providence](/tag/place:providence), [purple-air](/tag/purple-air), [replication:17009](/tag/replication:17009), [lat:41.809059](/tag/lat:41.809059), [lon:-71.426406](/tag/lon:-71.426406)
 
 ----
 

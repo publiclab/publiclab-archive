@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/04-17-2019/would-it-be-possible-to-make-our-own-microscopic-scale-rulers-micrometers-using-optical-discs-dvds.md
 nid: 19091
 uid: 1
-
 cids: 23924,23925,23926,23927,23928,23933
-
 ---
 
 # Would it be possible to make our own microscopic scale rulers (micrometers) using optical discs (DVDs?)
 
-by [warren](../../../profile/warren) | April 17, 2019 20:30
+by [warren](/profile/warren) | April 17, 2019 20:30
 
-April 17, 2019 20:30 | Tags: [calibration](../tag/calibration), [cd](../tag/cd), [dvd](../tag/dvd), [blu-ray](../tag/blu-ray), [microscope](../tag/microscope), [microscopes](../tag/microscopes), [question:microscope](../tag/question:microscope), [question:microscopes](../tag/question:microscopes), [question:basic-microscope](../tag/question:basic-microscope), [scale](../tag/scale), [community-microscope](../tag/community-microscope), [question:community-microscope](../tag/question:community-microscope), [cd-rom](../tag/cd-rom), [dvd-r](../tag/dvd-r), [optical-disc](../tag/optical-disc), [micrometer](../tag/micrometer)
+April 17, 2019 20:30 | Tags: [calibration](/tag/calibration), [cd](/tag/cd), [dvd](/tag/dvd), [blu-ray](/tag/blu-ray), [microscope](/tag/microscope), [microscopes](/tag/microscopes), [question:microscope](/tag/question:microscope), [question:microscopes](/tag/question:microscopes), [question:basic-microscope](/tag/question:basic-microscope), [scale](/tag/scale), [community-microscope](/tag/community-microscope), [question:community-microscope](/tag/question:community-microscope), [cd-rom](/tag/cd-rom), [dvd-r](/tag/dvd-r), [optical-disc](/tag/optical-disc), [micrometer](/tag/micrometer)
 
 ----
 

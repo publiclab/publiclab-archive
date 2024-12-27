@@ -6,16 +6,16 @@ author: ShawnSmall
 path: /wiki/monitoring-bee-behavior-with-a-raspberry-pi.md
 nid: 24654
 uid: 721831
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/752/original/Eastern_Carpenter_Bee_-_Xylocopa_virginica__Leesylvania_State_Park__Woodbridge__Virginia_by_Judy_Gallagher_is_licensed_with_CC_BY_2.0._To_view_a_copy_of_this_license__visit_httpscreativecommons.orglicensesby2.0.jpg)
 
 # Automated recording of daily behavioral and vibroacoustic activity in Xylocopa virginica
 
-by [ShawnSmall](../profile/ShawnSmall)
+by [ShawnSmall](/profile/ShawnSmall)
 
-September 26, 2020 03:01 | Tags: [raspberry-pi](../tag/raspberry-pi), [massachusetts](../tag/massachusetts), [insects](../tag/insects), [vibrations](../tag/vibrations), [northeast](../tag/northeast), [rpi](../tag/rpi), [bees](../tag/bees), [project](../tag/project)
+September 26, 2020 03:01 | Tags: [raspberry-pi](/tag/raspberry-pi), [massachusetts](/tag/massachusetts), [insects](/tag/insects), [vibrations](/tag/vibrations), [northeast](/tag/northeast), [rpi](/tag/rpi), [bees](/tag/bees), [project](/tag/project)
 
 ----
 
@@ -83,7 +83,7 @@ My research questions:
 
 ### Activities we’ve done in our project
 
-[t\CarpenterBees](../../tag/activity:t\CarpenterBees)
+[t\CarpenterBees](/tag/activity:t\CarpenterBees)
 
 **Materials List (subject to change):**
 

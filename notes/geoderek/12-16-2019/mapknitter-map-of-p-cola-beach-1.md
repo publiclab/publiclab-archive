@@ -6,18 +6,16 @@ author: geoderek
 path: /notes/geoderek/12-16-2019/mapknitter-map-of-p-cola-beach-1.md
 nid: 21770
 uid: 637361
-
 cids: 26033,26056,26074,26076
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/205/original/IMG_20190302_152731173.jpg)
 
 # MapKnitter map of P-Cola Beach 1
 
-by [geoderek](../../../profile/geoderek) | December 16, 2019 21:08
+by [geoderek](/profile/geoderek) | December 16, 2019 21:08
 
-December 16, 2019 21:08 | Tags: [mapknitter](../tag/mapknitter), [lat:30.3337006](../tag/lat:30.3337006), [lon:-87.1411089](../tag/lon:-87.1411089), [lat:30.3337](../tag/lat:30.3337), [lon:-87.141108](../tag/lon:-87.141108)
+December 16, 2019 21:08 | Tags: [mapknitter](/tag/mapknitter), [lat:30.3337006](/tag/lat:30.3337006), [lon:-87.1411089](/tag/lon:-87.1411089), [lat:30.3337](/tag/lat:30.3337), [lon:-87.141108](/tag/lon:-87.141108)
 
 ----
 

@@ -6,18 +6,16 @@ author: marfisistemidroni
 path: /notes/marfisistemidroni/11-03-2016/question-infragram-kit.md
 nid: 13676
 uid: 459185
-
 cids: 15773,15774,15775,15776,22441
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/698/original/DSC03034.JPG)
 
 # Question infragram kit
 
-by [marfisistemidroni](../../../profile/marfisistemidroni) | November 03, 2016 23:38
+by [marfisistemidroni](/profile/marfisistemidroni) | November 03, 2016 23:38
 
-November 03, 2016 23:38 | Tags: [infragram](../tag/infragram), [question:infragram](../tag/question:infragram), [infragram-webcam](../tag/infragram-webcam), [question:infragram-webcam](../tag/question:infragram-webcam), [question:multispectral-imaging](../tag/question:multispectral-imaging), [multispectral-imaging](../tag/multispectral-imaging), [question:infragram-point-shoot](../tag/question:infragram-point-shoot), [first-time-poster](../tag/first-time-poster)
+November 03, 2016 23:38 | Tags: [infragram](/tag/infragram), [question:infragram](/tag/question:infragram), [infragram-webcam](/tag/infragram-webcam), [question:infragram-webcam](/tag/question:infragram-webcam), [question:multispectral-imaging](/tag/question:multispectral-imaging), [multispectral-imaging](/tag/multispectral-imaging), [question:infragram-point-shoot](/tag/question:infragram-point-shoot), [first-time-poster](/tag/first-time-poster)
 
 ----
 

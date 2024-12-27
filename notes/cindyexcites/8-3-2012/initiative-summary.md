@@ -6,16 +6,14 @@ author: cindy_excites
 path: /notes/cindyexcites/8-3-2012/initiative-summary.md
 nid: 3119
 uid: 1083
-
 cids: 
-
 ---
 
 # Initiative summary
 
-by [cindy_excites](../../../profile/cindy_excites) | August 03, 2012 21:50
+by [cindy_excites](/profile/cindy_excites) | August 03, 2012 21:50
 
-August 03, 2012 21:50 | Tags: [london](../tag/london), [citizen-science](../tag/citizen-science), [grassroots-science](../tag/grassroots-science), [diy](../tag/diy), [ucl](../tag/ucl), [uk](../tag/uk), [excites](../tag/excites), [civic-science](../tag/civic-science), [first-time-poster](../tag/first-time-poster)
+August 03, 2012 21:50 | Tags: [london](/tag/london), [citizen-science](/tag/citizen-science), [grassroots-science](/tag/grassroots-science), [diy](/tag/diy), [ucl](/tag/ucl), [uk](/tag/uk), [excites](/tag/excites), [civic-science](/tag/civic-science), [first-time-poster](/tag/first-time-poster)
 
 ----
 

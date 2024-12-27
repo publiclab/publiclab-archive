@@ -6,16 +6,14 @@ author: jacobsimonson
 path: /notes/jacobsimonson/10-19-2011/wetable-and-charm.md
 nid: 510
 uid: 295
-
 cids: 1061
-
 ---
 
 # The weTable and CHARM
 
-by [jacobsimonson](../../../profile/jacobsimonson) | October 19, 2011 18:59
+by [jacobsimonson](/profile/jacobsimonson) | October 19, 2011 18:59
 
-October 19, 2011 18:59 | Tags: [university](../tag/university), [texas](../tag/texas)
+October 19, 2011 18:59 | Tags: [university](/tag/university), [texas](/tag/texas)
 
 ----
 

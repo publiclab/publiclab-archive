@@ -6,12 +6,12 @@ author: gonzoearth
 path: /wiki/near-infrared-camera-review.md
 nid: 698
 uid: 12
-
+cids: 
 ---
 
 # near infrared camera review
 
-by [gonzoearth](../profile/gonzoearth)
+by [gonzoearth](/profile/gonzoearth)
 
 January 19, 2012 00:40 | Tags: 
 

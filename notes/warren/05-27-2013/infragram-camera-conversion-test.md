@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/05-27-2013/infragram-camera-conversion-test.md
 nid: 7931
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/404/original/IMG_0521.JPG)
 
 # Infragram camera conversion test
 
-by [warren](../../../profile/warren) | May 27, 2013 12:29
+by [warren](/profile/warren) | May 27, 2013 12:29
 
-May 27, 2013 12:29 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [infragram-conversion](../tag/infragram-conversion)
+May 27, 2013 12:29 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [infragram](/tag/infragram), [infragram-conversion](/tag/infragram-conversion)
 
 ----
 

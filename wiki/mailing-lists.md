@@ -6,14 +6,14 @@ author: hananbloomer
 path: /wiki/mailing-lists.md
 nid: 14205
 uid: 507496
-
+cids: 
 ---
 
 # Sustainable Oceans Alliance
 
-by [xose](../profile/xose), [hananbloomer](../profile/hananbloomer)
+by [xose](/profile/xose), [hananbloomer](/profile/hananbloomer)
 
-May 17, 2017 16:18 | Tags: [ocean](../tag/ocean), [sustainability](../tag/sustainability)
+May 17, 2017 16:18 | Tags: [ocean](/tag/ocean), [sustainability](/tag/sustainability)
 
 ----
 

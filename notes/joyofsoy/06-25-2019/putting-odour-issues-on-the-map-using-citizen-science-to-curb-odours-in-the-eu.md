@@ -6,18 +6,16 @@ author: joyofsoy
 path: /notes/joyofsoy/06-25-2019/putting-odour-issues-on-the-map-using-citizen-science-to-curb-odours-in-the-eu.md
 nid: 19858
 uid: 540844
-
 cids: 24902
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/191/original/Article_3_The_Forum_area_in_Barcelona_is_surrounded_by_four_large_waste_management_facilities__which_continue_to_expose_the_long_time_local_residents_to_persistent_bad_environmental_odours..jpg)
 
 # Putting Odor Issues on the Map: Using citizen science to curb odors in the EU
 
-by [joyofsoy](../../../profile/joyofsoy) | June 25, 2019 16:30
+by [joyofsoy](/profile/joyofsoy) | June 25, 2019 16:30
 
-June 25, 2019 16:30 | Tags: [eu](../tag/eu), [europe](../tag/europe), [odor](../tag/odor), [odor-logging](../tag/odor-logging), [csf](../tag/csf), [csf16](../tag/csf16)
+June 25, 2019 16:30 | Tags: [eu](/tag/eu), [europe](/tag/europe), [odor](/tag/odor), [odor-logging](/tag/odor-logging), [csf](/tag/csf), [csf16](/tag/csf16)
 
 ----
 

@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/9-26-2011/temperature-and-humidity-sensors-correct-h2s-sensor.md
 nid: 477
 uid: 1
-
 cids: 
-
 ---
 
 # Temperature and humidity sensors to correct H2S sensor
 
-by [warren](../../../profile/warren) | September 26, 2011 14:40
+by [warren](/profile/warren) | September 26, 2011 14:40
 
-September 26, 2011 14:40 | Tags: [hydrogen-sulfide-sensor](../tag/hydrogen-sulfide-sensor)
+September 26, 2011 14:40 | Tags: [hydrogen-sulfide-sensor](/tag/hydrogen-sulfide-sensor)
 
 ----
 

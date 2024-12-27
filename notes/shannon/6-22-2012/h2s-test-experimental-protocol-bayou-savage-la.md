@@ -6,16 +6,14 @@ author: Shannon
 path: /notes/shannon/6-22-2012/h2s-test-experimental-protocol-bayou-savage-la.md
 nid: 2610
 uid: 9
-
 cids: 943,944,945,948
-
 ---
 
 # H2S test experimental protocol: Bayou Savage, LA
 
-by [Shannon](../../../profile/Shannon) | June 22, 2012 15:07
+by [Shannon](/profile/Shannon) | June 22, 2012 15:07
 
-June 22, 2012 15:07 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing)
+June 22, 2012 15:07 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing)
 
 ----
 

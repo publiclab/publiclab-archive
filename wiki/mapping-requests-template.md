@@ -6,12 +6,12 @@ author: warren
 path: /wiki/mapping-requests-template.md
 nid: 14626
 uid: 1
-
+cids: 
 ---
 
 # Mapping Requests Template
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 July 06, 2017 22:46 | Tags: 
 

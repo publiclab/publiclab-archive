@@ -6,16 +6,16 @@ author: hagitkeysar
 path: /wiki/jerusalem.md
 nid: 7315
 uid: 152
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/586/original/10149278216_ff42a397c4_z.jpg)
 
 # Jerusalem
 
-by [hagitkeysar](../profile/hagitkeysar), [liz](../profile/liz)
+by [hagitkeysar](/profile/hagitkeysar), [liz](/profile/liz)
 
-May 08, 2013 16:47 | Tags: [kite-mapping](../tag/kite-mapping), [jerusalem](../tag/jerusalem), [protest](../tag/protest), [youth](../tag/youth), [israel](../tag/israel), [palestine](../tag/palestine), [urban-planning](../tag/urban-planning), [chapter](../tag/chapter), [events:jerusalem](../tag/events:jerusalem), [list:publiclab-jerusalem](../tag/list:publiclab-jerusalem), [lon:35.2167](../tag/lon:35.2167), [lat:31.7833](../tag/lat:31.7833), [silwan](../tag/silwan), [tabbed:notes](../tag/tabbed:notes), [tabbed:wikis](../tag/tabbed:wikis), [construction](../tag/construction), [table-lamp](../tag/table-lamp)
+May 08, 2013 16:47 | Tags: [kite-mapping](/tag/kite-mapping), [jerusalem](/tag/jerusalem), [protest](/tag/protest), [youth](/tag/youth), [israel](/tag/israel), [palestine](/tag/palestine), [urban-planning](/tag/urban-planning), [chapter](/tag/chapter), [events:jerusalem](/tag/events:jerusalem), [list:publiclab-jerusalem](/tag/list:publiclab-jerusalem), [lon:35.2167](/tag/lon:35.2167), [lat:31.7833](/tag/lat:31.7833), [silwan](/tag/silwan), [tabbed:notes](/tag/tabbed:notes), [tabbed:wikis](/tag/tabbed:wikis), [construction](/tag/construction), [table-lamp](/tag/table-lamp)
 
 ----
 

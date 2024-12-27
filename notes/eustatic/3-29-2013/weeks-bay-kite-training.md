@@ -6,18 +6,16 @@ author: eustatic
 path: /3-29-2013/weeks-bay-kite-training.md
 nid: 6607
 uid: 379
-
 cids: 4286,4287,4288,4324
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0686 y.JPG)
 
 # Weeks Bay Kite Training
 
-by [eustatic](../../../profile/eustatic) | March 29, 2013 21:41
+by [eustatic](/profile/eustatic) | March 29, 2013 21:41
 
-March 29, 2013 21:41 | Tags: [kite-mapping](../tag/kite-mapping), [gulf-restoration-network](../tag/gulf-restoration-network), [event](../tag/event), [gulf-coast](../tag/gulf-coast)
+March 29, 2013 21:41 | Tags: [kite-mapping](/tag/kite-mapping), [gulf-restoration-network](/tag/gulf-restoration-network), [event](/tag/event), [gulf-coast](/tag/gulf-coast)
 
 ----
 

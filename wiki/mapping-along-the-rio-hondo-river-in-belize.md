@@ -6,14 +6,14 @@ author: mollydanielsson
 path: /wiki/mapping-along-the-rio-hondo-river-in-belize.md
 nid: 11701
 uid: 1259
-
+cids: 
 ---
 
 # Mapping along the Rio Hondo River in Belize
 
-by [mollydanielsson](../profile/mollydanielsson)
+by [mollydanielsson](/profile/mollydanielsson)
 
-March 20, 2015 23:30 | Tags: [belize](../tag/belize), [belizeopensource](../tag/belizeopensource), [grassrootsmappingforum](../tag/grassrootsmappingforum), [style:fancy](../tag/style:fancy), [with:patcoyle](../tag/with:patcoyle), [gmf-5](../tag/gmf-5), [geomatic](../tag/geomatic)
+March 20, 2015 23:30 | Tags: [belize](/tag/belize), [belizeopensource](/tag/belizeopensource), [grassrootsmappingforum](/tag/grassrootsmappingforum), [style:fancy](/tag/style:fancy), [with:patcoyle](/tag/with:patcoyle), [gmf-5](/tag/gmf-5), [geomatic](/tag/geomatic)
 
 ----
 

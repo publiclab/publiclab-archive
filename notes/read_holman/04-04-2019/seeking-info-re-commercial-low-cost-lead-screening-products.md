@@ -6,16 +6,14 @@ author: read_holman
 path: /notes/read_holman/04-04-2019/seeking-info-re-commercial-low-cost-lead-screening-products.md
 nid: 18958
 uid: 540243
-
 cids: 23674,23675,23698,23700,23701,23702,23780,23897
-
 ---
 
 # Seeking Info re Commercial Low-cost Lead Screening Products
 
-by [read_holman](../../../profile/read_holman) | April 04, 2019 18:59
+by [read_holman](/profile/read_holman) | April 04, 2019 18:59
 
-April 04, 2019 18:59 | Tags: [soil](../tag/soil), [water-quality](../tag/water-quality), [water](../tag/water), [lead](../tag/lead), [question:water-quality](../tag/question:water-quality), [question:lead](../tag/question:lead), [paint](../tag/paint)
+April 04, 2019 18:59 | Tags: [soil](/tag/soil), [water-quality](/tag/water-quality), [water](/tag/water), [lead](/tag/lead), [question:water-quality](/tag/question:water-quality), [question:lead](/tag/question:lead), [paint](/tag/paint)
 
 ----
 

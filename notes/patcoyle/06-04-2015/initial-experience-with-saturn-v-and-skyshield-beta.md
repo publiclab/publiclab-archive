@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/06-04-2015/initial-experience-with-saturn-v-and-skyshield-beta.md
 nid: 11952
 uid: 77
-
 cids: 11916,11961
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/249/original/Untitled_Panorama_exp-2.75.jpg)
 
 # Updated initial experience with Saturn V and SkyShield beta
 
-by [patcoyle](../../../profile/patcoyle) | June 04, 2015 23:30
+by [patcoyle](/profile/patcoyle) | June 04, 2015 23:30
 
-June 04, 2015 23:30 | Tags: [chdk](../tag/chdk), [kap](../tag/kap), [autokap](../tag/autokap), [kap-rigs](../tag/kap-rigs), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield)
+June 04, 2015 23:30 | Tags: [chdk](/tag/chdk), [kap](/tag/kap), [autokap](/tag/autokap), [kap-rigs](/tag/kap-rigs), [kaptery](/tag/kaptery), [saturnv](/tag/saturnv), [skyshield](/tag/skyshield)
 
 ----
 

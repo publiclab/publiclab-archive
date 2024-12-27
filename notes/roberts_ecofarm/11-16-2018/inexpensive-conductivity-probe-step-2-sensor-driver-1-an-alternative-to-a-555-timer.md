@@ -6,18 +6,16 @@ author: roberts_ecofarm
 path: /notes/roberts_ecofarm/11-16-2018/inexpensive-conductivity-probe-step-2-sensor-driver-1-an-alternative-to-a-555-timer.md
 nid: 17556
 uid: 556121
-
 cids: 21455,21456,21458,21462
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/670/original/water_quality.jpg)
 
 # Inexpensive conductivity probe Step 2 - Sensor Driver #1 - an alternative to a 555 timer
 
-by [roberts_ecofarm](../../../profile/roberts_ecofarm) | November 15, 2018 04:01
+by [roberts_ecofarm](/profile/roberts_ecofarm) | November 15, 2018 04:01
 
-November 15, 2018 04:01 | Tags: [response:10318](../tag/response:10318), [response:11159](../tag/response:11159)
+November 15, 2018 04:01 | Tags: [response:10318](/tag/response:10318), [response:11159](/tag/response:11159)
 
 ----
 

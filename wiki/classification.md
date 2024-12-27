@@ -6,14 +6,14 @@ author: warren
 path: /wiki/classification.md
 nid: 675
 uid: 1
-
+cids: 
 ---
 
 # Classification
 
-by [eustatic](../profile/eustatic), [adam-griffith](../profile/adam-griffith), [warren](../profile/warren)
+by [eustatic](/profile/eustatic), [adam-griffith](/profile/adam-griffith), [warren](/profile/warren)
 
-January 03, 2012 22:03 | Tags: [wetlands](../tag/wetlands), [aerial-photography](../tag/aerial-photography), [wetlands-restoration](../tag/wetlands-restoration), [mines](../tag/mines)
+January 03, 2012 22:03 | Tags: [wetlands](/tag/wetlands), [aerial-photography](/tag/aerial-photography), [wetlands-restoration](/tag/wetlands-restoration), [mines](/tag/mines)
 
 ----
 

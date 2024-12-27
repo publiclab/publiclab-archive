@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/11-19-2012/takes-fold-mini-spectrometer.md
 nid: 4953
 uid: 4
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-11-19 at 12.20.49 PM.png)
 
 # Takes on the fold-up mini-spectrometer
 
-by [mathew](../../../profile/mathew) | November 19, 2012 20:23
+by [mathew](/profile/mathew) | November 19, 2012 20:23
 
-November 19, 2012 20:23 | Tags: [spectrometer](../tag/spectrometer), [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer)
+November 19, 2012 20:23 | Tags: [spectrometer](/tag/spectrometer), [fold-up-mini-spectrometer](/tag/fold-up-mini-spectrometer)
 
 ----
 

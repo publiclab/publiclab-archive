@@ -6,14 +6,14 @@ author: warren
 path: /wiki/basics.md
 nid: 17294
 uid: 1
-
+cids: 
 ---
 
 # Public Lab Basics
 
-by [bhamster](../profile/bhamster), [warren](../profile/warren)
+by [bhamster](/profile/bhamster), [warren](/profile/warren)
 
-October 15, 2018 03:22 | Tags: [community](../tag/community), [faq](../tag/faq), [getting-started](../tag/getting-started), [style:minimal](../tag/style:minimal), [questions](../tag/questions), [basics](../tag/basics), [parent:welcome](../tag/parent:welcome)
+October 15, 2018 03:22 | Tags: [community](/tag/community), [faq](/tag/faq), [getting-started](/tag/getting-started), [style:minimal](/tag/style:minimal), [questions](/tag/questions), [basics](/tag/basics), [parent:welcome](/tag/parent:welcome)
 
 ----
 

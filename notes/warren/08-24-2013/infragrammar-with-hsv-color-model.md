@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/08-24-2013/infragrammar-with-hsv-color-model.md
 nid: 9054
 uid: 1
-
 cids: 6738,6739,7164,7169,8713,8732,8914,8915,8916,8917,8918,8919,8920,8921,12108,12129,12131
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/298/original/Screen_Shot_2013-08-24_at_12.03.56_PM.png)
 
 # Infragrammar with HSV color model
 
-by [warren](../../../profile/warren) | August 24, 2013 16:12
+by [warren](/profile/warren) | August 24, 2013 16:12
 
-August 24, 2013 16:12 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [processing](../tag/processing), [compositing](../tag/compositing), [infragram-sandbox](../tag/infragram-sandbox), [infragrammar](../tag/infragrammar), [colormap](../tag/colormap)
+August 24, 2013 16:12 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [infragram](/tag/infragram), [processing](/tag/processing), [compositing](/tag/compositing), [infragram-sandbox](/tag/infragram-sandbox), [infragrammar](/tag/infragrammar), [colormap](/tag/colormap)
 
 ----
 

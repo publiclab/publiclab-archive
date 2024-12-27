@@ -6,18 +6,16 @@ author: gretchengehrke
 path: /notes/gretchengehrke/10-28-2016/thoughts-on-method-9-and-its-utility.md
 nid: 13662
 uid: 430549
-
 cids: 15873,15886,15918,29784
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/665/original/SmokeSchool-crop.jpg)
 
 # Thoughts on Method 9 and its utility 
 
-by [gretchengehrke](../../../profile/gretchengehrke) | October 28, 2016 18:15
+by [gretchengehrke](/profile/gretchengehrke) | October 28, 2016 18:15
 
-October 28, 2016 18:15 | Tags: [plume](../tag/plume), [epa](../tag/epa), [air-quality](../tag/air-quality), [blog](../tag/blog), [pm](../tag/pm), [open-air](../tag/open-air), [certification](../tag/certification), [smoke-school](../tag/smoke-school), [method-9](../tag/method-9), [fugitive-emissions](../tag/fugitive-emissions), [visible-emissions](../tag/visible-emissions), [alternative-method-82](../tag/alternative-method-82), [method-22](../tag/method-22), [visual-monitoring](../tag/visual-monitoring), [opacity](../tag/opacity)
+October 28, 2016 18:15 | Tags: [plume](/tag/plume), [epa](/tag/epa), [air-quality](/tag/air-quality), [blog](/tag/blog), [pm](/tag/pm), [open-air](/tag/open-air), [certification](/tag/certification), [smoke-school](/tag/smoke-school), [method-9](/tag/method-9), [fugitive-emissions](/tag/fugitive-emissions), [visible-emissions](/tag/visible-emissions), [alternative-method-82](/tag/alternative-method-82), [method-22](/tag/method-22), [visual-monitoring](/tag/visual-monitoring), [opacity](/tag/opacity)
 
 ----
 

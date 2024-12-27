@@ -6,14 +6,14 @@ author: warren
 path: /wiki/spectral-workbench-api-v1.md
 nid: 12626
 uid: 1
-
+cids: 
 ---
 
 # Spectral Workbench API v1
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-January 27, 2016 15:07 | Tags: [software](../tag/software), [spectral-workbench](../tag/spectral-workbench), [development](../tag/development), [spectral-workbench-api](../tag/spectral-workbench-api), [parent:spectral-workbench-api](../tag/parent:spectral-workbench-api)
+January 27, 2016 15:07 | Tags: [software](/tag/software), [spectral-workbench](/tag/spectral-workbench), [development](/tag/development), [spectral-workbench-api](/tag/spectral-workbench-api), [parent:spectral-workbench-api](/tag/parent:spectral-workbench-api)
 
 ----
 

@@ -6,18 +6,16 @@ author: danbeavers
 path: /notes/danbeavers/2-11-2013/bayou-bienvenue-la-0.md
 nid: 5945
 uid: 51
-
 cids: 3388,3389,3390,3391,3392,3400,3401
-
 ---
 
 ![](https://publiclab.org/sites/default/files/BB.jpg)
 
 # Bayou Bienvenue LA
 
-by [danbeavers](../../../profile/danbeavers) | February 11, 2013 18:34
+by [danbeavers](/profile/danbeavers) | February 11, 2013 18:34
 
-February 11, 2013 18:34 | Tags: [gulf-coast](../tag/gulf-coast), [panorama](../tag/panorama), [photo](../tag/photo), [bienvenue](../tag/bienvenue)
+February 11, 2013 18:34 | Tags: [gulf-coast](/tag/gulf-coast), [panorama](/tag/panorama), [photo](/tag/photo), [bienvenue](/tag/bienvenue)
 
 ----
 

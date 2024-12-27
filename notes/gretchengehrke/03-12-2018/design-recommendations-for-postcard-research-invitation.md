@@ -6,18 +6,16 @@ author: gretchengehrke
 path: /notes/gretchengehrke/03-12-2018/design-recommendations-for-postcard-research-invitation.md
 nid: 15924
 uid: 430549
-
 cids: 18888,18890,18891,18894,18895,18896,19123,19124
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/022/original/Screen_Shot_2018-03-08_at_10.23.30_AM.png)
 
 # Design recommendations for postcard research invitation?
 
-by [gretchengehrke](../../../profile/gretchengehrke) | March 12, 2018 16:26
+by [gretchengehrke](/profile/gretchengehrke) | March 12, 2018 16:26
 
-March 12, 2018 16:26 | Tags: [design](../tag/design), [formaldehyde](../tag/formaldehyde), [indoor-air-quality-monitoring](../tag/indoor-air-quality-monitoring), [smart-form](../tag/smart-form), [question:design](../tag/question:design), [question:outreach](../tag/question:outreach)
+March 12, 2018 16:26 | Tags: [design](/tag/design), [formaldehyde](/tag/formaldehyde), [indoor-air-quality-monitoring](/tag/indoor-air-quality-monitoring), [smart-form](/tag/smart-form), [question:design](/tag/question:design), [question:outreach](/tag/question:outreach)
 
 ----
 

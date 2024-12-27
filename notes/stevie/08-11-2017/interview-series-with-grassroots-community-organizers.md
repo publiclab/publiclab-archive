@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/08-11-2017/interview-series-with-grassroots-community-organizers.md
 nid: 14733
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/321/original/obliquePC.JPG)
 
 # Interview series with Grassroots Community Organizers
 
-by [stevie](../../../profile/stevie) | August 11, 2017 20:25
+by [stevie](/profile/stevie) | August 11, 2017 20:25
 
-August 11, 2017 20:25 | Tags: [interview](../tag/interview), [chicago](../tag/chicago), [environmental-justice](../tag/environmental-justice), [community-organizing](../tag/community-organizing), [interview-series](../tag/interview-series), [series:community-interviews](../tag/series:community-interviews)
+August 11, 2017 20:25 | Tags: [interview](/tag/interview), [chicago](/tag/chicago), [environmental-justice](/tag/environmental-justice), [community-organizing](/tag/community-organizing), [interview-series](/tag/interview-series), [series:community-interviews](/tag/series:community-interviews)
 
 ----
 

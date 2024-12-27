@@ -6,18 +6,16 @@ author: sidntrivedi012
 path: /notes/sidntrivedi012/06-29-2019/gsoc-post-1-spectral-workbench-capture.md
 nid: 19926
 uid: 572743
-
 cids: 24938,24939,24960
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/365/original/header.jpeg)
 
 # GSoC Post 1: Spectral-Workbench-Capture
 
-by [sidntrivedi012](../../../profile/sidntrivedi012) | June 29, 2019 12:47
+by [sidntrivedi012](/profile/sidntrivedi012) | June 29, 2019 12:47
 
-June 29, 2019 12:47 | Tags: [open-source](../tag/open-source), [spectral-workbench](../tag/spectral-workbench), [gsoc](../tag/gsoc), [soc-2019](../tag/soc-2019), [post-1](../tag/post-1)
+June 29, 2019 12:47 | Tags: [open-source](/tag/open-source), [spectral-workbench](/tag/spectral-workbench), [gsoc](/tag/gsoc), [soc-2019](/tag/soc-2019), [post-1](/tag/post-1)
 
 ----
 

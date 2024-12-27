@@ -6,16 +6,14 @@ author: Ajith_Kumar
 path: /notes/Ajith_Kumar/10-10-2016/what-are-the-requirements-of-a-camera-for-filter-replacement-and-ndvi-imaging.md
 nid: 13548
 uid: 494004
-
 cids: 15637,22325,22326
-
 ---
 
 # what are the requirements of a camera for Filter replacement and NDVI imaging?
 
-by [Ajith_Kumar](../../../profile/Ajith_Kumar) | October 10, 2016 10:29
+by [Ajith_Kumar](/profile/Ajith_Kumar) | October 10, 2016 10:29
 
-October 10, 2016 10:29 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [filter](../tag/filter), [infragram](../tag/infragram), [cameras](../tag/cameras), [question:infragram](../tag/question:infragram), [answered](../tag/answered), [question:infrared](../tag/question:infrared)
+October 10, 2016 10:29 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [filter](/tag/filter), [infragram](/tag/infragram), [cameras](/tag/cameras), [question:infragram](/tag/question:infragram), [answered](/tag/answered), [question:infrared](/tag/question:infrared)
 
 ----
 

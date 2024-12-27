@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/5-25-2011/excerpts-using-uv-and-ir-oil-slick-identification.md
 nid: 295
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/uv-ir-oil.png)
 
 # Excerpts on using UV and IR for oil slick identification
 
-by [warren](../../../profile/warren) | May 25, 2011 17:01
+by [warren](/profile/warren) | May 25, 2011 17:01
 
-May 25, 2011 17:01 | Tags: [uv](../tag/uv), [oil](../tag/oil), [ultraviolet](../tag/ultraviolet), [water-quality](../tag/water-quality), [slick](../tag/slick)
+May 25, 2011 17:01 | Tags: [uv](/tag/uv), [oil](/tag/oil), [ultraviolet](/tag/ultraviolet), [water-quality](/tag/water-quality), [slick](/tag/slick)
 
 ----
 

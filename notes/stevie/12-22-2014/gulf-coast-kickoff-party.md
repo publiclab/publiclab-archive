@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/12-22-2014/gulf-coast-kickoff-party.md
 nid: 11493
 uid: 422561
-
 cids: 11012,11013,11019
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/521/original/Public_Lab_event_flyer_-_jan_7.jpg)
 
 # Gulf Coast 2015 Kickoff Party!
 
-by [stevie](../../../profile/stevie) | December 22, 2014 18:49
+by [stevie](/profile/stevie) | December 22, 2014 18:49
 
-December 22, 2014 18:49 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [neworleans](../tag/neworleans), [event:rsvp](../tag/event:rsvp), [rsvp:danbeavers](../tag/rsvp:danbeavers), [urbanwaters](../tag/urbanwaters), [date:01-07-2015](../tag/date:01-07-2015), [rsvp:micheal](../tag/rsvp:micheal)
+December 22, 2014 18:49 | Tags: [gulf-coast](/tag/gulf-coast), [event](/tag/event), [neworleans](/tag/neworleans), [event:rsvp](/tag/event:rsvp), [rsvp:danbeavers](/tag/rsvp:danbeavers), [urbanwaters](/tag/urbanwaters), [date:01-07-2015](/tag/date:01-07-2015), [rsvp:micheal](/tag/rsvp:micheal)
 
 ----
 

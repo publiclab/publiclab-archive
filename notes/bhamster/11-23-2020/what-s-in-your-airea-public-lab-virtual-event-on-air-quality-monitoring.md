@@ -6,18 +6,16 @@ author: bhamster
 path: /notes/bhamster/11-23-2020/what-s-in-your-airea-public-lab-virtual-event-on-air-quality-monitoring.md
 nid: 25083
 uid: 664477
-
 cids: 27710,27801,27805,28087,28088,28089,28090,28091,28092,28093,28094,28095,28096,28097,28098,28099,28100,28109,28124,28125,28126,28127,28129,28130,28131,28132,28192,28193,28194,28195,29258
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/784/original/Haze_Manhattan.jpeg)
 
 # What’s in your AIRea? Public Lab virtual event on air quality monitoring
 
-by [bhamster](../../../profile/bhamster) | November 23, 2020 16:16
+by [bhamster](/profile/bhamster) | November 23, 2020 16:16
 
-November 23, 2020 16:16 | Tags: [event](../tag/event), [research](../tag/research), [air-quality](../tag/air-quality), [event:rsvp](../tag/event:rsvp), [rsvp:liz](../tag/rsvp:liz), [air-sampling](../tag/air-sampling), [air-sensors](../tag/air-sensors), [research-area-review](../tag/research-area-review), [bucket-monitor](../tag/bucket-monitor), [rsvp:amocorro](../tag/rsvp:amocorro), [rsvp:ruthnwaiganjo](../tag/rsvp:ruthnwaiganjo)
+November 23, 2020 16:16 | Tags: [event](/tag/event), [research](/tag/research), [air-quality](/tag/air-quality), [event:rsvp](/tag/event:rsvp), [rsvp:liz](/tag/rsvp:liz), [air-sampling](/tag/air-sampling), [air-sensors](/tag/air-sensors), [research-area-review](/tag/research-area-review), [bucket-monitor](/tag/bucket-monitor), [rsvp:amocorro](/tag/rsvp:amocorro), [rsvp:ruthnwaiganjo](/tag/rsvp:ruthnwaiganjo)
 
 ----
 

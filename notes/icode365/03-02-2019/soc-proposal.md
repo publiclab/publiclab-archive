@@ -6,18 +6,16 @@ author: icode365
 path: /notes/icode365/03-02-2019/soc-proposal.md
 nid: 18450
 uid: 553778
-
 cids: 22021,22024,22178,22179,22198,22201,22202,22241,23327,23555,23561,23648,23726,23730,23738,23783
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/701/original/Screenshot_from_2019-03-02_17-56-47.png)
 
 # SoC proposal: Community Toolbox overhaul
 
-by [icode365](../../../profile/icode365) | March 02, 2019 12:22
+by [icode365](/profile/icode365) | March 02, 2019 12:22
 
-March 02, 2019 12:22 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [first-time-poster](../tag/first-time-poster), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [soc-2019-projects](../tag/soc-2019-projects)
+March 02, 2019 12:22 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [soc](/tag/soc), [response:13975](/tag/response:13975), [first-time-poster](/tag/first-time-poster), [rgsoc-2019](/tag/rgsoc-2019), [gsoc-2019](/tag/gsoc-2019), [soc-2019](/tag/soc-2019), [soc-2019-proposals](/tag/soc-2019-proposals), [soc-2019-projects](/tag/soc-2019-projects)
 
 ----
 

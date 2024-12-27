@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/08-30-2018/web-working-group-update-23-august-2018.md
 nid: 17028
 uid: 1
-
 cids: 20525,20551,20554,20555
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/395/original/Screen_Shot_2018-08-30_at_3.16.46_PM.png)
 
 # Web Working Group Update 23: August 2018
 
-by [warren](../../../profile/warren) | August 30, 2018 19:23
+by [warren](/profile/warren) | August 30, 2018 19:23
 
-August 30, 2018 19:23 | Tags: [website](../tag/website), [web-development](../tag/web-development), [software](../tag/software), [gsoc](../tag/gsoc), [developers](../tag/developers), [code](../tag/code), [wwg](../tag/wwg), [webwg](../tag/webwg), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [soc-2018](../tag/soc-2018), [wwg-report](../tag/wwg-report), [response:16455](../tag/response:16455)
+August 30, 2018 19:23 | Tags: [website](/tag/website), [web-development](/tag/web-development), [software](/tag/software), [gsoc](/tag/gsoc), [developers](/tag/developers), [code](/tag/code), [wwg](/tag/wwg), [webwg](/tag/webwg), [rgsoc](/tag/rgsoc), [soc](/tag/soc), [soc-2018](/tag/soc-2018), [wwg-report](/tag/wwg-report), [response:16455](/tag/response:16455)
 
 ----
 

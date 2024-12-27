@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/06-23-2015/public-laboratory-for-open-technology-and-science-sales-lead-and-online-store-manager.md
 nid: 11998
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/415/original/plots-logo-transparent.jpg)
 
 # Public Lab: Sales lead and online store manager
 
-by [Shannon](../../../profile/Shannon) | June 23, 2015 18:47
+by [Shannon](/profile/Shannon) | June 23, 2015 18:47
 
-June 23, 2015 18:47 | Tags: [nonprofit](../tag/nonprofit)
+June 23, 2015 18:47 | Tags: [nonprofit](/tag/nonprofit)
 
 ----
 

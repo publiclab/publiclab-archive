@@ -6,12 +6,12 @@ author: sara
 path: /wiki/diy-calibration.md
 nid: 1803
 uid: 8
-
+cids: 
 ---
 
 # DIY Calibration 
 
-by [sara](../profile/sara)
+by [sara](/profile/sara)
 
 April 26, 2012 17:34 | Tags: 
 

@@ -6,16 +6,16 @@ author: warren
 path: /wiki/economist.md
 nid: 15169
 uid: 1
-
+cids: 17772
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/500/original/foldable-2.png)
 
 # Make a Public Lab spectrometer
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-November 09, 2017 23:49 | Tags: [spectrometry](../tag/spectrometry), [water-quality](../tag/water-quality), [sidebar:featured](../tag/sidebar:featured), [parent:spectrometry](../tag/parent:spectrometry)
+November 09, 2017 23:49 | Tags: [spectrometry](/tag/spectrometry), [water-quality](/tag/water-quality), [sidebar:featured](/tag/sidebar:featured), [parent:spectrometry](/tag/parent:spectrometry)
 
 ----
 
@@ -89,13 +89,13 @@ To try out the new design and provide feedback, please leave a [comment on the a
 
 Before tackling a bigger project, here are some introductory activities geared at helping you build a spectrometer, troubleshoot it, and upload data for comparison:
 
-[foldable-spec](../../tag/activity:foldable-spec)
+[foldable-spec](/tag/activity:foldable-spec)
 
 ## Activities
 
 These are more advanced activities for after you've gotten up and running with the [starter activities above](#Getting+started). 
 
-[spectrometry](../../tag/activity:spectrometry)
+[spectrometry](/tag/activity:spectrometry)
 
 ****
   
@@ -103,7 +103,7 @@ These are more advanced activities for after you've gotten up and running with t
 
 The easiest way to get involved is to simply ask questions! 
 
-[spectrometry-turbidity](../../tag/question:spectrometry-turbidity) 
+[spectrometry-turbidity](/tag/question:spectrometry-turbidity) 
 
 ****
 
@@ -122,6 +122,6 @@ Browse related work on Public Lab to see where else you can get involved:
 
 Once you've gotten a solid footing with some of the above activities, try tackling one of these unsolved challenges to advance our collaborative work:
 
-[spectrometry-challenge](../../tag/question:spectrometry-challenge)
+[spectrometry-challenge](/tag/question:spectrometry-challenge)
 
 

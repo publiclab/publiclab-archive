@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/05-17-2017/are-there-any-methods-to-distinguish-where-particulate-matter-in-the-air-comes-from.md
 nid: 14204
 uid: 422561
-
 cids: 16783,22472,22473,22477
-
 ---
 
 # Are there any methods to distinguish where particulate matter in the air comes from?
 
-by [stevie](../../../profile/stevie) | May 17, 2017 16:08
+by [stevie](/profile/stevie) | May 17, 2017 16:08
 
-May 17, 2017 16:08 | Tags: [air](../tag/air), [dust](../tag/dust), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [answered](../tag/answered), [question:pm](../tag/question:pm), [question:general](../tag/question:general), [question:dust](../tag/question:dust), [question:dust-sampling](../tag/question:dust-sampling), [question:community-microscope-challenges](../tag/question:community-microscope-challenges)
+May 17, 2017 16:08 | Tags: [air](/tag/air), [dust](/tag/dust), [frac-sand](/tag/frac-sand), [pm](/tag/pm), [answered](/tag/answered), [question:pm](/tag/question:pm), [question:general](/tag/question:general), [question:dust](/tag/question:dust), [question:dust-sampling](/tag/question:dust-sampling), [question:community-microscope-challenges](/tag/question:community-microscope-challenges)
 
 ----
 

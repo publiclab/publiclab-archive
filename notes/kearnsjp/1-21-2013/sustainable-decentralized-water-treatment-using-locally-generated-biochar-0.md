@@ -6,18 +6,16 @@ author: kearnsjp
 path: /notes/kearnsjp/1-21-2013/sustainable-decentralized-water-treatment-using-locally-generated-biochar-0.md
 nid: 5669
 uid: 48560
-
 cids: 3168,3174,14535
-
 ---
 
 ![](https://publiclab.org/sites/default/files/portable WTP diagram_0.jpg)
 
 # Sustainable decentralized water treatment using locally generated biochar adsorbents
 
-by [kearnsjp](../../../profile/kearnsjp) | January 22, 2013 02:27
+by [kearnsjp](/profile/kearnsjp) | January 22, 2013 02:27
 
-January 22, 2013 02:27 | Tags: [water-treatment](../tag/water-treatment), [pesticides](../tag/pesticides), [biochar](../tag/biochar), [water](../tag/water)
+January 22, 2013 02:27 | Tags: [water-treatment](/tag/water-treatment), [pesticides](/tag/pesticides), [biochar](/tag/biochar), [water](/tag/water)
 
 ----
 

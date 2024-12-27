@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/9-23-2012/leaffest-brainstorm-raspberry-pi-based-dual-webcam-kit.md
 nid: 3952
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20120923_120619.jpg)
 
 # LEAFFEST Brainstorm: raspberry pi based dual webcam kit
 
-by [warren](../../../profile/warren) | September 23, 2012 16:43
+by [warren](/profile/warren) | September 23, 2012 16:43
 
-September 23, 2012 16:43 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [multispectral](../tag/multispectral), [infrared](../tag/infrared), [leaffest](../tag/leaffest), [leaffest2012](../tag/leaffest2012), [ircam](../tag/ircam), [infragram](../tag/infragram)
+September 23, 2012 16:43 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [multispectral](/tag/multispectral), [infrared](/tag/infrared), [leaffest](/tag/leaffest), [leaffest2012](/tag/leaffest2012), [ircam](/tag/ircam), [infragram](/tag/infragram)
 
 ----
 

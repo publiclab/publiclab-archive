@@ -6,14 +6,14 @@ author: liz
 path: /wiki/oil-testing-workshop-analyzing-and-sharing.md
 nid: 12672
 uid: 7
-
+cids: 
 ---
 
 # oil-testing-workshop-analyzing-and-sharing
 
-by [warren](../profile/warren), [liz](../profile/liz)
+by [warren](/profile/warren), [liz](/profile/liz)
 
-February 08, 2016 20:43 | Tags: [spectrometer](../tag/spectrometer), [workshop](../tag/workshop), [oil-testing-kit](../tag/oil-testing-kit), [parent:oil-testing-workshops](../tag/parent:oil-testing-workshops)
+February 08, 2016 20:43 | Tags: [spectrometer](/tag/spectrometer), [workshop](/tag/workshop), [oil-testing-kit](/tag/oil-testing-kit), [parent:oil-testing-workshops](/tag/parent:oil-testing-workshops)
 
 ----
 

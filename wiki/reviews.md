@@ -6,16 +6,16 @@ author: warren
 path: /wiki/reviews.md
 nid: 20816
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/369/original/Browse.png)
 
 # Reviews
 
-by [bhamster](../profile/bhamster), [liz](../profile/liz), [warren](../profile/warren)
+by [bhamster](/profile/bhamster), [liz](/profile/liz), [warren](/profile/warren)
 
-September 10, 2019 19:45 | Tags: [reviews](../tag/reviews), [research-area-review](../tag/research-area-review)
+September 10, 2019 19:45 | Tags: [reviews](/tag/reviews), [research-area-review](/tag/research-area-review)
 
 ----
 

@@ -6,16 +6,14 @@ author: read_holman
 path: /notes/read_holman/01-14-2019/seeking-gis-data-folks-help-us-create-a-nation-lead-exposure-risk-map.md
 nid: 18118
 uid: 540243
-
 cids: 21727,21734,21750,21751,21786,21881,21899,21900,23967
-
 ---
 
 # Seeking GIS / Data folks: Help us create a nation Lead Exposure Risk map.
 
-by [read_holman](../../../profile/read_holman) | January 14, 2019 22:51
+by [read_holman](/profile/read_holman) | January 14, 2019 22:51
 
-January 14, 2019 22:51 | Tags: [mapping](../tag/mapping), [blog](../tag/blog), [request](../tag/request), [lead](../tag/lead), [risk](../tag/risk), [risk-assessment](../tag/risk-assessment), [data-science](../tag/data-science)
+January 14, 2019 22:51 | Tags: [mapping](/tag/mapping), [blog](/tag/blog), [request](/tag/request), [lead](/tag/lead), [risk](/tag/risk), [risk-assessment](/tag/risk-assessment), [data-science](/tag/data-science)
 
 ----
 

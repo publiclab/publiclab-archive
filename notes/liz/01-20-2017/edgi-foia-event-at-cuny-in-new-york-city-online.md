@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/01-20-2017/edgi-foia-event-at-cuny-in-new-york-city-online.md
 nid: 13868
 uid: 7
-
 cids: 16088,16093,16095
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/378/original/CUNYFOIA.png)
 
 # EDGI FOIA event at CUNY in New York City & online
 
-by [liz](../../../profile/liz) | January 20, 2017 22:30
+by [liz](/profile/liz) | January 20, 2017 22:30
 
-January 20, 2017 22:30 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event), [live-call](../tag/live-call), [cuny](../tag/cuny), [edgi](../tag/edgi)
+January 20, 2017 22:30 | Tags: [new-york-city](/tag/new-york-city), [event](/tag/event), [live-call](/tag/live-call), [cuny](/tag/cuny), [edgi](/tag/edgi)
 
 ----
 

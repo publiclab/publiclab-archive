@@ -6,18 +6,16 @@ author: mlamadrid
 path: /notes/mlamadrid/03-17-2016/diy-oil-testing-narratives.md
 nid: 12850
 uid: 45586
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/138/original/IMG_20160123_125902_500_%281%29.jpg)
 
 # DIY Oil Testing Narratives
 
-by [mlamadrid](../../../profile/mlamadrid) | March 17, 2016 03:49
+by [mlamadrid](/profile/mlamadrid) | March 17, 2016 03:49
 
-March 17, 2016 03:49 | Tags: [louisiana](../tag/louisiana), [blog](../tag/blog), [oil-testing](../tag/oil-testing), [oil-testing-kit](../tag/oil-testing-kit), [fellowship](../tag/fellowship), [with:ann](../tag/with:ann)
+March 17, 2016 03:49 | Tags: [louisiana](/tag/louisiana), [blog](/tag/blog), [oil-testing](/tag/oil-testing), [oil-testing-kit](/tag/oil-testing-kit), [fellowship](/tag/fellowship), [with:ann](/tag/with:ann)
 
 ----
 

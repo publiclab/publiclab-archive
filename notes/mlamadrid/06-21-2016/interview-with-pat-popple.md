@@ -6,18 +6,16 @@ author: mlamadrid
 path: /notes/mlamadrid/06-21-2016/interview-with-pat-popple.md
 nid: 13219
 uid: 45586
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/698/original/Wisconsin_watch_10_26_15_PG1_9_20x_copy.jpg)
 
 # Interview with Pat Popple
 
-by [mlamadrid](../../../profile/mlamadrid) | June 21, 2016 20:39
+by [mlamadrid](/profile/mlamadrid) | June 21, 2016 20:39
 
-June 21, 2016 20:39 | Tags: [wisconsin](../tag/wisconsin), [blog](../tag/blog), [frac-sand](../tag/frac-sand), [with:stevie](../tag/with:stevie), [parent:frac-sand](../tag/parent:frac-sand), [communityscienceforum](../tag/communityscienceforum), [with:pat](../tag/with:pat)
+June 21, 2016 20:39 | Tags: [wisconsin](/tag/wisconsin), [blog](/tag/blog), [frac-sand](/tag/frac-sand), [with:stevie](/tag/with:stevie), [parent:frac-sand](/tag/parent:frac-sand), [communityscienceforum](/tag/communityscienceforum), [with:pat](/tag/with:pat)
 
 ----
 

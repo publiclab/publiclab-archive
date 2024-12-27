@@ -6,18 +6,16 @@ author: rmeister
 path: /notes/rmeister/07-18-2016/webjack-testers-needed.md
 nid: 13295
 uid: 468994
-
 cids: 14961,14968,14969,14972,14975,14977,14979,14982,14984,14985,14986,14987,14988,14989,14990,14991,14993,15001,15003,15006,15007,15008,15009,15010,15011,15012,15013,15021,15022,15023,15124,15376,15382,15384,15385,15386,15387,16062,16066,16067,16471,16516,16525,16526,17811
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/111/original/IMG_0138_web_thumb.JPG)
 
 # WebJack: Testers needed!
 
-by [rmeister](../../../profile/rmeister) | July 18, 2016 11:52
+by [rmeister](/profile/rmeister) | July 18, 2016 11:52
 
-July 18, 2016 11:52 | Tags: [arduino](../tag/arduino), [alphatest](../tag/alphatest), [sensors](../tag/sensors), [gsoc](../tag/gsoc), [barnstar:basic](../tag/barnstar:basic), [webjack](../tag/webjack), [headphone-jack](../tag/headphone-jack), [category:build](../tag/category:build), [include](../tag/include), [activity:webjack](../tag/activity:webjack)
+July 18, 2016 11:52 | Tags: [arduino](/tag/arduino), [alphatest](/tag/alphatest), [sensors](/tag/sensors), [gsoc](/tag/gsoc), [barnstar:basic](/tag/barnstar:basic), [webjack](/tag/webjack), [headphone-jack](/tag/headphone-jack), [category:build](/tag/category:build), [include](/tag/include), [activity:webjack](/tag/activity:webjack)
 
 ----
 

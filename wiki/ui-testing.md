@@ -6,14 +6,14 @@ author: warren
 path: /wiki/ui-testing.md
 nid: 18444
 uid: 1
-
+cids: 
 ---
 
 # UI Testing
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-March 01, 2019 15:07 | Tags: [style:minimal](../tag/style:minimal), [ui](../tag/ui), [sidebar:none](../tag/sidebar:none), [ui-testing](../tag/ui-testing), [lookback](../tag/lookback)
+March 01, 2019 15:07 | Tags: [style:minimal](/tag/style:minimal), [ui](/tag/ui), [sidebar:none](/tag/sidebar:none), [ui-testing](/tag/ui-testing), [lookback](/tag/lookback)
 
 ----
 

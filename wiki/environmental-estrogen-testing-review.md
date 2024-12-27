@@ -6,12 +6,12 @@ author: gonzoearth
 path: /wiki/environmental-estrogen-testing-review.md
 nid: 702
 uid: 12
-
+cids: 
 ---
 
 # environmental estrogen testing review
 
-by [gonzoearth](../profile/gonzoearth)
+by [gonzoearth](/profile/gonzoearth)
 
 January 19, 2012 00:43 | Tags: 
 

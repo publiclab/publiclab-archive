@@ -6,16 +6,14 @@ author: mlamadrid
 path: /notes/mlamadrid/03-17-2016/oil-sheen-testing.md
 nid: 12851
 uid: 45586
-
 cids: 13977
-
 ---
 
 # Oil Sheen Testing
 
-by [mlamadrid](../../../profile/mlamadrid) | March 17, 2016 03:56
+by [mlamadrid](/profile/mlamadrid) | March 17, 2016 03:56
 
-March 17, 2016 03:56 | Tags: [spectrometer](../tag/spectrometer), [oil-testing](../tag/oil-testing), [pig-oil](../tag/pig-oil), [with:matej](../tag/with:matej)
+March 17, 2016 03:56 | Tags: [spectrometer](/tag/spectrometer), [oil-testing](/tag/oil-testing), [pig-oil](/tag/pig-oil), [with:matej](/tag/with:matej)
 
 ----
 

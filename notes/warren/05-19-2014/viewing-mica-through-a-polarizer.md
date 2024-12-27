@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/05-19-2014/viewing-mica-through-a-polarizer.md
 nid: 10482
 uid: 1
-
 cids: 9040,19966
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/294/original/Screen_Shot_2014-05-19_at_2.12.05_PM.png)
 
 # Viewing mica through a polarizer
 
-by [warren](../../../profile/warren) | May 19, 2014 18:16
+by [warren](/profile/warren) | May 19, 2014 18:16
 
-May 19, 2014 18:16 | Tags: [dust](../tag/dust), [smartphone](../tag/smartphone), [silica](../tag/silica), [particulate](../tag/particulate), [polarizer](../tag/polarizer), [mica](../tag/mica), [polarized-light](../tag/polarized-light), [polarized-light-microscopy](../tag/polarized-light-microscopy), [polarizing-filter](../tag/polarizing-filter)
+May 19, 2014 18:16 | Tags: [dust](/tag/dust), [smartphone](/tag/smartphone), [silica](/tag/silica), [particulate](/tag/particulate), [polarizer](/tag/polarizer), [mica](/tag/mica), [polarized-light](/tag/polarized-light), [polarized-light-microscopy](/tag/polarized-light-microscopy), [polarizing-filter](/tag/polarizing-filter)
 
 ----
 

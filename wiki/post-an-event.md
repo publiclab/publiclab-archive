@@ -6,16 +6,16 @@ author: warren
 path: /wiki/post-an-event.md
 nid: 9772
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/257/original/IMG_20160123_125902_500_%281%29.jpg)
 
 # Post an event
 
-by [cfastie](../profile/cfastie), [stevie](../profile/stevie), [markmcloy](../profile/markmcloy), [patelpriyaa0](../profile/patelpriyaa0), [patelisha122](../profile/patelisha122), [florencewillburn](../profile/florencewillburn), [academicfora](../profile/academicfora), [pr226146](../profile/pr226146), [warren](../profile/warren), [erinajopel](../profile/erinajopel), [sheldonwisely](../profile/sheldonwisely), [RonaldoRoss](../profile/RonaldoRoss), [Lenoxvan](../profile/Lenoxvan), [liz](../profile/liz), [Shannon](../profile/Shannon)
+by [cfastie](/profile/cfastie), [stevie](/profile/stevie), [markmcloy](/profile/markmcloy), [patelpriyaa0](/profile/patelpriyaa0), [patelisha122](/profile/patelisha122), [florencewillburn](/profile/florencewillburn), [academicfora](/profile/academicfora), [pr226146](/profile/pr226146), [warren](/profile/warren), [erinajopel](/profile/erinajopel), [sheldonwisely](/profile/sheldonwisely), [RonaldoRoss](/profile/RonaldoRoss), [Lenoxvan](/profile/Lenoxvan), [liz](/profile/liz), [Shannon](/profile/Shannon)
 
-November 13, 2013 20:06 | Tags: [community](../tag/community), [events](../tag/events), [parent:events](../tag/parent:events)
+November 13, 2013 20:06 | Tags: [community](/tag/community), [events](/tag/events), [parent:events](/tag/parent:events)
 
 ----
 

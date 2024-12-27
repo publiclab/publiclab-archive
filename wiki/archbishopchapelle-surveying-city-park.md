@@ -6,16 +6,16 @@ author: jmerrill
 path: /wiki/archbishopchapelle-surveying-city-park.md
 nid: 26584
 uid: 742582
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/795/original/IMG-8474.jpg)
 
 # archbishopchapelle surveying city park
 
-by [jmerrill](../profile/jmerrill)
+by [jmerrill](/profile/jmerrill)
 
-May 14, 2021 02:38 | Tags: [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lat:30](../tag/lat:30), [lon:-90](../tag/lon:-90), [zoom:6](../tag/zoom:6)
+May 14, 2021 02:38 | Tags: [location:blurred](/tag/location:blurred), [place:united-states](/tag/place:united-states), [lat:30](/tag/lat:30), [lon:-90](/tag/lon:-90), [zoom:6](/tag/zoom:6)
 
 ----
 

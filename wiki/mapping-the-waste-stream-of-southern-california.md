@@ -6,16 +6,16 @@ author: sarasage
 path: /wiki/mapping-the-waste-stream-of-southern-california.md
 nid: 13570
 uid: 451398
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/297/original/2009-2015ChiquitaOriginofWasteSoCal.JPG)
 
 # Mapping the Waste Stream of Southern California
 
-by [stevie](../profile/stevie), [sarasage](../profile/sarasage), [warren](../profile/warren)
+by [stevie](/profile/stevie), [sarasage](/profile/sarasage), [warren](/profile/warren)
 
-October 17, 2016 18:42 | Tags: [landfill](../tag/landfill), [california](../tag/california), [mapping](../tag/mapping), [waste-management](../tag/waste-management), [waste](../tag/waste), [cartography-collective](../tag/cartography-collective), [los-angeles](../tag/los-angeles), [landfills](../tag/landfills), [socalwastestream](../tag/socalwastestream), [sandiego](../tag/sandiego), [santabarbara](../tag/santabarbara), [longbeach](../tag/longbeach), [greenhousegas](../tag/greenhousegas), [greenhousegases](../tag/greenhousegases), [carto](../tag/carto), [southerncalifornia](../tag/southerncalifornia), [prompt:socalwastestream](../tag/prompt:socalwastestream), [project](../tag/project), [project:advocacy-with-maps](../tag/project:advocacy-with-maps)
+October 17, 2016 18:42 | Tags: [landfill](/tag/landfill), [california](/tag/california), [mapping](/tag/mapping), [waste-management](/tag/waste-management), [waste](/tag/waste), [cartography-collective](/tag/cartography-collective), [los-angeles](/tag/los-angeles), [landfills](/tag/landfills), [socalwastestream](/tag/socalwastestream), [sandiego](/tag/sandiego), [santabarbara](/tag/santabarbara), [longbeach](/tag/longbeach), [greenhousegas](/tag/greenhousegas), [greenhousegases](/tag/greenhousegases), [carto](/tag/carto), [southerncalifornia](/tag/southerncalifornia), [prompt:socalwastestream](/tag/prompt:socalwastestream), [project](/tag/project), [project:advocacy-with-maps](/tag/project:advocacy-with-maps)
 
 ----
 
@@ -63,11 +63,11 @@ We're interested in learning more about the questions below:
 
 <a class="btn btn-large btn-primary" href="https://publiclab.org/subscribe/tag/socalwastestreamt">Subscribe to updates on this project </a>
 
-[socalwastestream](../../tag/socalwastestream) 
+[socalwastestream](/tag/socalwastestream) 
 
 ### Activities we’ve done in our project
 
-[socalwastestream](../../tag/activity:socalwastestream)
+[socalwastestream](/tag/activity:socalwastestream)
 
 ### Data
 
@@ -75,7 +75,7 @@ We're interested in learning more about the questions below:
 
 ### Questions
 
-[socalwastestream](../../tag/question:socalwastestream)
+[socalwastestream](/tag/question:socalwastestream)
 
 ### Resources
 

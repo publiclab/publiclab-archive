@@ -6,12 +6,12 @@ author: warren
 path: /wiki/open-sourcing-mapknitter-data.md
 nid: 777
 uid: 1
-
+cids: 
 ---
 
 # Open sourcing MapKnitter data
 
-by [warren](../profile/warren), [gonzoearth](../profile/gonzoearth)
+by [warren](/profile/warren), [gonzoearth](/profile/gonzoearth)
 
 February 10, 2012 21:29 | Tags: 
 

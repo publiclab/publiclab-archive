@@ -6,18 +6,16 @@ author: TheChessGym
 path: /notes/TheChessGym/04-11-2022/worldometer-the-alarming-rise-of-the-world-s-population-amid-depleting-water-resources.md
 nid: 30347
 uid: 788868
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/677/original/Poblacion_Mundial_746x419.jpeg)
 
 # "Worldometer" The Alarming Rise Of The World's Population Amid Depleting Water Resources 
 
-by [TheChessGym](../../../profile/TheChessGym) | April 11, 2022 15:16
+by [TheChessGym](/profile/TheChessGym) | April 11, 2022 15:16
 
-April 11, 2022 15:16 | Tags: [microplastics](../tag/microplastics), [zoom:5](../tag/zoom:5), [lat:22.004174](../tag/lat:22.004174), [lon:76.003417](../tag/lon:76.003417)
+April 11, 2022 15:16 | Tags: [microplastics](/tag/microplastics), [zoom:5](/tag/zoom:5), [lat:22.004174](/tag/lat:22.004174), [lon:76.003417](/tag/lon:76.003417)
 
 ----
 

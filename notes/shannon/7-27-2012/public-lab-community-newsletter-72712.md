@@ -6,16 +6,14 @@ author: Shannon
 path: /notes/shannon/7-27-2012/public-lab-community-newsletter-72712.md
 nid: 3005
 uid: 9
-
 cids: 
-
 ---
 
 # Public Lab community newsletter 7.27.12
 
-by [Shannon](../../../profile/Shannon) | July 28, 2012 03:16
+by [Shannon](/profile/Shannon) | July 28, 2012 03:16
 
-July 28, 2012 03:16 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+July 28, 2012 03:16 | Tags: [newsletter](/tag/newsletter), [newsletter-archive](/tag/newsletter-archive)
 
 ----
 

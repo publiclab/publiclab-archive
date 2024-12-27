@@ -6,12 +6,12 @@ author: liz
 path: /wiki/bayou-st-john-at-lake-ponchartrain.md
 nid: 12100
 uid: 7
-
+cids: 
 ---
 
 # Bayou St. John at Lake Ponchartrain
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
 July 24, 2015 20:01 | Tags: 
 

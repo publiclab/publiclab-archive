@@ -6,12 +6,12 @@ author: liz
 path: /wiki/air-quality-class-3.md
 nid: 6001
 uid: 7
-
+cids: 
 ---
 
 # Air Quality Class 3
 
-by [liz](../profile/liz), [georgiabullen](../profile/georgiabullen)
+by [liz](/profile/liz), [georgiabullen](/profile/georgiabullen)
 
 February 15, 2013 17:25 | Tags: 
 

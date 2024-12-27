@@ -6,16 +6,14 @@ author: fez
 path: /notes/fez/02-01-2017/diy-methods-for-nitrate-detection-in-food.md
 nid: 13893
 uid: 502511
-
 cids: 18345,22790
-
 ---
 
 # DIY methods for nitrate detection in food?
 
-by [fez](../../../profile/fez) | February 01, 2017 09:54
+by [fez](/profile/fez) | February 01, 2017 09:54
 
-February 01, 2017 09:54 | Tags: [question](../tag/question), [diy](../tag/diy), [food](../tag/food), [nitrate](../tag/nitrate), [contaminants](../tag/contaminants), [question:nitrates](../tag/question:nitrates), [question:nitrate](../tag/question:nitrate), [question:sensors](../tag/question:sensors), [question:food](../tag/question:food), [question:nitrogen](../tag/question:nitrogen)
+February 01, 2017 09:54 | Tags: [question](/tag/question), [diy](/tag/diy), [food](/tag/food), [nitrate](/tag/nitrate), [contaminants](/tag/contaminants), [question:nitrates](/tag/question:nitrates), [question:nitrate](/tag/question:nitrate), [question:sensors](/tag/question:sensors), [question:food](/tag/question:food), [question:nitrogen](/tag/question:nitrogen)
 
 ----
 

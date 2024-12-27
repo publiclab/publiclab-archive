@@ -6,16 +6,14 @@ author: sara
 path: /notes/sara/9-11-2011/hydrogen-sulfide-monitoring-gas-patch-background.md
 nid: 458
 uid: 8
-
 cids: 
-
 ---
 
 # Hydrogen Sulfide Monitoring In Gas Patch Background 
 
-by [sara](../../../profile/sara) | September 11, 2011 17:37
+by [sara](/profile/sara) | September 11, 2011 17:37
 
-September 11, 2011 17:37 | Tags: [colorado](../tag/colorado), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [natural-gas](../tag/natural-gas), [h2s-sites](../tag/h2s-sites), [mountain-west](../tag/mountain-west)
+September 11, 2011 17:37 | Tags: [colorado](/tag/colorado), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [natural-gas](/tag/natural-gas), [h2s-sites](/tag/h2s-sites), [mountain-west](/tag/mountain-west)
 
 ----
 

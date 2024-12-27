@@ -6,18 +6,16 @@ author: willie
 path: /notes/Willie/09-02-2014/testing-the-mobile-dustduino.md
 nid: 11097
 uid: 235174
-
 cids: 10174,10175,10178,10180,10183,10189,10193,10199,10202,10313
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/547/original/Clara's_car_sensor.jpg)
 
 # Testing the Mobile DustDuino
 
-by [willie](../../../profile/willie) | September 02, 2014 19:21
+by [willie](/profile/willie) | September 02, 2014 19:21
 
-September 02, 2014 19:21 | Tags: [particulate-sensing](../tag/particulate-sensing), [air-quality](../tag/air-quality), [transportation](../tag/transportation), [dustduino](../tag/dustduino), [dust](../tag/dust), [particulates](../tag/particulates), [asia](../tag/asia), [indonesia](../tag/indonesia), [particulate](../tag/particulate), [pm](../tag/pm), [response:10620](../tag/response:10620), [traffic](../tag/traffic), [jakarta](../tag/jakarta), [dust-sensing](../tag/dust-sensing), [activity:dustduino](../tag/activity:dustduino)
+September 02, 2014 19:21 | Tags: [particulate-sensing](/tag/particulate-sensing), [air-quality](/tag/air-quality), [transportation](/tag/transportation), [dustduino](/tag/dustduino), [dust](/tag/dust), [particulates](/tag/particulates), [asia](/tag/asia), [indonesia](/tag/indonesia), [particulate](/tag/particulate), [pm](/tag/pm), [response:10620](/tag/response:10620), [traffic](/tag/traffic), [jakarta](/tag/jakarta), [dust-sensing](/tag/dust-sensing), [activity:dustduino](/tag/activity:dustduino)
 
 ----
 

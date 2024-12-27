@@ -6,14 +6,14 @@ author: warren
 path: /wiki/spectral-workbench-tools.md
 nid: 12286
 uid: 1
-
+cids: 
 ---
 
 # Spectral Workbench Tools
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-October 09, 2015 20:22 | Tags: [fluorescence](../tag/fluorescence), [spectral-workbench](../tag/spectral-workbench), [transmittance](../tag/transmittance), [parent:spectral-workbench](../tag/parent:spectral-workbench), [wishlist](../tag/wishlist)
+October 09, 2015 20:22 | Tags: [fluorescence](/tag/fluorescence), [spectral-workbench](/tag/spectral-workbench), [transmittance](/tag/transmittance), [parent:spectral-workbench](/tag/parent:spectral-workbench), [wishlist](/tag/wishlist)
 
 ----
 

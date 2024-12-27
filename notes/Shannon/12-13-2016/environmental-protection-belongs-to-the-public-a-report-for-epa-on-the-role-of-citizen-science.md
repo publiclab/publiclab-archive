@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/12-13-2016/environmental-protection-belongs-to-the-public-a-report-for-epa-on-the-role-of-citizen-science.md
 nid: 13780
 uid: 9
-
 cids: 15971,15976,15977
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/036/original/Screen_Shot_2016-12-13_at_3.09.41_PM.png)
 
 # Environmental Protection Belongs to the Public: A report for EPA on the role of citizen science
 
-by [Shannon](../../../profile/Shannon) | December 13, 2016 21:12
+by [Shannon](/profile/Shannon) | December 13, 2016 21:12
 
-December 13, 2016 21:12 | Tags: [blog](../tag/blog), [report](../tag/report)
+December 13, 2016 21:12 | Tags: [blog](/tag/blog), [report](/tag/report)
 
 ----
 

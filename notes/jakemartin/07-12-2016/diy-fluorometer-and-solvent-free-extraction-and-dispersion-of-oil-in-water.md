@@ -6,18 +6,16 @@ author: jakemartin
 path: /notes/jakemartin/07-12-2016/diy-fluorometer-and-solvent-free-extraction-and-dispersion-of-oil-in-water.md
 nid: 13285
 uid: 422965
-
 cids: 14924,14926,17826,17827
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/019/original/photo_4_%2811%29.JPG)
 
 # DIY fluorometer and solvent free extraction and dispersion of oil in water
 
-by [jakemartin](../../../profile/jakemartin) | July 12, 2016 22:15
+by [jakemartin](/profile/jakemartin) | July 12, 2016 22:15
 
-July 12, 2016 22:15 | Tags: [oil](../tag/oil), [spectrometry](../tag/spectrometry), [fluorescence](../tag/fluorescence), [sampling](../tag/sampling), [extraction](../tag/extraction), [oil-testing](../tag/oil-testing), [fluorometer](../tag/fluorometer), [diy-fluorometer](../tag/diy-fluorometer), [activity:sampling](../tag/activity:sampling), [activity:oil-testing](../tag/activity:oil-testing), [activity:fluorescecne](../tag/activity:fluorescecne), [activity:fluorescence](../tag/activity:fluorescence)
+July 12, 2016 22:15 | Tags: [oil](/tag/oil), [spectrometry](/tag/spectrometry), [fluorescence](/tag/fluorescence), [sampling](/tag/sampling), [extraction](/tag/extraction), [oil-testing](/tag/oil-testing), [fluorometer](/tag/fluorometer), [diy-fluorometer](/tag/diy-fluorometer), [activity:sampling](/tag/activity:sampling), [activity:oil-testing](/tag/activity:oil-testing), [activity:fluorescecne](/tag/activity:fluorescecne), [activity:fluorescence](/tag/activity:fluorescence)
 
 ----
 

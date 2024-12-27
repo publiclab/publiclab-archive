@@ -6,18 +6,16 @@ author: tbhargav
 path: /notes/tbhargav/03-17-2014/gsoc-2014-proposal-re-designing-ui-improving-web-integration-for-sky-cam-android-app.md
 nid: 10192
 uid: 421490
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/292/original/skycamguimockupdraft.png)
 
 # [GSoC 2014 Proposal] Re-designing UI, Improving Web integration for Sky Cam Android app
 
-by [tbhargav](../../../profile/tbhargav) | March 17, 2014 03:32
+by [tbhargav](/profile/tbhargav) | March 17, 2014 03:32
 
-March 17, 2014 03:32 | Tags: [gsoc](../tag/gsoc)
+March 17, 2014 03:32 | Tags: [gsoc](/tag/gsoc)
 
 ----
 

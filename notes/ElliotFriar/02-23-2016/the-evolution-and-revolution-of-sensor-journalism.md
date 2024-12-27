@@ -6,16 +6,14 @@ author: ElliotFriar
 path: /notes/ElliotFriar/02-23-2016/the-evolution-and-revolution-of-sensor-journalism.md
 nid: 12723
 uid: 461498
-
 cids: 13710
-
 ---
 
 # The Evolution and Revolution of Sensor Journalism
 
-by [ElliotFriar](../../../profile/ElliotFriar) | February 23, 2016 19:24
+by [ElliotFriar](/profile/ElliotFriar) | February 23, 2016 19:24
 
-February 23, 2016 19:24 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
+February 23, 2016 19:24 | Tags: [sensor-journalism](/tag/sensor-journalism), [response:12748](/tag/response:12748), [hidden:response](/tag/hidden:response)
 
 ----
 

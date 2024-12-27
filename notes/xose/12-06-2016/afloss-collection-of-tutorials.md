@@ -6,18 +6,16 @@ author: xose
 path: /notes/xose/12-06-2016/afloss-collection-of-tutorials.md
 nid: 13749
 uid: 497123
-
 cids: 15930,15933,16010
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/982/original/floss_1_800.png)
 
 # AFLOSS collection of tutorials
 
-by [xose](../../../profile/xose) | December 06, 2016 11:52
+by [xose](/profile/xose) | December 06, 2016 11:52
 
-December 06, 2016 11:52 | Tags: [software](../tag/software), [tools](../tag/tools), [afloss](../tag/afloss), [bookmarks](../tag/bookmarks)
+December 06, 2016 11:52 | Tags: [software](/tag/software), [tools](/tag/tools), [afloss](/tag/afloss), [bookmarks](/tag/bookmarks)
 
 ----
 

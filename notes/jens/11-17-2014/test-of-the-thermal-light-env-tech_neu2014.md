@@ -6,18 +6,16 @@ author: jens
 path: /notes/jens/11-17-2014/test-of-the-thermal-light-env-tech_neu2014.md
 nid: 11354
 uid: 431604
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/944/original/Ardruinolightsymposium.jpg)
 
 # Test of the Thermal Light: Env+Tech_NEU2014
 
-by [jens](../../../profile/jens) | November 17, 2014 16:05
+by [jens](/profile/jens) | November 17, 2014 16:05
 
-November 17, 2014 16:05 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-imaging](../tag/thermal-imaging), [northeastern](../tag/northeastern), [thermal](../tag/thermal), [insulation](../tag/insulation), [heat](../tag/heat), [replication:625](../tag/replication:625)
+November 17, 2014 16:05 | Tags: [thermal-photography](/tag/thermal-photography), [thermal-flashlight](/tag/thermal-flashlight), [thermal-imaging](/tag/thermal-imaging), [northeastern](/tag/northeastern), [thermal](/tag/thermal), [insulation](/tag/insulation), [heat](/tag/heat), [replication:625](/tag/replication:625)
 
 ----
 

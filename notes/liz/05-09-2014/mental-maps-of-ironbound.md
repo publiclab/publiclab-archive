@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/05-09-2014/mental-maps-of-ironbound.md
 nid: 10456
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/201/original/IMG_2031.JPG)
 
 # mental maps of Ironbound
 
-by [liz](../../../profile/liz) | May 09, 2014 20:11
+by [liz](/profile/liz) | May 09, 2014 20:11
 
-May 09, 2014 20:11 | Tags: [newark](../tag/newark), [new-jersey](../tag/new-jersey), [garden](../tag/garden), [ironbound](../tag/ironbound), [elp](../tag/elp), [replication:14089](../tag/replication:14089)
+May 09, 2014 20:11 | Tags: [newark](/tag/newark), [new-jersey](/tag/new-jersey), [garden](/tag/garden), [ironbound](/tag/ironbound), [elp](/tag/elp), [replication:14089](/tag/replication:14089)
 
 ----
 

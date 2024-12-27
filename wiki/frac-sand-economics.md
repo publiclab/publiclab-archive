@@ -6,14 +6,14 @@ author: gretchengehrke
 path: /wiki/frac-sand-economics.md
 nid: 14648
 uid: 430549
-
+cids: 
 ---
 
 # Building a Frac Sand Economic Assessment 
 
-by [gretchengehrke](../profile/gretchengehrke)
+by [gretchengehrke](/profile/gretchengehrke)
 
-July 13, 2017 19:49 | Tags: [wisconsin](../tag/wisconsin), [frac-sand](../tag/frac-sand), [parent:frac-sand](../tag/parent:frac-sand), [parent:frac-sand-advocacy-leverage-points](../tag/parent:frac-sand-advocacy-leverage-points), [reclamation](../tag/reclamation)
+July 13, 2017 19:49 | Tags: [wisconsin](/tag/wisconsin), [frac-sand](/tag/frac-sand), [parent:frac-sand](/tag/parent:frac-sand), [parent:frac-sand-advocacy-leverage-points](/tag/parent:frac-sand-advocacy-leverage-points), [reclamation](/tag/reclamation)
 
 ----
 

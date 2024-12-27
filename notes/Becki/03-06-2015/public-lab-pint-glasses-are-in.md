@@ -6,18 +6,16 @@ author: Becki
 path: /notes/Becki/03-06-2015/public-lab-pint-glasses-are-in.md
 nid: 11660
 uid: 46673
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/195/original/Pint_Glass.jpg)
 
 # Public Lab pint glasses are in!
 
-by [Becki](../../../profile/Becki) | March 06, 2015 20:36
+by [Becki](/profile/Becki) | March 06, 2015 20:36
 
-March 06, 2015 20:36 | Tags: [sustaining-members](../tag/sustaining-members)
+March 06, 2015 20:36 | Tags: [sustaining-members](/tag/sustaining-members)
 
 ----
 

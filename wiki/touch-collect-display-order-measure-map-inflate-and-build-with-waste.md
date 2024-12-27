@@ -6,16 +6,16 @@ author: mollydanielsson
 path: /wiki/touch-collect-display-order-measure-map-inflate-and-build-with-waste.md
 nid: 11705
 uid: 1259
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/367/original/SE_REGALA_PLAZA_01.JPG)
 
 # Touch, Collect, Display, Order, Measure, Map, Inflate and Build with Waste! 
 
-by [pablo](../profile/pablo), [mollydanielsson](../profile/mollydanielsson)
+by [pablo](/profile/pablo), [mollydanielsson](/profile/mollydanielsson)
 
-March 21, 2015 00:00 | Tags: [grassrootsmappingforum](../tag/grassrootsmappingforum), [waste](../tag/waste), [trash](../tag/trash), [basurama](../tag/basurama), [gmf-6](../tag/gmf-6), [style:fancy](../tag/style:fancy), [with:basurama](../tag/with:basurama), [germany](../tag/germany), [detritivore](../tag/detritivore)
+March 21, 2015 00:00 | Tags: [grassrootsmappingforum](/tag/grassrootsmappingforum), [waste](/tag/waste), [trash](/tag/trash), [basurama](/tag/basurama), [gmf-6](/tag/gmf-6), [style:fancy](/tag/style:fancy), [with:basurama](/tag/with:basurama), [germany](/tag/germany), [detritivore](/tag/detritivore)
 
 ----
 

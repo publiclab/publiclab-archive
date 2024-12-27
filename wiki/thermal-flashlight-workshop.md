@@ -6,12 +6,12 @@ author: warren
 path: /wiki/thermal-flashlight-workshop.md
 nid: 637
 uid: 1
-
+cids: 
 ---
 
 # Thermal flashlight workshop
 
-by [rjstatic-authenticated](../profile/rjstatic-authenticated), [warren](../profile/warren), [sara](../profile/sara)
+by [rjstatic-authenticated](/profile/rjstatic-authenticated), [warren](/profile/warren), [sara](/profile/sara)
 
 December 14, 2011 19:10 | Tags: 
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/website-basics.md
 nid: 15264
 uid: 1
-
+cids: 
 ---
 
 # Website Basics
 
-by [laurel_mire](../profile/laurel_mire), [liz](../profile/liz), [warren](../profile/warren)
+by [laurel_mire](/profile/laurel_mire), [liz](/profile/liz), [warren](/profile/warren)
 
-November 29, 2017 16:16 | Tags: [website](../tag/website), [introduction](../tag/introduction), [newcomers](../tag/newcomers), [basics](../tag/basics), [parent:website](../tag/parent:website)
+November 29, 2017 16:16 | Tags: [website](/tag/website), [introduction](/tag/introduction), [newcomers](/tag/newcomers), [basics](/tag/basics), [parent:website](/tag/parent:website)
 
 ----
 
@@ -116,4 +116,4 @@ If you wish, browse all tags at https://publiclab.org/tags
 
 If you have questions about the website, please ask here!
 
-[website](../../tag/question:website)
+[website](/tag/question:website)

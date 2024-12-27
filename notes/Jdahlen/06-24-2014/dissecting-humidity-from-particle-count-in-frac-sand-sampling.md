@@ -6,16 +6,14 @@ author: Jdahlen
 path: /notes/Jdahlen/06-24-2014/dissecting-humidity-from-particle-count-in-frac-sand-sampling.md
 nid: 10611
 uid: 425122
-
 cids: 9255,9269,9278,9285,9298,9303,9308,9310,9328,9342,9361,9429,9437,9444,9446,9447,9468
-
 ---
 
 # Dissecting Humidity from Particle Count in Frac Sand Sampling 
 
-by [Jdahlen](../../../profile/Jdahlen) | June 24, 2014 19:32
+by [Jdahlen](/profile/Jdahlen) | June 24, 2014 19:32
 
-June 24, 2014 19:32 | Tags: [sand](../tag/sand), [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [eau-claire](../tag/eau-claire), [fracking](../tag/fracking), [silica](../tag/silica), [particulate](../tag/particulate), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [midwest](../tag/midwest), [particle-monitoring](../tag/particle-monitoring), [dusttrak](../tag/dusttrak), [dylos](../tag/dylos), [uw](../tag/uw), [humidity](../tag/humidity), [parent:frac-sand](../tag/parent:frac-sand)
+June 24, 2014 19:32 | Tags: [sand](/tag/sand), [wisconsin](/tag/wisconsin), [air-quality](/tag/air-quality), [eau-claire](/tag/eau-claire), [fracking](/tag/fracking), [silica](/tag/silica), [particulate](/tag/particulate), [frac-sand](/tag/frac-sand), [pm](/tag/pm), [midwest](/tag/midwest), [particle-monitoring](/tag/particle-monitoring), [dusttrak](/tag/dusttrak), [dylos](/tag/dylos), [uw](/tag/uw), [humidity](/tag/humidity), [parent:frac-sand](/tag/parent:frac-sand)
 
 ----
 

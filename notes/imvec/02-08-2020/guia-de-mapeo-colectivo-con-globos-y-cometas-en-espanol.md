@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/02-08-2020/guia-de-mapeo-colectivo-con-globos-y-cometas-en-espanol.md
 nid: 22711
 uid: 495038
-
 cids: 26285,26287,26288
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/020/original/1.jpg)
 
 # Guia de mapeo colectivo con globos y cometas en español
 
-by [imvec](../../../profile/imvec) | February 08, 2020 18:16
+by [imvec](/profile/imvec) | February 08, 2020 18:16
 
-February 08, 2020 18:16 | Tags: [kap](../tag/kap), [guide](../tag/guide), [tool](../tag/tool), [lang:es](../tag/lang:es), [booklet](../tag/booklet), [pocket-guide](../tag/pocket-guide), [ballon-mapping](../tag/ballon-mapping), [agricultural](../tag/agricultural), [spanish](../tag/spanish), [cosquin](../tag/cosquin), [glifosato](../tag/glifosato), [guia](../tag/guia)
+February 08, 2020 18:16 | Tags: [kap](/tag/kap), [guide](/tag/guide), [tool](/tag/tool), [lang:es](/tag/lang:es), [booklet](/tag/booklet), [pocket-guide](/tag/pocket-guide), [ballon-mapping](/tag/ballon-mapping), [agricultural](/tag/agricultural), [spanish](/tag/spanish), [cosquin](/tag/cosquin), [glifosato](/tag/glifosato), [guia](/tag/guia)
 
 ----
 

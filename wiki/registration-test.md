@@ -6,14 +6,14 @@ author: warren
 path: /wiki/registration-test.md
 nid: 9930
 uid: 1
-
+cids: 
 ---
 
 # Registration Test
 
-by [warren](../profile/warren), [btbonval](../profile/btbonval)
+by [warren](/profile/warren), [btbonval](/profile/btbonval)
 
-January 08, 2014 20:12 | Tags: [spam](../tag/spam)
+January 08, 2014 20:12 | Tags: [spam](/tag/spam)
 
 ----
 

@@ -6,18 +6,16 @@ author: justinmanley
 path: /notes/justinmanley/07-02-2014/mapknitter-annotations-textbox-rotation-using-css-transforms.md
 nid: 10641
 uid: 421556
-
 cids: 9394,9398,9400,10010
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/077/original/Screenshot_from_2014-07-01_20_15_19_copy.png)
 
 # MapKnitter Annotations: Textbox Rotation using CSS Transforms
 
-by [justinmanley](../../../profile/justinmanley) | July 02, 2014 01:16
+by [justinmanley](/profile/justinmanley) | July 02, 2014 01:16
 
-July 02, 2014 01:16 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [leaflet](../tag/leaflet), [gsoc-2014](../tag/gsoc-2014), [map-annotations](../tag/map-annotations), [leaflet.illustrate](../tag/leaflet.illustrate)
+July 02, 2014 01:16 | Tags: [mapknitter](/tag/mapknitter), [gsoc](/tag/gsoc), [leaflet](/tag/leaflet), [gsoc-2014](/tag/gsoc-2014), [map-annotations](/tag/map-annotations), [leaflet.illustrate](/tag/leaflet.illustrate)
 
 ----
 

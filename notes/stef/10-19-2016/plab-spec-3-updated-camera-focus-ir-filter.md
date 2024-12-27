@@ -6,18 +6,16 @@ author: stef
 path: /notes/stef/10-19-2016/plab-spec-3-updated-camera-focus-ir-filter.md
 nid: 13599
 uid: 482758
-
 cids: 15668,15676,15677,15678,15690,15725,15733
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/444/original/IMGP1572.JPG)
 
 # Camera Focus IR Filter Removal
 
-by [stef](../../../profile/stef) | October 19, 2016 15:39
+by [stef](/profile/stef) | October 19, 2016 15:39
 
-October 19, 2016 15:39 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [desktop-spectrometer](../tag/desktop-spectrometer), [upgrade:spectrometry](../tag/upgrade:spectrometry), [upgrade:dssk](../tag/upgrade:dssk)
+October 19, 2016 15:39 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [desktop-spectrometer](/tag/desktop-spectrometer), [upgrade:spectrometry](/tag/upgrade:spectrometry), [upgrade:dssk](/tag/upgrade:dssk)
 
 ----
 

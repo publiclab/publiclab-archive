@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/07-14-2014/how-to-download-and-use-landsat-images.md
 nid: 10690
 uid: 43651
-
 cids: 9494,9495,9501,9505,9508,9509,9595,9785,10167,10168,11379
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/289/original/landsat.png)
 
 # How to download and analyze Landsat imagery
 
-by [donblair](../../../profile/donblair) | July 14, 2014 22:55
+by [donblair](/profile/donblair) | July 14, 2014 22:55
 
-July 14, 2014 22:55 | Tags: [satellite-images](../tag/satellite-images), [thermal-imaging](../tag/thermal-imaging), [cape-cod-bay-watch](../tag/cape-cod-bay-watch), [landsat](../tag/landsat), [satellite-imagery](../tag/satellite-imagery), [barnstar:basic](../tag/barnstar:basic), [with:nedhorning](../tag/with:nedhorning), [with:karenv](../tag/with:karenv), [activity:image-analysis](../tag/activity:image-analysis), [activity:remote-sensing](../tag/activity:remote-sensing), [qgis](../tag/qgis)
+July 14, 2014 22:55 | Tags: [satellite-images](/tag/satellite-images), [thermal-imaging](/tag/thermal-imaging), [cape-cod-bay-watch](/tag/cape-cod-bay-watch), [landsat](/tag/landsat), [satellite-imagery](/tag/satellite-imagery), [barnstar:basic](/tag/barnstar:basic), [with:nedhorning](/tag/with:nedhorning), [with:karenv](/tag/with:karenv), [activity:image-analysis](/tag/activity:image-analysis), [activity:remote-sensing](/tag/activity:remote-sensing), [qgis](/tag/qgis)
 
 ----
 

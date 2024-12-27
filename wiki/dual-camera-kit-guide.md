@@ -6,14 +6,14 @@ author: warren
 path: /wiki/dual-camera-kit-guide.md
 nid: 1758
 uid: 1
-
+cids: 
 ---
 
 # Dual Camera Kit Guide
 
-by [cfastie](../profile/cfastie), [mathew](../profile/mathew), [warren](../profile/warren)
+by [cfastie](/profile/cfastie), [mathew](/profile/mathew), [warren](/profile/warren)
 
-April 23, 2012 18:14 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infrared](../tag/infrared), [dual-camera](../tag/dual-camera), [photo-rig](../tag/photo-rig)
+April 23, 2012 18:14 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [infrared](/tag/infrared), [dual-camera](/tag/dual-camera), [photo-rig](/tag/photo-rig)
 
 ----
 

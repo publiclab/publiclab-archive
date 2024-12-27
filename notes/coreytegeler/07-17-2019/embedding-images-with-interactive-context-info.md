@@ -6,18 +6,16 @@ author: coreytegeler
 path: /notes/coreytegeler/07-17-2019/embedding-images-with-interactive-context-info.md
 nid: 20168
 uid: 523769
-
 cids: 25118
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/829/original/authorship.png)
 
 # Embedding images with interactive context info
 
-by [coreytegeler](../../../profile/coreytegeler) | July 17, 2019 13:53
+by [coreytegeler](/profile/coreytegeler) | July 17, 2019 13:53
 
-July 17, 2019 13:53 | Tags: [photography](../tag/photography), [software](../tag/software), [ui](../tag/ui), [first-time-poster](../tag/first-time-poster)
+July 17, 2019 13:53 | Tags: [photography](/tag/photography), [software](/tag/software), [ui](/tag/ui), [first-time-poster](/tag/first-time-poster)
 
 ----
 

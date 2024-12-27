@@ -6,18 +6,16 @@ author: JumpKitten8683
 path: /notes/JumpKitten8683/10-28-2019/environmental-study-for-flooding-in-the-streets-of-new-orleans.md
 nid: 21319
 uid: 620730
-
 cids: 25862,25979,28309,28313,28318
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/060/original/its_flooding.jpg)
 
 # Environmental Study for flooding in the streets of New Orleans
 
-by [JumpKitten8683](../../../profile/JumpKitten8683) | October 28, 2019 19:51
+by [JumpKitten8683](/profile/JumpKitten8683) | October 28, 2019 19:51
 
-October 28, 2019 19:51 | Tags: [new-orleans](../tag/new-orleans), [flood](../tag/flood), [stormwater](../tag/stormwater), [no](../tag/no), [flooding](../tag/flooding), [issue-brief](../tag/issue-brief), [storm-drain](../tag/storm-drain), [lon:10.019531](../tag/lon:10.019531), [catch-basin](../tag/catch-basin), [stopping](../tag/stopping), [lat:0.96675](../tag/lat:0.96675)
+October 28, 2019 19:51 | Tags: [new-orleans](/tag/new-orleans), [flood](/tag/flood), [stormwater](/tag/stormwater), [no](/tag/no), [flooding](/tag/flooding), [issue-brief](/tag/issue-brief), [storm-drain](/tag/storm-drain), [lon:10.019531](/tag/lon:10.019531), [catch-basin](/tag/catch-basin), [stopping](/tag/stopping), [lat:0.96675](/tag/lat:0.96675)
 
 ----
 

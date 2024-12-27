@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/01-04-2017/how-does-radon-react-outside.md
 nid: 13837
 uid: 422561
-
 cids: 
-
 ---
 
 # How does radon react outside? 
 
-by [stevie](../../../profile/stevie) | January 04, 2017 20:41
+by [stevie](/profile/stevie) | January 04, 2017 20:41
 
-January 04, 2017 20:41 | Tags: [indoor-air](../tag/indoor-air), [radon](../tag/radon), [question:radon](../tag/question:radon)
+January 04, 2017 20:41 | Tags: [indoor-air](/tag/indoor-air), [radon](/tag/radon), [question:radon](/tag/question:radon)
 
 ----
 

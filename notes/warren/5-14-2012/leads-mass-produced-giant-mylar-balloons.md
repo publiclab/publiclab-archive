@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/5-14-2012/leads-mass-produced-giant-mylar-balloons.md
 nid: 1968
 uid: 1
-
 cids: 740,14638
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Customized_WIFI_advertising_Balloons.jpg)
 
 # Leads on mass produced giant mylar balloons
 
-by [warren](../../../profile/warren) | May 14, 2012 21:00
+by [warren](/profile/warren) | May 14, 2012 21:00
 
-May 14, 2012 21:00 | Tags: [balloon-mapping](../tag/balloon-mapping), [mylar](../tag/mylar), [diy-balloon](../tag/diy-balloon), [balloon](../tag/balloon), [supply-chain](../tag/supply-chain)
+May 14, 2012 21:00 | Tags: [balloon-mapping](/tag/balloon-mapping), [mylar](/tag/mylar), [diy-balloon](/tag/diy-balloon), [balloon](/tag/balloon), [supply-chain](/tag/supply-chain)
 
 ----
 

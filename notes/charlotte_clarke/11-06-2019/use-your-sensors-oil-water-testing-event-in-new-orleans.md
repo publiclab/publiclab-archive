@@ -6,18 +6,16 @@ author: charlotte_clarke
 path: /notes/charlotte_clarke/11-06-2019/use-your-sensors-oil-water-testing-event-in-new-orleans.md
 nid: 21417
 uid: 510781
-
 cids: 25823
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/273/original/Use_Your_Sensors__Oil_Water_Testing_Event_in_New_Orleans_%281%29.png)
 
 # Use Your Sensors: Oil Water Testing Event in New Orleans!
 
-by [charlotte_clarke](../../../profile/charlotte_clarke) | November 06, 2019 20:12
+by [charlotte_clarke](/profile/charlotte_clarke) | November 06, 2019 20:12
 
-November 06, 2019 20:12 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [date:11-19-2019](../tag/date:11-19-2019), [lat:29.955724](../tag/lat:29.955724), [lon:-90.020311](../tag/lon:-90.020311)
+November 06, 2019 20:12 | Tags: [event](/tag/event), [event:rsvp](/tag/event:rsvp), [oil-and-gas-water-trio](/tag/oil-and-gas-water-trio), [date:11-19-2019](/tag/date:11-19-2019), [lat:29.955724](/tag/lat:29.955724), [lon:-90.020311](/tag/lon:-90.020311)
 
 ----
 

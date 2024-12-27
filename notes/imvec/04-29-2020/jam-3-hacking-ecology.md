@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/04-29-2020/jam-3-hacking-ecology.md
 nid: 23506
 uid: 495038
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/225/original/hackecot.jpg)
 
 # JAM#3: Hacking Ecology 
 
-by [imvec](../../../profile/imvec) | April 29, 2020 00:56
+by [imvec](/profile/imvec) | April 29, 2020 00:56
 
-April 29, 2020 00:56 | Tags: [water-quality](../tag/water-quality), [lang:es](../tag/lang:es), [spanish](../tag/spanish), [zoom:14](../tag/zoom:14), [cosquin](../tag/cosquin), [lat:41.408488](../tag/lat:41.408488), [lon:2.199325](../tag/lon:2.199325), [jam](../tag/jam), [charla](../tag/charla), [nayad](../tag/nayad), [autodefensa-vecinal](../tag/autodefensa-vecinal), [hacking-ecology](../tag/hacking-ecology)
+April 29, 2020 00:56 | Tags: [water-quality](/tag/water-quality), [lang:es](/tag/lang:es), [spanish](/tag/spanish), [zoom:14](/tag/zoom:14), [cosquin](/tag/cosquin), [lat:41.408488](/tag/lat:41.408488), [lon:2.199325](/tag/lon:2.199325), [jam](/tag/jam), [charla](/tag/charla), [nayad](/tag/nayad), [autodefensa-vecinal](/tag/autodefensa-vecinal), [hacking-ecology](/tag/hacking-ecology)
 
 ----
 

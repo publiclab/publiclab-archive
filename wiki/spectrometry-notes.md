@@ -6,12 +6,12 @@ author: warren
 path: /wiki/spectrometry-notes.md
 nid: 76
 uid: 1
-
+cids: 
 ---
 
 # Spectrometry notes
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 February 04, 2011 13:46 | Tags: 
 

@@ -6,16 +6,14 @@ author: Cesar1178
 path: /notes/Cesar1178/06-15-2016/bombilla-led.md
 nid: 13200
 uid: 479097
-
 cids: 14767
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/648/original/image.jpg)
 
 # Bombilla led
 
-by [Cesar1178](../../../profile/Cesar1178) | June 15, 2016 15:31
+by [Cesar1178](/profile/Cesar1178) | June 15, 2016 15:31
 
 June 15, 2016 15:31 | Tags: 
 

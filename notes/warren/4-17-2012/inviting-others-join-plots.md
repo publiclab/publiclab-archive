@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/4-17-2012/inviting-others-join-plots.md
 nid: 1693
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/invitations.png)
 
 # Inviting others to join PLOTS
 
-by [warren](../../../profile/warren) | April 17, 2012 19:14
+by [warren](/profile/warren) | April 17, 2012 19:14
 
-April 17, 2012 19:14 | Tags: [community](../tag/community), [licensing](../tag/licensing), [open-hardware](../tag/open-hardware), [cern-ohl](../tag/cern-ohl)
+April 17, 2012 19:14 | Tags: [community](/tag/community), [licensing](/tag/licensing), [open-hardware](/tag/open-hardware), [cern-ohl](/tag/cern-ohl)
 
 ----
 

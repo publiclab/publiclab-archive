@@ -6,14 +6,14 @@ author: Mohamed
 path: /wiki/idea-80-completed-sap-project-smart-agriculture-payload.md
 nid: 11814
 uid: 431141
-
+cids: 
 ---
 
 # Idea:80%COMPLETED-SAP project (Smart Agriculture Payload)
 
-by [Mohamed](../profile/Mohamed)
+by [Mohamed](/profile/Mohamed)
 
-May 13, 2015 23:20 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [farming](../tag/farming), [agriculture](../tag/agriculture), [organic-agriculture](../tag/organic-agriculture), [near-infrared](../tag/near-infrared), [near-ir](../tag/near-ir), [robot](../tag/robot), [nutrient-density](../tag/nutrient-density), [smart](../tag/smart)
+May 13, 2015 23:20 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [farming](/tag/farming), [agriculture](/tag/agriculture), [organic-agriculture](/tag/organic-agriculture), [near-infrared](/tag/near-infrared), [near-ir](/tag/near-ir), [robot](/tag/robot), [nutrient-density](/tag/nutrient-density), [smart](/tag/smart)
 
 ----
 

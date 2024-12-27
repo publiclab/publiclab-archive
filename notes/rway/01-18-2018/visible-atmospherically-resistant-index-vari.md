@@ -6,16 +6,14 @@ author: rway
 path: /notes/rway/01-18-2018/visible-atmospherically-resistant-index-vari.md
 nid: 15546
 uid: 423528
-
 cids: 
-
 ---
 
 #  Visible Atmospherically Resistant Index (VARI)
 
-by [rway](../../../profile/rway) | January 18, 2018 12:37
+by [rway](/profile/rway) | January 18, 2018 12:37
 
-January 18, 2018 12:37 | Tags: [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [index](../tag/index), [question:multispectral-imaging](../tag/question:multispectral-imaging), [visible](../tag/visible), [atmospherically](../tag/atmospherically), [resistant](../tag/resistant), [indices](../tag/indices)
+January 18, 2018 12:37 | Tags: [question:ndvi](/tag/question:ndvi), [question:infragram](/tag/question:infragram), [index](/tag/index), [question:multispectral-imaging](/tag/question:multispectral-imaging), [visible](/tag/visible), [atmospherically](/tag/atmospherically), [resistant](/tag/resistant), [indices](/tag/indices)
 
 ----
 

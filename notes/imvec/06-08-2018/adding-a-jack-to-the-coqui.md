@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/06-08-2018/adding-a-jack-to-the-coqui.md
 nid: 16456
 uid: 495038
-
 cids: 19860
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/182/original/photo_2018-06-08_22-41-09.jpg)
 
 # Adding a jack to the Coqui
 
-by [imvec](../../../profile/imvec) | June 08, 2018 20:52
+by [imvec](/profile/imvec) | June 08, 2018 20:52
 
-June 08, 2018 20:52 | Tags: [water](../tag/water), [tutorial](../tag/tutorial), [conductivity](../tag/conductivity), [open-water](../tag/open-water), [coqui](../tag/coqui), [category:build](../tag/category:build), [gaimec](../tag/gaimec), [dificulty:easy](../tag/dificulty:easy), [replication:13459](../tag/replication:13459), [activity:coqui-usage](../tag/activity:coqui-usage), [coqui-audio-jack](../tag/coqui-audio-jack)
+June 08, 2018 20:52 | Tags: [water](/tag/water), [tutorial](/tag/tutorial), [conductivity](/tag/conductivity), [open-water](/tag/open-water), [coqui](/tag/coqui), [category:build](/tag/category:build), [gaimec](/tag/gaimec), [dificulty:easy](/tag/dificulty:easy), [replication:13459](/tag/replication:13459), [activity:coqui-usage](/tag/activity:coqui-usage), [coqui-audio-jack](/tag/coqui-audio-jack)
 
 ----
 

@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/04-04-2017/site-survey-for-a-minivol.md
 nid: 14086
 uid: 4
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/074/original/20170326_131640.jpg)
 
 # Site Survey for a Minivol
 
-by [mathew](../../../profile/mathew) | April 04, 2017 18:57
+by [mathew](/profile/mathew) | April 04, 2017 18:57
 
-April 04, 2017 18:57 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [particle-monitoring](../tag/particle-monitoring), [with:stevie](../tag/with:stevie), [with:gretchengehrke](../tag/with:gretchengehrke), [parent:frac-sand](../tag/parent:frac-sand), [pm-monitoring](../tag/pm-monitoring), [minivol](../tag/minivol), [replication:13891](../tag/replication:13891)
+April 04, 2017 18:57 | Tags: [air-quality](/tag/air-quality), [dust](/tag/dust), [silica](/tag/silica), [frac-sand](/tag/frac-sand), [pm](/tag/pm), [particle-sensing](/tag/particle-sensing), [particle-monitoring](/tag/particle-monitoring), [with:stevie](/tag/with:stevie), [with:gretchengehrke](/tag/with:gretchengehrke), [parent:frac-sand](/tag/parent:frac-sand), [pm-monitoring](/tag/pm-monitoring), [minivol](/tag/minivol), [replication:13891](/tag/replication:13891)
 
 ----
 

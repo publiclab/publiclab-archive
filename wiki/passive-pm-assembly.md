@@ -6,14 +6,14 @@ author: mathew
 path: /wiki/passive-pm-assembly.md
 nid: 12648
 uid: 4
-
+cids: 
 ---
 
 # passive-pm-assembly
 
-by [stevie](../profile/stevie), [mathew](../profile/mathew)
+by [stevie](/profile/stevie), [mathew](/profile/mathew)
 
-February 03, 2016 23:21 | Tags: [parent:passive-pm](../tag/parent:passive-pm), [activity:open-air](../tag/activity:open-air)
+February 03, 2016 23:21 | Tags: [parent:passive-pm](/tag/parent:passive-pm), [activity:open-air](/tag/activity:open-air)
 
 ----
 

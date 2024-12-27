@@ -6,18 +6,16 @@ author: dr_dbw
 path: /notes/drdbw/3-28-2012/thermal-torch-adjustable-temperature-scale.md
 nid: 1553
 uid: 706
-
 cids: 563,772,799
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Circuit_Breadboard.jpg)
 
 # Thermal Torch with Adjustable Temperature Scale
 
-by [dr_dbw](../../../profile/dr_dbw) | March 29, 2012 00:22
+by [dr_dbw](/profile/dr_dbw) | March 29, 2012 00:22
 
-March 29, 2012 00:22 | Tags: [thermal-photography](../tag/thermal-photography)
+March 29, 2012 00:22 | Tags: [thermal-photography](/tag/thermal-photography)
 
 ----
 

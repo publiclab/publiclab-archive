@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/08-31-2017/is-there-a-need-for-safely-collecting-aerial-imagery-post-harvey.md
 nid: 14813
 uid: 1
-
 cids: 
-
 ---
 
 # Is there a need for safely collecting aerial imagery post-Harvey?
 
-by [warren](../../../profile/warren) | August 31, 2017 21:28
+by [warren](/profile/warren) | August 31, 2017 21:28
 
-August 31, 2017 21:28 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [aerial-photography](../tag/aerial-photography), [hurricane](../tag/hurricane), [storm](../tag/storm), [harvey](../tag/harvey), [harvey-response](../tag/harvey-response), [question:harvey](../tag/question:harvey)
+August 31, 2017 21:28 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [aerial-photography](/tag/aerial-photography), [hurricane](/tag/hurricane), [storm](/tag/storm), [harvey](/tag/harvey), [harvey-response](/tag/harvey-response), [question:harvey](/tag/question:harvey)
 
 ----
 

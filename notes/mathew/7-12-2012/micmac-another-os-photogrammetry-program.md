@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/7-12-2012/micmac-another-os-photogrammetry-program.md
 nid: 2784
 uid: 4
-
 cids: 8048,8056,8057,18771
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-07-12 at 1.11.28 PM.png)
 
 # MicMac, another OS photogrammetry program
 
-by [mathew](../../../profile/mathew) | July 12, 2012 20:12
+by [mathew](/profile/mathew) | July 12, 2012 20:12
 
-July 12, 2012 20:12 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [3d](../tag/3d), [image-processing](../tag/image-processing), [balloon-telemetry-kit](../tag/balloon-telemetry-kit), [bundleadjustment](../tag/bundleadjustment), [photogrammetry](../tag/photogrammetry), [sfm](../tag/sfm), [structure-from-motion](../tag/structure-from-motion), [micmac](../tag/micmac)
+July 12, 2012 20:12 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [3d](/tag/3d), [image-processing](/tag/image-processing), [balloon-telemetry-kit](/tag/balloon-telemetry-kit), [bundleadjustment](/tag/bundleadjustment), [photogrammetry](/tag/photogrammetry), [sfm](/tag/sfm), [structure-from-motion](/tag/structure-from-motion), [micmac](/tag/micmac)
 
 ----
 

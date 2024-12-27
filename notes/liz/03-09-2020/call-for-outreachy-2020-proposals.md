@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/03-09-2020/call-for-outreachy-2020-proposals.md
 nid: 23084
 uid: 7
-
 cids: 26429,26430,26431,26432,26433,26467,26474
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/384/original/outreachy.png)
 
 # Call for Outreachy 2020 proposals!
 
-by [liz](../../../profile/liz) | March 09, 2020 19:38
+by [liz](/profile/liz) | March 09, 2020 19:38
 
-March 09, 2020 19:38 | Tags: [with:warren](../tag/with:warren), [seeks:responses](../tag/seeks:responses), [call-for-proposals](../tag/call-for-proposals), [with:bansal_sidharth2996](../tag/with:bansal_sidharth2996), [with:gauravano](../tag/with:gauravano), [zoom:13](../tag/zoom:13), [lat:40.71](../tag/lat:40.71), [lon:-73.95](../tag/lon:-73.95), [with:cess](../tag/with:cess), [with:emash](../tag/with:emash)
+March 09, 2020 19:38 | Tags: [with:warren](/tag/with:warren), [seeks:responses](/tag/seeks:responses), [call-for-proposals](/tag/call-for-proposals), [with:bansal_sidharth2996](/tag/with:bansal_sidharth2996), [with:gauravano](/tag/with:gauravano), [zoom:13](/tag/zoom:13), [lat:40.71](/tag/lat:40.71), [lon:-73.95](/tag/lon:-73.95), [with:cess](/tag/with:cess), [with:emash](/tag/with:emash)
 
 ----
 
@@ -70,13 +68,13 @@ You can also read through past proposals for Outreachy at [https://publiclab.org
 
 ## Proposals
 
-[outreachy-2020-proposals](../../tag/outreachy-2020-proposals)
+[outreachy-2020-proposals](/tag/outreachy-2020-proposals)
 
 ---------
 
 ## Questions
 
-[soc](../../tag/question:soc)
+[soc](/tag/question:soc)
 
 Please ask questions! We're very friendly and we love welcoming new people into our community.
 

@@ -6,16 +6,14 @@ author: Shannon
 path: /notes/shannon/8-5-2011/env-justice-mandate-strengthened.md
 nid: 432
 uid: 9
-
 cids: 
-
 ---
 
 # Env. Justice mandate strengthened
 
-by [Shannon](../../../profile/Shannon) | August 05, 2011 20:57
+by [Shannon](/profile/Shannon) | August 05, 2011 20:57
 
-August 05, 2011 20:57 | Tags: [epa](../tag/epa), [law-and-policy](../tag/law-and-policy)
+August 05, 2011 20:57 | Tags: [epa](/tag/epa), [law-and-policy](/tag/law-and-policy)
 
 ----
 

@@ -6,16 +6,14 @@ author: namangupta
 path: /notes/namangupta/06-25-2019/google-summer-of-code-public-lab-first-phase-work.md
 nid: 19861
 uid: 522848
-
 cids: 24915
-
 ---
 
 # Google Summer of Code @ Public Lab : First Phase Work
 
-by [namangupta](../../../profile/namangupta) | June 25, 2019 19:14
+by [namangupta](/profile/namangupta) | June 25, 2019 19:14
 
-June 25, 2019 19:14 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [gsoc-19](../tag/gsoc-19)
+June 25, 2019 19:14 | Tags: [gsoc](/tag/gsoc), [soc](/tag/soc), [gsoc-2019](/tag/gsoc-2019), [soc-2019](/tag/soc-2019), [gsoc-19](/tag/gsoc-19)
 
 ----
 

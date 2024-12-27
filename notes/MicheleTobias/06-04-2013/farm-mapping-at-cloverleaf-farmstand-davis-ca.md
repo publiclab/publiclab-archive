@@ -6,18 +6,16 @@ author: MicheleTobias
 path: /notes/MicheleTobias/06-04-2013/farm-mapping-at-cloverleaf-farmstand-davis-ca.md
 nid: 8051
 uid: 149
-
 cids: 4991
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/474/original/3D_R0885.JPG)
 
 # Farm Mapping at Cloverleaf Farmstand, Davis, CA
 
-by [MicheleTobias](../../../profile/MicheleTobias) | June 04, 2013 21:38
+by [MicheleTobias](/profile/MicheleTobias) | June 04, 2013 21:38
 
-June 04, 2013 21:38 | Tags: [gopro](../tag/gopro), [gopro-ag](../tag/gopro-ag)
+June 04, 2013 21:38 | Tags: [gopro](/tag/gopro), [gopro-ag](/tag/gopro-ag)
 
 ----
 

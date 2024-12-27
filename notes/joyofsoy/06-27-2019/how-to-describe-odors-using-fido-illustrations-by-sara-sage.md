@@ -6,16 +6,14 @@ author: joyofsoy
 path: /notes/joyofsoy/06-27-2019/how-to-describe-odors-using-fido-illustrations-by-sara-sage.md
 nid: 19902
 uid: 540844
-
 cids: 24925,24979,26069
-
 ---
 
 # How to Describe Odors Using FIDO, illustrated by Sara Sage
 
-by [joyofsoy](../../../profile/joyofsoy) | June 27, 2019 22:33
+by [joyofsoy](/profile/joyofsoy) | June 27, 2019 22:33
 
-June 27, 2019 22:33 | Tags: [fido](../tag/fido), [odor](../tag/odor), [odor-logging](../tag/odor-logging), [csf](../tag/csf), [csf16](../tag/csf16), [with:sarasage](../tag/with:sarasage)
+June 27, 2019 22:33 | Tags: [fido](/tag/fido), [odor](/tag/odor), [odor-logging](/tag/odor-logging), [csf](/tag/csf), [csf16](/tag/csf16), [with:sarasage](/tag/with:sarasage)
 
 ----
 

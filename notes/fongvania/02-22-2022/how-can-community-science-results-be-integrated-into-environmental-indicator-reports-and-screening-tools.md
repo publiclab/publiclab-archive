@@ -6,16 +6,14 @@ author: fongvania
 path: /notes/fongvania/02-22-2022/how-can-community-science-results-be-integrated-into-environmental-indicator-reports-and-screening-tools.md
 nid: 30070
 uid: 754846
-
 cids: 
-
 ---
 
 # How can community science results be integrated into environmental indicator reports and screening tools?
 
-by [fongvania](../../../profile/fongvania) | February 22, 2022 01:12
+by [fongvania](/profile/fongvania) | February 22, 2022 01:12
 
-February 22, 2022 01:12 | Tags: [question:general](../tag/question:general), [general](../tag/general), [environmental-tools](../tag/environmental-tools), [environmental-monitoring](../tag/environmental-monitoring)
+February 22, 2022 01:12 | Tags: [question:general](/tag/question:general), [general](/tag/general), [environmental-tools](/tag/environmental-tools), [environmental-monitoring](/tag/environmental-monitoring)
 
 ----
 

@@ -6,16 +6,16 @@ author: liz
 path: /wiki/lead.md
 nid: 16938
 uid: 7
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/458/original/180824-F-PO640-0012.jpg)
 
 # Lead (Pb)
 
-by [joyofsoy](../profile/joyofsoy), [read_holman](../profile/read_holman), [warren](../profile/warren), [liz](../profile/liz)
+by [joyofsoy](/profile/joyofsoy), [read_holman](/profile/read_holman), [warren](/profile/warren), [liz](/profile/liz)
 
-August 16, 2018 15:07 | Tags: [heavy-metals](../tag/heavy-metals), [lead](../tag/lead), [lead-testing](../tag/lead-testing)
+August 16, 2018 15:07 | Tags: [heavy-metals](/tag/heavy-metals), [lead](/tag/lead), [lead-testing](/tag/lead-testing)
 
 ----
 
@@ -47,9 +47,9 @@ There are no safe levels of lead for humans; any amount is a bad amount. Lead is
 
 ### Research Notes on PublicLab.org Related to this Topic
 
-[lead!question:lead](../../tag/lead!question:lead)
+[lead!question:lead](/tag/lead!question:lead)
 
 ### Questions posted on PublicLab.org Related to this Topic
 
-[lead](../../tag/question:lead)
+[lead](/tag/question:lead)
 

@@ -6,16 +6,14 @@ author: eustatic
 path: /05-30-2019/mapknitter-map-of-usfws-restoration-bayou-bonfouca-southeast-survey.md
 nid: 19580
 uid: 379
-
 cids: 24334
-
 ---
 
 # MapKnitter map of USFWS restoration Bayou Bonfouca southeast survey
 
-by [eustatic](../../../profile/eustatic) | May 30, 2019 19:07
+by [eustatic](/profile/eustatic) | May 30, 2019 19:07
 
-May 30, 2019 19:07 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [lat:30.23801](../tag/lat:30.23801), [lon:-89.858586](../tag/lon:-89.858586)
+May 30, 2019 19:07 | Tags: [balloon-mapping](/tag/balloon-mapping), [mapknitter](/tag/mapknitter), [lat:30.23801](/tag/lat:30.23801), [lon:-89.858586](/tag/lon:-89.858586)
 
 ----
 

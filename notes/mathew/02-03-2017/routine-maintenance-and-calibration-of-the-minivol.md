@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/02-03-2017/routine-maintenance-and-calibration-of-the-minivol.md
 nid: 13902
 uid: 4
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/426/original/20170109_145812.jpg)
 
 # Routine maintenance and calibration of the MiniVol
 
-by [mathew](../../../profile/mathew) | February 03, 2017 02:33
+by [mathew](/profile/mathew) | February 03, 2017 02:33
 
-February 03, 2017 02:33 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [pm-monitoring](../tag/pm-monitoring), [minivol](../tag/minivol), [activity:minivol](../tag/activity:minivol)
+February 03, 2017 02:33 | Tags: [air-quality](/tag/air-quality), [dust](/tag/dust), [silica](/tag/silica), [pm](/tag/pm), [particle-sensing](/tag/particle-sensing), [pm-monitoring](/tag/pm-monitoring), [minivol](/tag/minivol), [activity:minivol](/tag/activity:minivol)
 
 ----
 

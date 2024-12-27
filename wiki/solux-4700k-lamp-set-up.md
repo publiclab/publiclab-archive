@@ -6,14 +6,14 @@ author: dhaffnersr
 path: /wiki/solux-4700k-lamp-set-up.md
 nid: 13304
 uid: 461120
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/178/original/solux_lamp.png)
 
 # Solux 4700K Lamp Set Up
 
-by [dhaffnersr](../profile/dhaffnersr)
+by [dhaffnersr](/profile/dhaffnersr)
 
 July 22, 2016 12:38 | Tags: 
 

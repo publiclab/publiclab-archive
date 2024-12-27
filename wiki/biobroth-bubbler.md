@@ -6,16 +6,16 @@ author: warren
 path: /wiki/biobroth-bubbler.md
 nid: 14505
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/676/original/biobroth.png)
 
 # BioBroth Bubbler
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-June 06, 2017 17:55 | Tags: [remediation](../tag/remediation), [air-quality](../tag/air-quality), [bacteria](../tag/bacteria), [tool](../tag/tool), [open-air](../tag/open-air), [indoor-air-quality](../tag/indoor-air-quality), [indoor-air](../tag/indoor-air), [method](../tag/method), [chemicals](../tag/chemicals), [parent:diy-indoor-air-quality-remediation-kit](../tag/parent:diy-indoor-air-quality-remediation-kit), [biobroth-bubbler](../tag/biobroth-bubbler)
+June 06, 2017 17:55 | Tags: [remediation](/tag/remediation), [air-quality](/tag/air-quality), [bacteria](/tag/bacteria), [tool](/tag/tool), [open-air](/tag/open-air), [indoor-air-quality](/tag/indoor-air-quality), [indoor-air](/tag/indoor-air), [method](/tag/method), [chemicals](/tag/chemicals), [parent:diy-indoor-air-quality-remediation-kit](/tag/parent:diy-indoor-air-quality-remediation-kit), [biobroth-bubbler](/tag/biobroth-bubbler)
 
 ----
 
@@ -30,4 +30,4 @@ For a related project that's further along, please see [the Indoor Air Quality R
 
 ## Questions
 
-[biobroth-bubbler](../../tag/question:biobroth-bubbler)
+[biobroth-bubbler](/tag/question:biobroth-bubbler)

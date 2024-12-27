@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/07-15-2014/recap-open-water-workshop-july-12-2014.md
 nid: 10693
 uid: 43651
-
 cids: 9512,9518,9538,9539,9556,9644,21154,21155
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/294/original/hPP.png)
 
 # Recap: Open Water Workshop, 7/12/14
 
-by [donblair](../../../profile/donblair) | July 15, 2014 06:44
+by [donblair](/profile/donblair) | July 15, 2014 06:44
 
-July 15, 2014 06:44 | Tags: [cambridge](../tag/cambridge), [video](../tag/video), [boston](../tag/boston), [workshop](../tag/workshop), [parts-and-crafts](../tag/parts-and-crafts), [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [riffle](../tag/riffle), [open-water](../tag/open-water), [northeast](../tag/northeast), [barnstar:basic](../tag/barnstar:basic), [barnstar:empiricism](../tag/barnstar:empiricism), [555](../tag/555), [riffle-cricket](../tag/riffle-cricket), [piezo](../tag/piezo), [mit](../tag/mit), [hooray](../tag/hooray), [civic-media](../tag/civic-media), [barnstar:video-documentation](../tag/barnstar:video-documentation)
+July 15, 2014 06:44 | Tags: [cambridge](/tag/cambridge), [video](/tag/video), [boston](/tag/boston), [workshop](/tag/workshop), [parts-and-crafts](/tag/parts-and-crafts), [water-quality](/tag/water-quality), [conductivity](/tag/conductivity), [riffle](/tag/riffle), [open-water](/tag/open-water), [northeast](/tag/northeast), [barnstar:basic](/tag/barnstar:basic), [barnstar:empiricism](/tag/barnstar:empiricism), [555](/tag/555), [riffle-cricket](/tag/riffle-cricket), [piezo](/tag/piezo), [mit](/tag/mit), [hooray](/tag/hooray), [civic-media](/tag/civic-media), [barnstar:video-documentation](/tag/barnstar:video-documentation)
 
 ----
 

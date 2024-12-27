@@ -6,16 +6,14 @@ author: aviceda
 path: /notes/aviceda/10-03-2020/legalities-of-map-knitting-in-australia.md
 nid: 24692
 uid: 420276
-
 cids: 27453,27454
-
 ---
 
 # Legalities of 'map-knitting' in Australia
 
-by [aviceda](../../../profile/aviceda) | October 03, 2020 08:33
+by [aviceda](/profile/aviceda) | October 03, 2020 08:33
 
-October 03, 2020 08:33 | Tags: [australia](../tag/australia), [mapping](../tag/mapping), [aerial-mapping](../tag/aerial-mapping), [general](../tag/general), [first-time-poster](../tag/first-time-poster), [law](../tag/law), [law-and-policy](../tag/law-and-policy)
+October 03, 2020 08:33 | Tags: [australia](/tag/australia), [mapping](/tag/mapping), [aerial-mapping](/tag/aerial-mapping), [general](/tag/general), [first-time-poster](/tag/first-time-poster), [law](/tag/law), [law-and-policy](/tag/law-and-policy)
 
 ----
 

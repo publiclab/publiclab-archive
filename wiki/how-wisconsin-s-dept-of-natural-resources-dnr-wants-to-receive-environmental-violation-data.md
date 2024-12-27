@@ -6,16 +6,16 @@ author: gilbert
 path: /wiki/how-wisconsin-s-dept-of-natural-resources-dnr-wants-to-receive-environmental-violation-data.md
 nid: 15180
 uid: 508551
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/372/original/images.jpg)
 
 # How Wisconsin's Dept. of Natural Resources (DNR) Wants to Receive Environmental Violation Data
 
-by [gilbert](../profile/gilbert)
+by [gilbert](/profile/gilbert)
 
-November 13, 2017 20:04 | Tags: [oil-spill](../tag/oil-spill), [reporting](../tag/reporting), [wisconsin](../tag/wisconsin), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [hazardous-materials](../tag/hazardous-materials), [environment-monitoring](../tag/environment-monitoring), [silica-monitoring](../tag/silica-monitoring), [violation-reporting](../tag/violation-reporting), [spills](../tag/spills), [dnr](../tag/dnr), [reporting-forms](../tag/reporting-forms), [violations](../tag/violations), [spill-reporting](../tag/spill-reporting)
+November 13, 2017 20:04 | Tags: [oil-spill](/tag/oil-spill), [reporting](/tag/reporting), [wisconsin](/tag/wisconsin), [frac-sand](/tag/frac-sand), [pm](/tag/pm), [hazardous-materials](/tag/hazardous-materials), [environment-monitoring](/tag/environment-monitoring), [silica-monitoring](/tag/silica-monitoring), [violation-reporting](/tag/violation-reporting), [spills](/tag/spills), [dnr](/tag/dnr), [reporting-forms](/tag/reporting-forms), [violations](/tag/violations), [spill-reporting](/tag/spill-reporting)
 
 ----
 

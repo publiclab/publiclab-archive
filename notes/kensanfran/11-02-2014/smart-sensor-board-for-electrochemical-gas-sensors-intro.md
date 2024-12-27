@@ -6,18 +6,16 @@ author: kensanfran
 path: /notes/kensanfran/11-02-2014/smart-sensor-board-for-electrochemical-gas-sensors-intro.md
 nid: 11315
 uid: 430796
-
 cids: 10681,10685,10687,10692,13689,14132
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/691/original/echemX_328a_front.png)
 
 # Smart sensor board for electrochemical gas sensors (intro)
 
-by [kensanfran](../../../profile/kensanfran) | November 02, 2014 09:38
+by [kensanfran](/profile/kensanfran) | November 02, 2014 09:38
 
-November 02, 2014 09:38 | Tags: [air-quality](../tag/air-quality), [air](../tag/air), [monitoring](../tag/monitoring), [barnstar:empiricism](../tag/barnstar:empiricism), [gas](../tag/gas), [sensor](../tag/sensor), [electrochemical](../tag/electrochemical), [nerds-for-nature](../tag/nerds-for-nature), [gas-sensor](../tag/gas-sensor), [electrochemical-sensor](../tag/electrochemical-sensor), [echem328](../tag/echem328), [data-logging](../tag/data-logging), [air-sensors](../tag/air-sensors), [kentucky](../tag/kentucky), [first-time-poster](../tag/first-time-poster)
+November 02, 2014 09:38 | Tags: [air-quality](/tag/air-quality), [air](/tag/air), [monitoring](/tag/monitoring), [barnstar:empiricism](/tag/barnstar:empiricism), [gas](/tag/gas), [sensor](/tag/sensor), [electrochemical](/tag/electrochemical), [nerds-for-nature](/tag/nerds-for-nature), [gas-sensor](/tag/gas-sensor), [electrochemical-sensor](/tag/electrochemical-sensor), [echem328](/tag/echem328), [data-logging](/tag/data-logging), [air-sensors](/tag/air-sensors), [kentucky](/tag/kentucky), [first-time-poster](/tag/first-time-poster)
 
 ----
 

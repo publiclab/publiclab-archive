@@ -6,16 +6,14 @@ author: gretchengehrke
 path: /notes/gretchengehrke/11-08-2017/what-is-the-hydrogen-sulfide-concentration-range-that-can-be-monitored-using-a-copper-tarnish-method.md
 nid: 15162
 uid: 430549
-
 cids: 17909
-
 ---
 
 # What is the hydrogen sulfide concentration range that can be monitored using a copper tarnish method?
 
-by [gretchengehrke](../../../profile/gretchengehrke) | November 08, 2017 23:28
+by [gretchengehrke](/profile/gretchengehrke) | November 08, 2017 23:28
 
-November 08, 2017 23:28 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [sensitivity](../tag/sensitivity), [validation](../tag/validation), [h2s-copper-pipe](../tag/h2s-copper-pipe), [question:h2s](../tag/question:h2s), [question:hydrogen-sulfide](../tag/question:hydrogen-sulfide), [question:h2s-copper-pipe](../tag/question:h2s-copper-pipe), [question:validation](../tag/question:validation), [question:sensitivity](../tag/question:sensitivity), [threshold](../tag/threshold)
+November 08, 2017 23:28 | Tags: [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [sensitivity](/tag/sensitivity), [validation](/tag/validation), [h2s-copper-pipe](/tag/h2s-copper-pipe), [question:h2s](/tag/question:h2s), [question:hydrogen-sulfide](/tag/question:hydrogen-sulfide), [question:h2s-copper-pipe](/tag/question:h2s-copper-pipe), [question:validation](/tag/question:validation), [question:sensitivity](/tag/question:sensitivity), [threshold](/tag/threshold)
 
 ----
 

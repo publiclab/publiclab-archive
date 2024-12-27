@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/05-29-2018/what-s-the-best-material-for-observing-dust-pm-accumulation.md
 nid: 16406
 uid: 422561
-
 cids: 19707,19708,19709,19710,19772,19777,23098,23099,23100
-
 ---
 
 # What's the best material for observing dust (PM) accumulation? 
 
-by [stevie](../../../profile/stevie) | May 29, 2018 16:47
+by [stevie](/profile/stevie) | May 29, 2018 16:47
 
-May 29, 2018 16:47 | Tags: [pm](../tag/pm), [question:passive-pm](../tag/question:passive-pm), [question:pm](../tag/question:pm), [question:particulate-matter](../tag/question:particulate-matter), [question:sticky-pads](../tag/question:sticky-pads), [with:ramseysprague](../tag/with:ramseysprague)
+May 29, 2018 16:47 | Tags: [pm](/tag/pm), [question:passive-pm](/tag/question:passive-pm), [question:pm](/tag/question:pm), [question:particulate-matter](/tag/question:particulate-matter), [question:sticky-pads](/tag/question:sticky-pads), [with:ramseysprague](/tag/with:ramseysprague)
 
 ----
 

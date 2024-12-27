@@ -6,14 +6,14 @@ author: warren
 path: /wiki/the-homebrew-sensing-project.md
 nid: 10067
 uid: 1
-
+cids: 
 ---
 
 # The Homebrew Sensing Project
 
-by [Becki](../profile/Becki), [warren](../profile/warren)
+by [Becki](/profile/Becki), [warren](/profile/warren)
 
-February 26, 2014 16:39 | Tags: [spectrometer](../tag/spectrometer), [tabbed:notes](../tag/tabbed:notes)
+February 26, 2014 16:39 | Tags: [spectrometer](/tag/spectrometer), [tabbed:notes](/tag/tabbed:notes)
 
 ----
 

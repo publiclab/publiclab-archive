@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/07-05-2013/saugus-landfill-overflight-photos-with-infragram.md
 nid: 8704
 uid: 1
-
 cids: 6322
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/653/original/ndvi_IMG_0403b.JPG)
 
 # Saugus landfill overflight photos -- with Infragram
 
-by [warren](../../../profile/warren) | July 05, 2013 19:55
+by [warren](/profile/warren) | July 05, 2013 19:55
 
-July 05, 2013 19:55 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [somerville-massachusetts](../tag/somerville-massachusetts), [ndvi](../tag/ndvi), [boston](../tag/boston), [saugus](../tag/saugus), [passenger-pigeon](../tag/passenger-pigeon), [landfill](../tag/landfill), [infragram](../tag/infragram), [waste](../tag/waste)
+July 05, 2013 19:55 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [somerville-massachusetts](/tag/somerville-massachusetts), [ndvi](/tag/ndvi), [boston](/tag/boston), [saugus](/tag/saugus), [passenger-pigeon](/tag/passenger-pigeon), [landfill](/tag/landfill), [infragram](/tag/infragram), [waste](/tag/waste)
 
 ----
 

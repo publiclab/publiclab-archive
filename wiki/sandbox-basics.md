@@ -6,12 +6,12 @@ author: bhamster
 path: /wiki/sandbox-basics.md
 nid: 30718
 uid: 664477
-
+cids: 
 ---
 
 # sandbox-basics
 
-by [bhamster](../profile/bhamster)
+by [bhamster](/profile/bhamster)
 
 May 10, 2022 17:03 | Tags: 
 

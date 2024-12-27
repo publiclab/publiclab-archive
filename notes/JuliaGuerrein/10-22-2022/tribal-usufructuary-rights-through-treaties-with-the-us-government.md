@@ -6,18 +6,16 @@ author: JuliaGuerrein
 path: /notes/JuliaGuerrein/10-22-2022/tribal-usufructuary-rights-through-treaties-with-the-us-government.md
 nid: 35724
 uid: 796025
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/240/original/51676617438_640bf3f1b4_b.jpg)
 
 # Tribal usufructuary rights through treaties with the US Government
 
-by [JuliaGuerrein](../../../profile/JuliaGuerrein) | October 22, 2022 22:48
+by [JuliaGuerrein](/profile/JuliaGuerrein) | October 22, 2022 22:48
 
-October 22, 2022 22:48 | Tags: [minnesota](../tag/minnesota), [location:blurred](../tag/location:blurred), [lat:44](../tag/lat:44), [place:united-states](../tag/place:united-states), [zoom:6](../tag/zoom:6), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [lon:-93](../tag/lon:-93), [treaty-rights](../tag/treaty-rights), [environmental-law](../tag/environmental-law)
+October 22, 2022 22:48 | Tags: [minnesota](/tag/minnesota), [location:blurred](/tag/location:blurred), [lat:44](/tag/lat:44), [place:united-states](/tag/place:united-states), [zoom:6](/tag/zoom:6), [mn-land-manoomin-protection](/tag/mn-land-manoomin-protection), [lon:-93](/tag/lon:-93), [treaty-rights](/tag/treaty-rights), [environmental-law](/tag/environmental-law)
 
 ----
 

@@ -6,14 +6,14 @@ author: vjpixel
 path: /wiki/water-quality-indices.md
 nid: 12162
 uid: 420617
-
+cids: 
 ---
 
 # water quality indices
 
-by [vjpixel](../profile/vjpixel), [danbeavers](../profile/danbeavers)
+by [vjpixel](/profile/vjpixel), [danbeavers](/profile/danbeavers)
 
-August 24, 2015 03:15 | Tags: [water-quality](../tag/water-quality), [list:plots-waterquality](../tag/list:plots-waterquality), [parent:mae-d-agua](../tag/parent:mae-d-agua), [parent:water-quality](../tag/parent:water-quality)
+August 24, 2015 03:15 | Tags: [water-quality](/tag/water-quality), [list:plots-waterquality](/tag/list:plots-waterquality), [parent:mae-d-agua](/tag/parent:mae-d-agua), [parent:water-quality](/tag/parent:water-quality)
 
 ----
 

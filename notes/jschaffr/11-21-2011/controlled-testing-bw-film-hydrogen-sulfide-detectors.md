@@ -6,18 +6,16 @@ author: jschaffr
 path: /notes/jschaffr/11-21-2011/controlled-testing-bw-film-hydrogen-sulfide-detectors.md
 nid: 575
 uid: 315
-
 cids: 346,355
-
 ---
 
 ![](https://publiclab.org/sites/default/files/controlled_hirez_rgb_1.jpg)
 
 # Controlled Testing with B&W Film Hydrogen Sulfide Detectors
 
-by [jschaffr](../../../profile/jschaffr) | November 21, 2011 19:45
+by [jschaffr](/profile/jschaffr) | November 21, 2011 19:45
 
-November 21, 2011 19:45 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper)
+November 21, 2011 19:45 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [h2s-photopaper](/tag/h2s-photopaper)
 
 ----
 

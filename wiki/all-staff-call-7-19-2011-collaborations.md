@@ -6,12 +6,12 @@ author: warren
 path: /wiki/all-staff-call-7-19-2011-collaborations.md
 nid: 391
 uid: 1
-
+cids: 
 ---
 
 # all staff call 7 19 2011 collaborations
 
-by [liz](../profile/liz), [warren](../profile/warren)
+by [liz](/profile/liz), [warren](/profile/warren)
 
 July 19, 2011 21:48 | Tags: 
 

@@ -6,18 +6,16 @@ author: zengirl2
 path: /notes/Zengirl2/10-04-2018/5-awesome-tech-moments-at-open-hardware-summit-tech-opensource-arduino-raspberrypi-diy-science.md
 nid: 17224
 uid: 423961
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/766/original/Badge.jpg)
 
 # 5 Awesome Tech Moments at Open Hardware Summit #tech #opensource #Arduino #raspberrypi #diy #science
 
-by [zengirl2](../../../profile/zengirl2) | October 04, 2018 20:09
+by [zengirl2](/profile/zengirl2) | October 04, 2018 20:09
 
-October 04, 2018 20:09 | Tags: [arduino](../tag/arduino), [boston](../tag/boston), [open-source](../tag/open-source), [open-hardware](../tag/open-hardware), [event](../tag/event), [massachusetts](../tag/massachusetts), [northeast](../tag/northeast), [oshwa](../tag/oshwa)
+October 04, 2018 20:09 | Tags: [arduino](/tag/arduino), [boston](/tag/boston), [open-source](/tag/open-source), [open-hardware](/tag/open-hardware), [event](/tag/event), [massachusetts](/tag/massachusetts), [northeast](/tag/northeast), [oshwa](/tag/oshwa)
 
 ----
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/juice-jug-rig.md
 nid: 1854
 uid: 1
-
+cids: 
 ---
 
 # Juice jug rig
 
-by [warren](../profile/warren), [mathew](../profile/mathew)
+by [warren](/profile/warren), [mathew](/profile/mathew)
 
-April 30, 2012 22:09 | Tags: [photo-rig](../tag/photo-rig)
+April 30, 2012 22:09 | Tags: [photo-rig](/tag/photo-rig)
 
 ----
 

@@ -6,18 +6,16 @@ author: gonzoearth
 path: /notes/gonzoearth/9-29-2012/diy-map-making-balloon-view-los-angeles.md
 nid: 4092
 uid: 12
-
 cids: 1528
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen Shot 2012-09-28 at 9.45.19 PM.png)
 
 # DIY Map Making Balloon View of Los Angeles
 
-by [gonzoearth](../../../profile/gonzoearth) | September 29, 2012 04:47
+by [gonzoearth](/profile/gonzoearth) | September 29, 2012 04:47
 
-September 29, 2012 04:47 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
+September 29, 2012 04:47 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping)
 
 ----
 

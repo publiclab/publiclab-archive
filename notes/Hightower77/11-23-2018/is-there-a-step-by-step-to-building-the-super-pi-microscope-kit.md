@@ -6,16 +6,14 @@ author: Hightower77
 path: /notes/Hightower77/11-23-2018/is-there-a-step-by-step-to-building-the-super-pi-microscope-kit.md
 nid: 17742
 uid: 560996
-
 cids: 21349,21352,23290
-
 ---
 
 # Is there a step by step to building the super pi Microscope kit
 
-by [Hightower77](../../../profile/Hightower77) | November 23, 2018 23:48
+by [Hightower77](/profile/Hightower77) | November 23, 2018 23:48
 
-November 23, 2018 23:48 | Tags: [question:community-microscope](../tag/question:community-microscope), [first-time-poster](../tag/first-time-poster)
+November 23, 2018 23:48 | Tags: [question:community-microscope](/tag/question:community-microscope), [first-time-poster](/tag/first-time-poster)
 
 ----
 

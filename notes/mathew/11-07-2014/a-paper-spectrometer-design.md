@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/11-07-2014/a-paper-spectrometer-design.md
 nid: 11324
 uid: 4
-
 cids: 10708,10712,10715,10716,10717,10719,10918
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/766/original/IMG_20141106_161031.jpg)
 
 # a paper spectrometer design
 
-by [mathew](../../../profile/mathew) | November 07, 2014 21:27
+by [mathew](/profile/mathew) | November 07, 2014 21:27
 
-November 07, 2014 21:27 | Tags: [spectrometer](../tag/spectrometer), [desktop-spectrometer](../tag/desktop-spectrometer), [fold-up](../tag/fold-up), [dsk](../tag/dsk), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [paper](../tag/paper)
+November 07, 2014 21:27 | Tags: [spectrometer](/tag/spectrometer), [desktop-spectrometer](/tag/desktop-spectrometer), [fold-up](/tag/fold-up), [dsk](/tag/dsk), [oil-testing-kit](/tag/oil-testing-kit), [barnstar:photo-documentation](/tag/barnstar:photo-documentation), [paper](/tag/paper)
 
 ----
 

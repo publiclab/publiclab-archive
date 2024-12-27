@@ -6,16 +6,16 @@ author: warren
 path: /wiki/mini-balloon-kit.md
 nid: 14513
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/735/original/tmp_27876-OI000115_2-861075295.jpg)
 
 # Mini Balloon Kit
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-June 09, 2017 18:29 | Tags: [balloon-mapping](../tag/balloon-mapping), [aerial-photography](../tag/aerial-photography), [aerial-mapping](../tag/aerial-mapping), [parent:balloon-mapping](../tag/parent:balloon-mapping), [prototyping](../tag/prototyping), [mini-balloon-kit](../tag/mini-balloon-kit), [kite-](../tag/kite-)
+June 09, 2017 18:29 | Tags: [balloon-mapping](/tag/balloon-mapping), [aerial-photography](/tag/aerial-photography), [aerial-mapping](/tag/aerial-mapping), [parent:balloon-mapping](/tag/parent:balloon-mapping), [prototyping](/tag/prototyping), [mini-balloon-kit](/tag/mini-balloon-kit), [kite-](/tag/kite-)
 
 ----
 
@@ -51,12 +51,12 @@ Also see posts on #kite-balloon-hybrid for some interesting ideas!
 
 ## Questions
 
-[mini-balloon-kit](../../tag/question:mini-balloon-kit)
+[mini-balloon-kit](/tag/question:mini-balloon-kit)
 
 [![IMG_20170930_165501_188.jpg](https://publiclab.org/system/images/photos/000/024/818/large/IMG_20170930_165501_188.jpg)](https://publiclab.org/system/images/photos/000/024/818/original/IMG_20170930_165501_188.jpg)
 
 ## Activities
 
-[mini-balloon-kit](../../tag/activity:mini-balloon-kit)
+[mini-balloon-kit](/tag/activity:mini-balloon-kit)
 
 

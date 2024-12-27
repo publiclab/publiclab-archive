@@ -6,16 +6,14 @@ author: Detector
 path: /notes/Detector/10-26-2021/always-blank-black-spectrum.md
 nid: 27963
 uid: 776815
-
 cids: 29370
-
 ---
 
 # Always blank, black spectrum
 
-by [Detector](../../../profile/Detector) | October 26, 2021 15:46
+by [Detector](/profile/Detector) | October 26, 2021 15:46
 
-October 26, 2021 15:46 | Tags: [spectral-workbench](../tag/spectral-workbench), [camera](../tag/camera), [question:spectral-workbench](../tag/question:spectral-workbench), [first-time-poster](../tag/first-time-poster)
+October 26, 2021 15:46 | Tags: [spectral-workbench](/tag/spectral-workbench), [camera](/tag/camera), [question:spectral-workbench](/tag/question:spectral-workbench), [first-time-poster](/tag/first-time-poster)
 
 ----
 

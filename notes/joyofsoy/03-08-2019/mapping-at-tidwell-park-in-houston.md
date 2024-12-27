@@ -6,18 +6,16 @@ author: joyofsoy
 path: /notes/joyofsoy/03-08-2019/mapping-at-tidwell-park-in-houston.md
 nid: 18498
 uid: 540844
-
 cids: 28302
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/963/original/A.Tidwell_Park.gif)
 
 # Mapping at Tidwell Park in Houston
 
-by [joyofsoy](../../../profile/joyofsoy) | March 08, 2019 22:04
+by [joyofsoy](/profile/joyofsoy) | March 08, 2019 22:04
 
-March 08, 2019 22:04 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [mapping](../tag/mapping), [barnraising](../tag/barnraising), [balloon](../tag/balloon), [texas](../tag/texas), [houston](../tag/houston), [txbarnraising](../tag/txbarnraising), [lat:29.851429](../tag/lat:29.851429), [lon:-95.304034](../tag/lon:-95.304034)
+March 08, 2019 22:04 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [mapknitter](/tag/mapknitter), [mapping](/tag/mapping), [barnraising](/tag/barnraising), [balloon](/tag/balloon), [texas](/tag/texas), [houston](/tag/houston), [txbarnraising](/tag/txbarnraising), [lat:29.851429](/tag/lat:29.851429), [lon:-95.304034](/tag/lon:-95.304034)
 
 ----
 

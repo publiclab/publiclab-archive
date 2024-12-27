@@ -6,18 +6,16 @@ author: vaname
 path: /notes/vaname/03-02-2022/budidaya-udang-vaname.md
 nid: 30089
 uid: 790344
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/452/original/photo-1504309250229-4f08315f3b5c.jpg)
 
 # Budidaya udang vaname
 
-by [vaname](../../../profile/vaname) | March 02, 2022 10:56
+by [vaname](/profile/vaname) | March 02, 2022 10:56
 
-March 02, 2022 10:56 | Tags: [first-time-poster](../tag/first-time-poster), [aquaculture](../tag/aquaculture)
+March 02, 2022 10:56 | Tags: [first-time-poster](/tag/first-time-poster), [aquaculture](/tag/aquaculture)
 
 ----
 

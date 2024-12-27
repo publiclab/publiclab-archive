@@ -6,16 +6,14 @@ author: shinnen
 path: /notes/shinnen/06-13-2018/poor-focus-after-conversion-of-ixus-40-sd300.md
 nid: 16493
 uid: 460991
-
 cids: 19814,19817,19819,19820,19821,21521
-
 ---
 
 # poor focus after conversion of Ixus 40 (SD300)
 
-by [shinnen](../../../profile/shinnen) | June 13, 2018 14:33
+by [shinnen](/profile/shinnen) | June 13, 2018 14:33
 
-June 13, 2018 14:33 | Tags: [seeks:replications](../tag/seeks:replications), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion), [infrared-camera-conversion](../tag/infrared-camera-conversion), [first-time-poster](../tag/first-time-poster)
+June 13, 2018 14:33 | Tags: [seeks:replications](/tag/seeks:replications), [activity:infrared-camera-conversion](/tag/activity:infrared-camera-conversion), [infrared-camera-conversion](/tag/infrared-camera-conversion), [first-time-poster](/tag/first-time-poster)
 
 ----
 

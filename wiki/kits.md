@@ -6,16 +6,16 @@ author: warren
 path: /wiki/kits.md
 nid: 99
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/825/original/Screen_Shot_2017-12-06_at_12.20.38_PM.png)
 
 # Kits Initiative
 
-by [mimiss](../profile/mimiss), [warren](../profile/warren), [liz](../profile/liz), [souravirus](../profile/souravirus), [tonyc](../profile/tonyc), [Shannon](../profile/Shannon), [Becki](../profile/Becki), [natalie](../profile/natalie), [mathew](../profile/mathew)
+by [mimiss](/profile/mimiss), [warren](/profile/warren), [liz](/profile/liz), [souravirus](/profile/souravirus), [tonyc](/profile/tonyc), [Shannon](/profile/Shannon), [Becki](/profile/Becki), [natalie](/profile/natalie), [mathew](/profile/mathew)
 
-February 22, 2011 22:27 | Tags: [open-hardware](../tag/open-hardware), [kits](../tag/kits), [special](../tag/special), [kits-initiative](../tag/kits-initiative), [hardware](../tag/hardware), [locked](../tag/locked), [location:blurred](../tag/location:blurred), [zoom:6](../tag/zoom:6), [lat:46](../tag/lat:46), [lon:7](../tag/lon:7), [place:switzerland](../tag/place:switzerland)
+February 22, 2011 22:27 | Tags: [open-hardware](/tag/open-hardware), [kits](/tag/kits), [special](/tag/special), [kits-initiative](/tag/kits-initiative), [hardware](/tag/hardware), [locked](/tag/locked), [location:blurred](/tag/location:blurred), [zoom:6](/tag/zoom:6), [lat:46](/tag/lat:46), [lon:7](/tag/lon:7), [place:switzerland](/tag/place:switzerland)
 
 ----
 
@@ -73,7 +73,7 @@ Working through the open process allows for helpful feedback, quick design itera
 
 ## Questions about Community Kits
 
-[community-kits](../../tag/question:community-kits)
+[community-kits](/tag/question:community-kits)
 
 Through our hosting program, we seek to help develop new and novel kits, guides, and curriculum to engage over 10,000 participants in production of their own civic data. In doing so, we seek to add to a growing catalog of innovative tools, with an ever-broadening reach and accessibility.
 
@@ -83,7 +83,7 @@ Through our hosting program, we seek to help develop new and novel kits, guides,
 
 About sourcing, troubleshooting, etc!
 
-[kits](../../tag/question:kits)
+[kits](/tag/question:kits)
 
 
 ****

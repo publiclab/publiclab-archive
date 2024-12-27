@@ -6,12 +6,12 @@ author: makiyang614
 path: /wiki/i-need-help-with-some-transistor-math-for-a-74hc595.md
 nid: 14507
 uid: 508574
-
+cids: 
 ---
 
 # I need help with some transistor math for a 74hc595
 
-by [makiyang614](../profile/makiyang614)
+by [makiyang614](/profile/makiyang614)
 
 June 07, 2017 09:08 | Tags: 
 

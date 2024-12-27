@@ -6,18 +6,16 @@ author: Ashan
 path: /notes/Ashan/06-14-2017/introducing-question-button-in-wiki-pages.md
 nid: 14536
 uid: 502016
-
 cids: 16876,16883,16886,16892,16893
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/789/original/Selection_015.png)
 
 # Introducing Question Button in Wiki Pages
 
-by [Ashan](../../../profile/Ashan) | June 14, 2017 09:49
+by [Ashan](/profile/Ashan) | June 14, 2017 09:49
 
-June 14, 2017 09:49 | Tags: [website](../tag/website), [gsoc](../tag/gsoc), [demo](../tag/demo), [rich-wikis](../tag/rich-wikis), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [questions](../tag/questions)
+June 14, 2017 09:49 | Tags: [website](/tag/website), [gsoc](/tag/gsoc), [demo](/tag/demo), [rich-wikis](/tag/rich-wikis), [gsoc-2017](/tag/gsoc-2017), [soc](/tag/soc), [soc-2017](/tag/soc-2017), [questions](/tag/questions)
 
 ----
 

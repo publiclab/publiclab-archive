@@ -6,12 +6,12 @@ author: warren
 path: /feature/footer-notice.md
 nid: 13824
 uid: 1
-
+cids: 
 ---
 
 # footer-notice
 
-December 29, 2016 20:18 | Tags: [content](../tag/content), [language-dropdown](../tag/language-dropdown), [d5d8dc](../tag/d5d8dc)
+December 29, 2016 20:18 | Tags: [content](/tag/content), [language-dropdown](/tag/language-dropdown), [d5d8dc](/tag/d5d8dc)
 
 ----
 

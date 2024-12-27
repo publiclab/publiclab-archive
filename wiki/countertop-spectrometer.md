@@ -6,14 +6,14 @@ author: warren
 path: /wiki/countertop-spectrometer.md
 nid: 6220
 uid: 1
-
+cids: 
 ---
 
 # Countertop Spectrometer
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-March 06, 2013 14:51 | Tags: [spectrometer](../tag/spectrometer), [countertop-spectrometer](../tag/countertop-spectrometer)
+March 06, 2013 14:51 | Tags: [spectrometer](/tag/spectrometer), [countertop-spectrometer](/tag/countertop-spectrometer)
 
 ----
 

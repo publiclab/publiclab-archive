@@ -6,18 +6,16 @@ author: davidmanthos
 path: /notes/davidmanthos/09-01-2013/skytruthing-the-bakken-shale.md
 nid: 9086
 uid: 224945
-
 cids: 6757,6758,6760,7870,7871,7930
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/368/original/Bakken.Marble.Annotated.png)
 
 # Skytruthing the Bakken Shale 
 
-by [davidmanthos](../../../profile/davidmanthos) | September 01, 2013 05:10
+by [davidmanthos](/profile/davidmanthos) | September 01, 2013 05:10
 
-September 01, 2013 05:10 | Tags: [balloon-mapping](../tag/balloon-mapping), [bakken](../tag/bakken), [bakken-shale](../tag/bakken-shale), [shale](../tag/shale), [skytruth](../tag/skytruth), [flares](../tag/flares), [natural-gas](../tag/natural-gas)
+September 01, 2013 05:10 | Tags: [balloon-mapping](/tag/balloon-mapping), [bakken](/tag/bakken), [bakken-shale](/tag/bakken-shale), [shale](/tag/shale), [skytruth](/tag/skytruth), [flares](/tag/flares), [natural-gas](/tag/natural-gas)
 
 ----
 

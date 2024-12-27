@@ -6,18 +6,16 @@ author: EdithCheung
 path: /notes/EdithCheung/11-27-2018/public-lab-code-of-conduct-chinese-version.md
 nid: 17760
 uid: 513991
-
 cids: 21373
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/853/original/image.png)
 
 # Public Lab Code of Conduct－Chinese Version
 
-by [EdithCheung](../../../profile/EdithCheung) | November 27, 2018 02:31
+by [EdithCheung](/profile/EdithCheung) | November 27, 2018 02:31
 
-November 27, 2018 02:31 | Tags: [china](../tag/china), [conduct](../tag/conduct), [code-of-conduct](../tag/code-of-conduct), [lang:zh](../tag/lang:zh), [first-time-poster](../tag/first-time-poster), [chinese-version](../tag/chinese-version)
+November 27, 2018 02:31 | Tags: [china](/tag/china), [conduct](/tag/conduct), [code-of-conduct](/tag/code-of-conduct), [lang:zh](/tag/lang:zh), [first-time-poster](/tag/first-time-poster), [chinese-version](/tag/chinese-version)
 
 ----
 

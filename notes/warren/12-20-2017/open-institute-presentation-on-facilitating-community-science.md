@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/12-20-2017/open-institute-presentation-on-facilitating-community-science.md
 nid: 15401
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/983/original/Screenshot_2017-12-20_at_10.59.03_AM.png)
 
 # Open Institute presentation on facilitating community science
 
-by [warren](../../../profile/warren) | December 20, 2017 10:05
+by [warren](/profile/warren) | December 20, 2017 10:05
 
-December 20, 2017 10:05 | Tags: [open-source](../tag/open-source), [community](../tag/community), [presentations](../tag/presentations), [talk](../tag/talk), [eu](../tag/eu), [facilitation](../tag/facilitation), [madeira](../tag/madeira), [slides](../tag/slides), [portugal](../tag/portugal), [openness](../tag/openness)
+December 20, 2017 10:05 | Tags: [open-source](/tag/open-source), [community](/tag/community), [presentations](/tag/presentations), [talk](/tag/talk), [eu](/tag/eu), [facilitation](/tag/facilitation), [madeira](/tag/madeira), [slides](/tag/slides), [portugal](/tag/portugal), [openness](/tag/openness)
 
 ----
 

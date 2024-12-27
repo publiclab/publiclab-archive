@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/02-27-2014/more-updated-maps-construction-site-activities-near-mocho-park.md
 nid: 10075
 uid: 77
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/073/original/2-27-14_PS_Panorama1.jpg)
 
 # More updated maps - construction site activities near Mocho Park
 
-by [patcoyle](../../../profile/patcoyle) | February 27, 2014 23:41
+by [patcoyle](/profile/patcoyle) | February 27, 2014 23:41
 
-February 27, 2014 23:41 | Tags: [time-lapse](../tag/time-lapse), [kap](../tag/kap), [sx260hs](../tag/sx260hs), [construction](../tag/construction), [juice-bottle-riig](../tag/juice-bottle-riig), [location:blurred](../tag/location:blurred), [zoom:17](../tag/zoom:17), [lat:37.67](../tag/lat:37.67), [lon:-121.78](../tag/lon:-121.78), [place:watsonville-ca-95076-united-states](../tag/place:watsonville-ca-95076-united-states)
+February 27, 2014 23:41 | Tags: [time-lapse](/tag/time-lapse), [kap](/tag/kap), [sx260hs](/tag/sx260hs), [construction](/tag/construction), [juice-bottle-riig](/tag/juice-bottle-riig), [location:blurred](/tag/location:blurred), [zoom:17](/tag/zoom:17), [lat:37.67](/tag/lat:37.67), [lon:-121.78](/tag/lon:-121.78), [place:watsonville-ca-95076-united-states](/tag/place:watsonville-ca-95076-united-states)
 
 ----
 

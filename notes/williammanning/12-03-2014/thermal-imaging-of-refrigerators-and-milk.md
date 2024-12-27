@@ -6,18 +6,16 @@ author: williammanning
 path: /notes/williammanning/12-03-2014/thermal-imaging-of-refrigerators-and-milk.md
 nid: 11425
 uid: 432240
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/206/original/Screen_Shot_2014-12-02_at_3.54.34_PM.png)
 
 # Thermal imaging of Refrigerators and Milk 
 
-by [williammanning](../../../profile/williammanning) | December 03, 2014 05:00
+by [williammanning](/profile/williammanning) | December 03, 2014 05:00
 
-December 03, 2014 05:00 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-imaging](../tag/thermal-imaging), [northeastern](../tag/northeastern), [milk](../tag/milk), [insulation](../tag/insulation), [refrigerators](../tag/refrigerators), [heat](../tag/heat), [upgrade:thermal-flashlight](../tag/upgrade:thermal-flashlight), [replication:625](../tag/replication:625)
+December 03, 2014 05:00 | Tags: [thermal-photography](/tag/thermal-photography), [thermal-flashlight](/tag/thermal-flashlight), [thermal-imaging](/tag/thermal-imaging), [northeastern](/tag/northeastern), [milk](/tag/milk), [insulation](/tag/insulation), [refrigerators](/tag/refrigerators), [heat](/tag/heat), [upgrade:thermal-flashlight](/tag/upgrade:thermal-flashlight), [replication:625](/tag/replication:625)
 
 ----
 

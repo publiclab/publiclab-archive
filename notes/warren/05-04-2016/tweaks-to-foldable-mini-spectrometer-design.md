@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/05-04-2016/tweaks-to-foldable-mini-spectrometer-design.md
 nid: 13076
 uid: 1
-
 cids: 17556,17578,17592,17593,17613
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/946/original/IMG_20160212_094742_%281%29.jpg)
 
 # Tweaks to foldable mini-spectrometer design
 
-by [warren](../../../profile/warren) | May 04, 2016 20:21
+by [warren](/profile/warren) | May 04, 2016 20:21
 
-May 04, 2016 20:21 | Tags: [spectrometer](../tag/spectrometer), [instructions](../tag/instructions), [foldable](../tag/foldable), [papercraft](../tag/papercraft), [silhouette-cameo](../tag/silhouette-cameo), [foldable-spectrometer](../tag/foldable-spectrometer), [printability](../tag/printability), [glue](../tag/glue), [difficulty:easy](../tag/difficulty:easy), [category:build](../tag/category:build), [upgrade:foldable-spec](../tag/upgrade:foldable-spec), [time:1h](../tag/time:1h), [status:proposal](../tag/status:proposal)
+May 04, 2016 20:21 | Tags: [spectrometer](/tag/spectrometer), [instructions](/tag/instructions), [foldable](/tag/foldable), [papercraft](/tag/papercraft), [silhouette-cameo](/tag/silhouette-cameo), [foldable-spectrometer](/tag/foldable-spectrometer), [printability](/tag/printability), [glue](/tag/glue), [difficulty:easy](/tag/difficulty:easy), [category:build](/tag/category:build), [upgrade:foldable-spec](/tag/upgrade:foldable-spec), [time:1h](/tag/time:1h), [status:proposal](/tag/status:proposal)
 
 ----
 

@@ -6,14 +6,14 @@ author: Shannon
 path: /wiki/new-projects.md
 nid: 9388
 uid: 9
-
+cids: 
 ---
 
 # New Projects
 
-by [stevie](../profile/stevie), [mcosta](../profile/mcosta), [liz](../profile/liz), [Shannon](../profile/Shannon), [warren](../profile/warren)
+by [stevie](/profile/stevie), [mcosta](/profile/mcosta), [liz](/profile/liz), [Shannon](/profile/Shannon), [warren](/profile/warren)
 
-October 02, 2013 19:12 | Tags: [community](../tag/community), [parent:website](../tag/parent:website)
+October 02, 2013 19:12 | Tags: [community](/tag/community), [parent:website](/tag/parent:website)
 
 ----
 

@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/03-12-2019/how-can-nitrogen-nitrates-ammonia-be-measured.md
 nid: 18527
 uid: 1
-
 cids: 23402,23432,23504
-
 ---
 
 # How can nitrogen/nitrates/ammonia be measured?
 
-by [warren](../../../profile/warren) | March 12, 2019 21:53
+by [warren](/profile/warren) | March 12, 2019 21:53
 
-March 12, 2019 21:53 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [nitrate](../tag/nitrate), [question:nitrates](../tag/question:nitrates), [nitrogen](../tag/nitrogen), [question:nitrogen](../tag/question:nitrogen)
+March 12, 2019 21:53 | Tags: [water-quality](/tag/water-quality), [water](/tag/water), [nitrate](/tag/nitrate), [question:nitrates](/tag/question:nitrates), [nitrogen](/tag/nitrogen), [question:nitrogen](/tag/question:nitrogen)
 
 ----
 

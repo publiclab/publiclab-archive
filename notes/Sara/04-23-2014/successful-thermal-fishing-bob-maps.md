@@ -6,18 +6,16 @@ author: sara
 path: /notes/Sara/04-23-2014/successful-thermal-fishing-bob-maps.md
 nid: 10346
 uid: 8
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/822/original/Screen_Shot_2014-04-08_at_7.49.33_PM.png)
 
 # Successful Thermal Fishing Bob Maps!
 
-by [sara](../../../profile/sara) | April 23, 2014 03:58
+by [sara](/profile/sara) | April 23, 2014 03:58
 
-April 23, 2014 03:58 | Tags: [thermal-photography](../tag/thermal-photography), [boston](../tag/boston), [northeastern-university](../tag/northeastern-university), [thermal-imaging](../tag/thermal-imaging), [thermal-fishing](../tag/thermal-fishing), [water-quality](../tag/water-quality), [thermal-fishing-bob](../tag/thermal-fishing-bob), [thermal](../tag/thermal), [thermal-pollution](../tag/thermal-pollution), [heat](../tag/heat), [replication:689](../tag/replication:689)
+April 23, 2014 03:58 | Tags: [thermal-photography](/tag/thermal-photography), [boston](/tag/boston), [northeastern-university](/tag/northeastern-university), [thermal-imaging](/tag/thermal-imaging), [thermal-fishing](/tag/thermal-fishing), [water-quality](/tag/water-quality), [thermal-fishing-bob](/tag/thermal-fishing-bob), [thermal](/tag/thermal), [thermal-pollution](/tag/thermal-pollution), [heat](/tag/heat), [replication:689](/tag/replication:689)
 
 ----
 

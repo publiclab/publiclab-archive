@@ -6,18 +6,16 @@ author: justinlee
 path: /notes/justinlee/04-25-2014/free-air-testing.md
 nid: 10367
 uid: 422760
-
 cids: 8886,8913,8925,8926
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/865/original/%3F%3F%3F.bmp)
 
 # free air testing 
 
-by [justinlee](../../../profile/justinlee) | April 25, 2014 09:20
+by [justinlee](/profile/justinlee) | April 25, 2014 09:20
 
-April 25, 2014 09:20 | Tags: [air-quality](../tag/air-quality), [leukemia](../tag/leukemia)
+April 25, 2014 09:20 | Tags: [air-quality](/tag/air-quality), [leukemia](/tag/leukemia)
 
 ----
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/spectrometry-meetups.md
 nid: 6048
 uid: 1
-
+cids: 
 ---
 
 # Spectrometry Meetups
 
-by [liz](../profile/liz), [warren](../profile/warren)
+by [liz](/profile/liz), [warren](/profile/warren)
 
-February 18, 2013 21:00 | Tags: [spectrometer](../tag/spectrometer), [community](../tag/community), [meetup](../tag/meetup), [workshop](../tag/workshop), [spectrometry](../tag/spectrometry)
+February 18, 2013 21:00 | Tags: [spectrometer](/tag/spectrometer), [community](/tag/community), [meetup](/tag/meetup), [workshop](/tag/workshop), [spectrometry](/tag/spectrometry)
 
 ----
 

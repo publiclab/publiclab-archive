@@ -6,16 +6,14 @@ author: gretchengehrke
 path: /notes/gretchengehrke/10-17-2017/do-you-know-examples-of-direct-community-environmental-interventions.md
 nid: 15063
 uid: 430549
-
 cids: 17546,22669,22670,22671,22672,22673
-
 ---
 
 # Do you know examples of direct community environmental interventions?
 
-by [gretchengehrke](../../../profile/gretchengehrke) | October 17, 2017 21:29
+by [gretchengehrke](/profile/gretchengehrke) | October 17, 2017 21:29
 
-October 17, 2017 21:29 | Tags: [answered](../tag/answered), [question:question](../tag/question:question)
+October 17, 2017 21:29 | Tags: [answered](/tag/answered), [question:question](/tag/question:question)
 
 ----
 

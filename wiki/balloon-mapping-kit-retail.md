@@ -6,14 +6,14 @@ author: mathew
 path: /wiki/balloon-mapping-kit-retail.md
 nid: 813
 uid: 4
-
+cids: 
 ---
 
 # Balloon Mapping Kit (retail)
 
-by [warren](../profile/warren), [mathew](../profile/mathew)
+by [warren](/profile/warren), [mathew](/profile/mathew)
 
-February 19, 2012 03:01 | Tags: [balloon-mapping](../tag/balloon-mapping), [kits](../tag/kits), [parent:balloon-mapping](../tag/parent:balloon-mapping)
+February 19, 2012 03:01 | Tags: [balloon-mapping](/tag/balloon-mapping), [kits](/tag/kits), [parent:balloon-mapping](/tag/parent:balloon-mapping)
 
 ----
 

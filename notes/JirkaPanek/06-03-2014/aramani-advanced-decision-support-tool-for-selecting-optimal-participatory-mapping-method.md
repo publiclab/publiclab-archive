@@ -6,18 +6,16 @@ author: JirkaPanek
 path: /notes/JirkaPanek/06-03-2014/aramani-advanced-decision-support-tool-for-selecting-optimal-participatory-mapping-method.md
 nid: 10527
 uid: 179
-
 cids: 9127,9128,9130,9134
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/515/original/fig_3.JPG)
 
 # ARAMANI – Advanced decision-support tool for selecting optimal participatory mapping method
 
-by [JirkaPanek](../../../profile/JirkaPanek) | June 03, 2014 08:12
+by [JirkaPanek](/profile/JirkaPanek) | June 03, 2014 08:12
 
-June 03, 2014 08:12 | Tags: [methodologies](../tag/methodologies), [decision-support](../tag/decision-support)
+June 03, 2014 08:12 | Tags: [methodologies](/tag/methodologies), [decision-support](/tag/decision-support)
 
 ----
 

@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/01-14-2016/recent-pictures-of-my-lab-set-up.md
 nid: 12585
 uid: 461120
-
 cids: 13341
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/642/original/oct14.jpg)
 
 # Recent Pictures of my lab set up.
 
-by [dhaffnersr](../../../profile/dhaffnersr) | January 14, 2016 21:44
+by [dhaffnersr](/profile/dhaffnersr) | January 14, 2016 21:44
 
 January 14, 2016 21:44 | Tags: 
 

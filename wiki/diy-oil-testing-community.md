@@ -6,14 +6,14 @@ author: warren
 path: /wiki/diy-oil-testing-community.md
 nid: 12662
 uid: 1
-
+cids: 
 ---
 
 # DIY Oil Testing: Community
 
-by [warren](../profile/warren), [stevie](../profile/stevie)
+by [warren](/profile/warren), [stevie](/profile/stevie)
 
-February 05, 2016 23:04 | Tags: [spectrometer](../tag/spectrometer), [community](../tag/community), [spectrometry](../tag/spectrometry), [oil-testing-kit](../tag/oil-testing-kit)
+February 05, 2016 23:04 | Tags: [spectrometer](/tag/spectrometer), [community](/tag/community), [spectrometry](/tag/spectrometry), [oil-testing-kit](/tag/oil-testing-kit)
 
 ----
 

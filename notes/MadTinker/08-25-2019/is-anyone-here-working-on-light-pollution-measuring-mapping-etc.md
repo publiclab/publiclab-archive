@@ -6,16 +6,14 @@ author: MadTinker
 path: /notes/MadTinker/08-25-2019/is-anyone-here-working-on-light-pollution-measuring-mapping-etc.md
 nid: 20665
 uid: 461206
-
 cids: 25348,25352
-
 ---
 
 # Is anyone here working on light pollution? Measuring,mapping, etc? 
 
-by [MadTinker](../../../profile/MadTinker) | August 25, 2019 23:10
+by [MadTinker](/profile/MadTinker) | August 25, 2019 23:10
 
-August 25, 2019 23:10 | Tags: [question:general](../tag/question:general)
+August 25, 2019 23:10 | Tags: [question:general](/tag/question:general)
 
 ----
 

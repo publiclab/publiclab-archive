@@ -6,18 +6,16 @@ author: filimon_k
 path: /notes/filimon_k/12-14-2015/materials-used-and-instructable-for-blue-light-sensor.md
 nid: 12515
 uid: 460113
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/316/original/09088-02-L.jpg)
 
 # Materials Used and Instructable for Blue Light Sensor
 
-by [filimon_k](../../../profile/filimon_k) | December 14, 2015 04:43
+by [filimon_k](/profile/filimon_k) | December 14, 2015 04:43
 
-December 14, 2015 04:43 | Tags: [open-source](../tag/open-source), [sensors](../tag/sensors), [opensource](../tag/opensource), [light](../tag/light), [sensor](../tag/sensor), [arduino-uno](../tag/arduino-uno), [wavelength](../tag/wavelength), [bluelight](../tag/bluelight), [wearables](../tag/wearables), [photocell](../tag/photocell), [lux](../tag/lux), [wearable](../tag/wearable)
+December 14, 2015 04:43 | Tags: [open-source](/tag/open-source), [sensors](/tag/sensors), [opensource](/tag/opensource), [light](/tag/light), [sensor](/tag/sensor), [arduino-uno](/tag/arduino-uno), [wavelength](/tag/wavelength), [bluelight](/tag/bluelight), [wearables](/tag/wearables), [photocell](/tag/photocell), [lux](/tag/lux), [wearable](/tag/wearable)
 
 ----
 

@@ -6,12 +6,12 @@ author: warren
 path: /wiki/alternative-solar-materials.md
 nid: 22839
 uid: 1
-
+cids: 
 ---
 
 # Alternative solar materials
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 February 17, 2020 22:50 | Tags: 
 

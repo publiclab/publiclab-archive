@@ -6,16 +6,16 @@ author: Shannon
 path: /wiki/fellows.md
 nid: 11712
 uid: 9
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/396/original/Sadie_Prego_IMG_3844.jpg)
 
 # Public Lab Fellows Program
 
-by [stevie](../profile/stevie), [jmacha](../profile/jmacha), [bhamster](../profile/bhamster), [amocorro](../profile/amocorro), [joyofsoy](../profile/joyofsoy), [donblair](../profile/donblair), [pdhixenbaugh](../profile/pdhixenbaugh), [ygzstc](../profile/ygzstc), [Shannon](../profile/Shannon), [warren](../profile/warren)
+by [stevie](/profile/stevie), [jmacha](/profile/jmacha), [bhamster](/profile/bhamster), [amocorro](/profile/amocorro), [joyofsoy](/profile/joyofsoy), [donblair](/profile/donblair), [pdhixenbaugh](/profile/pdhixenbaugh), [ygzstc](/profile/ygzstc), [Shannon](/profile/Shannon), [warren](/profile/warren)
 
-March 21, 2015 21:31 | Tags: [community](../tag/community), [nonprofit](../tag/nonprofit), [openair](../tag/openair), [openwater](../tag/openwater), [fellows](../tag/fellows), [openland](../tag/openland), [parent:nonprofit-initiatives](../tag/parent:nonprofit-initiatives), [contribute](../tag/contribute)
+March 21, 2015 21:31 | Tags: [community](/tag/community), [nonprofit](/tag/nonprofit), [openair](/tag/openair), [openwater](/tag/openwater), [fellows](/tag/fellows), [openland](/tag/openland), [parent:nonprofit-initiatives](/tag/parent:nonprofit-initiatives), [contribute](/tag/contribute)
 
 ----
 

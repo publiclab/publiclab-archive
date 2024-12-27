@@ -6,18 +6,16 @@ author: bhamster
 path: /notes/bhamster/04-28-2021/event-welcome-to-a-research-area-review-on-mapping-for-organizing-advocacy.md
 nid: 26389
 uid: 664477
-
 cids: 28728,28730,28731,28735,28736,28737,28741,28742,28745,28746,28762,28763,28776,28794,28812,28813
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/602/original/join_conversation.png)
 
 # Event: Welcome to a research area review on mapping for organizing & advocacy
 
-by [bhamster](../../../profile/bhamster) | April 28, 2021 17:37
+by [bhamster](/profile/bhamster) | April 28, 2021 17:37
 
-April 28, 2021 17:37 | Tags: [event](../tag/event), [organizing](../tag/organizing), [research](../tag/research), [event:rsvp](../tag/event:rsvp), [rsvp:liz](../tag/rsvp:liz), [advocacy](../tag/advocacy), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review), [rsvp:amocorro](../tag/rsvp:amocorro), [date:05-11-2021](../tag/date:05-11-2021), [rsvp:seankmcginnis](../tag/rsvp:seankmcginnis)
+April 28, 2021 17:37 | Tags: [event](/tag/event), [organizing](/tag/organizing), [research](/tag/research), [event:rsvp](/tag/event:rsvp), [rsvp:liz](/tag/rsvp:liz), [advocacy](/tag/advocacy), [reviews](/tag/reviews), [research-area-review](/tag/research-area-review), [rsvp:amocorro](/tag/rsvp:amocorro), [date:05-11-2021](/tag/date:05-11-2021), [rsvp:seankmcginnis](/tag/rsvp:seankmcginnis)
 
 ----
 

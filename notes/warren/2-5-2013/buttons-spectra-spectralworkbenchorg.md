@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/2-5-2013/buttons-spectra-spectralworkbenchorg.md
 nid: 5895
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/like-buttons.png)
 
 # Like buttons for spectra on SpectralWorkbench.org
 
-by [warren](../../../profile/warren) | February 06, 2013 00:23
+by [warren](/profile/warren) | February 06, 2013 00:23
 
-February 06, 2013 00:23 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench)
+February 06, 2013 00:23 | Tags: [spectrometer](/tag/spectrometer), [spectralworkbench](/tag/spectralworkbench)
 
 ----
 

@@ -6,18 +6,16 @@ author: Chernabog
 path: /notes/Chernabog/01-28-2014/canon-a480-nir-conversion.md
 nid: 9985
 uid: 319651
-
 cids: 8093,8097,8099,8126,8128,19811,19812
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/678/original/A480_NIR_Conversion.JPG)
 
 # Canon A480 NIR Conversion
 
-by [Chernabog](../../../profile/Chernabog) | January 28, 2014 00:33
+by [Chernabog](/profile/Chernabog) | January 28, 2014 00:33
 
-January 28, 2014 00:33 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [conversion](../tag/conversion), [filter](../tag/filter), [infragram](../tag/infragram), [a480](../tag/a480), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion)
+January 28, 2014 00:33 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [conversion](/tag/conversion), [filter](/tag/filter), [infragram](/tag/infragram), [a480](/tag/a480), [activity:infrared-camera-conversion](/tag/activity:infrared-camera-conversion)
 
 ----
 

@@ -6,14 +6,14 @@ author: mathew
 path: /wiki/riffle-protocol.md
 nid: 12165
 uid: 4
-
+cids: 
 ---
 
 # riffle-protocol
 
-by [mathew](../profile/mathew)
+by [mathew](/profile/mathew)
 
-August 24, 2015 20:52 | Tags: [riffle](../tag/riffle), [parent:riffle](../tag/parent:riffle)
+August 24, 2015 20:52 | Tags: [riffle](/tag/riffle), [parent:riffle](/tag/parent:riffle)
 
 ----
 

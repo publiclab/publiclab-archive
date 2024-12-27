@@ -6,18 +6,16 @@ author: britney13
 path: /notes/britney13/2-15-2013/air-quality-egg-my-kitchen.md
 nid: 5999
 uid: 50452
-
 cids: 3516,3523,3586,3591,3597,3599
-
 ---
 
 ![](https://publiclab.org/sites/default/files/an_1.jpeg)
 
 # Air quality egg in my kitchen
 
-by [britney13](../../../profile/britney13) | February 15, 2013 15:45
+by [britney13](/profile/britney13) | February 15, 2013 15:45
 
-February 15, 2013 15:45 | Tags: [new-york-city](../tag/new-york-city), [cypress-hills](../tag/cypress-hills), [chaq](../tag/chaq), [first-time-poster](../tag/first-time-poster)
+February 15, 2013 15:45 | Tags: [new-york-city](/tag/new-york-city), [cypress-hills](/tag/cypress-hills), [chaq](/tag/chaq), [first-time-poster](/tag/first-time-poster)
 
 ----
 

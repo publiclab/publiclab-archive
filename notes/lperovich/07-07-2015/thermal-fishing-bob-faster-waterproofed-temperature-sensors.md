@@ -6,18 +6,16 @@ author: lperovich
 path: /notes/lperovich/07-07-2015/thermal-fishing-bob-faster-waterproofed-temperature-sensors.md
 nid: 12037
 uid: 443410
-
 cids: 12115
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/560/original/IMAG3048.jpg)
 
 # Thermal Fishing Bob: faster waterproofed temperature sensors
 
-by [lperovich](../../../profile/lperovich) | July 07, 2015 22:20
+by [lperovich](/profile/lperovich) | July 07, 2015 22:20
 
-July 07, 2015 22:20 | Tags: [water-quality](../tag/water-quality), [thermal-fishing-bob](../tag/thermal-fishing-bob), [thermal](../tag/thermal), [thermal-pollution](../tag/thermal-pollution), [heat](../tag/heat), [replication:689](../tag/replication:689)
+July 07, 2015 22:20 | Tags: [water-quality](/tag/water-quality), [thermal-fishing-bob](/tag/thermal-fishing-bob), [thermal](/tag/thermal), [thermal-pollution](/tag/thermal-pollution), [heat](/tag/heat), [replication:689](/tag/replication:689)
 
 ----
 

@@ -6,18 +6,16 @@ author: Fetian_Anas
 path: /notes/Fetian_Anas/04-18-2022/gsoc-proposal-mapknitter-local.md
 nid: 30478
 uid: 794281
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/073/original/GSOC.png)
 
 # GSoC"proposal: MapKnitter Local
 
-by [Fetian_Anas](../../../profile/Fetian_Anas) | April 18, 2022 22:04
+by [Fetian_Anas](/profile/Fetian_Anas) | April 18, 2022 22:04
 
-April 18, 2022 22:04 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [lat:20](../tag/lat:20), [lon:70](../tag/lon:70), [zoom:4](../tag/zoom:4), [gsoc-2022](../tag/gsoc-2022), [gsoc-2022-proposals](../tag/gsoc-2022-proposals)
+April 18, 2022 22:04 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [soc](/tag/soc), [first-time-poster](/tag/first-time-poster), [lat:20](/tag/lat:20), [lon:70](/tag/lon:70), [zoom:4](/tag/zoom:4), [gsoc-2022](/tag/gsoc-2022), [gsoc-2022-proposals](/tag/gsoc-2022-proposals)
 
 ----
 

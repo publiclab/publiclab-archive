@@ -6,16 +6,14 @@ author: OrionAllgaier
 path: /notes/OrionAllgaier/03-13-2019/questions-from-the-university-of-wisconsin-eau-claire.md
 nid: 18544
 uid: 526982
-
 cids: 22144,22156,22157,22158,22159
-
 ---
 
 # Questions about Plantower sensors from the University of Wisconsin - Eau Claire
 
-by [OrionAllgaier](../../../profile/OrionAllgaier) | March 13, 2019 20:46
+by [OrionAllgaier](/profile/OrionAllgaier) | March 13, 2019 20:46
 
-March 13, 2019 20:46 | Tags: [air-quality](../tag/air-quality), [question:air-monitoring](../tag/question:air-monitoring), [question:air-sensors](../tag/question:air-sensors), [plantower](../tag/plantower), [question:purpleair](../tag/question:purpleair), [first-time-poster](../tag/first-time-poster), [question:simple-air-sensor](../tag/question:simple-air-sensor), [simple-air-sensor](../tag/simple-air-sensor)
+March 13, 2019 20:46 | Tags: [air-quality](/tag/air-quality), [question:air-monitoring](/tag/question:air-monitoring), [question:air-sensors](/tag/question:air-sensors), [plantower](/tag/plantower), [question:purpleair](/tag/question:purpleair), [first-time-poster](/tag/first-time-poster), [question:simple-air-sensor](/tag/question:simple-air-sensor), [simple-air-sensor](/tag/simple-air-sensor)
 
 ----
 

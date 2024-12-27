@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/10-19-2012/balloon-kit-15-changes.md
 nid: 4516
 uid: 4
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/20121012_232030.jpg)
 
 # Balloon Kit 1.5 changes
 
-by [mathew](../../../profile/mathew) | October 19, 2012 23:52
+by [mathew](/profile/mathew) | October 19, 2012 23:52
 
-October 19, 2012 23:52 | Tags: [balloon-mapping](../tag/balloon-mapping), [retail](../tag/retail), [balloon-mapping-kit](../tag/balloon-mapping-kit)
+October 19, 2012 23:52 | Tags: [balloon-mapping](/tag/balloon-mapping), [retail](/tag/retail), [balloon-mapping-kit](/tag/balloon-mapping-kit)
 
 ----
 

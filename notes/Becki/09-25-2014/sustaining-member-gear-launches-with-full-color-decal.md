@@ -6,18 +6,16 @@ author: Becki
 path: /notes/Becki/09-25-2014/sustaining-member-gear-launches-with-full-color-decal.md
 nid: 11186
 uid: 46673
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/030/original/decals_in_baggie-medium.jpg)
 
 # Sustaining Member gear launches with full color decal!
 
-by [Becki](../../../profile/Becki) | September 25, 2014 17:17
+by [Becki](/profile/Becki) | September 25, 2014 17:17
 
-September 25, 2014 17:17 | Tags: [donation](../tag/donation), [sustaining-members](../tag/sustaining-members)
+September 25, 2014 17:17 | Tags: [donation](/tag/donation), [sustaining-members](/tag/sustaining-members)
 
 ----
 

@@ -6,18 +6,16 @@ author: kgradow1
 path: /notes/kgradow1/06-16-2020/updated-list-of-epa-to-methods.md
 nid: 23867
 uid: 297929
-
 cids: 27038
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/812/original/Screen_Shot_2020-06-16_at_5.15.26_PM.png)
 
 # Updated list of EPA TO methods?
 
-by [kgradow1](../../../profile/kgradow1) | June 16, 2020 21:12
+by [kgradow1](/profile/kgradow1) | June 16, 2020 21:12
 
-June 16, 2020 21:12 | Tags: [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [question:general](../tag/question:general), [general](../tag/general), [bucket-monitor](../tag/bucket-monitor), [question:bucket-monitor](../tag/question:bucket-monitor)
+June 16, 2020 21:12 | Tags: [air-quality](/tag/air-quality), [question:air-quality](/tag/question:air-quality), [question:general](/tag/question:general), [general](/tag/general), [bucket-monitor](/tag/bucket-monitor), [question:bucket-monitor](/tag/question:bucket-monitor)
 
 ----
 

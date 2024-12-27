@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/08-03-2014/state-of-the-science-the-oil-testing-kit.md
 nid: 11010
 uid: 4
-
 cids: 9755,10330,11026
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/822/original/Screen_Shot_2014-08-03_at_1.29.22_PM.png)
 
 # State of the Science: The Oil Testing Kit
 
-by [mathew](../../../profile/mathew) | August 03, 2014 21:12
+by [mathew](/profile/mathew) | August 03, 2014 21:12
 
-August 03, 2014 21:12 | Tags: [spectrometer](../tag/spectrometer), [video](../tag/video), [oil-testing-kit](../tag/oil-testing-kit), [with:warren](../tag/with:warren)
+August 03, 2014 21:12 | Tags: [spectrometer](/tag/spectrometer), [video](/tag/video), [oil-testing-kit](/tag/oil-testing-kit), [with:warren](/tag/with:warren)
 
 ----
 

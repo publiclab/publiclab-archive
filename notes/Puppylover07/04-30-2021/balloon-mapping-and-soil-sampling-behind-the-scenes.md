@@ -6,18 +6,16 @@ author: Puppylover07
 path: /notes/Puppylover07/04-30-2021/balloon-mapping-and-soil-sampling-behind-the-scenes.md
 nid: 26427
 uid: 754788
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/630/original/MicrosoftTeams-image.png)
 
 # Balloon mapping and Soil sampling behind the scenes
 
-by [Puppylover07](../../../profile/Puppylover07) | April 30, 2021 18:35
+by [Puppylover07](/profile/Puppylover07) | April 30, 2021 18:35
 
-April 30, 2021 18:35 | Tags: [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:30.043257](../tag/lat:30.043257), [lon:-90.560086](../tag/lon:-90.560086)
+April 30, 2021 18:35 | Tags: [first-time-poster](/tag/first-time-poster), [zoom:6](/tag/zoom:6), [lat:30.043257](/tag/lat:30.043257), [lon:-90.560086](/tag/lon:-90.560086)
 
 ----
 

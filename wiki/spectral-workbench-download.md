@@ -6,12 +6,12 @@ author: warren
 path: /wiki/spectral-workbench-download.md
 nid: 597
 uid: 1
-
+cids: 
 ---
 
 # Spectral Workbench download
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 November 29, 2011 20:06 | Tags: 
 

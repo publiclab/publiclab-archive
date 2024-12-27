@@ -6,18 +6,16 @@ author: janezhz
 path: /notes/janezhz/07-15-2013/small-test-tube-with-6-ml-sample-water.md
 nid: 8894
 uid: 170107
-
 cids: 6343,6345
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/814/original/6ml_tube.jpg)
 
 # Small test tube with 6 ml sample water
 
-by [janezhz](../../../profile/janezhz) | July 15, 2013 20:49
+by [janezhz](/profile/janezhz) | July 15, 2013 20:49
 
-July 15, 2013 20:49 | Tags: [spectrometer](../tag/spectrometer), [water](../tag/water), [minnesota](../tag/minnesota), [yea-corps](../tag/yea-corps)
+July 15, 2013 20:49 | Tags: [spectrometer](/tag/spectrometer), [water](/tag/water), [minnesota](/tag/minnesota), [yea-corps](/tag/yea-corps)
 
 ----
 

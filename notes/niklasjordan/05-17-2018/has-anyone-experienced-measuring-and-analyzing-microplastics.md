@@ -6,16 +6,14 @@ author: niklasjordan
 path: /notes/niklasjordan/05-17-2018/has-anyone-experienced-measuring-and-analyzing-microplastics.md
 nid: 16361
 uid: 531062
-
 cids: 19703,23093,23097,23293
-
 ---
 
 # Has anyone experienced measuring and analyzing microplastics?
 
-by [niklasjordan](../../../profile/niklasjordan) | May 17, 2018 13:27
+by [niklasjordan](/profile/niklasjordan) | May 17, 2018 13:27
 
-May 17, 2018 13:27 | Tags: [answered](../tag/answered), [question:microplastics](../tag/question:microplastics), [microplastics](../tag/microplastics), [ftir](../tag/ftir)
+May 17, 2018 13:27 | Tags: [answered](/tag/answered), [question:microplastics](/tag/question:microplastics), [microplastics](/tag/microplastics), [ftir](/tag/ftir)
 
 ----
 

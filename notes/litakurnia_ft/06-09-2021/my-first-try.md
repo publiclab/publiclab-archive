@@ -6,18 +6,16 @@ author: litakurnia_ft
 path: /notes/litakurnia_ft/06-09-2021/my-first-try.md
 nid: 26795
 uid: 759343
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/103/original/blob)
 
 # my first try
 
-by [litakurnia_ft](../../../profile/litakurnia_ft) | June 09, 2021 09:36
+by [litakurnia_ft](/profile/litakurnia_ft) | June 09, 2021 09:36
 
-June 09, 2021 09:36 | Tags: [infragram](../tag/infragram), [multispectral-imaging](../tag/multispectral-imaging), [first-time-poster](../tag/first-time-poster), [infragram-upload](../tag/infragram-upload)
+June 09, 2021 09:36 | Tags: [infragram](/tag/infragram), [multispectral-imaging](/tag/multispectral-imaging), [first-time-poster](/tag/first-time-poster), [infragram-upload](/tag/infragram-upload)
 
 ----
 

@@ -6,16 +6,14 @@ author: namangupta
 path: /notes/namangupta/02-17-2018/gsoc-proposal.md
 nid: 15755
 uid: 522848
-
 cids: 18712,18713,18714,18715,18727,18873,18874,19038,19159,19169,19226,19231,19235,19983,19989,19992,19994,19996,19999,20000,20001,20002,20003,20006,20007,20009,20070,20071,20084,20085,20086,20185,20226,20230,20300,20316,20317,20318,20319,20466,27222,27223
-
 ---
 
 # GSoC proposal: Email integration Project
 
-by [namangupta](../../../profile/namangupta) | February 17, 2018 20:27
+by [namangupta](/profile/namangupta) | February 17, 2018 20:27
 
-February 17, 2018 20:27 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [soc-2018-email](../tag/soc-2018-email), [gsoc-2018-final](../tag/gsoc-2018-final), [first-time-poster](../tag/first-time-poster)
+February 17, 2018 20:27 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [soc](/tag/soc), [response:13975](/tag/response:13975), [gsoc-2018](/tag/gsoc-2018), [soc-2018](/tag/soc-2018), [soc-2018-proposals](/tag/soc-2018-proposals), [soc-2018-email](/tag/soc-2018-email), [gsoc-2018-final](/tag/gsoc-2018-final), [first-time-poster](/tag/first-time-poster)
 
 ----
 

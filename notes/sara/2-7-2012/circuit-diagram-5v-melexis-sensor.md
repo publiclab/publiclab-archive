@@ -6,18 +6,16 @@ author: sara
 path: /notes/sara/2-7-2012/circuit-diagram-5v-melexis-sensor.md
 nid: 762
 uid: 8
-
 cids: 519,520,525,532,533,4812,5228
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Picture 3_4.png)
 
 # Circuit Diagrams for 5V Melexis Sensor
 
-by [sara](../../../profile/sara) | February 07, 2012 17:15
+by [sara](/profile/sara) | February 07, 2012 17:15
 
-February 07, 2012 17:15 | Tags: [thermal-photography](../tag/thermal-photography)
+February 07, 2012 17:15 | Tags: [thermal-photography](/tag/thermal-photography)
 
 ----
 

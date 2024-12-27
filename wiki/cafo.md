@@ -6,16 +6,16 @@ author: warren
 path: /wiki/cafo.md
 nid: 18872
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/554/original/Farm.jpg)
 
 # CAFO
 
-by [stevie](../profile/stevie), [warren](../profile/warren)
+by [stevie](/profile/stevie), [warren](/profile/warren)
 
-March 26, 2019 20:25 | Tags: [agriculture](../tag/agriculture), [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [cafo](../tag/cafo), [runoff](../tag/runoff), [ag](../tag/ag)
+March 26, 2019 20:25 | Tags: [agriculture](/tag/agriculture), [air-quality](/tag/air-quality), [water-quality](/tag/water-quality), [cafo](/tag/cafo), [runoff](/tag/runoff), [ag](/tag/ag)
 
 ----
 
@@ -23,12 +23,12 @@ CAFOs are Concentrated Animal Feeding Operations. @zengirl2 has summarized some 
 
 ## Questions
 
-[cafo](../../tag/question:cafo)
+[cafo](/tag/question:cafo)
 
 ## Activities
 
-[tagname](../../tag/activity:tagname)
+[tagname](/tag/activity:tagname)
 
 ## Posts
 
-[cafo](../../tag/cafo)
+[cafo](/tag/cafo)

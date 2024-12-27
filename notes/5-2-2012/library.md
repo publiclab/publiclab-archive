@@ -6,16 +6,14 @@ author:
 path: /notes/5-2-2012/library.md
 nid: 2099
 uid: 0
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_3251_medium_2.JPG)
 
 # library
 
-by [](../../../profile/) | May 02, 2012 21:50
+by [](/profile/) | May 02, 2012 21:50
 
 May 02, 2012 21:50 | Tags: 
 

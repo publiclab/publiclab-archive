@@ -6,16 +6,14 @@ author: awoolverton1
 path: /notes/awoolverton1/07-07-2022/a-quick-look-at-the-health-impacts-of-air-pollutants.md
 nid: 31262
 uid: 778039
-
 cids: 
-
 ---
 
 # A Quick Look at the Health Impacts of Air Pollutants
 
-by [awoolverton1](../../../profile/awoolverton1) | July 07, 2022 22:39
+by [awoolverton1](/profile/awoolverton1) | July 07, 2022 22:39
 
-July 07, 2022 22:39 | Tags: [heavy-metals](../tag/heavy-metals), [air-quality](../tag/air-quality), [pm](../tag/pm), [vocs](../tag/vocs), [particulate-matter](../tag/particulate-matter), [zoom:6](../tag/zoom:6), [formosaplastics](../tag/formosaplastics), [volatile-organic-compounds](../tag/volatile-organic-compounds), [lat:30.017929](../tag/lat:30.017929), [lon:-90.791322](../tag/lon:-90.791322), [gameoverformosateam](../tag/gameoverformosateam), [health-effects](../tag/health-effects)
+July 07, 2022 22:39 | Tags: [heavy-metals](/tag/heavy-metals), [air-quality](/tag/air-quality), [pm](/tag/pm), [vocs](/tag/vocs), [particulate-matter](/tag/particulate-matter), [zoom:6](/tag/zoom:6), [formosaplastics](/tag/formosaplastics), [volatile-organic-compounds](/tag/volatile-organic-compounds), [lat:30.017929](/tag/lat:30.017929), [lon:-90.791322](/tag/lon:-90.791322), [gameoverformosateam](/tag/gameoverformosateam), [health-effects](/tag/health-effects)
 
 ----
 

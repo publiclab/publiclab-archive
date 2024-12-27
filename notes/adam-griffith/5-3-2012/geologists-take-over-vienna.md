@@ -6,18 +6,16 @@ author: adam-griffith
 path: /notes/adam-griffith/5-3-2012/geologists-take-over-vienna.md
 nid: 1905
 uid: 3
-
 cids: 685,686,723,724,738
-
 ---
 
 ![](https://publiclab.org/sites/default/files/New Image.JPG)
 
 # Geologists take over Vienna
 
-by [adam-griffith](../../../profile/adam-griffith) | May 03, 2012 19:25
+by [adam-griffith](/profile/adam-griffith) | May 03, 2012 19:25
 
-May 03, 2012 19:25 | Tags: [spectrometer](../tag/spectrometer), [image-compositing](../tag/image-compositing), [image-stitching](../tag/image-stitching), [conferences](../tag/conferences)
+May 03, 2012 19:25 | Tags: [spectrometer](/tag/spectrometer), [image-compositing](/tag/image-compositing), [image-stitching](/tag/image-stitching), [conferences](/tag/conferences)
 
 ----
 

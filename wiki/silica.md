@@ -6,14 +6,14 @@ author: mathew
 path: /wiki/silica.md
 nid: 10317
 uid: 4
-
+cids: 
 ---
 
 # Silica
 
-by [mathew](../profile/mathew)
+by [mathew](/profile/mathew)
 
-April 16, 2014 01:02 | Tags: [particulate-sensing](../tag/particulate-sensing), [sand](../tag/sand), [air-quality](../tag/air-quality), [fracking](../tag/fracking), [silica](../tag/silica), [frac-sand](../tag/frac-sand)
+April 16, 2014 01:02 | Tags: [particulate-sensing](/tag/particulate-sensing), [sand](/tag/sand), [air-quality](/tag/air-quality), [fracking](/tag/fracking), [silica](/tag/silica), [frac-sand](/tag/frac-sand)
 
 ----
 

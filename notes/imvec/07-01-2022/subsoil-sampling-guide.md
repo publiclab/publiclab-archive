@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/07-01-2022/subsoil-sampling-guide.md
 nid: 31172
 uid: 495038
-
 cids: 30307
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/831/original/23.jpg)
 
 # Subsoil sampling guide
 
-by [imvec](../../../profile/imvec) | July 01, 2022 21:05
+by [imvec](/profile/imvec) | July 01, 2022 21:05
 
-July 01, 2022 21:05 | Tags: [soil](../tag/soil), [guide](../tag/guide), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [new](../tag/new), [soil-testing](../tag/soil-testing), [soil-sampling](../tag/soil-sampling), [activity:soil-sampling](../tag/activity:soil-sampling), [activity:new](../tag/activity:new), [lang:en](../tag/lang:en), [with:arturunderwater](../tag/with:arturunderwater), [with:xose](../tag/with:xose), [activity:soil](../tag/activity:soil), [parent:soil](../tag/parent:soil), [parent:soil-sampling](../tag/parent:soil-sampling), [guia](../tag/guia), [soil-sampling-toolkit](../tag/soil-sampling-toolkit), [soil-sampling-main](../tag/soil-sampling-main), [subsoil-sampling](../tag/subsoil-sampling), [subsoil](../tag/subsoil)
+July 01, 2022 21:05 | Tags: [soil](/tag/soil), [guide](/tag/guide), [barnstar:photo-documentation](/tag/barnstar:photo-documentation), [new](/tag/new), [soil-testing](/tag/soil-testing), [soil-sampling](/tag/soil-sampling), [activity:soil-sampling](/tag/activity:soil-sampling), [activity:new](/tag/activity:new), [lang:en](/tag/lang:en), [with:arturunderwater](/tag/with:arturunderwater), [with:xose](/tag/with:xose), [activity:soil](/tag/activity:soil), [parent:soil](/tag/parent:soil), [parent:soil-sampling](/tag/parent:soil-sampling), [guia](/tag/guia), [soil-sampling-toolkit](/tag/soil-sampling-toolkit), [soil-sampling-main](/tag/soil-sampling-main), [subsoil-sampling](/tag/subsoil-sampling), [subsoil](/tag/subsoil)
 
 ----
 

@@ -6,16 +6,14 @@ author: read_holman
 path: /notes/read_holman/08-30-2018/help-us-test-public-water-fountains-in-nyc-for-lead.md
 nid: 17027
 uid: 540243
-
 cids: 20522,20581,20600,20601,20635,20651,20653,20654,20655,20688,20697,20715
-
 ---
 
 # Help us test public water fountains in NYC for lead!?
 
-by [read_holman](../../../profile/read_holman) | August 30, 2018 18:31
+by [read_holman](/profile/read_holman) | August 30, 2018 18:31
 
-August 30, 2018 18:31 | Tags: [heavy-metals](../tag/heavy-metals), [water-quality](../tag/water-quality), [lead](../tag/lead), [question:general](../tag/question:general), [lead-testing](../tag/lead-testing), [location:nyc](../tag/location:nyc), [location:new-york](../tag/location:new-york)
+August 30, 2018 18:31 | Tags: [heavy-metals](/tag/heavy-metals), [water-quality](/tag/water-quality), [lead](/tag/lead), [question:general](/tag/question:general), [lead-testing](/tag/lead-testing), [location:nyc](/tag/location:nyc), [location:new-york](/tag/location:new-york)
 
 ----
 

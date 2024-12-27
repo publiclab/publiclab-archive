@@ -6,14 +6,14 @@ author: warren
 path: /wiki/spectrometer-preorders.md
 nid: 4224
 uid: 1
-
+cids: 
 ---
 
 # Spectrometer preorders
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-October 06, 2012 06:00 | Tags: [spectrometer](../tag/spectrometer)
+October 06, 2012 06:00 | Tags: [spectrometer](/tag/spectrometer)
 
 ----
 

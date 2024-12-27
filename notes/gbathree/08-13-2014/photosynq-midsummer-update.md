@@ -6,18 +6,16 @@ author: gbathree
 path: /notes/gbathree/08-13-2014/photosynq-midsummer-update.md
 nid: 11042
 uid: 53164
-
 cids: 10000
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/230/original/Selection_039.png)
 
 # PhotosynQ midsummer update
 
-by [gbathree](../../../profile/gbathree) | August 13, 2014 01:12
+by [gbathree](/profile/gbathree) | August 13, 2014 01:12
 
-August 13, 2014 01:12 | Tags: [science](../tag/science), [photosynthesis](../tag/photosynthesis), [photosynq](../tag/photosynq), [plant](../tag/plant), [multispeq](../tag/multispeq)
+August 13, 2014 01:12 | Tags: [science](/tag/science), [photosynthesis](/tag/photosynthesis), [photosynq](/tag/photosynq), [plant](/tag/plant), [multispeq](/tag/multispeq)
 
 ----
 

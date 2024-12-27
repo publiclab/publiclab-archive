@@ -6,14 +6,14 @@ author: PeterDavidowicz
 path: /wiki/spectrometer-curriculum.md
 nid: 8899
 uid: 169614
-
+cids: 
 ---
 
 # Spectrometer Curriculum
 
-by [bicwood](../profile/bicwood), [warren](../profile/warren), [DavidB](../profile/DavidB), [stoft](../profile/stoft), [PeterDavidowicz](../profile/PeterDavidowicz)
+by [bicwood](/profile/bicwood), [warren](/profile/warren), [DavidB](/profile/DavidB), [stoft](/profile/stoft), [PeterDavidowicz](/profile/PeterDavidowicz)
 
-July 16, 2013 22:07 | Tags: [spectrometer](../tag/spectrometer), [education](../tag/education), [curriculum](../tag/curriculum)
+July 16, 2013 22:07 | Tags: [spectrometer](/tag/spectrometer), [education](/tag/education), [curriculum](/tag/curriculum)
 
 ----
 

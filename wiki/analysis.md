@@ -6,12 +6,12 @@ author: warren
 path: /wiki/analysis.md
 nid: 312
 uid: 1
-
+cids: 
 ---
 
 # Analysis
 
-by [liz](../profile/liz), [warren](../profile/warren)
+by [liz](/profile/liz), [warren](/profile/warren)
 
 June 01, 2011 15:55 | Tags: 
 

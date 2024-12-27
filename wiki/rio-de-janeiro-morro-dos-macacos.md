@@ -6,14 +6,14 @@ author: ives
 path: /wiki/rio-de-janeiro-morro-dos-macacos.md
 nid: 652
 uid: 403
-
+cids: 
 ---
 
 # Rio de Janeiro - Morro dos Macacos
 
-by [liz](../profile/liz), [ives](../profile/ives)
+by [liz](/profile/liz), [ives](/profile/ives)
 
-December 20, 2011 03:26 | Tags: [kite-mapping](../tag/kite-mapping), [rio](../tag/rio)
+December 20, 2011 03:26 | Tags: [kite-mapping](/tag/kite-mapping), [rio](/tag/rio)
 
 ----
 

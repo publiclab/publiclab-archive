@@ -6,18 +6,16 @@ author: junior_walk1337
 path: /notes/junior_walk1337/05-25-2022/edwight-5-24-22.md
 nid: 30905
 uid: 756318
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/696/original/birchtonSunny.00_01_54_04.Still003.jpg)
 
 # Edwight 5/24/22
 
-by [junior_walk1337](../../../profile/junior_walk1337) | May 25, 2022 03:36
+by [junior_walk1337](/profile/junior_walk1337) | May 25, 2022 03:36
 
-May 25, 2022 03:36 | Tags: [drones](../tag/drones), [coal-mining](../tag/coal-mining), [mmmp](../tag/mmmp)
+May 25, 2022 03:36 | Tags: [drones](/tag/drones), [coal-mining](/tag/coal-mining), [mmmp](/tag/mmmp)
 
 ----
 

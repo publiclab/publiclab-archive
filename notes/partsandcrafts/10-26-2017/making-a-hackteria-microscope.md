@@ -6,18 +6,16 @@ author: partsandcrafts
 path: /notes/partsandcrafts/10-26-2017/making-a-hackteria-microscope.md
 nid: 15094
 uid: 66014
-
 cids: 17582,17594,17595,17597,27115,27116,27117,27126
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/066/original/IMG_20171025_201244.jpg)
 
 # Making a Hackteria stage
 
-by [partsandcrafts](../../../profile/partsandcrafts) | October 26, 2017 04:17
+by [partsandcrafts](/profile/partsandcrafts) | October 26, 2017 04:17
 
-October 26, 2017 04:17 | Tags: [barnstar:basic](../tag/barnstar:basic), [hackteria](../tag/hackteria), [with:kgradow1](../tag/with:kgradow1), [with:warren](../tag/with:warren), [seeks:replications](../tag/seeks:replications), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes), [with:wmacfarl](../tag/with:wmacfarl), [with:bmela](../tag/with:bmela)
+October 26, 2017 04:17 | Tags: [barnstar:basic](/tag/barnstar:basic), [hackteria](/tag/hackteria), [with:kgradow1](/tag/with:kgradow1), [with:warren](/tag/with:warren), [seeks:replications](/tag/seeks:replications), [microscopes](/tag/microscopes), [activity:microscopes](/tag/activity:microscopes), [with:wmacfarl](/tag/with:wmacfarl), [with:bmela](/tag/with:bmela)
 
 ----
 

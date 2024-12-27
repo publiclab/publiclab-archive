@@ -6,16 +6,14 @@ author: briandegger
 path: /notes/briandegger/11-15-2013/testing-spectral-workbench-webcam-recognition-with-different-flavours-of-linux.md
 nid: 9783
 uid: 58232
-
 cids: 
-
 ---
 
 # Testing spectral workbench webcam recognition with different flavours of linux
 
-by [briandegger](../../../profile/briandegger) | November 15, 2013 13:23
+by [briandegger](/profile/briandegger) | November 15, 2013 13:23
 
-November 15, 2013 13:23 | Tags: [spectralworkbench](../tag/spectralworkbench), [cross-platform](../tag/cross-platform), [first-time-poster](../tag/first-time-poster)
+November 15, 2013 13:23 | Tags: [spectralworkbench](/tag/spectralworkbench), [cross-platform](/tag/cross-platform), [first-time-poster](/tag/first-time-poster)
 
 ----
 

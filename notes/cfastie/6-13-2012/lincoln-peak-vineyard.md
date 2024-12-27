@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/6-13-2012/lincoln-peak-vineyard.md
 nid: 2472
 uid: 554
-
 cids: 894,1682,1685
-
 ---
 
 ![](https://publiclab.org/sites/default/files/LPV-0547.jpg)
 
 # Lincoln Peak Vineyard
 
-by [cfastie](../../../profile/cfastie) | June 13, 2012 18:45
+by [cfastie](/profile/cfastie) | June 13, 2012 18:45
 
-June 13, 2012 18:45 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [nir](../tag/nir), [vineyard](../tag/vineyard)
+June 13, 2012 18:45 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [ndvi](/tag/ndvi), [nir](/tag/nir), [vineyard](/tag/vineyard)
 
 ----
 

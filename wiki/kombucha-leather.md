@@ -6,16 +6,16 @@ author: liz
 path: /wiki/kombucha-leather.md
 nid: 15559
 uid: 7
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/352/original/20140218102658kombuchaclothes_crop.jpg)
 
 # kombucha leather
 
-by [liz](../profile/liz), [warren](../profile/warren)
+by [liz](/profile/liz), [warren](/profile/warren)
 
-January 19, 2018 19:10 | Tags: [yeast](../tag/yeast), [microbes](../tag/microbes), [kombucha](../tag/kombucha), [biomaterial](../tag/biomaterial), [kombucha-leather](../tag/kombucha-leather)
+January 19, 2018 19:10 | Tags: [yeast](/tag/yeast), [microbes](/tag/microbes), [kombucha](/tag/kombucha), [biomaterial](/tag/biomaterial), [kombucha-leather](/tag/kombucha-leather)
 
 ----
 
@@ -39,11 +39,11 @@ Artists and designers are exploring the potential of microbial leather as a sust
 
 Questions can be either frequently asked questions, or "next step" challenges we're looking to solve.
 
-[kombucha-leather](../../tag/question:kombucha-leather)
+[kombucha-leather](/tag/question:kombucha-leather)
 
 ## Activities
 
 Activities show how to use this project, step by step.
 
-[kombucha-leather](../../tag/activity:kombucha-leather)
+[kombucha-leather](/tag/activity:kombucha-leather)
 

@@ -6,18 +6,16 @@ author: junior_walk1337
 path: /notes/junior_walk1337/01-05-2022/birchton-wv-1-5-22.md
 nid: 28623
 uid: 756318
-
 cids: 29566,29568,29569,29570,29572
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/302/original/birchtonSunny.00_02_06_17.Still001.jpg)
 
 # Birchton, WV 1/5/22
 
-by [junior_walk1337](../../../profile/junior_walk1337) | January 05, 2022 22:45
+by [junior_walk1337](/profile/junior_walk1337) | January 05, 2022 22:45
 
-January 05, 2022 22:45 | Tags: [drones](../tag/drones), [mountaintop-removal](../tag/mountaintop-removal), [coal](../tag/coal), [mmmp](../tag/mmmp)
+January 05, 2022 22:45 | Tags: [drones](/tag/drones), [mountaintop-removal](/tag/mountaintop-removal), [coal](/tag/coal), [mmmp](/tag/mmmp)
 
 ----
 

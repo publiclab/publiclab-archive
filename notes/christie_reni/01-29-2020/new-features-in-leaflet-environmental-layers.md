@@ -6,18 +6,16 @@ author: christie_reni
 path: /notes/christie_reni/01-29-2020/new-features-in-leaflet-environmental-layers.md
 nid: 22425
 uid: 630062
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/806/original/crisner.github.io_leaflet-environmental-layers_example_index.html_%285%29.png)
 
 # New UI features in Leaflet Environmental Layers
 
-by [christie_reni](../../../profile/christie_reni) | January 29, 2020 18:03
+by [christie_reni](/profile/christie_reni) | January 29, 2020 18:03
 
-January 29, 2020 18:03 | Tags: [blog-submission](../tag/blog-submission)
+January 29, 2020 18:03 | Tags: [blog-submission](/tag/blog-submission)
 
 ----
 

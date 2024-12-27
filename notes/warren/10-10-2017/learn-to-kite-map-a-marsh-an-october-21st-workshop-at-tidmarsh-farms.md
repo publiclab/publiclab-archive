@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/10-10-2017/learn-to-kite-map-a-marsh-an-october-21st-workshop-at-tidmarsh-farms.md
 nid: 15015
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/914/original/squid-kite.jpg)
 
 # Learn to kite map a marsh: an October 21st workshop at Tidmarsh Farms
 
-by [warren](../../../profile/warren) | October 10, 2017 15:26
+by [warren](/profile/warren) | October 10, 2017 15:26
 
-October 10, 2017 15:26 | Tags: [kite-mapping](../tag/kite-mapping), [aerial-photography](../tag/aerial-photography), [workshop](../tag/workshop), [event](../tag/event), [massachusetts](../tag/massachusetts), [plymouth](../tag/plymouth), [tidmarsh](../tag/tidmarsh), [aerial-mapping](../tag/aerial-mapping), [location:blurred](../tag/location:blurred), [response:14909](../tag/response:14909), [response:9057](../tag/response:9057), [response:4939](../tag/response:4939), [response:4636](../tag/response:4636), [lat:41.9](../tag/lat:41.9), [lon:-70.6](../tag/lon:-70.6), [place:tidmarsh-farms](../tag/place:tidmarsh-farms)
+October 10, 2017 15:26 | Tags: [kite-mapping](/tag/kite-mapping), [aerial-photography](/tag/aerial-photography), [workshop](/tag/workshop), [event](/tag/event), [massachusetts](/tag/massachusetts), [plymouth](/tag/plymouth), [tidmarsh](/tag/tidmarsh), [aerial-mapping](/tag/aerial-mapping), [location:blurred](/tag/location:blurred), [response:14909](/tag/response:14909), [response:9057](/tag/response:9057), [response:4939](/tag/response:4939), [response:4636](/tag/response:4636), [lat:41.9](/tag/lat:41.9), [lon:-70.6](/tag/lon:-70.6), [place:tidmarsh-farms](/tag/place:tidmarsh-farms)
 
 ----
 

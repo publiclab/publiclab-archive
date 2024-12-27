@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/02-01-2017/stormwater-workshop-series-in-new-orleans.md
 nid: 13895
 uid: 422561
-
 cids: 18735,18747
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/409/original/Screen_Shot_2017-02-01_at_11.29.49_AM.png)
 
 # Stormwater Workshop Series in New Orleans! 
 
-by [stevie](../../../profile/stevie) | February 01, 2017 21:29
+by [stevie](/profile/stevie) | February 01, 2017 21:29
 
-February 01, 2017 21:29 | Tags: [gulf-coast](../tag/gulf-coast), [workshop](../tag/workshop), [new-orleans](../tag/new-orleans), [stormwater](../tag/stormwater), [flooding](../tag/flooding)
+February 01, 2017 21:29 | Tags: [gulf-coast](/tag/gulf-coast), [workshop](/tag/workshop), [new-orleans](/tag/new-orleans), [stormwater](/tag/stormwater), [flooding](/tag/flooding)
 
 ----
 

@@ -6,16 +6,14 @@ author: apriliainggri
 path: /notes/apriliainggri/12-29-2014/app.md
 nid: 11499
 uid: 432482
-
 cids: 11006,11028
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/544/original/20141219_142935.jpg)
 
 # app
 
-by [apriliainggri](../../../profile/apriliainggri) | December 29, 2014 07:03
+by [apriliainggri](/profile/apriliainggri) | December 29, 2014 07:03
 
 December 29, 2014 07:03 | Tags: 
 

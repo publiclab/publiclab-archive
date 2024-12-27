@@ -6,16 +6,14 @@ author: bowlerhatman
 path: /notes/bowlerhatman/08-09-2014/question-more-of-a-comment-really.md
 nid: 11027
 uid: 426593
-
 cids: 9849,9858,9886,9951,17346,20911,20989,25044
-
 ---
 
 # Question: More of a comment, really
 
-by [bowlerhatman](../../../profile/bowlerhatman) | August 09, 2014 09:11
+by [bowlerhatman](/profile/bowlerhatman) | August 09, 2014 09:11
 
-August 09, 2014 09:11 | Tags: [question:spectrometry](../tag/question:spectrometry)
+August 09, 2014 09:11 | Tags: [question:spectrometry](/tag/question:spectrometry)
 
 ----
 

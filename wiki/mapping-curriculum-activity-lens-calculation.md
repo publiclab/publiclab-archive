@@ -6,14 +6,14 @@ author: warren
 path: /wiki/mapping-curriculum-activity-lens-calculation.md
 nid: 78
 uid: 1
-
+cids: 
 ---
 
 # Mapping Curriculum Activity Lens Calculation
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-February 08, 2011 18:27 | Tags: [balloon-mapping](../tag/balloon-mapping), [curriculum](../tag/curriculum), [lens](../tag/lens)
+February 08, 2011 18:27 | Tags: [balloon-mapping](/tag/balloon-mapping), [curriculum](/tag/curriculum), [lens](/tag/lens)
 
 ----
 

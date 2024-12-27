@@ -6,18 +6,16 @@ author: Leekanghyun
 path: /notes/Leekanghyun/03-20-2016/what-s-this.md
 nid: 12866
 uid: 468891
-
 cids: 13999,14003,14004,14140
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/150/original/20160319_175519.jpg)
 
 # ??what's this?
 
-by [Leekanghyun](../../../profile/Leekanghyun) | March 20, 2016 10:47
+by [Leekanghyun](/profile/Leekanghyun) | March 20, 2016 10:47
 
-March 20, 2016 10:47 | Tags: [barnstar:basic](../tag/barnstar:basic)
+March 20, 2016 10:47 | Tags: [barnstar:basic](/tag/barnstar:basic)
 
 ----
 

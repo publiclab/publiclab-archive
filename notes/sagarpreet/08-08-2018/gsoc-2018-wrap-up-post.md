@@ -6,18 +6,16 @@ author: sagarpreet
 path: /notes/sagarpreet/08-08-2018/gsoc-2018-wrap-up-post.md
 nid: 16883
 uid: 516343
-
 cids: 20409
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/104/original/Screen_Shot_2018-08-08_at_8.08.33_PM.png)
 
 # GSoC 2018 Wrap-Up Post
 
-by [sagarpreet](../../../profile/sagarpreet) | August 08, 2018 14:39
+by [sagarpreet](/profile/sagarpreet) | August 08, 2018 14:39
 
-August 08, 2018 14:39 | Tags: [gsoc-2018-final](../tag/gsoc-2018-final), [soc-2018-final](../tag/soc-2018-final), [soc-2018-final-report](../tag/soc-2018-final-report)
+August 08, 2018 14:39 | Tags: [gsoc-2018-final](/tag/gsoc-2018-final), [soc-2018-final](/tag/soc-2018-final), [soc-2018-final-report](/tag/soc-2018-final-report)
 
 ----
 

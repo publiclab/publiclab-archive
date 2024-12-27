@@ -6,14 +6,12 @@ author: IshaGupta18
 path: /notes/IshaGupta18/08-23-2019/test-note.md
 nid: 20631
 uid: 568043
-
 cids: 
-
 ---
 
 # test note
 
-by [IshaGupta18](../../../profile/IshaGupta18) | August 23, 2019 04:00
+by [IshaGupta18](/profile/IshaGupta18) | August 23, 2019 04:00
 
 August 23, 2019 04:00 | Tags: 
 

@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/02-14-2016/rig-refinement.md
 nid: 12686
 uid: 554
-
 cids: 13670,13695
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/283/original/TraySupp2pan.jpg)
 
 # Rig refinement
 
-by [cfastie](../../../profile/cfastie) | February 14, 2016 16:18
+by [cfastie](/profile/cfastie) | February 14, 2016 16:18
 
-February 14, 2016 16:18 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [3dprinting](../tag/3dprinting), [kaptery](../tag/kaptery), [response:11726](../tag/response:11726)
+February 14, 2016 16:18 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [kite-aerial-photography](/tag/kite-aerial-photography), [3dprinting](/tag/3dprinting), [kaptery](/tag/kaptery), [response:11726](/tag/response:11726)
 
 ----
 

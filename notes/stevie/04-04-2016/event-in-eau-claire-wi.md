@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/04-04-2016/event-in-eau-claire-wi.md
 nid: 12919
 uid: 422561
-
 cids: 14155
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/351/original/Screen_Shot_2016-04-04_at_3.09.05_PM.png)
 
 # Event in Eau Claire, WI
 
-by [stevie](../../../profile/stevie) | April 04, 2016 20:23
+by [stevie](/profile/stevie) | April 04, 2016 20:23
 
-April 04, 2016 20:23 | Tags: [event](../tag/event), [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [event:rsvp](../tag/event:rsvp), [mid-west](../tag/mid-west), [rsvp:marlokeno](../tag/rsvp:marlokeno), [date:04-23-2016](../tag/date:04-23-2016)
+April 04, 2016 20:23 | Tags: [event](/tag/event), [wisconsin](/tag/wisconsin), [air-quality](/tag/air-quality), [event:rsvp](/tag/event:rsvp), [mid-west](/tag/mid-west), [rsvp:marlokeno](/tag/rsvp:marlokeno), [date:04-23-2016](/tag/date:04-23-2016)
 
 ----
 

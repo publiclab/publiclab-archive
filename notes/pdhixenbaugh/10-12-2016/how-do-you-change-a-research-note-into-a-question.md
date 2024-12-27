@@ -6,16 +6,14 @@ author: pdhixenbaugh
 path: /notes/pdhixenbaugh/10-12-2016/how-do-you-change-a-research-note-into-a-question.md
 nid: 13552
 uid: 459085
-
 cids: 15613,15614,15615,15624,22329
-
 ---
 
 # How do you change a research note into a question?
 
-by [pdhixenbaugh](../../../profile/pdhixenbaugh) | October 12, 2016 01:57
+by [pdhixenbaugh](/profile/pdhixenbaugh) | October 12, 2016 01:57
 
-October 12, 2016 01:57 | Tags: [website](../tag/website), [question](../tag/question), [answered](../tag/answered), [meta-tag](../tag/meta-tag), [question:question](../tag/question:question)
+October 12, 2016 01:57 | Tags: [website](/tag/website), [question](/tag/question), [answered](/tag/answered), [meta-tag](/tag/meta-tag), [question:question](/tag/question:question)
 
 ----
 

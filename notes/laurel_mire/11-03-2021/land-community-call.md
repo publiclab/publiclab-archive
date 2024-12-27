@@ -6,18 +6,16 @@ author: laurel_mire
 path: /notes/laurel_mire/11-03-2021/land-community-call.md
 nid: 28074
 uid: 759178
-
 cids: 29387,29413,29414,29415,29425,29426,29865
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/025/original/world-gfa5fb331c_1280.png)
 
 # Land Community Call
 
-by [laurel_mire](../../../profile/laurel_mire) | November 03, 2021 21:34
+by [laurel_mire](/profile/laurel_mire) | November 03, 2021 21:34
 
-November 03, 2021 21:34 | Tags: [landfill](../tag/landfill), [event](../tag/event), [soil](../tag/soil), [event:rsvp](../tag/event:rsvp), [land-use](../tag/land-use), [land](../tag/land), [oil-and-gas](../tag/oil-and-gas), [rsvp:bhamster](../tag/rsvp:bhamster), [research-curation-fellows-event](../tag/research-curation-fellows-event), [date:11-10-2021](../tag/date:11-10-2021), [rsvp:pat](../tag/rsvp:pat), [rsvp:latrecejohnson59](../tag/rsvp:latrecejohnson59)
+November 03, 2021 21:34 | Tags: [landfill](/tag/landfill), [event](/tag/event), [soil](/tag/soil), [event:rsvp](/tag/event:rsvp), [land-use](/tag/land-use), [land](/tag/land), [oil-and-gas](/tag/oil-and-gas), [rsvp:bhamster](/tag/rsvp:bhamster), [research-curation-fellows-event](/tag/research-curation-fellows-event), [date:11-10-2021](/tag/date:11-10-2021), [rsvp:pat](/tag/rsvp:pat), [rsvp:latrecejohnson59](/tag/rsvp:latrecejohnson59)
 
 ----
 

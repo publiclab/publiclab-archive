@@ -6,18 +6,16 @@ author: stoft
 path: /notes/stoft/01-19-2016/otk-proto3.md
 nid: 12593
 uid: 54025
-
 cids: 13346,13347,13348,13349,13359,13361
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/717/original/OTKP3_Main.jpg)
 
 # OTK Proto3
 
-by [stoft](../../../profile/stoft) | January 19, 2016 07:34
+by [stoft](/profile/stoft) | January 19, 2016 07:34
 
-January 19, 2016 07:34 | Tags: [spectrometer](../tag/spectrometer), [laser](../tag/laser), [fluorescence](../tag/fluorescence), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:empiricism](../tag/barnstar:empiricism), [otk](../tag/otk), [otkbeta](../tag/otkbeta), [dilution](../tag/dilution), [peak-maxima](../tag/peak-maxima), [upgrade:spectrometry](../tag/upgrade:spectrometry), [upgrade:dssk](../tag/upgrade:dssk)
+January 19, 2016 07:34 | Tags: [spectrometer](/tag/spectrometer), [laser](/tag/laser), [fluorescence](/tag/fluorescence), [oil-testing-kit](/tag/oil-testing-kit), [barnstar:empiricism](/tag/barnstar:empiricism), [otk](/tag/otk), [otkbeta](/tag/otkbeta), [dilution](/tag/dilution), [peak-maxima](/tag/peak-maxima), [upgrade:spectrometry](/tag/upgrade:spectrometry), [upgrade:dssk](/tag/upgrade:dssk)
 
 ----
 

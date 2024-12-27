@@ -6,12 +6,12 @@ author: warren
 path: /wiki/infragrammar.md
 nid: 9041
 uid: 1
-
+cids: 
 ---
 
 # infragrammar
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 August 20, 2013 18:26 | Tags: 
 

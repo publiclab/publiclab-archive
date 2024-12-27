@@ -6,12 +6,12 @@ author: CoastalConstructionCrew504
 path: /wiki/name-your-project-here.md
 nid: 22883
 uid: 666956
-
+cids: 
 ---
 
 # Name your project here
 
-by [CoastalConstructionCrew504](../profile/CoastalConstructionCrew504)
+by [CoastalConstructionCrew504](/profile/CoastalConstructionCrew504)
 
 February 20, 2020 15:27 | Tags: 
 
@@ -43,11 +43,11 @@ Interested in following along in the project? Subscribe to the tag below to get 
 
 <a class="btn btn-large btn-primary" href="https://publiclab.org/subscribe/tag/ccc">Subscribe to updates on this project </a>
  
-[ccc](../../tag/ccc) 
+[ccc](/tag/ccc) 
 
 ### Questions
 
-[ccc](../../tag/question:ccc)
+[ccc](/tag/question:ccc)
 
 ****
 

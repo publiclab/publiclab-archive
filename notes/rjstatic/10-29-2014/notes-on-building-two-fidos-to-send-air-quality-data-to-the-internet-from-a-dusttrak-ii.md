@@ -6,18 +6,16 @@ author: rjstatic
 path: /10-29-2014/notes-on-building-two-fidos-to-send-air-quality-data-to-the-internet-from-a-dusttrak-ii.md
 nid: 11306
 uid: 174
-
 cids: 10656,10657
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/666/original/20141027_234754.jpg)
 
 # Notes on building two Fidos that send air quality data to the Internet from a DustTrak II
 
-by [rjstatic](../../../profile/rjstatic) | October 29, 2014 01:09
+by [rjstatic](/profile/rjstatic) | October 29, 2014 01:09
 
-October 29, 2014 01:09 | Tags: [raspberry-pi](../tag/raspberry-pi), [air-quality](../tag/air-quality), [open-ground](../tag/open-ground), [fido](../tag/fido), [open-pipe-kit](../tag/open-pipe-kit), [sensor-pipe](../tag/sensor-pipe), [air-sensors](../tag/air-sensors)
+October 29, 2014 01:09 | Tags: [raspberry-pi](/tag/raspberry-pi), [air-quality](/tag/air-quality), [open-ground](/tag/open-ground), [fido](/tag/fido), [open-pipe-kit](/tag/open-pipe-kit), [sensor-pipe](/tag/sensor-pipe), [air-sensors](/tag/air-sensors)
 
 ----
 

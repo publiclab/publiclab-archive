@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/06-26-2013/infrablue-haze.md
 nid: 8456
 uid: 554
-
 cids: 11822,11827
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/575/original/InfFAI_Jun25-2013_20_00_43nrg1500.jpg)
 
 # Infrablue Haze
 
-by [cfastie](../../../profile/cfastie) | June 26, 2013 19:05
+by [cfastie](/profile/cfastie) | June 26, 2013 19:05
 
-June 26, 2013 19:05 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [passenger-pigeon](../tag/passenger-pigeon), [infrared](../tag/infrared), [michigan](../tag/michigan), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [gigapan](../tag/gigapan), [a810](../tag/a810), [activity:multispectral-imaging](../tag/activity:multispectral-imaging)
+June 26, 2013 19:05 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [nrg](/tag/nrg), [ndvi](/tag/ndvi), [passenger-pigeon](/tag/passenger-pigeon), [infrared](/tag/infrared), [michigan](/tag/michigan), [infragram](/tag/infragram), [infrablue](/tag/infrablue), [gigapan](/tag/gigapan), [a810](/tag/a810), [activity:multispectral-imaging](/tag/activity:multispectral-imaging)
 
 ----
 

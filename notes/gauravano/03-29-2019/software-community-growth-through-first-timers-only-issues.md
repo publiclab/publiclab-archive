@@ -6,18 +6,16 @@ author: gauravano
 path: /notes/gauravano/03-29-2019/software-community-growth-through-first-timers-only-issues.md
 nid: 18893
 uid: 515081
-
 cids: 23524,23541,23543,23546,23547,23548,24012,24016,24272,24273,24274,24275,24282,24283,24287
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/830/original/Screenshot_from_2019-03-29_04-18-05.png)
 
 # Software Community Growth through "first-timers-only" issues
 
-by [gauravano](../../../profile/gauravano) | March 28, 2019 22:59
+by [gauravano](/profile/gauravano) | March 28, 2019 22:59
 
-March 28, 2019 22:59 | Tags: [web-development](../tag/web-development), [webworkinggroup](../tag/webworkinggroup), [software](../tag/software), [blog](../tag/blog), [developers](../tag/developers), [community-building](../tag/community-building), [with:warren](../tag/with:warren), [onboarding](../tag/onboarding), [first-timers-only](../tag/first-timers-only), [software-outreach](../tag/software-outreach)
+March 28, 2019 22:59 | Tags: [web-development](/tag/web-development), [webworkinggroup](/tag/webworkinggroup), [software](/tag/software), [blog](/tag/blog), [developers](/tag/developers), [community-building](/tag/community-building), [with:warren](/tag/with:warren), [onboarding](/tag/onboarding), [first-timers-only](/tag/first-timers-only), [software-outreach](/tag/software-outreach)
 
 ----
 

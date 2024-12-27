@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/09-30-2014/coqui-bbv1-0.md
 nid: 11209
 uid: 43651
-
 cids: 10473,12293,13303,13429,13755,14239,21998
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/213/original/IMG_0734.JPG)
 
 # Build a Coqui BBv1.0
 
-by [donblair](../../../profile/donblair) | September 30, 2014 19:43
+by [donblair](/profile/donblair) | September 30, 2014 19:43
 
-September 30, 2014 19:43 | Tags: [water-sensing](../tag/water-sensing), [water-quality](../tag/water-quality), [upverter](../tag/upverter), [riffle](../tag/riffle), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [coqui](../tag/coqui), [activity:coqui-version](../tag/activity:coqui-version)
+September 30, 2014 19:43 | Tags: [water-sensing](/tag/water-sensing), [water-quality](/tag/water-quality), [upverter](/tag/upverter), [riffle](/tag/riffle), [barnstar:photo-documentation](/tag/barnstar:photo-documentation), [coqui](/tag/coqui), [activity:coqui-version](/tag/activity:coqui-version)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/07-18-2016/the-last-three-weeks-in-google-summer-of-code.md
 nid: 13299
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/141/original/Screenshot_2016-07-18_at_6.00.42_PM.png)
 
 # The last three weeks in Google Summer of Code
 
-by [warren](../../../profile/warren) | July 18, 2016 22:07
+by [warren](/profile/warren) | July 18, 2016 22:07
 
-July 18, 2016 22:07 | Tags: [website](../tag/website), [software](../tag/software), [gsoc](../tag/gsoc), [developers](../tag/developers), [coding](../tag/coding), [wwg](../tag/wwg), [gsoc-2016](../tag/gsoc-2016), [response:13214](../tag/response:13214)
+July 18, 2016 22:07 | Tags: [website](/tag/website), [software](/tag/software), [gsoc](/tag/gsoc), [developers](/tag/developers), [coding](/tag/coding), [wwg](/tag/wwg), [gsoc-2016](/tag/gsoc-2016), [response:13214](/tag/response:13214)
 
 ----
 

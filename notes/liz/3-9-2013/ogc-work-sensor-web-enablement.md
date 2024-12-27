@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/3-9-2013/ogc-work-sensor-web-enablement.md
 nid: 6260
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/SWE Overview - OGC.jpg)
 
 # OGC work on Sensor Web Enablement
 
-by [liz](../../../profile/liz) | March 09, 2013 18:47
+by [liz](/profile/liz) | March 09, 2013 18:47
 
-March 09, 2013 18:47 | Tags: [sensing](../tag/sensing), [sensors](../tag/sensors), [standards](../tag/standards), [interoperability](../tag/interoperability), [ogc](../tag/ogc), [open-geospatial-consortium](../tag/open-geospatial-consortium)
+March 09, 2013 18:47 | Tags: [sensing](/tag/sensing), [sensors](/tag/sensors), [standards](/tag/standards), [interoperability](/tag/interoperability), [ogc](/tag/ogc), [open-geospatial-consortium](/tag/open-geospatial-consortium)
 
 ----
 

@@ -6,18 +6,16 @@ author: Bronwen
 path: /notes/bronwen/07-31-2018/kits-initiative-july.md
 nid: 16795
 uid: 237313
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/983/original/Updatephoto.jpg)
 
 # Kits Initiative: July!
 
-by [Bronwen](../../../profile/Bronwen) | July 26, 2018 20:39
+by [Bronwen](/profile/Bronwen) | July 26, 2018 20:39
 
-July 26, 2018 20:39 | Tags: [newsletter](../tag/newsletter), [kits](../tag/kits), [kits-initiative](../tag/kits-initiative), [community-kits](../tag/community-kits)
+July 26, 2018 20:39 | Tags: [newsletter](/tag/newsletter), [kits](/tag/kits), [kits-initiative](/tag/kits-initiative), [community-kits](/tag/community-kits)
 
 ----
 

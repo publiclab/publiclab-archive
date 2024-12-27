@@ -6,12 +6,12 @@ author: warren
 path: /wiki/staff-call-6-19-2011-consultants-barnraising.md
 nid: 394
 uid: 1
-
+cids: 
 ---
 
 # Staff Call 6 19 2011: Consultants, Barnraising
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 July 19, 2011 22:05 | Tags: 
 

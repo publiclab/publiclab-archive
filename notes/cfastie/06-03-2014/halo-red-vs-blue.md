@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/06-03-2014/halo-red-vs-blue.md
 nid: 10526
 uid: 554
-
 cids: 9121
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/509/original/Halo22-461-2.jpg)
 
 # Halo: Red vs. Blue
 
-by [cfastie](../../../profile/cfastie) | June 03, 2014 03:57
+by [cfastie](/profile/cfastie) | June 03, 2014 03:57
 
-June 03, 2014 03:57 | Tags: [vermont](../tag/vermont), [infrared](../tag/infrared), [sky](../tag/sky), [atmosphere](../tag/atmosphere), [infragram](../tag/infragram), [super-red](../tag/super-red), [response:10523](../tag/response:10523), [activity:multispectral-imaging](../tag/activity:multispectral-imaging)
+June 03, 2014 03:57 | Tags: [vermont](/tag/vermont), [infrared](/tag/infrared), [sky](/tag/sky), [atmosphere](/tag/atmosphere), [infragram](/tag/infragram), [super-red](/tag/super-red), [response:10523](/tag/response:10523), [activity:multispectral-imaging](/tag/activity:multispectral-imaging)
 
 ----
 

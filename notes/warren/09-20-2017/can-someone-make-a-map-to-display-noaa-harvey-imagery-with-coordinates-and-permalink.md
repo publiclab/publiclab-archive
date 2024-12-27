@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/09-20-2017/can-someone-make-a-map-to-display-noaa-harvey-imagery-with-coordinates-and-permalink.md
 nid: 14920
 uid: 1
-
 cids: 17402,17403,17404,17406,17407,17408,17409,17411,17412,17413,17421,17422,17424,17429,17433,17436,17437,17438,17462,17464,22617,22618,22619
-
 ---
 
 # Can someone make a map to display NOAA Harvey imagery with coordinates and permalink?
 
-by [warren](../../../profile/warren) | September 20, 2017 15:26
+by [warren](/profile/warren) | September 20, 2017 15:26
 
-September 20, 2017 15:26 | Tags: [mapping](../tag/mapping), [maps](../tag/maps), [leaflet](../tag/leaflet), [gis](../tag/gis), [answered](../tag/answered), [disaster-response](../tag/disaster-response), [harvey](../tag/harvey), [hurricanes](../tag/hurricanes), [question:harvey](../tag/question:harvey), [web-mapping](../tag/web-mapping), [noaa](../tag/noaa)
+September 20, 2017 15:26 | Tags: [mapping](/tag/mapping), [maps](/tag/maps), [leaflet](/tag/leaflet), [gis](/tag/gis), [answered](/tag/answered), [disaster-response](/tag/disaster-response), [harvey](/tag/harvey), [hurricanes](/tag/hurricanes), [question:harvey](/tag/question:harvey), [web-mapping](/tag/web-mapping), [noaa](/tag/noaa)
 
 ----
 

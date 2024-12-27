@@ -6,18 +6,16 @@ author: eustatic
 path: /04-28-2014/double-faucet-cover-rig-for-or-infragram.md
 nid: 10373
 uid: 379
-
 cids: 8897,8904,8906,8909,8911
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/896/original/IMG_2345.JPG)
 
 # Double Faucet Cover Rig for or infragram
 
-by [eustatic](../../../profile/eustatic) | April 28, 2014 00:26
+by [eustatic](/profile/eustatic) | April 28, 2014 00:26
 
-April 28, 2014 00:26 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [rig](../tag/rig), [photo-rig](../tag/photo-rig), [photo](../tag/photo), [camera](../tag/camera), [tests](../tag/tests), [activity:photo-rig](../tag/activity:photo-rig)
+April 28, 2014 00:26 | Tags: [gulf-coast](/tag/gulf-coast), [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [rig](/tag/rig), [photo-rig](/tag/photo-rig), [photo](/tag/photo), [camera](/tag/camera), [tests](/tag/tests), [activity:photo-rig](/tag/activity:photo-rig)
 
 ----
 

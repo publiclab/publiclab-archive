@@ -6,18 +6,16 @@ author: nedhorning
 path: /notes/nedhorning/5-31-2012/registering-and-processing-photos-acquired-two-cameras.md
 nid: 2279
 uid: 133
-
 cids: 812,813,816,833,834,836,837,887,4584
-
 ---
 
 ![](https://publiclab.org/sites/default/files/TreesVIS_NRG.jpg)
 
 # Registering and processing photos acquired from two cameras
 
-by [nedhorning](../../../profile/nedhorning) | May 31, 2012 18:16
+by [nedhorning](/profile/nedhorning) | May 31, 2012 18:16
 
-May 31, 2012 18:16 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [image-processing](../tag/image-processing), [imagej](../tag/imagej), [great-photos](../tag/great-photos), [image-registration](../tag/image-registration), [first-time-poster](../tag/first-time-poster)
+May 31, 2012 18:16 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [image-processing](/tag/image-processing), [imagej](/tag/imagej), [great-photos](/tag/great-photos), [image-registration](/tag/image-registration), [first-time-poster](/tag/first-time-poster)
 
 ----
 

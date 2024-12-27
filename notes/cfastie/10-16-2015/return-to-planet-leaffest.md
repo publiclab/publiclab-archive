@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/10-16-2015/return-to-planet-leaffest.md
 nid: 12313
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/974/original/2PlanetLFps.jpg)
 
 # Return to Planet LEAFFEST
 
-by [cfastie](../../../profile/cfastie) | October 16, 2015 23:47
+by [cfastie](/profile/cfastie) | October 16, 2015 23:47
 
-October 16, 2015 23:47 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kite](../tag/kite), [leaffest](../tag/leaffest), [grassrootsmappingforum](../tag/grassrootsmappingforum), [northeast](../tag/northeast), [style:fancy](../tag/style:fancy), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [leaffest2015](../tag/leaffest2015), [response:12291](../tag/response:12291), [littleplanet](../tag/littleplanet), [gmf-9](../tag/gmf-9)
+October 16, 2015 23:47 | Tags: [kite-mapping](/tag/kite-mapping), [vermont](/tag/vermont), [kite](/tag/kite), [leaffest](/tag/leaffest), [grassrootsmappingforum](/tag/grassrootsmappingforum), [northeast](/tag/northeast), [style:fancy](/tag/style:fancy), [saturnv](/tag/saturnv), [skyshield](/tag/skyshield), [half-spherical](/tag/half-spherical), [leaffest2015](/tag/leaffest2015), [response:12291](/tag/response:12291), [littleplanet](/tag/littleplanet), [gmf-9](/tag/gmf-9)
 
 ----
 

@@ -6,16 +6,14 @@ author: vaibhavgeek
 path: /notes/vaibhavgeek/04-01-2017/omniauth-and-wiki-discussion.md
 nid: 14076
 uid: 504058
-
 cids: 16538,16543,16547
-
 ---
 
 # OmniAuth and Wiki Discussion 
 
-by [vaibhavgeek](../../../profile/vaibhavgeek) | April 01, 2017 14:52
+by [vaibhavgeek](/profile/vaibhavgeek) | April 01, 2017 14:52
 
-April 01, 2017 14:52 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [rgsoc-2017](../tag/rgsoc-2017), [soc-2017-proposals](../tag/soc-2017-proposals)
+April 01, 2017 14:52 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [gsoc-2017](/tag/gsoc-2017), [soc](/tag/soc), [soc-2017](/tag/soc-2017), [rgsoc-2017](/tag/rgsoc-2017), [soc-2017-proposals](/tag/soc-2017-proposals)
 
 ----
 

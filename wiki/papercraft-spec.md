@@ -6,14 +6,14 @@ author: warren
 path: /wiki/papercraft-spec.md
 nid: 15282
 uid: 1
-
+cids: 
 ---
 
 # papercraft-spec
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-November 30, 2017 23:17 | Tags: [redirect:15277](../tag/redirect:15277)
+November 30, 2017 23:17 | Tags: [redirect:15277](/tag/redirect:15277)
 
 ----
 

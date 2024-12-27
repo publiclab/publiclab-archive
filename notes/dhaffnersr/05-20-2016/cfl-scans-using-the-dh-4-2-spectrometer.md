@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/05-20-2016/cfl-scans-using-the-dh-4-2-spectrometer.md
 nid: 13133
 uid: 461120
-
 cids: 14673
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/232/original/capture.png)
 
 # CFL scans using the DH 4.2 spectrometer 
 
-by [dhaffnersr](../../../profile/dhaffnersr) | May 20, 2016 18:56
+by [dhaffnersr](/profile/dhaffnersr) | May 20, 2016 18:56
 
 May 20, 2016 18:56 | Tags: 
 

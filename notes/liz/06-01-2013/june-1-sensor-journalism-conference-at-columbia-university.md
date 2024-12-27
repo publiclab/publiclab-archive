@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/06-01-2013/june-1-sensor-journalism-conference-at-columbia-university.md
 nid: 8011
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/451/original/logo.jpg)
 
 # June 1 Sensor Journalism Conference at Columbia University
 
-by [liz](../../../profile/liz) | June 01, 2013 14:02
+by [liz](/profile/liz) | June 01, 2013 14:02
 
-June 01, 2013 14:02 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event)
+June 01, 2013 14:02 | Tags: [new-york-city](/tag/new-york-city), [event](/tag/event)
 
 ----
 

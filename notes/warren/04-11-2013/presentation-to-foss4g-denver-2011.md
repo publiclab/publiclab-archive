@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/04-11-2013/presentation-to-foss4g-denver-2011.md
 nid: 6785
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/039/original/presentation-wilkinson.png)
 
 # Presentation to FOSS4G Denver, 2011
 
-by [warren](../../../profile/warren) | April 11, 2013 18:43
+by [warren](/profile/warren) | April 11, 2013 18:43
 
-April 11, 2013 18:43 | Tags: [presentation](../tag/presentation), [foss4g](../tag/foss4g)
+April 11, 2013 18:43 | Tags: [presentation](/tag/presentation), [foss4g](/tag/foss4g)
 
 ----
 

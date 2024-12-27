@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/5-7-2012/nir-proof-concept-trout-lily-0.md
 nid: 1921
 uid: 554
-
 cids: 706,708,736,737
-
 ---
 
 ![](https://publiclab.org/sites/default/files/trout-lilies.png)
 
 # NIR proof of concept: Trout Lily
 
-by [cfastie](../../../profile/cfastie) | May 07, 2012 14:39
+by [cfastie](/profile/cfastie) | May 07, 2012 14:39
 
-May 07, 2012 14:39 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
+May 07, 2012 14:39 | Tags: [near-infrared-camera](/tag/near-infrared-camera)
 
 ----
 

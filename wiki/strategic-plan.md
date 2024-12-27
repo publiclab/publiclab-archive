@@ -6,16 +6,16 @@ author: Shannon
 path: /wiki/strategic-plan.md
 nid: 22430
 uid: 9
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/826/original/Screen_Shot_2020-01-29_at_9.03.37_PM.png)
 
 # Strategic Plan
 
-by [joyofsoy](../profile/joyofsoy), [mimiss](../profile/mimiss), [Shannon](../profile/Shannon)
+by [joyofsoy](/profile/joyofsoy), [mimiss](/profile/mimiss), [Shannon](/profile/Shannon)
 
-January 30, 2020 04:09 | Tags: [nonprofit](../tag/nonprofit), [locked](../tag/locked)
+January 30, 2020 04:09 | Tags: [nonprofit](/tag/nonprofit), [locked](/tag/locked)
 
 ----
 

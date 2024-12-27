@@ -6,18 +6,16 @@ author: pablo
 path: /notes/pablo/11-06-2015/the-tools-of-open-science-express-hands-on-workshop-in-fscon-2015.md
 nid: 12374
 uid: 160
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/509/original/IMG_8187-1024x768.jpg)
 
 # The Tools of Open Science, express hands-on workshop in FSCONS 2015
 
-by [pablo](../../../profile/pablo) | November 06, 2015 02:20
+by [pablo](/profile/pablo) | November 06, 2015 02:20
 
-November 06, 2015 02:20 | Tags: [workshop](../tag/workshop), [mapping](../tag/mapping), [balloon](../tag/balloon), [sweden](../tag/sweden), [fscons](../tag/fscons)
+November 06, 2015 02:20 | Tags: [workshop](/tag/workshop), [mapping](/tag/mapping), [balloon](/tag/balloon), [sweden](/tag/sweden), [fscons](/tag/fscons)
 
 ----
 

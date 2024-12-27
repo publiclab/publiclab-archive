@@ -6,16 +6,14 @@ author: bsugar
 path: /notes/bsugar/05-12-2019/how-can-i-create-and-work-on-my-own-issue-in-github.md
 nid: 19308
 uid: 217812
-
 cids: 24119,24120,24121,24122,26687
-
 ---
 
 # How can I create and work on my own issue in Github? 
 
-by [bsugar](../../../profile/bsugar) | May 12, 2019 17:57
+by [bsugar](/profile/bsugar) | May 12, 2019 17:57
 
-May 12, 2019 17:57 | Tags: [web-development](../tag/web-development), [github](../tag/github), [wwg](../tag/wwg), [question:website](../tag/question:website)
+May 12, 2019 17:57 | Tags: [web-development](/tag/web-development), [github](/tag/github), [wwg](/tag/wwg), [question:website](/tag/question:website)
 
 ----
 

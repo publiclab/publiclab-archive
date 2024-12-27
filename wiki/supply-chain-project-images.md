@@ -6,12 +6,12 @@ author: warren
 path: /wiki/supply-chain-project-images.md
 nid: 13121
 uid: 1
-
+cids: 
 ---
 
 # Supply Chain Project Images
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 May 17, 2016 20:41 | Tags: 
 

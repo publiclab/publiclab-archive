@@ -6,14 +6,14 @@ author: mathew
 path: /wiki/lesson-2-more-than-meets-the-eye-curricular-standards.md
 nid: 12065
 uid: 4
-
+cids: 
 ---
 
 # Lesson 2: More than Meets the Eye, curricular standards
 
-by [mathew](../profile/mathew)
+by [mathew](/profile/mathew)
 
-July 15, 2015 02:23 | Tags: [parent:wetlands-lesson-plans](../tag/parent:wetlands-lesson-plans)
+July 15, 2015 02:23 | Tags: [parent:wetlands-lesson-plans](/tag/parent:wetlands-lesson-plans)
 
 ----
 

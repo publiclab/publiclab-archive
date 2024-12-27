@@ -6,12 +6,12 @@ author: warren
 path: /wiki/infrared-software.md
 nid: 15084
 uid: 1
-
+cids: 
 ---
 
 # Infrared Software
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 October 23, 2017 19:04 | Tags: 
 

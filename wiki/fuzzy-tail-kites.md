@@ -6,14 +6,14 @@ author: MicheleTobias
 path: /wiki/fuzzy-tail-kites.md
 nid: 3010
 uid: 149
-
+cids: 
 ---
 
 # Fuzzy Tail for Kites
 
-by [mathew](../profile/mathew), [MicheleTobias](../profile/MicheleTobias)
+by [mathew](/profile/mathew), [MicheleTobias](/profile/MicheleTobias)
 
-July 29, 2012 03:37 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [diy-kite](../tag/diy-kite), [parent:kite-mapping](../tag/parent:kite-mapping)
+July 29, 2012 03:37 | Tags: [kite-aerial-photography](/tag/kite-aerial-photography), [diy-kite](/tag/diy-kite), [parent:kite-mapping](/tag/parent:kite-mapping)
 
 ----
 

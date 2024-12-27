@@ -6,16 +6,14 @@ author: fongvania
 path: /notes/fongvania/07-14-2021/tips-and-resources-for-green-walls.md
 nid: 27083
 uid: 754846
-
 cids: 
-
 ---
 
 # Tips and Resources for Green Walls
 
-by [fongvania](../../../profile/fongvania) | July 14, 2021 05:41
+by [fongvania](/profile/fongvania) | July 14, 2021 05:41
 
-July 14, 2021 05:41 | Tags: [plant](../tag/plant), [plants](../tag/plants), [urban-ecology](../tag/urban-ecology), [landscape](../tag/landscape), [general](../tag/general), [green-wall](../tag/green-wall), [vertical-garden](../tag/vertical-garden)
+July 14, 2021 05:41 | Tags: [plant](/tag/plant), [plants](/tag/plants), [urban-ecology](/tag/urban-ecology), [landscape](/tag/landscape), [general](/tag/general), [green-wall](/tag/green-wall), [vertical-garden](/tag/vertical-garden)
 
 ----
 

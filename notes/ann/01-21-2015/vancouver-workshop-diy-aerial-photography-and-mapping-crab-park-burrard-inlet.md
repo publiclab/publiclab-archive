@@ -6,18 +6,16 @@ author: ann
 path: /notes/ann/01-21-2015/vancouver-workshop-diy-aerial-photography-and-mapping-crab-park-burrard-inlet.md
 nid: 11534
 uid: 421543
-
 cids: 11070,11072,11074,11083,11097,11100
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/701/original/Screen_Shot_2015-01-20_at_7.26.27_PM.png)
 
 # Vancouver Workshop: DIY Aerial Photography and Mapping, Crab Park, Burrard Inlet
 
-by [ann](../../../profile/ann) | January 21, 2015 03:39
+by [ann](/profile/ann) | January 21, 2015 03:39
 
-January 21, 2015 03:39 | Tags: [kite-mapping](../tag/kite-mapping), [event](../tag/event), [canada](../tag/canada), [event:rsvp](../tag/event:rsvp), [northwest](../tag/northwest), [vancouver](../tag/vancouver), [events:northwest](../tag/events:northwest), [date:01-31-2015](../tag/date:01-31-2015), [bc](../tag/bc), [rsvp:lmpatrick](../tag/rsvp:lmpatrick), [rsvp:c5fritz1387](../tag/rsvp:c5fritz1387)
+January 21, 2015 03:39 | Tags: [kite-mapping](/tag/kite-mapping), [event](/tag/event), [canada](/tag/canada), [event:rsvp](/tag/event:rsvp), [northwest](/tag/northwest), [vancouver](/tag/vancouver), [events:northwest](/tag/events:northwest), [date:01-31-2015](/tag/date:01-31-2015), [bc](/tag/bc), [rsvp:lmpatrick](/tag/rsvp:lmpatrick), [rsvp:c5fritz1387](/tag/rsvp:c5fritz1387)
 
 ----
 

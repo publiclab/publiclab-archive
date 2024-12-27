@@ -6,12 +6,12 @@ author: Becki
 path: /wiki/paying-additional-shipping-costs.md
 nid: 11136
 uid: 46673
-
+cids: 
 ---
 
 # Paying additional shipping costs
 
-by [Becki](../profile/Becki)
+by [Becki](/profile/Becki)
 
 September 12, 2014 18:22 | Tags: 
 

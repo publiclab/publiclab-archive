@@ -6,14 +6,14 @@ author: warren
 path: /wiki/video-spectrometer-construction.md
 nid: 528
 uid: 1
-
+cids: 
 ---
 
 # Video Spectrometer Construction
 
-by [warren](../profile/warren), [mathew](../profile/mathew), [Misterdeman](../profile/Misterdeman), [Shannon](../profile/Shannon)
+by [warren](/profile/warren), [mathew](/profile/mathew), [Misterdeman](/profile/Misterdeman), [Shannon](/profile/Shannon)
 
-October 28, 2011 18:13 | Tags: [spectrometer](../tag/spectrometer)
+October 28, 2011 18:13 | Tags: [spectrometer](/tag/spectrometer)
 
 ----
 

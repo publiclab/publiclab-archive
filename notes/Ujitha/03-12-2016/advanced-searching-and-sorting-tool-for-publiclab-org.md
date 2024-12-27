@@ -6,16 +6,14 @@ author: Ujitha
 path: /notes/Ujitha/03-12-2016/advanced-searching-and-sorting-tool-for-publiclab-org.md
 nid: 12837
 uid: 467748
-
 cids: 13926,13927,13934,13941,13942,13943,13953,13954,13960,13976,14013,14014,14026,14027,14515
-
 ---
 
 # Advanced Searching and Sorting Tool for publiclab.org
 
-by [Ujitha](../../../profile/Ujitha) | March 12, 2016 12:24
+by [Ujitha](/profile/Ujitha) | March 12, 2016 12:24
 
-March 12, 2016 12:24 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [coding](../tag/coding), [hidden:response](../tag/hidden:response), [gsoc-2016](../tag/gsoc-2016), [gsoc-2016-proposals](../tag/gsoc-2016-proposals), [response:12827](../tag/response:12827), [rich-search](../tag/rich-search), [first-time-poster](../tag/first-time-poster)
+March 12, 2016 12:24 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [coding](/tag/coding), [hidden:response](/tag/hidden:response), [gsoc-2016](/tag/gsoc-2016), [gsoc-2016-proposals](/tag/gsoc-2016-proposals), [response:12827](/tag/response:12827), [rich-search](/tag/rich-search), [first-time-poster](/tag/first-time-poster)
 
 ----
 

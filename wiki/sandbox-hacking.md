@@ -6,12 +6,12 @@ author: liz
 path: /wiki/sandbox-hacking.md
 nid: 13484
 uid: 7
-
+cids: 
 ---
 
 # sandbox-hacking
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
 September 26, 2016 18:31 | Tags: 
 

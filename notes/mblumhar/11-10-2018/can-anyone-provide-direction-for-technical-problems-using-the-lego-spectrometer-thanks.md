@@ -6,16 +6,14 @@ author: mblumhar
 path: /notes/mblumhar/11-10-2018/can-anyone-provide-direction-for-technical-problems-using-the-lego-spectrometer-thanks.md
 nid: 17506
 uid: 558413
-
 cids: 21205,21211,21225,21442,23297
-
 ---
 
 # Can anyone provide direction for technical problems using the lego spectrometer thanks
 
-by [mblumhar](../../../profile/mblumhar) | November 10, 2018 15:31
+by [mblumhar](/profile/mblumhar) | November 10, 2018 15:31
 
-November 10, 2018 15:31 | Tags: [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster)
+November 10, 2018 15:31 | Tags: [question:general](/tag/question:general), [first-time-poster](/tag/first-time-poster)
 
 ----
 

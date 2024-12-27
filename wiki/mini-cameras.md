@@ -6,14 +6,14 @@ author: warren
 path: /wiki/mini-cameras.md
 nid: 19404
 uid: 1
-
+cids: 
 ---
 
 # Mini Cameras
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-May 14, 2019 18:17 | Tags: [infragram](../tag/infragram), [gopro](../tag/gopro), [mini-camera](../tag/mini-camera), [gitup](../tag/gitup)
+May 14, 2019 18:17 | Tags: [infragram](/tag/infragram), [gopro](/tag/gopro), [mini-camera](/tag/mini-camera), [gitup](/tag/gitup)
 
 ----
 
@@ -39,11 +39,11 @@ We also strongly recommend #pi-camera options based on the Raspberry Pi camera, 
 
 ## Questions
 
-[mini-camera](../../tag/question:mini-camera)
+[mini-camera](/tag/question:mini-camera)
 
 ****
 
 ## Activities
 
-[grid:activity:mini-camera](../../tag/grid:activity:mini-camera)
+[grid:activity:mini-camera](/tag/grid:activity:mini-camera)
 

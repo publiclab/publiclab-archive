@@ -6,18 +6,16 @@ author: jenjimah
 path: /notes/jenjimah/06-26-2019/horticultural-spectrometer-assembly-iii.md
 nid: 19864
 uid: 505738
-
 cids: 24896,24899,24945,26197
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/205/original/20190624_183533.jpg)
 
 # Horticultural Spectrometer - Assembly III
 
-by [jenjimah](../../../profile/jenjimah) | June 25, 2019 23:40
+by [jenjimah](/profile/jenjimah) | June 25, 2019 23:40
 
-June 25, 2019 23:40 | Tags: [spectrometer](../tag/spectrometer), [raspberry-pi](../tag/raspberry-pi), [barnstar:basic](../tag/barnstar:basic), [lego-spectrometer](../tag/lego-spectrometer)
+June 25, 2019 23:40 | Tags: [spectrometer](/tag/spectrometer), [raspberry-pi](/tag/raspberry-pi), [barnstar:basic](/tag/barnstar:basic), [lego-spectrometer](/tag/lego-spectrometer)
 
 ----
 

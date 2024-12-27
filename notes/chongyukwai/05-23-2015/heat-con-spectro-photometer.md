@@ -6,18 +6,16 @@ author: chongyukwai
 path: /notes/chongyukwai/05-23-2015/heat-con-spectro-photometer.md
 nid: 11833
 uid: 442298
-
 cids: 11737,11740
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/986/original/20150523_175843.jpg)
 
 # thermal colorimetic spectro photometer
 
-by [chongyukwai](../../../profile/chongyukwai) | May 23, 2015 10:50
+by [chongyukwai](/profile/chongyukwai) | May 23, 2015 10:50
 
-May 23, 2015 10:50 | Tags: [spectro](../tag/spectro), [spectrum](../tag/spectrum), [first-time-poster](../tag/first-time-poster)
+May 23, 2015 10:50 | Tags: [spectro](/tag/spectro), [spectrum](/tag/spectrum), [first-time-poster](/tag/first-time-poster)
 
 ----
 

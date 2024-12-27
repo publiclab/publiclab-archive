@@ -6,14 +6,12 @@ author: mcuman
 path: /notes/mcuman/12-30-2012/white-light-sources.md
 nid: 5382
 uid: 47250
-
 cids: 
-
 ---
 
 # White light sources
 
-by [mcuman](../../../profile/mcuman) | December 31, 2012 01:09
+by [mcuman](/profile/mcuman) | December 31, 2012 01:09
 
 December 31, 2012 01:09 | Tags: 
 

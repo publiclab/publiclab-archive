@@ -6,14 +6,14 @@ author: sara
 path: /wiki/developing-and-running-public-lab-workshop.md
 nid: 2276
 uid: 8
-
+cids: 
 ---
 
 # Developing and Running a Public Lab Workshop
 
-by [warren](../profile/warren), [sara](../profile/sara)
+by [warren](/profile/warren), [sara](/profile/sara)
 
-May 31, 2012 15:57 | Tags: [community](../tag/community), [workshop](../tag/workshop), [event-how-to](../tag/event-how-to)
+May 31, 2012 15:57 | Tags: [community](/tag/community), [workshop](/tag/workshop), [event-how-to](/tag/event-how-to)
 
 ----
 

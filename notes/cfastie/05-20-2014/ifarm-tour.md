@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/05-20-2014/ifarm-tour.md
 nid: 10486
 uid: 554
-
 cids: 9052,27879
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/314/original/iFarmSat2757.jpg)
 
 # iFarm tour
 
-by [cfastie](../../../profile/cfastie) | May 20, 2014 14:51
+by [cfastie](/profile/cfastie) | May 20, 2014 14:51
 
-May 20, 2014 14:51 | Tags: [boston](../tag/boston), [new-hampshire](../tag/new-hampshire), [farmhack](../tag/farmhack), [agriculture](../tag/agriculture), [farm](../tag/farm), [event](../tag/event), [garden](../tag/garden), [ifarm](../tag/ifarm), [crops](../tag/crops), [northeast](../tag/northeast), [ifarm2014](../tag/ifarm2014), [response:10485](../tag/response:10485)
+May 20, 2014 14:51 | Tags: [boston](/tag/boston), [new-hampshire](/tag/new-hampshire), [farmhack](/tag/farmhack), [agriculture](/tag/agriculture), [farm](/tag/farm), [event](/tag/event), [garden](/tag/garden), [ifarm](/tag/ifarm), [crops](/tag/crops), [northeast](/tag/northeast), [ifarm2014](/tag/ifarm2014), [response:10485](/tag/response:10485)
 
 ----
 

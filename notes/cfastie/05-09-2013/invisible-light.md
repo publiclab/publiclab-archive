@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/05-09-2013/invisible-light.md
 nid: 7341
 uid: 554
-
 cids: 4652,4679,4681,4684
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/197/original/Wratten-201337469.jpg)
 
 # Invisible Rays
 
-by [cfastie](../../../profile/cfastie) | May 09, 2013 05:41
+by [cfastie](/profile/cfastie) | May 09, 2013 05:41
 
-May 09, 2013 05:41 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [nir](../tag/nir), [vermont](../tag/vermont), [infrared](../tag/infrared), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [history](../tag/history), [wratten87](../tag/wratten87), [infrablue](../tag/infrablue)
+May 09, 2013 05:41 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [nir](/tag/nir), [vermont](/tag/vermont), [infrared](/tag/infrared), [infragram](/tag/infragram), [plant-health](/tag/plant-health), [history](/tag/history), [wratten87](/tag/wratten87), [infrablue](/tag/infrablue)
 
 ----
 

@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/12-17-2019/logging-simple-air-sensor-data-to-sd-card.md
 nid: 21786
 uid: 495038
-
 cids: 26055,26058
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/147/original/simpleair-openlog.jpg)
 
 # Log Simple Air Sensor data to SD card
 
-by [imvec](../../../profile/imvec) | December 17, 2019 21:59
+by [imvec](/profile/imvec) | December 17, 2019 21:59
 
-December 17, 2019 21:59 | Tags: [arduino](../tag/arduino), [air-quality](../tag/air-quality), [dust](../tag/dust), [pm](../tag/pm), [air-sensing](../tag/air-sensing), [seeks:replications](../tag/seeks:replications), [activity:arduino](../tag/activity:arduino), [particulate-matter](../tag/particulate-matter), [datalogging](../tag/datalogging), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [plantower](../tag/plantower), [purple-air](../tag/purple-air), [simple-air-sensor](../tag/simple-air-sensor), [activity:simple-air-sensor](../tag/activity:simple-air-sensor), [activity:air-sensing](../tag/activity:air-sensing), [pin:simple-air-sensor](../tag/pin:simple-air-sensor), [pin:activity:simple-air-sensor](../tag/pin:activity:simple-air-sensor), [simple-air](../tag/simple-air), [simple-air-sensor-data](../tag/simple-air-sensor-data)
+December 17, 2019 21:59 | Tags: [arduino](/tag/arduino), [air-quality](/tag/air-quality), [dust](/tag/dust), [pm](/tag/pm), [air-sensing](/tag/air-sensing), [seeks:replications](/tag/seeks:replications), [activity:arduino](/tag/activity:arduino), [particulate-matter](/tag/particulate-matter), [datalogging](/tag/datalogging), [air-sensors](/tag/air-sensors), [purpleair](/tag/purpleair), [plantower](/tag/plantower), [purple-air](/tag/purple-air), [simple-air-sensor](/tag/simple-air-sensor), [activity:simple-air-sensor](/tag/activity:simple-air-sensor), [activity:air-sensing](/tag/activity:air-sensing), [pin:simple-air-sensor](/tag/pin:simple-air-sensor), [pin:activity:simple-air-sensor](/tag/pin:activity:simple-air-sensor), [simple-air](/tag/simple-air), [simple-air-sensor-data](/tag/simple-air-sensor-data)
 
 ----
 

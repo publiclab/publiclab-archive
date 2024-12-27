@@ -6,18 +6,16 @@ author: Holger
 path: /notes/Holger/11-06-2015/raspberry-pi-based-microscope.md
 nid: 12375
 uid: 456773
-
 cids: 12887,15283,15361,17529,17535,18372,18374,18910
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/510/original/DSC_0461.JPG)
 
 # Raspberry Pi based microscope
 
-by [Holger](../../../profile/Holger) | November 06, 2015 11:49
+by [Holger](/profile/Holger) | November 06, 2015 11:49
 
-November 06, 2015 11:49 | Tags: [raspberry-pi](../tag/raspberry-pi), [dust](../tag/dust), [pm](../tag/pm), [microscope](../tag/microscope), [pi-camera](../tag/pi-camera), [microscopy](../tag/microscopy), [microscopes](../tag/microscopes)
+November 06, 2015 11:49 | Tags: [raspberry-pi](/tag/raspberry-pi), [dust](/tag/dust), [pm](/tag/pm), [microscope](/tag/microscope), [pi-camera](/tag/pi-camera), [microscopy](/tag/microscopy), [microscopes](/tag/microscopes)
 
 ----
 

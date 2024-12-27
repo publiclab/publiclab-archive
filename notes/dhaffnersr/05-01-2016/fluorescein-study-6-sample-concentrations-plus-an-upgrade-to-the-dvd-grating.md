@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/05-01-2016/fluorescein-study-6-sample-concentrations-plus-an-upgrade-to-the-dvd-grating.md
 nid: 13057
 uid: 461120
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/884/original/DVD_grating_apr30.png)
 
 # Fluorescein study 6 sample concentrations plus an upgrade to the DVD grating
 
-by [dhaffnersr](../../../profile/dhaffnersr) | May 01, 2016 08:53
+by [dhaffnersr](/profile/dhaffnersr) | May 01, 2016 08:53
 
 May 01, 2016 08:53 | Tags: 
 

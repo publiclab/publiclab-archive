@@ -6,12 +6,12 @@ author: warren
 path: /wiki/programs-and-working-groups-meeting-6-27-2011.md
 nid: 362
 uid: 1
-
+cids: 
 ---
 
 # Programs and working groups meeting 6-27-2011
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 June 27, 2011 20:47 | Tags: 
 

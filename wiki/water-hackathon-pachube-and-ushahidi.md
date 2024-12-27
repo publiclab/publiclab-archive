@@ -6,14 +6,14 @@ author: liz
 path: /wiki/water-hackathon-pachube-and-ushahidi.md
 nid: 829
 uid: 7
-
+cids: 
 ---
 
 # Water Hackathon
 
-by [liz](../profile/liz), [lpercifield](../profile/lpercifield)
+by [liz](/profile/liz), [lpercifield](/profile/lpercifield)
 
-February 21, 2012 21:14 | Tags: [new-york-city](../tag/new-york-city), [water-quality](../tag/water-quality), [water](../tag/water), [thermal-fishing-bob](../tag/thermal-fishing-bob), [water-quality-sensor](../tag/water-quality-sensor)
+February 21, 2012 21:14 | Tags: [new-york-city](/tag/new-york-city), [water-quality](/tag/water-quality), [water](/tag/water), [thermal-fishing-bob](/tag/thermal-fishing-bob), [water-quality-sensor](/tag/water-quality-sensor)
 
 ----
 

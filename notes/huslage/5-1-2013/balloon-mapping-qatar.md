@@ -6,18 +6,16 @@ author: huslage
 path: /notes/huslage/5-1-2013/balloon-mapping-qatar.md
 nid: 7191
 uid: 716
-
 cids: 4599,4603
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_2359.jpg)
 
 # Balloon mapping in Qatar
 
-by [huslage](../../../profile/huslage) | May 01, 2013 20:18
+by [huslage](/profile/huslage) | May 01, 2013 20:18
 
-May 01, 2013 20:18 | Tags: [balloon-mapping](../tag/balloon-mapping), [qatar](../tag/qatar), [middle-east](../tag/middle-east), [first-time-poster](../tag/first-time-poster)
+May 01, 2013 20:18 | Tags: [balloon-mapping](/tag/balloon-mapping), [qatar](/tag/qatar), [middle-east](/tag/middle-east), [first-time-poster](/tag/first-time-poster)
 
 ----
 

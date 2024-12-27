@@ -6,18 +6,16 @@ author: bhamster
 path: /notes/bhamster/03-15-2021/seeking-a-water-research-curation-fellow.md
 nid: 25925
 uid: 664477
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/955/original/Public_Lab_Letterhead_blank.png)
 
 # Seeking a Water Research Curation Fellow
 
-by [bhamster](../../../profile/bhamster) | March 15, 2021 21:52
+by [bhamster](/profile/bhamster) | March 15, 2021 21:52
 
-March 15, 2021 21:52 | Tags: [wetlands](../tag/wetlands), [water-quality](../tag/water-quality), [stormwater](../tag/stormwater), [jobs](../tag/jobs), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [microplastics](../tag/microplastics), [fellow](../tag/fellow), [research-curation-fellows](../tag/research-curation-fellows)
+March 15, 2021 21:52 | Tags: [wetlands](/tag/wetlands), [water-quality](/tag/water-quality), [stormwater](/tag/stormwater), [jobs](/tag/jobs), [fellows](/tag/fellows), [fellowship](/tag/fellowship), [microplastics](/tag/microplastics), [fellow](/tag/fellow), [research-curation-fellows](/tag/research-curation-fellows)
 
 ----
 

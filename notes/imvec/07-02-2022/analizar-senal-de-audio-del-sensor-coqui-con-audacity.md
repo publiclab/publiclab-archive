@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/07-02-2022/analizar-senal-de-audio-del-sensor-coqui-con-audacity.md
 nid: 31177
 uid: 495038
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/845/original/coqui_Analisis.png)
 
 # Analizar señal de audio del sensor Coqui con Audacity
 
-by [imvec](../../../profile/imvec) | July 02, 2022 17:59
+by [imvec](/profile/imvec) | July 02, 2022 17:59
 
-July 02, 2022 17:59 | Tags: [water-quality](../tag/water-quality), [water-quality-sensor](../tag/water-quality-sensor), [conductivity](../tag/conductivity), [lang:es](../tag/lang:es), [coqui](../tag/coqui), [activity:coqui](../tag/activity:coqui), [with:xose](../tag/with:xose), [water-conductivity](../tag/water-conductivity), [agua](../tag/agua), [calidad-de-agua](../tag/calidad-de-agua), [conductividad](../tag/conductividad)
+July 02, 2022 17:59 | Tags: [water-quality](/tag/water-quality), [water-quality-sensor](/tag/water-quality-sensor), [conductivity](/tag/conductivity), [lang:es](/tag/lang:es), [coqui](/tag/coqui), [activity:coqui](/tag/activity:coqui), [with:xose](/tag/with:xose), [water-conductivity](/tag/water-conductivity), [agua](/tag/agua), [calidad-de-agua](/tag/calidad-de-agua), [conductividad](/tag/conductividad)
 
 ----
 

@@ -6,16 +6,14 @@ author: LightWaveResearch8000
 path: /notes/LightWaveResearch8000/07-26-2017/starlight-recorder-kic8462852.md
 nid: 14683
 uid: 510698
-
 cids: 22779
-
 ---
 
 # Starlight Recorder KIC8462852
 
-by [LightWaveResearch8000](../../../profile/LightWaveResearch8000) | July 26, 2017 18:05
+by [LightWaveResearch8000](/profile/LightWaveResearch8000) | July 26, 2017 18:05
 
-July 26, 2017 18:05 | Tags: [light](../tag/light), [question:spectral-workbench](../tag/question:spectral-workbench), [star](../tag/star), [question:astronomy](../tag/question:astronomy)
+July 26, 2017 18:05 | Tags: [light](/tag/light), [question:spectral-workbench](/tag/question:spectral-workbench), [star](/tag/star), [question:astronomy](/tag/question:astronomy)
 
 ----
 

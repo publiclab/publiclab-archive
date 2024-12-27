@@ -6,14 +6,14 @@ author: warren
 path: /wiki/balloon-mapping-materials.md
 nid: 100
 uid: 1
-
+cids: 
 ---
 
 # Balloon Mapping Materials
 
-by [liz](../profile/liz), [abdul](../profile/abdul), [warren](../profile/warren), [adam-griffith](../profile/adam-griffith), [mathew](../profile/mathew)
+by [liz](/profile/liz), [abdul](/profile/abdul), [warren](/profile/warren), [adam-griffith](/profile/adam-griffith), [mathew](/profile/mathew)
 
-February 23, 2011 05:24 | Tags: [balloon-mapping](../tag/balloon-mapping), [materials](../tag/materials), [bom](../tag/bom), [parent:balloon-mapping](../tag/parent:balloon-mapping), [tagtest](../tag/tagtest)
+February 23, 2011 05:24 | Tags: [balloon-mapping](/tag/balloon-mapping), [materials](/tag/materials), [bom](/tag/bom), [parent:balloon-mapping](/tag/parent:balloon-mapping), [tagtest](/tag/tagtest)
 
 ----
 

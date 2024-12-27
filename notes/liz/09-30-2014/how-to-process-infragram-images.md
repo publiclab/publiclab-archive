@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/09-30-2014/how-to-process-infragram-images.md
 nid: 11212
 uid: 7
-
 cids: 10475,10477,10479,10485,31301
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/212/original/IMG_6230_edit.jpg)
 
 # How to process infragram images
 
-by [liz](../../../profile/liz) | September 30, 2014 21:50
+by [liz](/profile/liz) | September 30, 2014 21:50
 
-September 30, 2014 21:50 | Tags: [agriculture](../tag/agriculture), [newark](../tag/newark), [new-jersey](../tag/new-jersey), [urban-ag](../tag/urban-ag), [infragram](../tag/infragram), [garden](../tag/garden), [pole-aerial-photography](../tag/pole-aerial-photography), [elp](../tag/elp), [northeast](../tag/northeast), [with:thegreencommunitygarden](../tag/with:thegreencommunitygarden), [ndvi-comparison](../tag/ndvi-comparison), [question:ndvi-comparison](../tag/question:ndvi-comparison)
+September 30, 2014 21:50 | Tags: [agriculture](/tag/agriculture), [newark](/tag/newark), [new-jersey](/tag/new-jersey), [urban-ag](/tag/urban-ag), [infragram](/tag/infragram), [garden](/tag/garden), [pole-aerial-photography](/tag/pole-aerial-photography), [elp](/tag/elp), [northeast](/tag/northeast), [with:thegreencommunitygarden](/tag/with:thegreencommunitygarden), [ndvi-comparison](/tag/ndvi-comparison), [question:ndvi-comparison](/tag/question:ndvi-comparison)
 
 ----
 

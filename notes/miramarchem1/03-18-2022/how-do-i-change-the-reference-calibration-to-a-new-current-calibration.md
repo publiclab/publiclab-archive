@@ -6,16 +6,14 @@ author: miramarchem1
 path: /notes/miramarchem1/03-18-2022/how-do-i-change-the-reference-calibration-to-a-new-current-calibration.md
 nid: 30145
 uid: 440981
-
 cids: 
-
 ---
 
 # How do I change the reference calibration to a new current calibration?
 
-by [miramarchem1](../../../profile/miramarchem1) | March 18, 2022 03:31
+by [miramarchem1](/profile/miramarchem1) | March 18, 2022 03:31
 
-March 18, 2022 03:31 | Tags: [spectral-workbench](../tag/spectral-workbench), [question:spectral-workbench](../tag/question:spectral-workbench), [first-time-poster](../tag/first-time-poster)
+March 18, 2022 03:31 | Tags: [spectral-workbench](/tag/spectral-workbench), [question:spectral-workbench](/tag/question:spectral-workbench), [first-time-poster](/tag/first-time-poster)
 
 ----
 

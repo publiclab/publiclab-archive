@@ -6,18 +6,16 @@ author: bkleist
 path: /notes/bkleist/04-19-2017/raspberry-pi-problems.md
 nid: 14124
 uid: 489504
-
 cids: 16599,16677,16678,16771
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/167/original/7513051848_9a6ef2feb8_o.jpeg)
 
 # Raspberry Pi problems
 
-by [bkleist](../../../profile/bkleist) | April 19, 2017 19:11
+by [bkleist](/profile/bkleist) | April 19, 2017 19:11
 
-April 19, 2017 19:11 | Tags: [troubleshooting](../tag/troubleshooting), [raspberry-pi](../tag/raspberry-pi), [air-quality](../tag/air-quality), [frac-sand](../tag/frac-sand), [uwec](../tag/uwec), [science-is-frustrating-sometimes](../tag/science-is-frustrating-sometimes), [question:raspberry-pi](../tag/question:raspberry-pi)
+April 19, 2017 19:11 | Tags: [troubleshooting](/tag/troubleshooting), [raspberry-pi](/tag/raspberry-pi), [air-quality](/tag/air-quality), [frac-sand](/tag/frac-sand), [uwec](/tag/uwec), [science-is-frustrating-sometimes](/tag/science-is-frustrating-sometimes), [question:raspberry-pi](/tag/question:raspberry-pi)
 
 ----
 

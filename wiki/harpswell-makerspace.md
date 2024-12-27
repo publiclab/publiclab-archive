@@ -6,14 +6,14 @@ author: ajawitz
 path: /wiki/harpswell-makerspace.md
 nid: 9395
 uid: 294634
-
+cids: 
 ---
 
 # Harpswell Makerspace
 
-by [ajawitz](../profile/ajawitz)
+by [ajawitz](/profile/ajawitz)
 
-October 03, 2013 16:46 | Tags: [makerspaces](../tag/makerspaces)
+October 03, 2013 16:46 | Tags: [makerspaces](/tag/makerspaces)
 
 ----
 

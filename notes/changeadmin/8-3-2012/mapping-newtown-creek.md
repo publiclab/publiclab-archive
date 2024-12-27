@@ -6,18 +6,16 @@ author: ChangeAdmin
 path: /notes/changeadmin/8-3-2012/mapping-newtown-creek.md
 nid: 3114
 uid: 39384
-
 cids: 1118,6341
-
 ---
 
 ![](https://publiclab.org/sites/default/files/622121_421091804595735_2045517148_o.jpg)
 
 # Mapping Newtown Creek 
 
-by [ChangeAdmin](../../../profile/ChangeAdmin) | August 03, 2012 20:24
+by [ChangeAdmin](/profile/ChangeAdmin) | August 03, 2012 20:24
 
-August 03, 2012 20:24 | Tags: [new-york-city](../tag/new-york-city), [kite-mapping](../tag/kite-mapping), [newtown-creek](../tag/newtown-creek), [tributary](../tag/tributary)
+August 03, 2012 20:24 | Tags: [new-york-city](/tag/new-york-city), [kite-mapping](/tag/kite-mapping), [newtown-creek](/tag/newtown-creek), [tributary](/tag/tributary)
 
 ----
 

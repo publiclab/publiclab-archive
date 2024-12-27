@@ -6,18 +6,16 @@ author: noctividus
 path: /notes/noctividus/06-25-2014/raspberry-pi-ndvi.md
 nid: 10618
 uid: 424585
-
 cids: 9277,9279,9282,9311,9384
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/980/original/IMAG0124_1.jpg)
 
 # Raspberry Pi NDVI
 
-by [noctividus](../../../profile/noctividus) | June 25, 2014 19:54
+by [noctividus](/profile/noctividus) | June 25, 2014 19:54
 
-June 25, 2014 19:54 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [video](../tag/video), [ndvi](../tag/ndvi), [mobile-phone-camera](../tag/mobile-phone-camera), [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [cameras](../tag/cameras), [barnstar:basic](../tag/barnstar:basic)
+June 25, 2014 19:54 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [video](/tag/video), [ndvi](/tag/ndvi), [mobile-phone-camera](/tag/mobile-phone-camera), [raspberry-pi](/tag/raspberry-pi), [infragram](/tag/infragram), [cameras](/tag/cameras), [barnstar:basic](/tag/barnstar:basic)
 
 ----
 

@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/5-15-2012/ndvi-out-shadows.md
 nid: 1991
 uid: 554
-
 cids: 1115
-
 ---
 
 ![](https://publiclab.org/sites/default/files/SwampVIS-414-IR-412.jpg)
 
 # NDVI out of the shadows
 
-by [cfastie](../../../profile/cfastie) | May 15, 2012 13:51
+by [cfastie](/profile/cfastie) | May 15, 2012 13:51
 
-May 15, 2012 13:51 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [grassrootsmapping](../tag/grassrootsmapping), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [vegetation-mapping](../tag/vegetation-mapping)
+May 15, 2012 13:51 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [grassrootsmapping](/tag/grassrootsmapping), [nrg](/tag/nrg), [ndvi](/tag/ndvi), [vegetation-mapping](/tag/vegetation-mapping)
 
 ----
 

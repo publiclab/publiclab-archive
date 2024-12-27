@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/10-8-2012/aus-e-tute-flame-emission-spectroscopy-exercises.md
 nid: 4264
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-10-08 at 9.46.49 PM.png)
 
 # Aus-e-tute flame emission spectroscopy exercises
 
-by [warren](../../../profile/warren) | October 09, 2012 01:49
+by [warren](/profile/warren) | October 09, 2012 01:49
 
-October 09, 2012 01:49 | Tags: [spectrometer](../tag/spectrometer)
+October 09, 2012 01:49 | Tags: [spectrometer](/tag/spectrometer)
 
 ----
 

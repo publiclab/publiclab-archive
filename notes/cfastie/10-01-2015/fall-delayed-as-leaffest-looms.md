@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/10-01-2015/fall-delayed-as-leaffest-looms.md
 nid: 12262
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/736/original/Oct2014-15_2pan.jpg)
 
 # Fall delayed as LEAFFEST looms
 
-by [cfastie](../../../profile/cfastie) | October 01, 2015 18:26
+by [cfastie](/profile/cfastie) | October 01, 2015 18:26
 
-October 01, 2015 18:26 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [oil-spill-toolkit](../tag/oil-spill-toolkit), [leaffest](../tag/leaffest), [event](../tag/event), [infragram](../tag/infragram), [northeast](../tag/northeast), [leaffest2015](../tag/leaffest2015), [response:12212](../tag/response:12212)
+October 01, 2015 18:26 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [spectrometer](/tag/spectrometer), [vermont](/tag/vermont), [oil-spill-toolkit](/tag/oil-spill-toolkit), [leaffest](/tag/leaffest), [event](/tag/event), [infragram](/tag/infragram), [northeast](/tag/northeast), [leaffest2015](/tag/leaffest2015), [response:12212](/tag/response:12212)
 
 ----
 

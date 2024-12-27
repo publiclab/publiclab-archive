@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/10-26-2016/translating-on-transifex.md
 nid: 13651
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/612/original/Screen_Shot_2016-10-26_at_11.53.24_AM_copy.png)
 
 # Step 2: Translate on Transifex
 
-by [liz](../../../profile/liz) | October 26, 2016 18:34
+by [liz](/profile/liz) | October 26, 2016 18:34
 
-October 26, 2016 18:34 | Tags: [website](../tag/website), [activity](../tag/activity), [localization](../tag/localization), [translation](../tag/translation), [language](../tag/language), [comunity](../tag/comunity), [activity:localization](../tag/activity:localization)
+October 26, 2016 18:34 | Tags: [website](/tag/website), [activity](/tag/activity), [localization](/tag/localization), [translation](/tag/translation), [language](/tag/language), [comunity](/tag/comunity), [activity:localization](/tag/activity:localization)
 
 ----
 

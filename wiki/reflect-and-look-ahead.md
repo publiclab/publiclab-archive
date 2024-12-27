@@ -6,14 +6,14 @@ author: liz
 path: /wiki/reflect-and-look-ahead.md
 nid: 11525
 uid: 7
-
+cids: 
 ---
 
 # reflect-and-look-ahead
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-January 15, 2015 01:33 | Tags: [parent:gardening-toolkit](../tag/parent:gardening-toolkit), [gardening-toolkit](../tag/gardening-toolkit)
+January 15, 2015 01:33 | Tags: [parent:gardening-toolkit](/tag/parent:gardening-toolkit), [gardening-toolkit](/tag/gardening-toolkit)
 
 ----
 

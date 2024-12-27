@@ -6,18 +6,16 @@ author: gonzoearth
 path: /notes/gonzoearth/6-25-2012/base-maps-mapknitter.md
 nid: 2625
 uid: 12
-
 cids: 956
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen Shot 2012-06-25 at 3.20.11 PM.png)
 
 # Base maps in MapKnitter
 
-by [gonzoearth](../../../profile/gonzoearth) | June 25, 2012 22:29
+by [gonzoearth](/profile/gonzoearth) | June 25, 2012 22:29
 
-June 25, 2012 22:29 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter)
+June 25, 2012 22:29 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [mapknitter](/tag/mapknitter)
 
 ----
 

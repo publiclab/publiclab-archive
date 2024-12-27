@@ -6,18 +6,16 @@ author: kgrevera
 path: /notes/kgrevera/07-22-2015/3d-thermal-plume-fishing-bob.md
 nid: 12087
 uid: 432001
-
 cids: 12237
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/779/original/IMG_6401.pdf)
 
 # 3D Thermal Plume Fishing Bob
 
-by [kgrevera](../../../profile/kgrevera) | July 22, 2015 00:00
+by [kgrevera](/profile/kgrevera) | July 22, 2015 00:00
 
-July 22, 2015 00:00 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-fishing-bob](../tag/thermal-fishing-bob), [3d-thermal-plume](../tag/3d-thermal-plume), [multiple-thermistor](../tag/multiple-thermistor)
+July 22, 2015 00:00 | Tags: [thermal-photography](/tag/thermal-photography), [thermal-fishing-bob](/tag/thermal-fishing-bob), [3d-thermal-plume](/tag/3d-thermal-plume), [multiple-thermistor](/tag/multiple-thermistor)
 
 ----
 

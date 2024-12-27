@@ -6,18 +6,16 @@ author: gbathree
 path: /notes/gbathree/12-12-2014/measurements-on-the-multispeq-beta-soon-to-be-released.md
 nid: 11451
 uid: 53164
-
 cids: 10937,10938,10944,30013,30181,30216
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/344/original/production_line.png)
 
 # Measurements on the MultispeQ beta, soon to be released
 
-by [gbathree](../../../profile/gbathree) | December 12, 2014 02:51
+by [gbathree](/profile/gbathree) | December 12, 2014 02:51
 
-December 12, 2014 02:51 | Tags: [fluorescence](../tag/fluorescence), [soil](../tag/soil), [health](../tag/health), [photosynthesis](../tag/photosynthesis), [photosynq](../tag/photosynq), [plant](../tag/plant), [multispeq](../tag/multispeq)
+December 12, 2014 02:51 | Tags: [fluorescence](/tag/fluorescence), [soil](/tag/soil), [health](/tag/health), [photosynthesis](/tag/photosynthesis), [photosynq](/tag/photosynq), [plant](/tag/plant), [multispeq](/tag/multispeq)
 
 ----
 

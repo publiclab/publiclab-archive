@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/05-21-2016/new-cuvette-holder-design-done-on-smartdraw-cad.md
 nid: 13136
 uid: 461120
-
 cids: 14663,14668,14669
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/241/original/light_source_entrance_view_small_pic.png)
 
 # New Cuvette Holder design done on SmartDraw CAD
 
-by [dhaffnersr](../../../profile/dhaffnersr) | May 21, 2016 22:42
+by [dhaffnersr](/profile/dhaffnersr) | May 21, 2016 22:42
 
 May 21, 2016 22:42 | Tags: 
 

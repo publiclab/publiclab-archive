@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/09-16-2013/presentation-at-waag-society-s-eclectis-program.md
 nid: 9334
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/573/original/Screenshot_from_2013-09-16_10_54_56.png)
 
 # Presentation at Waag Society's Eclectis program
 
-by [warren](../../../profile/warren) | September 16, 2013 08:55
+by [warren](/profile/warren) | September 16, 2013 08:55
 
-September 16, 2013 08:55 | Tags: [waagsociety](../tag/waagsociety), [presentations](../tag/presentations), [presentation](../tag/presentation), [waag](../tag/waag), [eclectis](../tag/eclectis)
+September 16, 2013 08:55 | Tags: [waagsociety](/tag/waagsociety), [presentations](/tag/presentations), [presentation](/tag/presentation), [waag](/tag/waag), [eclectis](/tag/eclectis)
 
 ----
 

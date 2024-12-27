@@ -6,14 +6,14 @@ author: warren
 path: /wiki/dust-sampling.md
 nid: 15247
 uid: 1
-
+cids: 
 ---
 
 # Dust Sampling
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-November 28, 2017 17:19 | Tags: [particulate-sensing](../tag/particulate-sensing), [dust](../tag/dust), [parent:air-quality](../tag/parent:air-quality)
+November 28, 2017 17:19 | Tags: [particulate-sensing](/tag/particulate-sensing), [dust](/tag/dust), [parent:air-quality](/tag/parent:air-quality)
 
 ----
 
@@ -27,13 +27,13 @@ https://publiclab.org/wiki/microscopes
 
 Please help build out this resource by asking questions here:
 
-[dust-sampling](../../tag/question:dust-sampling)
+[dust-sampling](/tag/question:dust-sampling)
 
 ****
 
 ## Activities
 
-[dust-sampling](../../tag/activity:dust-sampling)
+[dust-sampling](/tag/activity:dust-sampling)
 
 > We would **love** to see guides to collecting dust for analysis. If you know of a technique, or an online or print resource for this, please share it as an activity above!
 

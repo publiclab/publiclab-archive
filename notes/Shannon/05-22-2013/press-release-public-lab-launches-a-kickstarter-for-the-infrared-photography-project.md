@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/05-22-2013/press-release-public-lab-launches-a-kickstarter-for-the-infrared-photography-project.md
 nid: 7815
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/379/original/plots-logo-transparent.jpg)
 
 # Press Release: Public Lab Launches a Kickstarter for the Infrared Photography Project
 
-by [Shannon](../../../profile/Shannon) | May 22, 2013 12:02
+by [Shannon](/profile/Shannon) | May 22, 2013 12:02
 
-May 22, 2013 12:02 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infrared](../tag/infrared), [kickstarter](../tag/kickstarter), [infragram](../tag/infragram), [press-release](../tag/press-release)
+May 22, 2013 12:02 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [infrared](/tag/infrared), [kickstarter](/tag/kickstarter), [infragram](/tag/infragram), [press-release](/tag/press-release)
 
 ----
 

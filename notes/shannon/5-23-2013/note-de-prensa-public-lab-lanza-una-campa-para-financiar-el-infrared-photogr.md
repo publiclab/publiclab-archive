@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/shannon/5-23-2013/note-de-prensa-public-lab-lanza-una-campa-para-financiar-el-infrared-photogr.md
 nid: 7878
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/INfrared Camera main image.JPG)
 
 # Nota de Prensa: Public Lab lanza una campana para financiar el Infrared Photography Project  
 
-by [Shannon](../../../profile/Shannon) | May 24, 2013 00:59
+by [Shannon](/profile/Shannon) | May 24, 2013 00:59
 
-May 24, 2013 00:59 | Tags: [infrared](../tag/infrared), [infragram](../tag/infragram), [press-release](../tag/press-release)
+May 24, 2013 00:59 | Tags: [infrared](/tag/infrared), [infragram](/tag/infragram), [press-release](/tag/press-release)
 
 ----
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/infragram-media.md
 nid: 7494
 uid: 1
-
+cids: 
 ---
 
 # Infragram Media
 
-by [liz](../profile/liz), [warren](../profile/warren), [donblair](../profile/donblair), [cfastie](../profile/cfastie), [gonzoearth](../profile/gonzoearth)
+by [liz](/profile/liz), [warren](/profile/warren), [donblair](/profile/donblair), [cfastie](/profile/cfastie), [gonzoearth](/profile/gonzoearth)
 
-May 13, 2013 17:35 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram)
+May 13, 2013 17:35 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [infragram](/tag/infragram)
 
 ----
 

@@ -6,18 +6,16 @@ author: gretchengehrke
 path: /notes/gretchengehrke/07-23-2015/case-study-using-aerial-imagery-to-pressure-industrial-polluters-into-stormwater-compliance.md
 nid: 12095
 uid: 430549
-
 cids: 12254,12256,12257,12258,12265,12270,12271
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/884/original/Gowanus_IR_IMG_2038.JPG)
 
 # Case Study: Using Aerial Imagery to Pressure Industrial Polluters into Stormwater Compliance 
 
-by [gretchengehrke](../../../profile/gretchengehrke) | July 23, 2015 19:28
+by [gretchengehrke](/profile/gretchengehrke) | July 23, 2015 19:28
 
-July 23, 2015 19:28 | Tags: [new-york-city](../tag/new-york-city), [gowanus-canal](../tag/gowanus-canal), [brooklyn](../tag/brooklyn), [blog](../tag/blog), [nyc](../tag/nyc), [barnstar:basic](../tag/barnstar:basic), [image-analysis](../tag/image-analysis), [data-advocacy-case-studies](../tag/data-advocacy-case-studies), [activity:image-analysis](../tag/activity:image-analysis)
+July 23, 2015 19:28 | Tags: [new-york-city](/tag/new-york-city), [gowanus-canal](/tag/gowanus-canal), [brooklyn](/tag/brooklyn), [blog](/tag/blog), [nyc](/tag/nyc), [barnstar:basic](/tag/barnstar:basic), [image-analysis](/tag/image-analysis), [data-advocacy-case-studies](/tag/data-advocacy-case-studies), [activity:image-analysis](/tag/activity:image-analysis)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/04-30-2018/what-are-your-thoughts-on-this-initial-sketch-for-a-tag-page-on-publiclab-org.md
 nid: 16271
 uid: 1
-
 cids: 19529,19530,20211,20301,20566,20789,20790,20799,20817,20818,20851,20864,20899,20904,20915,20931,20932,20934,20935,20959,20973,21010,21027,21028,21029,21030,21031,21039,21040,21042,21161,21206,21223,21224,21229,21232,21272,21273,21300,21302,23266
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/785/original/IMG_20180430_112526_115.jpg)
 
 # What are your thoughts on this initial sketch for a Tag page on PublicLab.org?
 
-by [warren](../../../profile/warren) | April 30, 2018 15:21
+by [warren](/profile/warren) | April 30, 2018 15:21
 
-April 30, 2018 15:21 | Tags: [design](../tag/design), [tags](../tag/tags), [ui](../tag/ui), [question:ui](../tag/question:ui), [topics](../tag/topics), [response:15072](../tag/response:15072), [comment-template:ui-feedback-template](../tag/comment-template:ui-feedback-template)
+April 30, 2018 15:21 | Tags: [design](/tag/design), [tags](/tag/tags), [ui](/tag/ui), [question:ui](/tag/question:ui), [topics](/tag/topics), [response:15072](/tag/response:15072), [comment-template:ui-feedback-template](/tag/comment-template:ui-feedback-template)
 
 ----
 

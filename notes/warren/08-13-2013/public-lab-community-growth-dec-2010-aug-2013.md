@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/08-13-2013/public-lab-community-growth-dec-2010-aug-2013.md
 nid: 8998
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/126/original/traffic.png)
 
 # Public Lab community growth, Dec 2010-Aug 2013
 
-by [warren](../../../profile/warren) | August 13, 2013 20:38
+by [warren](/profile/warren) | August 13, 2013 20:38
 
-August 13, 2013 20:38 | Tags: [community](../tag/community), [website](../tag/website), [statistics](../tag/statistics), [evaluation](../tag/evaluation)
+August 13, 2013 20:38 | Tags: [community](/tag/community), [website](/tag/website), [statistics](/tag/statistics), [evaluation](/tag/evaluation)
 
 ----
 

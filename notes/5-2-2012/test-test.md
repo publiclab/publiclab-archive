@@ -6,16 +6,14 @@ author:
 path: /notes/5-2-2012/test-test.md
 nid: 2101
 uid: 0
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/16_medium_0.png)
 
 # test-test
 
-by [](../../../profile/) | May 02, 2012 12:30
+by [](/profile/) | May 02, 2012 12:30
 
 May 02, 2012 12:30 | Tags: 
 

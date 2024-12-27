@@ -6,16 +6,14 @@ author: bhamster
 path: /notes/bhamster/07-28-2021/what-are-some-observable-tell-tale-signs-of-wastewater-pollution.md
 nid: 27373
 uid: 664477
-
 cids: 29093,29094,29095,29096,29098,29099,29100,29101,29105,29120,29157
-
 ---
 
 # What are some observable tell-tale signs of wastewater pollution?
 
-by [bhamster](../../../profile/bhamster) | July 28, 2021 21:01
+by [bhamster](/profile/bhamster) | July 28, 2021 21:01
 
-July 28, 2021 21:01 | Tags: [water-quality](../tag/water-quality), [wastewater](../tag/wastewater), [question:water-quality](../tag/question:water-quality), [question:general](../tag/question:general), [general](../tag/general), [question:wastewater](../tag/question:wastewater), [detecting-wastewater](../tag/detecting-wastewater), [question:detecting-wastewater](../tag/question:detecting-wastewater)
+July 28, 2021 21:01 | Tags: [water-quality](/tag/water-quality), [wastewater](/tag/wastewater), [question:water-quality](/tag/question:water-quality), [question:general](/tag/question:general), [general](/tag/general), [question:wastewater](/tag/question:wastewater), [detecting-wastewater](/tag/detecting-wastewater), [question:detecting-wastewater](/tag/question:detecting-wastewater)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/05-21-2015/mobius-cameras-and-smaller-balloons.md
 nid: 11827
 uid: 1
-
 cids: 11720,11728,11729,11745,11753,11757,11998
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/951/original/tmp_16655-IMG_20150521_1141511563272054.jpg)
 
 # Mobius cameras and smaller balloons
 
-by [warren](../../../profile/warren) | May 21, 2015 16:52
+by [warren](/profile/warren) | May 21, 2015 16:52
 
-May 21, 2015 16:52 | Tags: [balloon-mapping](../tag/balloon-mapping), [mylar](../tag/mylar), [photo-rig](../tag/photo-rig), [balloon-mapping-kit](../tag/balloon-mapping-kit), [mobius](../tag/mobius), [activity:photo-rig](../tag/activity:photo-rig)
+May 21, 2015 16:52 | Tags: [balloon-mapping](/tag/balloon-mapping), [mylar](/tag/mylar), [photo-rig](/tag/photo-rig), [balloon-mapping-kit](/tag/balloon-mapping-kit), [mobius](/tag/mobius), [activity:photo-rig](/tag/activity:photo-rig)
 
 ----
 

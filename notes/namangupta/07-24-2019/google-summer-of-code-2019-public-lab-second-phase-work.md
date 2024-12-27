@@ -6,18 +6,16 @@ author: namangupta
 path: /notes/namangupta/07-24-2019/google-summer-of-code-2019-public-lab-second-phase-work.md
 nid: 20273
 uid: 522848
-
 cids: 25122
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/088/original/download.png)
 
 # Google Summer of Code 2019 @ Public Lab: Second Phase Work
 
-by [namangupta](../../../profile/namangupta) | July 24, 2019 20:40
+by [namangupta](/profile/namangupta) | July 24, 2019 20:40
 
-July 24, 2019 20:40 | Tags: [gsoc](../tag/gsoc), [gsoc-2019](../tag/gsoc-2019)
+July 24, 2019 20:40 | Tags: [gsoc](/tag/gsoc), [gsoc-2019](/tag/gsoc-2019)
 
 ----
 

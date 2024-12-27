@@ -6,18 +6,16 @@ author: ajawitz
 path: /notes/code4maine/07-25-2014/grassroots-underwater-photography.md
 nid: 10977
 uid: 294634
-
 cids: 9633,9634,9636,9637,9638,9639,9642,9664,9674,9676,9721
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/534/original/vlcsnap-2014-07-24-21h30m06s29.png)
 
 # Grassroots Underwater Photography?!!
 
-by [ajawitz](../../../profile/ajawitz) | July 25, 2014 16:47
+by [ajawitz](/profile/ajawitz) | July 25, 2014 16:47
 
-July 25, 2014 16:47 | Tags: [grassrootsmapping](../tag/grassrootsmapping), [citizen-science](../tag/citizen-science), [maine](../tag/maine), [underwater](../tag/underwater), [invasives](../tag/invasives), [mobius-action-cam](../tag/mobius-action-cam), [response:10670](../tag/response:10670)
+July 25, 2014 16:47 | Tags: [grassrootsmapping](/tag/grassrootsmapping), [citizen-science](/tag/citizen-science), [maine](/tag/maine), [underwater](/tag/underwater), [invasives](/tag/invasives), [mobius-action-cam](/tag/mobius-action-cam), [response:10670](/tag/response:10670)
 
 ----
 

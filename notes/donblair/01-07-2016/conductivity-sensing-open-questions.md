@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/01-07-2016/conductivity-sensing-open-questions.md
 nid: 12569
 uid: 43651
-
 cids: 13287,13288,13803,13805,16293,16294,18403
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/539/original/strayLines.gif)
 
 # Conductivity Sensing: Open Questions
 
-by [donblair](../../../profile/donblair) | January 07, 2016 17:55
+by [donblair](/profile/donblair) | January 07, 2016 17:55
 
-January 07, 2016 17:55 | Tags: [water-sensing](../tag/water-sensing), [water-monitoring](../tag/water-monitoring), [conductivity](../tag/conductivity), [riffle](../tag/riffle), [open-water](../tag/open-water), [555](../tag/555)
+January 07, 2016 17:55 | Tags: [water-sensing](/tag/water-sensing), [water-monitoring](/tag/water-monitoring), [conductivity](/tag/conductivity), [riffle](/tag/riffle), [open-water](/tag/open-water), [555](/tag/555)
 
 ----
 

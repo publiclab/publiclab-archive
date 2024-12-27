@@ -6,16 +6,16 @@ author: mollydanielsson
 path: /wiki/public-lab-five-year-retrospective-by-shannon-dosemagen.md
 nid: 11787
 uid: 1259
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/799/original/shannnon_dosemagen_thathmore_farms_ahsevill__NC_barnraising_10_23_11.jpg)
 
 # Public Lab Five Year Retrospective by Shannon Dosemagen
 
-by [mollydanielsson](../profile/mollydanielsson), [Shannon](../profile/Shannon)
+by [mollydanielsson](/profile/mollydanielsson), [Shannon](/profile/Shannon)
 
-May 06, 2015 00:49 | Tags: [grassrootsmapping](../tag/grassrootsmapping), [grassrootsmappingforum](../tag/grassrootsmappingforum), [history](../tag/history), [with:shannon](../tag/with:shannon), [style:fancy](../tag/style:fancy), [gmf-7](../tag/gmf-7)
+May 06, 2015 00:49 | Tags: [grassrootsmapping](/tag/grassrootsmapping), [grassrootsmappingforum](/tag/grassrootsmappingforum), [history](/tag/history), [with:shannon](/tag/with:shannon), [style:fancy](/tag/style:fancy), [gmf-7](/tag/gmf-7)
 
 ----
 

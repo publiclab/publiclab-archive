@@ -6,18 +6,16 @@ author: panicpuri
 path: /notes/panicpuri/09-12-2019/collecting-data-about-stormwater-issues-through-citizen-science.md
 nid: 20842
 uid: 617886
-
 cids: 25500,25530,25531,25544,25545,25585,25591,25593,25594
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/224/original/watershed-map_SP-01.jpg)
 
 # Collecting data about Stormwater Issues through Citizen Science
 
-by [panicpuri](../../../profile/panicpuri) | September 12, 2019 13:57
+by [panicpuri](/profile/panicpuri) | September 12, 2019 13:57
 
-September 12, 2019 13:57 | Tags: [arduino](../tag/arduino), [water-sensing](../tag/water-sensing), [sensors](../tag/sensors), [stormwater](../tag/stormwater), [flooding](../tag/flooding), [runoff](../tag/runoff), [study-design](../tag/study-design), [community-organizing](../tag/community-organizing), [irb](../tag/irb), [issue-brief](../tag/issue-brief), [air-sensors](../tag/air-sensors), [first-time-poster](../tag/first-time-poster), [lat:40.446947](../tag/lat:40.446947), [lon:-80.002441](../tag/lon:-80.002441)
+September 12, 2019 13:57 | Tags: [arduino](/tag/arduino), [water-sensing](/tag/water-sensing), [sensors](/tag/sensors), [stormwater](/tag/stormwater), [flooding](/tag/flooding), [runoff](/tag/runoff), [study-design](/tag/study-design), [community-organizing](/tag/community-organizing), [irb](/tag/irb), [issue-brief](/tag/issue-brief), [air-sensors](/tag/air-sensors), [first-time-poster](/tag/first-time-poster), [lat:40.446947](/tag/lat:40.446947), [lon:-80.002441](/tag/lon:-80.002441)
 
 ----
 
@@ -61,4 +59,4 @@ I have been planning this project for about a week, and I will be implementing i
 
 Thank you for creating this platform and allowing this exchange of ideas!
 
-[stormy-pgh](../../tag/question:stormy-pgh)
+[stormy-pgh](/tag/question:stormy-pgh)

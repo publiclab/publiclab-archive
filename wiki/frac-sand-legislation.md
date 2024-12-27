@@ -6,14 +6,14 @@ author: gretchengehrke
 path: /wiki/frac-sand-legislation.md
 nid: 12614
 uid: 430549
-
+cids: 
 ---
 
 # Frac Sand Legislation
 
-by [stevie](../profile/stevie), [gretchengehrke](../profile/gretchengehrke)
+by [stevie](/profile/stevie), [gretchengehrke](/profile/gretchengehrke)
 
-January 25, 2016 14:29 | Tags: [fracking](../tag/fracking), [parent:frac-sand-advocacy-leverage-points](../tag/parent:frac-sand-advocacy-leverage-points)
+January 25, 2016 14:29 | Tags: [fracking](/tag/fracking), [parent:frac-sand-advocacy-leverage-points](/tag/parent:frac-sand-advocacy-leverage-points)
 
 ----
 
@@ -28,7 +28,7 @@ Table of Contents
 ****
 
 ###Questions
-[air-regulations](../../tag/question:air-regulations)
+[air-regulations](/tag/question:air-regulations)
 
 ##Ambient Air
 

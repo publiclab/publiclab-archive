@@ -6,18 +6,16 @@ author: ronhuber
 path: /notes/RonHuber/09-17-2015/oil-test-kit-beta.md
 nid: 12219
 uid: 437
-
 cids: 12557,12558
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/584/original/oiltestkit_box4.jpg)
 
 # Oil test kit Beta
 
-by [ronhuber](../../../profile/ronhuber) | September 17, 2015 08:13
+by [ronhuber](/profile/ronhuber) | September 17, 2015 08:13
 
-September 17, 2015 08:13 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [unboxing](../tag/unboxing), [maine](../tag/maine), [oil-testing-kit](../tag/oil-testing-kit), [penobscot-bay](../tag/penobscot-bay), [oil-pollution](../tag/oil-pollution)
+September 17, 2015 08:13 | Tags: [spectrometer](/tag/spectrometer), [oil](/tag/oil), [unboxing](/tag/unboxing), [maine](/tag/maine), [oil-testing-kit](/tag/oil-testing-kit), [penobscot-bay](/tag/penobscot-bay), [oil-pollution](/tag/oil-pollution)
 
 ----
 

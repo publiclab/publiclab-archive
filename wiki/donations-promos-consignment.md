@@ -6,12 +6,12 @@ author: natalie
 path: /wiki/donations-promos-consignment.md
 nid: 10624
 uid: 424454
-
+cids: 
 ---
 
 # Donations/promos/consignment
 
-by [natalie](../profile/natalie)
+by [natalie](/profile/natalie)
 
 June 27, 2014 21:20 | Tags: 
 

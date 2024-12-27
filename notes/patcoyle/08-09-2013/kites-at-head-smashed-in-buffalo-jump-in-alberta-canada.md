@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/08-09-2013/kites-at-head-smashed-in-buffalo-jump-in-alberta-canada.md
 nid: 8984
 uid: 77
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/080/original/9461635507_6b36244417_b.jpg)
 
 # Kites at Head-Smashed-In Buffalo Jump in Alberta, Canada.
 
-by [patcoyle](../../../profile/patcoyle) | August 09, 2013 04:55
+by [patcoyle](/profile/patcoyle) | August 09, 2013 04:55
 
-August 09, 2013 04:55 | Tags: [kap](../tag/kap), [canada](../tag/canada), [art](../tag/art), [alberta](../tag/alberta), [western-canada](../tag/western-canada)
+August 09, 2013 04:55 | Tags: [kap](/tag/kap), [canada](/tag/canada), [art](/tag/art), [alberta](/tag/alberta), [western-canada](/tag/western-canada)
 
 ----
 

@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/06-24-2019/what-do-i-do-next-after-using-a-low-cost-or-diy-air-sensor.md
 nid: 19842
 uid: 1
-
 cids: 24880,24884,24932,24983,24991,25039,25040,29769
-
 ---
 
 # What do I do next, after using a low-cost or DIY air sensor?
 
-by [warren](../../../profile/warren) | June 24, 2019 22:20
+by [warren](/profile/warren) | June 24, 2019 22:20
 
-June 24, 2019 22:20 | Tags: [air-quality](../tag/air-quality), [dustduino](../tag/dustduino), [pm](../tag/pm), [question:dustduino](../tag/question:dustduino), [data-logging](../tag/data-logging), [particulate-matter](../tag/particulate-matter), [study-design](../tag/study-design), [question:simple-air-sensor](../tag/question:simple-air-sensor), [simple-air-sensor](../tag/simple-air-sensor)
+June 24, 2019 22:20 | Tags: [air-quality](/tag/air-quality), [dustduino](/tag/dustduino), [pm](/tag/pm), [question:dustduino](/tag/question:dustduino), [data-logging](/tag/data-logging), [particulate-matter](/tag/particulate-matter), [study-design](/tag/study-design), [question:simple-air-sensor](/tag/question:simple-air-sensor), [simple-air-sensor](/tag/simple-air-sensor)
 
 ----
 

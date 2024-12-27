@@ -6,18 +6,16 @@ author: joyofsoy
 path: /notes/joyofsoy/02-21-2020/public-lab-receives-three-year-award-from-the-gordon-and-betty-moore-foundation.md
 nid: 22894
 uid: 540844
-
 cids: 26382,26640
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/217/original/Boots-ground-02_copy.jpg)
 
 # Public Lab Receives Three-year Award From the Gordon and Betty Moore Foundation
 
-by [joyofsoy](../../../profile/joyofsoy) | February 21, 2020 17:32
+by [joyofsoy](/profile/joyofsoy) | February 21, 2020 17:32
 
-February 21, 2020 17:32 | Tags: [blog](../tag/blog), [press-release](../tag/press-release), [moore-foundation](../tag/moore-foundation)
+February 21, 2020 17:32 | Tags: [blog](/tag/blog), [press-release](/tag/press-release), [moore-foundation](/tag/moore-foundation)
 
 ----
 

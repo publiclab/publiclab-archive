@@ -6,12 +6,12 @@ author: gonzoearth
 path: /wiki/mapping-curriculum-research-applications.md
 nid: 398
 uid: 12
-
+cids: 
 ---
 
 # Mapping Curriculum: Research Applications
 
-by [gonzoearth](../profile/gonzoearth)
+by [gonzoearth](/profile/gonzoearth)
 
 July 21, 2011 05:52 | Tags: 
 

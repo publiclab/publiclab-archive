@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/05-14-2013/desktop-spectrometry-kit-v2-5-tests.md
 nid: 7553
 uid: 1
-
 cids: 4997
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/273/original/IMG_0518.JPG)
 
 # Desktop Spectrometry Kit v2.5 tests
 
-by [warren](../../../profile/warren) | May 14, 2013 21:19
+by [warren](/profile/warren) | May 14, 2013 21:19
 
-May 14, 2013 21:19 | Tags: [spectrometer](../tag/spectrometer), [kit](../tag/kit), [dsk](../tag/dsk), [sanm](../tag/sanm)
+May 14, 2013 21:19 | Tags: [spectrometer](/tag/spectrometer), [kit](/tag/kit), [dsk](/tag/dsk), [sanm](/tag/sanm)
 
 ----
 

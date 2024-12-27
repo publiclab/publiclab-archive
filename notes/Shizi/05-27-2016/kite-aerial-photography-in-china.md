@@ -6,18 +6,16 @@ author: Shizi
 path: /notes/Shizi/05-27-2016/kite-aerial-photography-in-china.md
 nid: 13148
 uid: 475993
-
 cids: 14688,14689,14690,14696
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/374/original/Lion-kite-mapping.jpg)
 
 # Kite aerial photography in China
 
-by [Shizi](../../../profile/Shizi) | May 27, 2016 12:40
+by [Shizi](/profile/Shizi) | May 27, 2016 12:40
 
-May 27, 2016 12:40 | Tags: [kite-mapping](../tag/kite-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [asia](../tag/asia), [china](../tag/china), [prc](../tag/prc), [first-time-poster](../tag/first-time-poster)
+May 27, 2016 12:40 | Tags: [kite-mapping](/tag/kite-mapping), [kite-aerial-photography](/tag/kite-aerial-photography), [asia](/tag/asia), [china](/tag/china), [prc](/tag/prc), [first-time-poster](/tag/first-time-poster)
 
 ----
 

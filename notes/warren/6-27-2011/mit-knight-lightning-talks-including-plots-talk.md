@@ -6,14 +6,12 @@ author: warren
 path: /notes/warren/6-27-2011/mit-knight-lightning-talks-including-plots-talk.md
 nid: 358
 uid: 1
-
 cids: 
-
 ---
 
 # MIT-Knight Lightning talks, including PLOTS talk
 
-by [warren](../../../profile/warren) | June 27, 2011 14:46
+by [warren](/profile/warren) | June 27, 2011 14:46
 
 June 27, 2011 14:46 | Tags: 
 

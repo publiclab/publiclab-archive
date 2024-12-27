@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/shannon/3-27-2012/mapping-movement-union-square-nyc.md
 nid: 1544
 uid: 9
-
 cids: 555,648
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_3884.JPG)
 
 # Mapping movement in Union Square NYC
 
-by [Shannon](../../../profile/Shannon) | March 27, 2012 13:10
+by [Shannon](/profile/Shannon) | March 27, 2012 13:10
 
-March 27, 2012 13:10 | Tags: [balloon-mapping](../tag/balloon-mapping), [ilab](../tag/ilab)
+March 27, 2012 13:10 | Tags: [balloon-mapping](/tag/balloon-mapping), [ilab](/tag/ilab)
 
 ----
 

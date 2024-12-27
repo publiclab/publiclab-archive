@@ -6,18 +6,16 @@ author: sobers
 path: /notes/sobers/11-28-2011/thermal-camera-hacking.md
 nid: 588
 uid: 371
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/spectrum.jpg)
 
 # Thermal Camera Hacking Notes
 
-by [sobers](../../../profile/sobers) | November 28, 2011 18:35
+by [sobers](/profile/sobers) | November 28, 2011 18:35
 
-November 28, 2011 18:35 | Tags: [thermal-photography](../tag/thermal-photography), [first-time-poster](../tag/first-time-poster)
+November 28, 2011 18:35 | Tags: [thermal-photography](/tag/thermal-photography), [first-time-poster](/tag/first-time-poster)
 
 ----
 

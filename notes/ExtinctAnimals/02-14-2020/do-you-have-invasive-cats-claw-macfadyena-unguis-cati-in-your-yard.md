@@ -6,16 +6,14 @@ author: ExtinctAnimals
 path: /notes/ExtinctAnimals/02-14-2020/do-you-have-invasive-cats-claw-macfadyena-unguis-cati-in-your-yard.md
 nid: 22811
 uid: 664710
-
 cids: 26316,26318,26330
-
 ---
 
 # Do you have invasive cats claw (Macfadyena unguis-cati) in your yard?
 
-by [ExtinctAnimals](../../../profile/ExtinctAnimals) | February 14, 2020 15:14
+by [ExtinctAnimals](/profile/ExtinctAnimals) | February 14, 2020 15:14
 
-February 14, 2020 15:14 | Tags: [plant-health](../tag/plant-health), [invasive](../tag/invasive), [invasive-species](../tag/invasive-species), [plant-matter](../tag/plant-matter), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster), [with:amallozzi](../tag/with:amallozzi), [plant-mapping](../tag/plant-mapping), [cats-claw-vine](../tag/cats-claw-vine), [question:cats-claw-vine](../tag/question:cats-claw-vine)
+February 14, 2020 15:14 | Tags: [plant-health](/tag/plant-health), [invasive](/tag/invasive), [invasive-species](/tag/invasive-species), [plant-matter](/tag/plant-matter), [question:general](/tag/question:general), [general](/tag/general), [first-time-poster](/tag/first-time-poster), [with:amallozzi](/tag/with:amallozzi), [plant-mapping](/tag/plant-mapping), [cats-claw-vine](/tag/cats-claw-vine), [question:cats-claw-vine](/tag/question:cats-claw-vine)
 
 ----
 

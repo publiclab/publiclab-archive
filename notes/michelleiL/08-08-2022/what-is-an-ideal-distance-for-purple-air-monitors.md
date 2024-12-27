@@ -6,16 +6,14 @@ author: michelleiL
 path: /notes/michelleiL/08-08-2022/what-is-an-ideal-distance-for-purple-air-monitors.md
 nid: 34843
 uid: 799004
-
 cids: 30373,30453,30487,30533,30659,30685,30731,30813,30856,31235
-
 ---
 
 # What is an ideal distance for Purple Air monitors? 
 
-by [michelleiL](../../../profile/michelleiL) | August 08, 2022 23:40
+by [michelleiL](/profile/michelleiL) | August 08, 2022 23:40
 
-August 08, 2022 23:40 | Tags: [purpleair](../tag/purpleair), [question:purpleair](../tag/question:purpleair), [air-quality-monitoring](../tag/air-quality-monitoring), [question:air-quality-monitoring](../tag/question:air-quality-monitoring), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [question:mn-land-manoomin-protection](../tag/question:mn-land-manoomin-protection)
+August 08, 2022 23:40 | Tags: [purpleair](/tag/purpleair), [question:purpleair](/tag/question:purpleair), [air-quality-monitoring](/tag/air-quality-monitoring), [question:air-quality-monitoring](/tag/question:air-quality-monitoring), [mn-land-manoomin-protection](/tag/mn-land-manoomin-protection), [question:mn-land-manoomin-protection](/tag/question:mn-land-manoomin-protection)
 
 ----
 

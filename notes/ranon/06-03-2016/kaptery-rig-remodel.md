@@ -6,18 +6,16 @@ author: ranon
 path: /notes/ranon/06-03-2016/kaptery-rig-remodel.md
 nid: 13160
 uid: 477060
-
 cids: 14710,14713,14717,14718,14742
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/467/original/Saturn_V_Complete_Assembly_Exploded_v3.png)
 
 # Kaptery Rig Remodel
 
-by [ranon](../../../profile/ranon) | June 03, 2016 19:39
+by [ranon](/profile/ranon) | June 03, 2016 19:39
 
-June 03, 2016 19:39 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [polemapping](../tag/polemapping), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [pole-photography](../tag/pole-photography), [kap-rigs](../tag/kap-rigs), [kaptery](../tag/kaptery), [activity:photo-rig](../tag/activity:photo-rig), [first-time-poster](../tag/first-time-poster)
+June 03, 2016 19:39 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-aerial-photography](/tag/kite-aerial-photography), [polemapping](/tag/polemapping), [kap](/tag/kap), [photo-rig](/tag/photo-rig), [pole-photography](/tag/pole-photography), [kap-rigs](/tag/kap-rigs), [kaptery](/tag/kaptery), [activity:photo-rig](/tag/activity:photo-rig), [first-time-poster](/tag/first-time-poster)
 
 ----
 

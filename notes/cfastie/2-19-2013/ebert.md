@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/2-19-2013/ebert.md
 nid: 6061
 uid: 554
-
 cids: 3482,3487,3491,3492,3493,3494,3495,3496,3499,3517,3518,3519,7875,7876,7877
-
 ---
 
 ![](https://publiclab.org/sites/default/files/EbertPlan.jpg)
 
 # Ebert
 
-by [cfastie](../../../profile/cfastie) | February 20, 2013 01:09
+by [cfastie](/profile/cfastie) | February 20, 2013 01:09
 
-February 20, 2013 01:09 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [open-hardware](../tag/open-hardware), [grating](../tag/grating), [desktop-spectrometer](../tag/desktop-spectrometer), [ebert](../tag/ebert), [upgrade:spectrometry](../tag/upgrade:spectrometry)
+February 20, 2013 01:09 | Tags: [spectrometer](/tag/spectrometer), [vermont](/tag/vermont), [open-hardware](/tag/open-hardware), [grating](/tag/grating), [desktop-spectrometer](/tag/desktop-spectrometer), [ebert](/tag/ebert), [upgrade:spectrometry](/tag/upgrade:spectrometry)
 
 ----
 

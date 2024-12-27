@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/07-20-2014/can-open-source-beat-this.md
 nid: 10939
 uid: 554
-
 cids: 9560,9563,9564,9578,9581,9583,9584,9764,11463,11509,13812,25857,25860
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/405/original/Den1_0494.jpg)
 
 # Can open source beat this?
 
-by [cfastie](../../../profile/cfastie) | July 20, 2014 18:47
+by [cfastie](/profile/cfastie) | July 20, 2014 18:47
 
-July 20, 2014 18:47 | Tags: [open-hardware](../tag/open-hardware), [temperature](../tag/temperature), [alaska](../tag/alaska), [sensors](../tag/sensors), [light](../tag/light), [microcontroller](../tag/microcontroller)
+July 20, 2014 18:47 | Tags: [open-hardware](/tag/open-hardware), [temperature](/tag/temperature), [alaska](/tag/alaska), [sensors](/tag/sensors), [light](/tag/light), [microcontroller](/tag/microcontroller)
 
 ----
 

@@ -6,16 +6,16 @@ author: mollydanielsson
 path: /wiki/revealing-the-invisible-in-spain.md
 nid: 11699
 uid: 1259
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/348/original/mapa-pai-la-vall-duixo-540x540.jpg)
 
 # Revealing the Invisible in Spain
 
-by [mollydanielsson](../profile/mollydanielsson)
+by [mollydanielsson](/profile/mollydanielsson)
 
-March 20, 2015 23:19 | Tags: [balloon-mapping](../tag/balloon-mapping), [spain](../tag/spain), [grassrootsmappingforum](../tag/grassrootsmappingforum), [events:spain](../tag/events:spain), [with:shannon](../tag/with:shannon), [style:fancy](../tag/style:fancy), [with:basurama](../tag/with:basurama), [gmf-5](../tag/gmf-5)
+March 20, 2015 23:19 | Tags: [balloon-mapping](/tag/balloon-mapping), [spain](/tag/spain), [grassrootsmappingforum](/tag/grassrootsmappingforum), [events:spain](/tag/events:spain), [with:shannon](/tag/with:shannon), [style:fancy](/tag/style:fancy), [with:basurama](/tag/with:basurama), [gmf-5](/tag/gmf-5)
 
 ----
 

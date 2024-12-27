@@ -6,14 +6,14 @@ author: warren
 path: /wiki/board.md
 nid: 9731
 uid: 1
-
+cids: 
 ---
 
 # Board of Directors
 
-by [jmacha](../profile/jmacha), [thewrightjess](../profile/thewrightjess), [liz](../profile/liz), [Shannon](../profile/Shannon), [Becki](../profile/Becki), [warren](../profile/warren)
+by [jmacha](/profile/jmacha), [thewrightjess](/profile/thewrightjess), [liz](/profile/liz), [Shannon](/profile/Shannon), [Becki](/profile/Becki), [warren](/profile/warren)
 
-November 05, 2013 17:55 | Tags: [nonprofit](../tag/nonprofit), [board](../tag/board), [parent:about](../tag/parent:about), [locked](../tag/locked), [nosidebar](../tag/nosidebar)
+November 05, 2013 17:55 | Tags: [nonprofit](/tag/nonprofit), [board](/tag/board), [parent:about](/tag/parent:about), [locked](/tag/locked), [nosidebar](/tag/nosidebar)
 
 ----
 

@@ -6,12 +6,12 @@ author: warren
 path: /wiki/staff-call-notes-7-5-2012.md
 nid: 2713
 uid: 1
-
+cids: 
 ---
 
 # staff call notes 7 5 2012
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 July 05, 2012 16:18 | Tags: 
 

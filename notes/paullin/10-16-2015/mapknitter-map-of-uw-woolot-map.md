@@ -6,16 +6,14 @@ author: paullin
 path: /notes/paullin/10-16-2015/mapknitter-map-of-uw-woolot-map.md
 nid: 12307
 uid: 453939
-
 cids: 
-
 ---
 
 # MapKnitter map of uw woolot map
 
-by [paullin](../../../profile/paullin) | October 16, 2015 00:44
+by [paullin](/profile/paullin) | October 16, 2015 00:44
 
-October 16, 2015 00:44 | Tags: [mapknitter](../tag/mapknitter), [lat:43.4642578](../tag/lat:43.4642578), [lon:-80.5204096](../tag/lon:-80.5204096)
+October 16, 2015 00:44 | Tags: [mapknitter](/tag/mapknitter), [lat:43.4642578](/tag/lat:43.4642578), [lon:-80.5204096](/tag/lon:-80.5204096)
 
 ----
 

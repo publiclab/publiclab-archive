@@ -6,14 +6,14 @@ author: liz
 path: /wiki/fido.md
 nid: 11193
 uid: 7
-
+cids: 
 ---
 
 # fido
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-September 26, 2014 21:36 | Tags: [fido](../tag/fido)
+September 26, 2014 21:36 | Tags: [fido](/tag/fido)
 
 ----
 

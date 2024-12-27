@@ -6,14 +6,14 @@ author: warren
 path: /wiki/grassroots-mapping-coal-river.md
 nid: 1731
 uid: 1
-
+cids: 
 ---
 
 # Grassroots Mapping Coal River
 
-by [mariakatosvich](../profile/mariakatosvich), [warren](../profile/warren)
+by [mariakatosvich](/profile/mariakatosvich), [warren](/profile/warren)
 
-April 21, 2012 14:47 | Tags: [balloon-mapping](../tag/balloon-mapping), [grassrootsmappingwiki](../tag/grassrootsmappingwiki), [mapping](../tag/mapping), [mining](../tag/mining), [mine-reclamation-photography](../tag/mine-reclamation-photography)
+April 21, 2012 14:47 | Tags: [balloon-mapping](/tag/balloon-mapping), [grassrootsmappingwiki](/tag/grassrootsmappingwiki), [mapping](/tag/mapping), [mining](/tag/mining), [mine-reclamation-photography](/tag/mine-reclamation-photography)
 
 ----
 

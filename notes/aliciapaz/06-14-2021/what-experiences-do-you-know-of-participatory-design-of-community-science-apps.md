@@ -6,16 +6,14 @@ author: aliciapaz
 path: /notes/aliciapaz/06-14-2021/what-experiences-do-you-know-of-participatory-design-of-community-science-apps.md
 nid: 26823
 uid: 752301
-
 cids: 
-
 ---
 
 # What experiences do you know of participatory design of community science apps? 
 
-by [aliciapaz](../../../profile/aliciapaz) | June 14, 2021 15:33
+by [aliciapaz](/profile/aliciapaz) | June 14, 2021 15:33
 
-June 14, 2021 15:33 | Tags: [question:general](../tag/question:general), [general](../tag/general), [community-science](../tag/community-science), [technology-design](../tag/technology-design)
+June 14, 2021 15:33 | Tags: [question:general](/tag/question:general), [general](/tag/general), [community-science](/tag/community-science), [technology-design](/tag/technology-design)
 
 ----
 

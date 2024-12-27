@@ -6,14 +6,14 @@ author: warren
 path: /wiki/diy-oil-testing-tools.md
 nid: 12663
 uid: 1
-
+cids: 
 ---
 
 # DIY Oil Testing Tools
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-February 05, 2016 23:12 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [draft](../tag/draft)
+February 05, 2016 23:12 | Tags: [spectrometer](/tag/spectrometer), [oil-testing-kit](/tag/oil-testing-kit), [draft](/tag/draft)
 
 ----
 

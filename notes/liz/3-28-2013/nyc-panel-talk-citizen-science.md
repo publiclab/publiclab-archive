@@ -6,16 +6,14 @@ author: liz
 path: /notes/liz/3-28-2013/nyc-panel-talk-citizen-science.md
 nid: 6577
 uid: 7
-
 cids: 
-
 ---
 
 # NYC: Panel talk on citizen science
 
-by [liz](../../../profile/liz) | March 28, 2013 14:45
+by [liz](/profile/liz) | March 28, 2013 14:45
 
-March 28, 2013 14:45 | Tags: [new-york-city](../tag/new-york-city), [events:new-york-city](../tag/events:new-york-city)
+March 28, 2013 14:45 | Tags: [new-york-city](/tag/new-york-city), [events:new-york-city](/tag/events:new-york-city)
 
 ----
 

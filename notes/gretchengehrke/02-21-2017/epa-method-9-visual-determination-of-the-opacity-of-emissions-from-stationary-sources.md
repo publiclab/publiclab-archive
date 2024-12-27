@@ -6,18 +6,16 @@ author: gretchengehrke
 path: /notes/gretchengehrke/02-21-2017/epa-method-9-visual-determination-of-the-opacity-of-emissions-from-stationary-sources.md
 nid: 13943
 uid: 430549
-
 cids: 16217,16272,31390
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/601/original/IMG_2181_sRGB.JPG)
 
 # EPA Method 9: Visual Determination of the Opacity of Emissions from Stationary Sources
 
-by [gretchengehrke](../../../profile/gretchengehrke) | February 21, 2017 22:26
+by [gretchengehrke](/profile/gretchengehrke) | February 21, 2017 22:26
 
-February 21, 2017 22:26 | Tags: [epa](../tag/epa), [emissions](../tag/emissions), [dust](../tag/dust), [pm](../tag/pm), [barnstar:basic](../tag/barnstar:basic), [pm-monitoring](../tag/pm-monitoring), [method-9](../tag/method-9), [21](../tag/21), [activity:observation](../tag/activity:observation), [activity:monitor](../tag/activity:monitor), [opacity](../tag/opacity), [activity:site-survey](../tag/activity:site-survey), [stationary-sources](../tag/stationary-sources)
+February 21, 2017 22:26 | Tags: [epa](/tag/epa), [emissions](/tag/emissions), [dust](/tag/dust), [pm](/tag/pm), [barnstar:basic](/tag/barnstar:basic), [pm-monitoring](/tag/pm-monitoring), [method-9](/tag/method-9), [21](/tag/21), [activity:observation](/tag/activity:observation), [activity:monitor](/tag/activity:monitor), [opacity](/tag/opacity), [activity:site-survey](/tag/activity:site-survey), [stationary-sources](/tag/stationary-sources)
 
 ----
 

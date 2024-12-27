@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/12-19-2017/what-resources-are-available-to-help-people-monitor-noise-pollution.md
 nid: 15396
 uid: 422561
-
 cids: 17990,17994,18092,22808,22852,22853,26063,26072
-
 ---
 
 # What resources are available to help people monitor noise pollution? 
 
-by [stevie](../../../profile/stevie) | December 19, 2017 22:08
+by [stevie](/profile/stevie) | December 19, 2017 22:08
 
-December 19, 2017 22:08 | Tags: [gulf-coast](../tag/gulf-coast), [new-orleans](../tag/new-orleans), [answered](../tag/answered), [noise](../tag/noise), [question:general](../tag/question:general), [noise-pollution](../tag/noise-pollution), [nola](../tag/nola), [interstate](../tag/interstate), [highway](../tag/highway), [roads](../tag/roads), [question:noise](../tag/question:noise), [question:noise-pollution](../tag/question:noise-pollution)
+December 19, 2017 22:08 | Tags: [gulf-coast](/tag/gulf-coast), [new-orleans](/tag/new-orleans), [answered](/tag/answered), [noise](/tag/noise), [question:general](/tag/question:general), [noise-pollution](/tag/noise-pollution), [nola](/tag/nola), [interstate](/tag/interstate), [highway](/tag/highway), [roads](/tag/roads), [question:noise](/tag/question:noise), [question:noise-pollution](/tag/question:noise-pollution)
 
 ----
 

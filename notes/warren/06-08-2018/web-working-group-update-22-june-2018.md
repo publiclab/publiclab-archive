@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/06-08-2018/web-working-group-update-22-june-2018.md
 nid: 16455
 uid: 1
-
 cids: 19787,19788,19793
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/178/original/pulse.png)
 
 # Web Working Group Update 22: June 2018
 
-by [warren](../../../profile/warren) | June 08, 2018 16:19
+by [warren](/profile/warren) | June 08, 2018 16:19
 
-June 08, 2018 16:19 | Tags: [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [gsoc](../tag/gsoc), [developers](../tag/developers), [code](../tag/code), [libreplanet](../tag/libreplanet), [wwg](../tag/wwg), [webwg](../tag/webwg), [onboarding](../tag/onboarding), [first-timers-only](../tag/first-timers-only), [software-outreach](../tag/software-outreach), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [wwg-update](../tag/wwg-update), [response:15687](../tag/response:15687)
+June 08, 2018 16:19 | Tags: [web-development](/tag/web-development), [software](/tag/software), [plots2](/tag/plots2), [gsoc](/tag/gsoc), [developers](/tag/developers), [code](/tag/code), [libreplanet](/tag/libreplanet), [wwg](/tag/wwg), [webwg](/tag/webwg), [onboarding](/tag/onboarding), [first-timers-only](/tag/first-timers-only), [software-outreach](/tag/software-outreach), [rgsoc](/tag/rgsoc), [soc](/tag/soc), [soc-2017](/tag/soc-2017), [wwg-update](/tag/wwg-update), [response:15687](/tag/response:15687)
 
 ----
 

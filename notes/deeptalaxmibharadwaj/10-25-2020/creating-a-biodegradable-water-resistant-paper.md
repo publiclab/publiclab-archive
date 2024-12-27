@@ -6,18 +6,16 @@ author: deeptalaxmibharadwaj
 path: /notes/deeptalaxmibharadwaj/10-25-2020/creating-a-biodegradable-water-resistant-paper.md
 nid: 24810
 uid: 615276
-
 cids: 27620,31218
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/220/original/title.png)
 
 # Creating a Biodegradable water resistant paper
 
-by [deeptalaxmibharadwaj](../../../profile/deeptalaxmibharadwaj) | October 25, 2020 18:21
+by [deeptalaxmibharadwaj](/profile/deeptalaxmibharadwaj) | October 25, 2020 18:21
 
-October 25, 2020 18:21 | Tags: [waste-management](../tag/waste-management), [waste](../tag/waste), [paper](../tag/paper), [plastics](../tag/plastics), [lat:12.971598](../tag/lat:12.971598), [lon:77.594562](../tag/lon:77.594562), [zoom:4](../tag/zoom:4), [biodegradable](../tag/biodegradable), [water-repellent](../tag/water-repellent)
+October 25, 2020 18:21 | Tags: [waste-management](/tag/waste-management), [waste](/tag/waste), [paper](/tag/paper), [plastics](/tag/plastics), [lat:12.971598](/tag/lat:12.971598), [lon:77.594562](/tag/lon:77.594562), [zoom:4](/tag/zoom:4), [biodegradable](/tag/biodegradable), [water-repellent](/tag/water-repellent)
 
 ----
 

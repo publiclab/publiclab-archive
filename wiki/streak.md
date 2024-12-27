@@ -6,14 +6,14 @@ author: warren
 path: /wiki/streak.md
 nid: 13166
 uid: 1
-
+cids: 
 ---
 
 # Streak
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-June 04, 2016 01:00 | Tags: [community](../tag/community), [website](../tag/website), [streak](../tag/streak), [streaks](../tag/streaks)
+June 04, 2016 01:00 | Tags: [community](/tag/community), [website](/tag/website), [streak](/tag/streak), [streaks](/tag/streaks)
 
 ----
 

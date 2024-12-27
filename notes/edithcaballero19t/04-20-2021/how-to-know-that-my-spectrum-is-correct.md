@@ -6,16 +6,14 @@ author: edithcaballero19t
 path: /notes/edithcaballero19t/04-20-2021/how-to-know-that-my-spectrum-is-correct.md
 nid: 26281
 uid: 753470
-
 cids: 
-
 ---
 
 # how to know that my spectrum is correct?
 
-by [edithcaballero19t](../../../profile/edithcaballero19t) | April 20, 2021 10:19
+by [edithcaballero19t](/profile/edithcaballero19t) | April 20, 2021 10:19
 
-April 20, 2021 10:19 | Tags: [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
+April 20, 2021 10:19 | Tags: [question:general](/tag/question:general), [general](/tag/general), [first-time-poster](/tag/first-time-poster)
 
 ----
 

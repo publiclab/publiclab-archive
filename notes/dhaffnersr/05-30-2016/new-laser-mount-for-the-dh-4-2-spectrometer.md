@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/05-30-2016/new-laser-mount-for-the-dh-4-2-spectrometer.md
 nid: 13154
 uid: 461120
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/397/original/laser_mounted_view_1.png)
 
 # New Laser mount for the DH 4.2 Spectrometer
 
-by [dhaffnersr](../../../profile/dhaffnersr) | May 30, 2016 13:59
+by [dhaffnersr](/profile/dhaffnersr) | May 30, 2016 13:59
 
 May 30, 2016 13:59 | Tags: 
 

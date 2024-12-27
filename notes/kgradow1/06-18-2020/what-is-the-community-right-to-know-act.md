@@ -6,18 +6,16 @@ author: kgradow1
 path: /notes/kgradow1/06-18-2020/what-is-the-community-right-to-know-act.md
 nid: 23874
 uid: 297929
-
 cids: 27148,30996,30997,31022,31116
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/817/original/Screen_Shot_2020-06-17_at_8.33.19_PM.png)
 
 # What is the Community Right-to-Know Act?
 
-by [kgradow1](../../../profile/kgradow1) | June 18, 2020 01:30
+by [kgradow1](/profile/kgradow1) | June 18, 2020 01:30
 
-June 18, 2020 01:30 | Tags: [epa](../tag/epa), [air-quality](../tag/air-quality), [superfund](../tag/superfund), [water-quality](../tag/water-quality), [legal](../tag/legal), [tools](../tag/tools), [methods](../tag/methods), [bucket-brigade](../tag/bucket-brigade), [serc](../tag/serc), [hazardous](../tag/hazardous), [emergency](../tag/emergency), [tri](../tag/tri), [toxics-release-inventory](../tag/toxics-release-inventory), [lon:-71](../tag/lon:-71), [lat:42](../tag/lat:42), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor), [law-and-policy](../tag/law-and-policy)
+June 18, 2020 01:30 | Tags: [epa](/tag/epa), [air-quality](/tag/air-quality), [superfund](/tag/superfund), [water-quality](/tag/water-quality), [legal](/tag/legal), [tools](/tag/tools), [methods](/tag/methods), [bucket-brigade](/tag/bucket-brigade), [serc](/tag/serc), [hazardous](/tag/hazardous), [emergency](/tag/emergency), [tri](/tag/tri), [toxics-release-inventory](/tag/toxics-release-inventory), [lon:-71](/tag/lon:-71), [lat:42](/tag/lat:42), [zoom:6](/tag/zoom:6), [bucket-monitor](/tag/bucket-monitor), [law-and-policy](/tag/law-and-policy)
 
 ----
 

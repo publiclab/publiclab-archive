@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/05-02-2014/announcing-the-infragram-point-shoot.md
 nid: 10391
 uid: 4
-
 cids: 8947,9033,9034,9038,9039,9316,9356,9372,9373,9383,9646
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/976/original/14106506533_0022f9e0d7_o%281%29.jpg)
 
 # Announcing the Infragram Point & Shoot
 
-by [mathew](../../../profile/mathew) | May 02, 2014 05:58
+by [mathew](/profile/mathew) | May 02, 2014 05:58
 
-May 02, 2014 05:58 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infrared](../tag/infrared), [kickstarter](../tag/kickstarter), [infragram](../tag/infragram), [rosco](../tag/rosco), [mobius](../tag/mobius), [wratten](../tag/wratten), [redfilter](../tag/redfilter)
+May 02, 2014 05:58 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [infrared](/tag/infrared), [kickstarter](/tag/kickstarter), [infragram](/tag/infragram), [rosco](/tag/rosco), [mobius](/tag/mobius), [wratten](/tag/wratten), [redfilter](/tag/redfilter)
 
 ----
 

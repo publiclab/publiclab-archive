@@ -6,12 +6,12 @@ author: gonzoearth
 path: /wiki/staff-call-notes-632010.md
 nid: 319
 uid: 12
-
+cids: 
 ---
 
 # staff call notes 6-3-2011
 
-by [warren](../profile/warren), [gonzoearth](../profile/gonzoearth)
+by [warren](/profile/warren), [gonzoearth](/profile/gonzoearth)
 
 June 03, 2011 14:58 | Tags: 
 

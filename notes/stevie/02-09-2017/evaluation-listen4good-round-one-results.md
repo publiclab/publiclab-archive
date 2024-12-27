@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/02-09-2017/evaluation-listen4good-round-one-results.md
 nid: 13914
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/519/original/20160709_143453.jpg)
 
 # Evaluation: Listen4Good round one results
 
-by [stevie](../../../profile/stevie) | February 09, 2017 18:48
+by [stevie](/profile/stevie) | February 09, 2017 18:48
 
-February 09, 2017 18:48 | Tags: [events](../tag/events), [evaluation](../tag/evaluation), [listen4good](../tag/listen4good)
+February 09, 2017 18:48 | Tags: [events](/tag/events), [evaluation](/tag/evaluation), [listen4good](/tag/listen4good)
 
 ----
 

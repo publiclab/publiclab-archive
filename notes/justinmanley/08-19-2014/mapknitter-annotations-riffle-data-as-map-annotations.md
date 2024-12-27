@@ -6,18 +6,16 @@ author: justinmanley
 path: /notes/justinmanley/08-19-2014/mapknitter-annotations-riffle-data-as-map-annotations.md
 nid: 11064
 uid: 421556
-
 cids: 10073,10074
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/340/original/IMAG0382.jpg)
 
 # MapKnitter Annotations: Riffle Data as Map Annotations
 
-by [justinmanley](../../../profile/justinmanley) | August 19, 2014 18:56
+by [justinmanley](/profile/justinmanley) | August 19, 2014 18:56
 
-August 19, 2014 18:56 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [riffle](../tag/riffle), [gsoc-2014](../tag/gsoc-2014), [annotations](../tag/annotations)
+August 19, 2014 18:56 | Tags: [mapknitter](/tag/mapknitter), [gsoc](/tag/gsoc), [riffle](/tag/riffle), [gsoc-2014](/tag/gsoc-2014), [annotations](/tag/annotations)
 
 ----
 

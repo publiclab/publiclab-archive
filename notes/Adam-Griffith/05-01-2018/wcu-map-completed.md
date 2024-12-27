@@ -6,18 +6,16 @@ author: adam-griffith
 path: /notes/Adam-Griffith/05-01-2018/wcu-map-completed.md
 nid: 306
 uid: 3
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/406/original/WCU_Phipps_PL.jpg)
 
 # WCU map completed
 
-by [adam-griffith](../../../profile/adam-griffith) | May 30, 2011 18:09
+by [adam-griffith](/profile/adam-griffith) | May 30, 2011 18:09
 
-May 30, 2011 18:09 | Tags: [western-carolina-university](../tag/western-carolina-university)
+May 30, 2011 18:09 | Tags: [western-carolina-university](/tag/western-carolina-university)
 
 ----
 

@@ -6,16 +6,14 @@ author: MadTinker
 path: /notes/MadTinker/03-26-2018/turbidity-sensor-assembly.md
 nid: 16019
 uid: 461206
-
 cids: 19198,19202,19221,19233,19234,19250,19252,20694,26403
-
 ---
 
 # Turbidity Sensor Assembly
 
-by [MadTinker](../../../profile/MadTinker) | March 26, 2018 17:44
+by [MadTinker](/profile/MadTinker) | March 26, 2018 17:44
 
-March 26, 2018 17:44 | Tags: [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [datalogger](../tag/datalogger), [data-logging](../tag/data-logging), [mini-pearl](../tag/mini-pearl)
+March 26, 2018 17:44 | Tags: [water-quality](/tag/water-quality), [turbidity](/tag/turbidity), [datalogger](/tag/datalogger), [data-logging](/tag/data-logging), [mini-pearl](/tag/mini-pearl)
 
 ----
 

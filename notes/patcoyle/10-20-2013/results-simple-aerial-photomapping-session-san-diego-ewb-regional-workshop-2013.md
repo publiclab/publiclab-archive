@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/10-20-2013/results-simple-aerial-photomapping-session-san-diego-ewb-regional-workshop-2013.md
 nid: 9507
 uid: 77
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/957/original/IMG_7629_stitch3_NDVI_Color.jpg)
 
 # Results: Simple Aerial Photomapping session, San Diego EWB Regional Workshop 2013
 
-by [patcoyle](../../../profile/patcoyle) | October 20, 2013 19:36
+by [patcoyle](/profile/patcoyle) | October 20, 2013 19:36
 
-October 20, 2013 19:36 | Tags: [balloon-mapping](../tag/balloon-mapping)
+October 20, 2013 19:36 | Tags: [balloon-mapping](/tag/balloon-mapping)
 
 ----
 

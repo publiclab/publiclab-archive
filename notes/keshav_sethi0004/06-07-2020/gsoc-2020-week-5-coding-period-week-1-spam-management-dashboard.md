@@ -6,18 +6,16 @@ author: keshav_sethi0004
 path: /notes/keshav_sethi0004/06-07-2020/gsoc-2020-week-5-coding-period-week-1-spam-management-dashboard.md
 nid: 23792
 uid: 653396
-
 cids: 26953,26976,26978,26979,27005
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/681/original/smd.png)
 
 # GSOC 2020 Week 5 (coding Period Week-1)@Spam Management Dashboard 
 
-by [keshav_sethi0004](../../../profile/keshav_sethi0004) | June 07, 2020 20:52
+by [keshav_sethi0004](/profile/keshav_sethi0004) | June 07, 2020 20:52
 
-June 07, 2020 20:52 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [spam](../tag/spam), [general](../tag/general), [lat:29.058775](../tag/lat:29.058775), [lon:76.085601](../tag/lon:76.085601), [zoom:5](../tag/zoom:5), [keshav](../tag/keshav), [smd](../tag/smd), [weekly-update](../tag/weekly-update)
+June 07, 2020 20:52 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [spam](/tag/spam), [general](/tag/general), [lat:29.058775](/tag/lat:29.058775), [lon:76.085601](/tag/lon:76.085601), [zoom:5](/tag/zoom:5), [keshav](/tag/keshav), [smd](/tag/smd), [weekly-update](/tag/weekly-update)
 
 ----
 

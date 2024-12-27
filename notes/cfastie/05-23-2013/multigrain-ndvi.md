@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/05-23-2013/multigrain-ndvi.md
 nid: 7837
 uid: 554
-
 cids: 4810,4817,4818,31240
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/385/original/rows_6220.jpg)
 
 # Multigrain NDVI
 
-by [cfastie](../../../profile/cfastie) | May 23, 2013 01:11
+by [cfastie](/profile/cfastie) | May 23, 2013 01:11
 
-May 23, 2013 01:11 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [new-hampshire](../tag/new-hampshire), [agriculture](../tag/agriculture), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [ifarm](../tag/ifarm), [gigapan](../tag/gigapan), [ifarm2013](../tag/ifarm2013)
+May 23, 2013 01:11 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [nrg](/tag/nrg), [ndvi](/tag/ndvi), [vermont](/tag/vermont), [new-hampshire](/tag/new-hampshire), [agriculture](/tag/agriculture), [infragram](/tag/infragram), [plant-health](/tag/plant-health), [ifarm](/tag/ifarm), [gigapan](/tag/gigapan), [ifarm2013](/tag/ifarm2013)
 
 ----
 

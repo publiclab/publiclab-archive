@@ -6,14 +6,14 @@ author: donblair
 path: /wiki/diybio-ideas-and-applications.md
 nid: 7408
 uid: 43651
-
+cids: 
 ---
 
 # DIYBIO Ideas and Applications
 
-by [briandegger](../profile/briandegger), [donblair](../profile/donblair)
+by [briandegger](/profile/briandegger), [donblair](/profile/donblair)
 
-May 10, 2013 15:23 | Tags: [spectrometer](../tag/spectrometer), [diybio](../tag/diybio), [igem](../tag/igem)
+May 10, 2013 15:23 | Tags: [spectrometer](/tag/spectrometer), [diybio](/tag/diybio), [igem](/tag/igem)
 
 ----
 

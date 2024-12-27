@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/08-14-2014/continued-literature-review-for-the-oil-testing-kit.md
 nid: 11053
 uid: 1
-
 cids: 10003,10029,10032,10036
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/274/original/saturation.png)
 
 # Continued literature review for the Oil Testing Kit
 
-by [warren](../../../profile/warren) | August 14, 2014 22:27
+by [warren](/profile/warren) | August 14, 2014 22:27
 
-August 14, 2014 22:27 | Tags: [spectrometer](../tag/spectrometer), [spectrum-matching](../tag/spectrum-matching), [fluorescence](../tag/fluorescence), [heavy-metals](../tag/heavy-metals), [matching](../tag/matching), [closest-match](../tag/closest-match), [literature](../tag/literature), [identifying-oil](../tag/identifying-oil), [oil-testing-kit](../tag/oil-testing-kit), [lifs](../tag/lifs), [lif](../tag/lif), [humic-acid](../tag/humic-acid), [humic](../tag/humic), [humic-fluorescence](../tag/humic-fluorescence), [plant-matter](../tag/plant-matter)
+August 14, 2014 22:27 | Tags: [spectrometer](/tag/spectrometer), [spectrum-matching](/tag/spectrum-matching), [fluorescence](/tag/fluorescence), [heavy-metals](/tag/heavy-metals), [matching](/tag/matching), [closest-match](/tag/closest-match), [literature](/tag/literature), [identifying-oil](/tag/identifying-oil), [oil-testing-kit](/tag/oil-testing-kit), [lifs](/tag/lifs), [lif](/tag/lif), [humic-acid](/tag/humic-acid), [humic](/tag/humic), [humic-fluorescence](/tag/humic-fluorescence), [plant-matter](/tag/plant-matter)
 
 ----
 

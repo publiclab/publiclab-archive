@@ -6,18 +6,16 @@ author: epongrat
 path: /notes/epongrat/10-14-2014/research-note-1-10-14-14.md
 nid: 11263
 uid: 428825
-
 cids: 10573,10587
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/438/original/IMG_6261.JPG)
 
 # Pollution to Solution: First Research Note 1, 10/14/14
 
-by [epongrat](../../../profile/epongrat) | October 14, 2014 20:52
+by [epongrat](/profile/epongrat) | October 14, 2014 20:52
 
-October 14, 2014 20:52 | Tags: [arduino](../tag/arduino), [massachusetts](../tag/massachusetts), [air-quality](../tag/air-quality), [air](../tag/air), [pollution](../tag/pollution), [sensor](../tag/sensor), [solar](../tag/solar), [pioneer-valley](../tag/pioneer-valley), [springfield](../tag/springfield), [ozone](../tag/ozone), [nitrogen-dioxide](../tag/nitrogen-dioxide), [air-sensors](../tag/air-sensors), [air-sensor-projects](../tag/air-sensor-projects), [first-time-poster](../tag/first-time-poster)
+October 14, 2014 20:52 | Tags: [arduino](/tag/arduino), [massachusetts](/tag/massachusetts), [air-quality](/tag/air-quality), [air](/tag/air), [pollution](/tag/pollution), [sensor](/tag/sensor), [solar](/tag/solar), [pioneer-valley](/tag/pioneer-valley), [springfield](/tag/springfield), [ozone](/tag/ozone), [nitrogen-dioxide](/tag/nitrogen-dioxide), [air-sensors](/tag/air-sensors), [air-sensor-projects](/tag/air-sensor-projects), [first-time-poster](/tag/first-time-poster)
 
 ----
 

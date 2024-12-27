@@ -6,18 +6,16 @@ author: mollydanielsson
 path: /notes/MollyDanielsson/02-17-2015/call-out-for-submissions-for-5-year-anniversary-gmf.md
 nid: 11596
 uid: 1259
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/000/original/barnraising.JPG)
 
 # Call Out for Submissions for 5 Year Anniversary GMF
 
-by [mollydanielsson](../../../profile/mollydanielsson) | February 17, 2015 20:03
+by [mollydanielsson](/profile/mollydanielsson) | February 17, 2015 20:03
 
-February 17, 2015 20:03 | Tags: [grassrootsmappingforum](../tag/grassrootsmappingforum), [gmf-7](../tag/gmf-7)
+February 17, 2015 20:03 | Tags: [grassrootsmappingforum](/tag/grassrootsmappingforum), [gmf-7](/tag/gmf-7)
 
 ----
 

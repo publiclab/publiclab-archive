@@ -6,14 +6,14 @@ author: liz
 path: /wiki/bayou-st-john-at-lake-pontchartrain.md
 nid: 12101
 uid: 7
-
+cids: 
 ---
 
 # Bayou St. John at Lake Pontchartrain
 
-by [eustatic](../profile/eustatic), [liz](../profile/liz)
+by [eustatic](/profile/eustatic), [liz](/profile/liz)
 
-July 24, 2015 20:02 | Tags: [gulf-coast](../tag/gulf-coast), [bsj](../tag/bsj)
+July 24, 2015 20:02 | Tags: [gulf-coast](/tag/gulf-coast), [bsj](/tag/bsj)
 
 ----
 

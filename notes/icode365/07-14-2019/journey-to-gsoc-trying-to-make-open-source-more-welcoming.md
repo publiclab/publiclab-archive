@@ -6,18 +6,16 @@ author: icode365
 path: /notes/icode365/07-14-2019/journey-to-gsoc-trying-to-make-open-source-more-welcoming.md
 nid: 20098
 uid: 553778
-
 cids: 25048,25053,25140
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/667/original/bannerblog.png)
 
 # Journey to GSoC '19: Making community toolbox more welcoming
 
-by [icode365](../../../profile/icode365) | July 14, 2019 13:04
+by [icode365](/profile/icode365) | July 14, 2019 13:04
 
-July 14, 2019 13:04 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [google-summer-of-code](../tag/google-summer-of-code), [summer-of-code](../tag/summer-of-code)
+July 14, 2019 13:04 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [google-summer-of-code](/tag/google-summer-of-code), [summer-of-code](/tag/summer-of-code)
 
 ----
 

@@ -6,18 +6,16 @@ author: anishshah101
 path: /notes/anishshah101/06-05-2014/how-to-access-the-public-lab-internet-relay-chat.md
 nid: 10531
 uid: 421046
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/530/original/3.png)
 
 # How to access the Public Lab Internet Relay Chat (IRC)?
 
-by [anishshah101](../../../profile/anishshah101) | June 05, 2014 06:02
+by [anishshah101](/profile/anishshah101) | June 05, 2014 06:02
 
-June 05, 2014 06:02 | Tags: [chat](../tag/chat), [developers](../tag/developers), [irc](../tag/irc)
+June 05, 2014 06:02 | Tags: [chat](/tag/chat), [developers](/tag/developers), [irc](/tag/irc)
 
 ----
 

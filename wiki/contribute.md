@@ -6,16 +6,16 @@ author: warren
 path: /wiki/contribute.md
 nid: 94
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/662/original/HUMAN_NATURE__LLC-LeslieBirch-BallonMapping-TXBarnraising-CCBYSA.jpg)
 
 # Contribute
 
-by [bhamster](../profile/bhamster), [liz](../profile/liz), [zengirl2](../profile/zengirl2), [warren](../profile/warren)
+by [bhamster](/profile/bhamster), [liz](/profile/liz), [zengirl2](/profile/zengirl2), [warren](/profile/warren)
 
-February 20, 2011 20:54 | Tags: [community](../tag/community), [welcome](../tag/welcome), [getting-started](../tag/getting-started), [parent:welcome](../tag/parent:welcome), [contribute](../tag/contribute)
+February 20, 2011 20:54 | Tags: [community](/tag/community), [welcome](/tag/welcome), [getting-started](/tag/getting-started), [parent:welcome](/tag/parent:welcome), [contribute](/tag/contribute)
 
 ----
 

@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/05-29-2015/saturn-v-and-skyshield-beta.md
 nid: 11900
 uid: 554
-
 cids: 11815,11816,11895
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/090/original/SkySweep-615-28-2.jpg)
 
 # Saturn V and SkyShield beta 
 
-by [cfastie](../../../profile/cfastie) | May 29, 2015 17:58
+by [cfastie](/profile/cfastie) | May 29, 2015 17:58
 
-May 29, 2015 17:58 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [autokap](../tag/autokap), [with:donblair](../tag/with:donblair), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [response:11830](../tag/response:11830)
+May 29, 2015 17:58 | Tags: [kite-aerial-photography](/tag/kite-aerial-photography), [kap](/tag/kap), [photo-rig](/tag/photo-rig), [autokap](/tag/autokap), [with:donblair](/tag/with:donblair), [kaptery](/tag/kaptery), [saturnv](/tag/saturnv), [skyshield](/tag/skyshield), [response:11830](/tag/response:11830)
 
 ----
 

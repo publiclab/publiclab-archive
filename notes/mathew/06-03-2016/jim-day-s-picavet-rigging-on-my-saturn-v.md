@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/06-03-2016/jim-day-s-picavet-rigging-on-my-saturn-v.md
 nid: 13164
 uid: 4
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/486/original/P_20160312_084727.jpg)
 
 # Jim Day's Picavet rigging on my Saturn V
 
-by [mathew](../../../profile/mathew) | June 03, 2016 23:51
+by [mathew](/profile/mathew) | June 03, 2016 23:51
 
-June 03, 2016 23:51 | Tags: [kite-mapping](../tag/kite-mapping), [picavet](../tag/picavet), [kite-aerial-photography](../tag/kite-aerial-photography), [photo-rig](../tag/photo-rig), [kap-rigs](../tag/kap-rigs)
+June 03, 2016 23:51 | Tags: [kite-mapping](/tag/kite-mapping), [picavet](/tag/picavet), [kite-aerial-photography](/tag/kite-aerial-photography), [photo-rig](/tag/photo-rig), [kap-rigs](/tag/kap-rigs)
 
 ----
 

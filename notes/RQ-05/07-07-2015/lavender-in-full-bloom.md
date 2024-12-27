@@ -6,18 +6,16 @@ author: RQ-05
 path: /notes/RQ-05/07-07-2015/lavender-in-full-bloom.md
 nid: 12038
 uid: 440673
-
 cids: 12125
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/562/original/2015-07-07T00_27_35.362Z.jpg)
 
 # Lavender in full bloom
 
-by [RQ-05](../../../profile/RQ-05) | July 07, 2015 23:16
+by [RQ-05](/profile/RQ-05) | July 07, 2015 23:16
 
-July 07, 2015 23:16 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [processing](../tag/processing), [compositing](../tag/compositing), [infragram-sandbox](../tag/infragram-sandbox), [infragrammar](../tag/infragrammar), [colormap](../tag/colormap), [response:9054](../tag/response:9054)
+July 07, 2015 23:16 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [infragram](/tag/infragram), [processing](/tag/processing), [compositing](/tag/compositing), [infragram-sandbox](/tag/infragram-sandbox), [infragrammar](/tag/infragrammar), [colormap](/tag/colormap), [response:9054](/tag/response:9054)
 
 ----
 

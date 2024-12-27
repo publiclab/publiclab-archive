@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/06-10-2014/ne-organizers-summit.md
 nid: 10545
 uid: 554
-
 cids: 9176
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/580/original/NEbarn-465-146.jpg)
 
 # NE Organizers Summit
 
-by [cfastie](../../../profile/cfastie) | June 10, 2014 17:06
+by [cfastie](/profile/cfastie) | June 10, 2014 17:06
 
-June 10, 2014 17:06 | Tags: [barnraising](../tag/barnraising), [event](../tag/event), [organizers](../tag/organizers), [massachusetts](../tag/massachusetts), [tidmarsh](../tag/tidmarsh), [northeast](../tag/northeast), [nebarnraising](../tag/nebarnraising), [ma](../tag/ma), [barnstar:photo-documentation](../tag/barnstar:photo-documentation)
+June 10, 2014 17:06 | Tags: [barnraising](/tag/barnraising), [event](/tag/event), [organizers](/tag/organizers), [massachusetts](/tag/massachusetts), [tidmarsh](/tag/tidmarsh), [northeast](/tag/northeast), [nebarnraising](/tag/nebarnraising), [ma](/tag/ma), [barnstar:photo-documentation](/tag/barnstar:photo-documentation)
 
 ----
 

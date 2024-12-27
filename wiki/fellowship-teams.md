@@ -6,16 +6,16 @@ author: stevie
 path: /wiki/fellowship-teams.md
 nid: 26321
 uid: 422561
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/455/original/Mapping_New_Orleans'_Bayou_Bienvenue.jpg)
 
 # Fellowship Teams
 
-by [stevie](../profile/stevie), [bhamster](../profile/bhamster), [fongvania](../profile/fongvania), [amocorro](../profile/amocorro)
+by [stevie](/profile/stevie), [bhamster](/profile/bhamster), [fongvania](/profile/fongvania), [amocorro](/profile/amocorro)
 
-April 23, 2021 20:16 | Tags: [organizing](../tag/organizing), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [parent:fellows](../tag/parent:fellows), [fellowship-team](../tag/fellowship-team)
+April 23, 2021 20:16 | Tags: [organizing](/tag/organizing), [fellows](/tag/fellows), [fellowship](/tag/fellowship), [parent:fellows](/tag/parent:fellows), [fellowship-team](/tag/fellowship-team)
 
 ----
 

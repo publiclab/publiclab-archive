@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/08-05-2014/openhour-nyc-irl.md
 nid: 11014
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/034/original/IMG_2059.JPG)
 
 # OpenHour NYC IRL
 
-by [liz](../../../profile/liz) | August 05, 2014 14:28
+by [liz](/profile/liz) | August 05, 2014 14:28
 
-August 05, 2014 14:28 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event), [northeast](../tag/northeast), [openhour](../tag/openhour)
+August 05, 2014 14:28 | Tags: [new-york-city](/tag/new-york-city), [event](/tag/event), [northeast](/tag/northeast), [openhour](/tag/openhour)
 
 ----
 

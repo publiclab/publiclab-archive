@@ -6,14 +6,12 @@ author: Shannon
 path: /notes/shannon/11-14-2011/plots-august-2011-organization-update.md
 nid: 561
 uid: 9
-
 cids: 
-
 ---
 
 # PLOTS August 2011 organization update
 
-by [Shannon](../../../profile/Shannon) | November 14, 2011 23:57
+by [Shannon](/profile/Shannon) | November 14, 2011 23:57
 
 November 14, 2011 23:57 | Tags: 
 

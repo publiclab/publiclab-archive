@@ -6,12 +6,12 @@ author: liz
 path: /wiki/infragram-press.md
 nid: 7863
 uid: 7
-
+cids: 
 ---
 
 # infragram-press
 
-by [warren](../profile/warren), [liz](../profile/liz)
+by [warren](/profile/warren), [liz](/profile/liz)
 
 May 23, 2013 15:33 | Tags: 
 

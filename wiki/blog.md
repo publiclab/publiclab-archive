@@ -6,14 +6,14 @@ author: ephemeralwaves
 path: /wiki/blog.md
 nid: 18490
 uid: 47284
-
+cids: 
 ---
 
 # Blog
 
-by [ephemeralwaves](../profile/ephemeralwaves)
+by [ephemeralwaves](/profile/ephemeralwaves)
 
-March 08, 2019 00:50 | Tags: [location:blurred](../tag/location:blurred), [lat:24](../tag/lat:24), [zoom:6](../tag/zoom:6), [lon:89](../tag/lon:89), [place:kuwait-repair-hawally-hawally-block-6-street-321-kuwait](../tag/place:kuwait-repair-hawally-hawally-block-6-street-321-kuwait)
+March 08, 2019 00:50 | Tags: [location:blurred](/tag/location:blurred), [lat:24](/tag/lat:24), [zoom:6](/tag/zoom:6), [lon:89](/tag/lon:89), [place:kuwait-repair-hawally-hawally-block-6-street-321-kuwait](/tag/place:kuwait-repair-hawally-hawally-block-6-street-321-kuwait)
 
 ----
 

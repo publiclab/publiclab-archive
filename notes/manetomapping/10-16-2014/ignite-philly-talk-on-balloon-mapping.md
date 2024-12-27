@@ -6,18 +6,16 @@ author: manetomapping
 path: /notes/manetomapping/10-16-2014/ignite-philly-talk-on-balloon-mapping.md
 nid: 11268
 uid: 59273
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/449/original/ignite.PNG)
 
 # Ignite Philly Talk on Balloon Mapping 
 
-by [manetomapping](../../../profile/manetomapping) | October 16, 2014 14:57
+by [manetomapping](/profile/manetomapping) | October 16, 2014 14:57
 
-October 16, 2014 14:57 | Tags: [balloon-mapping](../tag/balloon-mapping), [philadelphia](../tag/philadelphia)
+October 16, 2014 14:57 | Tags: [balloon-mapping](/tag/balloon-mapping), [philadelphia](/tag/philadelphia)
 
 ----
 

@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/08-12-2017/winds-aloft-less-noise.md
 nid: 14756
 uid: 554
-
 cids: 17184,17208,17209,17210,17211,17215,17216
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/330/original/wind_20170810-0427.JPG)
 
 # Winds aloft: less noise
 
-by [cfastie](../../../profile/cfastie) | August 12, 2017 16:34
+by [cfastie](/profile/cfastie) | August 12, 2017 16:34
 
-August 12, 2017 16:34 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [arduino](../tag/arduino), [kite-aerial-photography](../tag/kite-aerial-photography), [kite](../tag/kite), [gps](../tag/gps), [sensors](../tag/sensors), [wind](../tag/wind), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [data-logging](../tag/data-logging), [skypod](../tag/skypod), [bme280](../tag/bme280), [ublox](../tag/ublox), [rokkaku](../tag/rokkaku), [response:14713](../tag/response:14713), [series:diy-wind-sensors](../tag/series:diy-wind-sensors), [skypod-gps-logger](../tag/skypod-gps-logger), [activity:skypod-gps-logger](../tag/activity:skypod-gps-logger), [activity:as220-wind-sensors](../tag/activity:as220-wind-sensors)
+August 12, 2017 16:34 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [arduino](/tag/arduino), [kite-aerial-photography](/tag/kite-aerial-photography), [kite](/tag/kite), [gps](/tag/gps), [sensors](/tag/sensors), [wind](/tag/wind), [saturnv](/tag/saturnv), [skyshield](/tag/skyshield), [data-logging](/tag/data-logging), [skypod](/tag/skypod), [bme280](/tag/bme280), [ublox](/tag/ublox), [rokkaku](/tag/rokkaku), [response:14713](/tag/response:14713), [series:diy-wind-sensors](/tag/series:diy-wind-sensors), [skypod-gps-logger](/tag/skypod-gps-logger), [activity:skypod-gps-logger](/tag/activity:skypod-gps-logger), [activity:as220-wind-sensors](/tag/activity:as220-wind-sensors)
 
 ----
 

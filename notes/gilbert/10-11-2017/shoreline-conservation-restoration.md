@@ -6,16 +6,14 @@ author: gilbert
 path: /notes/gilbert/10-11-2017/shoreline-conservation-restoration.md
 nid: 15039
 uid: 508551
-
 cids: 
-
 ---
 
 # Shoreline Conservation & Restoration
 
-by [gilbert](../../../profile/gilbert) | October 11, 2017 21:36
+by [gilbert](/profile/gilbert) | October 11, 2017 21:36
 
-October 11, 2017 21:36 | Tags: [water-quality-monitoring](../tag/water-quality-monitoring), [water-quality](../tag/water-quality), [feedlots](../tag/feedlots), [shoreline-flora](../tag/shoreline-flora), [shoreline-gravel](../tag/shoreline-gravel)
+October 11, 2017 21:36 | Tags: [water-quality-monitoring](/tag/water-quality-monitoring), [water-quality](/tag/water-quality), [feedlots](/tag/feedlots), [shoreline-flora](/tag/shoreline-flora), [shoreline-gravel](/tag/shoreline-gravel)
 
 ----
 

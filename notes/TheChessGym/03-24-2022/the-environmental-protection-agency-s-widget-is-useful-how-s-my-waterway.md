@@ -6,18 +6,16 @@ author: TheChessGym
 path: /notes/TheChessGym/03-24-2022/the-environmental-protection-agency-s-widget-is-useful-how-s-my-waterway.md
 nid: 30184
 uid: 788868
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/562/original/Screenshot_%287%29.png)
 
 #  The Environmental Protection Agency's Widget is Useful (How's My Waterway?)
 
-by [TheChessGym](../../../profile/TheChessGym) | March 24, 2022 14:42
+by [TheChessGym](/profile/TheChessGym) | March 24, 2022 14:42
 
-March 24, 2022 14:42 | Tags: [epa](../tag/epa), [lat:22](../tag/lat:22), [first-time-poster](../tag/first-time-poster), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
+March 24, 2022 14:42 | Tags: [epa](/tag/epa), [lat:22](/tag/lat:22), [first-time-poster](/tag/first-time-poster), [lon:76](/tag/lon:76), [zoom:6](/tag/zoom:6)
 
 ----
 

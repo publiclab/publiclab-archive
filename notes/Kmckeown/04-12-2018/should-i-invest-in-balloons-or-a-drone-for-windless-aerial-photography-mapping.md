@@ -6,16 +6,14 @@ author: Kmckeown
 path: /notes/Kmckeown/04-12-2018/should-i-invest-in-balloons-or-a-drone-for-windless-aerial-photography-mapping.md
 nid: 16141
 uid: 530589
-
 cids: 20454,23064,23066,23079
-
 ---
 
 # Should I invest in balloons or a drone for windless aerial photography/mapping? 
 
-by [Kmckeown](../../../profile/Kmckeown) | April 12, 2018 04:33
+by [Kmckeown](/profile/Kmckeown) | April 12, 2018 04:33
 
-April 12, 2018 04:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [drones](../tag/drones), [aerial-photography](../tag/aerial-photography), [kap](../tag/kap), [helium](../tag/helium), [helium-balloon](../tag/helium-balloon), [answered](../tag/answered), [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster)
+April 12, 2018 04:33 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-aerial-photography](/tag/kite-aerial-photography), [drones](/tag/drones), [aerial-photography](/tag/aerial-photography), [kap](/tag/kap), [helium](/tag/helium), [helium-balloon](/tag/helium-balloon), [answered](/tag/answered), [question:general](/tag/question:general), [first-time-poster](/tag/first-time-poster)
 
 ----
 

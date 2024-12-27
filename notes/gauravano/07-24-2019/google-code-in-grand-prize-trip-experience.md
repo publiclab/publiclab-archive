@@ -6,18 +6,16 @@ author: gauravano
 path: /notes/gauravano/07-24-2019/google-code-in-grand-prize-trip-experience.md
 nid: 20293
 uid: 515081
-
 cids: 25107,25110,25111,25119,25120,25121,25125,25126,25127,25128,25129,25130,25177
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/086/original/Group_Pic_Yacht_Students_and_Mentors_%281%29.JPG)
 
 # Google Code-In Grand Prize Trip Experience
 
-by [gauravano](../../../profile/gauravano) | July 24, 2019 22:33
+by [gauravano](/profile/gauravano) | July 24, 2019 22:33
 
-July 24, 2019 22:33 | Tags: [open-source](../tag/open-source), [barnstar:basic](../tag/barnstar:basic), [software-outreach](../tag/software-outreach), [google-code-in](../tag/google-code-in), [gci-2018](../tag/gci-2018)
+July 24, 2019 22:33 | Tags: [open-source](/tag/open-source), [barnstar:basic](/tag/barnstar:basic), [software-outreach](/tag/software-outreach), [google-code-in](/tag/google-code-in), [gci-2018](/tag/gci-2018)
 
 ----
 

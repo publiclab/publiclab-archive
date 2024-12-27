@@ -6,14 +6,14 @@ author: stevie
 path: /wiki/organizers-handbook.md
 nid: 12193
 uid: 422561
-
+cids: 
 ---
 
 # Organizers Handbook
 
-by [stevie](../profile/stevie), [pdhixenbaugh](../profile/pdhixenbaugh), [liz](../profile/liz), [warren](../profile/warren)
+by [stevie](/profile/stevie), [pdhixenbaugh](/profile/pdhixenbaugh), [liz](/profile/liz), [warren](/profile/warren)
 
-September 02, 2015 14:35 | Tags: [community](../tag/community), [organizers](../tag/organizers)
+September 02, 2015 14:35 | Tags: [community](/tag/community), [organizers](/tag/organizers)
 
 ----
 

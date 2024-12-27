@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/06-14-2017/issue-briefing-ultrafine-particle-pollution-from-dehydrated-biosolids.md
 nid: 14541
 uid: 7
-
 cids: 16882,25476,30482
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/796/original/2017-03-02_102850_%281%29.jpg)
 
 # Issue briefing: ultrafine particle pollution from dehydrated biosolids
 
-by [liz](../../../profile/liz) | June 14, 2017 15:14
+by [liz](/profile/liz) | June 14, 2017 15:14
 
-June 14, 2017 15:14 | Tags: [agriculture](../tag/agriculture), [new-york](../tag/new-york), [air-quality](../tag/air-quality), [pm](../tag/pm), [particles](../tag/particles), [ultrafine](../tag/ultrafine), [biosolids](../tag/biosolids), [slaughterhouse](../tag/slaughterhouse), [pennsylvania](../tag/pennsylvania), [with:zengirl2](../tag/with:zengirl2), [brief](../tag/brief), [issue-brief](../tag/issue-brief)
+June 14, 2017 15:14 | Tags: [agriculture](/tag/agriculture), [new-york](/tag/new-york), [air-quality](/tag/air-quality), [pm](/tag/pm), [particles](/tag/particles), [ultrafine](/tag/ultrafine), [biosolids](/tag/biosolids), [slaughterhouse](/tag/slaughterhouse), [pennsylvania](/tag/pennsylvania), [with:zengirl2](/tag/with:zengirl2), [brief](/tag/brief), [issue-brief](/tag/issue-brief)
 
 ----
 
@@ -43,4 +41,4 @@ See Pennsylvania’s Department of Environmental Protection Residual Waste Regul
 * assuming many others: check out the case studies and description of regulations by Caroline Snyder (Founder of Citizens for Sludge-Free Land) http://www.sludgefacts.org/testimony_to_pa.pdf
 
 ### Related Questions
-[ultrafine](../../tag/question:ultrafine)
+[ultrafine](/tag/question:ultrafine)

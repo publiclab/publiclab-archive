@@ -6,18 +6,16 @@ author: eustatic
 path: /12-28-2015/some-gulf-coast-use-cases-for-the-oil-testing-kit-in-2015.md
 nid: 12547
 uid: 379
-
 cids: 13227,13230,13248,13278,13283,13285,13286,13550,13559,13560
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/481/original/13770013494_51c704be39_b_oakville.jpg)
 
 # Some Gulf Coast Use Cases for the Oil Testing kit in 2015
 
-by [eustatic](../../../profile/eustatic) | December 28, 2015 20:41
+by [eustatic](/profile/eustatic) | December 28, 2015 20:41
 
-December 28, 2015 20:41 | Tags: [spectrometer](../tag/spectrometer), [oil-spill](../tag/oil-spill), [oil](../tag/oil), [illustrated-guides](../tag/illustrated-guides), [sample-prep](../tag/sample-prep), [crude](../tag/crude), [sampling](../tag/sampling), [tool](../tag/tool), [oil-testing](../tag/oil-testing), [oil-testing-kit](../tag/oil-testing-kit), [use-cases](../tag/use-cases)
+December 28, 2015 20:41 | Tags: [spectrometer](/tag/spectrometer), [oil-spill](/tag/oil-spill), [oil](/tag/oil), [illustrated-guides](/tag/illustrated-guides), [sample-prep](/tag/sample-prep), [crude](/tag/crude), [sampling](/tag/sampling), [tool](/tag/tool), [oil-testing](/tag/oil-testing), [oil-testing-kit](/tag/oil-testing-kit), [use-cases](/tag/use-cases)
 
 ----
 

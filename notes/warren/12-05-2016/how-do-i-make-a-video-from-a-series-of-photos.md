@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/12-05-2016/how-do-i-make-a-video-from-a-series-of-photos.md
 nid: 13747
 uid: 1
-
 cids: 17293,22362,22363,22365,22366,22540,29317,30272
-
 ---
 
 # How do I make a video from a series of photos?
 
-by [warren](../../../profile/warren) | December 05, 2016 17:51
+by [warren](/profile/warren) | December 05, 2016 17:51
 
-December 05, 2016 17:51 | Tags: [video](../tag/video), [sand](../tag/sand), [leaffest](../tag/leaffest), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [mining](../tag/mining), [monitoring](../tag/monitoring), [answered](../tag/answered), [question:timelapse](../tag/question:timelapse), [trail-camera](../tag/trail-camera), [question:photo-monitoring](../tag/question:photo-monitoring), [trail-cam](../tag/trail-cam), [photographic-evidence](../tag/photographic-evidence), [photographic-monitoring](../tag/photographic-monitoring), [question:general](../tag/question:general), [dune](../tag/dune), [response:13741](../tag/response:13741), [video-editing](../tag/video-editing), [question:photo-sharing](../tag/question:photo-sharing)
+December 05, 2016 17:51 | Tags: [video](/tag/video), [sand](/tag/sand), [leaffest](/tag/leaffest), [photo-monitoring](/tag/photo-monitoring), [timelapse](/tag/timelapse), [mining](/tag/mining), [monitoring](/tag/monitoring), [answered](/tag/answered), [question:timelapse](/tag/question:timelapse), [trail-camera](/tag/trail-camera), [question:photo-monitoring](/tag/question:photo-monitoring), [trail-cam](/tag/trail-cam), [photographic-evidence](/tag/photographic-evidence), [photographic-monitoring](/tag/photographic-monitoring), [question:general](/tag/question:general), [dune](/tag/dune), [response:13741](/tag/response:13741), [video-editing](/tag/video-editing), [question:photo-sharing](/tag/question:photo-sharing)
 
 ----
 

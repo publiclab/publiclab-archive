@@ -6,18 +6,16 @@ author: TedF
 path: /notes/TedF/10-20-2014/attaching-a-camera-to-a-wooden-picavet-using-nails-and-elastics.md
 nid: 11279
 uid: 197186
-
 cids: 10584,10607
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/511/original/IMG_1354.JPG)
 
 # Attaching a camera to a wooden picavet using elastics looped onto nails
 
-by [TedF](../../../profile/TedF) | October 20, 2014 11:26
+by [TedF](/profile/TedF) | October 20, 2014 11:26
 
-October 20, 2014 11:26 | Tags: [kite-mapping](../tag/kite-mapping), [picavet](../tag/picavet), [camera-rig](../tag/camera-rig), [kitemapping](../tag/kitemapping)
+October 20, 2014 11:26 | Tags: [kite-mapping](/tag/kite-mapping), [picavet](/tag/picavet), [camera-rig](/tag/camera-rig), [kitemapping](/tag/kitemapping)
 
 ----
 

@@ -6,16 +6,16 @@ author: mollydanielsson
 path: /wiki/local-to-global-mapknitter-club-to-a-cartography-collective.md
 nid: 11120
 uid: 1259
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/709/original/c_IMG_4800_the_crew.jpg)
 
 # Local to Global: MapKnitter Club to a Cartography Collective
 
-by [mollydanielsson](../profile/mollydanielsson)
+by [mollydanielsson](/profile/mollydanielsson)
 
-September 10, 2014 18:54 | Tags: [barataria-bay](../tag/barataria-bay), [grassrootsmapping](../tag/grassrootsmapping), [mapknitter](../tag/mapknitter), [barataria](../tag/barataria), [blog](../tag/blog), [style:fancy](../tag/style:fancy)
+September 10, 2014 18:54 | Tags: [barataria-bay](/tag/barataria-bay), [grassrootsmapping](/tag/grassrootsmapping), [mapknitter](/tag/mapknitter), [barataria](/tag/barataria), [blog](/tag/blog), [style:fancy](/tag/style:fancy)
 
 ----
 

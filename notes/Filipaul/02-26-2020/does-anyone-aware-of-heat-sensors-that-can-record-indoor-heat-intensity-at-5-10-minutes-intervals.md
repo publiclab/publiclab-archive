@@ -6,16 +6,14 @@ author: Filipaul
 path: /notes/Filipaul/02-26-2020/does-anyone-aware-of-heat-sensors-that-can-record-indoor-heat-intensity-at-5-10-minutes-intervals.md
 nid: 22942
 uid: 574408
-
 cids: 26387,26388,27197
-
 ---
 
 # Does anyone aware of heat sensors that can record INDOOR heat intensity at 5-10 minutes intervals?
 
-by [Filipaul](../../../profile/Filipaul) | February 26, 2020 19:12
+by [Filipaul](/profile/Filipaul) | February 26, 2020 19:12
 
-February 26, 2020 19:12 | Tags: [temperature](../tag/temperature), [climate-change](../tag/climate-change), [climate](../tag/climate), [global](../tag/global), [heat](../tag/heat), [question:general](../tag/question:general), [general](../tag/general), [wildfires](../tag/wildfires), [warming](../tag/warming), [ghg](../tag/ghg), [question:climate-change](../tag/question:climate-change)
+February 26, 2020 19:12 | Tags: [temperature](/tag/temperature), [climate-change](/tag/climate-change), [climate](/tag/climate), [global](/tag/global), [heat](/tag/heat), [question:general](/tag/question:general), [general](/tag/general), [wildfires](/tag/wildfires), [warming](/tag/warming), [ghg](/tag/ghg), [question:climate-change](/tag/question:climate-change)
 
 ----
 

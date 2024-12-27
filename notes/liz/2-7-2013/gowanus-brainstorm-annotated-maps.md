@@ -6,16 +6,14 @@ author: liz
 path: /notes/liz/2-7-2013/gowanus-brainstorm-annotated-maps.md
 nid: 5917
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20130129_185744.jpg)
 
 # Gowanus brainstorm on annotated maps
 
-by [liz](../../../profile/liz) | February 07, 2013 21:59
+by [liz](/profile/liz) | February 07, 2013 21:59
 
 February 07, 2013 21:59 | Tags: 
 

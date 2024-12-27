@@ -6,18 +6,16 @@ author: pdhixenbaugh
 path: /notes/pdhixenbaugh/07-08-2018/what-probes-to-get-with-data-loggers.md
 nid: 16661
 uid: 459085
-
 cids: 20028,20029,20030,20053
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/513/original/IMG_20180701_193439012_HDR-PANO.jpg)
 
 # What probes to get with data loggers?
 
-by [pdhixenbaugh](../../../profile/pdhixenbaugh) | July 08, 2018 15:41
+by [pdhixenbaugh](/profile/pdhixenbaugh) | July 08, 2018 15:41
 
-July 08, 2018 15:41 | Tags: [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [riffle](../tag/riffle), [question:riffle](../tag/question:riffle), [question:water-quality](../tag/question:water-quality), [question:data-logging](../tag/question:data-logging), [mayfly](../tag/mayfly), [question:mini-pearl-logger](../tag/question:mini-pearl-logger), [question:mayfly](../tag/question:mayfly)
+July 08, 2018 15:41 | Tags: [water-quality](/tag/water-quality), [conductivity](/tag/conductivity), [riffle](/tag/riffle), [question:riffle](/tag/question:riffle), [question:water-quality](/tag/question:water-quality), [question:data-logging](/tag/question:data-logging), [mayfly](/tag/mayfly), [question:mini-pearl-logger](/tag/question:mini-pearl-logger), [question:mayfly](/tag/question:mayfly)
 
 ----
 

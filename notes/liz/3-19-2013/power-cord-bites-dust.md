@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/3-19-2013/power-cord-bites-dust.md
 nid: 6434
 uid: 7
-
 cids: 3967
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20130315_121027.jpg)
 
 # power cord bites the dust
 
-by [liz](../../../profile/liz) | March 19, 2013 18:14
+by [liz](/profile/liz) | March 19, 2013 18:14
 
-March 19, 2013 18:14 | Tags: [chaq](../tag/chaq)
+March 19, 2013 18:14 | Tags: [chaq](/tag/chaq)
 
 ----
 

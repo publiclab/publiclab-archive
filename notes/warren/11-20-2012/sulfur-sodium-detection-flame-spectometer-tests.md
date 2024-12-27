@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/11-20-2012/sulfur-sodium-detection-flame-spectometer-tests.md
 nid: 4964
 uid: 1
-
 cids: 2651,9772
-
 ---
 
 ![](https://publiclab.org/sites/default/files/flame-spec.jpg)
 
 # Sulfur, sodium detection in flame spectometer tests
 
-by [warren](../../../profile/warren) | November 20, 2012 20:36
+by [warren](/profile/warren) | November 20, 2012 20:36
 
-November 20, 2012 20:36 | Tags: [spectrometer](../tag/spectrometer), [emission-spectroscopy](../tag/emission-spectroscopy), [barnraising](../tag/barnraising), [barnraising2012](../tag/barnraising2012), [heavy-metals](../tag/heavy-metals), [flame](../tag/flame)
+November 20, 2012 20:36 | Tags: [spectrometer](/tag/spectrometer), [emission-spectroscopy](/tag/emission-spectroscopy), [barnraising](/tag/barnraising), [barnraising2012](/tag/barnraising2012), [heavy-metals](/tag/heavy-metals), [flame](/tag/flame)
 
 ----
 

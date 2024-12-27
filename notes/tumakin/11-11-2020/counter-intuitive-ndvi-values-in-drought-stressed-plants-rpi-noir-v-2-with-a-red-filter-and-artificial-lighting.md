@@ -6,16 +6,14 @@ author: tumakin
 path: /notes/tumakin/11-11-2020/counter-intuitive-ndvi-values-in-drought-stressed-plants-rpi-noir-v-2-with-a-red-filter-and-artificial-lighting.md
 nid: 25044
 uid: 729147
-
 cids: 27667,27670,27671,27678,27716,27718
-
 ---
 
 # Counter-intuitive NDVI values in drought-stressed plants? (RPi NoIR v.2 with a red filter and artificial lighting)
 
-by [tumakin](../../../profile/tumakin) | November 11, 2020 14:38
+by [tumakin](/profile/tumakin) | November 11, 2020 14:38
 
-November 11, 2020 14:38 | Tags: [ndvi](../tag/ndvi), [question:ndvi](../tag/question:ndvi), [first-time-poster](../tag/first-time-poster)
+November 11, 2020 14:38 | Tags: [ndvi](/tag/ndvi), [question:ndvi](/tag/question:ndvi), [first-time-poster](/tag/first-time-poster)
 
 ----
 

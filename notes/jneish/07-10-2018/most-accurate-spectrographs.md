@@ -6,16 +6,14 @@ author: jneish
 path: /notes/jneish/07-10-2018/most-accurate-spectrographs.md
 nid: 16680
 uid: 540848
-
 cids: 20095
-
 ---
 
 # Most accurate spectrographs? 
 
-by [jneish](../../../profile/jneish) | July 10, 2018 18:36
+by [jneish](/profile/jneish) | July 10, 2018 18:36
 
-July 10, 2018 18:36 | Tags: [spectrometry](../tag/spectrometry), [tool](../tag/tool), [question:spectrometry](../tag/question:spectrometry), [question:general](../tag/question:general), [method](../tag/method), [chemicals](../tag/chemicals), [oil-and-gas](../tag/oil-and-gas), [solid](../tag/solid)
+July 10, 2018 18:36 | Tags: [spectrometry](/tag/spectrometry), [tool](/tag/tool), [question:spectrometry](/tag/question:spectrometry), [question:general](/tag/question:general), [method](/tag/method), [chemicals](/tag/chemicals), [oil-and-gas](/tag/oil-and-gas), [solid](/tag/solid)
 
 ----
 

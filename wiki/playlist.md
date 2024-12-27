@@ -6,12 +6,12 @@ author: warren
 path: /wiki/playlist.md
 nid: 880
 uid: 1
-
+cids: 
 ---
 
 # Playlist
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 March 01, 2012 18:47 | Tags: 
 

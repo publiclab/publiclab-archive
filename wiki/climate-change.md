@@ -6,16 +6,16 @@ author: joyofsoy
 path: /wiki/climate-change.md
 nid: 21772
 uid: 540844
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/878/original/OI000012.jpg)
 
 # Climate change
 
-by [bhamster](../profile/bhamster), [joyofsoy](../profile/joyofsoy)
+by [bhamster](/profile/bhamster), [joyofsoy](/profile/joyofsoy)
 
-December 16, 2019 23:27 | Tags: [climate-change](../tag/climate-change)
+December 16, 2019 23:27 | Tags: [climate-change](/tag/climate-change)
 
 ----
 
@@ -65,7 +65,7 @@ Learn about <a href="/wiki/sandbox-climate-change#Next+step+challenges">next ste
 + Ask a question so other community members can offer support
 + Sign up below to be notified when someone asks a climate change question.
 
-[climate-change](../../tag/question:climate-change)
+[climate-change](/tag/question:climate-change)
 <br>
 
 ### Post an Issue Brief
@@ -155,7 +155,7 @@ _Please contribute your ideas here!_
 
 Posts written by Public Lab community members and tagged with `climate-change` will appear here
 
-[climate-change!question:climate-change](../../tag/climate-change!question:climate-change)
+[climate-change!question:climate-change](/tag/climate-change!question:climate-change)
 
 <br>
 
@@ -163,7 +163,7 @@ Posts written by Public Lab community members and tagged with `climate-change` w
 
 Activities on Public Lab that have been tagged with `climate-change` will appear here
 
-[climate-change](../../tag/activity:climate-change)
+[climate-change](/tag/activity:climate-change)
 
 <br>
 <hr>

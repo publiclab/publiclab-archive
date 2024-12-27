@@ -6,16 +6,14 @@ author: adam-griffith
 path: /notes/Adam-Griffith/05-01-2018/western-carolina-university-students-map-on-the-sc-coast.md
 nid: 146
 uid: 3
-
 cids: 
-
 ---
 
 # Western Carolina University students map on the SC Coast
 
-by [adam-griffith](../../../profile/adam-griffith) | March 13, 2011 21:12
+by [adam-griffith](/profile/adam-griffith) | March 13, 2011 21:12
 
-March 13, 2011 21:12 | Tags: [western-north-carolina](../tag/western-north-carolina), [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [coastal](../tag/coastal), [western-carolina-university](../tag/western-carolina-university), [sea-level-rise](../tag/sea-level-rise), [students](../tag/students), [high-wind](../tag/high-wind), [windy](../tag/windy), [southeast](../tag/southeast), [south-carolina](../tag/south-carolina)
+March 13, 2011 21:12 | Tags: [western-north-carolina](/tag/western-north-carolina), [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [wetlands](/tag/wetlands), [coastal](/tag/coastal), [western-carolina-university](/tag/western-carolina-university), [sea-level-rise](/tag/sea-level-rise), [students](/tag/students), [high-wind](/tag/high-wind), [windy](/tag/windy), [southeast](/tag/southeast), [south-carolina](/tag/south-carolina)
 
 ----
 

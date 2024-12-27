@@ -6,14 +6,14 @@ author: warren
 path: /wiki/diy-oil-testing-advocacy.md
 nid: 12664
 uid: 1
-
+cids: 
 ---
 
 # DIY Oil Testing Advocacy
 
-by [warren](../profile/warren), [ann](../profile/ann), [gretchengehrke](../profile/gretchengehrke)
+by [warren](/profile/warren), [ann](/profile/ann), [gretchengehrke](/profile/gretchengehrke)
 
-February 05, 2016 23:15 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [draft](../tag/draft)
+February 05, 2016 23:15 | Tags: [spectrometer](/tag/spectrometer), [oil-testing-kit](/tag/oil-testing-kit), [draft](/tag/draft)
 
 ----
 

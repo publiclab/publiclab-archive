@@ -6,16 +6,16 @@ author: warren
 path: /wiki/oil-testing-kit-beta.md
 nid: 12011
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/670/original/IMG_20150713_172422.jpg)
 
 # Oil Testing Kit Beta
 
-by [warren](../profile/warren), [stevie](../profile/stevie), [eustatic](../profile/eustatic), [liz](../profile/liz), [gretchengehrke](../profile/gretchengehrke)
+by [warren](/profile/warren), [stevie](/profile/stevie), [eustatic](/profile/eustatic), [liz](/profile/liz), [gretchengehrke](/profile/gretchengehrke)
 
-June 26, 2015 16:52 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [list:plots-spectrometry](../tag/list:plots-spectrometry), [crude-oil](../tag/crude-oil), [oil-testing-kit](../tag/oil-testing-kit), [parent:oil-testing-kit](../tag/parent:oil-testing-kit), [beta](../tag/beta), [alpha](../tag/alpha)
+June 26, 2015 16:52 | Tags: [spectrometer](/tag/spectrometer), [oil](/tag/oil), [list:plots-spectrometry](/tag/list:plots-spectrometry), [crude-oil](/tag/crude-oil), [oil-testing-kit](/tag/oil-testing-kit), [parent:oil-testing-kit](/tag/parent:oil-testing-kit), [beta](/tag/beta), [alpha](/tag/alpha)
 
 ----
 

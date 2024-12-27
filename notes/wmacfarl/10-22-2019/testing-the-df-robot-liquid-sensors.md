@@ -6,18 +6,16 @@ author: wmacfarl
 path: /notes/wmacfarl/10-22-2019/testing-the-df-robot-liquid-sensors.md
 nid: 21248
 uid: 424597
-
 cids: 25723
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/930/original/dfrobot_sensors.jpg)
 
 # Testing the DF Robot Liquid Sensors
 
-by [wmacfarl](../../../profile/wmacfarl) | October 21, 2019 23:51
+by [wmacfarl](/profile/wmacfarl) | October 21, 2019 23:51
 
-October 21, 2019 23:51 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [new](../tag/new), [draft](../tag/draft), [activity:new](../tag/activity:new), [dfrobot](../tag/dfrobot), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [activity:oil-and-gas-water-trio](../tag/activity:oil-and-gas-water-trio)
+October 21, 2019 23:51 | Tags: [arduino](/tag/arduino), [sensors](/tag/sensors), [new](/tag/new), [draft](/tag/draft), [activity:new](/tag/activity:new), [dfrobot](/tag/dfrobot), [oil-and-gas-water-trio](/tag/oil-and-gas-water-trio), [activity:oil-and-gas-water-trio](/tag/activity:oil-and-gas-water-trio)
 
 ----
 

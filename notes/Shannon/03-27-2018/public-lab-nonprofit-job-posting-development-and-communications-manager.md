@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/03-27-2018/public-lab-nonprofit-job-posting-development-and-communications-manager.md
 nid: 16027
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/227/original/pl-narrow.png)
 
 # Public Lab nonprofit job posting: Development and Communications Manager
 
-by [Shannon](../../../profile/Shannon) | March 27, 2018 19:13
+by [Shannon](/profile/Shannon) | March 27, 2018 19:13
 
-March 27, 2018 19:13 | Tags: [nonprofit](../tag/nonprofit), [jobs](../tag/jobs), [job](../tag/job)
+March 27, 2018 19:13 | Tags: [nonprofit](/tag/nonprofit), [jobs](/tag/jobs), [job](/tag/job)
 
 ----
 

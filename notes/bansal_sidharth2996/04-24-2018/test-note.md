@@ -6,14 +6,12 @@ author: bansal_sidharth2996
 path: /notes/bansal_sidharth2996/04-24-2018/test-note.md
 nid: 16207
 uid: 503599
-
 cids: 
-
 ---
 
 # Test Note
 
-by [bansal_sidharth2996](../../../profile/bansal_sidharth2996) | April 24, 2018 20:51
+by [bansal_sidharth2996](/profile/bansal_sidharth2996) | April 24, 2018 20:51
 
 April 24, 2018 20:51 | Tags: 
 

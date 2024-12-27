@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/shannon/5-15-2012/galena-park-community-treasure-maps.md
 nid: 2006
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_5017.jpg)
 
 # Galena Park Community "treasure maps"
 
-by [Shannon](../../../profile/Shannon) | May 16, 2012 03:51
+by [Shannon](/profile/Shannon) | May 16, 2012 03:51
 
-May 16, 2012 03:51 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [annotated-maps](../tag/annotated-maps), [community-mapping](../tag/community-mapping)
+May 16, 2012 03:51 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [annotated-maps](/tag/annotated-maps), [community-mapping](/tag/community-mapping)
 
 ----
 

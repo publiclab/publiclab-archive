@@ -6,12 +6,12 @@ author: warren
 path: /wiki/peer-production-playbook.md
 nid: 14922
 uid: 1
-
+cids: 
 ---
 
 # Peer Production Playbook
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 September 20, 2017 17:40 | Tags: 
 

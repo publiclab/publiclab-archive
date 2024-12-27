@@ -6,12 +6,12 @@ author: warren
 path: /wiki/event-template.md
 nid: 13935
 uid: 1
-
+cids: 
 ---
 
 # event-template
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 February 16, 2017 16:49 | Tags: 
 

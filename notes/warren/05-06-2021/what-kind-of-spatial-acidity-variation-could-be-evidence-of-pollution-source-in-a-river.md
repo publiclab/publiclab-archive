@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/05-06-2021/what-kind-of-spatial-acidity-variation-could-be-evidence-of-pollution-source-in-a-river.md
 nid: 26518
 uid: 1
-
 cids: 28717,28718,28719,28720,28729,28989
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/709/original/so-concentration-maps-showing-spatial-variation-in-a-pH-b-TDS-c-turbidity-and-d-TH-in.png)
 
 # What kind of spatial acidity variation could be evidence of pollution source in a river?
 
-by [warren](../../../profile/warren) | May 06, 2021 21:48
+by [warren](/profile/warren) | May 06, 2021 21:48
 
-May 06, 2021 21:48 | Tags: [mapping](../tag/mapping), [water-quality](../tag/water-quality), [rivers](../tag/rivers), [ph](../tag/ph), [question:water-quality](../tag/question:water-quality), [fertilizer](../tag/fertilizer), [lat:40](../tag/lat:40), [lon:-70](../tag/lon:-70), [zoom:6](../tag/zoom:6)
+May 06, 2021 21:48 | Tags: [mapping](/tag/mapping), [water-quality](/tag/water-quality), [rivers](/tag/rivers), [ph](/tag/ph), [question:water-quality](/tag/question:water-quality), [fertilizer](/tag/fertilizer), [lat:40](/tag/lat:40), [lon:-70](/tag/lon:-70), [zoom:6](/tag/zoom:6)
 
 ----
 

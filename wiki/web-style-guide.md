@@ -6,14 +6,14 @@ author: warren
 path: /wiki/web-style-guide.md
 nid: 19278
 uid: 1
-
+cids: 
 ---
 
 # Web Style Guide
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-May 08, 2019 14:58 | Tags: [parent:style-guide](../tag/parent:style-guide)
+May 08, 2019 14:58 | Tags: [parent:style-guide](/tag/parent:style-guide)
 
 ----
 

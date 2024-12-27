@@ -6,16 +6,14 @@ author: Greenhorns
 path: /notes/Greenhorns/06-02-2021/water-testing-protocols-for-sulfide-mining.md
 nid: 26776
 uid: 756206
-
 cids: 28870
-
 ---
 
 # Water testing protocols for Sulfide Mining?
 
-by [Greenhorns](../../../profile/Greenhorns) | June 02, 2021 21:26
+by [Greenhorns](/profile/Greenhorns) | June 02, 2021 21:26
 
-June 02, 2021 21:26 | Tags: [community](../tag/community), [testing](../tag/testing), [mining](../tag/mining), [water-quality](../tag/water-quality), [water](../tag/water), [turbidity](../tag/turbidity), [maine](../tag/maine), [methodology](../tag/methodology), [quality](../tag/quality), [northeast](../tag/northeast), [lead](../tag/lead), [acid](../tag/acid), [zinc](../tag/zinc), [hydrology](../tag/hydrology), [ph](../tag/ph), [question:water-quality](../tag/question:water-quality), [question:general](../tag/question:general), [general](../tag/general), [question:water](../tag/question:water), [question:mining](../tag/question:mining), [question:maine](../tag/question:maine), [sulfur](../tag/sulfur), [question:hydrology](../tag/question:hydrology), [response:26582](../tag/response:26582), [mine-water-ph](../tag/mine-water-ph)
+June 02, 2021 21:26 | Tags: [community](/tag/community), [testing](/tag/testing), [mining](/tag/mining), [water-quality](/tag/water-quality), [water](/tag/water), [turbidity](/tag/turbidity), [maine](/tag/maine), [methodology](/tag/methodology), [quality](/tag/quality), [northeast](/tag/northeast), [lead](/tag/lead), [acid](/tag/acid), [zinc](/tag/zinc), [hydrology](/tag/hydrology), [ph](/tag/ph), [question:water-quality](/tag/question:water-quality), [question:general](/tag/question:general), [general](/tag/general), [question:water](/tag/question:water), [question:mining](/tag/question:mining), [question:maine](/tag/question:maine), [sulfur](/tag/sulfur), [question:hydrology](/tag/question:hydrology), [response:26582](/tag/response:26582), [mine-water-ph](/tag/mine-water-ph)
 
 ----
 

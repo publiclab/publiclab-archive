@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/02-28-2019/call-for-summer-of-code-2019-proposals.md
 nid: 18440
 uid: 1
-
 cids: 21983,22075,22077,22107,22119,22186,23563,23585,23590,23592,23595,23596,23597,23602,23611,23612,23616,23631,23641,23806,23810
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/582/original/Screenshot_2019-02-28_at_5.20.39_PM.png)
 
 # Call for Summer of Code 2019 proposals!
 
-by [warren](../../../profile/warren) | February 28, 2019 22:22
+by [warren](/profile/warren) | February 28, 2019 22:22
 
-February 28, 2019 22:22 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [blog](../tag/blog), [code](../tag/code), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [outreachy](../tag/outreachy), [call-for-proposals](../tag/call-for-proposals), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [outreachy-2019](../tag/outreachy-2019)
+February 28, 2019 22:22 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [blog](/tag/blog), [code](/tag/code), [rgsoc](/tag/rgsoc), [soc](/tag/soc), [outreachy](/tag/outreachy), [call-for-proposals](/tag/call-for-proposals), [gsoc-2019](/tag/gsoc-2019), [soc-2019](/tag/soc-2019), [outreachy-2019](/tag/outreachy-2019)
 
 ----
 
@@ -73,10 +71,10 @@ Also see [2018's proposals here](https://publiclab.org/notes/warren/02-15-2018/c
 
 ## Proposals
 
-[soc-2019-proposals](../../tag/soc-2019-proposals)
+[soc-2019-proposals](/tag/soc-2019-proposals)
 
 ---------
 
 ## Questions
 
-[soc](../../tag/question:soc)
+[soc](/tag/question:soc)

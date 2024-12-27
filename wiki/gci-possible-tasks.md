@@ -6,14 +6,14 @@ author: sagarpreet
 path: /wiki/gci-possible-tasks.md
 nid: 17023
 uid: 516343
-
+cids: 
 ---
 
 # GCI Possible Tasks : 
 
-by [sagarpreet](../profile/sagarpreet)
+by [sagarpreet](/profile/sagarpreet)
 
-August 30, 2018 06:35 | Tags: [lat:0](../tag/lat:0)
+August 30, 2018 06:35 | Tags: [lat:0](/tag/lat:0)
 
 ----
 

@@ -6,18 +6,16 @@ author: anishshah101
 path: /notes/anishshah101/06-13-2014/gsoc-update-working-of-image-distortion-in-mapknitter.md
 nid: 10557
 uid: 421046
-
 cids: 9191,9193,9198
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/696/original/main.png)
 
 # GSoC Update- Working of Image Distortion In Mapknitter 
 
-by [anishshah101](../../../profile/anishshah101) | June 13, 2014 06:17
+by [anishshah101](/profile/anishshah101) | June 13, 2014 06:17
 
-June 13, 2014 06:17 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [developers](../tag/developers), [gsoc-2014](../tag/gsoc-2014), [barnstar:basic](../tag/barnstar:basic)
+June 13, 2014 06:17 | Tags: [mapknitter](/tag/mapknitter), [gsoc](/tag/gsoc), [developers](/tag/developers), [gsoc-2014](/tag/gsoc-2014), [barnstar:basic](/tag/barnstar:basic)
 
 ----
 

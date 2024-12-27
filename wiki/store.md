@@ -6,12 +6,12 @@ author: warren
 path: /wiki/store.md
 nid: 473
 uid: 1
-
+cids: 
 ---
 
 # Public Laboratory Store
 
-by [Bronwen](../profile/Bronwen), [liz](../profile/liz), [warren](../profile/warren)
+by [Bronwen](/profile/Bronwen), [liz](/profile/liz), [warren](/profile/warren)
 
 September 19, 2011 19:46 | Tags: 
 

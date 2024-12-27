@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/1-16-2012/clashifier-open-source-web-based-image-classification-prototype.md
 nid: 692
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/classification.png)
 
 # Clashifier: open source, web based image classification prototype
 
-by [warren](../../../profile/warren) | January 16, 2012 20:54
+by [warren](/profile/warren) | January 16, 2012 20:54
 
-January 16, 2012 20:54 | Tags: [oil](../tag/oil), [image-interpretation](../tag/image-interpretation), [classification](../tag/classification), [clashifier](../tag/clashifier), [training](../tag/training), [identifying-oil](../tag/identifying-oil)
+January 16, 2012 20:54 | Tags: [oil](/tag/oil), [image-interpretation](/tag/image-interpretation), [classification](/tag/classification), [clashifier](/tag/clashifier), [training](/tag/training), [identifying-oil](/tag/identifying-oil)
 
 ----
 

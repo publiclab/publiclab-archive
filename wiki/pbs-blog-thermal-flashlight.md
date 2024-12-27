@@ -6,14 +6,14 @@ author: sara
 path: /wiki/pbs-blog-thermal-flashlight.md
 nid: 714
 uid: 8
-
+cids: 
 ---
 
 # PBS Blog on Thermal Flashlight
 
-by [liz](../profile/liz), [warren](../profile/warren), [sara](../profile/sara)
+by [liz](/profile/liz), [warren](/profile/warren), [sara](/profile/sara)
 
-January 20, 2012 19:07 | Tags: [idealab](../tag/idealab)
+January 20, 2012 19:07 | Tags: [idealab](/tag/idealab)
 
 ----
 

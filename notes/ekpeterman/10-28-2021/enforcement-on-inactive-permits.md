@@ -6,16 +6,14 @@ author: ekpeterman
 path: /notes/ekpeterman/10-28-2021/enforcement-on-inactive-permits.md
 nid: 27972
 uid: 641166
-
 cids: 29422,29423,29424
-
 ---
 
 # Enforcement on inactive permits?
 
-by [ekpeterman](../../../profile/ekpeterman) | October 28, 2021 16:13
+by [ekpeterman](/profile/ekpeterman) | October 28, 2021 16:13
 
-October 28, 2021 16:13 | Tags: [coal-mining](../tag/coal-mining), [mining](../tag/mining), [coal](../tag/coal), [advocacy](../tag/advocacy), [permits](../tag/permits), [question:general](../tag/question:general), [general](../tag/general), [community-organizing](../tag/community-organizing), [question:advocacy](../tag/question:advocacy), [first-time-poster](../tag/first-time-poster), [mmmp](../tag/mmmp), [reclamation](../tag/reclamation), [mine-reclamation](../tag/mine-reclamation), [question:mine-reclamation](../tag/question:mine-reclamation)
+October 28, 2021 16:13 | Tags: [coal-mining](/tag/coal-mining), [mining](/tag/mining), [coal](/tag/coal), [advocacy](/tag/advocacy), [permits](/tag/permits), [question:general](/tag/question:general), [general](/tag/general), [community-organizing](/tag/community-organizing), [question:advocacy](/tag/question:advocacy), [first-time-poster](/tag/first-time-poster), [mmmp](/tag/mmmp), [reclamation](/tag/reclamation), [mine-reclamation](/tag/mine-reclamation), [question:mine-reclamation](/tag/question:mine-reclamation)
 
 ----
 

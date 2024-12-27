@@ -6,18 +6,16 @@ author: RQ-05
 path: /notes/RQ-05/07-11-2015/different-approaches.md
 nid: 12051
 uid: 440673
-
 cids: 12156,12159,12175,12190,12200,12204
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/641/original/GreyNDVI.jpg)
 
 # Different approaches......
 
-by [RQ-05](../../../profile/RQ-05) | July 11, 2015 21:15
+by [RQ-05](/profile/RQ-05) | July 11, 2015 21:15
 
-July 11, 2015 21:15 | Tags: [ndvi](../tag/ndvi), [drone](../tag/drone), [mobius](../tag/mobius), [uas](../tag/uas), [luts](../tag/luts)
+July 11, 2015 21:15 | Tags: [ndvi](/tag/ndvi), [drone](/tag/drone), [mobius](/tag/mobius), [uas](/tag/uas), [luts](/tag/luts)
 
 ----
 

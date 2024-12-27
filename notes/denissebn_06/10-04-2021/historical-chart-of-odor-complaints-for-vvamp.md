@@ -6,18 +6,16 @@ author: denissebn_06
 path: /notes/denissebn_06/10-04-2021/historical-chart-of-odor-complaints-for-vvamp.md
 nid: 27828
 uid: 749988
-
 cids: 29296
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/890/original/VVAMP_Thumbnail_Logo1_Holser_Canyon.tif)
 
 # Historical Chart Of Odor Complaints for VVAMP
 
-by [denissebn_06](../../../profile/denissebn_06) | October 04, 2021 21:36
+by [denissebn_06](/profile/denissebn_06) | October 04, 2021 21:36
 
-October 04, 2021 21:36 | Tags: [california](../tag/california), [database](../tag/database), [air-quality](../tag/air-quality), [bucket](../tag/bucket), [environmental-advocacy](../tag/environmental-advocacy), [with:sarasage](../tag/with:sarasage), [community-voice](../tag/community-voice), [VVAMP](../tag/VVAMP), [air-sample](../tag/air-sample)
+October 04, 2021 21:36 | Tags: [california](/tag/california), [database](/tag/database), [air-quality](/tag/air-quality), [bucket](/tag/bucket), [environmental-advocacy](/tag/environmental-advocacy), [with:sarasage](/tag/with:sarasage), [community-voice](/tag/community-voice), [VVAMP](/tag/VVAMP), [air-sample](/tag/air-sample)
 
 ----
 

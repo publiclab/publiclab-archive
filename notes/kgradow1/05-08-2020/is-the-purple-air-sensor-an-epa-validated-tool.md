@@ -6,16 +6,14 @@ author: kgradow1
 path: /notes/kgradow1/05-08-2020/is-the-purple-air-sensor-an-epa-validated-tool.md
 nid: 23575
 uid: 297929
-
 cids: 26858,26984,26987,26988
-
 ---
 
 # Is the Purple Air sensor an EPA-validated tool?
 
-by [kgradow1](../../../profile/kgradow1) | May 08, 2020 00:32
+by [kgradow1](/profile/kgradow1) | May 08, 2020 00:32
 
-May 08, 2020 00:32 | Tags: [air-quality](../tag/air-quality), [pm](../tag/pm), [question:air-quality](../tag/question:air-quality), [question:pm](../tag/question:pm), [question:general](../tag/question:general), [general](../tag/general), [method](../tag/method), [particulate-matter](../tag/particulate-matter), [purple-air](../tag/purple-air), [question:method](../tag/question:method), [question:purple-air](../tag/question:purple-air), [air-sensor](../tag/air-sensor), [question:air-sensor](../tag/question:air-sensor)
+May 08, 2020 00:32 | Tags: [air-quality](/tag/air-quality), [pm](/tag/pm), [question:air-quality](/tag/question:air-quality), [question:pm](/tag/question:pm), [question:general](/tag/question:general), [general](/tag/general), [method](/tag/method), [particulate-matter](/tag/particulate-matter), [purple-air](/tag/purple-air), [question:method](/tag/question:method), [question:purple-air](/tag/question:purple-air), [air-sensor](/tag/air-sensor), [question:air-sensor](/tag/question:air-sensor)
 
 ----
 

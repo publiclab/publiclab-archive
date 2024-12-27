@@ -6,16 +6,14 @@ author: DanielleS
 path: /notes/DanielleS/03-10-2019/understanding-soil-contamination-key-terms-concepts.md
 nid: 18504
 uid: 569208
-
 cids: 22104
-
 ---
 
 # Understanding Soil Contamination - Key Terms & Concepts 
 
-by [DanielleS](../../../profile/DanielleS) | March 10, 2019 08:18
+by [DanielleS](/profile/DanielleS) | March 10, 2019 08:18
 
-March 10, 2019 08:18 | Tags: [soil](../tag/soil), [soil-testing](../tag/soil-testing), [ph](../tag/ph), [soil-analysis](../tag/soil-analysis), [activity:soil](../tag/activity:soil), [soil-contamination](../tag/soil-contamination), [soil-contamination-testing](../tag/soil-contamination-testing), [bioavailability](../tag/bioavailability), [soil-chemistry](../tag/soil-chemistry)
+March 10, 2019 08:18 | Tags: [soil](/tag/soil), [soil-testing](/tag/soil-testing), [ph](/tag/ph), [soil-analysis](/tag/soil-analysis), [activity:soil](/tag/activity:soil), [soil-contamination](/tag/soil-contamination), [soil-contamination-testing](/tag/soil-contamination-testing), [bioavailability](/tag/bioavailability), [soil-chemistry](/tag/soil-chemistry)
 
 ----
 

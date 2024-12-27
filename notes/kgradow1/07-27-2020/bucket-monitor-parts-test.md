@@ -6,18 +6,16 @@ author: kgradow1
 path: /notes/kgradow1/07-27-2020/bucket-monitor-parts-test.md
 nid: 24224
 uid: 297929
-
 cids: 27207
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/274/original/Screen_Shot_2020-07-27_at_1.45.33_PM.png)
 
 # Bucket Monitor Parts Test
 
-by [kgradow1](../../../profile/kgradow1) | July 27, 2020 19:00
+by [kgradow1](/profile/kgradow1) | July 27, 2020 19:00
 
-July 27, 2020 19:00 | Tags: [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [lat:42](../tag/lat:42), [lon:-70](../tag/lon:-70), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor)
+July 27, 2020 19:00 | Tags: [air-quality](/tag/air-quality), [bucket-brigade](/tag/bucket-brigade), [lat:42](/tag/lat:42), [lon:-70](/tag/lon:-70), [zoom:6](/tag/zoom:6), [bucket-monitor](/tag/bucket-monitor)
 
 ----
 

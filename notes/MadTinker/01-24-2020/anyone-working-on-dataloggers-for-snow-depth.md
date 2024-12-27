@@ -6,16 +6,14 @@ author: MadTinker
 path: /notes/MadTinker/01-24-2020/anyone-working-on-dataloggers-for-snow-depth.md
 nid: 22398
 uid: 461206
-
 cids: 26215,26220,26235,26236,26237,26244,26250,26251,26254,26255,26279
-
 ---
 
 # anyone working on dataloggers for snow depth?
 
-by [MadTinker](../../../profile/MadTinker) | January 24, 2020 21:14
+by [MadTinker](/profile/MadTinker) | January 24, 2020 21:14
 
-January 24, 2020 21:14 | Tags: [datalogger](../tag/datalogger), [snow](../tag/snow), [question:general](../tag/question:general), [general](../tag/general)
+January 24, 2020 21:14 | Tags: [datalogger](/tag/datalogger), [snow](/tag/snow), [question:general](/tag/question:general), [general](/tag/general)
 
 ----
 

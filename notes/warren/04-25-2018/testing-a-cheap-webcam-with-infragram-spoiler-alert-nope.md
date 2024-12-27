@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/04-25-2018/testing-a-cheap-webcam-with-infragram-spoiler-alert-nope.md
 nid: 16212
 uid: 1
-
 cids: 21156,21157,21158,26103
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/747/original/IMG_20180425_165529_888.jpg)
 
 # Testing a cheap webcam with Infragram - spoiler alert: nope
 
-by [warren](../../../profile/warren) | April 25, 2018 20:56
+by [warren](/profile/warren) | April 25, 2018 20:56
 
-April 25, 2018 20:56 | Tags: [kits](../tag/kits), [webcam](../tag/webcam), [infragram](../tag/infragram), [infragram-conversion](../tag/infragram-conversion), [lens](../tag/lens), [red-filter](../tag/red-filter), [infragram-webcam](../tag/infragram-webcam), [aren](../tag/aren), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion), [infrared-camera-conversion](../tag/infrared-camera-conversion), [ndvi:](../tag/ndvi:), [infragram-testing](../tag/infragram-testing), [m12](../tag/m12), [negative-result](../tag/negative-result)
+April 25, 2018 20:56 | Tags: [kits](/tag/kits), [webcam](/tag/webcam), [infragram](/tag/infragram), [infragram-conversion](/tag/infragram-conversion), [lens](/tag/lens), [red-filter](/tag/red-filter), [infragram-webcam](/tag/infragram-webcam), [aren](/tag/aren), [activity:infrared-camera-conversion](/tag/activity:infrared-camera-conversion), [infrared-camera-conversion](/tag/infrared-camera-conversion), [ndvi:](/tag/ndvi:), [infragram-testing](/tag/infragram-testing), [m12](/tag/m12), [negative-result](/tag/negative-result)
 
 ----
 

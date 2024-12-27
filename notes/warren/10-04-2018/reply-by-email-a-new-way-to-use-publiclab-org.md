@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/10-04-2018/reply-by-email-a-new-way-to-use-publiclab-org.md
 nid: 17227
 uid: 1
-
 cids: 20798,20801,20802,20803,20804,20808,20810,30999,31408
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/790/original/Screen_Shot_2018-10-04_at_5.47.00_PM.png)
 
 # Reply-by-email: a new way to use PublicLab.org
 
-by [warren](../../../profile/warren) | October 04, 2018 21:52
+by [warren](/profile/warren) | October 04, 2018 21:52
 
-October 04, 2018 21:52 | Tags: [community](../tag/community), [gsoc](../tag/gsoc), [blog](../tag/blog), [code](../tag/code), [barnstar:basic](../tag/barnstar:basic), [forums](../tag/forums), [soc](../tag/soc), [soc-2018](../tag/soc-2018), [google-groups](../tag/google-groups), [email](../tag/email), [groups](../tag/groups)
+October 04, 2018 21:52 | Tags: [community](/tag/community), [gsoc](/tag/gsoc), [blog](/tag/blog), [code](/tag/code), [barnstar:basic](/tag/barnstar:basic), [forums](/tag/forums), [soc](/tag/soc), [soc-2018](/tag/soc-2018), [google-groups](/tag/google-groups), [email](/tag/email), [groups](/tag/groups)
 
 ----
 

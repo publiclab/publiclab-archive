@@ -6,16 +6,14 @@ author: gilbert
 path: /notes/gilbert/10-11-2017/low-cost-water-testing-monitoring.md
 nid: 15034
 uid: 508551
-
 cids: 
-
 ---
 
 # LOW-COST WATER TESTING & MONITORING
 
-by [gilbert](../../../profile/gilbert) | October 11, 2017 21:10
+by [gilbert](/profile/gilbert) | October 11, 2017 21:10
 
-October 11, 2017 21:10 | Tags: [water-quality-monitoring](../tag/water-quality-monitoring), [water-quality](../tag/water-quality), [question:question](../tag/question:question)
+October 11, 2017 21:10 | Tags: [water-quality-monitoring](/tag/water-quality-monitoring), [water-quality](/tag/water-quality), [question:question](/tag/question:question)
 
 ----
 

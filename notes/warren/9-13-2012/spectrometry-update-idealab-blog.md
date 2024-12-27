@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/9-13-2012/spectrometry-update-idealab-blog.md
 nid: 3798
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/spec.jpg)
 
 # Spectrometry update on IdeaLab blog
 
-by [warren](../../../profile/warren) | September 13, 2012 14:06
+by [warren](/profile/warren) | September 13, 2012 14:06
 
-September 13, 2012 14:06 | Tags: [spectrometer](../tag/spectrometer), [idealab](../tag/idealab)
+September 13, 2012 14:06 | Tags: [spectrometer](/tag/spectrometer), [idealab](/tag/idealab)
 
 ----
 

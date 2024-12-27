@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/4-17-2011/using-knitter-create-online-maps-your-photoshop-map-stitches.md
 nid: 175
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2011-04-17 at 2.39.54 PM.png)
 
 # Using Knitter to create online maps from your Photoshop map stitches
 
-by [warren](../../../profile/warren) | April 17, 2011 18:40
+by [warren](/profile/warren) | April 17, 2011 18:40
 
-April 17, 2011 18:40 | Tags: [peru](../tag/peru), [mapknitter](../tag/mapknitter), [photoshop](../tag/photoshop), [gdal](../tag/gdal)
+April 17, 2011 18:40 | Tags: [peru](/tag/peru), [mapknitter](/tag/mapknitter), [photoshop](/tag/photoshop), [gdal](/tag/gdal)
 
 ----
 

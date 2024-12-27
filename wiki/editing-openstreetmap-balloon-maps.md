@@ -6,14 +6,14 @@ author: warren
 path: /wiki/editing-openstreetmap-balloon-maps.md
 nid: 909
 uid: 1
-
+cids: 
 ---
 
 # Editing OpenStreetMap with balloon maps
 
-by [liz](../profile/liz), [warren](../profile/warren)
+by [liz](/profile/liz), [warren](/profile/warren)
 
-March 09, 2012 14:52 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
+March 09, 2012 14:52 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping)
 
 ----
 

@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/10-27-2015/systematic-imaging-of-passive-particle-monitors-on-an-sem.md
 nid: 12338
 uid: 4
-
 cids: 12792,12799
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/179/original/SND_on_carbon3.jpg)
 
 # Systematic Imaging of Passive particle monitors on an SEM
 
-by [mathew](../../../profile/mathew) | October 27, 2015 20:39
+by [mathew](/profile/mathew) | October 27, 2015 20:39
 
-October 27, 2015 20:39 | Tags: [image-processing](../tag/image-processing), [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [particle-sensing](../tag/particle-sensing), [image-analysis](../tag/image-analysis), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [with:damarquis](../tag/with:damarquis), [with:amberwise](../tag/with:amberwise), [particle-imaging](../tag/particle-imaging)
+October 27, 2015 20:39 | Tags: [image-processing](/tag/image-processing), [air-quality](/tag/air-quality), [dust](/tag/dust), [silica](/tag/silica), [particle-sensing](/tag/particle-sensing), [image-analysis](/tag/image-analysis), [passive-particle-monitors](/tag/passive-particle-monitors), [passive-pm](/tag/passive-pm), [with:damarquis](/tag/with:damarquis), [with:amberwise](/tag/with:amberwise), [particle-imaging](/tag/particle-imaging)
 
 ----
 

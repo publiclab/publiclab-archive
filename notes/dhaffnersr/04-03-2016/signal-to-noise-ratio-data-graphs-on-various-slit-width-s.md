@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/04-03-2016/signal-to-noise-ratio-data-graphs-on-various-slit-width-s.md
 nid: 12910
 uid: 461120
-
 cids: 14103,14104,14106
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/322/original/40mm_apr3.png)
 
 # Signal To Noise Ratio data graphs on various slit width's
 
-by [dhaffnersr](../../../profile/dhaffnersr) | April 03, 2016 10:55
+by [dhaffnersr](/profile/dhaffnersr) | April 03, 2016 10:55
 
 April 03, 2016 10:55 | Tags: 
 

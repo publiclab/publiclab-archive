@@ -6,18 +6,16 @@ author: viechdokter
 path: /notes/viechdokter/04-09-2016/camera-sensor-issues.md
 nid: 12949
 uid: 468990
-
 cids: 14176,14189,14190,14191,14194
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/439/original/sunlight_12_curve_only.jpg)
 
 # Camera sensor issues
 
-by [viechdokter](../../../profile/viechdokter) | April 09, 2016 13:24
+by [viechdokter](/profile/viechdokter) | April 09, 2016 13:24
 
-April 09, 2016 13:24 | Tags: [spectrometer](../tag/spectrometer), [overexposure](../tag/overexposure), [sunlight](../tag/sunlight), [camera_sensor](../tag/camera_sensor), [channel_intensity](../tag/channel_intensity)
+April 09, 2016 13:24 | Tags: [spectrometer](/tag/spectrometer), [overexposure](/tag/overexposure), [sunlight](/tag/sunlight), [camera_sensor](/tag/camera_sensor), [channel_intensity](/tag/channel_intensity)
 
 ----
 

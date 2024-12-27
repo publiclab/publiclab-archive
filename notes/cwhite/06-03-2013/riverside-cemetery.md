@@ -6,18 +6,16 @@ author: cwhite
 path: /notes/cwhite/06-03-2013/riverside-cemetery.md
 nid: 8033
 uid: 100817
-
 cids: 4936
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/470/original/rscweb.JPG)
 
 # Riverside Cemetery
 
-by [cwhite](../../../profile/cwhite) | June 03, 2013 20:13
+by [cwhite](/profile/cwhite) | June 03, 2013 20:13
 
-June 03, 2013 20:13 | Tags: [western-north-carolina](../tag/western-north-carolina), [balloon-mapping](../tag/balloon-mapping), [asheville](../tag/asheville), [leaflet](../tag/leaflet), [bootstrap](../tag/bootstrap), [western-carolina-university](../tag/western-carolina-university), [first-time-poster](../tag/first-time-poster)
+June 03, 2013 20:13 | Tags: [western-north-carolina](/tag/western-north-carolina), [balloon-mapping](/tag/balloon-mapping), [asheville](/tag/asheville), [leaflet](/tag/leaflet), [bootstrap](/tag/bootstrap), [western-carolina-university](/tag/western-carolina-university), [first-time-poster](/tag/first-time-poster)
 
 ----
 

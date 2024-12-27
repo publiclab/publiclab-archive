@@ -6,14 +6,14 @@ author: warren
 path: /wiki/video-spectrometer-kit.md
 nid: 554
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/761/original/mustapha3.jpg)
 
 # Video Spectrometer Kit
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 November 09, 2011 22:26 | Tags: 
 

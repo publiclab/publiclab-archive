@@ -6,16 +6,14 @@ author:
 path: /notes/5-10-2012/starvation-lake.md
 nid: 2091
 uid: 0
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/7165631158_7b0f2d865a_o_medium_1.jpg)
 
 # starvation-lake
 
-by [](../../../profile/) | May 10, 2012 22:46
+by [](/profile/) | May 10, 2012 22:46
 
 May 10, 2012 22:46 | Tags: 
 

@@ -6,18 +6,16 @@ author: gonzoearth
 path: /notes/gonzoearth/12-29-2011/oblique-aerial-bay-jimmy-wilkinson-bayou.md
 nid: 669
 uid: 12
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/2011-2-25-louisiana-barataria-bay-jimmy-east-oblique_0.jpg)
 
 # Oblique aerial of Bay Jimmy - Wilkinson Bayou
 
-by [gonzoearth](../../../profile/gonzoearth) | December 30, 2011 00:14
+by [gonzoearth](/profile/gonzoearth) | December 30, 2011 00:14
 
-December 30, 2011 00:14 | Tags: [oblique](../tag/oblique), [airplane](../tag/airplane), [bayjimmy](../tag/bayjimmy)
+December 30, 2011 00:14 | Tags: [oblique](/tag/oblique), [airplane](/tag/airplane), [bayjimmy](/tag/bayjimmy)
 
 ----
 

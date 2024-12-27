@@ -6,18 +6,16 @@ author: kinasmith
 path: /notes/kinasmith/06-07-2016/one-way-of-using-the-rtc-alarms-to-schedule-logging-on-the-riffle.md
 nid: 13171
 uid: 445906
-
 cids: 14719,14720,14721,14722,14724,14725,14726,14735,14737,14765
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/517/original/petting-my-cat-wallpaper-660x3301.jpg)
 
 # One way of using the RTC Alarms to schedule logging on the Riffle
 
-by [kinasmith](../../../profile/kinasmith) | June 07, 2016 04:51
+by [kinasmith](/profile/kinasmith) | June 07, 2016 04:51
 
-June 07, 2016 04:51 | Tags: [riffle](../tag/riffle), [riffle-examples](../tag/riffle-examples), [first-time-poster](../tag/first-time-poster)
+June 07, 2016 04:51 | Tags: [riffle](/tag/riffle), [riffle-examples](/tag/riffle-examples), [first-time-poster](/tag/first-time-poster)
 
 ----
 

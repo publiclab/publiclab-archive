@@ -6,12 +6,12 @@ author: amocorro
 path: /wiki/csp.md
 nid: 24036
 uid: 700923
-
+cids: 
 ---
 
 # csp
 
-by [amocorro](../profile/amocorro)
+by [amocorro](/profile/amocorro)
 
 June 24, 2020 16:20 | Tags: 
 

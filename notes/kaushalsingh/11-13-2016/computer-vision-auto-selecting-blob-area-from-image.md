@@ -6,18 +6,16 @@ author: kaushalsingh
 path: /notes/kaushalsingh/11-13-2016/computer-vision-auto-selecting-blob-area-from-image.md
 nid: 13698
 uid: 496664
-
 cids: 15820,22345
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/826/original/BLOB.jpg)
 
 # Computer Vision: Auto selecting blob area from image
 
-by [kaushalsingh](../../../profile/kaushalsingh) | November 13, 2016 03:54
+by [kaushalsingh](/profile/kaushalsingh) | November 13, 2016 03:54
 
-November 13, 2016 03:54 | Tags: [matlab](../tag/matlab), [computer-vision](../tag/computer-vision), [question:computer-vision](../tag/question:computer-vision)
+November 13, 2016 03:54 | Tags: [matlab](/tag/matlab), [computer-vision](/tag/computer-vision), [question:computer-vision](/tag/question:computer-vision)
 
 ----
 

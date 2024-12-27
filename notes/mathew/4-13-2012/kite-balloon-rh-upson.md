@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/4-13-2012/kite-balloon-rh-upson.md
 nid: 1665
 uid: 4
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-04-12 at 9.34.43 PM.png)
 
 # Kite Balloon of R.H. Upson
 
-by [mathew](../../../profile/mathew) | April 13, 2012 04:14
+by [mathew](/profile/mathew) | April 13, 2012 04:14
 
-April 13, 2012 04:14 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite-balloon-hybrid](../tag/kite-balloon-hybrid)
+April 13, 2012 04:14 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [kite-balloon-hybrid](/tag/kite-balloon-hybrid)
 
 ----
 

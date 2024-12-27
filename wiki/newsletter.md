@@ -6,14 +6,14 @@ author: warren
 path: /wiki/newsletter.md
 nid: 4965
 uid: 1
-
+cids: 
 ---
 
 # Newsletter
 
-by [liz](../profile/liz), [warren](../profile/warren)
+by [liz](/profile/liz), [warren](/profile/warren)
 
-November 20, 2012 22:33 | Tags: [community](../tag/community), [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+November 20, 2012 22:33 | Tags: [community](/tag/community), [newsletter](/tag/newsletter), [newsletter-archive](/tag/newsletter-archive)
 
 ----
 

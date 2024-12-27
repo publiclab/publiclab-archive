@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/07-23-2017/rough-prototype-of-video-analysis-tool-for-monitoring-a-pixel.md
 nid: 14675
 uid: 1
-
 cids: 19634,19635
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/196/original/Screenshot_2017-07-23_at_11.53.44_AM.png)
 
 # Rough prototype of video analysis tool for monitoring a pixel's brightness/color over time
 
-by [warren](../../../profile/warren) | July 23, 2017 10:17
+by [warren](/profile/warren) | July 23, 2017 10:17
 
-July 23, 2017 10:17 | Tags: [video](../tag/video), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [prototype](../tag/prototype), [image-analysis](../tag/image-analysis), [video-analysis](../tag/video-analysis)
+July 23, 2017 10:17 | Tags: [video](/tag/video), [photo-monitoring](/tag/photo-monitoring), [timelapse](/tag/timelapse), [water-quality](/tag/water-quality), [turbidity](/tag/turbidity), [prototype](/tag/prototype), [image-analysis](/tag/image-analysis), [video-analysis](/tag/video-analysis)
 
 ----
 

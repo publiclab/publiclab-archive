@@ -6,16 +6,16 @@ author: liz
 path: /wiki/usepa.md
 nid: 12259
 uid: 7
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/723/original/search.png)
 
 # USEPA
 
-by [liz](../profile/liz), [DavidMack](../profile/DavidMack)
+by [liz](/profile/liz), [DavidMack](/profile/DavidMack)
 
-September 30, 2015 20:20 | Tags: [united-states](../tag/united-states), [epa](../tag/epa), [regulations](../tag/regulations), [law-and-policy](../tag/law-and-policy), [parent:law-and-policy](../tag/parent:law-and-policy)
+September 30, 2015 20:20 | Tags: [united-states](/tag/united-states), [epa](/tag/epa), [regulations](/tag/regulations), [law-and-policy](/tag/law-and-policy), [parent:law-and-policy](/tag/parent:law-and-policy)
 
 ----
 

@@ -6,16 +6,14 @@ author: Georgina
 path: /notes/Georgina/10-13-2017/we-need-help-with-garden-testing-after-harvey.md
 nid: 15048
 uid: 516039
-
 cids: 17533,22667
-
 ---
 
 # We need help with garden testing after Harvey
 
-by [Georgina](../../../profile/Georgina) | October 13, 2017 17:28
+by [Georgina](/profile/Georgina) | October 13, 2017 17:28
 
-October 13, 2017 17:28 | Tags: [question](../tag/question), [soil](../tag/soil), [garden](../tag/garden), [answered](../tag/answered), [question:general](../tag/question:general), [harvey](../tag/harvey), [harvey-response](../tag/harvey-response), [question:harvey](../tag/question:harvey), [soil-sampling](../tag/soil-sampling), [question:soil-sampling](../tag/question:soil-sampling), [question:soil](../tag/question:soil)
+October 13, 2017 17:28 | Tags: [question](/tag/question), [soil](/tag/soil), [garden](/tag/garden), [answered](/tag/answered), [question:general](/tag/question:general), [harvey](/tag/harvey), [harvey-response](/tag/harvey-response), [question:harvey](/tag/question:harvey), [soil-sampling](/tag/soil-sampling), [question:soil-sampling](/tag/question:soil-sampling), [question:soil](/tag/question:soil)
 
 ----
 

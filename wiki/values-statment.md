@@ -6,14 +6,14 @@ author: cindy_excites
 path: /wiki/values-statment.md
 nid: 9407
 uid: 1083
-
+cids: 
 ---
 
 # Values statment
 
-by [warren](../profile/warren), [cindy_excites](../profile/cindy_excites)
+by [warren](/profile/warren), [cindy_excites](/profile/cindy_excites)
 
-October 06, 2013 17:53 | Tags: [redirect:values-statement](../tag/redirect:values-statement)
+October 06, 2013 17:53 | Tags: [redirect:values-statement](/tag/redirect:values-statement)
 
 ----
 

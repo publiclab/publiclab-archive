@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/8-3-2011/ir-reveals-gowanus-plume.md
 nid: 425
 uid: 7
-
 cids: 307,309,312,313,314,9952,9957,9960
-
 ---
 
 ![](https://publiclab.org/sites/default/files/6006190104_c024a5c028_b.jpg)
 
 # Infrared balloon image reveals Gowanus plume
 
-by [liz](../../../profile/liz) | August 03, 2011 18:32
+by [liz](/profile/liz) | August 03, 2011 18:32
 
-August 03, 2011 18:32 | Tags: [gowanus](../tag/gowanus), [nrg](../tag/nrg), [infrared](../tag/infrared), [plume](../tag/plume), [watchdog](../tag/watchdog), [great-photos](../tag/great-photos)
+August 03, 2011 18:32 | Tags: [gowanus](/tag/gowanus), [nrg](/tag/nrg), [infrared](/tag/infrared), [plume](/tag/plume), [watchdog](/tag/watchdog), [great-photos](/tag/great-photos)
 
 ----
 

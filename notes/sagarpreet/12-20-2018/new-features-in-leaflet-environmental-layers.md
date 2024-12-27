@@ -6,18 +6,16 @@ author: sagarpreet
 path: /notes/sagarpreet/12-20-2018/new-features-in-leaflet-environmental-layers.md
 nid: 17978
 uid: 516343
-
 cids: 21552,21553,21555,21566,21642
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/462/original/spinner-gif.gif)
 
 # New Features in Leaflet-Environmental Layers Library
 
-by [sagarpreet](../../../profile/sagarpreet) | December 20, 2018 06:38
+by [sagarpreet](/profile/sagarpreet) | December 20, 2018 06:38
 
-December 20, 2018 06:38 | Tags: [pollution](../tag/pollution), [leaflet](../tag/leaflet), [weather](../tag/weather), [geographic-features](../tag/geographic-features), [location:blurred](../tag/location:blurred), [lon:77](../tag/lon:77), [lat:23](../tag/lat:23), [leaflet-environmental-layers](../tag/leaflet-environmental-layers)
+December 20, 2018 06:38 | Tags: [pollution](/tag/pollution), [leaflet](/tag/leaflet), [weather](/tag/weather), [geographic-features](/tag/geographic-features), [location:blurred](/tag/location:blurred), [lon:77](/tag/lon:77), [lat:23](/tag/lat:23), [leaflet-environmental-layers](/tag/leaflet-environmental-layers)
 
 ----
 

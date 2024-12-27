@@ -6,16 +6,16 @@ author: warren
 path: /wiki/north-carolina.md
 nid: 18
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_6513.JPG)
 
 # Western North Carolina
 
-by [JSummers](../profile/JSummers), [warren](../profile/warren), [adam-griffith](../profile/adam-griffith), [Shannon](../profile/Shannon)
+by [JSummers](/profile/JSummers), [warren](/profile/warren), [adam-griffith](/profile/adam-griffith), [Shannon](/profile/Shannon)
 
-December 10, 2010 02:19 | Tags: [chapter](../tag/chapter), [events:western-carolina-university](../tag/events:western-carolina-university), [list:plots-southeast](../tag/list:plots-southeast), [lat:35.58](../tag/lat:35.58), [lon:-82.555833](../tag/lon:-82.555833), [southeast](../tag/southeast), [parent:southeast](../tag/parent:southeast)
+December 10, 2010 02:19 | Tags: [chapter](/tag/chapter), [events:western-carolina-university](/tag/events:western-carolina-university), [list:plots-southeast](/tag/list:plots-southeast), [lat:35.58](/tag/lat:35.58), [lon:-82.555833](/tag/lon:-82.555833), [southeast](/tag/southeast), [parent:southeast](/tag/parent:southeast)
 
 ----
 

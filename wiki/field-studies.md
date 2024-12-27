@@ -6,16 +6,16 @@ author: warren
 path: /wiki/field-studies.md
 nid: 16035
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/238/original/IMG_20180328_164106.jpg)
 
 # Field Studies
 
-by [warren](../profile/warren), [liz](../profile/liz)
+by [warren](/profile/warren), [liz](/profile/liz)
 
-March 28, 2018 20:36 | Tags: [parent:education](../tag/parent:education), [sidebar:none](../tag/sidebar:none)
+March 28, 2018 20:36 | Tags: [parent:education](/tag/parent:education), [sidebar:none](/tag/sidebar:none)
 
 ----
 
@@ -62,11 +62,11 @@ _Recently launched to the International Space Station, this multispectral camera
 
 ## Questions
 
-[field-studies](../../tag/question:field-studies)
+[field-studies](/tag/question:field-studies)
 
 ## Activities
 
-[field-studies](../../tag/activity:field-studies)
+[field-studies](/tag/activity:field-studies)
 
 _below image via The Economist, December 2017, fair use permitted_
 

@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/07-19-2018/dfrobot-tds-sensor-first-look.md
 nid: 16752
 uid: 554
-
 cids: 20175,20177,25001,25003,27366
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/777/original/TDS_20180711-3087.JPG)
 
 # DFRobot TDS sensor first look
 
-by [cfastie](../../../profile/cfastie) | July 19, 2018 15:05
+by [cfastie](/profile/cfastie) | July 19, 2018 15:05
 
-July 19, 2018 15:05 | Tags: [arduino](../tag/arduino), [water-quality-monitoring](../tag/water-quality-monitoring), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [data-logging](../tag/data-logging), [water-level](../tag/water-level), [ds18b20](../tag/ds18b20), [mini-pearl-logger](../tag/mini-pearl-logger), [activity:mini-pearl-logger](../tag/activity:mini-pearl-logger), [series:springhouse-water-level](../tag/series:springhouse-water-level), [total-dissolved-solids](../tag/total-dissolved-solids)
+July 19, 2018 15:05 | Tags: [arduino](/tag/arduino), [water-quality-monitoring](/tag/water-quality-monitoring), [sensors](/tag/sensors), [water-quality](/tag/water-quality), [data-logging](/tag/data-logging), [water-level](/tag/water-level), [ds18b20](/tag/ds18b20), [mini-pearl-logger](/tag/mini-pearl-logger), [activity:mini-pearl-logger](/tag/activity:mini-pearl-logger), [series:springhouse-water-level](/tag/series:springhouse-water-level), [total-dissolved-solids](/tag/total-dissolved-solids)
 
 ----
 

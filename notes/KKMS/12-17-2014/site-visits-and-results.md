@@ -6,18 +6,16 @@ author: KKMS
 path: /notes/KKMS/12-17-2014/site-visits-and-results.md
 nid: 11470
 uid: 432742
-
 cids: 20667
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/459/original/_pic.jpg)
 
 # Site Visits and Results
 
-by [KKMS](../../../profile/KKMS) | December 17, 2014 12:34
+by [KKMS](/profile/KKMS) | December 17, 2014 12:34
 
-December 17, 2014 12:34 | Tags: [arduino](../tag/arduino), [thermal-flashlight](../tag/thermal-flashlight), [canada](../tag/canada), [sociology-4107](../tag/sociology-4107), [response:11460](../tag/response:11460), [newfoundland](../tag/newfoundland)
+December 17, 2014 12:34 | Tags: [arduino](/tag/arduino), [thermal-flashlight](/tag/thermal-flashlight), [canada](/tag/canada), [sociology-4107](/tag/sociology-4107), [response:11460](/tag/response:11460), [newfoundland](/tag/newfoundland)
 
 ----
 

@@ -6,18 +6,16 @@ author: TheChessGym
 path: /notes/TheChessGym/08-19-2022/environmental-science-stimuli-that-can-adversely-impact-life-in-the-future.md
 nid: 34889
 uid: 788868
-
 cids: 30435,30436,30437,30438,30439,30440,30441,30442,30443,30444,30445,30446,30447,30448,30449,30450,30451
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/046/original/WEP.jpg)
 
 # Environmental Science Stimuli That Can Adversely Impact Life In The Future
 
-by [TheChessGym](../../../profile/TheChessGym) | August 19, 2022 13:27
+by [TheChessGym](/profile/TheChessGym) | August 19, 2022 13:27
 
-August 19, 2022 13:27 | Tags: [first-time-poster](../tag/first-time-poster), [lat:20](../tag/lat:20), [lon:70](../tag/lon:70), [zoom:4](../tag/zoom:4)
+August 19, 2022 13:27 | Tags: [first-time-poster](/tag/first-time-poster), [lat:20](/tag/lat:20), [lon:70](/tag/lon:70), [zoom:4](/tag/zoom:4)
 
 ----
 

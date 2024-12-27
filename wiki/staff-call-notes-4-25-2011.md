@@ -6,12 +6,12 @@ author: warren
 path: /wiki/staff-call-notes-4-25-2011.md
 nid: 192
 uid: 1
-
+cids: 
 ---
 
 # Staff Call Notes 4 25 2011
 
-by [gonzoearth](../profile/gonzoearth), [warren](../profile/warren)
+by [gonzoearth](/profile/gonzoearth), [warren](/profile/warren)
 
 April 25, 2011 21:46 | Tags: 
 

@@ -6,12 +6,12 @@ author: gonzoearth
 path: /wiki/html5test.md
 nid: 411
 uid: 12
-
+cids: 
 ---
 
 # html5test
 
-by [gonzoearth](../profile/gonzoearth)
+by [gonzoearth](/profile/gonzoearth)
 
 July 26, 2011 06:07 | Tags: 
 

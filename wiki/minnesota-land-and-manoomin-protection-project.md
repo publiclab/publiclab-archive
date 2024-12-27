@@ -6,16 +6,16 @@ author: noah_ben_furman
 path: /wiki/minnesota-land-and-manoomin-protection-project.md
 nid: 31058
 uid: 795472
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/769/original/fracout_2.1.1.jpg)
 
 # Minnesota Land and Manoomin Protection Project
 
-by [JuliaGuerrein](../profile/JuliaGuerrein), [noah_ben_furman](../profile/noah_ben_furman)
+by [JuliaGuerrein](/profile/JuliaGuerrein), [noah_ben_furman](/profile/noah_ben_furman)
 
-June 15, 2022 18:24 | Tags: [mining](../tag/mining), [water-quality](../tag/water-quality), [minnesota](../tag/minnesota), [midwest](../tag/midwest), [land-use](../tag/land-use), [place:united-states](../tag/place:united-states), [projects](../tag/projects), [zoom:6](../tag/zoom:6), [fellowship-team](../tag/fellowship-team), [fellowship-teams](../tag/fellowship-teams), [wild-rice](../tag/wild-rice), [huber-osb-factory](../tag/huber-osb-factory), [talon-rio-tinto-mine](../tag/talon-rio-tinto-mine), [land-rights](../tag/land-rights), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [lat:46.618543](../tag/lat:46.618543), [lon:-93.453669](../tag/lon:-93.453669), [great-lakes-region](../tag/great-lakes-region), [wild-rice-district](../tag/wild-rice-district), [manoomin](../tag/manoomin), [anishinaabe](../tag/anishinaabe), [ojibwe](../tag/ojibwe), [treaty-rights](../tag/treaty-rights)
+June 15, 2022 18:24 | Tags: [mining](/tag/mining), [water-quality](/tag/water-quality), [minnesota](/tag/minnesota), [midwest](/tag/midwest), [land-use](/tag/land-use), [place:united-states](/tag/place:united-states), [projects](/tag/projects), [zoom:6](/tag/zoom:6), [fellowship-team](/tag/fellowship-team), [fellowship-teams](/tag/fellowship-teams), [wild-rice](/tag/wild-rice), [huber-osb-factory](/tag/huber-osb-factory), [talon-rio-tinto-mine](/tag/talon-rio-tinto-mine), [land-rights](/tag/land-rights), [mn-land-manoomin-protection](/tag/mn-land-manoomin-protection), [lat:46.618543](/tag/lat:46.618543), [lon:-93.453669](/tag/lon:-93.453669), [great-lakes-region](/tag/great-lakes-region), [wild-rice-district](/tag/wild-rice-district), [manoomin](/tag/manoomin), [anishinaabe](/tag/anishinaabe), [ojibwe](/tag/ojibwe), [treaty-rights](/tag/treaty-rights)
 
 ----
 
@@ -64,13 +64,13 @@ Interested in following along in the project? Subscribe to the tag below to get 
 
 <a class="btn btn-large btn-primary" href="https://publiclab.org/subscribe/tag/MN-Land-Manoomin-Protection">Subscribe to updates on this project </a>
 
-[MN-Land-Manoomin-Protection](../../tag/MN-Land-Manoomin-Protection) 
+[MN-Land-Manoomin-Protection](/tag/MN-Land-Manoomin-Protection) 
 
 ### Questions
 
 Here's a place to list things you have questions about, or issues or **challenges you’re hoping to solve in this project**. What questions helped guide the work? Let's build out a Frequently Asked Questions area:
 
-[MN-Land-Manoomin-Protection](../../tag/question:MN-Land-Manoomin-Protection)
+[MN-Land-Manoomin-Protection](/tag/question:MN-Land-Manoomin-Protection)
 
 ****
 
@@ -78,7 +78,7 @@ Here's a place to list things you have questions about, or issues or **challenge
 
 This section will capture any activities you've done with your group with your project tag. This will help others follow along with what you've already done. Delete this text and replace “tagname” below with the tag for your project. Be sure to tag any activities you've done with your project tag. 
 
-[MN-Land-Manoomin-Protection](../../tag/activity:MN-Land-Manoomin-Protection)
+[MN-Land-Manoomin-Protection](/tag/activity:MN-Land-Manoomin-Protection)
 
 ### Data
 

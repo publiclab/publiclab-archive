@@ -6,14 +6,14 @@ author: warren
 path: /wiki/amsterdam.md
 nid: 9321
 uid: 1
-
+cids: 
 ---
 
 # Amsterdam
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-September 12, 2013 18:49 | Tags: [waagsociety](../tag/waagsociety), [amsterdam](../tag/amsterdam), [netherlands](../tag/netherlands), [chapter](../tag/chapter), [list:plots-amsterdam](../tag/list:plots-amsterdam), [waag](../tag/waag), [lat:52.3747158](../tag/lat:52.3747158), [lng:4.8986166](../tag/lng:4.8986166)
+September 12, 2013 18:49 | Tags: [waagsociety](/tag/waagsociety), [amsterdam](/tag/amsterdam), [netherlands](/tag/netherlands), [chapter](/tag/chapter), [list:plots-amsterdam](/tag/list:plots-amsterdam), [waag](/tag/waag), [lat:52.3747158](/tag/lat:52.3747158), [lng:4.8986166](/tag/lng:4.8986166)
 
 ----
 

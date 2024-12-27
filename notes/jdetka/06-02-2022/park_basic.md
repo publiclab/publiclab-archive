@@ -6,18 +6,16 @@ author: jdetka
 path: /notes/jdetka/06-02-2022/park_basic.md
 nid: 31005
 uid: 801421
-
 cids: 30240
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/718/original/blob)
 
 # Park_Basic
 
-by [jdetka](../../../profile/jdetka) | June 02, 2022 03:20
+by [jdetka](/profile/jdetka) | June 02, 2022 03:20
 
-June 02, 2022 03:20 | Tags: [infragram](../tag/infragram), [multispectral-imaging](../tag/multispectral-imaging), [first-time-poster](../tag/first-time-poster), [infragram-upload](../tag/infragram-upload), [test_image](../tag/test_image)
+June 02, 2022 03:20 | Tags: [infragram](/tag/infragram), [multispectral-imaging](/tag/multispectral-imaging), [first-time-poster](/tag/first-time-poster), [infragram-upload](/tag/infragram-upload), [test_image](/tag/test_image)
 
 ----
 

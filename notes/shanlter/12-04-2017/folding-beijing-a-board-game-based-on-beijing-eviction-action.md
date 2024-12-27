@@ -6,18 +6,16 @@ author: shanlter
 path: /notes/shanlter/12-04-2017/folding-beijing-a-board-game-based-on-beijing-eviction-action.md
 nid: 15292
 uid: 420999
-
 cids: 17963,17968,17969,17970,18892,25872
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/767/original/2017-11-27_15.41.03-1.jpg)
 
 # Folding-Beijing: A Board Game based on Beijing eviction action
 
-by [shanlter](../../../profile/shanlter) | December 04, 2017 11:26
+by [shanlter](/profile/shanlter) | December 04, 2017 11:26
 
-December 04, 2017 11:26 | Tags: [games](../tag/games), [asia](../tag/asia), [china](../tag/china), [barnraising-2017](../tag/barnraising-2017), [board-games](../tag/board-games), [beijing](../tag/beijing)
+December 04, 2017 11:26 | Tags: [games](/tag/games), [asia](/tag/asia), [china](/tag/china), [barnraising-2017](/tag/barnraising-2017), [board-games](/tag/board-games), [beijing](/tag/beijing)
 
 ----
 

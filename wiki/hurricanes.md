@@ -6,14 +6,14 @@ author: warren
 path: /wiki/hurricanes.md
 nid: 14866
 uid: 1
-
+cids: 
 ---
 
 # Hurricanes
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-September 08, 2017 17:13 | Tags: [redirect:13474](../tag/redirect:13474)
+September 08, 2017 17:13 | Tags: [redirect:13474](/tag/redirect:13474)
 
 ----
 

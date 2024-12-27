@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/12-24-2014/potent-potable-puzzle.md
 nid: 11496
 uid: 554
-
 cids: 11002,11003,11004,11418
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/533/original/4IRbevWrat87_Named.jpg)
 
 # Potent Potable Puzzle
 
-by [cfastie](../../../profile/cfastie) | December 24, 2014 18:42
+by [cfastie](/profile/cfastie) | December 24, 2014 18:42
 
-December 24, 2014 18:42 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nir](../tag/nir), [holiday](../tag/holiday), [absorption](../tag/absorption), [infragram](../tag/infragram), [happy-holidays](../tag/happy-holidays), [response:11489](../tag/response:11489)
+December 24, 2014 18:42 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [nir](/tag/nir), [holiday](/tag/holiday), [absorption](/tag/absorption), [infragram](/tag/infragram), [happy-holidays](/tag/happy-holidays), [response:11489](/tag/response:11489)
 
 ----
 

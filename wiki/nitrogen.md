@@ -6,14 +6,14 @@ author: warren
 path: /wiki/nitrogen.md
 nid: 18524
 uid: 1
-
+cids: 
 ---
 
 # Nitrogen
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-March 12, 2019 19:40 | Tags: [water-quality](../tag/water-quality), [nitrate](../tag/nitrate), [nitrates](../tag/nitrates), [no2](../tag/no2), [phosphate](../tag/phosphate), [parent:water-quality](../tag/parent:water-quality), [nitrogen](../tag/nitrogen)
+March 12, 2019 19:40 | Tags: [water-quality](/tag/water-quality), [nitrate](/tag/nitrate), [nitrates](/tag/nitrates), [no2](/tag/no2), [phosphate](/tag/phosphate), [parent:water-quality](/tag/parent:water-quality), [nitrogen](/tag/nitrogen)
 
 ----
 
@@ -39,9 +39,9 @@ The equilibrium between ammonia and ammonium is pH dependent, with the two speci
 
 Questions can be either frequently asked questions, or "next step" challenges we're looking to solve.
 
-[nitrogen](../../tag/question:nitrogen)
+[nitrogen](/tag/question:nitrogen)
 
 ## Activities
 
-[nitrogen](../../tag/activity:nitrogen)
+[nitrogen](/tag/activity:nitrogen)
 

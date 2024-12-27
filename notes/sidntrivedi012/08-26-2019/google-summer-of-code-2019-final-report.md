@@ -6,18 +6,16 @@ author: sidntrivedi012
 path: /notes/sidntrivedi012/08-26-2019/google-summer-of-code-2019-final-report.md
 nid: 20681
 uid: 572743
-
 cids: 25423,25455,25709
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/890/original/gsoc.jpg)
 
 # Google Summer of Code 2019 Final Report
 
-by [sidntrivedi012](../../../profile/sidntrivedi012) | August 26, 2019 14:34
+by [sidntrivedi012](/profile/sidntrivedi012) | August 26, 2019 14:34
 
-August 26, 2019 14:34 | Tags: [open-source](../tag/open-source), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [gsoc-2019-final-report](../tag/gsoc-2019-final-report)
+August 26, 2019 14:34 | Tags: [open-source](/tag/open-source), [soc](/tag/soc), [gsoc-2019](/tag/gsoc-2019), [gsoc-2019-final-report](/tag/gsoc-2019-final-report)
 
 ----
 

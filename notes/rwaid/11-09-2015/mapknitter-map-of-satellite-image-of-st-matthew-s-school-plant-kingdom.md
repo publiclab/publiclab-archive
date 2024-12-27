@@ -6,16 +6,14 @@ author: rwaid
 path: /notes/rwaid/11-09-2015/mapknitter-map-of-satellite-image-of-st-matthew-s-school-plant-kingdom.md
 nid: 12387
 uid: 456398
-
 cids: 
-
 ---
 
 # MapKnitter map of satellite image of st. matthew's school-plant kingdom
 
-by [rwaid](../../../profile/rwaid) | November 09, 2015 17:43
+by [rwaid](/profile/rwaid) | November 09, 2015 17:43
 
-November 09, 2015 17:43 | Tags: [mapknitter](../tag/mapknitter), [lat:34.053753328](../tag/lat:34.053753328), [lon:-118.5419949889](../tag/lon:-118.5419949889)
+November 09, 2015 17:43 | Tags: [mapknitter](/tag/mapknitter), [lat:34.053753328](/tag/lat:34.053753328), [lon:-118.5419949889](/tag/lon:-118.5419949889)
 
 ----
 

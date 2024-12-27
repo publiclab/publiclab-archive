@@ -6,18 +6,16 @@ author: fongvania
 path: /notes/fongvania/10-07-2021/hyperlocal-air-quality-dataset-for-california-regions.md
 nid: 27814
 uid: 754846
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/870/original/1_mzGUT2I4VaK0x7saEOiNDQ.jpeg)
 
 # Hyperlocal Air Quality Dataset for California Regions
 
-by [fongvania](../../../profile/fongvania) | October 07, 2021 21:20
+by [fongvania](/profile/fongvania) | October 07, 2021 21:20
 
-October 07, 2021 21:20 | Tags: [air-quality](../tag/air-quality), [bay-area](../tag/bay-area), [research-curation-fellows](../tag/research-curation-fellows)
+October 07, 2021 21:20 | Tags: [air-quality](/tag/air-quality), [bay-area](/tag/bay-area), [research-curation-fellows](/tag/research-curation-fellows)
 
 ----
 

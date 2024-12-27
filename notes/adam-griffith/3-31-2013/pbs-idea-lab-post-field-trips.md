@@ -6,18 +6,16 @@ author: adam-griffith
 path: /notes/adam-griffith/3-31-2013/pbs-idea-lab-post-field-trips.md
 nid: 6635
 uid: 3
-
 cids: 4386
-
 ---
 
 ![](https://publiclab.org/sites/default/files/overview_0.JPG)
 
 # PBS Idea Lab Post: Field Trips
 
-by [adam-griffith](../../../profile/adam-griffith) | April 01, 2013 00:50
+by [adam-griffith](/profile/adam-griffith) | April 01, 2013 00:50
 
-April 01, 2013 00:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [idealab](../tag/idealab), [pbs](../tag/pbs), [field-trip](../tag/field-trip)
+April 01, 2013 00:50 | Tags: [balloon-mapping](/tag/balloon-mapping), [education](/tag/education), [idealab](/tag/idealab), [pbs](/tag/pbs), [field-trip](/tag/field-trip)
 
 ----
 

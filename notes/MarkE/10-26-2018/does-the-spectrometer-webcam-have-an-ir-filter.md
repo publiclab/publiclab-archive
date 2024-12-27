@@ -6,16 +6,14 @@ author: MarkE
 path: /notes/MarkE/10-26-2018/does-the-spectrometer-webcam-have-an-ir-filter.md
 nid: 17407
 uid: 556614
-
 cids: 21014,21035,21037,21047,21083,21086,21105,21184,21189,21192,21196,21198,21199
-
 ---
 
 # Does the spectrometer webcam have an IR filter?
 
-by [MarkE](../../../profile/MarkE) | October 26, 2018 19:37
+by [MarkE](/profile/MarkE) | October 26, 2018 19:37
 
-October 26, 2018 19:37 | Tags: [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster), [question:cannabis](../tag/question:cannabis)
+October 26, 2018 19:37 | Tags: [question:general](/tag/question:general), [first-time-poster](/tag/first-time-poster), [question:cannabis](/tag/question:cannabis)
 
 ----
 

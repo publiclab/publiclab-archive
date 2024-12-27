@@ -6,16 +6,14 @@ author: sara
 path: /notes/sara/9-11-2011/hydrogen-sulfide-information-gas.md
 nid: 460
 uid: 8
-
 cids: 
-
 ---
 
 # Hydrogen Sulfide Information on the Gas
 
-by [sara](../../../profile/sara) | September 11, 2011 17:50
+by [sara](/profile/sara) | September 11, 2011 17:50
 
-September 11, 2011 17:50 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s)
+September 11, 2011 17:50 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s)
 
 ----
 

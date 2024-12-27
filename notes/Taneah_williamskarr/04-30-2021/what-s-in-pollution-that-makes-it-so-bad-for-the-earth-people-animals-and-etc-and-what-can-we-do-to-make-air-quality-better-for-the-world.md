@@ -6,16 +6,14 @@ author: Taneah_williamskarr
 path: /notes/Taneah_williamskarr/04-30-2021/what-s-in-pollution-that-makes-it-so-bad-for-the-earth-people-animals-and-etc-and-what-can-we-do-to-make-air-quality-better-for-the-world.md
 nid: 26436
 uid: 754795
-
 cids: 28678
-
 ---
 
 # What's in pollution that makes it so bad for the earth, people, animals and etc and what can we do to make air quality better for the world
 
-by [Taneah_williamskarr](../../../profile/Taneah_williamskarr) | April 30, 2021 19:46
+by [Taneah_williamskarr](/profile/Taneah_williamskarr) | April 30, 2021 19:46
 
-April 30, 2021 19:46 | Tags: [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
+April 30, 2021 19:46 | Tags: [question:general](/tag/question:general), [general](/tag/general), [first-time-poster](/tag/first-time-poster)
 
 ----
 

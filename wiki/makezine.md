@@ -6,12 +6,12 @@ author: warren
 path: /wiki/makezine.md
 nid: 10556
 uid: 1
-
+cids: 
 ---
 
 # Makezine
 
-by [donblair](../profile/donblair), [warren](../profile/warren)
+by [donblair](/profile/donblair), [warren](/profile/warren)
 
 June 12, 2014 18:59 | Tags: 
 

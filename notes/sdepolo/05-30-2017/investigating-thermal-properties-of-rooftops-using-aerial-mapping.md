@@ -6,18 +6,16 @@ author: sdepolo
 path: /notes/sdepolo/05-30-2017/investigating-thermal-properties-of-rooftops-using-aerial-mapping.md
 nid: 14255
 uid: 508246
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/593/original/Screen_Shot_2017-05-30_at_9.23.46_AM.png)
 
 # Investigating Thermal Properties of Rooftops Using Aerial Mapping
 
-by [sdepolo](../../../profile/sdepolo) | May 30, 2017 16:25
+by [sdepolo](/profile/sdepolo) | May 30, 2017 16:25
 
-May 30, 2017 16:25 | Tags: [balloon-mapping](../tag/balloon-mapping), [thermal-photography](../tag/thermal-photography), [event](../tag/event), [thermal-camera](../tag/thermal-camera), [insulation](../tag/insulation), [hidden:response](../tag/hidden:response), [response:14179](../tag/response:14179), [roof](../tag/roof), [first-time-poster](../tag/first-time-poster)
+May 30, 2017 16:25 | Tags: [balloon-mapping](/tag/balloon-mapping), [thermal-photography](/tag/thermal-photography), [event](/tag/event), [thermal-camera](/tag/thermal-camera), [insulation](/tag/insulation), [hidden:response](/tag/hidden:response), [response:14179](/tag/response:14179), [roof](/tag/roof), [first-time-poster](/tag/first-time-poster)
 
 ----
 

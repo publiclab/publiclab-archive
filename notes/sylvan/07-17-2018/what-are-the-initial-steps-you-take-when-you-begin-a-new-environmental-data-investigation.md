@@ -6,16 +6,14 @@ author: sylvan
 path: /notes/sylvan/07-17-2018/what-are-the-initial-steps-you-take-when-you-begin-a-new-environmental-data-investigation.md
 nid: 16734
 uid: 540012
-
 cids: 20179,20183,20186,23521
-
 ---
 
 # What are the initial steps you take when you begin a new environmental data investigation?
 
-by [sylvan](../../../profile/sylvan) | July 17, 2018 20:57
+by [sylvan](/profile/sylvan) | July 17, 2018 20:57
 
-July 17, 2018 20:57 | Tags: [community](../tag/community), [website](../tag/website), [education](../tag/education), [kits](../tag/kits), [help](../tag/help), [web](../tag/web), [tool](../tag/tool), [question:general](../tag/question:general), [method](../tag/method), [study-design](../tag/study-design), [citizenscience](../tag/citizenscience), [question:study-design](../tag/question:study-design), [first-time-poster](../tag/first-time-poster)
+July 17, 2018 20:57 | Tags: [community](/tag/community), [website](/tag/website), [education](/tag/education), [kits](/tag/kits), [help](/tag/help), [web](/tag/web), [tool](/tag/tool), [question:general](/tag/question:general), [method](/tag/method), [study-design](/tag/study-design), [citizenscience](/tag/citizenscience), [question:study-design](/tag/question:study-design), [first-time-poster](/tag/first-time-poster)
 
 ----
 

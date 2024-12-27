@@ -6,16 +6,14 @@ author: nviollier
 path: /notes/nviollier/03-19-2019/how-can-i-demonstrate-the-bioremediation-of-fungi.md
 nid: 18778
 uid: 579767
-
 cids: 22232,23334,25533,26870,29515
-
 ---
 
 # How can I demonstrate the bioremediation of fungi?
 
-by [nviollier](../../../profile/nviollier) | March 19, 2019 16:14
+by [nviollier](/profile/nviollier) | March 19, 2019 16:14
 
-March 19, 2019 16:14 | Tags: [bioremediation](../tag/bioremediation), [mushroom](../tag/mushroom), [first-time-poster](../tag/first-time-poster), [mycelium](../tag/mycelium), [fungi](../tag/fungi), [circular](../tag/circular), [cycle](../tag/cycle), [mycoremediation](../tag/mycoremediation)
+March 19, 2019 16:14 | Tags: [bioremediation](/tag/bioremediation), [mushroom](/tag/mushroom), [first-time-poster](/tag/first-time-poster), [mycelium](/tag/mycelium), [fungi](/tag/fungi), [circular](/tag/circular), [cycle](/tag/cycle), [mycoremediation](/tag/mycoremediation)
 
 ----
 

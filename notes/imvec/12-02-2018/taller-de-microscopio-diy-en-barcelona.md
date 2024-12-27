@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/12-02-2018/taller-de-microscopio-diy-en-barcelona.md
 nid: 17783
 uid: 495038
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/374/original/Screenshot_from_2018-12-14_14-24-54.png)
 
 # Taller de microscopio DIY en Barcelona
 
-by [imvec](../../../profile/imvec) | December 02, 2018 16:01
+by [imvec](/profile/imvec) | December 02, 2018 16:01
 
-December 02, 2018 16:01 | Tags: [barcelona](../tag/barcelona), [workshop](../tag/workshop), [event](../tag/event), [lang:es](../tag/lang:es), [event:rsvp](../tag/event:rsvp), [hardware](../tag/hardware), [lon:2.1](../tag/lon:2.1), [location:blurred](../tag/location:blurred), [spanish](../tag/spanish), [community-microscope](../tag/community-microscope), [date:01-01-2019](../tag/date:01-01-2019), [taller](../tag/taller), [lat:41.3](../tag/lat:41.3), [microscope-workshop](../tag/microscope-workshop)
+December 02, 2018 16:01 | Tags: [barcelona](/tag/barcelona), [workshop](/tag/workshop), [event](/tag/event), [lang:es](/tag/lang:es), [event:rsvp](/tag/event:rsvp), [hardware](/tag/hardware), [lon:2.1](/tag/lon:2.1), [location:blurred](/tag/location:blurred), [spanish](/tag/spanish), [community-microscope](/tag/community-microscope), [date:01-01-2019](/tag/date:01-01-2019), [taller](/tag/taller), [lat:41.3](/tag/lat:41.3), [microscope-workshop](/tag/microscope-workshop)
 
 ----
 

@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/03-22-2017/introduction-to-stormwater-workshop-1-report.md
 nid: 14049
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/916/original/20170304_132500.jpg)
 
 # Introduction to Stormwater Workshop 1 Report
 
-by [stevie](../../../profile/stevie) | March 22, 2017 20:48
+by [stevie](/profile/stevie) | March 22, 2017 20:48
 
-March 22, 2017 20:48 | Tags: [gulf-coast](../tag/gulf-coast), [new-orleans](../tag/new-orleans), [stormwater](../tag/stormwater), [site-survey](../tag/site-survey), [replication:14048](../tag/replication:14048), [replication:14047](../tag/replication:14047)
+March 22, 2017 20:48 | Tags: [gulf-coast](/tag/gulf-coast), [new-orleans](/tag/new-orleans), [stormwater](/tag/stormwater), [site-survey](/tag/site-survey), [replication:14048](/tag/replication:14048), [replication:14047](/tag/replication:14047)
 
 ----
 

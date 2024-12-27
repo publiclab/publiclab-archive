@@ -6,18 +6,16 @@ author: mlamadrid
 path: /notes/mlamadrid/03-17-2016/spectometer-intensity-calibration.md
 nid: 12852
 uid: 45586
-
 cids: 18380,18394
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/117/original/IMG_20150407_150745.jpg)
 
 # Oil Test Kit Beta Program - Data Analysis
 
-by [mlamadrid](../../../profile/mlamadrid) | March 17, 2016 04:02
+by [mlamadrid](/profile/mlamadrid) | March 17, 2016 04:02
 
-March 17, 2016 04:02 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [with:ygzstc](../tag/with:ygzstc)
+March 17, 2016 04:02 | Tags: [spectrometer](/tag/spectrometer), [oil-testing-kit](/tag/oil-testing-kit), [with:ygzstc](/tag/with:ygzstc)
 
 ----
 

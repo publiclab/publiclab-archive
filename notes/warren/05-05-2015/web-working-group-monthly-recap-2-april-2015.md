@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/05-05-2015/web-working-group-monthly-recap-2-april-2015.md
 nid: 11786
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/790/original/plots2-punchcard.png)
 
 # Web Working Group Monthly Recap 2: April 2015
 
-by [warren](../../../profile/warren) | May 05, 2015 21:53
+by [warren](/profile/warren) | May 05, 2015 21:53
 
-May 05, 2015 21:53 | Tags: [mapknitter](../tag/mapknitter), [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [spectral-workbench](../tag/spectral-workbench), [web-wg](../tag/web-wg), [wwg](../tag/wwg), [response:11734](../tag/response:11734), [webwg](../tag/webwg)
+May 05, 2015 21:53 | Tags: [mapknitter](/tag/mapknitter), [web-development](/tag/web-development), [software](/tag/software), [plots2](/tag/plots2), [spectral-workbench](/tag/spectral-workbench), [web-wg](/tag/web-wg), [wwg](/tag/wwg), [response:11734](/tag/response:11734), [webwg](/tag/webwg)
 
 ----
 

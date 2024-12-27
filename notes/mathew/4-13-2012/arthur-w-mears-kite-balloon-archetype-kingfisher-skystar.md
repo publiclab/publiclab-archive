@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/4-13-2012/arthur-w-mears-kite-balloon-archetype-kingfisher-skystar.md
 nid: 1668
 uid: 4
-
 cids: 609,1102
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-04-13 at 10.59.22 AM.png)
 
 # Arthur W. Mears Kite Balloon, archetype for Kingfisher, Skystar?
 
-by [mathew](../../../profile/mathew) | April 13, 2012 18:03
+by [mathew](/profile/mathew) | April 13, 2012 18:03
 
-April 13, 2012 18:03 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite-balloon-hybrid](../tag/kite-balloon-hybrid)
+April 13, 2012 18:03 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [kite-balloon-hybrid](/tag/kite-balloon-hybrid)
 
 ----
 

@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/10-27-2013/2013-barnraising-evaluation-summary.md
 nid: 9649
 uid: 9
-
 cids: 8381
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/068/original/plots-logo-transparent.jpg)
 
 # 2013 Barnraising evaluation summary
 
-by [Shannon](../../../profile/Shannon) | October 27, 2013 17:42
+by [Shannon](/profile/Shannon) | October 27, 2013 17:42
 
-October 27, 2013 17:42 | Tags: [community](../tag/community), [barnraising](../tag/barnraising), [evaluation](../tag/evaluation)
+October 27, 2013 17:42 | Tags: [community](/tag/community), [barnraising](/tag/barnraising), [evaluation](/tag/evaluation)
 
 ----
 

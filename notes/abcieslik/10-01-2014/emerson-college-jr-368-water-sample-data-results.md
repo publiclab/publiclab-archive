@@ -6,18 +6,16 @@ author: abcieslik
 path: /notes/abcieslik/10-01-2014/emerson-college-jr-368-water-sample-data-results.md
 nid: 11227
 uid: 428083
-
 cids: 10496
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/272/original/water_test.jpg)
 
 # Emerson College JR-368 Water Sample Data Results
 
-by [abcieslik](../../../profile/abcieslik) | October 01, 2014 20:10
+by [abcieslik](/profile/abcieslik) | October 01, 2014 20:10
 
-October 01, 2014 20:10 | Tags: [water-quality](../tag/water-quality), [coqui](../tag/coqui)
+October 01, 2014 20:10 | Tags: [water-quality](/tag/water-quality), [coqui](/tag/coqui)
 
 ----
 

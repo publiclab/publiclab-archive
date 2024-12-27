@@ -6,16 +6,16 @@ author: warren
 path: /wiki/maca.md
 nid: 16036
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/945/original/IMG_20171025_092338277.jpg)
 
 # MACA
 
-by [nanocastro](../profile/nanocastro), [warren](../profile/warren)
+by [nanocastro](/profile/nanocastro), [warren](/profile/warren)
 
-March 28, 2018 22:17 | Tags: [air-quality](../tag/air-quality), [sensors](../tag/sensors), [datalogger](../tag/datalogger), [location:blurred](../tag/location:blurred), [air-sensors](../tag/air-sensors), [dustuino](../tag/dustuino), [lat:-32](../tag/lat:-32), [lon:-68](../tag/lon:-68), [place:mendoza-argentina](../tag/place:mendoza-argentina), [particle-sensor](../tag/particle-sensor)
+March 28, 2018 22:17 | Tags: [air-quality](/tag/air-quality), [sensors](/tag/sensors), [datalogger](/tag/datalogger), [location:blurred](/tag/location:blurred), [air-sensors](/tag/air-sensors), [dustuino](/tag/dustuino), [lat:-32](/tag/lat:-32), [lon:-68](/tag/lon:-68), [place:mendoza-argentina](/tag/place:mendoza-argentina), [particle-sensor](/tag/particle-sensor)
 
 ----
 
@@ -32,16 +32,16 @@ You can check the details of the prototype and the calibration data on: https://
 
 Read more:
 
-[maca](../../tag/maca)
+[maca](/tag/maca)
 
 ****
 
 ## Questions
 
-[maca](../../tag/question:maca)
+[maca](/tag/question:maca)
 
 ## Activities
 
-[maca](../../tag/activity:maca)
+[maca](/tag/activity:maca)
 
 

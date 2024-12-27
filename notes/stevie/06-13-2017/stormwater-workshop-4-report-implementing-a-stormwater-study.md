@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/06-13-2017/stormwater-workshop-4-report-implementing-a-stormwater-study.md
 nid: 14533
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/779/original/20170603_155739_%282%29.jpg)
 
 # Stormwater Workshop 4 Report: Implementing a Stormwater Study
 
-by [stevie](../../../profile/stevie) | June 13, 2017 21:46
+by [stevie](/profile/stevie) | June 13, 2017 21:46
 
-June 13, 2017 21:46 | Tags: [gulf-coast](../tag/gulf-coast), [new-orleans](../tag/new-orleans), [neworleans](../tag/neworleans), [stormwater](../tag/stormwater), [study-design](../tag/study-design), [raingauge](../tag/raingauge), [weatherunderground](../tag/weatherunderground), [research-study](../tag/research-study), [gaugeboard](../tag/gaugeboard)
+June 13, 2017 21:46 | Tags: [gulf-coast](/tag/gulf-coast), [new-orleans](/tag/new-orleans), [neworleans](/tag/neworleans), [stormwater](/tag/stormwater), [study-design](/tag/study-design), [raingauge](/tag/raingauge), [weatherunderground](/tag/weatherunderground), [research-study](/tag/research-study), [gaugeboard](/tag/gaugeboard)
 
 ----
 

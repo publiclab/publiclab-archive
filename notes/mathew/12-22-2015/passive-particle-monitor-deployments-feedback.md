@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/12-22-2015/passive-particle-monitor-deployments-feedback.md
 nid: 12537
 uid: 4
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/446/original/IMG_20151020_175427_%282%29.jpg)
 
 # Passive Particle Monitor Deployments: feedback
 
-by [mathew](../../../profile/mathew) | December 22, 2015 00:29
+by [mathew](/profile/mathew) | December 22, 2015 00:29
 
-December 22, 2015 00:29 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [particle-monitoring](../tag/particle-monitoring), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [parent:frac-sand](../tag/parent:frac-sand)
+December 22, 2015 00:29 | Tags: [wisconsin](/tag/wisconsin), [air-quality](/tag/air-quality), [dust](/tag/dust), [silica](/tag/silica), [frac-sand](/tag/frac-sand), [particle-monitoring](/tag/particle-monitoring), [passive-particle-monitors](/tag/passive-particle-monitors), [passive-pm](/tag/passive-pm), [parent:frac-sand](/tag/parent:frac-sand)
 
 ----
 

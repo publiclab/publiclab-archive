@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/04-12-2018/looking-for-people-to-help-modify-3d-printed-pieces-for-the-microscope.md
 nid: 16148
 uid: 422561
-
 cids: 21297,21448,21459,21460,21464
-
 ---
 
 # Looking for people to help modify 3d printed pieces for the microscope.
 
-by [stevie](../../../profile/stevie) | April 12, 2018 15:18
+by [stevie](/profile/stevie) | April 12, 2018 15:18
 
-April 12, 2018 15:18 | Tags: [kits](../tag/kits), [3d-printing](../tag/3d-printing), [request](../tag/request), [3dprinting](../tag/3dprinting), [question:question](../tag/question:question), [question:microscope](../tag/question:microscope), [requests](../tag/requests), [question:request](../tag/question:request), [question:3d-printing](../tag/question:3d-printing), [question:3dprinting](../tag/question:3dprinting)
+April 12, 2018 15:18 | Tags: [kits](/tag/kits), [3d-printing](/tag/3d-printing), [request](/tag/request), [3dprinting](/tag/3dprinting), [question:question](/tag/question:question), [question:microscope](/tag/question:microscope), [requests](/tag/requests), [question:request](/tag/question:request), [question:3d-printing](/tag/question:3d-printing), [question:3dprinting](/tag/question:3dprinting)
 
 ----
 

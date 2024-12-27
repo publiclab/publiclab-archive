@@ -6,12 +6,12 @@ author: warren
 path: /wiki/proposals-prix-ars-2011.md
 nid: 154
 uid: 1
-
+cids: 
 ---
 
 # Proposals Prix Ars 2011
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 April 05, 2011 18:20 | Tags: 
 

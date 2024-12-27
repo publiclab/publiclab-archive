@@ -6,12 +6,12 @@ author: warren
 path: /feature/anniversary-banner.md
 nid: 11796
 uid: 1
-
+cids: 
 ---
 
 # anniversary-banner
 
-May 08, 2015 16:35 | Tags: [anniversary](../tag/anniversary), [header](../tag/header)
+May 08, 2015 16:35 | Tags: [anniversary](/tag/anniversary), [header](/tag/header)
 
 ----
 

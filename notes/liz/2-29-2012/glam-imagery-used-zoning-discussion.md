@@ -6,16 +6,14 @@ author: liz
 path: /notes/liz/2-29-2012/glam-imagery-used-zoning-discussion.md
 nid: 871
 uid: 7
-
 cids: 501
-
 ---
 
 ![](https://publiclab.org/sites/default/files/GLAM_Balloon_Aerial_of_American_Can_Factory_Whole_Foods_Coignet_Building_31_July_2011_4th_ave_connector_Birdseye_IMG_23541_680w.jpg)
 
 # GLAM imagery used in zoning discussion
 
-by [liz](../../../profile/liz) | February 29, 2012 15:55
+by [liz](/profile/liz) | February 29, 2012 15:55
 
 February 29, 2012 15:55 | Tags: 
 

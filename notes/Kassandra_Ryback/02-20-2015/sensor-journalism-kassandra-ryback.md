@@ -6,18 +6,16 @@ author: Kassandra_Ryback
 path: /notes/Kassandra_Ryback/02-20-2015/sensor-journalism-kassandra-ryback.md
 nid: 11609
 uid: 435210
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/030/original/boston-skyline-rick-berk.jpg)
 
 # Sensor Journalism- Kassandra Ryback
 
-by [Kassandra_Ryback](../../../profile/Kassandra_Ryback) | February 20, 2015 07:02
+by [Kassandra_Ryback](/profile/Kassandra_Ryback) | February 20, 2015 07:02
 
-February 20, 2015 07:02 | Tags: [sensor-journalism](../tag/sensor-journalism)
+February 20, 2015 07:02 | Tags: [sensor-journalism](/tag/sensor-journalism)
 
 ----
 

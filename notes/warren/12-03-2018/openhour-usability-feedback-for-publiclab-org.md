@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/12-03-2018/openhour-usability-feedback-for-publiclab-org.md
 nid: 17792
 uid: 1
-
 cids: 21425,21426,21720,21721
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/034/original/Dtgk1ooXoAA2le6.jpg)
 
 # OpenHour: Usability Feedback for PublicLab.org
 
-by [warren](../../../profile/warren) | December 03, 2018 19:52
+by [warren](/profile/warren) | December 03, 2018 19:52
 
-December 03, 2018 19:52 | Tags: [event](../tag/event), [design](../tag/design), [openhour](../tag/openhour), [feedback](../tag/feedback), [ui](../tag/ui)
+December 03, 2018 19:52 | Tags: [event](/tag/event), [design](/tag/design), [openhour](/tag/openhour), [feedback](/tag/feedback), [ui](/tag/ui)
 
 ----
 

@@ -6,18 +6,16 @@ author: joyofsoy
 path: /notes/joyofsoy/09-26-2019/reporting-frac-sand-mine-violations-in-wisconsin.md
 nid: 21012
 uid: 540844
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/473/original/IMG_20190813_160436.jpg)
 
 # Reporting frac sand mine violations in Wisconsin
 
-by [joyofsoy](../../../profile/joyofsoy) | September 26, 2019 18:51
+by [joyofsoy](/profile/joyofsoy) | September 26, 2019 18:51
 
-September 26, 2019 18:51 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [blog](../tag/blog), [fracking](../tag/fracking), [frac-sand](../tag/frac-sand), [parent:frac-sand](../tag/parent:frac-sand), [oil-and-gas](../tag/oil-and-gas), [purpleair](../tag/purpleair), [frac-sand-reporting](../tag/frac-sand-reporting), [lat:44.292401](../tag/lat:44.292401), [lon:-90.856933](../tag/lon:-90.856933)
+September 26, 2019 18:51 | Tags: [wisconsin](/tag/wisconsin), [air-quality](/tag/air-quality), [blog](/tag/blog), [fracking](/tag/fracking), [frac-sand](/tag/frac-sand), [parent:frac-sand](/tag/parent:frac-sand), [oil-and-gas](/tag/oil-and-gas), [purpleair](/tag/purpleair), [frac-sand-reporting](/tag/frac-sand-reporting), [lat:44.292401](/tag/lat:44.292401), [lon:-90.856933](/tag/lon:-90.856933)
 
 ----
 

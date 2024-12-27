@@ -6,16 +6,14 @@ author: gretchengehrke
 path: /notes/gretchengehrke/03-21-2018/what-is-a-good-resource-for-learning-about-chemical-and-toxicological-information.md
 nid: 15992
 uid: 430549
-
 cids: 23022
-
 ---
 
 # What is a good resource for learning about chemical and toxicological information?
 
-by [gretchengehrke](../../../profile/gretchengehrke) | March 21, 2018 18:18
+by [gretchengehrke](/profile/gretchengehrke) | March 21, 2018 18:18
 
-March 21, 2018 18:18 | Tags: [ingredients](../tag/ingredients), [question:resources](../tag/question:resources), [question:toxicology](../tag/question:toxicology), [question:chemistry](../tag/question:chemistry)
+March 21, 2018 18:18 | Tags: [ingredients](/tag/ingredients), [question:resources](/tag/question:resources), [question:toxicology](/tag/question:toxicology), [question:chemistry](/tag/question:chemistry)
 
 ----
 

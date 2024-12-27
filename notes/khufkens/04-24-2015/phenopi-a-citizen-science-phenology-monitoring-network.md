@@ -6,18 +6,16 @@ author: khufkens
 path: /notes/khufkens/04-24-2015/phenopi-a-citizen-science-phenology-monitoring-network.md
 nid: 11766
 uid: 438931
-
 cids: 11526,11527,11528,11529,11530,11531,11532,11541,11542
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/687/original/Screen_Shot_2015-04-23_at_21.03.23.png)
 
 # PhenoPi: a citizen science phenology monitoring network
 
-by [khufkens](../../../profile/khufkens) | April 24, 2015 02:03
+by [khufkens](/profile/khufkens) | April 24, 2015 02:03
 
-April 24, 2015 02:03 | Tags: [science](../tag/science), [vegetation](../tag/vegetation), [phenopi](../tag/phenopi), [phenology](../tag/phenology), [growth](../tag/growth), [citizen](../tag/citizen), [first-time-poster](../tag/first-time-poster)
+April 24, 2015 02:03 | Tags: [science](/tag/science), [vegetation](/tag/vegetation), [phenopi](/tag/phenopi), [phenology](/tag/phenology), [growth](/tag/growth), [citizen](/tag/citizen), [first-time-poster](/tag/first-time-poster)
 
 ----
 

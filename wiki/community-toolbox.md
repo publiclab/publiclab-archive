@@ -6,16 +6,16 @@ author: warren
 path: /wiki/community-toolbox.md
 nid: 15954
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/052/original/Screenshot_2017-12-12_at_6.14.56_PM.png)
 
 # Community Toolbox
 
-by [warren](../profile/warren), [Bronwen](../profile/Bronwen), [icarito](../profile/icarito), [bigdaw](../profile/bigdaw)
+by [warren](/profile/warren), [Bronwen](/profile/Bronwen), [icarito](/profile/icarito), [bigdaw](/profile/bigdaw)
 
-March 14, 2018 17:19 | Tags: [community](../tag/community), [software](../tag/software), [wwg](../tag/wwg), [first-timers-only](../tag/first-timers-only), [welcoming](../tag/welcoming), [community-toolbox](../tag/community-toolbox)
+March 14, 2018 17:19 | Tags: [community](/tag/community), [software](/tag/software), [wwg](/tag/wwg), [first-timers-only](/tag/first-timers-only), [welcoming](/tag/welcoming), [community-toolbox](/tag/community-toolbox)
 
 ----
 
@@ -39,5 +39,5 @@ https://github.com/publiclab/community-toolbox/
 
 ## Questions?
 
-[community-toolbox](../../tag/question:community-toolbox)
+[community-toolbox](/tag/question:community-toolbox)
 

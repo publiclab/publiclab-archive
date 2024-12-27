@@ -6,14 +6,12 @@ author: warren
 path: /notes/warren/4-5-2011/notes-tuesday-plots-staff-call.md
 nid: 157
 uid: 1
-
 cids: 
-
 ---
 
 # Notes from Tuesday PLOTS staff call
 
-by [warren](../../../profile/warren) | April 06, 2011 00:50
+by [warren](/profile/warren) | April 06, 2011 00:50
 
 April 06, 2011 00:50 | Tags: 
 

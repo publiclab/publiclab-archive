@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/01-10-2017/overview-minivol-pm-monitor.md
 nid: 13848
 uid: 4
-
 cids: 27195
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/241/original/20170109_145829.jpg)
 
 # Overview: MiniVol PM monitor
 
-by [mathew](../../../profile/mathew) | January 10, 2017 00:41
+by [mathew](/profile/mathew) | January 10, 2017 00:41
 
-January 10, 2017 00:41 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [library](../tag/library), [filter-pm](../tag/filter-pm), [minivol](../tag/minivol)
+January 10, 2017 00:41 | Tags: [air-quality](/tag/air-quality), [dust](/tag/dust), [silica](/tag/silica), [pm](/tag/pm), [library](/tag/library), [filter-pm](/tag/filter-pm), [minivol](/tag/minivol)
 
 ----
 

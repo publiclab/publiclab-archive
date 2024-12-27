@@ -6,18 +6,16 @@ author: junior_walk1337
 path: /notes/junior_walk1337/02-26-2022/twilight-from-hazy-2-26-22.md
 nid: 30085
 uid: 756318
-
 cids: 29727,29728,29729,29730
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/441/original/Twilight_from_Hazy_2-26-22.00_04_07_13.Still001.jpg)
 
 # Twilight from Hazy 2/26/22
 
-by [junior_walk1337](../../../profile/junior_walk1337) | February 26, 2022 23:31
+by [junior_walk1337](/profile/junior_walk1337) | February 26, 2022 23:31
 
-February 26, 2022 23:31 | Tags: [drones](../tag/drones), [coal-mining](../tag/coal-mining), [coal](../tag/coal), [mmmp](../tag/mmmp)
+February 26, 2022 23:31 | Tags: [drones](/tag/drones), [coal-mining](/tag/coal-mining), [coal](/tag/coal), [mmmp](/tag/mmmp)
 
 ----
 

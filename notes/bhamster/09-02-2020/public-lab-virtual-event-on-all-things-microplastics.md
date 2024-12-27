@@ -6,18 +6,16 @@ author: bhamster
 path: /notes/bhamster/09-02-2020/public-lab-virtual-event-on-all-things-microplastics.md
 nid: 24494
 uid: 664477
-
 cids: 27318,27321,27398,27400,27451,27691,28203
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/755/original/Microplastics_ChesapeakeBay.jpg)
 
 # Public Lab virtual event on all things microplastics
 
-by [bhamster](../../../profile/bhamster) | September 02, 2020 18:42
+by [bhamster](/profile/bhamster) | September 02, 2020 18:42
 
-September 02, 2020 18:42 | Tags: [event](../tag/event), [research](../tag/research), [water-monitoring](../tag/water-monitoring), [event:rsvp](../tag/event:rsvp), [rsvp:liz](../tag/rsvp:liz), [rivers](../tag/rivers), [ocean](../tag/ocean), [microplastics](../tag/microplastics), [plastic](../tag/plastic), [research-area-review](../tag/research-area-review), [freshwater](../tag/freshwater), [plastic-pollution](../tag/plastic-pollution)
+September 02, 2020 18:42 | Tags: [event](/tag/event), [research](/tag/research), [water-monitoring](/tag/water-monitoring), [event:rsvp](/tag/event:rsvp), [rsvp:liz](/tag/rsvp:liz), [rivers](/tag/rivers), [ocean](/tag/ocean), [microplastics](/tag/microplastics), [plastic](/tag/plastic), [research-area-review](/tag/research-area-review), [freshwater](/tag/freshwater), [plastic-pollution](/tag/plastic-pollution)
 
 ----
 

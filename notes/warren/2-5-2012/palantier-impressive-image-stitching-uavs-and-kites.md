@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/2-5-2012/palantier-impressive-image-stitching-uavs-and-kites.md
 nid: 749
 uid: 1
-
 cids: 431,9892,9939,9947,10169
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Palentier_KAP_Mosaic.jpg)
 
 # Palantier: impressive image stitching for UAVs and kites
 
-by [warren](../../../profile/warren) | February 05, 2012 17:11
+by [warren](/profile/warren) | February 05, 2012 17:11
 
-February 05, 2012 17:11 | Tags: [kite-mapping](../tag/kite-mapping), [3d](../tag/3d), [uav](../tag/uav), [kite](../tag/kite), [stitching](../tag/stitching), [palentier](../tag/palentier)
+February 05, 2012 17:11 | Tags: [kite-mapping](/tag/kite-mapping), [3d](/tag/3d), [uav](/tag/uav), [kite](/tag/kite), [stitching](/tag/stitching), [palentier](/tag/palentier)
 
 ----
 

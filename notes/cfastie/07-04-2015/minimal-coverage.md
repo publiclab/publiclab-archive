@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/07-04-2015/minimal-coverage.md
 nid: 12032
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/535/original/Murphy_008_2k.jpg)
 
 # Minimal coverage
 
-by [cfastie](../../../profile/cfastie) | July 04, 2015 16:05
+by [cfastie](/profile/cfastie) | July 04, 2015 16:05
 
-July 04, 2015 16:05 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [alaska](../tag/alaska), [kap](../tag/kap), [autokap](../tag/autokap), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [response:11997](../tag/response:11997)
+July 04, 2015 16:05 | Tags: [kite-aerial-photography](/tag/kite-aerial-photography), [alaska](/tag/alaska), [kap](/tag/kap), [autokap](/tag/autokap), [kaptery](/tag/kaptery), [saturnv](/tag/saturnv), [skyshield](/tag/skyshield), [half-spherical](/tag/half-spherical), [response:11997](/tag/response:11997)
 
 ----
 

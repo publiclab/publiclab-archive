@@ -6,18 +6,16 @@ author: tonyc
 path: /notes/tonyc/01-26-2016/quick-and-dirty-lanyard-attachment-for-mobius-camera.md
 nid: 12619
 uid: 447491
-
 cids: 13406,13414
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/857/original/IMG_1291.JPG)
 
 # quick and dirty lanyard attachment for mobius camera
 
-by [tonyc](../../../profile/tonyc) | January 26, 2016 00:17
+by [tonyc](/profile/tonyc) | January 26, 2016 00:17
 
-January 26, 2016 00:17 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [camera-rig-tests](../tag/camera-rig-tests), [photo-rig](../tag/photo-rig), [mobius-actioncam](../tag/mobius-actioncam), [mobius](../tag/mobius), [diy-mount-kit](../tag/diy-mount-kit), [activity:photo-rig](../tag/activity:photo-rig)
+January 26, 2016 00:17 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [camera-rig-tests](/tag/camera-rig-tests), [photo-rig](/tag/photo-rig), [mobius-actioncam](/tag/mobius-actioncam), [mobius](/tag/mobius), [diy-mount-kit](/tag/diy-mount-kit), [activity:photo-rig](/tag/activity:photo-rig)
 
 ----
 

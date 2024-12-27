@@ -6,18 +6,16 @@ author: eustatic
 path: /5-2-2012/sketches-corset-chiton-idea-pufferfish-mod.md
 nid: 1889
 uid: 379
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/double chiton corset.jpg)
 
 # Sketches for "Corset-Chiton" idea for Pufferfish mod
 
-by [eustatic](../../../profile/eustatic) | May 02, 2012 15:34
+by [eustatic](/profile/eustatic) | May 02, 2012 15:34
 
-May 02, 2012 15:34 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-balloon-hybrid](../tag/kite-balloon-hybrid), [diy-balloon](../tag/diy-balloon)
+May 02, 2012 15:34 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-balloon-hybrid](/tag/kite-balloon-hybrid), [diy-balloon](/tag/diy-balloon)
 
 ----
 

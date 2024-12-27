@@ -6,14 +6,14 @@ author: gretchengehrke
 path: /wiki/formaldehyde.md
 nid: 14924
 uid: 430549
-
+cids: 
 ---
 
 # Formaldehyde
 
-by [gretchengehrke](../profile/gretchengehrke)
+by [gretchengehrke](/profile/gretchengehrke)
 
-September 20, 2017 21:19 | Tags: [air-quality](../tag/air-quality), [formaldehyde](../tag/formaldehyde), [indoor-air-quality](../tag/indoor-air-quality), [parent:indoor-air-quality-monitoring](../tag/parent:indoor-air-quality-monitoring)
+September 20, 2017 21:19 | Tags: [air-quality](/tag/air-quality), [formaldehyde](/tag/formaldehyde), [indoor-air-quality](/tag/indoor-air-quality), [parent:indoor-air-quality-monitoring](/tag/parent:indoor-air-quality-monitoring)
 
 ----
 
@@ -45,8 +45,8 @@ You can also [subscribe](/subscriptions) to to the formaldehyde tag to get email
 ****
 
 ### Questions in Public Lab related to formaldehyde 
-[formaldehyde](../../tag/question:formaldehyde)
+[formaldehyde](/tag/question:formaldehyde)
 ****
 ### Activities to try in Public Lab related to formaldehyde
-[formaldehyde](../../tag/activity:formaldehyde)
+[formaldehyde](/tag/activity:formaldehyde)
 ****

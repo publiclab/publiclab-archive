@@ -6,18 +6,16 @@ author: JumpKitten8683
 path: /notes/JumpKitten8683/09-24-2019/blocking-new-orleans-gutters.md
 nid: 20978
 uid: 620730
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/432/original/clogged.jpg)
 
 # Blocking New Orleans Gutters
 
-by [JumpKitten8683](../../../profile/JumpKitten8683) | September 24, 2019 19:38
+by [JumpKitten8683](/profile/JumpKitten8683) | September 24, 2019 19:38
 
-September 24, 2019 19:38 | Tags: [new-orleans](../tag/new-orleans), [stormwater](../tag/stormwater), [issue-brief](../tag/issue-brief), [storm-drain](../tag/storm-drain), [first-time-poster](../tag/first-time-poster), [with:jeanellf73](../tag/with:jeanellf73), [lat:29.951065](../tag/lat:29.951065), [lon:-90.071532](../tag/lon:-90.071532)
+September 24, 2019 19:38 | Tags: [new-orleans](/tag/new-orleans), [stormwater](/tag/stormwater), [issue-brief](/tag/issue-brief), [storm-drain](/tag/storm-drain), [first-time-poster](/tag/first-time-poster), [with:jeanellf73](/tag/with:jeanellf73), [lat:29.951065](/tag/lat:29.951065), [lon:-90.071532](/tag/lon:-90.071532)
 
 ----
 

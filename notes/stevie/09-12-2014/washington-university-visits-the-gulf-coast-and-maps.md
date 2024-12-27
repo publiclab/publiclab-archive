@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/09-12-2014/washington-university-visits-the-gulf-coast-and-maps.md
 nid: 11137
 uid: 422561
-
 cids: 10279,10280,10281,10289,10295,10296,10297,10300,10306,10491,10494,15830
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/805/original/20140910_115150.jpg)
 
 # Washington University visits the Gulf Coast and Maps! 
 
-by [stevie](../../../profile/stevie) | September 12, 2014 19:02
+by [stevie](/profile/stevie) | September 12, 2014 19:02
 
-September 12, 2014 19:02 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [great-photos](../tag/great-photos), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [washustlouis](../tag/washustlouis), [washu-stlouis](../tag/washu-stlouis), [urbanwaters](../tag/urbanwaters)
+September 12, 2014 19:02 | Tags: [gulf-coast](/tag/gulf-coast), [balloon-mapping](/tag/balloon-mapping), [great-photos](/tag/great-photos), [barnstar:photo-documentation](/tag/barnstar:photo-documentation), [washustlouis](/tag/washustlouis), [washu-stlouis](/tag/washu-stlouis), [urbanwaters](/tag/urbanwaters)
 
 ----
 

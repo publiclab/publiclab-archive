@@ -6,12 +6,12 @@ author: warren
 path: /wiki/place-template.md
 nid: 449
 uid: 1
-
+cids: 
 ---
 
 # Place template
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 August 31, 2011 23:43 | Tags: 
 

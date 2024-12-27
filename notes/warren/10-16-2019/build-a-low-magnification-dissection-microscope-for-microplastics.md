@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/10-16-2019/build-a-low-magnification-dissection-microscope-for-microplastics.md
 nid: 21185
 uid: 1
-
 cids: 25724,25734,25735,25739
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/790/original/IMG_20191016_100004.jpg)
 
 # Build a low-magnification "dissection microscope" for microplastics
 
-by [warren](../../../profile/warren) | October 16, 2019 14:39
+by [warren](/profile/warren) | October 16, 2019 14:39
 
-October 16, 2019 14:39 | Tags: [webcam](../tag/webcam), [microscope](../tag/microscope), [microscopes](../tag/microscopes), [microplastics](../tag/microplastics), [activity:community-microscope](../tag/activity:community-microscope), [community-microscope](../tag/community-microscope), [babylegs](../tag/babylegs), [activity:babylegs](../tag/activity:babylegs), [assembly:community-microscope](../tag/assembly:community-microscope), [activity:microplastics](../tag/activity:microplastics), [dissecting-microscope](../tag/dissecting-microscope)
+October 16, 2019 14:39 | Tags: [webcam](/tag/webcam), [microscope](/tag/microscope), [microscopes](/tag/microscopes), [microplastics](/tag/microplastics), [activity:community-microscope](/tag/activity:community-microscope), [community-microscope](/tag/community-microscope), [babylegs](/tag/babylegs), [activity:babylegs](/tag/activity:babylegs), [assembly:community-microscope](/tag/assembly:community-microscope), [activity:microplastics](/tag/activity:microplastics), [dissecting-microscope](/tag/dissecting-microscope)
 
 ----
 

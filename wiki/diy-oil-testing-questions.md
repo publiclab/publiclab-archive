@@ -6,14 +6,14 @@ author: warren
 path: /wiki/diy-oil-testing-questions.md
 nid: 12632
 uid: 1
-
+cids: 
 ---
 
 # DIY Oil Testing Questions
 
-by [warren](../profile/warren), [gretchengehrke](../profile/gretchengehrke)
+by [warren](/profile/warren), [gretchengehrke](/profile/gretchengehrke)
 
-January 28, 2016 22:16 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [oil-testing-kit](../tag/oil-testing-kit), [draft](../tag/draft)
+January 28, 2016 22:16 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [oil-testing-kit](/tag/oil-testing-kit), [draft](/tag/draft)
 
 ----
 
@@ -31,7 +31,7 @@ There are many different questions which such a kit might attempt to answer, and
 
 These questions are being moved into the [Public Lab Q&A system](/questions) -- help out by copying the entire text of a question using the button below the following list:
 
-[diy-oil-testing](../../tag/question:diy-oil-testing)
+[diy-oil-testing](/tag/question:diy-oil-testing)
 
 ****
 

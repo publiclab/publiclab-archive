@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/02-15-2014/thermal-flashlight-now-with-more-ledz.md
 nid: 10042
 uid: 43651
-
 cids: 8279
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/923/original/large_i.png)
 
 # Thermal flashlight -- now with more LEDz!
 
-by [donblair](../../../profile/donblair) | February 15, 2014 17:55
+by [donblair](/profile/donblair) | February 15, 2014 17:55
 
-February 15, 2014 17:55 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [led](../tag/led), [igloo](../tag/igloo), [snowfest](../tag/snowfest), [snowfest2014](../tag/snowfest2014)
+February 15, 2014 17:55 | Tags: [thermal-photography](/tag/thermal-photography), [thermal-flashlight](/tag/thermal-flashlight), [led](/tag/led), [igloo](/tag/igloo), [snowfest](/tag/snowfest), [snowfest2014](/tag/snowfest2014)
 
 ----
 

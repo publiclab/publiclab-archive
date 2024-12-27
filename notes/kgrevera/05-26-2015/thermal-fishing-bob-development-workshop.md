@@ -6,18 +6,16 @@ author: kgrevera
 path: /notes/kgrevera/05-26-2015/thermal-fishing-bob-development-workshop.md
 nid: 11841
 uid: 432001
-
 cids: 11878
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/015/original/Untitled3.png)
 
 # Thermal Fishing Bob Development Workshop
 
-by [kgrevera](../../../profile/kgrevera) | May 26, 2015 22:23
+by [kgrevera](/profile/kgrevera) | May 26, 2015 22:23
 
-May 26, 2015 22:23 | Tags: [boston](../tag/boston), [thermal-flashlight](../tag/thermal-flashlight), [event](../tag/event), [northeastern-university](../tag/northeastern-university), [thermal-fishing-bob](../tag/thermal-fishing-bob), [conductivity](../tag/conductivity), [event:rsvp](../tag/event:rsvp), [date:06-02-2015](../tag/date:06-02-2015), [rsvp:kgrevera](../tag/rsvp:kgrevera)
+May 26, 2015 22:23 | Tags: [boston](/tag/boston), [thermal-flashlight](/tag/thermal-flashlight), [event](/tag/event), [northeastern-university](/tag/northeastern-university), [thermal-fishing-bob](/tag/thermal-fishing-bob), [conductivity](/tag/conductivity), [event:rsvp](/tag/event:rsvp), [date:06-02-2015](/tag/date:06-02-2015), [rsvp:kgrevera](/tag/rsvp:kgrevera)
 
 ----
 

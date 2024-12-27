@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/01-18-2018/pre-order-the-community-written-pocket-guide-to-grassroots-mapping.md
 nid: 15545
 uid: 1
-
 cids: 18209,18210,18211
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/201/original/26068242_2000536900161090_8104197322948214784_n.jpg)
 
 # Pre-order the community written Pocket Guide to Grassroots Mapping
 
-by [warren](../../../profile/warren) | January 18, 2018 01:50
+by [warren](/profile/warren) | January 18, 2018 01:50
 
-January 18, 2018 01:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [guides](../tag/guides), [kits](../tag/kits), [aerial-photography](../tag/aerial-photography), [grassroots-mapping](../tag/grassroots-mapping), [how-to](../tag/how-to), [aerial-mapping](../tag/aerial-mapping), [booklet](../tag/booklet)
+January 18, 2018 01:50 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [guides](/tag/guides), [kits](/tag/kits), [aerial-photography](/tag/aerial-photography), [grassroots-mapping](/tag/grassroots-mapping), [how-to](/tag/how-to), [aerial-mapping](/tag/aerial-mapping), [booklet](/tag/booklet)
 
 ----
 

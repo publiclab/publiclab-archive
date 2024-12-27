@@ -6,18 +6,16 @@ author: purl
 path: /notes/purl/02-02-2021/workshop-ix-what-story-does-our-data-tell.md
 nid: 25585
 uid: 736598
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/584/original/NAS_Community_Science_in_the_Classroom_Overview.png)
 
 # Workshop IX: What Story Does Our Data Tell?
 
-by [purl](../../../profile/purl) | February 02, 2021 15:27
+by [purl](/profile/purl) | February 02, 2021 15:27
 
-February 02, 2021 15:27 | Tags: [education](../tag/education)
+February 02, 2021 15:27 | Tags: [education](/tag/education)
 
 ----
 

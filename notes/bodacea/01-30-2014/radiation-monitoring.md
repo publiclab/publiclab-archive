@@ -6,18 +6,16 @@ author: bodacea
 path: /notes/bodacea/01-30-2014/radiation-monitoring.md
 nid: 9989
 uid: 648
-
 cids: 8123,8148,8169
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/688/original/blob)
 
 # Radiation Monitoring
 
-by [bodacea](../../../profile/bodacea) | January 30, 2014 17:41
+by [bodacea](/profile/bodacea) | January 30, 2014 17:41
 
-January 30, 2014 17:41 | Tags: [radiation](../tag/radiation), [first-time-poster](../tag/first-time-poster)
+January 30, 2014 17:41 | Tags: [radiation](/tag/radiation), [first-time-poster](/tag/first-time-poster)
 
 ----
 

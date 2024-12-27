@@ -6,18 +6,16 @@ author: JSummers
 path: /notes/JSummers/07-23-2015/new-wheestat-hardware.md
 nid: 12096
 uid: 304279
-
 cids: 12753
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/851/original/WheeStat7PrototypeA.jpg)
 
 # New WheeStat Hardware
 
-by [JSummers](../../../profile/JSummers) | July 23, 2015 21:53
+by [JSummers](/profile/JSummers) | July 23, 2015 21:53
 
-July 23, 2015 21:53 | Tags: [wheestat](../tag/wheestat)
+July 23, 2015 21:53 | Tags: [wheestat](/tag/wheestat)
 
 ----
 

@@ -6,12 +6,12 @@ author: warren
 path: /wiki/storm-response.md
 nid: 14864
 uid: 1
-
+cids: 
 ---
 
 # Storm response
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 September 08, 2017 17:12 | Tags: 
 

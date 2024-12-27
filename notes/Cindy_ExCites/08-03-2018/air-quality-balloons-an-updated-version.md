@@ -6,18 +6,16 @@ author: cindy_excites
 path: /notes/Cindy_ExCites/08-03-2018/air-quality-balloons-an-updated-version.md
 nid: 16851
 uid: 1083
-
 cids: 20278,20293,20295,20298
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/057/original/FBB5DH6GC4G1BD1.LARGE.jpg)
 
 # Air quality balloons - an updated version?
 
-by [cindy_excites](../../../profile/cindy_excites) | August 03, 2018 16:39
+by [cindy_excites](/profile/cindy_excites) | August 03, 2018 16:39
 
-August 03, 2018 16:39 | Tags: [air-quality](../tag/air-quality), [sensors](../tag/sensors), [question:air-quality](../tag/question:air-quality), [question:general](../tag/question:general), [awareness-raising](../tag/awareness-raising), [question:balloons](../tag/question:balloons)
+August 03, 2018 16:39 | Tags: [air-quality](/tag/air-quality), [sensors](/tag/sensors), [question:air-quality](/tag/question:air-quality), [question:general](/tag/question:general), [awareness-raising](/tag/awareness-raising), [question:balloons](/tag/question:balloons)
 
 ----
 

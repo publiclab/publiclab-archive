@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/04-11-2013/public-lab-presentation-at-personal-democracy-forum-2011.md
 nid: 6787
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/042/original/presentation-wilkinson.png)
 
 # Public Lab Presentation at Personal Democracy Forum 2011
 
-by [warren](../../../profile/warren) | April 11, 2013 18:48
+by [warren](/profile/warren) | April 11, 2013 18:48
 
-April 11, 2013 18:48 | Tags: [presentation](../tag/presentation)
+April 11, 2013 18:48 | Tags: [presentation](/tag/presentation)
 
 ----
 

@@ -6,18 +6,16 @@ author: bkleist
 path: /notes/bkleist/10-19-2016/a-month-in-the-field-and-nothing-to-show.md
 nid: 13578
 uid: 489504
-
 cids: 15667,15675,15780,15783,15834,15835,15850,15902,15907,25918
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/431/original/IMAG2073.JPG)
 
 # A month in the field and nothing to show
 
-by [bkleist](../../../profile/bkleist) | October 19, 2016 03:09
+by [bkleist](/profile/bkleist) | October 19, 2016 03:09
 
-October 19, 2016 03:09 | Tags: [sand](../tag/sand), [photo-monitoring](../tag/photo-monitoring), [wisconsin](../tag/wisconsin), [timelapse](../tag/timelapse), [camera](../tag/camera), [mining](../tag/mining), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [mobius](../tag/mobius), [mid-west](../tag/mid-west), [parent:frac-sand](../tag/parent:frac-sand)
+October 19, 2016 03:09 | Tags: [sand](/tag/sand), [photo-monitoring](/tag/photo-monitoring), [wisconsin](/tag/wisconsin), [timelapse](/tag/timelapse), [camera](/tag/camera), [mining](/tag/mining), [silica](/tag/silica), [frac-sand](/tag/frac-sand), [mobius](/tag/mobius), [mid-west](/tag/mid-west), [parent:frac-sand](/tag/parent:frac-sand)
 
 ----
 

@@ -6,18 +6,16 @@ author: kgradow1
 path: /notes/kgradow1/05-30-2020/whole-air-sampling.md
 nid: 23739
 uid: 297929
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/566/original/EPA_Summa_Canisters__Air_sampling_summa_canister_with_field_duplicate_in_Louisiana.jpg)
 
 # Whole Air Sampling
 
-by [kgradow1](../../../profile/kgradow1) | May 30, 2020 01:23
+by [kgradow1](/profile/kgradow1) | May 30, 2020 01:23
 
-May 30, 2020 01:23 | Tags: [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [air-sampling](../tag/air-sampling), [lat:42](../tag/lat:42), [lon:-70](../tag/lon:-70), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor), [activity:air-sampling](../tag/activity:air-sampling)
+May 30, 2020 01:23 | Tags: [air-quality](/tag/air-quality), [bucket-brigade](/tag/bucket-brigade), [air-sampling](/tag/air-sampling), [lat:42](/tag/lat:42), [lon:-70](/tag/lon:-70), [zoom:6](/tag/zoom:6), [bucket-monitor](/tag/bucket-monitor), [activity:air-sampling](/tag/activity:air-sampling)
 
 ----
 

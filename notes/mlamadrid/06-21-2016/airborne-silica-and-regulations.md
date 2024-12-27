@@ -6,18 +6,16 @@ author: mlamadrid
 path: /notes/mlamadrid/06-21-2016/airborne-silica-and-regulations.md
 nid: 13218
 uid: 45586
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/697/original/Screen_Shot_2016-06-21_at_1.26.19_PM.png)
 
 # Airborne Silica and Regulations
 
-by [mlamadrid](../../../profile/mlamadrid) | June 21, 2016 20:32
+by [mlamadrid](/profile/mlamadrid) | June 21, 2016 20:32
 
-June 21, 2016 20:32 | Tags: [silica](../tag/silica), [frac-sand](../tag/frac-sand), [with:gretchengehrke](../tag/with:gretchengehrke), [sand-frac](../tag/sand-frac), [communityscienceforum](../tag/communityscienceforum)
+June 21, 2016 20:32 | Tags: [silica](/tag/silica), [frac-sand](/tag/frac-sand), [with:gretchengehrke](/tag/with:gretchengehrke), [sand-frac](/tag/sand-frac), [communityscienceforum](/tag/communityscienceforum)
 
 ----
 

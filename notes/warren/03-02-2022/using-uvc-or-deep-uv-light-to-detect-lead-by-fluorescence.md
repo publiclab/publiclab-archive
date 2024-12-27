@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/03-02-2022/using-uvc-or-deep-uv-light-to-detect-lead-by-fluorescence.md
 nid: 30092
 uid: 1
-
 cids: 29741,29742,29743,29744,29745,29747,29748,29750,29751,29752,29754,29755,29756,29757
-
 ---
 
 # Using UVC or "deep UV" light to detect lead by fluorescence
 
-by [warren](../../../profile/warren) | March 02, 2022 23:00
+by [warren](/profile/warren) | March 02, 2022 23:00
 
-March 02, 2022 23:00 | Tags: [uv](../tag/uv), [ultraviolet](../tag/ultraviolet), [fluorescence](../tag/fluorescence), [water-quality](../tag/water-quality), [lead](../tag/lead), [copper](../tag/copper), [lat:41](../tag/lat:41), [question:water-quality](../tag/question:water-quality), [minerals](../tag/minerals), [question:fluorescence](../tag/question:fluorescence), [question:lead](../tag/question:lead), [lon:-71](../tag/lon:-71), [zoom:6](../tag/zoom:6), [question:uv](../tag/question:uv)
+March 02, 2022 23:00 | Tags: [uv](/tag/uv), [ultraviolet](/tag/ultraviolet), [fluorescence](/tag/fluorescence), [water-quality](/tag/water-quality), [lead](/tag/lead), [copper](/tag/copper), [lat:41](/tag/lat:41), [question:water-quality](/tag/question:water-quality), [minerals](/tag/minerals), [question:fluorescence](/tag/question:fluorescence), [question:lead](/tag/question:lead), [lon:-71](/tag/lon:-71), [zoom:6](/tag/zoom:6), [question:uv](/tag/question:uv)
 
 ----
 

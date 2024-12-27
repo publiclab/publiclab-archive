@@ -6,18 +6,16 @@ author: khufkens
 path: /notes/khufkens/01-03-2016/jungle-rhythms-find-the-rhythm-of-tropical-trees.md
 nid: 12556
 uid: 438931
-
 cids: 13239,13241,13242
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/495/original/junglerhythms_mini_cards.png)
 
 # Jungle Rhythms - find the rhythm of tropical trees
 
-by [khufkens](../../../profile/khufkens) | January 03, 2016 17:37
+by [khufkens](/profile/khufkens) | January 03, 2016 17:37
 
-January 03, 2016 17:37 | Tags: [forest](../tag/forest), [science](../tag/science), [data](../tag/data), [phenology](../tag/phenology), [citizen](../tag/citizen), [tropical](../tag/tropical), [recovery](../tag/recovery)
+January 03, 2016 17:37 | Tags: [forest](/tag/forest), [science](/tag/science), [data](/tag/data), [phenology](/tag/phenology), [citizen](/tag/citizen), [tropical](/tag/tropical), [recovery](/tag/recovery)
 
 ----
 

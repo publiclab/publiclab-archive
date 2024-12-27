@@ -6,16 +6,16 @@ author: liz
 path: /wiki/rio-de-janeiro.md
 nid: 495
 uid: 7
-
+cids: 
 ---
 
 ![](https://publiclab.org/sites/default/files/BalloonOverPrazeres_0.jpg)
 
 # Rio de Janeiro
 
-by [faraujo](../profile/faraujo), [liz](../profile/liz), [gonzoearth](../profile/gonzoearth)
+by [faraujo](/profile/faraujo), [liz](/profile/liz), [gonzoearth](/profile/gonzoearth)
 
-October 03, 2011 21:48 | Tags: [rio](../tag/rio), [brazil](../tag/brazil), [events:rio-de-janeiro](../tag/events:rio-de-janeiro), [chapter](../tag/chapter), [lat:-22.9083](../tag/lat:-22.9083), [lon:-43.1964](../tag/lon:-43.1964)
+October 03, 2011 21:48 | Tags: [rio](/tag/rio), [brazil](/tag/brazil), [events:rio-de-janeiro](/tag/events:rio-de-janeiro), [chapter](/tag/chapter), [lat:-22.9083](/tag/lat:-22.9083), [lon:-43.1964](/tag/lon:-43.1964)
 
 ----
 

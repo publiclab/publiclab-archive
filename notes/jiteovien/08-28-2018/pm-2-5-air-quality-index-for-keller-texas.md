@@ -6,16 +6,14 @@ author: jiteovien
 path: /notes/jiteovien/08-28-2018/pm-2-5-air-quality-index-for-keller-texas.md
 nid: 17012
 uid: 540008
-
 cids: 20526,20530,20546,20550,20552,20553,20559,20582,20583,24060,27043
-
 ---
 
 # PM 2.5 Air Quality Index for Keller, Texas
 
-by [jiteovien](../../../profile/jiteovien) | August 28, 2018 21:23
+by [jiteovien](/profile/jiteovien) | August 28, 2018 21:23
 
-August 28, 2018 21:23 | Tags: [analysis](../tag/analysis), [air-quality](../tag/air-quality), [maps](../tag/maps), [dust](../tag/dust), [pm](../tag/pm), [texas](../tag/texas), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [replication:17007](../tag/replication:17007)
+August 28, 2018 21:23 | Tags: [analysis](/tag/analysis), [air-quality](/tag/air-quality), [maps](/tag/maps), [dust](/tag/dust), [pm](/tag/pm), [texas](/tag/texas), [air-sensors](/tag/air-sensors), [purpleair](/tag/purpleair), [replication:17007](/tag/replication:17007)
 
 ----
 

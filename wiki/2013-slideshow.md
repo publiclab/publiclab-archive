@@ -6,14 +6,14 @@ author: warren
 path: /wiki/2013-slideshow.md
 nid: 9896
 uid: 1
-
+cids: 
 ---
 
 # 2013 Slideshow
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-December 17, 2013 20:43 | Tags: [sidebar:featured](../tag/sidebar:featured), [style:wide](../tag/style:wide), [style:presentation](../tag/style:presentation)
+December 17, 2013 20:43 | Tags: [sidebar:featured](/tag/sidebar:featured), [style:wide](/tag/style:wide), [style:presentation](/tag/style:presentation)
 
 ----
 

@@ -6,16 +6,14 @@ author: liz
 path: /notes/liz/1-15-2012/thermal-camera-calibration-notes-nyc.md
 nid: 688
 uid: 7
-
 cids: 406
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen Shot 2012-01-15 at 7.27.48 PM.png)
 
 # Thermal Imaging Calibration notes for NYC
 
-by [liz](../../../profile/liz) | January 16, 2012 00:24
+by [liz](/profile/liz) | January 16, 2012 00:24
 
 January 16, 2012 00:24 | Tags: 
 

@@ -6,18 +6,16 @@ author: keshav_sethi0004
 path: /notes/keshav_sethi0004/05-24-2020/spam-management-dashboard-gsoc-week-3.md
 nid: 23719
 uid: 653396
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/535/original/Week3.png)
 
 # Spam management Dashboard @ GSoC week-3
 
-by [keshav_sethi0004](../../../profile/keshav_sethi0004) | May 24, 2020 19:38
+by [keshav_sethi0004](/profile/keshav_sethi0004) | May 24, 2020 19:38
 
-May 24, 2020 19:38 | Tags: [gsoc](../tag/gsoc), [spam](../tag/spam), [soc](../tag/soc), [gsoc-2020](../tag/gsoc-2020), [keshav](../tag/keshav), [smd](../tag/smd), [week3](../tag/week3)
+May 24, 2020 19:38 | Tags: [gsoc](/tag/gsoc), [spam](/tag/spam), [soc](/tag/soc), [gsoc-2020](/tag/gsoc-2020), [keshav](/tag/keshav), [smd](/tag/smd), [week3](/tag/week3)
 
 ----
 

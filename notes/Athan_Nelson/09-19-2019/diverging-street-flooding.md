@@ -6,18 +6,16 @@ author: Athan_Nelson
 path: /notes/Athan_Nelson/09-19-2019/diverging-street-flooding.md
 nid: 20926
 uid: 618892
-
 cids: 25549
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/337/original/flooding.jpg)
 
 # Diverging street flooding
 
-by [Athan_Nelson](../../../profile/Athan_Nelson) | September 19, 2019 14:23
+by [Athan_Nelson](/profile/Athan_Nelson) | September 19, 2019 14:23
 
-September 19, 2019 14:23 | Tags: [new-orleans](../tag/new-orleans), [stormwater](../tag/stormwater), [flooding](../tag/flooding), [issue-brief](../tag/issue-brief), [first-time-poster](../tag/first-time-poster), [lat:29.954934](../tag/lat:29.954934), [lon:-90.065917](../tag/lon:-90.065917), [with:jeanell873](../tag/with:jeanell873)
+September 19, 2019 14:23 | Tags: [new-orleans](/tag/new-orleans), [stormwater](/tag/stormwater), [flooding](/tag/flooding), [issue-brief](/tag/issue-brief), [first-time-poster](/tag/first-time-poster), [lat:29.954934](/tag/lat:29.954934), [lon:-90.065917](/tag/lon:-90.065917), [with:jeanell873](/tag/with:jeanell873)
 
 ----
 

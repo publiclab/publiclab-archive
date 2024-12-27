@@ -6,16 +6,14 @@ author: ICSK
 path: /notes/ICSK/11-20-2017/would-the-desktop-kit-work-for-measuring-fluorescent-responses-i-ll-primarily-be-using-uv-light-sources-365-275-265-253-7nm-for-measuring-the-response-for-fluorescent-minerals-my-concern-is-that-the-dvd-grating-would-fluoresce-and-s.md
 nid: 15210
 uid: 429540
-
 cids: 17728,17729,17787,17795,22736,22737,22755
-
 ---
 
 # Would the desktop spectrometry kit work for measuring fluorescent responses?
 
-by [ICSK](../../../profile/ICSK) | November 20, 2017 18:11
+by [ICSK](/profile/ICSK) | November 20, 2017 18:11
 
-November 20, 2017 18:11 | Tags: [fluorescence](../tag/fluorescence), [question:spectrometry](../tag/question:spectrometry), [answered](../tag/answered), [question:dssk](../tag/question:dssk), [question:general](../tag/question:general), [minerals](../tag/minerals), [question:fluorescence](../tag/question:fluorescence)
+November 20, 2017 18:11 | Tags: [fluorescence](/tag/fluorescence), [question:spectrometry](/tag/question:spectrometry), [answered](/tag/answered), [question:dssk](/tag/question:dssk), [question:general](/tag/question:general), [minerals](/tag/minerals), [question:fluorescence](/tag/question:fluorescence)
 
 ----
 

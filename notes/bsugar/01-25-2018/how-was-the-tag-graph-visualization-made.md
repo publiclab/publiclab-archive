@@ -6,16 +6,14 @@ author: bsugar
 path: /notes/bsugar/01-25-2018/how-was-the-tag-graph-visualization-made.md
 nid: 15614
 uid: 217812
-
 cids: 18296,21757,21758,21781,21802,22887,22910,26842
-
 ---
 
 # How can I make a tag graph visualization?
 
-by [bsugar](../../../profile/bsugar) | January 25, 2018 19:49
+by [bsugar](/profile/bsugar) | January 25, 2018 19:49
 
-January 25, 2018 19:49 | Tags: [community-metrics](../tag/community-metrics), [visualization](../tag/visualization), [evaluation](../tag/evaluation), [tags](../tag/tags), [networks](../tag/networks), [ui](../tag/ui), [question:ui](../tag/question:ui), [question:evaluation](../tag/question:evaluation), [graphing](../tag/graphing), [question:visualization](../tag/question:visualization)
+January 25, 2018 19:49 | Tags: [community-metrics](/tag/community-metrics), [visualization](/tag/visualization), [evaluation](/tag/evaluation), [tags](/tag/tags), [networks](/tag/networks), [ui](/tag/ui), [question:ui](/tag/question:ui), [question:evaluation](/tag/question:evaluation), [graphing](/tag/graphing), [question:visualization](/tag/question:visualization)
 
 ----
 

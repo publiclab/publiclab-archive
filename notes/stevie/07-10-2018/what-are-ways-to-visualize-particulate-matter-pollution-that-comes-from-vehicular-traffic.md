@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/07-10-2018/what-are-ways-to-visualize-particulate-matter-pollution-that-comes-from-vehicular-traffic.md
 nid: 16677
 uid: 422561
-
 cids: 20064,20247
-
 ---
 
 # What are ways to visualize particulate matter pollution that comes from vehicular traffic?
 
-by [stevie](../../../profile/stevie) | July 10, 2018 14:01
+by [stevie](/profile/stevie) | July 10, 2018 14:01
 
-July 10, 2018 14:01 | Tags: [question:pm](../tag/question:pm), [question:general](../tag/question:general), [question:dust](../tag/question:dust), [location:blurred](../tag/location:blurred), [lat:30](../tag/lat:30), [lon:-88](../tag/lon:-88), [with:ramseysprague](../tag/with:ramseysprague), [question:gravel](../tag/question:gravel), [question:asphalt](../tag/question:asphalt), [question:visual-data](../tag/question:visual-data), [question:mobile](../tag/question:mobile)
+July 10, 2018 14:01 | Tags: [question:pm](/tag/question:pm), [question:general](/tag/question:general), [question:dust](/tag/question:dust), [location:blurred](/tag/location:blurred), [lat:30](/tag/lat:30), [lon:-88](/tag/lon:-88), [with:ramseysprague](/tag/with:ramseysprague), [question:gravel](/tag/question:gravel), [question:asphalt](/tag/question:asphalt), [question:visual-data](/tag/question:visual-data), [question:mobile](/tag/question:mobile)
 
 ----
 

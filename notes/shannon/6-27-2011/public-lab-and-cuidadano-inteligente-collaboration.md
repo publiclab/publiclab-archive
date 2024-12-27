@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/shannon/6-27-2011/public-lab-and-cuidadano-inteligente-collaboration.md
 nid: 359
 uid: 9
-
 cids: 289
-
 ---
 
 ![](https://publiclab.org/sites/default/files/CI pic.jpg)
 
 # Public Lab and Cuidadano Inteligente collaboration
 
-by [Shannon](../../../profile/Shannon) | June 27, 2011 16:02
+by [Shannon](/profile/Shannon) | June 27, 2011 16:02
 
-June 27, 2011 16:02 | Tags: [protest-mapping](../tag/protest-mapping)
+June 27, 2011 16:02 | Tags: [protest-mapping](/tag/protest-mapping)
 
 ----
 

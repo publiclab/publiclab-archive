@@ -6,18 +6,16 @@ author: Juanjo
 path: /notes/Juanjo/08-17-2015/saturn-v-kap-rig.md
 nid: 12151
 uid: 447129
-
 cids: 12394,12397,12400,12404,17354,17355
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/156/original/IMG_6113.JPG)
 
 # Saturn V KAP rig
 
-by [Juanjo](../../../profile/Juanjo) | August 17, 2015 21:54
+by [Juanjo](/profile/Juanjo) | August 17, 2015 21:54
 
-August 17, 2015 21:54 | Tags: [kite-mapping](../tag/kite-mapping), [london](../tag/london), [rig](../tag/rig), [uk](../tag/uk), [eu](../tag/eu), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [saturn](../tag/saturn), [v](../tag/v), [first-time-poster](../tag/first-time-poster)
+August 17, 2015 21:54 | Tags: [kite-mapping](/tag/kite-mapping), [london](/tag/london), [rig](/tag/rig), [uk](/tag/uk), [eu](/tag/eu), [saturnv](/tag/saturnv), [skyshield](/tag/skyshield), [saturn](/tag/saturn), [v](/tag/v), [first-time-poster](/tag/first-time-poster)
 
 ----
 

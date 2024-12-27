@@ -6,12 +6,12 @@ author: IreneJessica
 path: /wiki/what-caused-the-husband-wife-looks.md
 nid: 11816
 uid: 441755
-
+cids: 
 ---
 
 # What Caused the Husband-wife Looks?
 
-by [IreneJessica](../profile/IreneJessica)
+by [IreneJessica](/profile/IreneJessica)
 
 May 14, 2015 04:12 | Tags: 
 

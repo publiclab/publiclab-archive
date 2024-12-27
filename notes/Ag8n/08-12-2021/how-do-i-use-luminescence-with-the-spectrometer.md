@@ -6,16 +6,14 @@ author: Ag8n
 path: /notes/Ag8n/08-12-2021/how-do-i-use-luminescence-with-the-spectrometer.md
 nid: 27477
 uid: 520994
-
 cids: 29128,29129,29130,29145,29162,29164,29165,29172
-
 ---
 
 # How do I...use luminescence with the spectrometer?
 
-by [Ag8n](../../../profile/Ag8n) | August 12, 2021 01:26
+by [Ag8n](/profile/Ag8n) | August 12, 2021 01:26
 
-August 12, 2021 01:26 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [water-quality](../tag/water-quality), [bioassay](../tag/bioassay), [question:spectrometer](../tag/question:spectrometer), [question:water-quality](../tag/question:water-quality), [question:bioassay](../tag/question:bioassay)
+August 12, 2021 01:26 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [water-quality](/tag/water-quality), [bioassay](/tag/bioassay), [question:spectrometer](/tag/question:spectrometer), [question:water-quality](/tag/question:water-quality), [question:bioassay](/tag/question:bioassay)
 
 ----
 

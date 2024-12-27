@@ -6,12 +6,12 @@ author: bhamster
 path: /wiki/sandbox-screen-soil-contamination.md
 nid: 26007
 uid: 664477
-
+cids: 
 ---
 
 # sandbox-screen-soil-contamination
 
-by [bhamster](../profile/bhamster)
+by [bhamster](/profile/bhamster)
 
 March 23, 2021 16:49 | Tags: 
 
@@ -24,7 +24,7 @@ March 23, 2021 16:49 | Tags:
 
 #### Overviews on Public Lab
 
-[grid:screen-soil](../../tag/grid:screen-soil)
+[grid:screen-soil](/tag/grid:screen-soil)
 
 <br>
 
@@ -102,7 +102,7 @@ Methods related to `effect-based-test` will appear here
 
 Questions tagged with `question:screen-soil-contamination` will appear here
 
-[screen-soil-contamination](../../tag/question:screen-soil-contamination)
+[screen-soil-contamination](/tag/question:screen-soil-contamination)
 
 <br>
 
@@ -110,5 +110,5 @@ Questions tagged with `question:screen-soil-contamination` will appear here
 
 Activities tagged with `activity:screen-soil-contamination` will appear here
 
-[screen-soil-contamination](../../tag/activity:screen-soil-contamination)
+[screen-soil-contamination](/tag/activity:screen-soil-contamination)
 

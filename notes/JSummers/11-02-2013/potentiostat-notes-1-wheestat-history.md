@@ -6,18 +6,16 @@ author: JSummers
 path: /notes/JSummers/11-02-2013/potentiostat-notes-1-wheestat-history.md
 nid: 9718
 uid: 304279
-
 cids: 9347,9348,9349,9352
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/090/original/WheeStat5_2-fig1.bmp)
 
 # Potentiostat Notes-1, WheeStat history
 
-by [JSummers](../../../profile/JSummers) | November 02, 2013 22:06
+by [JSummers](/profile/JSummers) | November 02, 2013 22:06
 
-November 02, 2013 22:06 | Tags: [water-sensing](../tag/water-sensing), [water-quality](../tag/water-quality), [potentiostat](../tag/potentiostat)
+November 02, 2013 22:06 | Tags: [water-sensing](/tag/water-sensing), [water-quality](/tag/water-quality), [potentiostat](/tag/potentiostat)
 
 ----
 

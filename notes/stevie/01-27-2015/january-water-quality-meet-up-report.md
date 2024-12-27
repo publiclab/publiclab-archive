@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/01-27-2015/january-water-quality-meet-up-report.md
 nid: 11541
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/741/original/20150124_145807.jpg)
 
 # January Water Quality Meet-Up Report
 
-by [stevie](../../../profile/stevie) | January 27, 2015 22:24
+by [stevie](/profile/stevie) | January 27, 2015 22:24
 
-January 27, 2015 22:24 | Tags: [gulf-coast](../tag/gulf-coast), [polemapping](../tag/polemapping), [event](../tag/event), [bsj](../tag/bsj), [gulfcoast](../tag/gulfcoast), [urbanwater](../tag/urbanwater), [urbanwaters](../tag/urbanwaters)
+January 27, 2015 22:24 | Tags: [gulf-coast](/tag/gulf-coast), [polemapping](/tag/polemapping), [event](/tag/event), [bsj](/tag/bsj), [gulfcoast](/tag/gulfcoast), [urbanwater](/tag/urbanwater), [urbanwaters](/tag/urbanwaters)
 
 ----
 

@@ -6,16 +6,14 @@ author: amocorro
 path: /notes/amocorro/05-26-2021/infragram-pi-cameras-and-installation-for-the-tool-setup-can-the-camera-can-be-connected-to-other-devices-like-a-tablet-to-instantly-view-photos-on-a-screen.md
 nid: 26714
 uid: 700923
-
 cids: 29022
-
 ---
 
 # Infragram Pi Cameras and public installation: For the tool setup, can the camera can be connected to other devices like a tablet, to instantly view photos on a screen?
 
-by [amocorro](../../../profile/amocorro) | May 26, 2021 17:21
+by [amocorro](/profile/amocorro) | May 26, 2021 17:21
 
-May 26, 2021 17:21 | Tags: [kits](../tag/kits), [software](../tag/software), [infragram](../tag/infragram), [austria](../tag/austria), [climate-change](../tag/climate-change), [exhibition](../tag/exhibition), [micro-sd](../tag/micro-sd), [multispectral-imaging](../tag/multispectral-imaging), [question:general](../tag/question:general), [general](../tag/general), [tablet](../tag/tablet), [wifi](../tag/wifi), [infragram-pi](../tag/infragram-pi), [artivism](../tag/artivism), [installations](../tag/installations)
+May 26, 2021 17:21 | Tags: [kits](/tag/kits), [software](/tag/software), [infragram](/tag/infragram), [austria](/tag/austria), [climate-change](/tag/climate-change), [exhibition](/tag/exhibition), [micro-sd](/tag/micro-sd), [multispectral-imaging](/tag/multispectral-imaging), [question:general](/tag/question:general), [general](/tag/general), [tablet](/tag/tablet), [wifi](/tag/wifi), [infragram-pi](/tag/infragram-pi), [artivism](/tag/artivism), [installations](/tag/installations)
 
 ----
 

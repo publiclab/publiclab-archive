@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/05-17-2013/pole-photography.md
 nid: 7641
 uid: 4
-
 cids: 4756,4757,4773
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/344/original/IMG_4544.JPG)
 
 # Pole photography
 
-by [mathew](../../../profile/mathew) | May 17, 2013 06:18
+by [mathew](/profile/mathew) | May 17, 2013 06:18
 
-May 17, 2013 06:18 | Tags: [balloon-mapping](../tag/balloon-mapping), [portland](../tag/portland), [polemapping](../tag/polemapping), [5bf](../tag/5bf), [pole-photography](../tag/pole-photography), [pole](../tag/pole), [pole-mapping](../tag/pole-mapping)
+May 17, 2013 06:18 | Tags: [balloon-mapping](/tag/balloon-mapping), [portland](/tag/portland), [polemapping](/tag/polemapping), [5bf](/tag/5bf), [pole-photography](/tag/pole-photography), [pole](/tag/pole), [pole-mapping](/tag/pole-mapping)
 
 ----
 

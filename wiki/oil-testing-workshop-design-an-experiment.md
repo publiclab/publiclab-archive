@@ -6,14 +6,14 @@ author: liz
 path: /wiki/oil-testing-workshop-design-an-experiment.md
 nid: 12661
 uid: 7
-
+cids: 
 ---
 
 # oil-testing-workshop-design-an-experiment
 
-by [warren](../profile/warren), [liz](../profile/liz)
+by [warren](/profile/warren), [liz](/profile/liz)
 
-February 05, 2016 22:16 | Tags: [spectrometer](../tag/spectrometer), [workshop](../tag/workshop), [oil-testing-kit](../tag/oil-testing-kit), [parent:oil-testing-workshops](../tag/parent:oil-testing-workshops), [experimental-design](../tag/experimental-design)
+February 05, 2016 22:16 | Tags: [spectrometer](/tag/spectrometer), [workshop](/tag/workshop), [oil-testing-kit](/tag/oil-testing-kit), [parent:oil-testing-workshops](/tag/parent:oil-testing-workshops), [experimental-design](/tag/experimental-design)
 
 ----
 

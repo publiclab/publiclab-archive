@@ -6,14 +6,14 @@ author: mathew
 path: /wiki/sem-stub-pm.md
 nid: 12652
 uid: 4
-
+cids: 
 ---
 
 # SEM stub monitor for particulate matter
 
-by [warren](../profile/warren), [stevie](../profile/stevie), [mathew](../profile/mathew)
+by [warren](/profile/warren), [stevie](/profile/stevie), [mathew](/profile/mathew)
 
-February 04, 2016 00:17 | Tags: [particulate-sensing](../tag/particulate-sensing), [dust](../tag/dust), [particulates](../tag/particulates), [particulate](../tag/particulate), [pm](../tag/pm), [passive-pm](../tag/passive-pm), [sem-stub](../tag/sem-stub)
+February 04, 2016 00:17 | Tags: [particulate-sensing](/tag/particulate-sensing), [dust](/tag/dust), [particulates](/tag/particulates), [particulate](/tag/particulate), [pm](/tag/pm), [passive-pm](/tag/passive-pm), [sem-stub](/tag/sem-stub)
 
 ----
 
@@ -55,7 +55,7 @@ Wagner adapted a version of this flat plate system [10]:
 
 ## Questions
 
-[passive-pm](../../tag/question:passive-pm)
+[passive-pm](/tag/question:passive-pm)
 
 ****
 

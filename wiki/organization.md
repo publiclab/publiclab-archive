@@ -6,12 +6,12 @@ author: warren
 path: /wiki/organization.md
 nid: 162
 uid: 1
-
+cids: 
 ---
 
 # Organization
 
-by [liz](../profile/liz), [Shannon](../profile/Shannon), [warren](../profile/warren)
+by [liz](/profile/liz), [Shannon](/profile/Shannon), [warren](/profile/warren)
 
 April 07, 2011 22:24 | Tags: 
 

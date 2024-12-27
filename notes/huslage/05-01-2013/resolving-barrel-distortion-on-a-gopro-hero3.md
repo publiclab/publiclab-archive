@@ -6,18 +6,16 @@ author: huslage
 path: /notes/huslage/05-01-2013/resolving-barrel-distortion-on-a-gopro-hero3.md
 nid: 7192
 uid: 716
-
 cids: 4745,5420,11136
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/149/original/G0050166.jpg)
 
 # Resolving Barrel Distortion on a GoPro Hero3
 
-by [huslage](../../../profile/huslage) | May 01, 2013 20:39
+by [huslage](/profile/huslage) | May 01, 2013 20:39
 
-May 01, 2013 20:39 | Tags: [balloon-mapping](../tag/balloon-mapping), [development](../tag/development), [distortion](../tag/distortion), [fisheye](../tag/fisheye)
+May 01, 2013 20:39 | Tags: [balloon-mapping](/tag/balloon-mapping), [development](/tag/development), [distortion](/tag/distortion), [fisheye](/tag/fisheye)
 
 ----
 

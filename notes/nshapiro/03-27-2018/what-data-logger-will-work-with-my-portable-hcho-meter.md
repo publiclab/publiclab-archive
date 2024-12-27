@@ -6,18 +6,16 @@ author: nshapiro
 path: /notes/nshapiro/03-27-2018/what-data-logger-will-work-with-my-portable-hcho-meter.md
 nid: 16028
 uid: 380298
-
 cids: 19277,19278,19279,19280,19281,19282,19283,19297,19328,19332,19337,19354,19358,19359,19360,19366,19367,19368,19369,19375,19376,19377,19378,19379,19380,19381,19384,19387,19388,19393,19394,19395,19396,19401,19414,19415,19419,19421,19424,19426,23040,23057,23062,23063
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/292/original/Screen_Shot_2018-04-01_at_3.56.12_PM.png)
 
 # what data-logger will work with my portable HCHO meter?
 
-by [nshapiro](../../../profile/nshapiro) | March 27, 2018 20:22
+by [nshapiro](/profile/nshapiro) | March 27, 2018 20:22
 
-March 27, 2018 20:22 | Tags: [air-quality](../tag/air-quality), [sensors](../tag/sensors), [riffle](../tag/riffle), [formaldehyde](../tag/formaldehyde), [question:air-quality](../tag/question:air-quality), [answered](../tag/answered), [resolution](../tag/resolution), [data-logging](../tag/data-logging), [question:data-logging](../tag/question:data-logging), [nano-data-logger](../tag/nano-data-logger), [question:sensors](../tag/question:sensors), [datalogging](../tag/datalogging), [smart-form](../tag/smart-form), [question:sensitivity](../tag/question:sensitivity), [question:air-sensors](../tag/question:air-sensors), [air-sensors](../tag/air-sensors), [question:resolution](../tag/question:resolution)
+March 27, 2018 20:22 | Tags: [air-quality](/tag/air-quality), [sensors](/tag/sensors), [riffle](/tag/riffle), [formaldehyde](/tag/formaldehyde), [question:air-quality](/tag/question:air-quality), [answered](/tag/answered), [resolution](/tag/resolution), [data-logging](/tag/data-logging), [question:data-logging](/tag/question:data-logging), [nano-data-logger](/tag/nano-data-logger), [question:sensors](/tag/question:sensors), [datalogging](/tag/datalogging), [smart-form](/tag/smart-form), [question:sensitivity](/tag/question:sensitivity), [question:air-sensors](/tag/question:air-sensors), [air-sensors](/tag/air-sensors), [question:resolution](/tag/question:resolution)
 
 ----
 

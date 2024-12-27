@@ -6,16 +6,14 @@ author: idev247
 path: /notes/idev247/12-06-2016/ambient-light-bulb-testing.md
 nid: 13752
 uid: 498913
-
 cids: 15925,15926,15927,15929,15931,15932,15941,15944,15946,22367,22368
-
 ---
 
 # Ambient/Light Bulb Testing
 
-by [idev247](../../../profile/idev247) | December 06, 2016 18:09
+by [idev247](/profile/idev247) | December 06, 2016 18:09
 
-December 06, 2016 18:09 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [question:spectrometry](../tag/question:spectrometry), [exposure-calibration](../tag/exposure-calibration)
+December 06, 2016 18:09 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [question:spectrometry](/tag/question:spectrometry), [exposure-calibration](/tag/exposure-calibration)
 
 ----
 

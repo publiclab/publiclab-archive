@@ -6,16 +6,14 @@ author: elaina_banksKarr
 path: /notes/elaina_banksKarr/04-30-2021/what-would-a-system-designed-to-improve-air-quality-with-new-and-fresh-air-look-like.md
 nid: 26435
 uid: 754804
-
 cids: 
-
 ---
 
 # What would a system designed to improve air quality with new and fresh air look like?
 
-by [elaina_banksKarr](../../../profile/elaina_banksKarr) | April 30, 2021 19:09
+by [elaina_banksKarr](/profile/elaina_banksKarr) | April 30, 2021 19:09
 
-April 30, 2021 19:09 | Tags: [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
+April 30, 2021 19:09 | Tags: [question:general](/tag/question:general), [general](/tag/general), [first-time-poster](/tag/first-time-poster)
 
 ----
 

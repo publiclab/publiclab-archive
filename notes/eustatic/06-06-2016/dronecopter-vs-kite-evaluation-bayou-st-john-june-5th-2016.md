@@ -6,18 +6,16 @@ author: eustatic
 path: /06-06-2016/dronecopter-vs-kite-evaluation-bayou-st-john-june-5th-2016.md
 nid: 13168
 uid: 379
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/502/original/a_IMAG0673_bsj_wetland_site.JPG)
 
 # dronecopter vs kite evaluation: Bayou St John June 5th 2016
 
-by [eustatic](../../../profile/eustatic) | June 06, 2016 13:51
+by [eustatic](/profile/eustatic) | June 06, 2016 13:51
 
-June 06, 2016 13:51 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [bsj](../tag/bsj)
+June 06, 2016 13:51 | Tags: [gulf-coast](/tag/gulf-coast), [kite-mapping](/tag/kite-mapping), [bsj](/tag/bsj)
 
 ----
 

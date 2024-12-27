@@ -6,16 +6,14 @@ author: Alu017
 path: /notes/Alu017/09-04-2019/how-can-we-use-iot-to-track-the-loss-of-biodiversity.md
 nid: 20767
 uid: 616219
-
 cids: 
-
 ---
 
 # How can we use IoT to track the loss of biodiversity?
 
-by [Alu017](../../../profile/Alu017) | September 04, 2019 12:52
+by [Alu017](/profile/Alu017) | September 04, 2019 12:52
 
-September 04, 2019 12:52 | Tags: [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster)
+September 04, 2019 12:52 | Tags: [question:general](/tag/question:general), [first-time-poster](/tag/first-time-poster)
 
 ----
 

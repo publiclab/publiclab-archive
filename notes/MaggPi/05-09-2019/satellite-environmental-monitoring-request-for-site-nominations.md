@@ -6,18 +6,16 @@ author: MaggPi
 path: /notes/MaggPi/05-09-2019/satellite-environmental-monitoring-request-for-site-nominations.md
 nid: 19272
 uid: 501996
-
 cids: 24076,24077,24078,24083,24160
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/846/original/apr20.gif)
 
 # Satellite Environmental Monitoring / Request for Site Nominations 
 
-by [MaggPi](../../../profile/MaggPi) | May 08, 2019 01:13
+by [MaggPi](/profile/MaggPi) | May 08, 2019 01:13
 
-May 08, 2019 01:13 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [mapknitter](../tag/mapknitter), [infrared](../tag/infrared), [infragram](../tag/infragram), [landsat](../tag/landsat), [aerial-mapping](../tag/aerial-mapping), [satellite](../tag/satellite), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [planet](../tag/planet), [qgis](../tag/qgis)
+May 08, 2019 01:13 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [ndvi](/tag/ndvi), [mapknitter](/tag/mapknitter), [infrared](/tag/infrared), [infragram](/tag/infragram), [landsat](/tag/landsat), [aerial-mapping](/tag/aerial-mapping), [satellite](/tag/satellite), [gsoc-2019](/tag/gsoc-2019), [soc-2019](/tag/soc-2019), [planet](/tag/planet), [qgis](/tag/qgis)
 
 ----
 

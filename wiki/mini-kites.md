@@ -6,16 +6,16 @@ author: mimiss
 path: /wiki/mini-kites.md
 nid: 23436
 uid: 579821
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/236/original/Screen_Shot_2020-04-29_at_1.30.10_PM.png)
 
 # Mini Kites
 
-by [mimiss](../profile/mimiss)
+by [mimiss](/profile/mimiss)
 
-April 21, 2020 01:55 | Tags: [mini-kite](../tag/mini-kite)
+April 21, 2020 01:55 | Tags: [mini-kite](/tag/mini-kite)
 
 ----
 
@@ -23,7 +23,7 @@ April 21, 2020 01:55 | Tags: [mini-kite](../tag/mini-kite)
 
 These small kites can provide an introduction to kite flying and kite building. You can find instructions below for how to build different miniature kites. [Here is a template for a mini (6-inch) Rokkaku kite!](https://docs.google.com/presentation/d/1gNh2RWxvjvHcRbNWWGFIRPJKlqH_qz476PQDQsAD1m4/edit#slide=id.g83a40f7a00_0_13)
 
-[grid:activity:mini-kite-build](../../tag/grid:activity:mini-kite-build)
+[grid:activity:mini-kite-build](/tag/grid:activity:mini-kite-build)
 
 #### Tips for building miniature kites:
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/11-08-2016/help-public-lab-s-software-grow-by-joining-a-supportive-team.md
 nid: 13687
 uid: 1
-
 cids: 15868,15871,15885,15889,15934,16353,18205,18426,18447,18514,18516,21444,21445,21446,30261,31409
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/731/original/Screenshot_2016-11-08_at_3.53.47_PM.png)
 
 # Help Public Lab’s software grow by joining a supportive team
 
-by [warren](../../../profile/warren) | November 08, 2016 21:55
+by [warren](/profile/warren) | November 08, 2016 21:55
 
-November 08, 2016 21:55 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [web](../tag/web), [coding](../tag/coding), [github](../tag/github), [wwg](../tag/wwg), [activity:software](../tag/activity:software), [software-outreach](../tag/software-outreach), [1234](../tag/1234), [mentoring](../tag/mentoring), [activity:soc](../tag/activity:soc), [activity:software-outreach](../tag/activity:software-outreach), [series:software-outreach](../tag/series:software-outreach)
+November 08, 2016 21:55 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [web](/tag/web), [coding](/tag/coding), [github](/tag/github), [wwg](/tag/wwg), [activity:software](/tag/activity:software), [software-outreach](/tag/software-outreach), [1234](/tag/1234), [mentoring](/tag/mentoring), [activity:soc](/tag/activity:soc), [activity:software-outreach](/tag/activity:software-outreach), [series:software-outreach](/tag/series:software-outreach)
 
 ----
 

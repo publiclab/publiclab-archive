@@ -6,12 +6,12 @@ author: zengirl2
 path: /wiki/how-to-make-a-simple-air-purifier-airquality-air-diy-citizenscience.md
 nid: 16208
 uid: 423961
-
+cids: 
 ---
 
 # How to Make a Simple Air Purifier #airquality #air #DIY #citizenscience
 
-by [zengirl2](../profile/zengirl2)
+by [zengirl2](/profile/zengirl2)
 
 April 24, 2018 23:22 | Tags: 
 
@@ -41,11 +41,11 @@ STILL WRITING--COMING SOON :)
 
 Questions can be either frequently asked questions, or "next step" challenges we're looking to solve.
 
-[tagname](../../tag/question:tagname)
+[tagname](/tag/question:tagname)
 
 ## Activities
 
 Activities show how to use this project, step by step.
 
-[tagname](../../tag/activity:tagname)
+[tagname](/tag/activity:tagname)
 

@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/06-05-2013/bee-movie-ii.md
 nid: 8073
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/479/original/B2BB.jpg)
 
 # Bee Movie II
 
-by [cfastie](../../../profile/cfastie) | June 05, 2013 13:08
+by [cfastie](/profile/cfastie) | June 05, 2013 13:08
 
-June 05, 2013 13:08 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infrared](../tag/infrared), [imagej](../tag/imagej), [infragram](../tag/infragram), [nbg](../tag/nbg), [infrablue](../tag/infrablue)
+June 05, 2013 13:08 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [nrg](/tag/nrg), [ndvi](/tag/ndvi), [vermont](/tag/vermont), [infrared](/tag/infrared), [imagej](/tag/imagej), [infragram](/tag/infragram), [nbg](/tag/nbg), [infrablue](/tag/infrablue)
 
 ----
 

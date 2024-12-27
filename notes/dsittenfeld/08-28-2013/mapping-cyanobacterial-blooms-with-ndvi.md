@@ -6,18 +6,16 @@ author: dsittenfeld
 path: /notes/dsittenfeld/08-28-2013/mapping-cyanobacterial-blooms-with-ndvi.md
 nid: 9061
 uid: 170174
-
 cids: 6736,6755,6761,8326,8333,8825,8826,8838,8839,12181
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/318/original/ndvi_IMG_3876.JPG)
 
 # Mapping Cyanobacterial Blooms with NDVI
 
-by [dsittenfeld](../../../profile/dsittenfeld) | August 28, 2013 03:15
+by [dsittenfeld](/profile/dsittenfeld) | August 28, 2013 03:15
 
-August 28, 2013 03:15 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [boston](../tag/boston), [infragram](../tag/infragram), [algae](../tag/algae), [bacterial-blooms](../tag/bacterial-blooms), [bacteria](../tag/bacteria), [museum-of-science](../tag/museum-of-science), [response:337](../tag/response:337), [cyanobacteria](../tag/cyanobacteria), [response:8809](../tag/response:8809)
+August 28, 2013 03:15 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [boston](/tag/boston), [infragram](/tag/infragram), [algae](/tag/algae), [bacterial-blooms](/tag/bacterial-blooms), [bacteria](/tag/bacteria), [museum-of-science](/tag/museum-of-science), [response:337](/tag/response:337), [cyanobacteria](/tag/cyanobacteria), [response:8809](/tag/response:8809)
 
 ----
 

@@ -6,16 +6,14 @@ author: viechdokter
 path: /notes/viechdokter/04-10-2016/reflected-sunlight-and-a-spectrometer-improving-proposal.md
 nid: 12954
 uid: 468990
-
 cids: 14159,14161,14162,14163,14166,14169,14170,14172,14173
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/462/original/targeting.jpg)
 
 # Reflected sunlight and a spectrometer improving proposal
 
-by [viechdokter](../../../profile/viechdokter) | April 10, 2016 13:15
+by [viechdokter](/profile/viechdokter) | April 10, 2016 13:15
 
 April 10, 2016 13:15 | Tags: 
 

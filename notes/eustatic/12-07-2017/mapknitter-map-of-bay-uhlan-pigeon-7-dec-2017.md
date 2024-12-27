@@ -6,16 +6,14 @@ author: eustatic
 path: /12-07-2017/mapknitter-map-of-bay-uhlan-pigeon-7-dec-2017.md
 nid: 15327
 uid: 379
-
 cids: 
-
 ---
 
 # MapKnitter map of bay uhlan pigeon 7 dec 2017
 
-by [eustatic](../../../profile/eustatic) | December 07, 2017 16:25
+by [eustatic](/profile/eustatic) | December 07, 2017 16:25
 
-December 07, 2017 16:25 | Tags: [mapknitter](../tag/mapknitter), [mgp](../tag/mgp), [lat:29.5198101](../tag/lat:29.5198101), [lon:-89.6786824](../tag/lon:-89.6786824), [uhlan](../tag/uhlan)
+December 07, 2017 16:25 | Tags: [mapknitter](/tag/mapknitter), [mgp](/tag/mgp), [lat:29.5198101](/tag/lat:29.5198101), [lon:-89.6786824](/tag/lon:-89.6786824), [uhlan](/tag/uhlan)
 
 ----
 

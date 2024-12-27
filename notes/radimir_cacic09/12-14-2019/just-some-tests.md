@@ -6,16 +6,14 @@ author: radimir_cacic09
 path: /notes/radimir_cacic09/12-14-2019/just-some-tests.md
 nid: 21754
 uid: 644656
-
 cids: 26007,26163,26166,26169,26179
-
 ---
 
 # Just some tests :)
 
-by [radimir_cacic09](../../../profile/radimir_cacic09) | December 14, 2019 11:12
+by [radimir_cacic09](/profile/radimir_cacic09) | December 14, 2019 11:12
 
-December 14, 2019 11:12 | Tags: [first-time-poster](../tag/first-time-poster)
+December 14, 2019 11:12 | Tags: [first-time-poster](/tag/first-time-poster)
 
 ----
 

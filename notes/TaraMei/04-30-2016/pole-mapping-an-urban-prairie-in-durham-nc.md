@@ -6,18 +6,16 @@ author: taramei
 path: /notes/TaraMei/04-30-2016/pole-mapping-an-urban-prairie-in-durham-nc.md
 nid: 13054
 uid: 455825
-
 cids: 14481,14495
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/881/original/IMG_8914.jpg)
 
 # Pole Mapping an Urban Prairie in Durham, NC
 
-by [taramei](../../../profile/taramei) | April 30, 2016 16:20
+by [taramei](/profile/taramei) | April 30, 2016 16:20
 
-April 30, 2016 16:20 | Tags: [polemapping](../tag/polemapping), [pole-photography](../tag/pole-photography), [pole-aerial-photography](../tag/pole-aerial-photography), [pole-mapping](../tag/pole-mapping), [southeast](../tag/southeast)
+April 30, 2016 16:20 | Tags: [polemapping](/tag/polemapping), [pole-photography](/tag/pole-photography), [pole-aerial-photography](/tag/pole-aerial-photography), [pole-mapping](/tag/pole-mapping), [southeast](/tag/southeast)
 
 ----
 

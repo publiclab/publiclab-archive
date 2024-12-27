@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/10-11-2013/oaktober.md
 nid: 9437
 uid: 554
-
 cids: 7214,7418,7557,7585,9036,9045
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/894/original/OaktoberVIS-258-22.jpg)
 
 # Oaktober
 
-by [cfastie](../../../profile/cfastie) | October 11, 2013 16:07
+by [cfastie](/profile/cfastie) | October 11, 2013 16:07
 
-October 11, 2013 16:07 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infragram](../tag/infragram), [photosynthesis](../tag/photosynthesis), [infrablue](../tag/infrablue), [pigments](../tag/pigments), [response:9432](../tag/response:9432), [red-filter](../tag/red-filter), [activity:multispectral-imaging](../tag/activity:multispectral-imaging)
+October 11, 2013 16:07 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [vermont](/tag/vermont), [infragram](/tag/infragram), [photosynthesis](/tag/photosynthesis), [infrablue](/tag/infrablue), [pigments](/tag/pigments), [response:9432](/tag/response:9432), [red-filter](/tag/red-filter), [activity:multispectral-imaging](/tag/activity:multispectral-imaging)
 
 ----
 

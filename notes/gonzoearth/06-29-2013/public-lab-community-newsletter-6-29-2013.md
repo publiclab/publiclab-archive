@@ -6,18 +6,16 @@ author: gonzoearth
 path: /notes/gonzoearth/06-29-2013/public-lab-community-newsletter-6-29-2013.md
 nid: 8530
 uid: 12
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/577/original/Boots-ground-02_%281%29.png)
 
 # Public Lab Community Newsletter 6.29.2013
 
-by [gonzoearth](../../../profile/gonzoearth) | June 29, 2013 05:00
+by [gonzoearth](/profile/gonzoearth) | June 29, 2013 05:00
 
-June 29, 2013 05:00 | Tags: [response:8141](../tag/response:8141), [newsletter](../tag/newsletter), [response:8399](../tag/response:8399)
+June 29, 2013 05:00 | Tags: [response:8141](/tag/response:8141), [newsletter](/tag/newsletter), [response:8399](/tag/response:8399)
 
 ----
 

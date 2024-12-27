@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/11-27-2017/yule-logging.md
 nid: 15242
 uid: 554
-
 cids: 17788,17792,17793,17798,17805,17810,18035,18036,18050
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/605/original/StoveRelay_20171120-1684.JPG)
 
 # Yule logging
 
-by [cfastie](../../../profile/cfastie) | November 27, 2017 00:41
+by [cfastie](/profile/cfastie) | November 27, 2017 00:41
 
-November 27, 2017 00:41 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [datalogger](../tag/datalogger), [data-logging](../tag/data-logging), [arduino-nano](../tag/arduino-nano), [nano-data-logger](../tag/nano-data-logger), [16x2_lcd](../tag/16x2_lcd), [bme280](../tag/bme280), [gy90615](../tag/gy90615), [activity:nano-data-logger](../tag/activity:nano-data-logger), [thermal-infrared](../tag/thermal-infrared), [gy90614](../tag/gy90614), [series:woodstove-control](../tag/series:woodstove-control)
+November 27, 2017 00:41 | Tags: [arduino](/tag/arduino), [sensors](/tag/sensors), [datalogger](/tag/datalogger), [data-logging](/tag/data-logging), [arduino-nano](/tag/arduino-nano), [nano-data-logger](/tag/nano-data-logger), [16x2_lcd](/tag/16x2_lcd), [bme280](/tag/bme280), [gy90615](/tag/gy90615), [activity:nano-data-logger](/tag/activity:nano-data-logger), [thermal-infrared](/tag/thermal-infrared), [gy90614](/tag/gy90614), [series:woodstove-control](/tag/series:woodstove-control)
 
 ----
 

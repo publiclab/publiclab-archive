@@ -6,16 +6,14 @@ author: amysoyka
 path: /notes/amysoyka/07-17-2014/how-a-glue-gun-works.md
 nid: 10701
 uid: 422627
-
 cids: 9860,30780
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/365/original/Sketch17418034.png)
 
 # How a Glue Gun Works
 
-by [amysoyka](../../../profile/amysoyka) | July 17, 2014 08:09
+by [amysoyka](/profile/amysoyka) | July 17, 2014 08:09
 
 July 17, 2014 08:09 | Tags: 
 

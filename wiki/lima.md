@@ -6,16 +6,16 @@ author: warren
 path: /wiki/lima.md
 nid: 37
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/sites/default/files/san-martin-spectro.jpg)
 
 # Lima
 
-by [liz](../profile/liz), [warren](../profile/warren)
+by [liz](/profile/liz), [warren](/profile/warren)
 
-January 07, 2011 04:09 | Tags: [chapter](../tag/chapter), [list:laboratoriopublico](../tag/list:laboratoriopublico)
+January 07, 2011 04:09 | Tags: [chapter](/tag/chapter), [list:laboratoriopublico](/tag/list:laboratoriopublico)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/07-03-2014/presentation-at-fab10-in-barcelona.md
 nid: 10649
 uid: 1
-
 cids: 9486
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/104/original/Screenshot_2014-07-03-10-24-44_2.jpg)
 
 # Presentation at FAB10 in Barcelona
 
-by [warren](../../../profile/warren) | July 03, 2014 08:35
+by [warren](/profile/warren) | July 03, 2014 08:35
 
-July 03, 2014 08:35 | Tags: [barcelona](../tag/barcelona), [spain](../tag/spain), [presentations](../tag/presentations), [presentation](../tag/presentation), [fab10](../tag/fab10)
+July 03, 2014 08:35 | Tags: [barcelona](/tag/barcelona), [spain](/tag/spain), [presentations](/tag/presentations), [presentation](/tag/presentation), [fab10](/tag/fab10)
 
 ----
 

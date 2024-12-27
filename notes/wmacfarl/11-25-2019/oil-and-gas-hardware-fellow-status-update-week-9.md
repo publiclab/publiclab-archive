@@ -6,18 +6,16 @@ author: wmacfarl
 path: /notes/wmacfarl/11-25-2019/oil-and-gas-hardware-fellow-status-update-week-9.md
 nid: 21581
 uid: 424597
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/699/original/mess.jpg)
 
 # Oil and Gas Hardware Fellow Status Update: Week 9!
 
-by [wmacfarl](../../../profile/wmacfarl) | November 25, 2019 22:30
+by [wmacfarl](/profile/wmacfarl) | November 25, 2019 22:30
 
-November 25, 2019 22:30 | Tags: [water-quality](../tag/water-quality), [oil-and-gas](../tag/oil-and-gas), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
+November 25, 2019 22:30 | Tags: [water-quality](/tag/water-quality), [oil-and-gas](/tag/oil-and-gas), [oil-and-gas-water-trio](/tag/oil-and-gas-water-trio)
 
 ----
 

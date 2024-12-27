@@ -6,16 +6,16 @@ author: warren
 path: /wiki/barnraising-foodcom.md
 nid: 9375
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/295/original/tmp_11934-IMG_20160401_210810-1428720431.jpg)
 
 # barnraising-foodcom
 
-by [warren](../profile/warren), [Hudonnoodles](../profile/Hudonnoodles)
+by [warren](/profile/warren), [Hudonnoodles](/profile/Hudonnoodles)
 
-September 25, 2013 18:27 | Tags: [barnraising](../tag/barnraising), [foodcom](../tag/foodcom)
+September 25, 2013 18:27 | Tags: [barnraising](/tag/barnraising), [foodcom](/tag/foodcom)
 
 ----
 

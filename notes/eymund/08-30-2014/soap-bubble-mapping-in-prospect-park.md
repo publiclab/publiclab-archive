@@ -6,16 +6,14 @@ author: eymund
 path: /notes/eymund/08-30-2014/soap-bubble-mapping-in-prospect-park.md
 nid: 11090
 uid: 1016
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/528/original/2014_8_23_Soap_bubbles_and_dogs_during_prospect_park_balloon_mapping_pic_by_Keith_Williams_cropped.jpg)
 
 # Soap Bubble Mapping in Prospect Park
 
-by [eymund](../../../profile/eymund) | August 30, 2014 14:24
+by [eymund](/profile/eymund) | August 30, 2014 14:24
 
 August 30, 2014 14:24 | Tags: 
 

@@ -6,16 +6,14 @@ author: cedarlodge
 path: /notes/cedarlodge/02-27-2018/uploading-images-from-raspberry-pi.md
 nid: 15824
 uid: 523507
-
 cids: 18644,18654,18655,18658,18659,18733,18744,18757,18936,18983,19008,22960
-
 ---
 
 # Uploading images from raspberry pi.
 
-by [cedarlodge](../../../profile/cedarlodge) | February 27, 2018 11:06
+by [cedarlodge](/profile/cedarlodge) | February 27, 2018 11:06
 
-February 27, 2018 11:06 | Tags: [question:raspberry-pi](../tag/question:raspberry-pi), [question:pi-camera](../tag/question:pi-camera), [question:raspberry-pi-spectrometer](../tag/question:raspberry-pi-spectrometer), [question:lego-spectrometer](../tag/question:lego-spectrometer), [first-time-poster](../tag/first-time-poster)
+February 27, 2018 11:06 | Tags: [question:raspberry-pi](/tag/question:raspberry-pi), [question:pi-camera](/tag/question:pi-camera), [question:raspberry-pi-spectrometer](/tag/question:raspberry-pi-spectrometer), [question:lego-spectrometer](/tag/question:lego-spectrometer), [first-time-poster](/tag/first-time-poster)
 
 ----
 

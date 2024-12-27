@@ -6,18 +6,16 @@ author: eustatic
 path: /06-23-2014/bayou-st-john-first-sproutings-and-west-protection-berm.md
 nid: 10604
 uid: 379
-
 cids: 9243,9244,10156,10157
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/934/original/14483937984_a3c3610f19_1_.jpg)
 
 # Bayou St John, first sproutings and west protection berm
 
-by [eustatic](../../../profile/eustatic) | June 23, 2014 01:14
+by [eustatic](/profile/eustatic) | June 23, 2014 01:14
 
-June 23, 2014 01:14 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [eustatic](../tag/eustatic), [dredgefestla](../tag/dredgefestla), [bsj](../tag/bsj), [dredgefest](../tag/dredgefest), [response:10344](../tag/response:10344), [lat:29.997796](../tag/lat:29.997796), [lon:-90.085229](../tag/lon:-90.085229), [place:bayou-st-john](../tag/place:bayou-st-john)
+June 23, 2014 01:14 | Tags: [gulf-coast](/tag/gulf-coast), [kite-mapping](/tag/kite-mapping), [wetlands](/tag/wetlands), [eustatic](/tag/eustatic), [dredgefestla](/tag/dredgefestla), [bsj](/tag/bsj), [dredgefest](/tag/dredgefest), [response:10344](/tag/response:10344), [lat:29.997796](/tag/lat:29.997796), [lon:-90.085229](/tag/lon:-90.085229), [place:bayou-st-john](/tag/place:bayou-st-john)
 
 ----
 

@@ -6,12 +6,12 @@ author: liz
 path: /wiki/northeast-usa.md
 nid: 10217
 uid: 7
-
+cids: 
 ---
 
 # northeast-usa
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
 March 23, 2014 18:10 | Tags: 
 

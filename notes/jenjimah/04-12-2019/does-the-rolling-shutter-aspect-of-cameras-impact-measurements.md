@@ -6,18 +6,16 @@ author: jenjimah
 path: /notes/jenjimah/04-12-2019/does-the-rolling-shutter-aspect-of-cameras-impact-measurements.md
 nid: 19046
 uid: 505738
-
 cids: 23882,23883,24348
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/434/original/lm7HG.jpg)
 
 # Does the "rolling shutter" aspect of cameras impact measurements?
 
-by [jenjimah](../../../profile/jenjimah) | April 12, 2019 18:53
+by [jenjimah](/profile/jenjimah) | April 12, 2019 18:53
 
-April 12, 2019 18:53 | Tags: [question:general](../tag/question:general), [response:18991](../tag/response:18991), [flicker](../tag/flicker), [banding](../tag/banding), [rolling](../tag/rolling), [shutter](../tag/shutter)
+April 12, 2019 18:53 | Tags: [question:general](/tag/question:general), [response:18991](/tag/response:18991), [flicker](/tag/flicker), [banding](/tag/banding), [rolling](/tag/rolling), [shutter](/tag/shutter)
 
 ----
 

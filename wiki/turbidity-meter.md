@@ -6,14 +6,14 @@ author: liz
 path: /wiki/turbidity-meter.md
 nid: 924
 uid: 7
-
+cids: 
 ---
 
 # turbidity sensor
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-March 14, 2012 18:04 | Tags: [water-quality](../tag/water-quality), [water-monitoring](../tag/water-monitoring), [turbidity](../tag/turbidity), [parent:turbidity](../tag/parent:turbidity)
+March 14, 2012 18:04 | Tags: [water-quality](/tag/water-quality), [water-monitoring](/tag/water-monitoring), [turbidity](/tag/turbidity), [parent:turbidity](/tag/parent:turbidity)
 
 ----
 

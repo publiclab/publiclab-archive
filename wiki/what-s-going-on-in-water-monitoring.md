@@ -6,14 +6,14 @@ author: kanarinka
 path: /wiki/what-s-going-on-in-water-monitoring.md
 nid: 10392
 uid: 994
-
+cids: 
 ---
 
 # What's going on in Water Monitoring?
 
-by [kanarinka](../profile/kanarinka), [danbeavers](../profile/danbeavers), [cfastie](../profile/cfastie)
+by [kanarinka](/profile/kanarinka), [danbeavers](/profile/danbeavers), [cfastie](/profile/cfastie)
 
-May 02, 2014 13:52 | Tags: [water-sensing](../tag/water-sensing), [water-quality](../tag/water-quality), [water](../tag/water), [open-water](../tag/open-water), [parent:water-quality](../tag/parent:water-quality)
+May 02, 2014 13:52 | Tags: [water-sensing](/tag/water-sensing), [water-quality](/tag/water-quality), [water](/tag/water), [open-water](/tag/open-water), [parent:water-quality](/tag/parent:water-quality)
 
 ----
 

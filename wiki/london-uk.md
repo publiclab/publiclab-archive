@@ -6,16 +6,16 @@ author: cesarharada
 path: /wiki/london-uk.md
 nid: 512
 uid: 50
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/500/original/IMG_2497.JPG)
 
 # London UK
 
-by [cindy_excites](../profile/cindy_excites)
+by [cindy_excites](/profile/cindy_excites)
 
-October 20, 2011 01:09 | Tags: [london](../tag/london), [uk](../tag/uk), [chapter](../tag/chapter), [eu](../tag/eu), [place:london](../tag/place:london)
+October 20, 2011 01:09 | Tags: [london](/tag/london), [uk](/tag/uk), [chapter](/tag/chapter), [eu](/tag/eu), [place:london](/tag/place:london)
 
 ----
 

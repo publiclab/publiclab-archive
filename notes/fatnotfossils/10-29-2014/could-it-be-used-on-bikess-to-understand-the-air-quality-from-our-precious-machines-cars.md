@@ -6,16 +6,14 @@ author: fatnotfossils
 path: /notes/fatnotfossils/10-29-2014/could-it-be-used-on-bikess-to-understand-the-air-quality-from-our-precious-machines-cars.md
 nid: 11311
 uid: 430643
-
 cids: 31228
-
 ---
 
 # Could it be used on bikess to understand the air quality from our precious machines (cars)
 
-by [fatnotfossils](../../../profile/fatnotfossils) | October 29, 2014 13:06
+by [fatnotfossils](/profile/fatnotfossils) | October 29, 2014 13:06
 
-October 29, 2014 13:06 | Tags: [question:dustduino](../tag/question:dustduino), [first-time-poster](../tag/first-time-poster)
+October 29, 2014 13:06 | Tags: [question:dustduino](/tag/question:dustduino), [first-time-poster](/tag/first-time-poster)
 
 ----
 

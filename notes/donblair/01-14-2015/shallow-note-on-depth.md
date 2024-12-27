@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/01-14-2015/shallow-note-on-depth.md
 nid: 11522
 uid: 43651
-
 cids: 11042,13774,13775,13777,13778,13779,13780,13781,13782,13786
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/604/original/depthSteps.png)
 
 # Shallow note on depth
 
-by [donblair](../../../profile/donblair) | January 14, 2015 17:52
+by [donblair](/profile/donblair) | January 14, 2015 17:52
 
-January 14, 2015 17:52 | Tags: [water-quality](../tag/water-quality), [coqui](../tag/coqui), [depth](../tag/depth), [depth-sensor](../tag/depth-sensor)
+January 14, 2015 17:52 | Tags: [water-quality](/tag/water-quality), [coqui](/tag/coqui), [depth](/tag/depth), [depth-sensor](/tag/depth-sensor)
 
 ----
 

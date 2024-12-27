@@ -6,18 +6,16 @@ author: gonzoearth
 path: /notes/gonzoearth/05-29-2013/time-lapse-video-of-a-mapknitter-project.md
 nid: 7964
 uid: 12
-
 cids: 8706
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/429/original/Screen_Shot_2013-05-29_at_4.31.49_PM.png)
 
 # time-lapse video of a MapKnitter project
 
-by [gonzoearth](../../../profile/gonzoearth) | May 29, 2013 23:33
+by [gonzoearth](/profile/gonzoearth) | May 29, 2013 23:33
 
-May 29, 2013 23:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [video](../tag/video), [mapknitter](../tag/mapknitter), [walkthrough](../tag/walkthrough)
+May 29, 2013 23:33 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [video](/tag/video), [mapknitter](/tag/mapknitter), [walkthrough](/tag/walkthrough)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/05-07-2013/may-12-bosslab-hackathon-diy-spectrometry.md
 nid: 7286
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/176/original/impact-sticker.png)
 
 # May 12 BOSSLAB Hackathon + DIY Spectrometry
 
-by [warren](../../../profile/warren) | May 07, 2013 12:20
+by [warren](/profile/warren) | May 07, 2013 12:20
 
-May 07, 2013 12:20 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [boston](../tag/boston), [event](../tag/event), [diybio](../tag/diybio), [bosslab](../tag/bosslab), [hackathon](../tag/hackathon)
+May 07, 2013 12:20 | Tags: [somerville-massachusetts](/tag/somerville-massachusetts), [boston](/tag/boston), [event](/tag/event), [diybio](/tag/diybio), [bosslab](/tag/bosslab), [hackathon](/tag/hackathon)
 
 ----
 

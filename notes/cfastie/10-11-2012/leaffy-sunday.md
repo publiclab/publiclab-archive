@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/10-11-2012/leaffy-sunday.md
 nid: 4342
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_1505.jpg)
 
 # LEAFFY Sunday
 
-by [cfastie](../../../profile/cfastie) | October 11, 2012 14:58
+by [cfastie](/profile/cfastie) | October 11, 2012 14:58
 
-October 11, 2012 14:58 | Tags: [kite-mapping](../tag/kite-mapping), [events](../tag/events), [leaffest](../tag/leaffest), [leaffest2012](../tag/leaffest2012), [gps](../tag/gps), [pvos](../tag/pvos)
+October 11, 2012 14:58 | Tags: [kite-mapping](/tag/kite-mapping), [events](/tag/events), [leaffest](/tag/leaffest), [leaffest2012](/tag/leaffest2012), [gps](/tag/gps), [pvos](/tag/pvos)
 
 ----
 

@@ -6,16 +6,14 @@ author: bhamster
 path: /notes/bhamster/10-22-2021/what-are-some-of-the-first-things-you-do-with-air-quality-monitoring-data-to-better-understand-it.md
 nid: 27958
 uid: 664477
-
 cids: 29344,29345,29346,29347,29459,29460,29469
-
 ---
 
 # What are some of the first things you do with air quality monitoring data to better understand it? 
 
-by [bhamster](../../../profile/bhamster) | October 22, 2021 16:39
+by [bhamster](/profile/bhamster) | October 22, 2021 16:39
 
-October 22, 2021 16:39 | Tags: [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [air-quality-data](../tag/air-quality-data), [question:air-quality-data](../tag/question:air-quality-data), [getting-started-air-quality-data](../tag/getting-started-air-quality-data)
+October 22, 2021 16:39 | Tags: [air-quality](/tag/air-quality), [question:air-quality](/tag/question:air-quality), [air-quality-data](/tag/air-quality-data), [question:air-quality-data](/tag/question:air-quality-data), [getting-started-air-quality-data](/tag/getting-started-air-quality-data)
 
 ----
 

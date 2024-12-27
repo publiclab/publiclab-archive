@@ -6,12 +6,12 @@ author: warren
 path: /wiki/writing.md
 nid: 387
 uid: 1
-
+cids: 
 ---
 
 # Writing
 
-by [liz](../profile/liz), [warren](../profile/warren)
+by [liz](/profile/liz), [warren](/profile/warren)
 
 July 16, 2011 14:07 | Tags: 
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/software.md
 nid: 9963
 uid: 1
-
+cids: 
 ---
 
 # Software
 
-by [liz](../profile/liz), [warren](../profile/warren)
+by [liz](/profile/liz), [warren](/profile/warren)
 
-January 22, 2014 23:07 | Tags: [mapknitter](../tag/mapknitter), [spectralworkbench](../tag/spectralworkbench), [software](../tag/software), [plots2](../tag/plots2), [infragram](../tag/infragram), [web](../tag/web), [code](../tag/code), [coding](../tag/coding), [parent:developers](../tag/parent:developers)
+January 22, 2014 23:07 | Tags: [mapknitter](/tag/mapknitter), [spectralworkbench](/tag/spectralworkbench), [software](/tag/software), [plots2](/tag/plots2), [infragram](/tag/infragram), [web](/tag/web), [code](/tag/code), [coding](/tag/coding), [parent:developers](/tag/parent:developers)
 
 ----
 

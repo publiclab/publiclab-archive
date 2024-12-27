@@ -6,18 +6,16 @@ author: mrw0116
 path: /notes/mrw0116/11-10-2017/helium-alternative.md
 nid: 15172
 uid: 518064
-
 cids: 17664,17665,22714,22715
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/364/original/IMG_0537.JPG)
 
 # Helium alternative
 
-by [mrw0116](../../../profile/mrw0116) | November 10, 2017 16:16
+by [mrw0116](/profile/mrw0116) | November 10, 2017 16:16
 
-November 10, 2017 16:16 | Tags: [balloon-mapping](../tag/balloon-mapping), [helium](../tag/helium), [question:balloon-mapping](../tag/question:balloon-mapping), [answered](../tag/answered), [question:mini-balloon-kit](../tag/question:mini-balloon-kit), [question:helium](../tag/question:helium)
+November 10, 2017 16:16 | Tags: [balloon-mapping](/tag/balloon-mapping), [helium](/tag/helium), [question:balloon-mapping](/tag/question:balloon-mapping), [answered](/tag/answered), [question:mini-balloon-kit](/tag/question:mini-balloon-kit), [question:helium](/tag/question:helium)
 
 ----
 

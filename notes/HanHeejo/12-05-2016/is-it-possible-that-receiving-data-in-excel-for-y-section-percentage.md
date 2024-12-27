@@ -6,16 +6,14 @@ author: HanHeejo
 path: /notes/HanHeejo/12-05-2016/is-it-possible-that-receiving-data-in-excel-for-y-section-percentage.md
 nid: 13744
 uid: 498378
-
 cids: 22364
-
 ---
 
 # Is it possible that receiving data in excel for y section, percentage? 
 
-by [HanHeejo](../../../profile/HanHeejo) | December 05, 2016 02:23
+by [HanHeejo](/profile/HanHeejo) | December 05, 2016 02:23
 
-December 05, 2016 02:23 | Tags: [data](../tag/data), [question:general](../tag/question:general), [excel](../tag/excel)
+December 05, 2016 02:23 | Tags: [data](/tag/data), [question:general](/tag/question:general), [excel](/tag/excel)
 
 ----
 

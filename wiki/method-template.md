@@ -6,14 +6,14 @@ author: warren
 path: /wiki/method-template.md
 nid: 13732
 uid: 1
-
+cids: 
 ---
 
 # Method template
 
-by [warren](../profile/warren), [liz](../profile/liz)
+by [warren](/profile/warren), [liz](/profile/liz)
 
-November 29, 2016 21:47 | Tags: [methodologies](../tag/methodologies), [tags](../tag/tags), [template](../tag/template), [methods-template](../tag/methods-template)
+November 29, 2016 21:47 | Tags: [methodologies](/tag/methodologies), [tags](/tag/tags), [template](/tag/template), [methods-template](/tag/methods-template)
 
 ----
 
@@ -68,12 +68,12 @@ This first line of a page will appear as the "summary" of your method here and e
 
 ## Activities
 
-[METHODNAME](../../tag/activity:METHODNAME)
+[METHODNAME](/tag/activity:METHODNAME)
 
 ****
 
 ## Questions
 
-[METHODNAME](../../tag/question:METHODNAME)
+[METHODNAME](/tag/question:METHODNAME)
 
 ****

@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/08-01-2014/first-riffle-deployment-city-of-cambridge-water-department.md
 nid: 11004
 uid: 43651
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/740/original/IMG_0357.JPG)
 
 # First Riffle Deployment: City of Cambridge Water Department
 
-by [donblair](../../../profile/donblair) | August 01, 2014 20:53
+by [donblair](/profile/donblair) | August 01, 2014 20:53
 
-August 01, 2014 20:53 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [cambridge](../tag/cambridge), [massachusetts](../tag/massachusetts), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [northeast](../tag/northeast), [riffle-examples](../tag/riffle-examples)
+August 01, 2014 20:53 | Tags: [somerville-massachusetts](/tag/somerville-massachusetts), [cambridge](/tag/cambridge), [massachusetts](/tag/massachusetts), [water-quality](/tag/water-quality), [riffle](/tag/riffle), [northeast](/tag/northeast), [riffle-examples](/tag/riffle-examples)
 
 ----
 

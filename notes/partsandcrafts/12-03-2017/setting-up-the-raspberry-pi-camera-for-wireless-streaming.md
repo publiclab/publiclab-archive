@@ -6,18 +6,16 @@ author: partsandcrafts
 path: /notes/partsandcrafts/12-03-2017/setting-up-the-raspberry-pi-camera-for-wireless-streaming.md
 nid: 15289
 uid: 66014
-
 cids: 17865,17891,17948,17949,17962,18776,19459
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/756/original/seeing_stuff.jpg)
 
 # Setting up the Raspberry Pi Camera for Wireless Streaming
 
-by [partsandcrafts](../../../profile/partsandcrafts) | December 03, 2017 02:55
+by [partsandcrafts](/profile/partsandcrafts) | December 03, 2017 02:55
 
-December 03, 2017 02:55 | Tags: [raspberry-pi](../tag/raspberry-pi), [barnstar:basic](../tag/barnstar:basic), [with:kgradow1](../tag/with:kgradow1), [with:warren](../tag/with:warren), [microscope](../tag/microscope), [pi-camera](../tag/pi-camera), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes), [raspberry-pi-infragram](../tag/raspberry-pi-infragram), [activity:raspberry-pi-infragram](../tag/activity:raspberry-pi-infragram), [with:wmacfarl](../tag/with:wmacfarl), [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer), [activity:raspberry-pi-spectrometer](../tag/activity:raspberry-pi-spectrometer), [activity:pi-camera](../tag/activity:pi-camera), [with:bmela](../tag/with:bmela), [activity:basic-microscope](../tag/activity:basic-microscope), [activity:lego-spectrometer](../tag/activity:lego-spectrometer), [series:basic-microscope](../tag/series:basic-microscope)
+December 03, 2017 02:55 | Tags: [raspberry-pi](/tag/raspberry-pi), [barnstar:basic](/tag/barnstar:basic), [with:kgradow1](/tag/with:kgradow1), [with:warren](/tag/with:warren), [microscope](/tag/microscope), [pi-camera](/tag/pi-camera), [microscopes](/tag/microscopes), [activity:microscopes](/tag/activity:microscopes), [raspberry-pi-infragram](/tag/raspberry-pi-infragram), [activity:raspberry-pi-infragram](/tag/activity:raspberry-pi-infragram), [with:wmacfarl](/tag/with:wmacfarl), [raspberry-pi-spectrometer](/tag/raspberry-pi-spectrometer), [activity:raspberry-pi-spectrometer](/tag/activity:raspberry-pi-spectrometer), [activity:pi-camera](/tag/activity:pi-camera), [with:bmela](/tag/with:bmela), [activity:basic-microscope](/tag/activity:basic-microscope), [activity:lego-spectrometer](/tag/activity:lego-spectrometer), [series:basic-microscope](/tag/series:basic-microscope)
 
 ----
 

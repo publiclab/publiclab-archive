@@ -6,16 +6,14 @@ author:
 path: /notes/5-18-2012/test-jibou.md
 nid: 2127
 uid: 0
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0445_medium.JPG)
 
 # test-jibou
 
-by [](../../../profile/) | May 18, 2012 06:47
+by [](/profile/) | May 18, 2012 06:47
 
 May 18, 2012 06:47 | Tags: 
 

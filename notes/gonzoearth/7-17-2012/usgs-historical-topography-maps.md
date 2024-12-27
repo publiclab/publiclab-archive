@@ -6,18 +6,16 @@ author: gonzoearth
 path: /notes/gonzoearth/7-17-2012/usgs-historical-topography-maps.md
 nid: 2846
 uid: 12
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen Shot 2012-07-17 at 11.15.03 AM.png)
 
 # USGS historical topography maps
 
-by [gonzoearth](../../../profile/gonzoearth) | July 17, 2012 18:26
+by [gonzoearth](/profile/gonzoearth) | July 17, 2012 18:26
 
-July 17, 2012 18:26 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
+July 17, 2012 18:26 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping)
 
 ----
 

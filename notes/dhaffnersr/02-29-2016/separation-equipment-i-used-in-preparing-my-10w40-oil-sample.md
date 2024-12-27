@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/02-29-2016/separation-equipment-i-used-in-preparing-my-10w40-oil-sample.md
 nid: 12762
 uid: 461120
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/619/original/2_solvents_I_use.JPG)
 
 # Separation equipment I used in preparing my 10w40 oil sample
 
-by [dhaffnersr](../../../profile/dhaffnersr) | February 29, 2016 21:54
+by [dhaffnersr](/profile/dhaffnersr) | February 29, 2016 21:54
 
 February 29, 2016 21:54 | Tags: 
 

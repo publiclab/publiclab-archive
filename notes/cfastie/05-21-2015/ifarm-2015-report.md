@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/05-21-2015/ifarm-2015-report.md
 nid: 11825
 uid: 554
-
 cids: 11717,11718,11747,11748
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/933/original/iFarm2015-621-30.jpg)
 
 # iFARM 2015 report
 
-by [cfastie](../../../profile/cfastie) | May 21, 2015 02:19
+by [cfastie](/profile/cfastie) | May 21, 2015 02:19
 
-May 21, 2015 02:19 | Tags: [new-hampshire](../tag/new-hampshire), [uav](../tag/uav), [farm](../tag/farm), [kap](../tag/kap), [event](../tag/event), [ifarm](../tag/ifarm), [2015](../tag/2015), [hack](../tag/hack), [rov](../tag/rov), [nh](../tag/nh), [response:11790](../tag/response:11790)
+May 21, 2015 02:19 | Tags: [new-hampshire](/tag/new-hampshire), [uav](/tag/uav), [farm](/tag/farm), [kap](/tag/kap), [event](/tag/event), [ifarm](/tag/ifarm), [2015](/tag/2015), [hack](/tag/hack), [rov](/tag/rov), [nh](/tag/nh), [response:11790](/tag/response:11790)
 
 ----
 

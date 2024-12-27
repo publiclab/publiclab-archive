@@ -6,18 +6,16 @@ author: Fi156
 path: /notes/Fi156/05-25-2015/white-balancing-a-4-channel-raw-image.md
 nid: 11835
 uid: 442424
-
 cids: 11752,11754,11755,11756
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/002/original/Screenshot.png)
 
 # White balancing a 4 channel RAW image?
 
-by [Fi156](../../../profile/Fi156) | May 25, 2015 12:14
+by [Fi156](/profile/Fi156) | May 25, 2015 12:14
 
-May 25, 2015 12:14 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [white-balance](../tag/white-balance)
+May 25, 2015 12:14 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [white-balance](/tag/white-balance)
 
 ----
 

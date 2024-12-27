@@ -6,18 +6,16 @@ author: ryzokuken
 path: /notes/ryzokuken/08-18-2017/call-for-plotsbot-behaviors.md
 nid: 14768
 uid: 493113
-
 cids: 17189,17194,17196,17197,17198,17199,17200,17201,17202,17205,20994
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/367/original/vertical_GSoC_logo.jpg)
 
 # Call for plotsbot behaviors
 
-by [ryzokuken](../../../profile/ryzokuken) | August 18, 2017 18:20
+by [ryzokuken](/profile/ryzokuken) | August 18, 2017 18:20
 
-August 18, 2017 18:20 | Tags: [google-summer-of-code](../tag/google-summer-of-code), [plotsbot](../tag/plotsbot)
+August 18, 2017 18:20 | Tags: [google-summer-of-code](/tag/google-summer-of-code), [plotsbot](/tag/plotsbot)
 
 ----
 

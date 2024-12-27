@@ -6,18 +6,16 @@ author: awoolverton1
 path: /notes/awoolverton1/07-14-2022/project-fellow-highlighted-in-media-clip-false-solutions-promised-for-our-state.md
 nid: 31847
 uid: 778039
-
 cids: 30321,30337,30857,31487
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/893/original/Travis.JPG)
 
 # Community Air Monitoring Highlighted in Media Clip; False Solutions Promised for Our State
 
-by [awoolverton1](../../../profile/awoolverton1) | July 14, 2022 04:12
+by [awoolverton1](/profile/awoolverton1) | July 14, 2022 04:12
 
-July 14, 2022 04:12 | Tags: [blog](../tag/blog), [zoom:6](../tag/zoom:6), [with:travislondon](../tag/with:travislondon), [formosaplastics](../tag/formosaplastics), [lat:30.017929](../tag/lat:30.017929), [lon:-90.791322](../tag/lon:-90.791322)
+July 14, 2022 04:12 | Tags: [blog](/tag/blog), [zoom:6](/tag/zoom:6), [with:travislondon](/tag/with:travislondon), [formosaplastics](/tag/formosaplastics), [lat:30.017929](/tag/lat:30.017929), [lon:-90.791322](/tag/lon:-90.791322)
 
 ----
 

@@ -6,18 +6,16 @@ author: pdhixenbaugh
 path: /notes/pdhixenbaugh/10-20-2016/riffle-and-thermsistor.md
 nid: 13629
 uid: 459085
-
 cids: 17844
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/490/original/riffle___thermsistor.png)
 
 # Riffle and Thermsistor
 
-by [pdhixenbaugh](../../../profile/pdhixenbaugh) | October 20, 2016 00:03
+by [pdhixenbaugh](/profile/pdhixenbaugh) | October 20, 2016 00:03
 
-October 20, 2016 00:03 | Tags: [riffle](../tag/riffle), [riffle-beta](../tag/riffle-beta), [activity:riffle](../tag/activity:riffle), [thermsistor](../tag/thermsistor)
+October 20, 2016 00:03 | Tags: [riffle](/tag/riffle), [riffle-beta](/tag/riffle-beta), [activity:riffle](/tag/activity:riffle), [thermsistor](/tag/thermsistor)
 
 ----
 

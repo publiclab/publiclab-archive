@@ -6,16 +6,16 @@ author: sciencetoolbar
 path: /wiki/applications-of-rotating-magnetic-fields-biotechnology-rotating-magnetic-fields-rmf-generator-x-device.md
 nid: 23220
 uid: 513114
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/759/original/rotating_magnetic_field_device.jpg)
 
 # Rotating magnetic field generator against viruses,bacteria, malaria, tumor, autoimmune encephalomyelitis, chronic obstructive pulmonary disease
 
-by [sciencetoolbar](../profile/sciencetoolbar)
+by [sciencetoolbar](/profile/sciencetoolbar)
 
-March 27, 2020 14:29 | Tags: [diy-bio](../tag/diy-bio), [bacteria](../tag/bacteria), [eu](../tag/eu), [location:blurred](../tag/location:blurred), [lat:44](../tag/lat:44), [zoom:6](../tag/zoom:6), [virus](../tag/virus), [lon:26](../tag/lon:26), [place:romania](../tag/place:romania), [rotating-magnetic-fields](../tag/rotating-magnetic-fields), [application-of-rotating-magnetic-fields](../tag/application-of-rotating-magnetic-fields), [physiotherapy-with-rotating-magnetic-fields](../tag/physiotherapy-with-rotating-magnetic-fields), [rotating-magnetic-fields-generator](../tag/rotating-magnetic-fields-generator), [blood-flow-stimulation-magnetic-fields](../tag/blood-flow-stimulation-magnetic-fields), [malaria-in-response-to-rotating-magnetic-fields](../tag/malaria-in-response-to-rotating-magnetic-fields), [rotating-magnetic-fields-biotechnology](../tag/rotating-magnetic-fields-biotechnology), [application-of-rotating-magnetic-field-antimicrobials](../tag/application-of-rotating-magnetic-field-antimicrobials), [reducing-blood-viscosity](../tag/reducing-blood-viscosity), [rotating-magnetic-fields-generator-construction](../tag/rotating-magnetic-fields-generator-construction), [coronavirus-treatment](../tag/coronavirus-treatment), [nerve-activation](../tag/nerve-activation), [muscle-activation](../tag/muscle-activation)
+March 27, 2020 14:29 | Tags: [diy-bio](/tag/diy-bio), [bacteria](/tag/bacteria), [eu](/tag/eu), [location:blurred](/tag/location:blurred), [lat:44](/tag/lat:44), [zoom:6](/tag/zoom:6), [virus](/tag/virus), [lon:26](/tag/lon:26), [place:romania](/tag/place:romania), [rotating-magnetic-fields](/tag/rotating-magnetic-fields), [application-of-rotating-magnetic-fields](/tag/application-of-rotating-magnetic-fields), [physiotherapy-with-rotating-magnetic-fields](/tag/physiotherapy-with-rotating-magnetic-fields), [rotating-magnetic-fields-generator](/tag/rotating-magnetic-fields-generator), [blood-flow-stimulation-magnetic-fields](/tag/blood-flow-stimulation-magnetic-fields), [malaria-in-response-to-rotating-magnetic-fields](/tag/malaria-in-response-to-rotating-magnetic-fields), [rotating-magnetic-fields-biotechnology](/tag/rotating-magnetic-fields-biotechnology), [application-of-rotating-magnetic-field-antimicrobials](/tag/application-of-rotating-magnetic-field-antimicrobials), [reducing-blood-viscosity](/tag/reducing-blood-viscosity), [rotating-magnetic-fields-generator-construction](/tag/rotating-magnetic-fields-generator-construction), [coronavirus-treatment](/tag/coronavirus-treatment), [nerve-activation](/tag/nerve-activation), [muscle-activation](/tag/muscle-activation)
 
 ----
 

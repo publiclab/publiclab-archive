@@ -6,16 +6,16 @@ author: rjstatic
 path: /wiki/fido-the-raspberry-pi-based-temperature-alarm-that-sends-text-messages.md
 nid: 11192
 uid: 174
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/044/original/raspberry-pi-fido_4.jpg)
 
 # Fido - The Raspberry Pi based Temperature Alarm that sends text messages
 
-by [rjstatic](../profile/rjstatic)
+by [rjstatic](/profile/rjstatic)
 
-September 26, 2014 20:31 | Tags: [tool](../tag/tool), [datalogger](../tag/datalogger), [fido](../tag/fido), [data-logging](../tag/data-logging), [method](../tag/method), [electronic-sensors](../tag/electronic-sensors)
+September 26, 2014 20:31 | Tags: [tool](/tag/tool), [datalogger](/tag/datalogger), [fido](/tag/fido), [data-logging](/tag/data-logging), [method](/tag/method), [electronic-sensors](/tag/electronic-sensors)
 
 ----
 

@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/07-20-2015/small-parafoil-kite-for-mobius-camera.md
 nid: 12083
 uid: 77
-
 cids: 12229,12238
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/738/original/IMG_6175.JPG)
 
 # yet more: small parafoil kite for Mobius camera
 
-by [patcoyle](../../../profile/patcoyle) | July 20, 2015 23:00
+by [patcoyle](/profile/patcoyle) | July 20, 2015 23:00
 
-July 20, 2015 23:00 | Tags: [kap](../tag/kap), [infragram](../tag/infragram), [gimp](../tag/gimp), [mobius-action-cam](../tag/mobius-action-cam), [parafoil](../tag/parafoil), [stowaway-delta](../tag/stowaway-delta)
+July 20, 2015 23:00 | Tags: [kap](/tag/kap), [infragram](/tag/infragram), [gimp](/tag/gimp), [mobius-action-cam](/tag/mobius-action-cam), [parafoil](/tag/parafoil), [stowaway-delta](/tag/stowaway-delta)
 
 ----
 

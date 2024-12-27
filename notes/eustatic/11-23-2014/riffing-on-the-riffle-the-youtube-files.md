@@ -6,18 +6,16 @@ author: eustatic
 path: /11-23-2014/riffing-on-the-riffle-the-youtube-files.md
 nid: 11393
 uid: 379
-
 cids: 10844
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/085/original/lauren_invents_things.png)
 
 # Riffing on the Riffle:  the youtube files
 
-by [eustatic](../../../profile/eustatic) | November 23, 2014 23:11
+by [eustatic](/profile/eustatic) | November 23, 2014 23:11
 
-November 23, 2014 23:11 | Tags: [gulf-coast](../tag/gulf-coast), [water](../tag/water), [riffle](../tag/riffle), [depth](../tag/depth), [water-depth](../tag/water-depth)
+November 23, 2014 23:11 | Tags: [gulf-coast](/tag/gulf-coast), [water](/tag/water), [riffle](/tag/riffle), [depth](/tag/depth), [water-depth](/tag/water-depth)
 
 ----
 

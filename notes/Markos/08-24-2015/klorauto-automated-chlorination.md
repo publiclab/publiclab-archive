@@ -6,16 +6,14 @@ author: Markos
 path: /notes/Markos/08-24-2015/klorauto-automated-chlorination.md
 nid: 12164
 uid: 46525
-
 cids: 12432,12480
-
 ---
 
 # Klorauto - Automated Chlorination
 
-by [Markos](../../../profile/Markos) | August 24, 2015 15:26
+by [Markos](/profile/Markos) | August 24, 2015 15:26
 
-August 24, 2015 15:26 | Tags: [potentiostat](../tag/potentiostat), [water](../tag/water), [chlorine](../tag/chlorine)
+August 24, 2015 15:26 | Tags: [potentiostat](/tag/potentiostat), [water](/tag/water), [chlorine](/tag/chlorine)
 
 ----
 

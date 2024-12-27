@@ -6,18 +6,16 @@ author: JSummers
 path: /notes/JSummers/06-03-2018/updating-the-wheetrometer-code-for-running-the-ccd.md
 nid: 16427
 uid: 304279
-
 cids: 19756,19782,19847,19850,19862,19863,19870,19874,19878,19984
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/083/original/CCD1.jpg)
 
 # Updating the WheeTrometer: Code for running the CCD.
 
-by [JSummers](../../../profile/JSummers) | June 03, 2018 18:15
+by [JSummers](/profile/JSummers) | June 03, 2018 18:15
 
-June 03, 2018 18:15 | Tags: [spectrometer](../tag/spectrometer), [spectroscopy](../tag/spectroscopy), [wheetrometer](../tag/wheetrometer)
+June 03, 2018 18:15 | Tags: [spectrometer](/tag/spectrometer), [spectroscopy](/tag/spectroscopy), [wheetrometer](/tag/wheetrometer)
 
 ----
 

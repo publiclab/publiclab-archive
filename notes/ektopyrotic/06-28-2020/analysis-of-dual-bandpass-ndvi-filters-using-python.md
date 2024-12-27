@@ -6,18 +6,16 @@ author: ektopyrotic
 path: /notes/ektopyrotic/06-28-2020/analysis-of-dual-bandpass-ndvi-filters-using-python.md
 nid: 24053
 uid: 699450
-
 cids: 27070,31139
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/987/original/ScientificPlottingPython.png)
 
 # Analysis of Dual-Bandpass NDVI Filters using Python 
 
-by [ektopyrotic](../../../profile/ektopyrotic) | June 28, 2020 00:00
+by [ektopyrotic](/profile/ektopyrotic) | June 28, 2020 00:00
 
-June 28, 2020 00:00 | Tags: [ndvi](../tag/ndvi), [nir](../tag/nir), [infrared](../tag/infrared), [analysis](../tag/analysis), [research](../tag/research), [camera](../tag/camera), [histogram](../tag/histogram), [python](../tag/python), [filters](../tag/filters), [spectrum](../tag/spectrum), [graphs](../tag/graphs), [zoom:6](../tag/zoom:6), [lat:53.349805](../tag/lat:53.349805), [lon:-6.260309](../tag/lon:-6.260309), [plotting](../tag/plotting), [scientific](../tag/scientific)
+June 28, 2020 00:00 | Tags: [ndvi](/tag/ndvi), [nir](/tag/nir), [infrared](/tag/infrared), [analysis](/tag/analysis), [research](/tag/research), [camera](/tag/camera), [histogram](/tag/histogram), [python](/tag/python), [filters](/tag/filters), [spectrum](/tag/spectrum), [graphs](/tag/graphs), [zoom:6](/tag/zoom:6), [lat:53.349805](/tag/lat:53.349805), [lon:-6.260309](/tag/lon:-6.260309), [plotting](/tag/plotting), [scientific](/tag/scientific)
 
 ----
 

@@ -6,16 +6,16 @@ author: warren
 path: /wiki/organizing.md
 nid: 19816
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/198/original/Appalachia_Barnraising_2017.jpeg)
 
 # Organizing
 
-by [bhamster](../profile/bhamster), [warren](../profile/warren)
+by [bhamster](/profile/bhamster), [warren](/profile/warren)
 
-June 23, 2019 01:13 | Tags: [organizing](../tag/organizing), [community-organizing](../tag/community-organizing), [youth-organizing](../tag/youth-organizing)
+June 23, 2019 01:13 | Tags: [organizing](/tag/organizing), [community-organizing](/tag/community-organizing), [youth-organizing](/tag/youth-organizing)
 
 ----
 
@@ -146,7 +146,7 @@ Methods published on Public Lab and tagged with `organizing` will appear on the 
 
 Activities on Public Lab that have been tagged with `activity:organizing` will appear here
 
-[organizing](../../tag/activity:organizing)
+[organizing](/tag/activity:organizing)
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
 
@@ -160,7 +160,7 @@ Activities on Public Lab that have been tagged with `activity:organizing` will a
 
 Questions tagged with `question:organizing` will appear here
 
-[organizing](../../tag/question:organizing)
+[organizing](/tag/question:organizing)
 
 <hr>
 

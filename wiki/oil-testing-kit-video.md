@@ -6,12 +6,12 @@ author: warren
 path: /wiki/oil-testing-kit-video.md
 nid: 10215
 uid: 1
-
+cids: 
 ---
 
 # Oil Testing Kit Video
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 March 21, 2014 19:44 | Tags: 
 

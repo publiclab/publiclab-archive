@@ -6,12 +6,12 @@ author: sara
 path: /wiki/h2s-test-experimental-protocol.md
 nid: 2591
 uid: 8
-
+cids: 
 ---
 
 # H2S test experimental protocol
 
-by [Shannon](../profile/Shannon), [sara](../profile/sara)
+by [Shannon](/profile/Shannon), [sara](/profile/sara)
 
 June 21, 2012 00:30 | Tags: 
 

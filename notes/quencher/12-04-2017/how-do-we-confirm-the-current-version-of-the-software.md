@@ -6,16 +6,14 @@ author: quencher
 path: /notes/quencher/12-04-2017/how-do-we-confirm-the-current-version-of-the-software.md
 nid: 15295
 uid: 513456
-
 cids: 17875,17876,17888,22776
-
 ---
 
 # How do we confirm the current version of the software?
 
-by [quencher](../../../profile/quencher) | December 04, 2017 16:45
+by [quencher](/profile/quencher) | December 04, 2017 16:45
 
-December 04, 2017 16:45 | Tags: [spectrometry](../tag/spectrometry), [spectral-workbench](../tag/spectral-workbench), [question:spectral-workbench](../tag/question:spectral-workbench)
+December 04, 2017 16:45 | Tags: [spectrometry](/tag/spectrometry), [spectral-workbench](/tag/spectral-workbench), [question:spectral-workbench](/tag/question:spectral-workbench)
 
 ----
 

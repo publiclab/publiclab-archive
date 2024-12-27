@@ -6,14 +6,14 @@ author: gonzoearth
 path: /wiki/calculating-pixel-resolution.md
 nid: 298
 uid: 12
-
+cids: 
 ---
 
 # calculating pixel resolution
 
-by [gonzoearth](../profile/gonzoearth)
+by [gonzoearth](/profile/gonzoearth)
 
-May 25, 2011 20:22 | Tags: [curriculum](../tag/curriculum), [gis](../tag/gis), [resolution](../tag/resolution), [parent:mapping-curriculum](../tag/parent:mapping-curriculum), [mapping-curriculum](../tag/mapping-curriculum), [pixel](../tag/pixel), [scale](../tag/scale)
+May 25, 2011 20:22 | Tags: [curriculum](/tag/curriculum), [gis](/tag/gis), [resolution](/tag/resolution), [parent:mapping-curriculum](/tag/parent:mapping-curriculum), [mapping-curriculum](/tag/mapping-curriculum), [pixel](/tag/pixel), [scale](/tag/scale)
 
 ----
 

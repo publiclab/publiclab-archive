@@ -6,14 +6,14 @@ author: warren
 path: /wiki/light-painter.md
 nid: 19079
 uid: 1
-
+cids: 
 ---
 
 # Light Painter
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-April 16, 2019 16:46 | Tags: [thermal-flashlight](../tag/thermal-flashlight), [parent:thermal-photography](../tag/parent:thermal-photography)
+April 16, 2019 16:46 | Tags: [thermal-flashlight](/tag/thermal-flashlight), [parent:thermal-photography](/tag/parent:thermal-photography)
 
 ----
 

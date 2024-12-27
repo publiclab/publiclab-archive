@@ -6,18 +6,16 @@ author: geography76
 path: /notes/geography76/5-1-2013/balloon-mapping-workshop-during-philly-tech-week-0.md
 nid: 7142
 uid: 176
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/196/original/DanaBalloon.jpg)
 
 # Balloon Mapping Workshop during Philly Tech Week
 
-by [geography76](../../../profile/geography76) | May 01, 2013 10:14
+by [geography76](/profile/geography76) | May 01, 2013 10:14
 
-May 01, 2013 10:14 | Tags: [first-time-poster](../tag/first-time-poster)
+May 01, 2013 10:14 | Tags: [first-time-poster](/tag/first-time-poster)
 
 ----
 

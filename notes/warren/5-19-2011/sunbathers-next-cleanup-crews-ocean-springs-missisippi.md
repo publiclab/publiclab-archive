@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/5-19-2011/sunbathers-next-cleanup-crews-ocean-springs-missisippi.md
 nid: 252
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2011-05-19 at 11.20.08 AM.png)
 
 # Sunbathers next to cleanup crews in Ocean Springs, Missisippi
 
-by [warren](../../../profile/warren) | May 19, 2011 15:34
+by [warren](/profile/warren) | May 19, 2011 15:34
 
-May 19, 2011 15:34 | Tags: [gulf-coast](../tag/gulf-coast), [mississippi](../tag/mississippi), [ocean-springs](../tag/ocean-springs)
+May 19, 2011 15:34 | Tags: [gulf-coast](/tag/gulf-coast), [mississippi](/tag/mississippi), [ocean-springs](/tag/ocean-springs)
 
 ----
 

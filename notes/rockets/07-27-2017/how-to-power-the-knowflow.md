@@ -6,16 +6,14 @@ author: rockets
 path: /notes/rockets/07-27-2017/how-to-power-the-knowflow.md
 nid: 14689
 uid: 492583
-
 cids: 
-
 ---
 
 # How to power the KnowFlow?
 
-by [rockets](../../../profile/rockets) | July 27, 2017 03:40
+by [rockets](/profile/rockets) | July 27, 2017 03:40
 
-July 27, 2017 03:40 | Tags: [power](../tag/power), [data-logging](../tag/data-logging), [knowflow](../tag/knowflow), [question:knowflow](../tag/question:knowflow), [question:data-logging-power](../tag/question:data-logging-power)
+July 27, 2017 03:40 | Tags: [power](/tag/power), [data-logging](/tag/data-logging), [knowflow](/tag/knowflow), [question:knowflow](/tag/question:knowflow), [question:data-logging-power](/tag/question:data-logging-power)
 
 ----
 

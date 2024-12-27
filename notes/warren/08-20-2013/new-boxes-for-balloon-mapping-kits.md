@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/08-20-2013/new-boxes-for-balloon-mapping-kits.md
 nid: 9042
 uid: 1
-
 cids: 6703,6733
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/254/original/IMG_0198.JPG)
 
 # New boxes for balloon mapping kits
 
-by [warren](../../../profile/warren) | August 20, 2013 19:32
+by [warren](/profile/warren) | August 20, 2013 19:32
 
-August 20, 2013 19:32 | Tags: [balloon-mapping](../tag/balloon-mapping), [kits](../tag/kits), [balloon-mapping-kit](../tag/balloon-mapping-kit), [packaging](../tag/packaging), [box](../tag/box)
+August 20, 2013 19:32 | Tags: [balloon-mapping](/tag/balloon-mapping), [kits](/tag/kits), [balloon-mapping-kit](/tag/balloon-mapping-kit), [packaging](/tag/packaging), [box](/tag/box)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/10-07-2015/week-2-recap-from-oil-testing-kit-beta-program-assembly-and-calibration.md
 nid: 12280
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/871/original/Screenshot_2015-10-07_at_2.05.57_PM.png)
 
 # Week 2: recap from Oil Testing Kit Beta Program: Assembly and Calibration
 
-by [warren](../../../profile/warren) | October 07, 2015 18:09
+by [warren](/profile/warren) | October 07, 2015 18:09
 
-October 07, 2015 18:09 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [oil](../tag/oil), [fluorescence](../tag/fluorescence), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta), [response:12257](../tag/response:12257)
+October 07, 2015 18:09 | Tags: [spectrometer](/tag/spectrometer), [calibration](/tag/calibration), [oil](/tag/oil), [fluorescence](/tag/fluorescence), [oil-testing-kit](/tag/oil-testing-kit), [oil-testing-kit-beta](/tag/oil-testing-kit-beta), [response:12257](/tag/response:12257)
 
 ----
 

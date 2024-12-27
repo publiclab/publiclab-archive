@@ -6,14 +6,14 @@ author: warren
 path: /wiki/ph.md
 nid: 15307
 uid: 1
-
+cids: 
 ---
 
 # pH
 
-by [warren](../profile/warren), [stevie](../profile/stevie)
+by [warren](/profile/warren), [stevie](/profile/stevie)
 
-December 05, 2017 20:49 | Tags: [sensors](../tag/sensors), [water-quality](../tag/water-quality), [water](../tag/water), [ph](../tag/ph), [parent:water-quality](../tag/parent:water-quality), [mine-water-ph](../tag/mine-water-ph)
+December 05, 2017 20:49 | Tags: [sensors](/tag/sensors), [water-quality](/tag/water-quality), [water](/tag/water), [ph](/tag/ph), [parent:water-quality](/tag/parent:water-quality), [mine-water-ph](/tag/mine-water-ph)
 
 ----
 
@@ -23,14 +23,14 @@ December 05, 2017 20:49 | Tags: [sensors](../tag/sensors), [water-quality](../ta
 
 ## Questions
 
-[ph](../../tag/question:ph)
+[ph](/tag/question:ph)
 
 ## Activities
 
-[ph](../../tag/activity:ph)
+[ph](/tag/activity:ph)
 
 ****
 
 ## Updates
 
-[ph](../../tag/ph)
+[ph](/tag/ph)

@@ -6,14 +6,14 @@ author: kamau19
 path: /wiki/transit-violations.md
 nid: 18939
 uid: 571595
-
+cids: 
 ---
 
 # Observable transportation violations related to frac sand mining
 
-by [stevie](../profile/stevie), [kamau19](../profile/kamau19)
+by [stevie](/profile/stevie), [kamau19](/profile/kamau19)
 
-April 02, 2019 20:02 | Tags: [reporting](../tag/reporting), [wisconsin](../tag/wisconsin), [transportation](../tag/transportation), [frac-sand](../tag/frac-sand), [midwest](../tag/midwest), [traffic](../tag/traffic), [frac-sand-reporting](../tag/frac-sand-reporting), [sentinel](../tag/sentinel), [local-reporting](../tag/local-reporting), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program)
+April 02, 2019 20:02 | Tags: [reporting](/tag/reporting), [wisconsin](/tag/wisconsin), [transportation](/tag/transportation), [frac-sand](/tag/frac-sand), [midwest](/tag/midwest), [traffic](/tag/traffic), [frac-sand-reporting](/tag/frac-sand-reporting), [sentinel](/tag/sentinel), [local-reporting](/tag/local-reporting), [parent:the-sand-sentinel-program](/tag/parent:the-sand-sentinel-program)
 
 ----
 

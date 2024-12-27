@@ -6,16 +6,14 @@ author: MSGonzales
 path: /notes/msgonzales/5-22-2012/sample-images-fieldtest-photostrip-h2s-dection-method.md
 nid: 2168
 uid: 1169
-
 cids: 765,766,777,840,841
-
 ---
 
 # Sample Images from Fieldtest of Photostrip H2S Dection Method
 
-by [MSGonzales](../../../profile/MSGonzales) | May 22, 2012 18:17
+by [MSGonzales](/profile/MSGonzales) | May 22, 2012 18:17
 
-May 22, 2012 18:17 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper)
+May 22, 2012 18:17 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [h2s-photopaper](/tag/h2s-photopaper)
 
 ----
 

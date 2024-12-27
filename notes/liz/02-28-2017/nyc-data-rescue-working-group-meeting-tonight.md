@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/02-28-2017/nyc-data-rescue-working-group-meeting-tonight.md
 nid: 13970
 uid: 7
-
 cids: 16264
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/679/original/data_rescue_nyc.jpg)
 
 # NYC Data Rescue working group meeting tonight
 
-by [liz](../../../profile/liz) | February 28, 2017 17:14
+by [liz](/profile/liz) | February 28, 2017 17:14
 
-February 28, 2017 17:14 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event), [nyc](../tag/nyc)
+February 28, 2017 17:14 | Tags: [new-york-city](/tag/new-york-city), [event](/tag/event), [nyc](/tag/nyc)
 
 ----
 

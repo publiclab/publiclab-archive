@@ -6,16 +6,14 @@ author: Pera
 path: /notes/Pera/04-10-2014/aerial-mapping-workshop-in-washington-dc-monday-april-14.md
 nid: 10290
 uid: 279527
-
 cids: 
-
 ---
 
 # Aerial mapping workshop in Washington DC - Monday, April 14!
 
-by [Pera](../../../profile/Pera) | April 10, 2014 15:01
+by [Pera](/profile/Pera) | April 10, 2014 15:01
 
-April 10, 2014 15:01 | Tags: [dc-baltimore](../tag/dc-baltimore), [first-time-poster](../tag/first-time-poster)
+April 10, 2014 15:01 | Tags: [dc-baltimore](/tag/dc-baltimore), [first-time-poster](/tag/first-time-poster)
 
 ----
 

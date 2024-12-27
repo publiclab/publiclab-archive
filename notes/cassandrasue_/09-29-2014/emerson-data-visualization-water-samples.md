@@ -6,18 +6,16 @@ author: cassandrasue_
 path: /notes/cassandrasue_/09-29-2014/emerson-data-visualization-water-samples.md
 nid: 11198
 uid: 427890
-
 cids: 10461
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/058/original/IMG_0928.JPG)
 
 # Emerson Data Visualization Water Samples 
 
-by [cassandrasue_](../../../profile/cassandrasue_) | September 29, 2014 04:27
+by [cassandrasue_](/profile/cassandrasue_) | September 29, 2014 04:27
 
-September 29, 2014 04:27 | Tags: [water-quality](../tag/water-quality), [first-time-poster](../tag/first-time-poster)
+September 29, 2014 04:27 | Tags: [water-quality](/tag/water-quality), [first-time-poster](/tag/first-time-poster)
 
 ----
 

@@ -6,18 +6,16 @@ author: nearsys
 path: /notes/nearsys/08-28-2017/near-infrared-inage-of-the-moon-s-shadow.md
 nid: 14796
 uid: 506331
-
 cids: 17272,17274
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/464/original/IMAG2160.JPG)
 
 # Near Infrared Image of the Moon's Shadow
 
-by [nearsys](../../../profile/nearsys) | August 28, 2017 23:44
+by [nearsys](/profile/nearsys) | August 28, 2017 23:44
 
-August 28, 2017 23:44 | Tags: [infrared](../tag/infrared), [mobius](../tag/mobius), [solar](../tag/solar), [space](../tag/space), [near](../tag/near), [eclipse](../tag/eclipse), [shadow](../tag/shadow)
+August 28, 2017 23:44 | Tags: [infrared](/tag/infrared), [mobius](/tag/mobius), [solar](/tag/solar), [space](/tag/space), [near](/tag/near), [eclipse](/tag/eclipse), [shadow](/tag/shadow)
 
 ----
 

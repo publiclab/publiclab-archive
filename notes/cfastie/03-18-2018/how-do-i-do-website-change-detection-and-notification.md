@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/03-18-2018/how-do-i-do-website-change-detection-and-notification.md
 nid: 15972
 uid: 554
-
 cids: 19028,19062,19144,19145,19146,19190,19248,23015,23021,29309,29319,30789,30790
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/096/original/mosquitospraying.jpg)
 
 # How do I do website change detection and notification?
 
-by [cfastie](../../../profile/cfastie) | March 19, 2018 12:00
+by [cfastie](/profile/cfastie) | March 19, 2018 12:00
 
-March 19, 2018 12:00 | Tags: [pesticides](../tag/pesticides), [alerts](../tag/alerts), [answered](../tag/answered), [question:alerts](../tag/question:alerts), [question:pesticides](../tag/question:pesticides)
+March 19, 2018 12:00 | Tags: [pesticides](/tag/pesticides), [alerts](/tag/alerts), [answered](/tag/answered), [question:alerts](/tag/question:alerts), [question:pesticides](/tag/question:pesticides)
 
 ----
 

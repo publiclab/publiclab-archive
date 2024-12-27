@@ -6,14 +6,14 @@ author: liz
 path: /wiki/community-development.md
 nid: 11292
 uid: 7
-
+cids: 
 ---
 
 # community development
 
-by [liz](../profile/liz), [sashadev-sky](../profile/sashadev-sky), [ananyo2012](../profile/ananyo2012)
+by [liz](/profile/liz), [sashadev-sky](/profile/sashadev-sky), [ananyo2012](/profile/ananyo2012)
 
-October 22, 2014 20:03 | Tags: [community](../tag/community), [website](../tag/website), [wintercamp](../tag/wintercamp), [history](../tag/history), [irc](../tag/irc)
+October 22, 2014 20:03 | Tags: [community](/tag/community), [website](/tag/website), [wintercamp](/tag/wintercamp), [history](/tag/history), [irc](/tag/irc)
 
 ----
 

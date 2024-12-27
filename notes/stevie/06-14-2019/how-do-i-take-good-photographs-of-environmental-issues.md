@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/06-14-2019/how-do-i-take-good-photographs-of-environmental-issues.md
 nid: 19702
 uid: 422561
-
 cids: 24796
-
 ---
 
 # How do I take good photographs of environmental issues?
 
-by [stevie](../../../profile/stevie) | June 14, 2019 18:47
+by [stevie](/profile/stevie) | June 14, 2019 18:47
 
-June 14, 2019 18:47 | Tags: [question:permit](../tag/question:permit), [sentinel](../tag/sentinel), [question:sentinel](../tag/question:sentinel), [question:reporting](../tag/question:reporting), [faq-balloon-mapping](../tag/faq-balloon-mapping)
+June 14, 2019 18:47 | Tags: [question:permit](/tag/question:permit), [sentinel](/tag/sentinel), [question:sentinel](/tag/question:sentinel), [question:reporting](/tag/question:reporting), [faq-balloon-mapping](/tag/faq-balloon-mapping)
 
 ----
 

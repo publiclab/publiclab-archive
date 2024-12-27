@@ -6,16 +6,16 @@ author: warren
 path: /wiki/mapknitter-cloud-exporter.md
 nid: 23345
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/085/original/Screen_Shot_2021-11-17_at_12.55.41_PM.png)
 
 # MapKnitter Cloud Exporter
 
-by [warren](../profile/warren), [liz](../profile/liz)
+by [warren](/profile/warren), [liz](/profile/liz)
 
-April 08, 2020 23:30 | Tags: [mapknitter](../tag/mapknitter), [mapknitter-development](../tag/mapknitter-development), [parent:mapknitter](../tag/parent:mapknitter), [location:blurred](../tag/location:blurred), [zoom:15](../tag/zoom:15), [lat:57.11](../tag/lat:57.11), [lon:-2.23](../tag/lon:-2.23)
+April 08, 2020 23:30 | Tags: [mapknitter](/tag/mapknitter), [mapknitter-development](/tag/mapknitter-development), [parent:mapknitter](/tag/parent:mapknitter), [location:blurred](/tag/location:blurred), [zoom:15](/tag/zoom:15), [lat:57.11](/tag/lat:57.11), [lon:-2.23](/tag/lon:-2.23)
 
 ----
 

@@ -6,14 +6,14 @@ author: liz
 path: /wiki/italia.md
 nid: 11001
 uid: 7
-
+cids: 
 ---
 
 # italia
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-July 31, 2014 18:16 | Tags: [italy](../tag/italy), [eu](../tag/eu), [italia](../tag/italia)
+July 31, 2014 18:16 | Tags: [italy](/tag/italy), [eu](/tag/eu), [italia](/tag/italia)
 
 ----
 

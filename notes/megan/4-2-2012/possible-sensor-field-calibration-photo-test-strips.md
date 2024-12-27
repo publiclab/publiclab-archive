@@ -6,18 +6,16 @@ author: megan
 path: /notes/megan/4-2-2012/possible-sensor-field-calibration-photo-test-strips.md
 nid: 1612
 uid: 775
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/H2S Monitoring.JPG)
 
 # Possible sensor for field calibration of photo test strips
 
-by [megan](../../../profile/megan) | April 03, 2012 00:33
+by [megan](/profile/megan) | April 03, 2012 00:33
 
-April 03, 2012 00:33 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-detector](../tag/h2s-detector), [hydrogen-sulfide-detection](../tag/hydrogen-sulfide-detection)
+April 03, 2012 00:33 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [h2s-detector](/tag/h2s-detector), [hydrogen-sulfide-detection](/tag/hydrogen-sulfide-detection)
 
 ----
 

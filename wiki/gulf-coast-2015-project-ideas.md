@@ -6,16 +6,16 @@ author: stevie
 path: /wiki/gulf-coast-2015-project-ideas.md
 nid: 11514
 uid: 422561
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/579/original/20141116_101542.jpg)
 
 # Gulf Coast 2015 Project Ideas
 
-by [stevie](../profile/stevie), [pixiepickens](../profile/pixiepickens)
+by [stevie](/profile/stevie), [pixiepickens](/profile/pixiepickens)
 
-January 09, 2015 17:57 | Tags: [gulf-coast](../tag/gulf-coast)
+January 09, 2015 17:57 | Tags: [gulf-coast](/tag/gulf-coast)
 
 ----
 

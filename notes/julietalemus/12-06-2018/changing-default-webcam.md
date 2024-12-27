@@ -6,16 +6,14 @@ author: julietalemus
 path: /notes/julietalemus/12-06-2018/changing-default-webcam.md
 nid: 17819
 uid: 562519
-
 cids: 21466,23298
-
 ---
 
 # changing default webcam 
 
-by [julietalemus](../../../profile/julietalemus) | December 06, 2018 07:12
+by [julietalemus](/profile/julietalemus) | December 06, 2018 07:12
 
-December 06, 2018 07:12 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [first-time-poster](../tag/first-time-poster)
+December 06, 2018 07:12 | Tags: [question:spectral-workbench](/tag/question:spectral-workbench), [first-time-poster](/tag/first-time-poster)
 
 ----
 

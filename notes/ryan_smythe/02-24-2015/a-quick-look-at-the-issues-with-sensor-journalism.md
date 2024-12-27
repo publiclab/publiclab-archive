@@ -6,18 +6,16 @@ author: ryan_smythe
 path: /notes/ryan_smythe/02-24-2015/a-quick-look-at-the-issues-with-sensor-journalism.md
 nid: 11632
 uid: 434200
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/069/original/Screen_Shot_2015-02-23_at_7.38.00_PM.png)
 
 # A Quick Look At The Issues With Sensor Journalism
 
-by [ryan_smythe](../../../profile/ryan_smythe) | February 24, 2015 00:37
+by [ryan_smythe](/profile/ryan_smythe) | February 24, 2015 00:37
 
-February 24, 2015 00:37 | Tags: [sensor-journalism](../tag/sensor-journalism)
+February 24, 2015 00:37 | Tags: [sensor-journalism](/tag/sensor-journalism)
 
 ----
 

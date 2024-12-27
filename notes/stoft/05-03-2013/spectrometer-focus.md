@@ -6,18 +6,16 @@ author: stoft
 path: /notes/stoft/05-03-2013/spectrometer-focus.md
 nid: 7226
 uid: 54025
-
 cids: 4612,4614,13444,13445,13519,13520,13521,13522,13524,13525,13526,13527,13528,13529,13530,13531
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/166/original/ProtoBench.jpg)
 
 # Spectrometer focus
 
-by [stoft](../../../profile/stoft) | May 03, 2013 20:02
+by [stoft](/profile/stoft) | May 03, 2013 20:02
 
-May 03, 2013 20:02 | Tags: [spectrometer](../tag/spectrometer), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [slit](../tag/slit), [improvements](../tag/improvements), [focus](../tag/focus), [first-time-poster](../tag/first-time-poster)
+May 03, 2013 20:02 | Tags: [spectrometer](/tag/spectrometer), [desktop-spectrometry-kit](/tag/desktop-spectrometry-kit), [slit](/tag/slit), [improvements](/tag/improvements), [focus](/tag/focus), [first-time-poster](/tag/first-time-poster)
 
 ----
 

@@ -6,18 +6,16 @@ author: megan
 path: /notes/megan/4-2-2012/summary-lionel-milberger-s-copper-test.md
 nid: 1613
 uid: 775
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/copper pipe test.jpg)
 
 # Summary of Lionel Milberger’s Copper Test
 
-by [megan](../../../profile/megan) | April 03, 2012 02:24
+by [megan](/profile/megan) | April 03, 2012 02:24
 
-April 03, 2012 02:24 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s-copper-pipe](../tag/h2s-copper-pipe), [h2s-copper-pipe-background](../tag/h2s-copper-pipe-background)
+April 03, 2012 02:24 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s-copper-pipe](/tag/h2s-copper-pipe), [h2s-copper-pipe-background](/tag/h2s-copper-pipe-background)
 
 ----
 

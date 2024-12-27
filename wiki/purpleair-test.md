@@ -6,12 +6,12 @@ author: warren
 path: /wiki/purpleair-test.md
 nid: 22427
 uid: 1
-
+cids: 
 ---
 
 # PurpleAir Test
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 January 29, 2020 15:32 | Tags: 
 

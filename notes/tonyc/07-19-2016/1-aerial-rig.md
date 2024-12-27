@@ -6,18 +6,16 @@ author: tonyc
 path: /notes/tonyc/07-19-2016/1-aerial-rig.md
 nid: 13300
 uid: 447491
-
 cids: 14994
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/143/original/IMG_5974.JPG)
 
 # $1 Aerial Rig
 
-by [tonyc](../../../profile/tonyc) | July 19, 2016 19:25
+by [tonyc](/profile/tonyc) | July 19, 2016 19:25
 
-July 19, 2016 19:25 | Tags: [photography](../tag/photography), [kite-aerial-photography](../tag/kite-aerial-photography), [kite](../tag/kite), [mapping](../tag/mapping), [balloon](../tag/balloon), [aerial](../tag/aerial), [pendulum-rig](../tag/pendulum-rig), [chopsticks](../tag/chopsticks)
+July 19, 2016 19:25 | Tags: [photography](/tag/photography), [kite-aerial-photography](/tag/kite-aerial-photography), [kite](/tag/kite), [mapping](/tag/mapping), [balloon](/tag/balloon), [aerial](/tag/aerial), [pendulum-rig](/tag/pendulum-rig), [chopsticks](/tag/chopsticks)
 
 ----
 

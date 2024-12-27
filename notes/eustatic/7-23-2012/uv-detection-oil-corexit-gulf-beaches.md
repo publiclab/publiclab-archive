@@ -6,18 +6,16 @@ author: eustatic
 path: /7-23-2012/uv-detection-oil-corexit-gulf-beaches.md
 nid: 2931
 uid: 379
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/GC-Sturdivant-2.jpg)
 
 # UV detection of oil / corexit of Gulf beaches
 
-by [eustatic](../../../profile/eustatic) | July 23, 2012 19:46
+by [eustatic](/profile/eustatic) | July 23, 2012 19:46
 
-July 23, 2012 19:46 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [uv](../tag/uv), [oil](../tag/oil), [fluorescence](../tag/fluorescence)
+July 23, 2012 19:46 | Tags: [gulf-coast](/tag/gulf-coast), [spectrometer](/tag/spectrometer), [uv](/tag/uv), [oil](/tag/oil), [fluorescence](/tag/fluorescence)
 
 ----
 

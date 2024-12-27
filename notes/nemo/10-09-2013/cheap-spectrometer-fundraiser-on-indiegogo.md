@@ -6,18 +6,16 @@ author: nemo
 path: /notes/nemo/10-09-2013/cheap-spectrometer-fundraiser-on-indiegogo.md
 nid: 9422
 uid: 39668
-
 cids: 7199,7552,7582,7596,8242
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/814/original/function1_v3.jpg)
 
 # Cheap spectrometer fundraiser on indiegogo
 
-by [nemo](../../../profile/nemo) | October 09, 2013 00:14
+by [nemo](/profile/nemo) | October 09, 2013 00:14
 
-October 09, 2013 00:14 | Tags: [spectrometer](../tag/spectrometer)
+October 09, 2013 00:14 | Tags: [spectrometer](/tag/spectrometer)
 
 ----
 

@@ -6,12 +6,12 @@ author: liz
 path: /wiki/sandbox-advocacy.md
 nid: 24850
 uid: 7
-
+cids: 
 ---
 
 # sandbox-advocacy
 
-by [bhamster](../profile/bhamster), [liz](../profile/liz)
+by [bhamster](/profile/bhamster), [liz](/profile/liz)
 
 October 28, 2020 20:05 | Tags: 
 
@@ -119,7 +119,7 @@ _<small>Image: from [this post](https://publiclab.org/notes/a1ahna/11-13-2017/lo
 
 Activities on Public Lab that have been tagged with `activity:advocacy` will appear here
 
-[grid:activity:advocacy](../../tag/grid:activity:advocacy)
+[grid:activity:advocacy](/tag/grid:activity:advocacy)
 
 <br>
 
@@ -139,7 +139,7 @@ You can find all research notes on Public Lab that have been tagged with `advoca
 
 Questions tagged with `question:advocacy` will appear here
 
-[advocacy](../../tag/question:advocacy)
+[advocacy](/tag/question:advocacy)
 
 <hr>
 

@@ -6,14 +6,14 @@ author: cfastie
 path: /wiki/ndvi-plots-ir-kit.md
 nid: 1781
 uid: 554
-
+cids: 
 ---
 
 # NDVI from the PLOTS IR camera kit
 
-by [cfastie](../profile/cfastie)
+by [cfastie](/profile/cfastie)
 
-April 25, 2012 17:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [parent:infragram](../tag/parent:infragram), [multispectral-imaging](../tag/multispectral-imaging)
+April 25, 2012 17:33 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [nrg](/tag/nrg), [ndvi](/tag/ndvi), [infrared](/tag/infrared), [infragram](/tag/infragram), [infrablue](/tag/infrablue), [parent:infragram](/tag/parent:infragram), [multispectral-imaging](/tag/multispectral-imaging)
 
 ----
 

@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/12-3-2012/spectrometer-testing.md
 nid: 5098
 uid: 554
-
 cids: 2676,2681,2695,2699,2700,2702,2704,2705,2706,2707,16445
-
 ---
 
 ![](https://publiclab.org/sites/default/files/spectrometer-20121203-2041ps.jpg)
 
 # Spectrometer testing
 
-by [cfastie](../../../profile/cfastie) | December 04, 2012 04:41
+by [cfastie](/profile/cfastie) | December 04, 2012 04:41
 
-December 04, 2012 04:41 | Tags: [spectrometer](../tag/spectrometer), [grating](../tag/grating), [diffraction-grating](../tag/diffraction-grating), [cfl](../tag/cfl), [compact-fluorescent](../tag/compact-fluorescent), [entrance-slit](../tag/entrance-slit)
+December 04, 2012 04:41 | Tags: [spectrometer](/tag/spectrometer), [grating](/tag/grating), [diffraction-grating](/tag/diffraction-grating), [cfl](/tag/cfl), [compact-fluorescent](/tag/compact-fluorescent), [entrance-slit](/tag/entrance-slit)
 
 ----
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/mapknitter3.md
 nid: 23551
 uid: 1
-
+cids: 
 ---
 
 # mapknitter3
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-May 05, 2020 22:28 | Tags: [redirect:23549](../tag/redirect:23549)
+May 05, 2020 22:28 | Tags: [redirect:23549](/tag/redirect:23549)
 
 ----
 

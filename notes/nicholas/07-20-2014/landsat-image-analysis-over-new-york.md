@@ -6,18 +6,16 @@ author: nicholas
 path: /notes/nicholas/07-20-2014/landsat-image-analysis-over-new-york.md
 nid: 10938
 uid: 53894
-
 cids: 9928,9934,9935,9938,9942
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/403/original/Screen_Shot_2014-07-15_at_11.33.56.png)
 
 # Landsat Image Analysis Over New York
 
-by [nicholas](../../../profile/nicholas) | July 20, 2014 15:25
+by [nicholas](/profile/nicholas) | July 20, 2014 15:25
 
-July 20, 2014 15:25 | Tags: [new-york-city](../tag/new-york-city), [remote-sensing](../tag/remote-sensing), [thermal-imaging](../tag/thermal-imaging), [landsat](../tag/landsat), [thermal](../tag/thermal), [satellite-imagery](../tag/satellite-imagery), [image-analysis](../tag/image-analysis), [activity:thermal-imaging](../tag/activity:thermal-imaging), [activity:remote-sensing](../tag/activity:remote-sensing), [replication:10690](../tag/replication:10690)
+July 20, 2014 15:25 | Tags: [new-york-city](/tag/new-york-city), [remote-sensing](/tag/remote-sensing), [thermal-imaging](/tag/thermal-imaging), [landsat](/tag/landsat), [thermal](/tag/thermal), [satellite-imagery](/tag/satellite-imagery), [image-analysis](/tag/image-analysis), [activity:thermal-imaging](/tag/activity:thermal-imaging), [activity:remote-sensing](/tag/activity:remote-sensing), [replication:10690](/tag/replication:10690)
 
 ----
 

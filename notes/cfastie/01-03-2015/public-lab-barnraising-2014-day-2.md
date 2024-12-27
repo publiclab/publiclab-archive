@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/01-03-2015/public-lab-barnraising-2014-day-2.md
 nid: 11505
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/559/original/Barn2014_619.jpg)
 
 # Public Lab Barnraising 2014, day 2
 
-by [cfastie](../../../profile/cfastie) | January 03, 2015 23:37
+by [cfastie](/profile/cfastie) | January 03, 2015 23:37
 
-January 03, 2015 23:37 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [louisiana](../tag/louisiana), [cocodrie](../tag/cocodrie), [barnraising](../tag/barnraising), [lumcon](../tag/lumcon), [barnraising2014](../tag/barnraising2014), [response:11504](../tag/response:11504)
+January 03, 2015 23:37 | Tags: [gulf-coast](/tag/gulf-coast), [kite-mapping](/tag/kite-mapping), [louisiana](/tag/louisiana), [cocodrie](/tag/cocodrie), [barnraising](/tag/barnraising), [lumcon](/tag/lumcon), [barnraising2014](/tag/barnraising2014), [response:11504](/tag/response:11504)
 
 ----
 

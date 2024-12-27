@@ -6,18 +6,16 @@ author: rjstatic
 path: /07-20-2014/is-our-fridge-too-warm-a-fido-now-sends-us-text-message-alerts.md
 nid: 10712
 uid: 174
-
 cids: 9558,9559,11814
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/401/original/negative-temperatures-on-fido.png)
 
 # Is our fridge too warm? A Fido now sends us text message alerts.
 
-by [rjstatic](../../../profile/rjstatic) | July 20, 2014 02:58
+by [rjstatic](/profile/rjstatic) | July 20, 2014 02:58
 
-July 20, 2014 02:58 | Tags: [raspberry-pi](../tag/raspberry-pi), [open-ground](../tag/open-ground), [fido](../tag/fido), [termperature](../tag/termperature), [alerts](../tag/alerts), [open-pipe-kit](../tag/open-pipe-kit)
+July 20, 2014 02:58 | Tags: [raspberry-pi](/tag/raspberry-pi), [open-ground](/tag/open-ground), [fido](/tag/fido), [termperature](/tag/termperature), [alerts](/tag/alerts), [open-pipe-kit](/tag/open-pipe-kit)
 
 ----
 

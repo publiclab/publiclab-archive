@@ -6,14 +6,14 @@ author: ToF
 path: /wiki/diffraction-gratings.md
 nid: 3884
 uid: 42340
-
+cids: 
 ---
 
 # Diffraction gratings
 
-by [ToF](../profile/ToF)
+by [ToF](/profile/ToF)
 
-September 19, 2012 08:51 | Tags: [diffraction-grating](../tag/diffraction-grating), [cd](../tag/cd), [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer), [dvd](../tag/dvd), [blu-ray](../tag/blu-ray)
+September 19, 2012 08:51 | Tags: [diffraction-grating](/tag/diffraction-grating), [cd](/tag/cd), [fold-up-mini-spectrometer](/tag/fold-up-mini-spectrometer), [dvd](/tag/dvd), [blu-ray](/tag/blu-ray)
 
 ----
 

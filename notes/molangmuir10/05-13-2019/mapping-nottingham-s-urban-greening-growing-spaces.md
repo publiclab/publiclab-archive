@@ -6,18 +6,16 @@ author: molangmuir10
 path: /notes/molangmuir10/05-13-2019/mapping-nottingham-s-urban-greening-growing-spaces.md
 nid: 19394
 uid: 589023
-
 cids: 24140,24143,24145,24153,24184,27105,27108
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/588/original/Urban_Greening.png)
 
 # Mapping Nottingham's urban greening & growing spaces (UK)
 
-by [molangmuir10](../../../profile/molangmuir10) | May 13, 2019 22:05
+by [molangmuir10](/profile/molangmuir10) | May 13, 2019 22:05
 
-May 13, 2019 22:05 | Tags: [balloon-mapping](../tag/balloon-mapping), [first-time-poster](../tag/first-time-poster), [community-atlas](../tag/community-atlas), [lat:52.948637](../tag/lat:52.948637), [lon:-1.16455](../tag/lon:-1.16455), [community-mapping-fellows](../tag/community-mapping-fellows), [urbangreeninginnottingham](../tag/urbangreeninginnottingham)
+May 13, 2019 22:05 | Tags: [balloon-mapping](/tag/balloon-mapping), [first-time-poster](/tag/first-time-poster), [community-atlas](/tag/community-atlas), [lat:52.948637](/tag/lat:52.948637), [lon:-1.16455](/tag/lon:-1.16455), [community-mapping-fellows](/tag/community-mapping-fellows), [urbangreeninginnottingham](/tag/urbangreeninginnottingham)
 
 ----
 

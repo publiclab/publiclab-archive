@@ -6,16 +6,16 @@ author: ygzstc
 path: /wiki/public-lab-summary-in-turkish.md
 nid: 12122
 uid: 422489
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/036/original/logo.png)
 
 # Public Lab - Summary in Turkish
 
-by [ygzstc](../profile/ygzstc)
+by [ygzstc](/profile/ygzstc)
 
-August 04, 2015 18:10 | Tags: [publiclab](../tag/publiclab), [summary](../tag/summary), [turkish](../tag/turkish)
+August 04, 2015 18:10 | Tags: [publiclab](/tag/publiclab), [summary](/tag/summary), [turkish](/tag/turkish)
 
 ----
 

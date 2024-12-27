@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/03-05-2014/job-posting-special-projects-layout-editor.md
 nid: 10108
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/143/original/plots-logo-transparent.jpg)
 
 # Job Posting: Special Projects Layout Editor
 
-by [Shannon](../../../profile/Shannon) | March 05, 2014 18:12
+by [Shannon](/profile/Shannon) | March 05, 2014 18:12
 
-March 05, 2014 18:12 | Tags: [jobs](../tag/jobs)
+March 05, 2014 18:12 | Tags: [jobs](/tag/jobs)
 
 ----
 

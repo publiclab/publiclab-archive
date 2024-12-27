@@ -6,14 +6,14 @@ author: warren
 path: /wiki/video-spectrometer.md
 nid: 521
 uid: 1
-
+cids: 
 ---
 
 # Video Spectrometer
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-October 26, 2011 16:54 | Tags: [spectrometer](../tag/spectrometer)
+October 26, 2011 16:54 | Tags: [spectrometer](/tag/spectrometer)
 
 ----
 

@@ -6,14 +6,14 @@ author: ajawitz
 path: /wiki/developing-tools-for-mapping-invasive-species-in-harpswell-maine.md
 nid: 10009
 uid: 294634
-
+cids: 
 ---
 
 # Developing Tools for Mapping Invasive Species in Harpswell Maine
 
-by [ajawitz](../profile/ajawitz)
+by [ajawitz](/profile/ajawitz)
 
-February 03, 2014 21:11 | Tags: [grassrootsmapping](../tag/grassrootsmapping), [citizen-science](../tag/citizen-science), [invasives](../tag/invasives), [invasive-species](../tag/invasive-species), [civic-hacking](../tag/civic-hacking)
+February 03, 2014 21:11 | Tags: [grassrootsmapping](/tag/grassrootsmapping), [citizen-science](/tag/citizen-science), [invasives](/tag/invasives), [invasive-species](/tag/invasive-species), [civic-hacking](/tag/civic-hacking)
 
 ----
 

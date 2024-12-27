@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/04-18-2018/hand-cut-or-lasercut-a-simple-diy-microscope-stage.md
 nid: 16174
 uid: 1
-
 cids: 19450,29199
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/646/original/IMG_20180417_190644_1024x1024.jpg)
 
 # Hand-cut or lasercut a simple DIY microscope stage
 
-by [warren](../../../profile/warren) | April 18, 2018 20:38
+by [warren](/profile/warren) | April 18, 2018 20:38
 
-April 18, 2018 20:38 | Tags: [kits](../tag/kits), [3d-printing](../tag/3d-printing), [pm](../tag/pm), [prototyping](../tag/prototyping), [microscope](../tag/microscope), [laser-cutting](../tag/laser-cutting), [microscopes](../tag/microscopes), [sourcing](../tag/sourcing), [activity:microscopes](../tag/activity:microscopes), [community-kits](../tag/community-kits), [activity:basic-microscope](../tag/activity:basic-microscope), [basic-microscope](../tag/basic-microscope), [response:16101](../tag/response:16101), [response:15926](../tag/response:15926), [response:15904](../tag/response:15904), [basic-microscope-kit](../tag/basic-microscope-kit), [acrylic](../tag/acrylic)
+April 18, 2018 20:38 | Tags: [kits](/tag/kits), [3d-printing](/tag/3d-printing), [pm](/tag/pm), [prototyping](/tag/prototyping), [microscope](/tag/microscope), [laser-cutting](/tag/laser-cutting), [microscopes](/tag/microscopes), [sourcing](/tag/sourcing), [activity:microscopes](/tag/activity:microscopes), [community-kits](/tag/community-kits), [activity:basic-microscope](/tag/activity:basic-microscope), [basic-microscope](/tag/basic-microscope), [response:16101](/tag/response:16101), [response:15926](/tag/response:15926), [response:15904](/tag/response:15904), [basic-microscope-kit](/tag/basic-microscope-kit), [acrylic](/tag/acrylic)
 
 ----
 

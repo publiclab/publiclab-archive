@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/1-27-2011/nrg-image-lima-balloon.md
 nid: 64
 uid: 1
-
 cids: 48
-
 ---
 
 ![](https://publiclab.org/sites/default/files/5392220652_9524633600_o.jpg)
 
 # NRG image of Lima from balloon
 
-by [warren](../../../profile/warren) | January 27, 2011 18:15
+by [warren](/profile/warren) | January 27, 2011 18:15
 
-January 27, 2011 18:15 | Tags: [lima](../tag/lima), [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [peru](../tag/peru), [nrg](../tag/nrg), [morflex](../tag/morflex)
+January 27, 2011 18:15 | Tags: [lima](/tag/lima), [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [peru](/tag/peru), [nrg](/tag/nrg), [morflex](/tag/morflex)
 
 ----
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/barnraising-planning.md
 nid: 7223
 uid: 1
-
+cids: 
 ---
 
 # Barnraising Planning
 
-by [liz](../profile/liz), [warren](../profile/warren)
+by [liz](/profile/liz), [warren](/profile/warren)
 
-May 03, 2013 17:20 | Tags: [barnraising](../tag/barnraising), [list:plots-barnraising](../tag/list:plots-barnraising)
+May 03, 2013 17:20 | Tags: [barnraising](/tag/barnraising), [list:plots-barnraising](/tag/list:plots-barnraising)
 
 ----
 

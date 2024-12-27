@@ -6,18 +6,16 @@ author: kailen456
 path: /notes/kailen456/04-30-2021/balloon-mapping-of-edgard.md
 nid: 26423
 uid: 754776
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/633/original/Doc3.docx)
 
 # Balloon mapping of  Edgard
 
-by [kailen456](../../../profile/kailen456) | April 30, 2021 18:27
+by [kailen456](/profile/kailen456) | April 30, 2021 18:27
 
-April 30, 2021 18:27 | Tags: [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:30.043257](../tag/lat:30.043257), [lon:-90.560086](../tag/lon:-90.560086)
+April 30, 2021 18:27 | Tags: [first-time-poster](/tag/first-time-poster), [zoom:6](/tag/zoom:6), [lat:30.043257](/tag/lat:30.043257), [lon:-90.560086](/tag/lon:-90.560086)
 
 ----
 

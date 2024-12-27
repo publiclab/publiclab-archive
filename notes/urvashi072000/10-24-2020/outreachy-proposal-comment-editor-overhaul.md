@@ -6,16 +6,14 @@ author: urvashi072000
 path: /notes/urvashi072000/10-24-2020/outreachy-proposal-comment-editor-overhaul.md
 nid: 24806
 uid: 638826
-
 cids: 27528,27529,27530,27538,27591
-
 ---
 
 # Outreachy proposal: Comment Editor Overhaul
 
-by [urvashi072000](../../../profile/urvashi072000) | October 24, 2020 14:01
+by [urvashi072000](/profile/urvashi072000) | October 24, 2020 14:01
 
-October 24, 2020 14:01 | Tags: [software](../tag/software), [first-time-poster](../tag/first-time-poster), [outreachy-winter-2020](../tag/outreachy-winter-2020), [outreachy-2020-winter-proposals](../tag/outreachy-2020-winter-proposals), [response:24687](../tag/response:24687)
+October 24, 2020 14:01 | Tags: [software](/tag/software), [first-time-poster](/tag/first-time-poster), [outreachy-winter-2020](/tag/outreachy-winter-2020), [outreachy-2020-winter-proposals](/tag/outreachy-2020-winter-proposals), [response:24687](/tag/response:24687)
 
 ----
 

@@ -6,18 +6,16 @@ author: eustatic
 path: /5-10-2012/hills-have-acne-passenger-pigeon-photos-drill-sites-out-west.md
 nid: 1952
 uid: 379
-
 cids: 730,731,732,733
-
 ---
 
 ![](https://publiclab.org/sites/default/files/7165625584_c7de45de7f_o.jpg)
 
 # the Hills have Acne: passenger pigeon photos of drill sites out West
 
-by [eustatic](../../../profile/eustatic) | May 10, 2012 22:08
+by [eustatic](/profile/eustatic) | May 10, 2012 22:08
 
-May 10, 2012 22:08 | Tags: [passenger-pigeon](../tag/passenger-pigeon)
+May 10, 2012 22:08 | Tags: [passenger-pigeon](/tag/passenger-pigeon)
 
 ----
 

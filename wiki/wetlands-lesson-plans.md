@@ -6,14 +6,14 @@ author: Shannon
 path: /wiki/wetlands-lesson-plans.md
 nid: 12081
 uid: 9
-
+cids: 
 ---
 
 # wetlands lesson plans
 
-by [Shannon](../profile/Shannon)
+by [Shannon](/profile/Shannon)
 
-July 20, 2015 17:47 | Tags: [education](../tag/education), [wetlands](../tag/wetlands), [new-orleans](../tag/new-orleans), [urbanwater](../tag/urbanwater), [urbanwaters](../tag/urbanwaters), [parent:wetlands-toolkit](../tag/parent:wetlands-toolkit), [lesson](../tag/lesson)
+July 20, 2015 17:47 | Tags: [education](/tag/education), [wetlands](/tag/wetlands), [new-orleans](/tag/new-orleans), [urbanwater](/tag/urbanwater), [urbanwaters](/tag/urbanwaters), [parent:wetlands-toolkit](/tag/parent:wetlands-toolkit), [lesson](/tag/lesson)
 
 ----
 

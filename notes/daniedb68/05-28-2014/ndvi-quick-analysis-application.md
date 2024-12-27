@@ -6,18 +6,16 @@ author: daniedb68
 path: /notes/daniedb68/05-28-2014/ndvi-quick-analysis-application.md
 nid: 10513
 uid: 420557
-
 cids: 9090,9100,9110,9111,9112
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/471/original/screen.JPG)
 
 # NDVI Quick Analysis Application
 
-by [daniedb68](../../../profile/daniedb68) | May 28, 2014 16:00
+by [daniedb68](/profile/daniedb68) | May 28, 2014 16:00
 
-May 28, 2014 16:00 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [analysis](../tag/analysis), [software](../tag/software), [infragram](../tag/infragram)
+May 28, 2014 16:00 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [analysis](/tag/analysis), [software](/tag/software), [infragram](/tag/infragram)
 
 ----
 

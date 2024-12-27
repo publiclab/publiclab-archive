@@ -6,18 +6,16 @@ author: dsvilko
 path: /notes/dsvilko/06-13-2017/any-way-to-improve-on-the-dvd-grating.md
 nid: 14529
 uid: 257524
-
 cids: 16871,22488
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/774/original/IMG_1170.JPG)
 
 # Any way to improve on the DVD grating?
 
-by [dsvilko](../../../profile/dsvilko) | June 13, 2017 15:08
+by [dsvilko](/profile/dsvilko) | June 13, 2017 15:08
 
-June 13, 2017 15:08 | Tags: [question:spectrometry](../tag/question:spectrometry), [question:general](../tag/question:general), [question:grating](../tag/question:grating)
+June 13, 2017 15:08 | Tags: [question:spectrometry](/tag/question:spectrometry), [question:general](/tag/question:general), [question:grating](/tag/question:grating)
 
 ----
 

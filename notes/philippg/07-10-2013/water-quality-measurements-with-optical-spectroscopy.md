@@ -6,18 +6,16 @@ author: philippg
 path: /notes/philippg/07-10-2013/water-quality-measurements-with-optical-spectroscopy.md
 nid: 8809
 uid: 121462
-
 cids: 6247,6262,6296,6300,6302,6310,6319,6332,6442,9035,12972
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/731/original/2013-07-10_11.49.28.jpg)
 
 # Water Quality Measurements with Optical Spectroscopy
 
-by [philippg](../../../profile/philippg) | July 10, 2013 20:15
+by [philippg](/profile/philippg) | July 10, 2013 20:15
 
-July 10, 2013 20:15 | Tags: [spectrometer](../tag/spectrometer), [water-quality](../tag/water-quality), [water](../tag/water), [water-monitoring](../tag/water-monitoring), [estonia](../tag/estonia), [chlorophyll](../tag/chlorophyll), [eutrophication](../tag/eutrophication), [algae](../tag/algae), [algal-blooms](../tag/algal-blooms), [cyanobacteria](../tag/cyanobacteria), [activity:spectrometry](../tag/activity:spectrometry), [status:under-development](../tag/status:under-development), [first-time-poster](../tag/first-time-poster)
+July 10, 2013 20:15 | Tags: [spectrometer](/tag/spectrometer), [water-quality](/tag/water-quality), [water](/tag/water), [water-monitoring](/tag/water-monitoring), [estonia](/tag/estonia), [chlorophyll](/tag/chlorophyll), [eutrophication](/tag/eutrophication), [algae](/tag/algae), [algal-blooms](/tag/algal-blooms), [cyanobacteria](/tag/cyanobacteria), [activity:spectrometry](/tag/activity:spectrometry), [status:under-development](/tag/status:under-development), [first-time-poster](/tag/first-time-poster)
 
 ----
 

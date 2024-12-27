@@ -6,16 +6,14 @@ author: Pepin420
 path: /notes/Pepin420/04-06-2019/how-do-i.md
 nid: 18973
 uid: 582812
-
 cids: 27241
-
 ---
 
 # How do I...
 
-by [Pepin420](../../../profile/Pepin420) | April 06, 2019 06:46
+by [Pepin420](/profile/Pepin420) | April 06, 2019 06:46
 
-April 06, 2019 06:46 | Tags: [question:spectral-workbench-calibration](../tag/question:spectral-workbench-calibration), [first-time-poster](../tag/first-time-poster), [spectral-workbench-calibration](../tag/spectral-workbench-calibration)
+April 06, 2019 06:46 | Tags: [question:spectral-workbench-calibration](/tag/question:spectral-workbench-calibration), [first-time-poster](/tag/first-time-poster), [spectral-workbench-calibration](/tag/spectral-workbench-calibration)
 
 ----
 

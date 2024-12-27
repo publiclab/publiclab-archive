@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/1-31-2013/historical-air-column-monitor.md
 nid: 5832
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/wea01168.jpg)
 
 # Historical "air column monitor"
 
-by [liz](../../../profile/liz) | January 31, 2013 23:04
+by [liz](/profile/liz) | January 31, 2013 23:04
 
-January 31, 2013 23:04 | Tags: [air-column-monitor](../tag/air-column-monitor)
+January 31, 2013 23:04 | Tags: [air-column-monitor](/tag/air-column-monitor)
 
 ----
 

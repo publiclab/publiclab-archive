@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/03-08-2018/make-nametags-for-each-barnraiser.md
 nid: 15892
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/911/original/IMG_20151120_084018417.jpg)
 
 # Make nametags for in-person events like the Barnraising
 
-by [liz](../../../profile/liz) | March 08, 2018 15:58
+by [liz](/profile/liz) | March 08, 2018 15:58
 
-March 08, 2018 15:58 | Tags: [barnraising](../tag/barnraising), [facilitation](../tag/facilitation), [activity:day-before-barnraising](../tag/activity:day-before-barnraising), [activity:facilitation](../tag/activity:facilitation)
+March 08, 2018 15:58 | Tags: [barnraising](/tag/barnraising), [facilitation](/tag/facilitation), [activity:day-before-barnraising](/tag/activity:day-before-barnraising), [activity:facilitation](/tag/activity:facilitation)
 
 ----
 

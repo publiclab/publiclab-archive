@@ -6,18 +6,16 @@ author: nicholas
 path: /notes/nicholas/02-28-2017/foldable-spectrometer-workshop-for-cities.md
 nid: 13969
 uid: 53894
-
 cids: 16252,16257
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/677/original/Screen_Shot_2017-02-28_at_10.44.29_AM.png)
 
 # Foldable Spectrometer Workshop for Cities
 
-by [nicholas](../../../profile/nicholas) | February 28, 2017 15:51
+by [nicholas](/profile/nicholas) | February 28, 2017 15:51
 
-February 28, 2017 15:51 | Tags: [spectrometry](../tag/spectrometry), [replication:13410](../tag/replication:13410), [replication:13577](../tag/replication:13577), [foldable-spec](../tag/foldable-spec)
+February 28, 2017 15:51 | Tags: [spectrometry](/tag/spectrometry), [replication:13410](/tag/replication:13410), [replication:13577](/tag/replication:13577), [foldable-spec](/tag/foldable-spec)
 
 ----
 

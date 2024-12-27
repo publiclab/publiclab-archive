@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/12-04-2017/what-are-different-commercially-available-hydrogen-sulfide-detection-methods.md
 nid: 15298
 uid: 1
-
 cids: 22777,22780,22781
-
 ---
 
 # What are different commercially available hydrogen sulfide detection methods?
 
-by [warren](../../../profile/warren) | December 04, 2017 19:54
+by [warren](/profile/warren) | December 04, 2017 19:54
 
-December 04, 2017 19:54 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [answered](../tag/answered), [question:hydrogen-sulfide](../tag/question:hydrogen-sulfide), [question:hydrogen-sulfide-detection](../tag/question:hydrogen-sulfide-detection), [hydrogen-sulfide-detection](../tag/hydrogen-sulfide-detection)
+December 04, 2017 19:54 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [answered](/tag/answered), [question:hydrogen-sulfide](/tag/question:hydrogen-sulfide), [question:hydrogen-sulfide-detection](/tag/question:hydrogen-sulfide-detection), [hydrogen-sulfide-detection](/tag/hydrogen-sulfide-detection)
 
 ----
 

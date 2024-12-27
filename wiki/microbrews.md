@@ -6,16 +6,16 @@ author: warren
 path: /wiki/microbrews.md
 nid: 17756
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/846/original/microbrews-pic.png)
 
 # Microbrews
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-November 26, 2018 17:33 | Tags: [providence](../tag/providence), [workshop](../tag/workshop), [event](../tag/event), [microscopes](../tag/microscopes), [community-microscope](../tag/community-microscope), [lat:41.821478](../tag/lat:41.821478), [lon:-71.415939](../tag/lon:-71.415939)
+November 26, 2018 17:33 | Tags: [providence](/tag/providence), [workshop](/tag/workshop), [event](/tag/event), [microscopes](/tag/microscopes), [community-microscope](/tag/community-microscope), [lat:41.821478](/tag/lat:41.821478), [lon:-71.415939](/tag/lon:-71.415939)
 
 ----
 
@@ -49,4 +49,4 @@ Flyers here: https://docs.google.com/presentation/d/1KdpxEoeIyKvU-MbM2hiU2NCXp4A
 
 See more upcoming and past events here:
 
-[grid:microbrews](../../tag/grid:microbrews)
+[grid:microbrews](/tag/grid:microbrews)

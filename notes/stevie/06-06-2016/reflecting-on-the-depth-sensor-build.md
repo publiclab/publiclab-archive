@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/06-06-2016/reflecting-on-the-depth-sensor-build.md
 nid: 13170
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/511/original/20160517_191654.jpg)
 
 # Reflecting on the Depth Sensor Build
 
-by [stevie](../../../profile/stevie) | June 06, 2016 14:31
+by [stevie](/profile/stevie) | June 06, 2016 14:31
 
-June 06, 2016 14:31 | Tags: [gulf-coast](../tag/gulf-coast), [water](../tag/water), [neworleans](../tag/neworleans), [flood](../tag/flood), [stormwater](../tag/stormwater), [gulfcoast](../tag/gulfcoast), [with:mimibell](../tag/with:mimibell), [depth](../tag/depth)
+June 06, 2016 14:31 | Tags: [gulf-coast](/tag/gulf-coast), [water](/tag/water), [neworleans](/tag/neworleans), [flood](/tag/flood), [stormwater](/tag/stormwater), [gulfcoast](/tag/gulfcoast), [with:mimibell](/tag/with:mimibell), [depth](/tag/depth)
 
 ----
 

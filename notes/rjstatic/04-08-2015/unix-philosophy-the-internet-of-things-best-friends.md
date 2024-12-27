@@ -6,18 +6,16 @@ author: rjstatic
 path: /04-08-2015/unix-philosophy-the-internet-of-things-best-friends.md
 nid: 11753
 uid: 174
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/630/original/noun_82872_cc.png)
 
 # Unix Philosophy + The Internet of Things = Best Friends ?
 
-by [rjstatic](../../../profile/rjstatic) | April 08, 2015 22:14
+by [rjstatic](/profile/rjstatic) | April 08, 2015 22:14
 
-April 08, 2015 22:14 | Tags: [open-pipe-kit](../tag/open-pipe-kit)
+April 08, 2015 22:14 | Tags: [open-pipe-kit](/tag/open-pipe-kit)
 
 ----
 

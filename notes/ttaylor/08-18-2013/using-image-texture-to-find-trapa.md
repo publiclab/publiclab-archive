@@ -6,18 +6,16 @@ author: ttaylor
 path: /notes/ttaylor/08-18-2013/using-image-texture-to-find-trapa.md
 nid: 9034
 uid: 58398
-
 cids: 6689
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/207/original/TrapaPlant.jpg)
 
 # using image texture to find Trapa
 
-by [ttaylor](../../../profile/ttaylor) | August 18, 2013 21:00
+by [ttaylor](/profile/ttaylor) | August 18, 2013 21:00
 
-August 18, 2013 21:00 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [amherst](../tag/amherst), [infragram](../tag/infragram), [invasive](../tag/invasive), [classification](../tag/classification), [h2onutz](../tag/h2onutz), [trapa](../tag/trapa), [response:9019](../tag/response:9019), [activity:classification](../tag/activity:classification)
+August 18, 2013 21:00 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [amherst](/tag/amherst), [infragram](/tag/infragram), [invasive](/tag/invasive), [classification](/tag/classification), [h2onutz](/tag/h2onutz), [trapa](/tag/trapa), [response:9019](/tag/response:9019), [activity:classification](/tag/activity:classification)
 
 ----
 

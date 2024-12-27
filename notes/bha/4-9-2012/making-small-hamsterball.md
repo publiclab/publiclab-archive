@@ -6,16 +6,14 @@ author: bha
 path: /notes/bha/4-9-2012/making-small-hamsterball.md
 nid: 1634
 uid: 280
-
 cids: 
-
 ---
 
 # Making a small hamsterball
 
-by [bha](../../../profile/bha) | April 09, 2012 18:42
+by [bha](/profile/bha) | April 09, 2012 18:42
 
-April 09, 2012 18:42 | Tags: [indoor-air-quality-mapping](../tag/indoor-air-quality-mapping), [hamster-ball](../tag/hamster-ball), [air-quality](../tag/air-quality)
+April 09, 2012 18:42 | Tags: [indoor-air-quality-mapping](/tag/indoor-air-quality-mapping), [hamster-ball](/tag/hamster-ball), [air-quality](/tag/air-quality)
 
 ----
 

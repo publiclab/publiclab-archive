@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/07-26-2019/community-atlas-an-around-the-world-collaboration-on-mapknitter.md
 nid: 20331
 uid: 1
-
 cids: 25151,25152,25153,25189,25210,25287,25342,25525,25620
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/159/original/pasted_image_0.png)
 
 # Community Atlas: an "around the world collaboration" on MapKnitter
 
-by [warren](../../../profile/warren) | July 26, 2019 18:03
+by [warren](/profile/warren) | July 26, 2019 18:03
 
-July 26, 2019 18:03 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [collaboration](../tag/collaboration), [software](../tag/software), [google](../tag/google), [blog](../tag/blog), [community-atlas](../tag/community-atlas)
+July 26, 2019 18:03 | Tags: [balloon-mapping](/tag/balloon-mapping), [mapknitter](/tag/mapknitter), [collaboration](/tag/collaboration), [software](/tag/software), [google](/tag/google), [blog](/tag/blog), [community-atlas](/tag/community-atlas)
 
 ----
 

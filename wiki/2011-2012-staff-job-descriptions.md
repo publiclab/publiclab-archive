@@ -6,12 +6,12 @@ author: Shannon
 path: /wiki/2011-2012-staff-job-descriptions.md
 nid: 422
 uid: 9
-
+cids: 
 ---
 
 # 2011-2012 Staff Job Descriptions
 
-by [Shannon](../profile/Shannon)
+by [Shannon](/profile/Shannon)
 
 August 01, 2011 13:17 | Tags: 
 

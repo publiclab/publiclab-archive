@@ -6,16 +6,16 @@ author: shanlter
 path: /wiki/barnraising-guangzhou-china.md
 nid: 17002
 uid: 420999
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/350/original/shenjing_poster.jpg)
 
 # 谷仓聚会 Barnraising Guangzhou, China
 
-by [stevie](../profile/stevie), [shanlter](../profile/shanlter), [Shannon](../profile/Shannon)
+by [stevie](/profile/stevie), [shanlter](/profile/shanlter), [Shannon](/profile/Shannon)
 
-August 28, 2018 06:58 | Tags: [barnraising](../tag/barnraising), [asia](../tag/asia), [parent:barnraising](../tag/parent:barnraising), [guangzhou](../tag/guangzhou), [china](../tag/china), [lang:zh](../tag/lang:zh)
+August 28, 2018 06:58 | Tags: [barnraising](/tag/barnraising), [asia](/tag/asia), [parent:barnraising](/tag/parent:barnraising), [guangzhou](/tag/guangzhou), [china](/tag/china), [lang:zh](/tag/lang:zh)
 
 ----
 

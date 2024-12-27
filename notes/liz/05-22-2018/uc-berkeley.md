@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/05-22-2018/uc-berkeley.md
 nid: 16377
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/010/original/cerch_map_w_cosecha_1200.jpg)
 
 # UC Berkeley research on pesticide exposure in youth
 
-by [liz](../../../profile/liz) | May 22, 2018 14:08
+by [liz](/profile/liz) | May 22, 2018 14:08
 
-May 22, 2018 14:08 | Tags: [california](../tag/california), [youth](../tag/youth), [pesticides](../tag/pesticides), [children](../tag/children), [berkeley](../tag/berkeley), [environmental-health](../tag/environmental-health), [pesticide-exposure](../tag/pesticide-exposure), [families](../tag/families), [longitudinal-study](../tag/longitudinal-study)
+May 22, 2018 14:08 | Tags: [california](/tag/california), [youth](/tag/youth), [pesticides](/tag/pesticides), [children](/tag/children), [berkeley](/tag/berkeley), [environmental-health](/tag/environmental-health), [pesticide-exposure](/tag/pesticide-exposure), [families](/tag/families), [longitudinal-study](/tag/longitudinal-study)
 
 ----
 

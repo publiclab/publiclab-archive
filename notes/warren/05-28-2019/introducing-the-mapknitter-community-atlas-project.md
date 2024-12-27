@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/05-28-2019/introducing-the-mapknitter-community-atlas-project.md
 nid: 19558
 uid: 1
-
 cids: 24280,24289,24291,24311,24329,24758,24759,24762
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/506/original/Screen_Shot_2019-05-02_at_12.06.19_PM.png)
 
 # Introducing the MapKnitter: Community Atlas project
 
-by [warren](../../../profile/warren) | May 28, 2019 16:17
+by [warren](/profile/warren) | May 28, 2019 16:17
 
-May 28, 2019 16:17 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [grassrootsmapping](../tag/grassrootsmapping), [mapknitter](../tag/mapknitter), [aerial-photography](../tag/aerial-photography), [software](../tag/software), [gsoc](../tag/gsoc), [blog](../tag/blog), [aerial-mapping](../tag/aerial-mapping), [leaflet](../tag/leaflet), [code](../tag/code), [fellows](../tag/fellows), [soc](../tag/soc), [lon:-71.426406](../tag/lon:-71.426406), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [community-atlas](../tag/community-atlas), [lat:41.809084](../tag/lat:41.809084)
+May 28, 2019 16:17 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [grassrootsmapping](/tag/grassrootsmapping), [mapknitter](/tag/mapknitter), [aerial-photography](/tag/aerial-photography), [software](/tag/software), [gsoc](/tag/gsoc), [blog](/tag/blog), [aerial-mapping](/tag/aerial-mapping), [leaflet](/tag/leaflet), [code](/tag/code), [fellows](/tag/fellows), [soc](/tag/soc), [lon:-71.426406](/tag/lon:-71.426406), [gsoc-2019](/tag/gsoc-2019), [soc-2019](/tag/soc-2019), [community-atlas](/tag/community-atlas), [lat:41.809084](/tag/lat:41.809084)
 
 ----
 

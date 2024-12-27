@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/09-15-2017/what-questions-will-you-bring-to-the-barnraising.md
 nid: 14899
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/662/original/Screen_Shot_2017-09-14_at_5.32.46_PM.png)
 
 # What questions will you bring to the Barnraising?
 
-by [warren](../../../profile/warren) | September 15, 2017 12:34
+by [warren](/profile/warren) | September 15, 2017 12:34
 
-September 15, 2017 12:34 | Tags: [west-virginia](../tag/west-virginia), [barnraising](../tag/barnraising), [blog](../tag/blog), [videos](../tag/videos), [questions](../tag/questions), [barnraising-2017](../tag/barnraising-2017), [regional-barnraising](../tag/regional-barnraising), [barnraising-vw](../tag/barnraising-vw), [morgantown](../tag/morgantown), [location:blurred](../tag/location:blurred), [lat:29.3](../tag/lat:29.3), [lon:-90.7](../tag/lon:-90.7), [place:cocodrie](../tag/place:cocodrie), [series:barnraising-questions](../tag/series:barnraising-questions)
+September 15, 2017 12:34 | Tags: [west-virginia](/tag/west-virginia), [barnraising](/tag/barnraising), [blog](/tag/blog), [videos](/tag/videos), [questions](/tag/questions), [barnraising-2017](/tag/barnraising-2017), [regional-barnraising](/tag/regional-barnraising), [barnraising-vw](/tag/barnraising-vw), [morgantown](/tag/morgantown), [location:blurred](/tag/location:blurred), [lat:29.3](/tag/lat:29.3), [lon:-90.7](/tag/lon:-90.7), [place:cocodrie](/tag/place:cocodrie), [series:barnraising-questions](/tag/series:barnraising-questions)
 
 ----
 

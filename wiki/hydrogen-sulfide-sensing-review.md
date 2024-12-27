@@ -6,12 +6,12 @@ author: gonzoearth
 path: /wiki/hydrogen-sulfide-sensing-review.md
 nid: 703
 uid: 12
-
+cids: 
 ---
 
 # hydrogen sulfide sensing review
 
-by [gonzoearth](../profile/gonzoearth)
+by [gonzoearth](/profile/gonzoearth)
 
 January 19, 2012 00:43 | Tags: 
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/privacy.md
 nid: 10292
 uid: 1
-
+cids: 
 ---
 
 # Public Lab Privacy Policy
 
-by [sashadev-sky](../profile/sashadev-sky), [warren](../profile/warren)
+by [sashadev-sky](/profile/sashadev-sky), [warren](/profile/warren)
 
-April 10, 2014 16:47 | Tags: [locked](../tag/locked), [privacy](../tag/privacy), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lat:22](../tag/lat:22), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
+April 10, 2014 16:47 | Tags: [locked](/tag/locked), [privacy](/tag/privacy), [location:blurred](/tag/location:blurred), [place:united-states](/tag/place:united-states), [lat:22](/tag/lat:22), [lon:76](/tag/lon:76), [zoom:6](/tag/zoom:6)
 
 ----
 

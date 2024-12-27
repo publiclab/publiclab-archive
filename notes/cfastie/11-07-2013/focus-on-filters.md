@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/11-07-2013/focus-on-filters.md
 nid: 9744
 uid: 554
-
 cids: 7462,7463,7489,7506,7512,7670,7851,7852,7854,8578,8580
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/153/original/A2200-273-3.jpg)
 
 # Focus on filters
 
-by [cfastie](../../../profile/cfastie) | November 07, 2013 16:28
+by [cfastie](/profile/cfastie) | November 07, 2013 16:28
 
-November 07, 2013 16:28 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [infrared](../tag/infrared), [a2200](../tag/a2200), [conversion](../tag/conversion), [filter](../tag/filter), [infragram](../tag/infragram), [focus](../tag/focus), [infrablue](../tag/infrablue), [response:9740](../tag/response:9740), [bg3](../tag/bg3), [wratten25a](../tag/wratten25a)
+November 07, 2013 16:28 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [vermont](/tag/vermont), [infrared](/tag/infrared), [a2200](/tag/a2200), [conversion](/tag/conversion), [filter](/tag/filter), [infragram](/tag/infragram), [focus](/tag/focus), [infrablue](/tag/infrablue), [response:9740](/tag/response:9740), [bg3](/tag/bg3), [wratten25a](/tag/wratten25a)
 
 ----
 

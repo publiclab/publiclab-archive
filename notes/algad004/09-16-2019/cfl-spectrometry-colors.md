@@ -6,18 +6,16 @@ author: algad004
 path: /notes/algad004/09-16-2019/cfl-spectrometry-colors.md
 nid: 20890
 uid: 619927
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/283/original/IMG_1311.jpg)
 
 # CFL Spectrometry Colors 
 
-by [algad004](../../../profile/algad004) | September 16, 2019 20:45
+by [algad004](/profile/algad004) | September 16, 2019 20:45
 
-September 16, 2019 20:45 | Tags: [first-time-poster](../tag/first-time-poster)
+September 16, 2019 20:45 | Tags: [first-time-poster](/tag/first-time-poster)
 
 ----
 

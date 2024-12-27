@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/08-29-2017/report-back-from-open-call-on-hurricane-harvey-response-and-coordination.md
 nid: 14797
 uid: 1
-
 cids: 17277,17283,17296
-
 ---
 
 # Report-back from Open Call on Hurricane Harvey response and coordination
 
-by [warren](../../../profile/warren) | August 29, 2017 20:10
+by [warren](/profile/warren) | August 29, 2017 20:10
 
-August 29, 2017 20:10 | Tags: [gulf-restoration-network](../tag/gulf-restoration-network), [skytruth](../tag/skytruth), [hurricane](../tag/hurricane), [stormwater](../tag/stormwater), [mapmill](../tag/mapmill), [storm](../tag/storm), [opencall](../tag/opencall), [coordinating](../tag/coordinating), [disaster-response](../tag/disaster-response), [cartoscope](../tag/cartoscope), [harvey](../tag/harvey), [harvey-calls](../tag/harvey-calls)
+August 29, 2017 20:10 | Tags: [gulf-restoration-network](/tag/gulf-restoration-network), [skytruth](/tag/skytruth), [hurricane](/tag/hurricane), [stormwater](/tag/stormwater), [mapmill](/tag/mapmill), [storm](/tag/storm), [opencall](/tag/opencall), [coordinating](/tag/coordinating), [disaster-response](/tag/disaster-response), [cartoscope](/tag/cartoscope), [harvey](/tag/harvey), [harvey-calls](/tag/harvey-calls)
 
 ----
 
@@ -196,4 +194,4 @@ Jeff make SkyTruth/GRN email intro with Willow
 
 ## Questions
 
-[harvey](../../tag/question:harvey)
+[harvey](/tag/question:harvey)

@@ -6,18 +6,16 @@ author: gilbert
 path: /notes/gilbert/10-11-2017/water-quality-monitoring-in-alabama.md
 nid: 15026
 uid: 508551
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/919/original/hog_bayou_africatown_satellite.png)
 
 # WATER QUALITY MONITORING IN ALABAMA
 
-by [gilbert](../../../profile/gilbert) | October 11, 2017 16:47
+by [gilbert](/profile/gilbert) | October 11, 2017 16:47
 
-October 11, 2017 16:47 | Tags: [gulf-coast](../tag/gulf-coast), [water-quality-monitoring](../tag/water-quality-monitoring), [alabama](../tag/alabama), [location:blurred](../tag/location:blurred), [africatown-blueway](../tag/africatown-blueway), [chickasaw-creek](../tag/chickasaw-creek), [hog-bayou](../tag/hog-bayou), [national-park-service](../tag/national-park-service), [lat:30](../tag/lat:30), [lon:-88](../tag/lon:-88)
+October 11, 2017 16:47 | Tags: [gulf-coast](/tag/gulf-coast), [water-quality-monitoring](/tag/water-quality-monitoring), [alabama](/tag/alabama), [location:blurred](/tag/location:blurred), [africatown-blueway](/tag/africatown-blueway), [chickasaw-creek](/tag/chickasaw-creek), [hog-bayou](/tag/hog-bayou), [national-park-service](/tag/national-park-service), [lat:30](/tag/lat:30), [lon:-88](/tag/lon:-88)
 
 ----
 

@@ -6,18 +6,16 @@ author: stoft
 path: /notes/stoft/05-17-2014/plab-s-webcam-non-linearity.md
 nid: 10476
 uid: 54025
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/288/original/Plot-1.jpg)
 
 # PLab's WebCam (Non)Linearity
 
-by [stoft](../../../profile/stoft) | May 17, 2014 08:00
+by [stoft](/profile/stoft) | May 17, 2014 08:00
 
-May 17, 2014 08:00 | Tags: [spectrometer](../tag/spectrometer), [quantitative](../tag/quantitative), [linearity](../tag/linearity), [intensity](../tag/intensity)
+May 17, 2014 08:00 | Tags: [spectrometer](/tag/spectrometer), [quantitative](/tag/quantitative), [linearity](/tag/linearity), [intensity](/tag/intensity)
 
 ----
 

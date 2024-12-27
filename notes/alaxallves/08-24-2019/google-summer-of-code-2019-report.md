@@ -6,18 +6,16 @@ author: alaxallves
 path: /notes/alaxallves/08-24-2019/google-summer-of-code-2019-report.md
 nid: 20656
 uid: 577447
-
 cids: 25328,25329,25332,25333,25335,25338,25375,25398,25403,25406,25407,25409
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/830/original/rails-6.0.0.beta.png)
 
 # Google Summer of Code 2019 Report
 
-by [alaxallves](../../../profile/alaxallves) | August 24, 2019 19:18
+by [alaxallves](/profile/alaxallves) | August 24, 2019 19:18
 
-August 24, 2019 19:18 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [google](../tag/google), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [report](../tag/report), [2019](../tag/2019), [rails-6](../tag/rails-6), [gsoc2019](../tag/gsoc2019), [googlesummerofcode](../tag/googlesummerofcode), [gsoc-2019-final-report](../tag/gsoc-2019-final-report)
+August 24, 2019 19:18 | Tags: [mapknitter](/tag/mapknitter), [gsoc](/tag/gsoc), [google](/tag/google), [barnstar:excessive-enthusiasm](/tag/barnstar:excessive-enthusiasm), [report](/tag/report), [2019](/tag/2019), [rails-6](/tag/rails-6), [gsoc2019](/tag/gsoc2019), [googlesummerofcode](/tag/googlesummerofcode), [gsoc-2019-final-report](/tag/gsoc-2019-final-report)
 
 ----
 

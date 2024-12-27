@@ -6,18 +6,16 @@ author: danbeavers
 path: /notes/danbeavers/09-13-2013/de-bayer-research.md
 nid: 9324
 uid: 51
-
 cids: 6831
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/541/original/mono5.jpg)
 
 # De-Bayer research
 
-by [danbeavers](../../../profile/danbeavers) | September 13, 2013 03:34
+by [danbeavers](/profile/danbeavers) | September 13, 2013 03:34
 
-September 13, 2013 03:34 | Tags: [bayer-filter](../tag/bayer-filter), [camera](../tag/camera), [camera-modification](../tag/camera-modification), [debayering](../tag/debayering)
+September 13, 2013 03:34 | Tags: [bayer-filter](/tag/bayer-filter), [camera](/tag/camera), [camera-modification](/tag/camera-modification), [debayering](/tag/debayering)
 
 ----
 

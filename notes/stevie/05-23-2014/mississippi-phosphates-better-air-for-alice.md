@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/05-23-2014/mississippi-phosphates-better-air-for-alice.md
 nid: 10505
 uid: 422561
-
 cids: 9072,9076,9077,9080,9337,9353,9358,9359,9360,9626,9628,17669,17670,17671,17731,17733
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/383/original/11113383-large.jpg)
 
 # Mississippi Phosphates: Better air for Alice
 
-by [stevie](../../../profile/stevie) | May 23, 2014 17:57
+by [stevie](/profile/stevie) | May 23, 2014 17:57
 
-May 23, 2014 17:57 | Tags: [gulf-coast](../tag/gulf-coast), [mississippi](../tag/mississippi), [air-quality](../tag/air-quality), [lead](../tag/lead), [sulfuric-acid](../tag/sulfuric-acid), [ammonia](../tag/ammonia), [phosphate](../tag/phosphate), [pascagoula](../tag/pascagoula), [phosphates](../tag/phosphates)
+May 23, 2014 17:57 | Tags: [gulf-coast](/tag/gulf-coast), [mississippi](/tag/mississippi), [air-quality](/tag/air-quality), [lead](/tag/lead), [sulfuric-acid](/tag/sulfuric-acid), [ammonia](/tag/ammonia), [phosphate](/tag/phosphate), [pascagoula](/tag/pascagoula), [phosphates](/tag/phosphates)
 
 ----
 

@@ -6,18 +6,16 @@ author: mdiego2798
 path: /notes/mdiego2798/12-08-2021/printable-3d-spectometer.md
 nid: 28341
 uid: 781768
-
 cids: 29508,29512,29513,29561
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/200/original/IMG_20211210_071405__01.jpg)
 
 # Printable 3D Spectometer 
 
-by [mdiego2798](../../../profile/mdiego2798) | December 08, 2021 12:31
+by [mdiego2798](/profile/mdiego2798) | December 08, 2021 12:31
 
-December 08, 2021 12:31 | Tags: [spectrometry](../tag/spectrometry), [upgrade:spectrometry](../tag/upgrade:spectrometry), [seeks:builds](../tag/seeks:builds), [upgrade:foldable-spec](../tag/upgrade:foldable-spec), [foldable-spec](../tag/foldable-spec), [first-time-poster](../tag/first-time-poster)
+December 08, 2021 12:31 | Tags: [spectrometry](/tag/spectrometry), [upgrade:spectrometry](/tag/upgrade:spectrometry), [seeks:builds](/tag/seeks:builds), [upgrade:foldable-spec](/tag/upgrade:foldable-spec), [foldable-spec](/tag/foldable-spec), [first-time-poster](/tag/first-time-poster)
 
 ----
 

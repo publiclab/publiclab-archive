@@ -6,16 +6,14 @@ author: pataxte
 path: /notes/pataxte/07-02-2019/pole-mapping-kit-camera-rig-issues.md
 nid: 19957
 uid: 559561
-
 cids: 24967,24968,24969,24970,24971,24972,24973,24974,24975,25302
-
 ---
 
 # pole-mapping kit, camera rig issues...
 
-by [pataxte](../../../profile/pataxte) | July 02, 2019 20:38
+by [pataxte](/profile/pataxte) | July 02, 2019 20:38
 
-July 02, 2019 20:38 | Tags: [question:general](../tag/question:general), [response:11661](../tag/response:11661)
+July 02, 2019 20:38 | Tags: [question:general](/tag/question:general), [response:11661](/tag/response:11661)
 
 ----
 

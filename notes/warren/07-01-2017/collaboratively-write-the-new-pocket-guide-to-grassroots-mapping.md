@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/07-01-2017/collaboratively-write-the-new-pocket-guide-to-grassroots-mapping.md
 nid: 14600
 uid: 1
-
 cids: 16990,17485,17486,17845,17846,17886,17902,17910,17911,17918,17936,17937,18072,18073,18081,18116,18139,18140,18141,18142,18164,18194,18370,19370,19371,19420,19433,20775,20776,20828
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/964/original/OI000024.jpg)
 
 # Collaboratively write the new Pocket Guide to Grassroots Mapping
 
-by [warren](../../../profile/warren) | July 01, 2017 13:17
+by [warren](/profile/warren) | July 01, 2017 13:17
 
-July 01, 2017 13:17 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kickstarter](../tag/kickstarter), [grassroots-mapping](../tag/grassroots-mapping), [guide](../tag/guide), [writing](../tag/writing), [booklet](../tag/booklet), [mini-kite-kit](../tag/mini-kite-kit), [mini-balloon-kit](../tag/mini-balloon-kit), [pocket-guide](../tag/pocket-guide), [collaborative-writing](../tag/collaborative-writing), [activity:guides](../tag/activity:guides), [activity:writing](../tag/activity:writing), [activity:translation](../tag/activity:translation)
+July 01, 2017 13:17 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [kickstarter](/tag/kickstarter), [grassroots-mapping](/tag/grassroots-mapping), [guide](/tag/guide), [writing](/tag/writing), [booklet](/tag/booklet), [mini-kite-kit](/tag/mini-kite-kit), [mini-balloon-kit](/tag/mini-balloon-kit), [pocket-guide](/tag/pocket-guide), [collaborative-writing](/tag/collaborative-writing), [activity:guides](/tag/activity:guides), [activity:writing](/tag/activity:writing), [activity:translation](/tag/activity:translation)
 
 ----
 

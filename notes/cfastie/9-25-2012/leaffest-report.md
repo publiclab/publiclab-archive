@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/9-25-2012/leaffest-report.md
 nid: 4006
 uid: 554
-
 cids: 1464
-
 ---
 
 ![](https://publiclab.org/sites/default/files/LEAFBread-group1200.jpg)
 
 # LEAFFEST Report
 
-by [cfastie](../../../profile/cfastie) | September 25, 2012 17:06
+by [cfastie](/profile/cfastie) | September 25, 2012 17:06
 
-September 25, 2012 17:06 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [kite-mapping](../tag/kite-mapping), [events](../tag/events), [leaffest](../tag/leaffest), [leaffest2012](../tag/leaffest2012)
+September 25, 2012 17:06 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [spectrometer](/tag/spectrometer), [kite-mapping](/tag/kite-mapping), [events](/tag/events), [leaffest](/tag/leaffest), [leaffest2012](/tag/leaffest2012)
 
 ----
 

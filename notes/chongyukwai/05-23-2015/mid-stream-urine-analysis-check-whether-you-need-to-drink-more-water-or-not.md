@@ -6,18 +6,16 @@ author: chongyukwai
 path: /notes/chongyukwai/05-23-2015/mid-stream-urine-analysis-check-whether-you-need-to-drink-more-water-or-not.md
 nid: 11834
 uid: 442298
-
 cids: 11762,11768,11773,11783
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/991/original/th.jpg)
 
 # Mid stream Urine analysis: Check whether you need to drink more water or not
 
-by [chongyukwai](../../../profile/chongyukwai) | May 23, 2015 14:56
+by [chongyukwai](/profile/chongyukwai) | May 23, 2015 14:56
 
-May 23, 2015 14:56 | Tags: [spectrometer](../tag/spectrometer), [analysis](../tag/analysis), [spectro](../tag/spectro), [urine](../tag/urine)
+May 23, 2015 14:56 | Tags: [spectrometer](/tag/spectrometer), [analysis](/tag/analysis), [spectro](/tag/spectro), [urine](/tag/urine)
 
 ----
 

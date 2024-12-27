@@ -6,18 +6,16 @@ author: mercyorangi
 path: /notes/mercyorangi/08-10-2014/sky-cam-enhancement-user-guide-app-icon-added.md
 nid: 11028
 uid: 421649
-
 cids: 9864,9866,9867,9908,9909,9916,9953,9964,9965,10020,10026,10528,10731,10732,10734
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/174/original/web_hi_res_512.png)
 
 # Sky Cam Enhancement; In-App User guide + App icon added
 
-by [mercyorangi](../../../profile/mercyorangi) | August 10, 2014 21:46
+by [mercyorangi](/profile/mercyorangi) | August 10, 2014 21:46
 
-August 10, 2014 21:46 | Tags: [gsoc](../tag/gsoc), [skycam](../tag/skycam), [gsoc-2014](../tag/gsoc-2014), [sky-cam](../tag/sky-cam), [sky-camera](../tag/sky-camera)
+August 10, 2014 21:46 | Tags: [gsoc](/tag/gsoc), [skycam](/tag/skycam), [gsoc-2014](/tag/gsoc-2014), [sky-cam](/tag/sky-cam), [sky-camera](/tag/sky-camera)
 
 ----
 

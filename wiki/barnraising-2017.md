@@ -6,16 +6,16 @@ author: stevie
 path: /wiki/barnraising-2017.md
 nid: 15192
 uid: 422561
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/419/original/20171103_091213.jpg)
 
 # Barnraising 2017
 
-by [stevie](../profile/stevie)
+by [stevie](/profile/stevie)
 
-November 15, 2017 15:21 | Tags: [barnraising](../tag/barnraising)
+November 15, 2017 15:21 | Tags: [barnraising](/tag/barnraising)
 
 ----
 
@@ -61,7 +61,7 @@ People coming to the Barnraising often want to share on deep topics of interest 
 
 ## Questions
 
-[barnraising](../../tag/question:barnraising)
+[barnraising](/tag/question:barnraising)
 
 ##The Barnraiser
 The Barnraiser is a daily paper print publication participants in the Barnraising work together to produce. Below are copies of the Barnraiser that came out of this event: 
@@ -70,5 +70,5 @@ The Barnraiser is a daily paper print publication participants in the Barnraisin
 
 ##Notes and photos that came out of the Barnraising: 
 
-[barnraising-2017](../../tag/barnraising-2017)
+[barnraising-2017](/tag/barnraising-2017)
 

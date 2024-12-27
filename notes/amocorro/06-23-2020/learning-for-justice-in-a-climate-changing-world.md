@@ -6,18 +6,16 @@ author: amocorro
 path: /notes/amocorro/06-23-2020/learning-for-justice-in-a-climate-changing-world.md
 nid: 24028
 uid: 700923
-
 cids: 27062,27069,27485,29578,30332
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/912/original/newsletter-images-for-og-tags-30_orig.png)
 
 # Learning for Justice in a Climate Changing World 
 
-by [amocorro](../../../profile/amocorro) | June 23, 2020 22:32
+by [amocorro](/profile/amocorro) | June 23, 2020 22:32
 
-June 23, 2020 22:32 | Tags: [education](../tag/education), [barnraising](../tag/barnraising), [water-quality](../tag/water-quality), [monitoring](../tag/monitoring), [barnstar:basic](../tag/barnstar:basic), [climate-change](../tag/climate-change), [waterquality](../tag/waterquality), [environmentaljustice](../tag/environmentaljustice), [advocacy](../tag/advocacy), [environmental-justice](../tag/environmental-justice), [community-science](../tag/community-science), [first-time-poster](../tag/first-time-poster), [covid-19](../tag/covid-19), [newcomer](../tag/newcomer), [oilspills](../tag/oilspills), [pandemic](../tag/pandemic), [communities](../tag/communities), [justice](../tag/justice), [csp](../tag/csp), [justtransition](../tag/justtransition), [climateresilience](../tag/climateresilience), [just-transition](../tag/just-transition), [science-education](../tag/science-education)
+June 23, 2020 22:32 | Tags: [education](/tag/education), [barnraising](/tag/barnraising), [water-quality](/tag/water-quality), [monitoring](/tag/monitoring), [barnstar:basic](/tag/barnstar:basic), [climate-change](/tag/climate-change), [waterquality](/tag/waterquality), [environmentaljustice](/tag/environmentaljustice), [advocacy](/tag/advocacy), [environmental-justice](/tag/environmental-justice), [community-science](/tag/community-science), [first-time-poster](/tag/first-time-poster), [covid-19](/tag/covid-19), [newcomer](/tag/newcomer), [oilspills](/tag/oilspills), [pandemic](/tag/pandemic), [communities](/tag/communities), [justice](/tag/justice), [csp](/tag/csp), [justtransition](/tag/justtransition), [climateresilience](/tag/climateresilience), [just-transition](/tag/just-transition), [science-education](/tag/science-education)
 
 ----
 

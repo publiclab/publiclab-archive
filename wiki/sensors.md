@@ -6,12 +6,12 @@ author: gretchengehrke
 path: /wiki/sensors.md
 nid: 15363
 uid: 430549
-
+cids: 
 ---
 
 # Sensors
 
-by [gretchengehrke](../profile/gretchengehrke)
+by [gretchengehrke](/profile/gretchengehrke)
 
 December 13, 2017 16:49 | Tags: 
 

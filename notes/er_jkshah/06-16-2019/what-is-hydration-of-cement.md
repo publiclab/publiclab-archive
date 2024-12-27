@@ -6,18 +6,16 @@ author: er_jkshah
 path: /notes/er_jkshah/06-16-2019/what-is-hydration-of-cement.md
 nid: 19714
 uid: 576429
-
 cids: 24815,24825
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/952/original/concrete1.jpg)
 
 # What is hydration of Cement?
 
-by [er_jkshah](../../../profile/er_jkshah) | June 16, 2019 03:13
+by [er_jkshah](/profile/er_jkshah) | June 16, 2019 03:13
 
-June 16, 2019 03:13 | Tags: [cement](../tag/cement), [concrete](../tag/concrete), [water](../tag/water), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [hydration](../tag/hydration)
+June 16, 2019 03:13 | Tags: [cement](/tag/cement), [concrete](/tag/concrete), [water](/tag/water), [barnstar:photo-documentation](/tag/barnstar:photo-documentation), [hydration](/tag/hydration)
 
 ----
 

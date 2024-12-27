@@ -6,18 +6,16 @@ author: jecnu
 path: /notes/jecnu/12-03-2014/thermal-imaging-of-fresh-air-intake-for-nightingale-hall.md
 nid: 11431
 uid: 432296
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/243/original/FullSizeRender-2.jpg)
 
 # Thermal Imaging of Fresh Air Intake for Nightingale Hall
 
-by [jecnu](../../../profile/jecnu) | December 03, 2014 17:18
+by [jecnu](/profile/jecnu) | December 03, 2014 17:18
 
-December 03, 2014 17:18 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-imaging](../tag/thermal-imaging), [northeastern](../tag/northeastern), [insulation](../tag/insulation), [air-intake](../tag/air-intake), [heat](../tag/heat), [replication:625](../tag/replication:625)
+December 03, 2014 17:18 | Tags: [thermal-photography](/tag/thermal-photography), [thermal-flashlight](/tag/thermal-flashlight), [thermal-imaging](/tag/thermal-imaging), [northeastern](/tag/northeastern), [insulation](/tag/insulation), [air-intake](/tag/air-intake), [heat](/tag/heat), [replication:625](/tag/replication:625)
 
 ----
 

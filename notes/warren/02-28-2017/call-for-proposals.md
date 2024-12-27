@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/02-28-2017/call-for-proposals.md
 nid: 13975
 uid: 1
-
 cids: 16274,16275,16276,16281,16291,16292,16300,16301,16306,16307,16310,16311,16312,16313,16316,16321,16322,16333,16396,16400,16486,16487,16492,16518,16693
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/691/original/IMG_20170228_151237_750.jpg)
 
 # Call for Summer of Code 2017 proposals!
 
-by [warren](../../../profile/warren) | February 28, 2017 20:01
+by [warren](/profile/warren) | February 28, 2017 20:01
 
-February 28, 2017 20:01 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [wwg](../tag/wwg), [gsoc-2017](../tag/gsoc-2017), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [rgsoc-2017](../tag/rgsoc-2017), [call-for-proposals](../tag/call-for-proposals)
+February 28, 2017 20:01 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [wwg](/tag/wwg), [gsoc-2017](/tag/gsoc-2017), [rgsoc](/tag/rgsoc), [soc](/tag/soc), [soc-2017](/tag/soc-2017), [rgsoc-2017](/tag/rgsoc-2017), [call-for-proposals](/tag/call-for-proposals)
 
 ----
 
@@ -61,4 +59,4 @@ Before or after you post your own draft, read through others' listed below. Your
 
 ### Proposals
 
-[soc-2017-proposals](../../tag/soc-2017-proposals)
+[soc-2017-proposals](/tag/soc-2017-proposals)

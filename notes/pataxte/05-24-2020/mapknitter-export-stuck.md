@@ -6,16 +6,14 @@ author: pataxte
 path: /notes/pataxte/05-24-2020/mapknitter-export-stuck.md
 nid: 23692
 uid: 559561
-
 cids: 26886,26887,26889,26890,26892,26898,26901,26906,26912,26913,26915,26920,26921,26922,26923,26926,26963,26968,26969,26970,26971
-
 ---
 
 # mapknitter export stuck
 
-by [pataxte](../../../profile/pataxte) | May 24, 2020 17:01
+by [pataxte](/profile/pataxte) | May 24, 2020 17:01
 
-May 24, 2020 17:01 | Tags: [mapknitter](../tag/mapknitter), [question:general](../tag/question:general), [general](../tag/general)
+May 24, 2020 17:01 | Tags: [mapknitter](/tag/mapknitter), [question:general](/tag/question:general), [general](/tag/general)
 
 ----
 

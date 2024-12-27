@@ -6,18 +6,16 @@ author: ikerluna
 path: /notes/ikerluna/10-22-2013/bio-ceramic-system.md
 nid: 9524
 uid: 271926
-
 cids: 7416
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/990/original/IMG_0044.JPG)
 
 # Bio Ceramic System
 
-by [ikerluna](../../../profile/ikerluna) | October 22, 2013 13:27
+by [ikerluna](/profile/ikerluna) | October 22, 2013 13:27
 
-October 22, 2013 13:27 | Tags: [barcelona](../tag/barcelona), [spain](../tag/spain), [infragram](../tag/infragram), [moss](../tag/moss), [ceramic](../tag/ceramic), [bio-ceramic](../tag/bio-ceramic), [iaac](../tag/iaac), [qgis](../tag/qgis)
+October 22, 2013 13:27 | Tags: [barcelona](/tag/barcelona), [spain](/tag/spain), [infragram](/tag/infragram), [moss](/tag/moss), [ceramic](/tag/ceramic), [bio-ceramic](/tag/bio-ceramic), [iaac](/tag/iaac), [qgis](/tag/qgis)
 
 ----
 

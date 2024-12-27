@@ -6,18 +6,16 @@ author: carmen2x
 path: /notes/carmen2x/04-20-2022/exploratory-lesson-activity-for-image-sequencer.md
 nid: 30539
 uid: 787988
-
 cids: 30225,30319,31160,31328
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/690/original/Screen_Shot_2022-05-18_at_10.38.25_AM.png)
 
 # Exploratory Lesson Activity for Image Sequencer
 
-by [carmen2x](../../../profile/carmen2x) | April 20, 2022 18:21
+by [carmen2x](/profile/carmen2x) | April 20, 2022 18:21
 
-April 20, 2022 18:21 | Tags: [ndvi](../tag/ndvi), [education](../tag/education), [aren](../tag/aren), [image-sequencer](../tag/image-sequencer), [infragram-pi](../tag/infragram-pi)
+April 20, 2022 18:21 | Tags: [ndvi](/tag/ndvi), [education](/tag/education), [aren](/tag/aren), [image-sequencer](/tag/image-sequencer), [infragram-pi](/tag/infragram-pi)
 
 ----
 

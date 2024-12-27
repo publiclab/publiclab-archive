@@ -6,18 +6,16 @@ author: jbreen
 path: /notes/jbreen/3-6-2012/evolution-picavet.md
 nid: 897
 uid: 326
-
 cids: 524,881,7466,7467,7468,7478,7479
-
 ---
 
 ![](https://publiclab.org/sites/default/files/DSCN1670_0.jpg)
 
 # Evolution of a Picavet
 
-by [jbreen](../../../profile/jbreen) | March 06, 2012 13:47
+by [jbreen](/profile/jbreen) | March 06, 2012 13:47
 
-March 06, 2012 13:47 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [picavet](../tag/picavet), [kite-aerial-photography](../tag/kite-aerial-photography), [photo-rig](../tag/photo-rig), [activity:photo-rig](../tag/activity:photo-rig), [first-time-poster](../tag/first-time-poster)
+March 06, 2012 13:47 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [picavet](/tag/picavet), [kite-aerial-photography](/tag/kite-aerial-photography), [photo-rig](/tag/photo-rig), [activity:photo-rig](/tag/activity:photo-rig), [first-time-poster](/tag/first-time-poster)
 
 ----
 

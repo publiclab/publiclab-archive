@@ -6,16 +6,14 @@ author: cindy_excites
 path: /notes/cindyexcites/8-3-2012/update-june-july-web-development.md
 nid: 3122
 uid: 1083
-
 cids: 
-
 ---
 
 # Update June-July (web-development)
 
-by [cindy_excites](../../../profile/cindy_excites) | August 03, 2012 22:05
+by [cindy_excites](/profile/cindy_excites) | August 03, 2012 22:05
 
-August 03, 2012 22:05 | Tags: [web-development](../tag/web-development)
+August 03, 2012 22:05 | Tags: [web-development](/tag/web-development)
 
 ----
 

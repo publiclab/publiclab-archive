@@ -6,18 +6,16 @@ author: danbeavers
 path: /notes/danbeavers/07-30-2013/chalmette-flare-spectrum-field-trip.md
 nid: 8941
 uid: 51
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/962/original/flare2%287-26-2013%29rotate.png)
 
 # Chalmette flare spectrum field trip
 
-by [danbeavers](../../../profile/danbeavers) | July 30, 2013 17:03
+by [danbeavers](/profile/danbeavers) | July 30, 2013 17:03
 
-July 30, 2013 17:03 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [new-orleans](../tag/new-orleans), [flare](../tag/flare), [chalmette](../tag/chalmette)
+July 30, 2013 17:03 | Tags: [gulf-coast](/tag/gulf-coast), [spectrometer](/tag/spectrometer), [new-orleans](/tag/new-orleans), [flare](/tag/flare), [chalmette](/tag/chalmette)
 
 ----
 

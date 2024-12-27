@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/09-30-2014/coqui-bbv1-0-assessing-ambient-light-with-a-photoresistor.md
 nid: 11214
 uid: 43651
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/219/original/coquiAmbient.png)
 
 # Coqui BBv1.0: Assessing Ambient Light with a Photoresistor
 
-by [donblair](../../../profile/donblair) | September 30, 2014 23:07
+by [donblair](/profile/donblair) | September 30, 2014 23:07
 
-September 30, 2014 23:07 | Tags: [water-quality](../tag/water-quality), [difficulty:easy](../tag/difficulty:easy), [category:observe](../tag/category:observe), [time:1h](../tag/time:1h), [status:draft](../tag/status:draft), [activity:coqui-usage](../tag/activity:coqui-usage)
+September 30, 2014 23:07 | Tags: [water-quality](/tag/water-quality), [difficulty:easy](/tag/difficulty:easy), [category:observe](/tag/category:observe), [time:1h](/tag/time:1h), [status:draft](/tag/status:draft), [activity:coqui-usage](/tag/activity:coqui-usage)
 
 ----
 

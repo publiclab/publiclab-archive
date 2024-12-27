@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/08-29-2013/l-e-a-f-f-e-s-t-2013.md
 nid: 9071
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/322/original/LEAFFEST2013.jpg)
 
 # L E A F F E S T 2013
 
-by [cfastie](../../../profile/cfastie) | August 29, 2013 04:01
+by [cfastie](/profile/cfastie) | August 29, 2013 04:01
 
-August 29, 2013 04:01 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [events](../tag/events), [leaffest](../tag/leaffest), [leaffest2012](../tag/leaffest2012), [infragram](../tag/infragram), [events:vermont](../tag/events:vermont), [pole-photography](../tag/pole-photography), [leaffest2013](../tag/leaffest2013)
+August 29, 2013 04:01 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [vermont](/tag/vermont), [events](/tag/events), [leaffest](/tag/leaffest), [leaffest2012](/tag/leaffest2012), [infragram](/tag/infragram), [events:vermont](/tag/events:vermont), [pole-photography](/tag/pole-photography), [leaffest2013](/tag/leaffest2013)
 
 ----
 

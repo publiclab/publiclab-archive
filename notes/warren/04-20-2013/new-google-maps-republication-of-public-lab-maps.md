@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/04-20-2013/new-google-maps-republication-of-public-lab-maps.md
 nid: 6934
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/098/original/lee-nh-google-maps-larger.png)
 
 # New Google Maps republication of Public Lab maps
 
-by [warren](../../../profile/warren) | April 20, 2013 17:12
+by [warren](/profile/warren) | April 20, 2013 17:12
 
-April 20, 2013 17:12 | Tags: [balloon-mapping](../tag/balloon-mapping), [new-hampshire](../tag/new-hampshire), [farmhack](../tag/farmhack), [archive](../tag/archive), [lee-nh](../tag/lee-nh), [google-maps](../tag/google-maps)
+April 20, 2013 17:12 | Tags: [balloon-mapping](/tag/balloon-mapping), [new-hampshire](/tag/new-hampshire), [farmhack](/tag/farmhack), [archive](/tag/archive), [lee-nh](/tag/lee-nh), [google-maps](/tag/google-maps)
 
 ----
 

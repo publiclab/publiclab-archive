@@ -6,18 +6,16 @@ author: klie
 path: /notes/klie/06-22-2017/public-lab-nonprofit-job-posting-administrative-coordinator.md
 nid: 14573
 uid: 441262
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/855/original/plots-logo-transparent.jpg)
 
 # Public Lab nonprofit job posting: Administrative Coordinator
 
-by [klie](../../../profile/klie) | June 22, 2017 20:46
+by [klie](/profile/klie) | June 22, 2017 20:46
 
-June 22, 2017 20:46 | Tags: [nonprofit](../tag/nonprofit), [jobs](../tag/jobs)
+June 22, 2017 20:46 | Tags: [nonprofit](/tag/nonprofit), [jobs](/tag/jobs)
 
 ----
 

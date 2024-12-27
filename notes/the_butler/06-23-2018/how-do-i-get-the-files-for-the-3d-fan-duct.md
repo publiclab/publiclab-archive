@@ -6,16 +6,14 @@ author: the_butler
 path: /notes/the_butler/06-23-2018/how-do-i-get-the-files-for-the-3d-fan-duct.md
 nid: 16562
 uid: 538943
-
 cids: 19894,19901,19904
-
 ---
 
 # How do I get the files for the 3D fan duct?
 
-by [the_butler](../../../profile/the_butler) | June 23, 2018 13:14
+by [the_butler](/profile/the_butler) | June 23, 2018 13:14
 
-June 23, 2018 13:14 | Tags: [maca](../tag/maca), [question:maca](../tag/question:maca)
+June 23, 2018 13:14 | Tags: [maca](/tag/maca), [question:maca](/tag/question:maca)
 
 ----
 

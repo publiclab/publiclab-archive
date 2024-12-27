@@ -6,12 +6,12 @@ author: warren
 path: /wiki/video-spectrometer-calibration.md
 nid: 573
 uid: 1
-
+cids: 
 ---
 
 # Video spectrometer calibration
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 November 20, 2011 15:00 | Tags: 
 

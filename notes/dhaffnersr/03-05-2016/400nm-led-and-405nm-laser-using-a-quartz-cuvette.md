@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/03-05-2016/400nm-led-and-405nm-laser-using-a-quartz-cuvette.md
 nid: 12777
 uid: 461120
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/659/original/400nm_LED_mar5.png)
 
 # 400nm LED and 405nm laser using a quartz cuvette
 
-by [dhaffnersr](../../../profile/dhaffnersr) | March 05, 2016 18:49
+by [dhaffnersr](/profile/dhaffnersr) | March 05, 2016 18:49
 
 March 05, 2016 18:49 | Tags: 
 

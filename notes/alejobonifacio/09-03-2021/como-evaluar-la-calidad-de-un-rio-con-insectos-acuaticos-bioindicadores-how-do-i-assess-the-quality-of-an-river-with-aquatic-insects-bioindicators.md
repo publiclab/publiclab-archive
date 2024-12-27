@@ -6,18 +6,16 @@ author: alejobonifacio
 path: /notes/alejobonifacio/09-03-2021/como-evaluar-la-calidad-de-un-rio-con-insectos-acuaticos-bioindicadores-how-do-i-assess-the-quality-of-an-river-with-aquatic-insects-bioindicators.md
 nid: 27675
 uid: 639376
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/772/original/portada.png)
 
 # ¿Cómo evaluar la calidad de un río con insectos acuáticos (bioindicadores)? / How do I assess the quality of an river with aquatic insects (bioindicators)?
 
-by [alejobonifacio](../../../profile/alejobonifacio) | September 03, 2021 22:31
+by [alejobonifacio](/profile/alejobonifacio) | September 03, 2021 22:31
 
-September 03, 2021 22:31 | Tags: [water-quality](../tag/water-quality), [lang:es](../tag/lang:es), [aquatic-monitoring](../tag/aquatic-monitoring), [wastewater](../tag/wastewater), [activity:water-quality](../tag/activity:water-quality), [lat:-30](../tag/lat:-30), [zoom:3](../tag/zoom:3), [research-curation-fellows](../tag/research-curation-fellows), [lon:-60](../tag/lon:-60), [activity:wastewater](../tag/activity:wastewater), [bioindicators](../tag/bioindicators), [detecting-wastewater](../tag/detecting-wastewater), [activity:detecting-wastewater](../tag/activity:detecting-wastewater), [activity:bioindicators](../tag/activity:bioindicators), [macroinvertebrates](../tag/macroinvertebrates)
+September 03, 2021 22:31 | Tags: [water-quality](/tag/water-quality), [lang:es](/tag/lang:es), [aquatic-monitoring](/tag/aquatic-monitoring), [wastewater](/tag/wastewater), [activity:water-quality](/tag/activity:water-quality), [lat:-30](/tag/lat:-30), [zoom:3](/tag/zoom:3), [research-curation-fellows](/tag/research-curation-fellows), [lon:-60](/tag/lon:-60), [activity:wastewater](/tag/activity:wastewater), [bioindicators](/tag/bioindicators), [detecting-wastewater](/tag/detecting-wastewater), [activity:detecting-wastewater](/tag/activity:detecting-wastewater), [activity:bioindicators](/tag/activity:bioindicators), [macroinvertebrates](/tag/macroinvertebrates)
 
 ----
 

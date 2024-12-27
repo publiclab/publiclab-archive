@@ -6,18 +6,16 @@ author: ajawitz
 path: /notes/ajawitz/06-07-2015/2015-kap-mapping-season-in-midcoast-maine.md
 nid: 11954
 uid: 294634
-
 cids: 11928,11979
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/234/original/Pottsorama.png)
 
 # 2015 KAP Mapping Season in Midcoast Maine!
 
-by [ajawitz](../../../profile/ajawitz) | June 07, 2015 22:13
+by [ajawitz](/profile/ajawitz) | June 07, 2015 22:13
 
-June 07, 2015 22:13 | Tags: [kite-mapping](../tag/kite-mapping), [grassrootsmapping](../tag/grassrootsmapping), [mapknitter](../tag/mapknitter), [citizen-science](../tag/citizen-science), [kap](../tag/kap), [maine](../tag/maine), [invasives](../tag/invasives), [invasive-species](../tag/invasive-species), [civic-hacking](../tag/civic-hacking), [response:10615](../tag/response:10615)
+June 07, 2015 22:13 | Tags: [kite-mapping](/tag/kite-mapping), [grassrootsmapping](/tag/grassrootsmapping), [mapknitter](/tag/mapknitter), [citizen-science](/tag/citizen-science), [kap](/tag/kap), [maine](/tag/maine), [invasives](/tag/invasives), [invasive-species](/tag/invasive-species), [civic-hacking](/tag/civic-hacking), [response:10615](/tag/response:10615)
 
 ----
 

@@ -6,14 +6,12 @@ author: Shannon
 path: /notes/shannon/11-7-2011/npr-series-toxic-places.md
 nid: 546
 uid: 9
-
 cids: 
-
 ---
 
 # NPR Series on Toxic Places
 
-by [Shannon](../../../profile/Shannon) | November 07, 2011 15:42
+by [Shannon](/profile/Shannon) | November 07, 2011 15:42
 
 November 07, 2011 15:42 | Tags: 
 

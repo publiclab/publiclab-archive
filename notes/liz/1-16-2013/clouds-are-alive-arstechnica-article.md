@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/1-16-2013/clouds-are-alive-arstechnica-article.md
 nid: 5615
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/5810163712_ac8a7f249e.jpg)
 
 # "the clouds are alive" -- ArsTechnica article
 
-by [liz](../../../profile/liz) | January 16, 2013 21:54
+by [liz](/profile/liz) | January 16, 2013 21:54
 
-January 16, 2013 21:54 | Tags: [air-column-monitor](../tag/air-column-monitor), [microbes](../tag/microbes)
+January 16, 2013 21:54 | Tags: [air-column-monitor](/tag/air-column-monitor), [microbes](/tag/microbes)
 
 ----
 

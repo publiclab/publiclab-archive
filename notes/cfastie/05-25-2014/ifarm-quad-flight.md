@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/05-25-2014/ifarm-quad-flight.md
 nid: 10511
 uid: 554
-
 cids: 9086,9099,9105,9137
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/454/original/iFarmSat2812-2.jpg)
 
 # iFarm quad flight
 
-by [cfastie](../../../profile/cfastie) | May 25, 2014 00:33
+by [cfastie](/profile/cfastie) | May 25, 2014 00:33
 
-May 25, 2014 00:33 | Tags: [new-hampshire](../tag/new-hampshire), [farmhack](../tag/farmhack), [uav](../tag/uav), [farm](../tag/farm), [aerial-photography](../tag/aerial-photography), [infragram](../tag/infragram), [ifarm](../tag/ifarm), [northeast](../tag/northeast), [mobius](../tag/mobius), [uas](../tag/uas), [ifarm2014](../tag/ifarm2014), [response:10503](../tag/response:10503), [multirotor](../tag/multirotor)
+May 25, 2014 00:33 | Tags: [new-hampshire](/tag/new-hampshire), [farmhack](/tag/farmhack), [uav](/tag/uav), [farm](/tag/farm), [aerial-photography](/tag/aerial-photography), [infragram](/tag/infragram), [ifarm](/tag/ifarm), [northeast](/tag/northeast), [mobius](/tag/mobius), [uas](/tag/uas), [ifarm2014](/tag/ifarm2014), [response:10503](/tag/response:10503), [multirotor](/tag/multirotor)
 
 ----
 

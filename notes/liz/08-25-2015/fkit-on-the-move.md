@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/08-25-2015/fkit-on-the-move.md
 nid: 12167
 uid: 7
-
 cids: 12461,12476
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/270/original/Yellow.jpg)
 
 # FKit on the move
 
-by [liz](../../../profile/liz) | August 25, 2015 16:07
+by [liz](/profile/liz) | August 25, 2015 16:07
 
-August 25, 2015 16:07 | Tags: [formaldehyde](../tag/formaldehyde), [lending-library](../tag/lending-library), [indoor-air-quality](../tag/indoor-air-quality)
+August 25, 2015 16:07 | Tags: [formaldehyde](/tag/formaldehyde), [lending-library](/tag/lending-library), [indoor-air-quality](/tag/indoor-air-quality)
 
 ----
 

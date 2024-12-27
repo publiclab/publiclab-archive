@@ -6,16 +6,14 @@ author: read_holman
 path: /notes/read_holman/12-12-2018/list-of-methods-for-lead-detection-monitoring.md
 nid: 17875
 uid: 540243
-
 cids: 21666,21667,21668,21669,21670,21671
-
 ---
 
 # Chemical/Analytical Methods Used When Testing for Lead
 
-by [read_holman](../../../profile/read_holman) | December 12, 2018 06:05
+by [read_holman](/profile/read_holman) | December 12, 2018 06:05
 
-December 12, 2018 06:05 | Tags: [diy](../tag/diy), [testing](../tag/testing), [water-quality](../tag/water-quality), [lead](../tag/lead), [hardware](../tag/hardware), [existing](../tag/existing), [paints](../tag/paints)
+December 12, 2018 06:05 | Tags: [diy](/tag/diy), [testing](/tag/testing), [water-quality](/tag/water-quality), [lead](/tag/lead), [hardware](/tag/hardware), [existing](/tag/existing), [paints](/tag/paints)
 
 ----
 

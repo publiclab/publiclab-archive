@@ -6,18 +6,16 @@ author: xavcc
 path: /notes/xavcc/12-23-2021/training-on-bioassay-test-with-seed-to-expose-toxicity.md
 nid: 28516
 uid: 630823
-
 cids: 29551,29553,31381
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/757/original/seed_bench_bioassay.jpg)
 
 # Training on "Bioassay Test with seed to expose toxicity"
 
-by [xavcc](../../../profile/xavcc) | December 23, 2021 10:12
+by [xavcc](/profile/xavcc) | December 23, 2021 10:12
 
-December 23, 2021 10:12 | Tags: [water-quality](../tag/water-quality), [bioassay](../tag/bioassay), [zoom:6](../tag/zoom:6), [effect-based-test](../tag/effect-based-test), [lat:48.117266](../tag/lat:48.117266), [lon:-1.677792](../tag/lon:-1.677792), [activity:bioassay](../tag/activity:bioassay)
+December 23, 2021 10:12 | Tags: [water-quality](/tag/water-quality), [bioassay](/tag/bioassay), [zoom:6](/tag/zoom:6), [effect-based-test](/tag/effect-based-test), [lat:48.117266](/tag/lat:48.117266), [lon:-1.677792](/tag/lon:-1.677792), [activity:bioassay](/tag/activity:bioassay)
 
 ----
 

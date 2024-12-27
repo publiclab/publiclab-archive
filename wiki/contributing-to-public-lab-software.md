@@ -6,14 +6,14 @@ author: justinmanley
 path: /wiki/contributing-to-public-lab-software.md
 nid: 11487
 uid: 421556
-
+cids: 
 ---
 
 # Contributing to Public Lab Software
 
-by [warren](../profile/warren), [justinmanley](../profile/justinmanley)
+by [warren](/profile/warren), [justinmanley](/profile/justinmanley)
 
-December 19, 2014 22:45 | Tags: [software](../tag/software), [guidelines](../tag/guidelines), [github](../tag/github), [plots-dev](../tag/plots-dev), [contributing](../tag/contributing), [getting-started](../tag/getting-started), [parent:developers](../tag/parent:developers), [response:11490](../tag/response:11490), [44](../tag/44)
+December 19, 2014 22:45 | Tags: [software](/tag/software), [guidelines](/tag/guidelines), [github](/tag/github), [plots-dev](/tag/plots-dev), [contributing](/tag/contributing), [getting-started](/tag/getting-started), [parent:developers](/tag/parent:developers), [response:11490](/tag/response:11490), [44](/tag/44)
 
 ----
 
@@ -55,11 +55,11 @@ Also check out this article on [GitHub flow](https://guides.github.com/introduct
 
 ## Questions
 
-[software](../../tag/question:software)
+[software](/tag/question:software)
 
 ## Activities
 
-[software](../../tag/activity:software)
+[software](/tag/activity:software)
 
 ****
 

@@ -6,18 +6,16 @@ author: ronhuber
 path: /notes/RonHuber/06-18-2014/virtual-penobscot-bay-a-gamer-platform-available.md
 nid: 10587
 uid: 437
-
 cids: 9207,9236,9341
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/843/original/pb_bathymetry_captioned1.jpg)
 
 # Virtual Penobscot Bay - a gamer platform available?
 
-by [ronhuber](../../../profile/ronhuber) | June 18, 2014 17:46
+by [ronhuber](/profile/ronhuber) | June 18, 2014 17:46
 
-June 18, 2014 17:46 | Tags: [3d](../tag/3d), [maine](../tag/maine), [northeast](../tag/northeast), [bay](../tag/bay), [penobcot](../tag/penobcot), [bathymetry](../tag/bathymetry), [lobster](../tag/lobster), [dioxin](../tag/dioxin)
+June 18, 2014 17:46 | Tags: [3d](/tag/3d), [maine](/tag/maine), [northeast](/tag/northeast), [bay](/tag/bay), [penobcot](/tag/penobcot), [bathymetry](/tag/bathymetry), [lobster](/tag/lobster), [dioxin](/tag/dioxin)
 
 ----
 

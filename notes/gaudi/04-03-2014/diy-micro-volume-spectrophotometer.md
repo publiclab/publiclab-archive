@@ -6,18 +6,16 @@ author: gaudi
 path: /notes/gaudi/04-03-2014/diy-micro-volume-spectrophotometer.md
 nid: 10255
 uid: 421141
-
 cids: 8705,8710,8712,9689,19569
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/479/original/MicroVolumeSpectrometer.jpg)
 
 # DIY Micro Volume Spectrophotometer
 
-by [gaudi](../../../profile/gaudi) | April 03, 2014 12:52
+by [gaudi](/profile/gaudi) | April 03, 2014 12:52
 
-April 03, 2014 12:52 | Tags: [spectrometer](../tag/spectrometer), [nanometer](../tag/nanometer), [sampling](../tag/sampling), [nano-drop](../tag/nano-drop), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lat:35](../tag/lat:35), [lon:-78](../tag/lon:-78), [zoom:6](../tag/zoom:6)
+April 03, 2014 12:52 | Tags: [spectrometer](/tag/spectrometer), [nanometer](/tag/nanometer), [sampling](/tag/sampling), [nano-drop](/tag/nano-drop), [location:blurred](/tag/location:blurred), [place:united-states](/tag/place:united-states), [lat:35](/tag/lat:35), [lon:-78](/tag/lon:-78), [zoom:6](/tag/zoom:6)
 
 ----
 

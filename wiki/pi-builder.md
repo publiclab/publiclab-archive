@@ -6,16 +6,16 @@ author: warren
 path: /wiki/pi-builder.md
 nid: 17414
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/438/original/infragram-pi_copy_2.png)
 
 # Pi Builder
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-October 28, 2018 17:18 | Tags: [raspberry-pi](../tag/raspberry-pi), [cameras](../tag/cameras), [pi](../tag/pi), [rpi](../tag/rpi), [activity:community-microscope](../tag/activity:community-microscope), [pi-builder](../tag/pi-builder), [parent:pi-camera](../tag/parent:pi-camera)
+October 28, 2018 17:18 | Tags: [raspberry-pi](/tag/raspberry-pi), [cameras](/tag/cameras), [pi](/tag/pi), [rpi](/tag/rpi), [activity:community-microscope](/tag/activity:community-microscope), [pi-builder](/tag/pi-builder), [parent:pi-camera](/tag/parent:pi-camera)
 
 ----
 
@@ -66,10 +66,10 @@ There you can look at proposed recipes, open an issue, or start developing your 
 
 ## Questions
 
-[pi-builder](../../tag/question:pi-builder)
+[pi-builder](/tag/question:pi-builder)
 
 ****
 
 ## Activities
 
-[pi-builder](../../tag/activity:pi-builder)
+[pi-builder](/tag/activity:pi-builder)

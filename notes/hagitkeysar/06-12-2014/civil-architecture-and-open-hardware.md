@@ -6,18 +6,16 @@ author: hagitkeysar
 path: /notes/hagitkeysar/06-12-2014/civil-architecture-and-open-hardware.md
 nid: 10554
 uid: 152
-
 cids: 9256,9343
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/682/original/10149023136_285b6924ed_o.jpg)
 
 # civil architecture and open hardware
 
-by [hagitkeysar](../../../profile/hagitkeysar) | June 12, 2014 13:33
+by [hagitkeysar](/profile/hagitkeysar) | June 12, 2014 13:33
 
-June 12, 2014 13:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [open-hardware](../tag/open-hardware), [jerusalem](../tag/jerusalem), [ohs](../tag/ohs), [open-hardware-summit](../tag/open-hardware-summit), [civil-architecture](../tag/civil-architecture), [rome](../tag/rome)
+June 12, 2014 13:33 | Tags: [balloon-mapping](/tag/balloon-mapping), [open-hardware](/tag/open-hardware), [jerusalem](/tag/jerusalem), [ohs](/tag/ohs), [open-hardware-summit](/tag/open-hardware-summit), [civil-architecture](/tag/civil-architecture), [rome](/tag/rome)
 
 ----
 

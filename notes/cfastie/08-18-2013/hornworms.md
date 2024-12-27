@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/08-18-2013/hornworms.md
 nid: 9031
 uid: 554
-
 cids: 6673,6678,6679,6680,6690,6691
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/178/original/Hornworm.gif)
 
 # HORNWORMS
 
-by [cfastie](../../../profile/cfastie) | August 18, 2013 03:52
+by [cfastie](/profile/cfastie) | August 18, 2013 03:52
 
-August 18, 2013 03:52 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [infrared](../tag/infrared), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [garden](../tag/garden), [superblue](../tag/superblue), [insects](../tag/insects), [ccd](../tag/ccd), [response:8900](../tag/response:8900), [hornworms](../tag/hornworms), [activity:multispectral-imaging](../tag/activity:multispectral-imaging)
+August 18, 2013 03:52 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [vermont](/tag/vermont), [infrared](/tag/infrared), [white-balance](/tag/white-balance), [infragram](/tag/infragram), [garden](/tag/garden), [superblue](/tag/superblue), [insects](/tag/insects), [ccd](/tag/ccd), [response:8900](/tag/response:8900), [hornworms](/tag/hornworms), [activity:multispectral-imaging](/tag/activity:multispectral-imaging)
 
 ----
 

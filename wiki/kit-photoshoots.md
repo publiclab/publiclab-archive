@@ -6,14 +6,14 @@ author: warren
 path: /wiki/kit-photoshoots.md
 nid: 11728
 uid: 1
-
+cids: 
 ---
 
 # Kit photoshoots
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-March 27, 2015 13:40 | Tags: [kits](../tag/kits), [photoshoot](../tag/photoshoot)
+March 27, 2015 13:40 | Tags: [kits](/tag/kits), [photoshoot](/tag/photoshoot)
 
 ----
 

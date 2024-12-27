@@ -6,16 +6,14 @@ author: sam14
 path: /notes/sam14/04-30-2020/is-there-a-way-to-convert-an-infrared-video-footage-to-ndvi.md
 nid: 23517
 uid: 689303
-
 cids: 26750,26829
-
 ---
 
 # Is there a way to convert an infrared video footage to NDVI?
 
-by [sam14](../../../profile/sam14) | April 30, 2020 10:17
+by [sam14](/profile/sam14) | April 30, 2020 10:17
 
-April 30, 2020 10:17 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [question:infrared](../tag/question:infrared), [question:multispectral-imaging](../tag/question:multispectral-imaging), [multispectral-imaging](../tag/multispectral-imaging), [first-time-poster](../tag/first-time-poster)
+April 30, 2020 10:17 | Tags: [ndvi](/tag/ndvi), [infrared](/tag/infrared), [infragram](/tag/infragram), [question:ndvi](/tag/question:ndvi), [question:infragram](/tag/question:infragram), [question:infrared](/tag/question:infrared), [question:multispectral-imaging](/tag/question:multispectral-imaging), [multispectral-imaging](/tag/multispectral-imaging), [first-time-poster](/tag/first-time-poster)
 
 ----
 

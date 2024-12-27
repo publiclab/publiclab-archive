@@ -6,16 +6,14 @@ author: vafa
 path: /notes/vafa/03-17-2017/slite-in-spectro.md
 nid: 14032
 uid: 454714
-
 cids: 22686
-
 ---
 
 # making a slit in spectrometer
 
-by [vafa](../../../profile/vafa) | March 17, 2017 23:07
+by [vafa](/profile/vafa) | March 17, 2017 23:07
 
-March 17, 2017 23:07 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [question:spectrometry](../tag/question:spectrometry), [ambient-light](../tag/ambient-light), [reflections](../tag/reflections), [build:13470](../tag/build:13470), [adjustable-slit](../tag/adjustable-slit)
+March 17, 2017 23:07 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [question:spectrometry](/tag/question:spectrometry), [ambient-light](/tag/ambient-light), [reflections](/tag/reflections), [build:13470](/tag/build:13470), [adjustable-slit](/tag/adjustable-slit)
 
 ----
 

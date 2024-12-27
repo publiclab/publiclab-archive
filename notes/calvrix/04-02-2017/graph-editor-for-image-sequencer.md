@@ -6,18 +6,16 @@ author: calvrix
 path: /notes/calvrix/04-02-2017/graph-editor-for-image-sequencer.md
 nid: 14079
 uid: 503867
-
 cids: 16539,16554
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/016/original/Screenshot_from_2017-04-02_11-53-34.png)
 
 # Graph Editor for Image-sequencer
 
-by [calvrix](../../../profile/calvrix) | April 02, 2017 09:32
+by [calvrix](/profile/calvrix) | April 02, 2017 09:32
 
-April 02, 2017 09:32 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [rgsoc-2017](../tag/rgsoc-2017), [soc-2017-proposals](../tag/soc-2017-proposals), [response:13975](../tag/response:13975), [first-time-poster](../tag/first-time-poster)
+April 02, 2017 09:32 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [gsoc-2017](/tag/gsoc-2017), [soc](/tag/soc), [soc-2017](/tag/soc-2017), [rgsoc-2017](/tag/rgsoc-2017), [soc-2017-proposals](/tag/soc-2017-proposals), [response:13975](/tag/response:13975), [first-time-poster](/tag/first-time-poster)
 
 ----
 

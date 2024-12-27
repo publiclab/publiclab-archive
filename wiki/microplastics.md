@@ -6,16 +6,16 @@ author: liz
 path: /wiki/microplastics.md
 nid: 21172
 uid: 7
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/459/original/dovekie-melted1.jpg)
 
 # Microplastics
 
-by [bhamster](../profile/bhamster), [amocorro](../profile/amocorro), [joyofsoy](../profile/joyofsoy), [stevie](../profile/stevie), [liz](../profile/liz)
+by [bhamster](/profile/bhamster), [amocorro](/profile/amocorro), [joyofsoy](/profile/joyofsoy), [stevie](/profile/stevie), [liz](/profile/liz)
 
-October 15, 2019 16:30 | Tags: [microplastics](../tag/microplastics)
+October 15, 2019 16:30 | Tags: [microplastics](/tag/microplastics)
 
 ----
 
@@ -142,7 +142,7 @@ Image: [@mollydanielsson](https://publiclab.org/profile/mollydanielsson)
 + Ask a question so other community members can offer support
 + Sign up below to be notified when someone asks a microplastics question
 
-[microplastics](../../tag/question:microplastics)
+[microplastics](/tag/question:microplastics)
 
 <br>
 
@@ -166,7 +166,7 @@ Further below, you’ll find more information on how you can get started in micr
 Posts written by Public Lab community members and tagged with `microplastics` will appear here. [Write a note about your own research or story here!](/post?tags=microplastics)
 
 
-[microplastics](../../tag/microplastics)
+[microplastics](/tag/microplastics)
 
 <br>
 
@@ -174,7 +174,7 @@ Posts written by Public Lab community members and tagged with `microplastics` wi
 
 Activities on Public Lab that have been tagged with `microplastics` will appear here
 
-[microplastics](../../tag/activity:microplastics)
+[microplastics](/tag/activity:microplastics)
 
 <br>
 <hr>

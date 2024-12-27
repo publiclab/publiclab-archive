@@ -6,12 +6,12 @@ author: JCD
 path: /wiki/cheap-slitless-digital-camera-spectroscope-cellular.md
 nid: 6229
 uid: 52506
-
+cids: 
 ---
 
 # cheap slitless digital camera spectroscope with cellular
 
-by [JCD](../profile/JCD)
+by [JCD](/profile/JCD)
 
 March 07, 2013 10:22 | Tags: 
 

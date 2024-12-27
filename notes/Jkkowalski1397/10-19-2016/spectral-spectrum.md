@@ -6,18 +6,16 @@ author: Jkkowalski1397
 path: /notes/Jkkowalski1397/10-19-2016/spectral-spectrum.md
 nid: 13580
 uid: 494854
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/434/original/image.jpeg)
 
 # Spectral spectrum
 
-by [Jkkowalski1397](../../../profile/Jkkowalski1397) | October 19, 2016 14:08
+by [Jkkowalski1397](/profile/Jkkowalski1397) | October 19, 2016 14:08
 
-October 19, 2016 14:08 | Tags: [hidden:response](../tag/hidden:response), [response:13586](../tag/response:13586)
+October 19, 2016 14:08 | Tags: [hidden:response](/tag/hidden:response), [response:13586](/tag/response:13586)
 
 ----
 

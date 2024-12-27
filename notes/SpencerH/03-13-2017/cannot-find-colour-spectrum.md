@@ -6,16 +6,14 @@ author: SpencerH
 path: /notes/SpencerH/03-13-2017/cannot-find-colour-spectrum.md
 nid: 14006
 uid: 503742
-
 cids: 16343,22679
-
 ---
 
 # Cannot find colour spectrum
 
-by [SpencerH](../../../profile/SpencerH) | March 13, 2017 09:42
+by [SpencerH](/profile/SpencerH) | March 13, 2017 09:42
 
-March 13, 2017 09:42 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench)
+March 13, 2017 09:42 | Tags: [question:spectral-workbench](/tag/question:spectral-workbench)
 
 ----
 

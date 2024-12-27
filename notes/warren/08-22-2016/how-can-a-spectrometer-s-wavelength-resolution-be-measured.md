@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/08-22-2016/how-can-a-spectrometer-s-wavelength-resolution-be-measured.md
 nid: 13385
 uid: 1
-
 cids: 22264
-
 ---
 
 # How can a spectrometer's wavelength resolution be measured?
 
-by [warren](../../../profile/warren) | August 22, 2016 21:11
+by [warren](/profile/warren) | August 22, 2016 21:11
 
-August 22, 2016 21:11 | Tags: [question:spectrometer](../tag/question:spectrometer), [question:spectrometry](../tag/question:spectrometry), [question:dssk](../tag/question:dssk)
+August 22, 2016 21:11 | Tags: [question:spectrometer](/tag/question:spectrometer), [question:spectrometry](/tag/question:spectrometry), [question:dssk](/tag/question:dssk)
 
 ----
 

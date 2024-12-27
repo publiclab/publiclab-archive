@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/11-29-2012/fold-spectrometer-instructions.md
 nid: 5043
 uid: 4
-
 cids: 2642,2649,2650,2652,2655
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-11-28 at 9.51.18 PM.png)
 
 # Fold-up Spectrometer Instructions
 
-by [mathew](../../../profile/mathew) | November 29, 2012 05:53
+by [mathew](/profile/mathew) | November 29, 2012 05:53
 
-November 29, 2012 05:53 | Tags: [spectrometer](../tag/spectrometer), [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer)
+November 29, 2012 05:53 | Tags: [spectrometer](/tag/spectrometer), [fold-up-mini-spectrometer](/tag/fold-up-mini-spectrometer)
 
 ----
 

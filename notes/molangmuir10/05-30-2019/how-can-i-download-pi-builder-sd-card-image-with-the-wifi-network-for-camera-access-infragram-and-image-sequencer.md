@@ -6,16 +6,14 @@ author: molangmuir10
 path: /notes/molangmuir10/05-30-2019/how-can-i-download-pi-builder-sd-card-image-with-the-wifi-network-for-camera-access-infragram-and-image-sequencer.md
 nid: 19577
 uid: 589023
-
 cids: 24303,24304,24723,24724,24727,24732,24733,24745,27157
-
 ---
 
 # How can I download pi-builder SD card image with the WIFI network for camera access, Infragram and Image Sequencer?
 
-by [molangmuir10](../../../profile/molangmuir10) | May 30, 2019 12:18
+by [molangmuir10](/profile/molangmuir10) | May 30, 2019 12:18
 
-May 30, 2019 12:18 | Tags: [pi-builder](../tag/pi-builder), [question:pi-builder](../tag/question:pi-builder)
+May 30, 2019 12:18 | Tags: [pi-builder](/tag/pi-builder), [question:pi-builder](/tag/question:pi-builder)
 
 ----
 

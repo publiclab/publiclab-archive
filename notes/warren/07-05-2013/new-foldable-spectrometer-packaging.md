@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/07-05-2013/new-foldable-spectrometer-packaging.md
 nid: 8696
 uid: 1
-
 cids: 6118
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/642/original/IMG_0077_copy.JPG)
 
 # New foldable spectrometer packaging
 
-by [warren](../../../profile/warren) | July 05, 2013 15:39
+by [warren](/profile/warren) | July 05, 2013 15:39
 
-July 05, 2013 15:39 | Tags: [spectrometer](../tag/spectrometer)
+July 05, 2013 15:39 | Tags: [spectrometer](/tag/spectrometer)
 
 ----
 

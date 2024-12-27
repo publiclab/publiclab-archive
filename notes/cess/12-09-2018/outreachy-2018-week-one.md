@@ -6,18 +6,16 @@ author: cess
 path: /notes/cess/12-09-2018/outreachy-2018-week-one.md
 nid: 17839
 uid: 525958
-
 cids: 21472,21473,21474,21475,21478,21483
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/257/original/CTD10112018213019.jpg)
 
 # Outreachy 2018: Week One
 
-by [cess](../../../profile/cess) | December 08, 2018 22:52
+by [cess](/profile/cess) | December 08, 2018 22:52
 
-December 08, 2018 22:52 | Tags: [blog](../tag/blog), [outreachy](../tag/outreachy)
+December 08, 2018 22:52 | Tags: [blog](/tag/blog), [outreachy](/tag/outreachy)
 
 ----
 

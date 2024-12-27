@@ -6,18 +6,16 @@ author: rmeister
 path: /notes/rmeister/07-18-2016/webjack-test-without-arduino.md
 nid: 13296
 uid: 468994
-
 cids: 14960,14962,14963,14964,14965,14966,14967,14971,15118,15119,15120,15121,15122,15123,15126,15127,15132,15155,15156,15157,15158,15176,15187,17964
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/116/original/audio_crossover.jpg)
 
 # WebJack: Test without Arduino
 
-by [rmeister](../../../profile/rmeister) | July 18, 2016 15:22
+by [rmeister](/profile/rmeister) | July 18, 2016 15:22
 
-July 18, 2016 15:22 | Tags: [arduino](../tag/arduino), [alphatest](../tag/alphatest), [sensors](../tag/sensors), [gsoc](../tag/gsoc), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [webjack](../tag/webjack), [headphone-jack](../tag/headphone-jack), [category:build](../tag/category:build), [activity:webjack](../tag/activity:webjack)
+July 18, 2016 15:22 | Tags: [arduino](/tag/arduino), [alphatest](/tag/alphatest), [sensors](/tag/sensors), [gsoc](/tag/gsoc), [barnstar:photo-documentation](/tag/barnstar:photo-documentation), [webjack](/tag/webjack), [headphone-jack](/tag/headphone-jack), [category:build](/tag/category:build), [activity:webjack](/tag/activity:webjack)
 
 ----
 

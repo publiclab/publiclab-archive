@@ -6,18 +6,16 @@ author: purl
 path: /notes/purl/01-28-2021/messages-from-the-mississippi-lesson-3-analyzing-data.md
 nid: 25564
 uid: 736598
-
 cids: 28066
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/825/original/EPA_flow_chart.png)
 
 # Messages From the Mississippi Lesson 3: Analyzing Data
 
-by [purl](../../../profile/purl) | January 28, 2021 15:57
+by [purl](/profile/purl) | January 28, 2021 15:57
 
-January 28, 2021 15:57 | Tags: [microplastics](../tag/microplastics), [babylegs](../tag/babylegs), [messagesfromthemississippi](../tag/messagesfromthemississippi), [lesson-community-microscope](../tag/lesson-community-microscope)
+January 28, 2021 15:57 | Tags: [microplastics](/tag/microplastics), [babylegs](/tag/babylegs), [messagesfromthemississippi](/tag/messagesfromthemississippi), [lesson-community-microscope](/tag/lesson-community-microscope)
 
 ----
 

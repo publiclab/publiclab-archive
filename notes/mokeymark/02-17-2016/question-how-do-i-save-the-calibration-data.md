@@ -6,16 +6,14 @@ author: mokeymark
 path: /notes/mokeymark/02-17-2016/question-how-do-i-save-the-calibration-data.md
 nid: 12701
 uid: 450298
-
 cids: 13643,13644,13646,13647,13648,13649,13650,13652,13653,13654,13655,13656,13658,13668,13697,13698,13699,13717,13747,13748,13749
-
 ---
 
 # Question: How do I save the calibration data?
 
-by [mokeymark](../../../profile/mokeymark) | February 17, 2016 15:05
+by [mokeymark](/profile/mokeymark) | February 17, 2016 15:05
 
-February 17, 2016 15:05 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered)
+February 17, 2016 15:05 | Tags: [question:spectral-workbench](/tag/question:spectral-workbench), [answered](/tag/answered)
 
 ----
 

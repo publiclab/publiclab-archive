@@ -6,18 +6,16 @@ author: svanderwaal
 path: /notes/svanderwaal/09-06-2013/kitemapping-in-the-netherlands.md
 nid: 9299
 uid: 236313
-
 cids: 6764,6918,6943
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/416/original/2013-06-28_15.50.16.jpg)
 
 # Kitemapping in the Netherlands
 
-by [svanderwaal](../../../profile/svanderwaal) | September 06, 2013 08:04
+by [svanderwaal](/profile/svanderwaal) | September 06, 2013 08:04
 
-September 06, 2013 08:04 | Tags: [balloon-mapping](../tag/balloon-mapping), [guides](../tag/guides), [waagsociety](../tag/waagsociety), [amsterdam](../tag/amsterdam), [netherlands](../tag/netherlands), [waag](../tag/waag), [lat:52.372807](../tag/lat:52.372807), [lon:4.900291](../tag/lon:4.900291), [place:waag-society-nieuwmarkt-amsterdam-netherlands](../tag/place:waag-society-nieuwmarkt-amsterdam-netherlands)
+September 06, 2013 08:04 | Tags: [balloon-mapping](/tag/balloon-mapping), [guides](/tag/guides), [waagsociety](/tag/waagsociety), [amsterdam](/tag/amsterdam), [netherlands](/tag/netherlands), [waag](/tag/waag), [lat:52.372807](/tag/lat:52.372807), [lon:4.900291](/tag/lon:4.900291), [place:waag-society-nieuwmarkt-amsterdam-netherlands](/tag/place:waag-society-nieuwmarkt-amsterdam-netherlands)
 
 ----
 

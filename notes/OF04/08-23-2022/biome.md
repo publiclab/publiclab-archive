@@ -6,18 +6,16 @@ author: OF04
 path: /notes/OF04/08-23-2022/biome.md
 nid: 34897
 uid: 810245
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/059/original/download_%281%29.jpg)
 
 # Biome
 
-by [OF04](../../../profile/OF04) | August 23, 2022 13:47
+by [OF04](/profile/OF04) | August 23, 2022 13:47
 
-August 23, 2022 13:47 | Tags: [mississippi-river](../tag/mississippi-river)
+August 23, 2022 13:47 | Tags: [mississippi-river](/tag/mississippi-river)
 
 ----
 

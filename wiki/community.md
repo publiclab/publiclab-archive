@@ -6,14 +6,14 @@ author: liz
 path: /wiki/community.md
 nid: 17014
 uid: 7
-
+cids: 
 ---
 
 # Community
 
-by [cess](../profile/cess), [liz](../profile/liz), [warren](../profile/warren)
+by [cess](/profile/cess), [liz](/profile/liz), [warren](/profile/warren)
 
-August 28, 2018 22:36 | Tags: [community](../tag/community)
+August 28, 2018 22:36 | Tags: [community](/tag/community)
 
 ----
 

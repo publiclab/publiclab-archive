@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/04-30-2017/data-logger-shield-for-nano.md
 nid: 14152
 uid: 554
-
 cids: 16668,16669,16670,16671,16672,16674,16680,16683,16685,16697,16702,16810,16811,18220,18223,24345,25526,30774
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/276/original/NanoLog_20170430-8321ps.jpg)
 
 # Data logger shield for Nano
 
-by [cfastie](../../../profile/cfastie) | April 30, 2017 17:07
+by [cfastie](/profile/cfastie) | April 30, 2017 17:07
 
-April 30, 2017 17:07 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [data-logging](../tag/data-logging), [activity:arduino](../tag/activity:arduino), [activity:datalogger](../tag/activity:datalogger), [arduino-nano](../tag/arduino-nano), [response:14135](../tag/response:14135), [nano-data-logger](../tag/nano-data-logger), [bme280](../tag/bme280), [activity:nano-data-logger](../tag/activity:nano-data-logger), [bmp280](../tag/bmp280)
+April 30, 2017 17:07 | Tags: [arduino](/tag/arduino), [sensors](/tag/sensors), [data-logging](/tag/data-logging), [activity:arduino](/tag/activity:arduino), [activity:datalogger](/tag/activity:datalogger), [arduino-nano](/tag/arduino-nano), [response:14135](/tag/response:14135), [nano-data-logger](/tag/nano-data-logger), [bme280](/tag/bme280), [activity:nano-data-logger](/tag/activity:nano-data-logger), [bmp280](/tag/bmp280)
 
 ----
 

@@ -6,18 +6,16 @@ author: sarasage
 path: /notes/sarasage/10-29-2021/logging-complex-odors.md
 nid: 27983
 uid: 451398
-
 cids: 29372,29373,29376,29436,29606,30803,30806
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/999/original/Wheel_of_Misfortune.jpg)
 
 # Logging Complex Odors
 
-by [sarasage](../../../profile/sarasage) | October 29, 2021 18:50
+by [sarasage](/profile/sarasage) | October 29, 2021 18:50
 
-October 29, 2021 18:50 | Tags: [landfill](../tag/landfill), [air-quality](../tag/air-quality), [blog](../tag/blog), [barnstar:empiricism](../tag/barnstar:empiricism), [odor](../tag/odor), [odor-mapping](../tag/odor-mapping), [VVAMP](../tag/VVAMP), [ambient-air](../tag/ambient-air)
+October 29, 2021 18:50 | Tags: [landfill](/tag/landfill), [air-quality](/tag/air-quality), [blog](/tag/blog), [barnstar:empiricism](/tag/barnstar:empiricism), [odor](/tag/odor), [odor-mapping](/tag/odor-mapping), [VVAMP](/tag/VVAMP), [ambient-air](/tag/ambient-air)
 
 ----
 

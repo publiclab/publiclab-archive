@@ -6,12 +6,12 @@ author: warren
 path: /wiki/mon-april-25-2011-agenda.md
 nid: 187
 uid: 1
-
+cids: 
 ---
 
 # Mon April 25 2011 Agenda
 
-by [adam-griffith](../profile/adam-griffith), [warren](../profile/warren)
+by [adam-griffith](/profile/adam-griffith), [warren](/profile/warren)
 
 April 21, 2011 13:14 | Tags: 
 

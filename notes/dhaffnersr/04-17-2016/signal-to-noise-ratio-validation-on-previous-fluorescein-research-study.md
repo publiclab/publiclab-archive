@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/04-17-2016/signal-to-noise-ratio-validation-on-previous-fluorescein-research-study.md
 nid: 12991
 uid: 461120
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/616/original/PIC_0113.JPG)
 
 # Signal to Noise ratio validation on previous fluorescein research study
 
-by [dhaffnersr](../../../profile/dhaffnersr) | April 17, 2016 10:52
+by [dhaffnersr](/profile/dhaffnersr) | April 17, 2016 10:52
 
 April 17, 2016 10:52 | Tags: 
 

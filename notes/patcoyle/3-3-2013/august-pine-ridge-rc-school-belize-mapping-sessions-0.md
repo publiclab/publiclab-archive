@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/3-3-2013/august-pine-ridge-rc-school-belize-mapping-sessions-0.md
 nid: 6175
 uid: 77
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/P1070320_kids thumbs up_0.JPG)
 
 # August Pine Ridge RC school, Belize mapping session
 
-by [patcoyle](../../../profile/patcoyle) | March 03, 2013 23:24
+by [patcoyle](/profile/patcoyle) | March 03, 2013 23:24
 
-March 03, 2013 23:24 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [belize](../tag/belize), [belizeopensource](../tag/belizeopensource)
+March 03, 2013 23:24 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [belize](/tag/belize), [belizeopensource](/tag/belizeopensource)
 
 ----
 

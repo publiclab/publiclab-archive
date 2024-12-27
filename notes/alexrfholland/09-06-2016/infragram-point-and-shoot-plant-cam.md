@@ -6,18 +6,16 @@ author: alexrfholland
 path: /notes/alexrfholland/09-06-2016/infragram-point-and-shoot-plant-cam.md
 nid: 13418
 uid: 490194
-
 cids: 15320,22274,22277
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/928/original/IMAG0099.JPG)
 
 # Infragram Point and Shoot Plant Cam
 
-by [alexrfholland](../../../profile/alexrfholland) | September 06, 2016 03:53
+by [alexrfholland](/profile/alexrfholland) | September 06, 2016 03:53
 
-September 06, 2016 03:53 | Tags: [infragram](../tag/infragram), [question:infragram](../tag/question:infragram), [question:infragram-point-shoot](../tag/question:infragram-point-shoot)
+September 06, 2016 03:53 | Tags: [infragram](/tag/infragram), [question:infragram](/tag/question:infragram), [question:infragram-point-shoot](/tag/question:infragram-point-shoot)
 
 ----
 

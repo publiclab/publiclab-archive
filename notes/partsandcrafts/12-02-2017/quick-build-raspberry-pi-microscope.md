@@ -6,18 +6,16 @@ author: partsandcrafts
 path: /notes/partsandcrafts/12-02-2017/quick-build-raspberry-pi-microscope.md
 nid: 15285
 uid: 66014
-
 cids: 17867,17877,17920,17927,17930,17931,17932,18242,18244,18299,18300,18301,18302
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/698/original/removing_lens.jpg)
 
 # Quick Build:  Basic Microscope Kit with Raspberry Pi
 
-by [partsandcrafts](../../../profile/partsandcrafts) | December 02, 2017 03:15
+by [partsandcrafts](/profile/partsandcrafts) | December 02, 2017 03:15
 
-December 02, 2017 03:15 | Tags: [raspberry-pi](../tag/raspberry-pi), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [with:kgradow1](../tag/with:kgradow1), [with:warren](../tag/with:warren), [microscope](../tag/microscope), [passive-particle-monitors](../tag/passive-particle-monitors), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes), [with:wmacfarl](../tag/with:wmacfarl), [with:bmela](../tag/with:bmela), [activity:basic-microscope](../tag/activity:basic-microscope), [series:basic-microscope](../tag/series:basic-microscope)
+December 02, 2017 03:15 | Tags: [raspberry-pi](/tag/raspberry-pi), [barnstar:photo-documentation](/tag/barnstar:photo-documentation), [with:kgradow1](/tag/with:kgradow1), [with:warren](/tag/with:warren), [microscope](/tag/microscope), [passive-particle-monitors](/tag/passive-particle-monitors), [microscopes](/tag/microscopes), [activity:microscopes](/tag/activity:microscopes), [with:wmacfarl](/tag/with:wmacfarl), [with:bmela](/tag/with:bmela), [activity:basic-microscope](/tag/activity:basic-microscope), [series:basic-microscope](/tag/series:basic-microscope)
 
 ----
 

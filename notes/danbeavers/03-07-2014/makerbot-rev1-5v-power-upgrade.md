@@ -6,18 +6,16 @@ author: danbeavers
 path: /notes/danbeavers/03-07-2014/makerbot-rev1-5v-power-upgrade.md
 nid: 10137
 uid: 51
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/176/original/115_0039.JPG)
 
 # Makerbot Rev1 5v Power Upgrade
 
-by [danbeavers](../../../profile/danbeavers) | March 07, 2014 18:34
+by [danbeavers](/profile/danbeavers) | March 07, 2014 18:34
 
-March 07, 2014 18:34 | Tags: [3d-printing](../tag/3d-printing), [makerbot](../tag/makerbot), [maintenance](../tag/maintenance)
+March 07, 2014 18:34 | Tags: [3d-printing](/tag/3d-printing), [makerbot](/tag/makerbot), [maintenance](/tag/maintenance)
 
 ----
 

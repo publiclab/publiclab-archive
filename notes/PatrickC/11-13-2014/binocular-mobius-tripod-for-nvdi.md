@@ -6,18 +6,16 @@ author: PatrickC
 path: /notes/PatrickC/11-13-2014/binocular-mobius-tripod-for-nvdi.md
 nid: 11339
 uid: 431386
-
 cids: 10741,10742,10769,15635
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/834/original/nvdi_IR_blue_crop.png)
 
 # Binocular Mobius Tripod for NVDI.
 
-by [PatrickC](../../../profile/PatrickC) | November 13, 2014 23:19
+by [PatrickC](/profile/PatrickC) | November 13, 2014 23:19
 
-November 13, 2014 23:19 | Tags: [nvdi](../tag/nvdi), [gradient](../tag/gradient), [first-time-poster](../tag/first-time-poster)
+November 13, 2014 23:19 | Tags: [nvdi](/tag/nvdi), [gradient](/tag/gradient), [first-time-poster](/tag/first-time-poster)
 
 ----
 

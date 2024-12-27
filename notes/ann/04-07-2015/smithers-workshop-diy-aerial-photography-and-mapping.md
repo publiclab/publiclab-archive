@@ -6,18 +6,16 @@ author: ann
 path: /notes/ann/04-07-2015/smithers-workshop-diy-aerial-photography-and-mapping.md
 nid: 11747
 uid: 421543
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/558/original/Workshop_Flyer.png)
 
 # Smithers Workshop: DIY Aerial Photography and Mapping
 
-by [ann](../../../profile/ann) | April 07, 2015 01:52
+by [ann](/profile/ann) | April 07, 2015 01:52
 
-April 07, 2015 01:52 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [events:northwest](../tag/events:northwest), [date:04-19-2015](../tag/date:04-19-2015), [replication:14022](../tag/replication:14022)
+April 07, 2015 01:52 | Tags: [event](/tag/event), [event:rsvp](/tag/event:rsvp), [events:northwest](/tag/events:northwest), [date:04-19-2015](/tag/date:04-19-2015), [replication:14022](/tag/replication:14022)
 
 ----
 

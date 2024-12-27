@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/08-18-2016/introducing-the-environmental-evidence-project-a-blog-series-from-public-lab.md
 nid: 13365
 uid: 1
-
 cids: 15177,15185,15346,15513,15517
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/658/original/8516111863_38ff97e56e_b.jpg)
 
 # Introducing the Environmental Evidence Project, a blog series from Public Lab
 
-by [warren](../../../profile/warren) | August 18, 2016 14:57
+by [warren](/profile/warren) | August 18, 2016 14:57
 
-August 18, 2016 14:57 | Tags: [evidence](../tag/evidence), [blog](../tag/blog), [legal](../tag/legal), [with:gretchengehrke](../tag/with:gretchengehrke), [evidence-project](../tag/evidence-project), [proof](../tag/proof), [series:evidence-project](../tag/series:evidence-project), [law-and-policy](../tag/law-and-policy)
+August 18, 2016 14:57 | Tags: [evidence](/tag/evidence), [blog](/tag/blog), [legal](/tag/legal), [with:gretchengehrke](/tag/with:gretchengehrke), [evidence-project](/tag/evidence-project), [proof](/tag/proof), [series:evidence-project](/tag/series:evidence-project), [law-and-policy](/tag/law-and-policy)
 
 ----
 
@@ -65,7 +63,7 @@ Thanks!
 
 We'll also be adding some of our questions into the new [Q&A system](/questions) which was recently added to this site. As people add questions on the topic of `evidence`, they'll appear here:
 
-[question:evidence](../../tag/question:evidence)
+[question:evidence](/tag/question:evidence)
 
 <a class="btn btn-primary" href="/post?tags=evidence,question:evidence&template=question">Ask a question about evidence</a>
 

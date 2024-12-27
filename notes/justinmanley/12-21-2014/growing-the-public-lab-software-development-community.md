@@ -6,18 +6,16 @@ author: justinmanley
 path: /notes/justinmanley/12-21-2014/growing-the-public-lab-software-development-community.md
 nid: 11490
 uid: 421556
-
 cids: 10984,10989,10990,10993,10997,10998
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/515/original/contributing.png)
 
 # Growing the Public Lab Software Development Community
 
-by [justinmanley](../../../profile/justinmanley) | December 21, 2014 19:25
+by [justinmanley](/profile/justinmanley) | December 21, 2014 19:25
 
-December 21, 2014 19:25 | Tags: [community](../tag/community), [server](../tag/server), [software](../tag/software), [development](../tag/development), [software-deployment](../tag/software-deployment), [developers](../tag/developers), [barnstar:basic](../tag/barnstar:basic), [plots-dev](../tag/plots-dev), [contributing](../tag/contributing), [software-development](../tag/software-development), [deployment](../tag/deployment), [software-outreach](../tag/software-outreach)
+December 21, 2014 19:25 | Tags: [community](/tag/community), [server](/tag/server), [software](/tag/software), [development](/tag/development), [software-deployment](/tag/software-deployment), [developers](/tag/developers), [barnstar:basic](/tag/barnstar:basic), [plots-dev](/tag/plots-dev), [contributing](/tag/contributing), [software-development](/tag/software-development), [deployment](/tag/deployment), [software-outreach](/tag/software-outreach)
 
 ----
 

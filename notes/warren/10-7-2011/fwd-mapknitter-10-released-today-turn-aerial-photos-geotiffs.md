@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/10-7-2011/fwd-mapknitter-10-released-today-turn-aerial-photos-geotiffs.md
 nid: 502
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/knitter_0.png)
 
 # MapKnitter 1.0 released today, turn aerial photos into GeoTiffs!
 
-by [warren](../../../profile/warren) | October 08, 2011 00:49
+by [warren](/profile/warren) | October 08, 2011 00:49
 
 October 08, 2011 00:49 | Tags: 
 

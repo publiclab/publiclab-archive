@@ -6,12 +6,12 @@ author: bhamster
 path: /wiki/sandbox-soil-remediation.md
 nid: 25908
 uid: 664477
-
+cids: 
 ---
 
 # sandbox-soil-remediation
 
-by [bhamster](../profile/bhamster)
+by [bhamster](/profile/bhamster)
 
 March 12, 2021 19:32 | Tags: 
 
@@ -45,7 +45,7 @@ _You can also follow along and get updates on this topic by [subscribing to `soi
 
 Questions from the Public Lab community tagged with `soil-remediation` will appear here
 
-[soil-remediation](../../tag/question:soil-remediation)
+[soil-remediation](/tag/question:soil-remediation)
 
 <br>
 
@@ -53,7 +53,7 @@ Questions from the Public Lab community tagged with `soil-remediation` will appe
 
 Activities on Public Lab tagged with `soil-remediation` will appear here
 
-[soil-remediation](../../tag/activity:soil-remediation)
+[soil-remediation](/tag/activity:soil-remediation)
 
 <br>
 

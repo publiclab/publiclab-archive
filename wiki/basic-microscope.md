@@ -6,16 +6,16 @@ author: warren
 path: /wiki/basic-microscope.md
 nid: 15338
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/880/original/OI000139_2.jpg)
 
 # Basic Microscope Kit
 
-by [asnow](../profile/asnow), [stevie](../profile/stevie), [warren](../profile/warren)
+by [asnow](/profile/asnow), [stevie](/profile/stevie), [warren](/profile/warren)
 
-December 08, 2017 19:17 | Tags: [microscopes](../tag/microscopes), [community-kits](../tag/community-kits), [new-community-kits](../tag/new-community-kits), [parent:microscopes](../tag/parent:microscopes), [13503](../tag/13503), [community-kits-prep](../tag/community-kits-prep)
+December 08, 2017 19:17 | Tags: [microscopes](/tag/microscopes), [community-kits](/tag/community-kits), [new-community-kits](/tag/new-community-kits), [parent:microscopes](/tag/parent:microscopes), [13503](/tag/13503), [community-kits-prep](/tag/community-kits-prep)
 
 ----
 
@@ -74,19 +74,19 @@ _Basic Prototyping Kit now available for sale in the [Public Lab store](https://
 
 ## Questions
 
-[basic-microscope](../../tag/question:basic-microscope)
+[basic-microscope](/tag/question:basic-microscope)
 
 ![](https://publiclab.org/system/images/photos/000/022/864/medium/Screenshot_2017-12-08_at_5.12.19_PM.png)
 
 ## Activities
 
-[basic-microscope](../../tag/activity:basic-microscope)
+[basic-microscope](/tag/activity:basic-microscope)
 
 ## Challenges
 
 We're working to refine and improve DIY spectrometry on a number of fronts; here, take a look at the leading challenges we're hoping to solve, and post your own. For now, we're using the Q&A feature, so just click "Ask a question" to post your own challenge.
 
-[basic-microscope-challenge](../../tag/question:basic-microscope-challenge)
+[basic-microscope-challenge](/tag/question:basic-microscope-challenge)
 
 ****
 

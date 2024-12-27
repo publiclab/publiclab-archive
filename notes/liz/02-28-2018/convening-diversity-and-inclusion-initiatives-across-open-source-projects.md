@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/02-28-2018/convening-diversity-and-inclusion-initiatives-across-open-source-projects.md
 nid: 15840
 uid: 7
-
 cids: 18675,26931,26952
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/766/original/Screen_Shot_2018-02-28_at_5.56.08_PM.png)
 
 # Convening diversity and inclusion initiatives across open source projects
 
-by [liz](../../../profile/liz) | February 28, 2018 23:02
+by [liz](/profile/liz) | February 28, 2018 23:02
 
-February 28, 2018 23:02 | Tags: [community](../tag/community), [evaluation](../tag/evaluation), [software-outreach](../tag/software-outreach), [eval](../tag/eval), [diversity](../tag/diversity), [welcoming](../tag/welcoming), [inclusion](../tag/inclusion)
+February 28, 2018 23:02 | Tags: [community](/tag/community), [evaluation](/tag/evaluation), [software-outreach](/tag/software-outreach), [eval](/tag/eval), [diversity](/tag/diversity), [welcoming](/tag/welcoming), [inclusion](/tag/inclusion)
 
 ----
 

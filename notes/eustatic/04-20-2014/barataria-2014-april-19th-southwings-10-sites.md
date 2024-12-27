@@ -6,18 +6,16 @@ author: eustatic
 path: /04-20-2014/barataria-2014-april-19th-southwings-10-sites.md
 nid: 10337
 uid: 379
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/867/original/IMG_1009_BM5_wide_out.JPG)
 
 # Barataria 2014: April 19th Southwings 10 sites
 
-by [eustatic](../../../profile/eustatic) | April 20, 2014 22:36
+by [eustatic](/profile/eustatic) | April 20, 2014 22:36
 
-April 20, 2014 22:36 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [barataria-bay](../tag/barataria-bay), [wetlands](../tag/wetlands), [louisiana](../tag/louisiana), [wetland](../tag/wetland), [barataria](../tag/barataria), [bp](../tag/bp), [patagonia](../tag/patagonia), [response:10045](../tag/response:10045), [place:barataria-bay](../tag/place:barataria-bay), [lat:29.380978](../tag/lat:29.380978), [lon:-89.831771](../tag/lon:-89.831771)
+April 20, 2014 22:36 | Tags: [gulf-coast](/tag/gulf-coast), [balloon-mapping](/tag/balloon-mapping), [barataria-bay](/tag/barataria-bay), [wetlands](/tag/wetlands), [louisiana](/tag/louisiana), [wetland](/tag/wetland), [barataria](/tag/barataria), [bp](/tag/bp), [patagonia](/tag/patagonia), [response:10045](/tag/response:10045), [place:barataria-bay](/tag/place:barataria-bay), [lat:29.380978](/tag/lat:29.380978), [lon:-89.831771](/tag/lon:-89.831771)
 
 ----
 

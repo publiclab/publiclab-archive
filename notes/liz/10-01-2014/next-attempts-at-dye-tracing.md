@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/10-01-2014/next-attempts-at-dye-tracing.md
 nid: 11223
 uid: 7
-
 cids: 10481,10482,10486,10502,10557
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/267/original/IMG_1393.JPG)
 
 # next attempts at dye tracing
 
-by [liz](../../../profile/liz) | October 01, 2014 17:41
+by [liz](/profile/liz) | October 01, 2014 17:41
 
-October 01, 2014 17:41 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [gowanus](../tag/gowanus), [wetlands](../tag/wetlands), [dye-tracing](../tag/dye-tracing), [northeast](../tag/northeast), [with:natasia](../tag/with:natasia), [with:yvv](../tag/with:yvv), [with:eymund](../tag/with:eymund), [dye](../tag/dye), [inflow](../tag/inflow), [lat:40.674568](../tag/lat:40.674568), [lon:-73.989658](../tag/lon:-73.989658), [place:gowanus-canal](../tag/place:gowanus-canal)
+October 01, 2014 17:41 | Tags: [new-york-city](/tag/new-york-city), [balloon-mapping](/tag/balloon-mapping), [gowanus](/tag/gowanus), [wetlands](/tag/wetlands), [dye-tracing](/tag/dye-tracing), [northeast](/tag/northeast), [with:natasia](/tag/with:natasia), [with:yvv](/tag/with:yvv), [with:eymund](/tag/with:eymund), [dye](/tag/dye), [inflow](/tag/inflow), [lat:40.674568](/tag/lat:40.674568), [lon:-73.989658](/tag/lon:-73.989658), [place:gowanus-canal](/tag/place:gowanus-canal)
 
 ----
 

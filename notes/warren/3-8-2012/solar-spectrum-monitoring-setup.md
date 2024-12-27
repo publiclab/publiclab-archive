@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/3-8-2012/solar-spectrum-monitoring-setup.md
 nid: 905
 uid: 1
-
 cids: 526,527
-
 ---
 
 ![](https://publiclab.org/sites/default/files/spectrometer-solar.jpg)
 
 # Solar spectrum monitoring setup
 
-by [warren](../../../profile/warren) | March 08, 2012 18:29
+by [warren](/profile/warren) | March 08, 2012 18:29
 
-March 08, 2012 18:29 | Tags: [spectrometer](../tag/spectrometer), [solar](../tag/solar)
+March 08, 2012 18:29 | Tags: [spectrometer](/tag/spectrometer), [solar](/tag/solar)
 
 ----
 

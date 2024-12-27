@@ -6,18 +6,16 @@ author: sarasage
 path: /notes/sarasage/09-14-2021/troubleshooting-the-bucket-monitor.md
 nid: 27724
 uid: 451398
-
 cids: 29239,29252,29268,29269,29271,29329,29343
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/814/original/Main.jpg)
 
 # Troubleshooting the Bucket Monitor
 
-by [sarasage](../../../profile/sarasage) | September 14, 2021 00:45
+by [sarasage](/profile/sarasage) | September 14, 2021 00:45
 
-September 14, 2021 00:45 | Tags: [air-quality](../tag/air-quality), [lat:34](../tag/lat:34), [lon:-118](../tag/lon:-118), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor), [question:bucket-monitor](../tag/question:bucket-monitor), [VVAMP](../tag/VVAMP), [316w3b](../tag/316w3b)
+September 14, 2021 00:45 | Tags: [air-quality](/tag/air-quality), [lat:34](/tag/lat:34), [lon:-118](/tag/lon:-118), [zoom:6](/tag/zoom:6), [bucket-monitor](/tag/bucket-monitor), [question:bucket-monitor](/tag/question:bucket-monitor), [VVAMP](/tag/VVAMP), [316w3b](/tag/316w3b)
 
 ----
 

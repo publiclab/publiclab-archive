@@ -6,12 +6,12 @@ author: Shannon
 path: /wiki/staff-time-keeping-2012-2013.md
 nid: 3350
 uid: 9
-
+cids: 
 ---
 
 # Staff time keeping 2012-2013
 
-by [warren](../profile/warren), [Shannon](../profile/Shannon)
+by [warren](/profile/warren), [Shannon](/profile/Shannon)
 
 August 21, 2012 10:08 | Tags: 
 

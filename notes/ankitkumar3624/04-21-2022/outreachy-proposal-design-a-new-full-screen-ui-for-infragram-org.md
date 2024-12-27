@@ -6,18 +6,16 @@ author: ankitkumar3624
 path: /notes/ankitkumar3624/04-21-2022/outreachy-proposal-design-a-new-full-screen-ui-for-infragram-org.md
 nid: 30540
 uid: 796026
-
 cids: 30128
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/301/original/Public_Lab.png)
 
 # Outreachy Proposal : Design a new full-screen UI for Infragram.org
 
-by [ankitkumar3624](../../../profile/ankitkumar3624) | April 21, 2022 05:26
+by [ankitkumar3624](/profile/ankitkumar3624) | April 21, 2022 05:26
 
-April 21, 2022 05:26 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [zoom:0](../tag/zoom:0), [lat:25.594094](../tag/lat:25.594094), [lon:85.137564](../tag/lon:85.137564), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
+April 21, 2022 05:26 | Tags: [software](/tag/software), [outreachy](/tag/outreachy), [first-time-poster](/tag/first-time-poster), [zoom:0](/tag/zoom:0), [lat:25.594094](/tag/lat:25.594094), [lon:85.137564](/tag/lon:85.137564), [outreachy-2022](/tag/outreachy-2022), [outreachy-summer-2022](/tag/outreachy-summer-2022)
 
 ----
 

@@ -6,16 +6,14 @@ author: klie
 path: /notes/klie/03-31-2017/public-lab-featured-on-pbs-documentary.md
 nid: 14073
 uid: 441262
-
 cids: 16584,16591
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/982/original/C_C_FB_POST.jpg)
 
 # Public Lab Featured on PBS Documentary
 
-by [klie](../../../profile/klie) | March 31, 2017 21:07
+by [klie](/profile/klie) | March 31, 2017 21:07
 
 March 31, 2017 21:07 | Tags: 
 

@@ -6,16 +6,14 @@ author: JorgeHM
 path: /notes/JorgeHM/03-25-2021/help-cannot-see-any-live-video-or-take-pictures.md
 nid: 26029
 uid: 750126
-
 cids: 28419,28423,28426,28461,28611,28613,28702,28810,28826,28997,29301
-
 ---
 
 # HELP! Cannot see any live video or take pictures.
 
-by [JorgeHM](../../../profile/JorgeHM) | March 25, 2021 18:10
+by [JorgeHM](/profile/JorgeHM) | March 25, 2021 18:10
 
-March 25, 2021 18:10 | Tags: [android](../tag/android), [wifi-camera](../tag/wifi-camera), [raspberry-pi-infragram](../tag/raspberry-pi-infragram), [question:raspberry-pi-infragram](../tag/question:raspberry-pi-infragram), [question:android](../tag/question:android), [first-time-poster](../tag/first-time-poster)
+March 25, 2021 18:10 | Tags: [android](/tag/android), [wifi-camera](/tag/wifi-camera), [raspberry-pi-infragram](/tag/raspberry-pi-infragram), [question:raspberry-pi-infragram](/tag/question:raspberry-pi-infragram), [question:android](/tag/question:android), [first-time-poster](/tag/first-time-poster)
 
 ----
 

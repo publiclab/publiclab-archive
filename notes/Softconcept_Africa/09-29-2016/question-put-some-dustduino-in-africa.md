@@ -6,16 +6,14 @@ author: Softconcept_Africa
 path: /notes/Softconcept_Africa/09-29-2016/question-put-some-dustduino-in-africa.md
 nid: 13506
 uid: 493257
-
 cids: 22319
-
 ---
 
 # Question: Put some dustduino in africa
 
-by [Softconcept_Africa](../../../profile/Softconcept_Africa) | September 29, 2016 15:29
+by [Softconcept_Africa](/profile/Softconcept_Africa) | September 29, 2016 15:29
 
-September 29, 2016 15:29 | Tags: [question:dustduino](../tag/question:dustduino), [question:africa](../tag/question:africa), [question:abidjan](../tag/question:abidjan)
+September 29, 2016 15:29 | Tags: [question:dustduino](/tag/question:dustduino), [question:africa](/tag/question:africa), [question:abidjan](/tag/question:abidjan)
 
 ----
 

@@ -6,18 +6,16 @@ author: sara
 path: /notes/sara/6-13-2012/conference-update-heralds-crisis-ecological-risk-and-role-sentinels.md
 nid: 2471
 uid: 8
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/-1_0.jpg)
 
 # Conference Update: Heralds of Crisis: Ecological Risk and the Role of Sentinels
 
-by [sara](../../../profile/sara) | June 13, 2012 13:58
+by [sara](/profile/sara) | June 13, 2012 13:58
 
-June 13, 2012 13:58 | Tags: [conferences](../tag/conferences)
+June 13, 2012 13:58 | Tags: [conferences](/tag/conferences)
 
 ----
 

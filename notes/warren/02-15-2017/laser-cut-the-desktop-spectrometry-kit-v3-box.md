@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/02-15-2017/laser-cut-the-desktop-spectrometry-kit-v3-box.md
 nid: 13931
 uid: 1
-
 cids: 16183,16184,16185,16186,16187,16192,16193,16194,31354
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/564/original/tmp_6326-IMG_20170215_152044_365-505216256.jpg)
 
 # Laser-cut the Desktop Spectrometry Kit v3 box
 
-by [warren](../../../profile/warren) | February 15, 2017 20:43
+by [warren](/profile/warren) | February 15, 2017 20:43
 
-February 15, 2017 20:43 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [laser-cut](../tag/laser-cut), [spectrometry](../tag/spectrometry), [dsk](../tag/dsk), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [upgrade:spectrometry](../tag/upgrade:spectrometry), [seeks:builds](../tag/seeks:builds), [laser-cutting](../tag/laser-cutting), [ponoko](../tag/ponoko), [replication:13560](../tag/replication:13560)
+February 15, 2017 20:43 | Tags: [spectrometer](/tag/spectrometer), [kits](/tag/kits), [laser-cut](/tag/laser-cut), [spectrometry](/tag/spectrometry), [dsk](/tag/dsk), [desktop-spectrometry-kit](/tag/desktop-spectrometry-kit), [upgrade:spectrometry](/tag/upgrade:spectrometry), [seeks:builds](/tag/seeks:builds), [laser-cutting](/tag/laser-cutting), [ponoko](/tag/ponoko), [replication:13560](/tag/replication:13560)
 
 ----
 

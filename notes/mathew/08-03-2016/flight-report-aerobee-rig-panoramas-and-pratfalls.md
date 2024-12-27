@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/08-03-2016/flight-report-aerobee-rig-panoramas-and-pratfalls.md
 nid: 13326
 uid: 4
-
 cids: 15069,15074,15078
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/316/original/P_20160729_135108_crop.jpg)
 
 # Flight report: Aerobee Rig panoramas and pratfalls
 
-by [mathew](../../../profile/mathew) | August 03, 2016 01:34
+by [mathew](/profile/mathew) | August 03, 2016 01:34
 
-August 03, 2016 01:34 | Tags: [kite-mapping](../tag/kite-mapping), [kite](../tag/kite), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [10](../tag/10), [kaptery](../tag/kaptery), [aerobee](../tag/aerobee), [jerkpan](../tag/jerkpan), [sauteaufirstnation](../tag/sauteaufirstnation), [crash](../tag/crash), [off-wind-flying](../tag/off-wind-flying), [flight-report](../tag/flight-report)
+August 03, 2016 01:34 | Tags: [kite-mapping](/tag/kite-mapping), [kite](/tag/kite), [kap](/tag/kap), [photo-rig](/tag/photo-rig), [10](/tag/10), [kaptery](/tag/kaptery), [aerobee](/tag/aerobee), [jerkpan](/tag/jerkpan), [sauteaufirstnation](/tag/sauteaufirstnation), [crash](/tag/crash), [off-wind-flying](/tag/off-wind-flying), [flight-report](/tag/flight-report)
 
 ----
 

@@ -6,18 +6,16 @@ author: Matej
 path: /notes/Matej/12-21-2015/first-pig-oil-only-absorbent-mat-pad-test.md
 nid: 12536
 uid: 451808
-
 cids: 13247,13251,13552
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/442/original/unboxing.jpg)
 
 # First "PIG Oil Only Absorbent Mat Pad" Test
 
-by [Matej](../../../profile/Matej) | December 21, 2015 08:43
+by [Matej](/profile/Matej) | December 21, 2015 08:43
 
-December 21, 2015 08:43 | Tags: [spectrometer](../tag/spectrometer), [oil-spill](../tag/oil-spill), [oil](../tag/oil), [water-quality](../tag/water-quality), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:basic](../tag/barnstar:basic), [sheen](../tag/sheen), [otk](../tag/otk), [os](../tag/os), [out](../tag/out), [pig](../tag/pig), [activity:spectrometry-sampling](../tag/activity:spectrometry-sampling)
+December 21, 2015 08:43 | Tags: [spectrometer](/tag/spectrometer), [oil-spill](/tag/oil-spill), [oil](/tag/oil), [water-quality](/tag/water-quality), [oil-testing-kit](/tag/oil-testing-kit), [barnstar:basic](/tag/barnstar:basic), [sheen](/tag/sheen), [otk](/tag/otk), [os](/tag/os), [out](/tag/out), [pig](/tag/pig), [activity:spectrometry-sampling](/tag/activity:spectrometry-sampling)
 
 ----
 

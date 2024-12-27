@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/10-07-2016/sizing-images-at-portland-science-hackday.md
 nid: 13533
 uid: 4
-
 cids: 15582,16073,16076,16587
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/353/original/MacroProcess.gif)
 
 # Sizing particles in microscope images at Portland Science Hackday
 
-by [mathew](../../../profile/mathew) | October 07, 2016 19:00
+by [mathew](/profile/mathew) | October 07, 2016 19:00
 
-October 07, 2016 19:00 | Tags: [calibration](../tag/calibration), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particles](../tag/particles), [particle-monitoring](../tag/particle-monitoring), [microscope](../tag/microscope), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [parent:frac-sand](../tag/parent:frac-sand), [pm-monitoring](../tag/pm-monitoring), [pm-sensing](../tag/pm-sensing), [microscopes](../tag/microscopes), [sizing](../tag/sizing), [particle-imaging](../tag/particle-imaging)
+October 07, 2016 19:00 | Tags: [calibration](/tag/calibration), [silica](/tag/silica), [frac-sand](/tag/frac-sand), [pm](/tag/pm), [particles](/tag/particles), [particle-monitoring](/tag/particle-monitoring), [microscope](/tag/microscope), [passive-particle-monitors](/tag/passive-particle-monitors), [passive-pm](/tag/passive-pm), [parent:frac-sand](/tag/parent:frac-sand), [pm-monitoring](/tag/pm-monitoring), [pm-sensing](/tag/pm-sensing), [microscopes](/tag/microscopes), [sizing](/tag/sizing), [particle-imaging](/tag/particle-imaging)
 
 ----
 

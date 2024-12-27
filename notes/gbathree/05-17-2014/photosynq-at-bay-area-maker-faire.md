@@ -6,18 +6,16 @@ author: gbathree
 path: /notes/gbathree/05-17-2014/photosynq-at-bay-area-maker-faire.md
 nid: 10475
 uid: 53164
-
 cids: 9073,9074,9075
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/287/original/IMG_1458.JPG)
 
 # PhotosynQ at Bay Area Maker Faire
 
-by [gbathree](../../../profile/gbathree) | May 17, 2014 05:40
+by [gbathree](/profile/gbathree) | May 17, 2014 05:40
 
-May 17, 2014 05:40 | Tags: [california](../tag/california), [science](../tag/science), [health](../tag/health), [photosynq](../tag/photosynq), [plant](../tag/plant), [makerfaire](../tag/makerfaire), [maker](../tag/maker), [faire](../tag/faire), [make](../tag/make)
+May 17, 2014 05:40 | Tags: [california](/tag/california), [science](/tag/science), [health](/tag/health), [photosynq](/tag/photosynq), [plant](/tag/plant), [makerfaire](/tag/makerfaire), [maker](/tag/maker), [faire](/tag/faire), [make](/tag/make)
 
 ----
 

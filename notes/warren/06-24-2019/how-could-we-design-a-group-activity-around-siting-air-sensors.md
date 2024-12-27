@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/06-24-2019/how-could-we-design-a-group-activity-around-siting-air-sensors.md
 nid: 19843
 uid: 1
-
 cids: 24881,24883,24887,24888,24892,24893,24894,24926,24927,24980,31216
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/170/original/IMG_20190624_185952_336.jpg)
 
 # How could we design a group activity around siting air sensors?
 
-by [warren](../../../profile/warren) | June 24, 2019 22:37
+by [warren](/profile/warren) | June 24, 2019 22:37
 
-June 24, 2019 22:37 | Tags: [education](../tag/education), [curriculum](../tag/curriculum), [air-quality](../tag/air-quality), [classroom](../tag/classroom), [question:dustduino](../tag/question:dustduino), [humidity](../tag/humidity), [study-design](../tag/study-design), [question:education](../tag/question:education), [question:classroom](../tag/question:classroom), [plantower](../tag/plantower), [purple-air](../tag/purple-air), [question:simple-air-sensor](../tag/question:simple-air-sensor), [simple-air-sensor](../tag/simple-air-sensor), [simple-air-sensors](../tag/simple-air-sensors)
+June 24, 2019 22:37 | Tags: [education](/tag/education), [curriculum](/tag/curriculum), [air-quality](/tag/air-quality), [classroom](/tag/classroom), [question:dustduino](/tag/question:dustduino), [humidity](/tag/humidity), [study-design](/tag/study-design), [question:education](/tag/question:education), [question:classroom](/tag/question:classroom), [plantower](/tag/plantower), [purple-air](/tag/purple-air), [question:simple-air-sensor](/tag/question:simple-air-sensor), [simple-air-sensor](/tag/simple-air-sensor), [simple-air-sensors](/tag/simple-air-sensors)
 
 ----
 

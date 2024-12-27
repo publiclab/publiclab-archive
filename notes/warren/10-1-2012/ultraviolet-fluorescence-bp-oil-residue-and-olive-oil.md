@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/10-1-2012/ultraviolet-fluorescence-bp-oil-residue-and-olive-oil.md
 nid: 4097
 uid: 1
-
 cids: 1608,1610
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0786.JPG)
 
 # Ultraviolet fluorescence in BP oil residue and olive oil
 
-by [warren](../../../profile/warren) | October 01, 2012 19:00
+by [warren](/profile/warren) | October 01, 2012 19:00
 
-October 01, 2012 19:00 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [ultraviolet](../tag/ultraviolet), [fluorescence](../tag/fluorescence)
+October 01, 2012 19:00 | Tags: [spectrometer](/tag/spectrometer), [oil](/tag/oil), [ultraviolet](/tag/ultraviolet), [fluorescence](/tag/fluorescence)
 
 ----
 

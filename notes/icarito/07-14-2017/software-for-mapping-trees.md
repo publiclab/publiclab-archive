@@ -6,18 +6,16 @@ author: icarito
 path: /notes/icarito/07-14-2017/software-for-mapping-trees.md
 nid: 14651
 uid: 448589
-
 cids: 17032,17033,17062,17099,22524,22525
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/123/original/mariana_arbol.jpg)
 
 # Software for mapping trees?
 
-by [icarito](../../../profile/icarito) | July 14, 2017 02:55
+by [icarito](/profile/icarito) | July 14, 2017 02:55
 
-July 14, 2017 02:55 | Tags: [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster)
+July 14, 2017 02:55 | Tags: [question:general](/tag/question:general), [first-time-poster](/tag/first-time-poster)
 
 ----
 

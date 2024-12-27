@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/05-09-2014/event-civic-science-and-the-gowanus.md
 nid: 10458
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/209/original/Ecology-Lectures_2014.png)
 
 # Event--Civic Science and the Gowanus 
 
-by [liz](../../../profile/liz) | May 09, 2014 20:36
+by [liz](/profile/liz) | May 09, 2014 20:36
 
-May 09, 2014 20:36 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [event](../tag/event)
+May 09, 2014 20:36 | Tags: [new-york-city](/tag/new-york-city), [gowanus](/tag/gowanus), [event](/tag/event)
 
 ----
 

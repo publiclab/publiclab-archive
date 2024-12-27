@@ -6,14 +6,14 @@ author: warren
 path: /wiki/ircam-materials.md
 nid: 4472
 uid: 1
-
+cids: 
 ---
 
 # IRCam materials
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-October 17, 2012 23:00 | Tags: [ircam](../tag/ircam), [materials](../tag/materials)
+October 17, 2012 23:00 | Tags: [ircam](/tag/ircam), [materials](/tag/materials)
 
 ----
 

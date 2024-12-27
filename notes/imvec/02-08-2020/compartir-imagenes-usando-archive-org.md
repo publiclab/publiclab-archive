@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/02-08-2020/compartir-imagenes-usando-archive-org.md
 nid: 22712
 uid: 495038
-
 cids: 29580
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/022/original/archive.png)
 
 # Compartir imágenes usando Archive.org
 
-by [imvec](../../../profile/imvec) | February 08, 2020 22:25
+by [imvec](/profile/imvec) | February 08, 2020 22:25
 
-February 08, 2020 22:25 | Tags: [lang:es](../tag/lang:es), [activity:photo-sharing](../tag/activity:photo-sharing), [photo-sharing](../tag/photo-sharing), [ballon-mapping](../tag/ballon-mapping), [spanish](../tag/spanish), [cosquin](../tag/cosquin)
+February 08, 2020 22:25 | Tags: [lang:es](/tag/lang:es), [activity:photo-sharing](/tag/activity:photo-sharing), [photo-sharing](/tag/photo-sharing), [ballon-mapping](/tag/ballon-mapping), [spanish](/tag/spanish), [cosquin](/tag/cosquin)
 
 ----
 

@@ -6,16 +6,14 @@ author: BostonFern
 path: /notes/BostonFern/01-14-2020/which-is-more-accurate-in-measuring-formaldehyde-air-sampling-tubes-vs-rki-fp-30.md
 nid: 22308
 uid: 643525
-
 cids: 26170,26261
-
 ---
 
 # Which is more accurate in measuring formaldehyde: air sampling tubes vs RKI FP-30?
 
-by [BostonFern](../../../profile/BostonFern) | January 14, 2020 20:52
+by [BostonFern](/profile/BostonFern) | January 14, 2020 20:52
 
-January 14, 2020 20:52 | Tags: [air-quality](../tag/air-quality), [formaldehyde](../tag/formaldehyde), [voc](../tag/voc), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
+January 14, 2020 20:52 | Tags: [air-quality](/tag/air-quality), [formaldehyde](/tag/formaldehyde), [voc](/tag/voc), [question:general](/tag/question:general), [general](/tag/general), [first-time-poster](/tag/first-time-poster)
 
 ----
 

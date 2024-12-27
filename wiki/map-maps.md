@@ -6,12 +6,12 @@ author: sara
 path: /wiki/map-maps.md
 nid: 2540
 uid: 8
-
+cids: 
 ---
 
 # Map of Maps
 
-by [sara](../profile/sara)
+by [sara](/profile/sara)
 
 June 18, 2012 17:52 | Tags: 
 

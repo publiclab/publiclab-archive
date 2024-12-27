@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/02-04-2016/tube-fluorescent-lamps-for-spectrometer-calibration.md
 nid: 12654
 uid: 1
-
 cids: 13473,13474,13475,13479,13487,13490,13503,13504,13505,13506,13507,13508,13509,23850,23851,23852
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/078/original/IMG_20160204_124718.jpg)
 
 # Tube fluorescent lamps for spectrometer calibration
 
-by [warren](../../../profile/warren) | February 04, 2016 18:12
+by [warren](/profile/warren) | February 04, 2016 18:12
 
-February 04, 2016 18:12 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [spectral-workbench](../tag/spectral-workbench), [response:12258](../tag/response:12258), [response:12270](../tag/response:12270)
+February 04, 2016 18:12 | Tags: [spectrometer](/tag/spectrometer), [calibration](/tag/calibration), [spectral-workbench](/tag/spectral-workbench), [response:12258](/tag/response:12258), [response:12270](/tag/response:12270)
 
 ----
 

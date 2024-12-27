@@ -6,16 +6,16 @@ author: warren
 path: /wiki/balloon-mapping.md
 nid: 22
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/856/original/IMG_20170622_113106_860_2.jpg)
 
 # Balloon & Kite Mapping
 
-by [imvec](../profile/imvec), [stevie](../profile/stevie), [warren](../profile/warren), [liz](../profile/liz), [mathew](../profile/mathew), [Arnaud](../profile/Arnaud), [gonzoearth](../profile/gonzoearth), [Shannon](../profile/Shannon), [MicheleTobias](../profile/MicheleTobias)
+by [imvec](/profile/imvec), [stevie](/profile/stevie), [warren](/profile/warren), [liz](/profile/liz), [mathew](/profile/mathew), [Arnaud](/profile/Arnaud), [gonzoearth](/profile/gonzoearth), [Shannon](/profile/Shannon), [MicheleTobias](/profile/MicheleTobias)
 
-December 10, 2010 18:53 | Tags: [balloon-mapping](../tag/balloon-mapping), [agriculture](../tag/agriculture), [list:grassrootsmapping](../tag/list:grassrootsmapping), [transportation](../tag/transportation), [mining](../tag/mining), [urban-planning](../tag/urban-planning), [proven-in-the-field](../tag/proven-in-the-field), [fracking](../tag/fracking), [tool](../tag/tool), [land-use](../tag/land-use), [industry](../tag/industry), [parent:aerial-photography](../tag/parent:aerial-photography), [method](../tag/method), [land-change](../tag/land-change), [oil-and-gas](../tag/oil-and-gas), [location:blurred](../tag/location:blurred), [zoom:15](../tag/zoom:15), [lat:48.19](../tag/lat:48.19), [lon:11.6](../tag/lon:11.6), [place:lindberghstra-e-18-80939-m-nchen-germany](../tag/place:lindberghstra-e-18-80939-m-nchen-germany)
+December 10, 2010 18:53 | Tags: [balloon-mapping](/tag/balloon-mapping), [agriculture](/tag/agriculture), [list:grassrootsmapping](/tag/list:grassrootsmapping), [transportation](/tag/transportation), [mining](/tag/mining), [urban-planning](/tag/urban-planning), [proven-in-the-field](/tag/proven-in-the-field), [fracking](/tag/fracking), [tool](/tag/tool), [land-use](/tag/land-use), [industry](/tag/industry), [parent:aerial-photography](/tag/parent:aerial-photography), [method](/tag/method), [land-change](/tag/land-change), [oil-and-gas](/tag/oil-and-gas), [location:blurred](/tag/location:blurred), [zoom:15](/tag/zoom:15), [lat:48.19](/tag/lat:48.19), [lon:11.6](/tag/lon:11.6), [place:lindberghstra-e-18-80939-m-nchen-germany](/tag/place:lindberghstra-e-18-80939-m-nchen-germany)
 
 ----
 
@@ -41,12 +41,12 @@ Our whole toolkit is linked out below, but really fast:
 
 ## Activities
 
-[balloon-mapping](../../tag/activity:balloon-mapping)
+[balloon-mapping](/tag/activity:balloon-mapping)
 
 ****
 ### Questions about balloon mapping:
 
-[balloon-mapping](../../tag/question:balloon-mapping)
+[balloon-mapping](/tag/question:balloon-mapping)
 
 
 

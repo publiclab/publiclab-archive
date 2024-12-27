@@ -6,18 +6,16 @@ author: DS501st
 path: /notes/DS501st/01-18-2021/converting-a-wyzecam-for-dual-camera-ndvi.md
 nid: 25491
 uid: 736201
-
 cids: 27981,27989,28008,28011,28053,30912
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/450/original/61B04f0ALWL._AC_SL1500_.jpg)
 
 # Converting a WyzeCam for 2-camera NDVI in 1 camera
 
-by [DS501st](../../../profile/DS501st) | January 18, 2021 03:10
+by [DS501st](/profile/DS501st) | January 18, 2021 03:10
 
-January 18, 2021 03:10 | Tags: [ndvi](../tag/ndvi), [infragram-filters](../tag/infragram-filters), [hydroponics](../tag/hydroponics), [seeks:replications](../tag/seeks:replications), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion), [infrared-camera-conversion](../tag/infrared-camera-conversion), [first-time-poster](../tag/first-time-poster), [wyzecam](../tag/wyzecam)
+January 18, 2021 03:10 | Tags: [ndvi](/tag/ndvi), [infragram-filters](/tag/infragram-filters), [hydroponics](/tag/hydroponics), [seeks:replications](/tag/seeks:replications), [activity:infrared-camera-conversion](/tag/activity:infrared-camera-conversion), [infrared-camera-conversion](/tag/infrared-camera-conversion), [first-time-poster](/tag/first-time-poster), [wyzecam](/tag/wyzecam)
 
 ----
 

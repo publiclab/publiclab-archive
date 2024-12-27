@@ -6,16 +6,16 @@ author: stevie
 path: /wiki/issue-brief.md
 nid: 15138
 uid: 422561
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/242/original/brushyfork.CC.AppalachianMountaintopPatrol2015.jpg)
 
 # Write an Issue Brief
 
-by [liz](../profile/liz), [stevie](../profile/stevie), [warren](../profile/warren)
+by [liz](/profile/liz), [stevie](/profile/stevie), [warren](/profile/warren)
 
-November 01, 2017 18:34 | Tags: [organizing](../tag/organizing), [lat:41](../tag/lat:41), [locked](../tag/locked), [method](../tag/method), [community-organizing](../tag/community-organizing), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [issue-brief](../tag/issue-brief), [parent:website](../tag/parent:website), [zoom:6](../tag/zoom:6), [lon:-87](../tag/lon:-87)
+November 01, 2017 18:34 | Tags: [organizing](/tag/organizing), [lat:41](/tag/lat:41), [locked](/tag/locked), [method](/tag/method), [community-organizing](/tag/community-organizing), [location:blurred](/tag/location:blurred), [place:united-states](/tag/place:united-states), [issue-brief](/tag/issue-brief), [parent:website](/tag/parent:website), [zoom:6](/tag/zoom:6), [lon:-87](/tag/lon:-87)
 
 ----
 
@@ -84,14 +84,14 @@ _______________________________________
 
 ### Issue Briefs posted to Public Lab:
 
-[Issue-Brief](../../tag/Issue-Brief)
+[Issue-Brief](/tag/Issue-Brief)
 
 <a href="/post?tags=issue-brief&n=15139&title=Your%20issue%20name%20here" class="btn btn-primary btn-lg">Post an issue brief</a>
 
 
 ### Activities to draft or explore Issue Briefs:
 
-[issue-brief](../../tag/activity:issue-brief)
+[issue-brief](/tag/activity:issue-brief)
 
 ****
 

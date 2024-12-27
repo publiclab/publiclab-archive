@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/07-02-2022/guia-de-muestreo-de-subsuelo.md
 nid: 31174
 uid: 495038
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/836/original/23.jpg)
 
 # Guía de muestreo de subsuelo
 
-by [imvec](../../../profile/imvec) | July 02, 2022 12:12
+by [imvec](/profile/imvec) | July 02, 2022 12:12
 
-July 02, 2022 12:12 | Tags: [soil](../tag/soil), [guide](../tag/guide), [lang:es](../tag/lang:es), [new](../tag/new), [soil-testing](../tag/soil-testing), [soil-sampling](../tag/soil-sampling), [activity:soil-sampling](../tag/activity:soil-sampling), [with:arturunderwater](../tag/with:arturunderwater), [with:xose](../tag/with:xose), [activity:soil](../tag/activity:soil), [parent:soil](../tag/parent:soil), [parent:soil-sampling](../tag/parent:soil-sampling), [guia](../tag/guia), [soil-sampling-toolkit](../tag/soil-sampling-toolkit), [soil-sampling-main](../tag/soil-sampling-main), [subsoil-sampling](../tag/subsoil-sampling), [subsoil](../tag/subsoil), [subsoil-testing](../tag/subsoil-testing)
+July 02, 2022 12:12 | Tags: [soil](/tag/soil), [guide](/tag/guide), [lang:es](/tag/lang:es), [new](/tag/new), [soil-testing](/tag/soil-testing), [soil-sampling](/tag/soil-sampling), [activity:soil-sampling](/tag/activity:soil-sampling), [with:arturunderwater](/tag/with:arturunderwater), [with:xose](/tag/with:xose), [activity:soil](/tag/activity:soil), [parent:soil](/tag/parent:soil), [parent:soil-sampling](/tag/parent:soil-sampling), [guia](/tag/guia), [soil-sampling-toolkit](/tag/soil-sampling-toolkit), [soil-sampling-main](/tag/soil-sampling-main), [subsoil-sampling](/tag/subsoil-sampling), [subsoil](/tag/subsoil), [subsoil-testing](/tag/subsoil-testing)
 
 ----
 

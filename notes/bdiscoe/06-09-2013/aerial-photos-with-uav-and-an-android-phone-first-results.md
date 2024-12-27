@@ -6,18 +6,16 @@ author: bdiscoe
 path: /notes/bdiscoe/06-09-2013/aerial-photos-with-uav-and-an-android-phone-first-results.md
 nid: 8126
 uid: 46950
-
 cids: 12281,16110,16111,16112,17973
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/496/original/tt_img_00048.jpg)
 
 # Aerial photos with UAV and an Android phone: first results
 
-by [bdiscoe](../../../profile/bdiscoe) | June 09, 2013 05:08
+by [bdiscoe](/profile/bdiscoe) | June 09, 2013 05:08
 
-June 09, 2013 05:08 | Tags: [hawaii](../tag/hawaii), [uav-mapping](../tag/uav-mapping), [aerial-photos](../tag/aerial-photos), [drone](../tag/drone)
+June 09, 2013 05:08 | Tags: [hawaii](/tag/hawaii), [uav-mapping](/tag/uav-mapping), [aerial-photos](/tag/aerial-photos), [drone](/tag/drone)
 
 ----
 

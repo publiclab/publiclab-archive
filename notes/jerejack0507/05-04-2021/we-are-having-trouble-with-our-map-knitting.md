@@ -6,16 +6,14 @@ author: jerejack0507
 path: /notes/jerejack0507/05-04-2021/we-are-having-trouble-with-our-map-knitting.md
 nid: 26490
 uid: 752875
-
 cids: 28707,28708,28709
-
 ---
 
 # We are having trouble with our map knitting
 
-by [jerejack0507](../../../profile/jerejack0507) | May 04, 2021 18:05
+by [jerejack0507](/profile/jerejack0507) | May 04, 2021 18:05
 
-May 04, 2021 18:05 | Tags: [website](../tag/website), [question:website](../tag/question:website)
+May 04, 2021 18:05 | Tags: [website](/tag/website), [question:website](/tag/question:website)
 
 ----
 

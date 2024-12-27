@@ -6,16 +6,14 @@ author: nikete
 path: /notes/nikete/04-30-2018/watercraft-from-reused-and-recycled-components.md
 nid: 16268
 uid: 532571
-
 cids: 19523,19524,19527,19528,19564,19566,19567,19672,20947,26865
-
 ---
 
 # watercraft from reused and recycled components
 
-by [nikete](../../../profile/nikete) | April 30, 2018 01:47
+by [nikete](/profile/nikete) | April 30, 2018 01:47
 
-April 30, 2018 01:47 | Tags: [waterway](../tag/waterway), [reuse](../tag/reuse), [water-quality-mapping](../tag/water-quality-mapping), [water-quality](../tag/water-quality), [boat](../tag/boat), [south-america](../tag/south-america), [recycling](../tag/recycling), [raft](../tag/raft)
+April 30, 2018 01:47 | Tags: [waterway](/tag/waterway), [reuse](/tag/reuse), [water-quality-mapping](/tag/water-quality-mapping), [water-quality](/tag/water-quality), [boat](/tag/boat), [south-america](/tag/south-america), [recycling](/tag/recycling), [raft](/tag/raft)
 
 ----
 

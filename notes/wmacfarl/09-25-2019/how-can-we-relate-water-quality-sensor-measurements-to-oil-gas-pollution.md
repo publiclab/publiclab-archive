@@ -6,16 +6,14 @@ author: wmacfarl
 path: /notes/wmacfarl/09-25-2019/how-can-we-relate-water-quality-sensor-measurements-to-oil-gas-pollution.md
 nid: 20979
 uid: 424597
-
 cids: 25590,25619
-
 ---
 
 # How can we relate water quality sensor measurements to oil/gas pollution?
 
-by [wmacfarl](../../../profile/wmacfarl) | September 25, 2019 00:56
+by [wmacfarl](/profile/wmacfarl) | September 25, 2019 00:56
 
-September 25, 2019 00:56 | Tags: [oil](../tag/oil), [monitoring](../tag/monitoring), [question:water-quality](../tag/question:water-quality), [question:oil-and-gas](../tag/question:oil-and-gas), [question:industry](../tag/question:industry), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [question:oil-and-gas-water-trio](../tag/question:oil-and-gas-water-trio), [oil-and-gas-water-quality](../tag/oil-and-gas-water-quality), [question:oil-and-gas-water-quality](../tag/question:oil-and-gas-water-quality), [simple-water-sensor-platform](../tag/simple-water-sensor-platform), [question:simple-water-sensor-platform](../tag/question:simple-water-sensor-platform)
+September 25, 2019 00:56 | Tags: [oil](/tag/oil), [monitoring](/tag/monitoring), [question:water-quality](/tag/question:water-quality), [question:oil-and-gas](/tag/question:oil-and-gas), [question:industry](/tag/question:industry), [oil-and-gas-water-trio](/tag/oil-and-gas-water-trio), [question:oil-and-gas-water-trio](/tag/question:oil-and-gas-water-trio), [oil-and-gas-water-quality](/tag/oil-and-gas-water-quality), [question:oil-and-gas-water-quality](/tag/question:oil-and-gas-water-quality), [simple-water-sensor-platform](/tag/simple-water-sensor-platform), [question:simple-water-sensor-platform](/tag/question:simple-water-sensor-platform)
 
 ----
 

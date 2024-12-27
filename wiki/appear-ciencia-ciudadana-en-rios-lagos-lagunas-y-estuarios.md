@@ -6,14 +6,14 @@ author: alejobonifacio
 path: /wiki/appear-ciencia-ciudadana-en-rios-lagos-lagunas-y-estuarios.md
 nid: 26786
 uid: 639376
-
+cids: 
 ---
 
 # AppEar - Ciencia ciudadana en ríos, lagos, lagunas y estuarios
 
-by [alejobonifacio](../profile/alejobonifacio)
+by [alejobonifacio](/profile/alejobonifacio)
 
-June 07, 2021 22:28 | Tags: [citizen-science](../tag/citizen-science), [water-quality](../tag/water-quality), [lang:es](../tag/lang:es), [research-curation-fellows](../tag/research-curation-fellows), [parent:water](../tag/parent:water), [appear](../tag/appear)
+June 07, 2021 22:28 | Tags: [citizen-science](/tag/citizen-science), [water-quality](/tag/water-quality), [lang:es](/tag/lang:es), [research-curation-fellows](/tag/research-curation-fellows), [parent:water](/tag/parent:water), [appear](/tag/appear)
 
 ----
 
@@ -60,19 +60,19 @@ A través de su sencillo sistema de juego, los usuarios de AppEAR ganarán punto
 
 ## Preguntas
 
-[appear](../../tag/question:appear)
+[appear](/tag/question:appear)
 
 <br>
 
 ## Notas de investigación
 
-[appear](../../tag/appear)
+[appear](/tag/appear)
 
 <br>
 
 ## Actividades
 
-[appear](../../tag/activity:appear)
+[appear](/tag/activity:appear)
 
 <br>
 <br>

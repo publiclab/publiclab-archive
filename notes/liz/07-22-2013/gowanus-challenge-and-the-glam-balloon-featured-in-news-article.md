@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/07-22-2013/gowanus-challenge-and-the-glam-balloon-featured-in-news-article.md
 nid: 8918
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/889/original/2013_15_June_Gowanus_Dredges_Canoe_Club_Challenge_Race_The_Destination_pic_by_Eymund.JPG)
 
 # Gowanus Challenge and the GLAM balloon featured in news article
 
-by [liz](../../../profile/liz) | July 22, 2013 19:40
+by [liz](/profile/liz) | July 22, 2013 19:40
 
-July 22, 2013 19:40 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [great-photos](../tag/great-photos)
+July 22, 2013 19:40 | Tags: [new-york-city](/tag/new-york-city), [gowanus](/tag/gowanus), [great-photos](/tag/great-photos)
 
 ----
 

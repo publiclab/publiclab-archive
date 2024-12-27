@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/04-16-2016/accuracy-test-for-version-2-5-plab-spectrometer.md
 nid: 12990
 uid: 461120
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/585/original/fluorescein.JPG)
 
 # accuracy test for version 2.5 Plab spectrometer
 
-by [dhaffnersr](../../../profile/dhaffnersr) | April 16, 2016 16:35
+by [dhaffnersr](/profile/dhaffnersr) | April 16, 2016 16:35
 
 April 16, 2016 16:35 | Tags: 
 

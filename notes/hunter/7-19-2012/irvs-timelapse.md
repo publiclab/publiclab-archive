@@ -6,18 +6,16 @@ author: hunter
 path: /notes/hunter/7-19-2012/irvs-timelapse.md
 nid: 2893
 uid: 317
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/timelapse_0.png)
 
 # IR+VS TIMELAPSE
 
-by [hunter](../../../profile/hunter) | July 19, 2012 17:56
+by [hunter](/profile/hunter) | July 19, 2012 17:56
 
-July 19, 2012 17:56 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [time-lapse](../tag/time-lapse), [timelapse](../tag/timelapse), [activity:timelapse](../tag/activity:timelapse)
+July 19, 2012 17:56 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [time-lapse](/tag/time-lapse), [timelapse](/tag/timelapse), [activity:timelapse](/tag/activity:timelapse)
 
 ----
 

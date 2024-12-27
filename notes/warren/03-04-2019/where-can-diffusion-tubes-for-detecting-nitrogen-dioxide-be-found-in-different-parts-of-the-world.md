@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/03-04-2019/where-can-diffusion-tubes-for-detecting-nitrogen-dioxide-be-found-in-different-parts-of-the-world.md
 nid: 18466
 uid: 1
-
 cids: 22037,22068,23321
-
 ---
 
 # Where can diffusion tubes for detecting nitrogen dioxide be found in different parts of the world?
 
-by [warren](../../../profile/warren) | March 04, 2019 18:57
+by [warren](/profile/warren) | March 04, 2019 18:57
 
-March 04, 2019 18:57 | Tags: [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [answered](../tag/answered), [nitrogen-dioxide](../tag/nitrogen-dioxide), [nitrogen](../tag/nitrogen), [question:diffusion-tubes](../tag/question:diffusion-tubes), [diffusion-tubes](../tag/diffusion-tubes), [question:nitrogen-dioxide](../tag/question:nitrogen-dioxide), [n02](../tag/n02)
+March 04, 2019 18:57 | Tags: [air-quality](/tag/air-quality), [question:air-quality](/tag/question:air-quality), [answered](/tag/answered), [nitrogen-dioxide](/tag/nitrogen-dioxide), [nitrogen](/tag/nitrogen), [question:diffusion-tubes](/tag/question:diffusion-tubes), [diffusion-tubes](/tag/diffusion-tubes), [question:nitrogen-dioxide](/tag/question:nitrogen-dioxide), [n02](/tag/n02)
 
 ----
 

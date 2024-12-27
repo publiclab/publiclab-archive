@@ -6,14 +6,14 @@ author: warren
 path: /wiki/balloon.md
 nid: 18415
 uid: 1
-
+cids: 
 ---
 
 # balloon
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-February 24, 2019 16:50 | Tags: [redirect:balloon-mapping](../tag/redirect:balloon-mapping)
+February 24, 2019 16:50 | Tags: [redirect:balloon-mapping](/tag/redirect:balloon-mapping)
 
 ----
 

@@ -6,12 +6,12 @@ author: warren
 path: /wiki/receipts-2011-12.md
 nid: 352
 uid: 1
-
+cids: 
 ---
 
 # Receipt submission form 2011-2012
 
-by [adam-griffith](../profile/adam-griffith), [warren](../profile/warren), [Shannon](../profile/Shannon)
+by [adam-griffith](/profile/adam-griffith), [warren](/profile/warren), [Shannon](/profile/Shannon)
 
 June 21, 2011 17:37 | Tags: 
 

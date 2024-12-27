@@ -6,16 +6,14 @@ author: alejobonifacio
 path: /notes/alejobonifacio/06-21-2021/charla-comunitaria-sobre-investigacion-en-agua.md
 nid: 26870
 uid: 639376
-
 cids: 28952,28953,28957,28959,28962,28964,28965,28968,28969,28972
-
 ---
 
 # Charla comunitaria sobre investigación en agua
 
-by [alejobonifacio](../../../profile/alejobonifacio) | June 21, 2021 18:28
+by [alejobonifacio](/profile/alejobonifacio) | June 21, 2021 18:28
 
-June 21, 2021 18:28 | Tags: [event](../tag/event), [research](../tag/research), [water-quality](../tag/water-quality), [water](../tag/water), [event:rsvp](../tag/event:rsvp), [research-curation-fellows](../tag/research-curation-fellows), [date:06-25-2021](../tag/date:06-25-2021), [rsvp:bhamster](../tag/rsvp:bhamster), [research-curation-fellows-event](../tag/research-curation-fellows-event), [rsvp:denissebn_06](../tag/rsvp:denissebn_06), [rsvp:raquel_bazan](../tag/rsvp:raquel_bazan)
+June 21, 2021 18:28 | Tags: [event](/tag/event), [research](/tag/research), [water-quality](/tag/water-quality), [water](/tag/water), [event:rsvp](/tag/event:rsvp), [research-curation-fellows](/tag/research-curation-fellows), [date:06-25-2021](/tag/date:06-25-2021), [rsvp:bhamster](/tag/rsvp:bhamster), [research-curation-fellows-event](/tag/research-curation-fellows-event), [rsvp:denissebn_06](/tag/rsvp:denissebn_06), [rsvp:raquel_bazan](/tag/rsvp:raquel_bazan)
 
 ----
 

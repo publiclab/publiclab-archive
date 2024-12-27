@@ -6,14 +6,14 @@ author: warren
 path: /wiki/publication-presentation-and-grant-planning.md
 nid: 51
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/352/original/image.png)
 
 # Publication, presentation and grant planning
 
-by [warren](../profile/warren), [Shannon](../profile/Shannon)
+by [warren](/profile/warren), [Shannon](/profile/Shannon)
 
 January 21, 2011 18:55 | Tags: 
 

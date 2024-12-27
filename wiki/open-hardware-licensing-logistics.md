@@ -6,12 +6,12 @@ author: warren
 path: /wiki/open-hardware-licensing-logistics.md
 nid: 884
 uid: 1
-
+cids: 
 ---
 
 # Open hardware licensing logistics
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 March 02, 2012 17:22 | Tags: 
 

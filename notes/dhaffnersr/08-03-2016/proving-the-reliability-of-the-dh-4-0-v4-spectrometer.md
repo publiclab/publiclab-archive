@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/08-03-2016/proving-the-reliability-of-the-dh-4-0-v4-spectrometer.md
 nid: 13330
 uid: 461120
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/338/original/fluorescein.png)
 
 # Proving The Reliability Of The DH 4.0 v4 Spectrometer
 
-by [dhaffnersr](../../../profile/dhaffnersr) | August 03, 2016 15:49
+by [dhaffnersr](/profile/dhaffnersr) | August 03, 2016 15:49
 
 August 03, 2016 15:49 | Tags: 
 

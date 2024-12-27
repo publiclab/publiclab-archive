@@ -6,18 +6,16 @@ author: syoif
 path: /notes/syoif/04-12-2017/world-s-fastest-and-super-cheap-automated-cell-counter.md
 nid: 14107
 uid: 505605
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/118/original/16326565_1379636792082132_1075932693_o.jpg)
 
 # World's fastest and super cheap automated cell counter!
 
-by [syoif](../../../profile/syoif) | April 12, 2017 12:59
+by [syoif](/profile/syoif) | April 12, 2017 12:59
 
-April 12, 2017 12:59 | Tags: [image-processing](../tag/image-processing), [diy](../tag/diy), [3d-printer](../tag/3d-printer), [cell](../tag/cell), [opencv](../tag/opencv)
+April 12, 2017 12:59 | Tags: [image-processing](/tag/image-processing), [diy](/tag/diy), [3d-printer](/tag/3d-printer), [cell](/tag/cell), [opencv](/tag/opencv)
 
 ----
 

@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/07-18-2014/epa-and-public-lab-revitalize-urban-waters-in-new-orleans.md
 nid: 10705
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/380/original/Screen_Shot_2014-07-18_at_6.24.43_AM.png)
 
 # EPA and Public Lab Revitalize Urban Waters in New Orleans
 
-by [Shannon](../../../profile/Shannon) | July 18, 2014 13:25
+by [Shannon](/profile/Shannon) | July 18, 2014 13:25
 
-July 18, 2014 13:25 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [wetlands](../tag/wetlands), [louisiana](../tag/louisiana), [restoration](../tag/restoration), [epa](../tag/epa), [new-orleans](../tag/new-orleans), [urbanwater](../tag/urbanwater), [urbanwaters](../tag/urbanwaters), [epaurbanwater](../tag/epaurbanwater), [community-organizing](../tag/community-organizing), [project](../tag/project), [project:wetlands](../tag/project:wetlands), [fresh-water](../tag/fresh-water), [urban-wetland](../tag/urban-wetland)
+July 18, 2014 13:25 | Tags: [gulf-coast](/tag/gulf-coast), [balloon-mapping](/tag/balloon-mapping), [wetlands](/tag/wetlands), [louisiana](/tag/louisiana), [restoration](/tag/restoration), [epa](/tag/epa), [new-orleans](/tag/new-orleans), [urbanwater](/tag/urbanwater), [urbanwaters](/tag/urbanwaters), [epaurbanwater](/tag/epaurbanwater), [community-organizing](/tag/community-organizing), [project](/tag/project), [project:wetlands](/tag/project:wetlands), [fresh-water](/tag/fresh-water), [urban-wetland](/tag/urban-wetland)
 
 ----
 

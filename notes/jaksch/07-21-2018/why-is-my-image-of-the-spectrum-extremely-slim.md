@@ -6,16 +6,14 @@ author: jaksch
 path: /notes/jaksch/07-21-2018/why-is-my-image-of-the-spectrum-extremely-slim.md
 nid: 16762
 uid: 542671
-
 cids: 20188,20190,20191,20192,20196,20200
-
 ---
 
 # [SOLVED] Why is my image of the spectrum extremely "slim"? DVD+RW is not good as a diffraction grating!
 
-by [jaksch](../../../profile/jaksch) | July 21, 2018 10:27
+by [jaksch](/profile/jaksch) | July 21, 2018 10:27
 
-July 21, 2018 10:27 | Tags: [spectrometry](../tag/spectrometry), [diffraction-grating](../tag/diffraction-grating), [question:spectrometry](../tag/question:spectrometry), [dvd](../tag/dvd), [dvd-grating](../tag/dvd-grating), [question:diffraction-grating](../tag/question:diffraction-grating), [question:dvd](../tag/question:dvd), [first-time-poster](../tag/first-time-poster)
+July 21, 2018 10:27 | Tags: [spectrometry](/tag/spectrometry), [diffraction-grating](/tag/diffraction-grating), [question:spectrometry](/tag/question:spectrometry), [dvd](/tag/dvd), [dvd-grating](/tag/dvd-grating), [question:diffraction-grating](/tag/question:diffraction-grating), [question:dvd](/tag/question:dvd), [first-time-poster](/tag/first-time-poster)
 
 ----
 

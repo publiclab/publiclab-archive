@@ -6,18 +6,16 @@ author: KKMS
 path: /notes/KKMS/12-15-2014/kkms-thermal-flashlight-project-sociology-4107.md
 nid: 11460
 uid: 432742
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/407/original/Thermal_Flashlight.jpg)
 
 # KKMS Thermal Flashlight Project Sociology 4107
 
-by [KKMS](../../../profile/KKMS) | December 15, 2014 17:06
+by [KKMS](/profile/KKMS) | December 15, 2014 17:06
 
-December 15, 2014 17:06 | Tags: [thermal-photography](../tag/thermal-photography), [arduino](../tag/arduino), [thermal-flashlight](../tag/thermal-flashlight), [canada](../tag/canada), [sociology-4107](../tag/sociology-4107), [response:11458](../tag/response:11458), [newfoundland](../tag/newfoundland), [heat](../tag/heat), [replication:625](../tag/replication:625), [feminist](../tag/feminist), [xbox](../tag/xbox), [first-time-poster](../tag/first-time-poster)
+December 15, 2014 17:06 | Tags: [thermal-photography](/tag/thermal-photography), [arduino](/tag/arduino), [thermal-flashlight](/tag/thermal-flashlight), [canada](/tag/canada), [sociology-4107](/tag/sociology-4107), [response:11458](/tag/response:11458), [newfoundland](/tag/newfoundland), [heat](/tag/heat), [replication:625](/tag/replication:625), [feminist](/tag/feminist), [xbox](/tag/xbox), [first-time-poster](/tag/first-time-poster)
 
 ----
 

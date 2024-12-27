@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/09-05-2014/using-gelatin-caps-for-oil-fluorescence.md
 nid: 11104
 uid: 4
-
 cids: 10186,10195,10200,10247,10249,10250,10251,10252,10255,10256,10258,10261,10263,10352,10471,10472,10474,10476,10478
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/611/original/Screen_Shot_2014-09-04_at_6.59.47_PM.png)
 
 # Using Gelatin Caps for oil fluorescence
 
-by [mathew](../../../profile/mathew) | September 05, 2014 02:00
+by [mathew](/profile/mathew) | September 05, 2014 02:00
 
-September 05, 2014 02:00 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [fluorescence](../tag/fluorescence), [cuvette](../tag/cuvette), [oil-testing-kit](../tag/oil-testing-kit), [brightness](../tag/brightness), [foil](../tag/foil), [reflector](../tag/reflector)
+September 05, 2014 02:00 | Tags: [spectrometer](/tag/spectrometer), [oil](/tag/oil), [fluorescence](/tag/fluorescence), [cuvette](/tag/cuvette), [oil-testing-kit](/tag/oil-testing-kit), [brightness](/tag/brightness), [foil](/tag/foil), [reflector](/tag/reflector)
 
 ----
 

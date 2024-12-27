@@ -6,18 +6,16 @@ author: ann
 path: /notes/ann/06-16-2015/prince-george-mapping-workshop.md
 nid: 11983
 uid: 421543
-
 cids: 12141,12142,12147,12153,12162,12171,12203,12206,12208,12209,12210
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/353/original/150716_Event_Flyer.png)
 
 # Prince George Mapping Workshop
 
-by [ann](../../../profile/ann) | June 16, 2015 17:12
+by [ann](/profile/ann) | June 16, 2015 17:12
 
-June 16, 2015 17:12 | Tags: [balloon-mapping](../tag/balloon-mapping), [event](../tag/event), [event:rsvp](../tag/event:rsvp), [northwest](../tag/northwest), [date:07-16-2015](../tag/date:07-16-2015), [rsvp:dkwiens](../tag/rsvp:dkwiens), [rsvp:coriramsay](../tag/rsvp:coriramsay), [rsvp:ecohorizons](../tag/rsvp:ecohorizons), [rsvp:mgagel](../tag/rsvp:mgagel), [rsvp:ianinafrica](../tag/rsvp:ianinafrica), [rsvp:linlin](../tag/rsvp:linlin), [rsvp:wheate](../tag/rsvp:wheate), [rsvp:dana_schwehr](../tag/rsvp:dana_schwehr), [rsvp:jnunes](../tag/rsvp:jnunes), [rsvp:dbelsham](../tag/rsvp:dbelsham), [replication:14022](../tag/replication:14022)
+June 16, 2015 17:12 | Tags: [balloon-mapping](/tag/balloon-mapping), [event](/tag/event), [event:rsvp](/tag/event:rsvp), [northwest](/tag/northwest), [date:07-16-2015](/tag/date:07-16-2015), [rsvp:dkwiens](/tag/rsvp:dkwiens), [rsvp:coriramsay](/tag/rsvp:coriramsay), [rsvp:ecohorizons](/tag/rsvp:ecohorizons), [rsvp:mgagel](/tag/rsvp:mgagel), [rsvp:ianinafrica](/tag/rsvp:ianinafrica), [rsvp:linlin](/tag/rsvp:linlin), [rsvp:wheate](/tag/rsvp:wheate), [rsvp:dana_schwehr](/tag/rsvp:dana_schwehr), [rsvp:jnunes](/tag/rsvp:jnunes), [rsvp:dbelsham](/tag/rsvp:dbelsham), [replication:14022](/tag/replication:14022)
 
 ----
 

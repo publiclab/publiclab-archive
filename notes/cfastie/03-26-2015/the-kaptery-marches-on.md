@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/03-26-2015/the-kaptery-marches-on.md
 nid: 11726
 uid: 554
-
 cids: 11403,11426,11427,11428
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/452/original/KAPstock-604-10.jpg)
 
 # The KAPtery marches on
 
-by [cfastie](../../../profile/cfastie) | March 26, 2015 16:08
+by [cfastie](/profile/cfastie) | March 26, 2015 16:08
 
-March 26, 2015 16:08 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [3dprinting](../tag/3dprinting), [kaptery](../tag/kaptery)
+March 26, 2015 16:08 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [kite-aerial-photography](/tag/kite-aerial-photography), [3dprinting](/tag/3dprinting), [kaptery](/tag/kaptery)
 
 ----
 

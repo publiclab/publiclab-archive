@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/2-27-2012/555-trigger-syncrhonized-dual-cameras.md
 nid: 861
 uid: 1
-
 cids: 496,497,500,502,510,516
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Picture 1_0.png)
 
 # 555 Trigger for Synchronized Dual Cameras
 
-by [warren](../../../profile/warren) | February 27, 2012 18:08
+by [warren](/profile/warren) | February 27, 2012 18:08
 
-February 27, 2012 18:08 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [triggering](../tag/triggering)
+February 27, 2012 18:08 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [triggering](/tag/triggering)
 
 ----
 

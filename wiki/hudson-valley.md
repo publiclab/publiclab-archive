@@ -6,16 +6,16 @@ author: joshuaflux
 path: /wiki/hudson-valley.md
 nid: 10650
 uid: 425404
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/654/original/logo150pxwithtext.png)
 
 # Hudson-Valley
 
-by [joshuaflux](../profile/joshuaflux)
+by [joshuaflux](/profile/joshuaflux)
 
-July 03, 2014 18:32 | Tags: [new-york](../tag/new-york), [nyc](../tag/nyc), [river](../tag/river), [northeast](../tag/northeast), [valley](../tag/valley), [beacon](../tag/beacon), [hudson](../tag/hudson), [ny](../tag/ny), [node](../tag/node)
+July 03, 2014 18:32 | Tags: [new-york](/tag/new-york), [nyc](/tag/nyc), [river](/tag/river), [northeast](/tag/northeast), [valley](/tag/valley), [beacon](/tag/beacon), [hudson](/tag/hudson), [ny](/tag/ny), [node](/tag/node)
 
 ----
 

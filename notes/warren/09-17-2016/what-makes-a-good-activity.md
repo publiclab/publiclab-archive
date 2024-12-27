@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/09-17-2016/what-makes-a-good-activity.md
 nid: 13458
 uid: 1
-
 cids: 15416,15417,15422,15434,15435,15466,15472,15508,15509,16152,16590,16596,16597
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/065/original/legos.jpg)
 
 # What makes a good activity?
 
-by [warren](../../../profile/warren) | September 17, 2016 20:18
+by [warren](/profile/warren) | September 17, 2016 20:18
 
-September 17, 2016 20:18 | Tags: [collaboration](../tag/collaboration), [community](../tag/community), [leaffest](../tag/leaffest), [blog](../tag/blog), [mobius](../tag/mobius), [with:gretchengehrke](../tag/with:gretchengehrke), [leaffest2016](../tag/leaffest2016), [research-culture](../tag/research-culture), [activity-grids](../tag/activity-grids), [activities](../tag/activities), [leaffest-2016](../tag/leaffest-2016), [question:activities](../tag/question:activities)
+September 17, 2016 20:18 | Tags: [collaboration](/tag/collaboration), [community](/tag/community), [leaffest](/tag/leaffest), [blog](/tag/blog), [mobius](/tag/mobius), [with:gretchengehrke](/tag/with:gretchengehrke), [leaffest2016](/tag/leaffest2016), [research-culture](/tag/research-culture), [activity-grids](/tag/activity-grids), [activities](/tag/activities), [leaffest-2016](/tag/leaffest-2016), [question:activities](/tag/question:activities)
 
 ----
 

@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/09-08-2017/ballon-mapping-workshop-university-a-coruna.md
 nid: 14857
 uid: 495038
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/589/original/endesa.jpg)
 
 # Ballon mapping workshop - University A Coruña
 
-by [imvec](../../../profile/imvec) | September 08, 2017 09:48
+by [imvec](/profile/imvec) | September 08, 2017 09:48
 
-September 08, 2017 09:48 | Tags: [events](../tag/events), [spain](../tag/spain), [aerial-photography](../tag/aerial-photography), [event](../tag/event), [event:rsvp](../tag/event:rsvp), [eu](../tag/eu), [replication:14022](../tag/replication:14022), [ballon-mapping](../tag/ballon-mapping), [date:09-29-2017](../tag/date:09-29-2017)
+September 08, 2017 09:48 | Tags: [events](/tag/events), [spain](/tag/spain), [aerial-photography](/tag/aerial-photography), [event](/tag/event), [event:rsvp](/tag/event:rsvp), [eu](/tag/eu), [replication:14022](/tag/replication:14022), [ballon-mapping](/tag/ballon-mapping), [date:09-29-2017](/tag/date:09-29-2017)
 
 ----
 

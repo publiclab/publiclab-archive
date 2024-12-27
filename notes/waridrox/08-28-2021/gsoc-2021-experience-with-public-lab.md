@@ -6,18 +6,16 @@ author: waridrox
 path: /notes/waridrox/08-28-2021/gsoc-2021-experience-with-public-lab.md
 nid: 27630
 uid: 745996
-
 cids: 29197
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/748/original/1*tsw1ypPVNddLK3yF7G33JQ.png)
 
 # GSoC 2021 experience with Public Lab
 
-by [waridrox](../../../profile/waridrox) | August 28, 2021 16:47
+by [waridrox](/profile/waridrox) | August 28, 2021 16:47
 
-August 28, 2021 16:47 | Tags: [spectral-workbench](../tag/spectral-workbench), [soc](../tag/soc), [soc-2021-final](../tag/soc-2021-final)
+August 28, 2021 16:47 | Tags: [spectral-workbench](/tag/spectral-workbench), [soc](/tag/soc), [soc-2021-final](/tag/soc-2021-final)
 
 ----
 

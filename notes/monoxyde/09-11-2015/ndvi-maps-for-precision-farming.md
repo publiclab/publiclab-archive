@@ -6,18 +6,16 @@ author: Monoxyde
 path: /notes/monoxyde/09-11-2015/ndvi-maps-for-precision-farming.md
 nid: 12210
 uid: 432132
-
 cids: 12528,12529,12530,12531,12535
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/544/original/immagine_profilo.jpg)
 
 # NDVI MAPS for Precision Farming
 
-by [Monoxyde](../../../profile/Monoxyde) | September 11, 2015 18:27
+by [Monoxyde](/profile/Monoxyde) | September 11, 2015 18:27
 
-September 11, 2015 18:27 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [imagej](../tag/imagej), [infrared-conversion](../tag/infrared-conversion)
+September 11, 2015 18:27 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [imagej](/tag/imagej), [infrared-conversion](/tag/infrared-conversion)
 
 ----
 

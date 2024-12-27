@@ -6,18 +6,16 @@ author: sebastian04
 path: /notes/sebastian04/05-18-2016/spectrometer-design-3d-printer-box.md
 nid: 13124
 uid: 470987
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/202/original/espectrof.PNG)
 
 #  Spectrometer design 3d printer box
 
-by [sebastian04](../../../profile/sebastian04) | May 18, 2016 12:54
+by [sebastian04](/profile/sebastian04) | May 18, 2016 12:54
 
-May 18, 2016 12:54 | Tags: [spectrometer](../tag/spectrometer), [3d](../tag/3d), [webcam](../tag/webcam), [3d-printing](../tag/3d-printing)
+May 18, 2016 12:54 | Tags: [spectrometer](/tag/spectrometer), [3d](/tag/3d), [webcam](/tag/webcam), [3d-printing](/tag/3d-printing)
 
 ----
 

@@ -6,18 +6,16 @@ author: eustatic
 path: /01-26-2016/reporting-forms-for-louisiana-and-other-pollution-events.md
 nid: 12620
 uid: 379
-
 cids: 13402,13403,13404,13407,13423,26710
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/858/original/gulf-monitoring-consortium_1_.jpg)
 
 # Reporting Forms for Louisiana (and other) pollution events
 
-by [eustatic](../../../profile/eustatic) | January 26, 2016 06:46
+by [eustatic](/profile/eustatic) | January 26, 2016 06:46
 
-January 26, 2016 06:46 | Tags: [gulf-coast](../tag/gulf-coast), [evidence](../tag/evidence), [louisiana](../tag/louisiana), [reporting](../tag/reporting), [epa](../tag/epa), [skytruth](../tag/skytruth), [otk](../tag/otk), [citizen](../tag/citizen), [advocacy](../tag/advocacy), [lean](../tag/lean), [gmc](../tag/gmc), [coastguard](../tag/coastguard), [deq](../tag/deq), [reporting-forms](../tag/reporting-forms), [tulane](../tag/tulane), [iwitness](../tag/iwitness), [reporting-form](../tag/reporting-form)
+January 26, 2016 06:46 | Tags: [gulf-coast](/tag/gulf-coast), [evidence](/tag/evidence), [louisiana](/tag/louisiana), [reporting](/tag/reporting), [epa](/tag/epa), [skytruth](/tag/skytruth), [otk](/tag/otk), [citizen](/tag/citizen), [advocacy](/tag/advocacy), [lean](/tag/lean), [gmc](/tag/gmc), [coastguard](/tag/coastguard), [deq](/tag/deq), [reporting-forms](/tag/reporting-forms), [tulane](/tag/tulane), [iwitness](/tag/iwitness), [reporting-form](/tag/reporting-form)
 
 ----
 

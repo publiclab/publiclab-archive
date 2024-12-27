@@ -6,18 +6,16 @@ author: derekhoeferlin
 path: /notes/derekhoeferlin/05-09-2016/public-lab-river-rat-pack-st-louis-exhibition.md
 nid: 13093
 uid: 461337
-
 cids: 14574,14703,14704,14729
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/048/original/IMG_0349.JPG)
 
 # Public Lab River Rat Pack -- St. Louis -- Exhibition
 
-by [derekhoeferlin](../../../profile/derekhoeferlin) | May 09, 2016 15:10
+by [derekhoeferlin](/profile/derekhoeferlin) | May 09, 2016 15:10
 
-May 09, 2016 15:10 | Tags: [balloon-mapping](../tag/balloon-mapping), [blog](../tag/blog), [mississippi-river](../tag/mississippi-river), [barnstar:basic](../tag/barnstar:basic), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [mid-west](../tag/mid-west), [exhibition](../tag/exhibition), [missouri](../tag/missouri), [publiclabriverratpack](../tag/publiclabriverratpack), [antidrone](../tag/antidrone), [stlouis](../tag/stlouis), [fresh-water](../tag/fresh-water), [public-access](../tag/public-access)
+May 09, 2016 15:10 | Tags: [balloon-mapping](/tag/balloon-mapping), [blog](/tag/blog), [mississippi-river](/tag/mississippi-river), [barnstar:basic](/tag/barnstar:basic), [barnstar:photo-documentation](/tag/barnstar:photo-documentation), [mid-west](/tag/mid-west), [exhibition](/tag/exhibition), [missouri](/tag/missouri), [publiclabriverratpack](/tag/publiclabriverratpack), [antidrone](/tag/antidrone), [stlouis](/tag/stlouis), [fresh-water](/tag/fresh-water), [public-access](/tag/public-access)
 
 ----
 

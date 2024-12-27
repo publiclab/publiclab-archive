@@ -6,18 +6,16 @@ author: RoderickRead
 path: /notes/RoderickRead/07-05-2014/stabilise-a-lift-sled-kite.md
 nid: 10660
 uid: 421588
-
 cids: 9428,9430,9450
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/140/original/stabilised_lifter_arched_power_sled.png)
 
 # stabilise a lift sled kite
 
-by [RoderickRead](../../../profile/RoderickRead) | July 05, 2014 08:46
+by [RoderickRead](/profile/RoderickRead) | July 05, 2014 08:46
 
-July 05, 2014 08:46 | Tags: [kite-mapping](../tag/kite-mapping), [photography](../tag/photography), [kite](../tag/kite), [kap](../tag/kap), [mapping](../tag/mapping), [wind](../tag/wind), [energy](../tag/energy), [aerial](../tag/aerial), [airborne](../tag/airborne), [altitude](../tag/altitude)
+July 05, 2014 08:46 | Tags: [kite-mapping](/tag/kite-mapping), [photography](/tag/photography), [kite](/tag/kite), [kap](/tag/kap), [mapping](/tag/mapping), [wind](/tag/wind), [energy](/tag/energy), [aerial](/tag/aerial), [airborne](/tag/airborne), [altitude](/tag/altitude)
 
 ----
 

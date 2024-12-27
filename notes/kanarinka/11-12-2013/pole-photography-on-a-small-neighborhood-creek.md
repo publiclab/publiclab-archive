@@ -6,18 +6,16 @@ author: kanarinka
 path: /notes/kanarinka/11-12-2013/pole-photography-on-a-small-neighborhood-creek.md
 nid: 9770
 uid: 994
-
 cids: 7532,7534,7543,7547,7555,7566,7740,7749,7753,7756,7778
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/205/original/creek_deep_zoom_thumb.jpg)
 
 # Pole photography on a small neighborhood creek
 
-by [kanarinka](../../../profile/kanarinka) | November 12, 2013 12:09
+by [kanarinka](/profile/kanarinka) | November 12, 2013 12:09
 
-November 12, 2013 12:09 | Tags: [boston](../tag/boston), [polemapping](../tag/polemapping), [massachusetts](../tag/massachusetts), [pole-photography](../tag/pole-photography), [pole-mapping](../tag/pole-mapping), [creek](../tag/creek), [northeast](../tag/northeast), [first-time-poster](../tag/first-time-poster), [qgis](../tag/qgis)
+November 12, 2013 12:09 | Tags: [boston](/tag/boston), [polemapping](/tag/polemapping), [massachusetts](/tag/massachusetts), [pole-photography](/tag/pole-photography), [pole-mapping](/tag/pole-mapping), [creek](/tag/creek), [northeast](/tag/northeast), [first-time-poster](/tag/first-time-poster), [qgis](/tag/qgis)
 
 ----
 

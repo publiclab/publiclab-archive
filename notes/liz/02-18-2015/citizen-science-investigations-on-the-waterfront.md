@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/02-18-2015/citizen-science-investigations-on-the-waterfront.md
 nid: 11602
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/018/original/2015-02-27-GowanusCSI.png)
 
 # Citizen Science Investigations on the Waterfront
 
-by [liz](../../../profile/liz) | February 18, 2015 19:44
+by [liz](/profile/liz) | February 18, 2015 19:44
 
-February 18, 2015 19:44 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event), [event:rsvp](../tag/event:rsvp), [date:02-18-2015](../tag/date:02-18-2015)
+February 18, 2015 19:44 | Tags: [new-york-city](/tag/new-york-city), [event](/tag/event), [event:rsvp](/tag/event:rsvp), [date:02-18-2015](/tag/date:02-18-2015)
 
 ----
 

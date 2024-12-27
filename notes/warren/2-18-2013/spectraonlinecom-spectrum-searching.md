@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/2-18-2013/spectraonlinecom-spectrum-searching.md
 nid: 6043
 uid: 1
-
 cids: 3484,6323,6327,6328
-
 ---
 
 ![](https://publiclab.org/sites/default/files/spectraonline.png)
 
 # SpectraOnline.com spectrum searching
 
-by [warren](../../../profile/warren) | February 18, 2013 13:36
+by [warren](/profile/warren) | February 18, 2013 13:36
 
-February 18, 2013 13:36 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [matching](../tag/matching), [search](../tag/search), [spectraonline.com](../tag/spectraonline.com)
+February 18, 2013 13:36 | Tags: [spectrometer](/tag/spectrometer), [spectralworkbench](/tag/spectralworkbench), [matching](/tag/matching), [search](/tag/search), [spectraonline.com](/tag/spectraonline.com)
 
 ----
 

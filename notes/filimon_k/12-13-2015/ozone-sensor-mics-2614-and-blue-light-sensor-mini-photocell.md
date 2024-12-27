@@ -6,18 +6,16 @@ author: filimon_k
 path: /notes/filimon_k/12-13-2015/ozone-sensor-mics-2614-and-blue-light-sensor-mini-photocell.md
 nid: 12506
 uid: 460113
-
 cids: 15567,15653
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/294/original/ch5320.jpg)
 
 # Ozone sensor (MiCS-2614) and Blue light sensor (mini photocell)
 
-by [filimon_k](../../../profile/filimon_k) | December 13, 2015 19:15
+by [filimon_k](/profile/filimon_k) | December 13, 2015 19:15
 
-December 13, 2015 19:15 | Tags: [arduino](../tag/arduino), [ozone](../tag/ozone), [first-time-poster](../tag/first-time-poster)
+December 13, 2015 19:15 | Tags: [arduino](/tag/arduino), [ozone](/tag/ozone), [first-time-poster](/tag/first-time-poster)
 
 ----
 

@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/11-29-2016/who-can-vouch-for-or-interpret-evidence-in-court-and-how-is-it-weighed.md
 nid: 13731
 uid: 1
-
 cids: 
-
 ---
 
 # Who can vouch for, or interpret, evidence in court, and how is it weighed?
 
-by [warren](../../../profile/warren) | November 29, 2016 21:26
+by [warren](/profile/warren) | November 29, 2016 21:26
 
-November 29, 2016 21:26 | Tags: [evidence](../tag/evidence), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [legal](../tag/legal), [question:evidence](../tag/question:evidence), [court](../tag/court), [question:legal](../tag/question:legal), [law-and-policy](../tag/law-and-policy), [question:law-and-policy](../tag/question:law-and-policy)
+November 29, 2016 21:26 | Tags: [evidence](/tag/evidence), [photo-monitoring](/tag/photo-monitoring), [timelapse](/tag/timelapse), [legal](/tag/legal), [question:evidence](/tag/question:evidence), [court](/tag/court), [question:legal](/tag/question:legal), [law-and-policy](/tag/law-and-policy), [question:law-and-policy](/tag/question:law-and-policy)
 
 ----
 

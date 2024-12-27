@@ -6,18 +6,16 @@ author: Sreyanth
 path: /notes/Sreyanth/03-04-2014/automatic-spectrometer-calibration-and-offline-swb-gsoc-2014-proposal.md
 nid: 10103
 uid: 96713
-
 cids: 8408,8410,8413,8414,8415,8438,8464,8466,8490,8496,8500,8507,8508,8512,8526,8527,8543,8640
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/125/original/SWB_LOGO.png)
 
 # Automatic Spectrometer Calibration and Offline SWB - GSoC 2014 Proposal
 
-by [Sreyanth](../../../profile/Sreyanth) | March 04, 2014 18:29
+by [Sreyanth](/profile/Sreyanth) | March 04, 2014 18:29
 
-March 04, 2014 18:29 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [matching](../tag/matching), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [gsoc-proposal](../tag/gsoc-proposal)
+March 04, 2014 18:29 | Tags: [spectrometer](/tag/spectrometer), [spectralworkbench](/tag/spectralworkbench), [matching](/tag/matching), [gsoc](/tag/gsoc), [gsoc-2014](/tag/gsoc-2014), [gsoc-proposal](/tag/gsoc-proposal)
 
 ----
 

@@ -6,18 +6,16 @@ author: TheChessGym
 path: /notes/TheChessGym/03-25-2022/nas-non-indigenous-aquatic-species.md
 nid: 30190
 uid: 788868
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/575/original/riograndecichlid.jpg)
 
 # NAS - Non-indigenous Aquatic Species 
 
-by [TheChessGym](../../../profile/TheChessGym) | March 25, 2022 14:52
+by [TheChessGym](/profile/TheChessGym) | March 25, 2022 14:52
 
-March 25, 2022 14:52 | Tags: [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:22.004174](../tag/lat:22.004174), [lon:76.003417](../tag/lon:76.003417)
+March 25, 2022 14:52 | Tags: [first-time-poster](/tag/first-time-poster), [zoom:6](/tag/zoom:6), [lat:22.004174](/tag/lat:22.004174), [lon:76.003417](/tag/lon:76.003417)
 
 ----
 

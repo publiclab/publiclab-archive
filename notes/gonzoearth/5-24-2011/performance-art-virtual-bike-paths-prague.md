@@ -6,16 +6,14 @@ author: gonzoearth
 path: /notes/gonzoearth/5-24-2011/performance-art-virtual-bike-paths-prague.md
 nid: 271
 uid: 12
-
 cids: 266
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2011-05-23 at 7.37.48 PM_0.png)
 
 # performance art; virtual bike paths in Prague
 
-by [gonzoearth](../../../profile/gonzoearth) | May 24, 2011 04:29
+by [gonzoearth](/profile/gonzoearth) | May 24, 2011 04:29
 
 May 24, 2011 04:29 | Tags: 
 

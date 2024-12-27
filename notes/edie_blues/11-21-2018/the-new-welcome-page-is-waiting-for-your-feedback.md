@@ -6,18 +6,16 @@ author: edie_blues
 path: /notes/edie_blues/11-21-2018/the-new-welcome-page-is-waiting-for-your-feedback.md
 nid: 17726
 uid: 552521
-
 cids: 21325,21346,21350,21353
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/786/original/Screenshot_2018-11-21_at_18.12.34.png)
 
 # The new Welcome Page is waiting for your feedback
 
-by [edie_blues](../../../profile/edie_blues) | November 21, 2018 18:26
+by [edie_blues](/profile/edie_blues) | November 21, 2018 18:26
 
-November 21, 2018 18:26 | Tags: [welcome](../tag/welcome), [ui](../tag/ui), [first-time-poster](../tag/first-time-poster), [new-users](../tag/new-users), [ui-designs](../tag/ui-designs)
+November 21, 2018 18:26 | Tags: [welcome](/tag/welcome), [ui](/tag/ui), [first-time-poster](/tag/first-time-poster), [new-users](/tag/new-users), [ui-designs](/tag/ui-designs)
 
 ----
 

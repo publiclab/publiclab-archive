@@ -6,14 +6,14 @@ author: dhaffnersr
 path: /wiki/chemical-analysis-of-river-sample-at-hopewell-va.md
 nid: 12586
 uid: 461120
-
+cids: 
 ---
 
 # CHEMICAL ANALYSIS OF RIVER SAMPLE AT HOPEWELL VA
 
-by [gargoyle_169](../profile/gargoyle_169), [dhaffnersr](../profile/dhaffnersr)
+by [gargoyle_169](/profile/gargoyle_169), [dhaffnersr](/profile/dhaffnersr)
 
-January 15, 2016 00:37 | Tags: [southeast](../tag/southeast), [protocol](../tag/protocol)
+January 15, 2016 00:37 | Tags: [southeast](/tag/southeast), [protocol](/tag/protocol)
 
 ----
 

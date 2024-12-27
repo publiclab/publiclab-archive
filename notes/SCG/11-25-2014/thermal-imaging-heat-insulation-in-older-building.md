@@ -6,18 +6,16 @@ author: SCG
 path: /notes/SCG/11-25-2014/thermal-imaging-heat-insulation-in-older-building.md
 nid: 11401
 uid: 431781
-
 cids: 15741
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/115/original/Screen_Shot_2014-11-24_at_10.30.10_PM.png)
 
 # Thermal Imaging: Heat Insulation in Older Building
 
-by [SCG](../../../profile/SCG) | November 25, 2014 03:47
+by [SCG](/profile/SCG) | November 25, 2014 03:47
 
-November 25, 2014 03:47 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-camera](../tag/thermal-camera), [tool](../tag/tool), [insulation](../tag/insulation), [heat](../tag/heat), [replication:625](../tag/replication:625)
+November 25, 2014 03:47 | Tags: [thermal-photography](/tag/thermal-photography), [thermal-flashlight](/tag/thermal-flashlight), [thermal-camera](/tag/thermal-camera), [tool](/tag/tool), [insulation](/tag/insulation), [heat](/tag/heat), [replication:625](/tag/replication:625)
 
 ----
 

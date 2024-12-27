@@ -6,14 +6,14 @@ author: gretchengehrke
 path: /wiki/health-effects-lit-review.md
 nid: 13399
 uid: 430549
-
+cids: 
 ---
 
 # Conducting and Writing a Health Effects Literature Review
 
-by [gretchengehrke](../profile/gretchengehrke)
+by [gretchengehrke](/profile/gretchengehrke)
 
-August 26, 2016 20:46 | Tags: [research](../tag/research), [tool](../tag/tool), [methods](../tag/methods), [literature-review](../tag/literature-review), [method](../tag/method)
+August 26, 2016 20:46 | Tags: [research](/tag/research), [tool](/tag/tool), [methods](/tag/methods), [literature-review](/tag/literature-review), [method](/tag/method)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/09-05-2019/congratulations-to-our-2019-outreachy-and-google-summer-of-code-team.md
 nid: 20777
 uid: 1
-
 cids: 25448,25450
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/140/original/IMG20190819190114.jpg)
 
 # Congratulations to our 2019 Outreachy and Google Summer of Code team!
 
-by [warren](../../../profile/warren) | September 05, 2019 19:17
+by [warren](/profile/warren) | September 05, 2019 19:17
 
-September 05, 2019 19:17 | Tags: [gsoc](../tag/gsoc), [blog](../tag/blog), [code](../tag/code), [wwg](../tag/wwg), [soc](../tag/soc), [outreachy](../tag/outreachy), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [outreachy-2019](../tag/outreachy-2019), [gsoc-2019-final-report](../tag/gsoc-2019-final-report)
+September 05, 2019 19:17 | Tags: [gsoc](/tag/gsoc), [blog](/tag/blog), [code](/tag/code), [wwg](/tag/wwg), [soc](/tag/soc), [outreachy](/tag/outreachy), [gsoc-2019](/tag/gsoc-2019), [soc-2019](/tag/soc-2019), [outreachy-2019](/tag/outreachy-2019), [gsoc-2019-final-report](/tag/gsoc-2019-final-report)
 
 ----
 
@@ -37,4 +35,4 @@ Overall, I was super impressed, and wanted to offer a big CONGRATULATIONS to eve
 
 Here are everyone's final reports. And again, GREAT WORK!!! :tada: :tada: :tada: :tada:
 
-[gsoc-2019-final-report](../../tag/gsoc-2019-final-report)
+[gsoc-2019-final-report](/tag/gsoc-2019-final-report)

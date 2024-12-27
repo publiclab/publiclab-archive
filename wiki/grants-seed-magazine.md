@@ -6,12 +6,12 @@ author: warren
 path: /wiki/grants-seed-magazine.md
 nid: 112
 uid: 1
-
+cids: 
 ---
 
 # Grants: Seed Magazine
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 March 02, 2011 21:49 | Tags: 
 

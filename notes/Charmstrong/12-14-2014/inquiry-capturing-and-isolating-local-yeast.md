@@ -6,18 +6,16 @@ author: Charmstrong
 path: /notes/Charmstrong/12-14-2014/inquiry-capturing-and-isolating-local-yeast.md
 nid: 11457
 uid: 430936
-
 cids: 10943,10945,10947
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/384/original/NativeAles_illo-300x201.jpg)
 
 # Inquiry: Capturing and Isolating Local Yeast
 
-by [Charmstrong](../../../profile/Charmstrong) | December 14, 2014 15:37
+by [Charmstrong](/profile/Charmstrong) | December 14, 2014 15:37
 
-December 14, 2014 15:37 | Tags: [yeast](../tag/yeast), [brewing](../tag/brewing), [microbiology](../tag/microbiology), [beer](../tag/beer), [isolation](../tag/isolation)
+December 14, 2014 15:37 | Tags: [yeast](/tag/yeast), [brewing](/tag/brewing), [microbiology](/tag/microbiology), [beer](/tag/beer), [isolation](/tag/isolation)
 
 ----
 

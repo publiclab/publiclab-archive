@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/11-08-2013/fluorescence-of-bp-oil-with-uv-laser-success.md
 nid: 9750
 uid: 1
-
 cids: 7491,7498,7499,7500,7501,7502,7503,7505,7548,7549,7620,7622,7842,7937,7982
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/173/original/IMG_0328.JPG)
 
 # Fluorescence of BP oil with UV laser: success!
 
-by [warren](../../../profile/warren) | November 08, 2013 21:48
+by [warren](/profile/warren) | November 08, 2013 21:48
 
-November 08, 2013 21:48 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [oil](../tag/oil), [ultraviolet](../tag/ultraviolet), [laser](../tag/laser), [fluorescence](../tag/fluorescence), [bp](../tag/bp), [response:8949](../tag/response:8949), [response:8955](../tag/response:8955), [response:9306](../tag/response:9306), [response:7551](../tag/response:7551), [oil-testing-kit](../tag/oil-testing-kit)
+November 08, 2013 21:48 | Tags: [spectrometer](/tag/spectrometer), [uv](/tag/uv), [oil](/tag/oil), [ultraviolet](/tag/ultraviolet), [laser](/tag/laser), [fluorescence](/tag/fluorescence), [bp](/tag/bp), [response:8949](/tag/response:8949), [response:8955](/tag/response:8955), [response:9306](/tag/response:9306), [response:7551](/tag/response:7551), [oil-testing-kit](/tag/oil-testing-kit)
 
 ----
 

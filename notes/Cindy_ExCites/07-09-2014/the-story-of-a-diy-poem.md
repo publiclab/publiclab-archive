@@ -6,18 +6,16 @@ author: cindy_excites
 path: /notes/Cindy_ExCites/07-09-2014/the-story-of-a-diy-poem.md
 nid: 10667
 uid: 1083
-
 cids: 9456
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/185/original/poem_by_allan_andre.jpg)
 
 # The story of a DIY poem
 
-by [cindy_excites](../../../profile/cindy_excites) | July 09, 2014 11:14
+by [cindy_excites](/profile/cindy_excites) | July 09, 2014 11:14
 
-July 09, 2014 11:14 | Tags: [politics](../tag/politics), [barnstar:empiricism](../tag/barnstar:empiricism), [poem](../tag/poem)
+July 09, 2014 11:14 | Tags: [politics](/tag/politics), [barnstar:empiricism](/tag/barnstar:empiricism), [poem](/tag/poem)
 
 ----
 

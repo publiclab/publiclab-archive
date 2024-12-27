@@ -6,18 +6,16 @@ author: tonyc
 path: /notes/tonyc/12-17-2015/judo-rig-for-aerial-photography.md
 nid: 12524
 uid: 447491
-
 cids: 13148,13149,13152,13156,13157
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/364/original/IMG_3571.JPG)
 
 # "Judo Rig" for aerial photography
 
-by [tonyc](../../../profile/tonyc) | December 17, 2015 00:15
+by [tonyc](/profile/tonyc) | December 17, 2015 00:15
 
-December 17, 2015 00:15 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [camera-rig-tests](../tag/camera-rig-tests), [aerial-photography](../tag/aerial-photography), [photo-rig](../tag/photo-rig), [diy-mount-kit](../tag/diy-mount-kit), [activity:photo-rig](../tag/activity:photo-rig)
+December 17, 2015 00:15 | Tags: [kite-aerial-photography](/tag/kite-aerial-photography), [camera-rig-tests](/tag/camera-rig-tests), [aerial-photography](/tag/aerial-photography), [photo-rig](/tag/photo-rig), [diy-mount-kit](/tag/diy-mount-kit), [activity:photo-rig](/tag/activity:photo-rig)
 
 ----
 

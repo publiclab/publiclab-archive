@@ -6,18 +6,16 @@ author: mridulnagpal
 path: /notes/mridulnagpal/01-22-2018/leaflet-blurred-location.md
 nid: 15584
 uid: 497953
-
 cids: 18243,18263,18264,18279,18397,18464,18465,18468,18469,18525,18529,18530,18596,18691,18693,18729,18759,18766,18772,18773,18827,19015,19031,19076,19127,19205
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/159/original/leaflet-blurred-location.png)
 
 # GSoC proposal: Leaflet Blurred Location Part 2
 
-by [mridulnagpal](../../../profile/mridulnagpal) | January 22, 2018 18:33
+by [mridulnagpal](/profile/mridulnagpal) | January 22, 2018 18:33
 
-January 22, 2018 18:33 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2018](../tag/gsoc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [gsoc-2018-final](../tag/gsoc-2018-final)
+January 22, 2018 18:33 | Tags: [gsoc](/tag/gsoc), [soc](/tag/soc), [gsoc-2018](/tag/gsoc-2018), [soc-2018-proposals](/tag/soc-2018-proposals), [gsoc-2018-final](/tag/gsoc-2018-final)
 
 ----
 

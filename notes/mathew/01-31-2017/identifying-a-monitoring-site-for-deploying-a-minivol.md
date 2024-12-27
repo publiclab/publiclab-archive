@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/01-31-2017/identifying-a-monitoring-site-for-deploying-a-minivol.md
 nid: 13891
 uid: 4
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/395/original/homeminivol2.jpg)
 
 # Identifying a PM monitoring site for deploying a MiniVol
 
-by [mathew](../../../profile/mathew) | January 31, 2017 18:51
+by [mathew](/profile/mathew) | January 31, 2017 18:51
 
-January 31, 2017 18:51 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [pm-monitoring](../tag/pm-monitoring), [minivol](../tag/minivol), [activity:minivol](../tag/activity:minivol), [activity:site-survey](../tag/activity:site-survey)
+January 31, 2017 18:51 | Tags: [air-quality](/tag/air-quality), [dust](/tag/dust), [silica](/tag/silica), [pm](/tag/pm), [particle-sensing](/tag/particle-sensing), [pm-monitoring](/tag/pm-monitoring), [minivol](/tag/minivol), [activity:minivol](/tag/activity:minivol), [activity:site-survey](/tag/activity:site-survey)
 
 ----
 

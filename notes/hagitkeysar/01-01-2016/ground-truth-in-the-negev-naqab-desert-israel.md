@@ -6,18 +6,16 @@ author: hagitkeysar
 path: /notes/hagitkeysar/01-01-2016/ground-truth-in-the-negev-naqab-desert-israel.md
 nid: 12555
 uid: 152
-
 cids: 13243
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/490/original/IMG_8287.JPG)
 
 # Ground Truth in the Negev-Naqab Desert, Israel
 
-by [hagitkeysar](../../../profile/hagitkeysar) | January 01, 2016 22:40
+by [hagitkeysar](/profile/hagitkeysar) | January 01, 2016 22:40
 
-January 01, 2016 22:40 | Tags: [mapknitter](../tag/mapknitter), [israel](../tag/israel), [blog](../tag/blog), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [middle-east](../tag/middle-east), [lat:31.372335](../tag/lat:31.372335), [lon:34.793877](../tag/lon:34.793877)
+January 01, 2016 22:40 | Tags: [mapknitter](/tag/mapknitter), [israel](/tag/israel), [blog](/tag/blog), [barnstar:photo-documentation](/tag/barnstar:photo-documentation), [middle-east](/tag/middle-east), [lat:31.372335](/tag/lat:31.372335), [lon:34.793877](/tag/lon:34.793877)
 
 ----
 

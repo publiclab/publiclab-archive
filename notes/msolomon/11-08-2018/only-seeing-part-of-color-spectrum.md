@@ -6,16 +6,14 @@ author: msolomon
 path: /notes/msolomon/11-08-2018/only-seeing-part-of-color-spectrum.md
 nid: 17493
 uid: 557772
-
 cids: 21197,21200,23279,23280
-
 ---
 
 # Only seeing part of color spectrum
 
-by [msolomon](../../../profile/msolomon) | November 08, 2018 19:39
+by [msolomon](/profile/msolomon) | November 08, 2018 19:39
 
-November 08, 2018 19:39 | Tags: [spectral-workbench](../tag/spectral-workbench), [camera](../tag/camera), [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered), [spectrum](../tag/spectrum), [first-time-poster](../tag/first-time-poster), [upside](../tag/upside), [down](../tag/down)
+November 08, 2018 19:39 | Tags: [spectral-workbench](/tag/spectral-workbench), [camera](/tag/camera), [question:spectral-workbench](/tag/question:spectral-workbench), [answered](/tag/answered), [spectrum](/tag/spectrum), [first-time-poster](/tag/first-time-poster), [upside](/tag/upside), [down](/tag/down)
 
 ----
 

@@ -6,16 +6,16 @@ author: gretchengehrke
 path: /wiki/vermont-indoor-air.md
 nid: 13520
 uid: 430549
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/262/original/State_Government_Indoor_Air_Testing.jpg)
 
 # Vermont Indoor Air
 
-by [gretchengehrke](../profile/gretchengehrke), [nshapiro](../profile/nshapiro)
+by [gretchengehrke](/profile/gretchengehrke), [nshapiro](/profile/nshapiro)
 
-October 04, 2016 02:30 | Tags: [vermont](../tag/vermont), [indoor-air-quality](../tag/indoor-air-quality), [indoor-air](../tag/indoor-air), [indoor-air-info-sheet](../tag/indoor-air-info-sheet)
+October 04, 2016 02:30 | Tags: [vermont](/tag/vermont), [indoor-air-quality](/tag/indoor-air-quality), [indoor-air](/tag/indoor-air), [indoor-air-info-sheet](/tag/indoor-air-info-sheet)
 
 ----
 

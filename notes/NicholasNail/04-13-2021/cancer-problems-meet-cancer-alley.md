@@ -6,18 +6,16 @@ author: NicholasNail
 path: /notes/NicholasNail/04-13-2021/cancer-problems-meet-cancer-alley.md
 nid: 26223
 uid: 750432
-
 cids: 28562,28565,28570,28584,28819
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/280/original/cancer-alley-la.jpg)
 
 # Cancer Problems: Meet Cancer Alley
 
-by [NicholasNail](../../../profile/NicholasNail) | April 13, 2021 17:12
+by [NicholasNail](/profile/NicholasNail) | April 13, 2021 17:12
 
-April 13, 2021 17:12 | Tags: [gulf-coast](../tag/gulf-coast), [air-quality](../tag/air-quality), [cancer](../tag/cancer), [pollution](../tag/pollution), [issue-brief](../tag/issue-brief), [first-time-poster](../tag/first-time-poster), [zoom:7](../tag/zoom:7), [cancer-alley](../tag/cancer-alley), [lat:30.177423](../tag/lat:30.177423), [lon:-91.046702](../tag/lon:-91.046702), [with:owentaylor](../tag/with:owentaylor), [with:duynguyen](../tag/with:duynguyen)
+April 13, 2021 17:12 | Tags: [gulf-coast](/tag/gulf-coast), [air-quality](/tag/air-quality), [cancer](/tag/cancer), [pollution](/tag/pollution), [issue-brief](/tag/issue-brief), [first-time-poster](/tag/first-time-poster), [zoom:7](/tag/zoom:7), [cancer-alley](/tag/cancer-alley), [lat:30.177423](/tag/lat:30.177423), [lon:-91.046702](/tag/lon:-91.046702), [with:owentaylor](/tag/with:owentaylor), [with:duynguyen](/tag/with:duynguyen)
 
 ----
 
@@ -47,4 +45,4 @@ Sharon Lavigne, founder of a protest group named "Coalition Against Cancer Alley
 6. How are these companies able to pollute the area without legal action being taken against them?  
 7. Does it affect animals?                 
 
-[cancer_alley_louisiana_concerns](../../tag/question:cancer_alley_louisiana_concerns)
+[cancer_alley_louisiana_concerns](/tag/question:cancer_alley_louisiana_concerns)

@@ -6,16 +6,14 @@ author: makayla_thomas
 path: /notes/makayla_thomas/04-27-2021/what-is-some-ways-that-we-the-people-impact-our-community-in-a-positive-and-harmful-way-in-our-everyday-activities.md
 nid: 26373
 uid: 754382
-
 cids: 
-
 ---
 
 # What is some ways that we the people impact our community in a positive and harmful way in our everyday activities?
 
-by [makayla_thomas](../../../profile/makayla_thomas) | April 27, 2021 19:36
+by [makayla_thomas](/profile/makayla_thomas) | April 27, 2021 19:36
 
-April 27, 2021 19:36 | Tags: [community](../tag/community), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
+April 27, 2021 19:36 | Tags: [community](/tag/community), [question:general](/tag/question:general), [general](/tag/general), [first-time-poster](/tag/first-time-poster)
 
 ----
 

@@ -6,12 +6,12 @@ author: gonzoearth
 path: /wiki/spectrometer-review.md
 nid: 701
 uid: 12
-
+cids: 
 ---
 
 # spectrometer review
 
-by [gonzoearth](../profile/gonzoearth)
+by [gonzoearth](/profile/gonzoearth)
 
 January 19, 2012 00:42 | Tags: 
 

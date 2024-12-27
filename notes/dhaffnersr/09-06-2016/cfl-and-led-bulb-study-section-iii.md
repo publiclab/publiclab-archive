@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/09-06-2016/cfl-and-led-bulb-study-section-iii.md
 nid: 13423
 uid: 461120
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/932/original/TITLE_PIC.png)
 
 # CFL and LED Bulb Study Section III
 
-by [dhaffnersr](../../../profile/dhaffnersr) | September 06, 2016 12:21
+by [dhaffnersr](/profile/dhaffnersr) | September 06, 2016 12:21
 
 September 06, 2016 12:21 | Tags: 
 

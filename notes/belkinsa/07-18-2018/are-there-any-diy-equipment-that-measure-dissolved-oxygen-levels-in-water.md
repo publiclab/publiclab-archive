@@ -6,16 +6,14 @@ author: belkinsa
 path: /notes/belkinsa/07-18-2018/are-there-any-diy-equipment-that-measure-dissolved-oxygen-levels-in-water.md
 nid: 16736
 uid: 504609
-
 cids: 20155,20216,20373,20377,20383,23182
-
 ---
 
 # Are there any DIY equipment that measure dissolved oxygen levels in water?
 
-by [belkinsa](../../../profile/belkinsa) | July 18, 2018 00:23
+by [belkinsa](/profile/belkinsa) | July 18, 2018 00:23
 
-July 18, 2018 00:23 | Tags: [water-quality](../tag/water-quality), [oxygen](../tag/oxygen), [question:water-quality](../tag/question:water-quality), [dissolved](../tag/dissolved), [question:water-sensors](../tag/question:water-sensors), [location:blurred](../tag/location:blurred), [ohio](../tag/ohio), [question:dissolved-oxygen](../tag/question:dissolved-oxygen), [lat:39](../tag/lat:39), [lon:-84](../tag/lon:-84)
+July 18, 2018 00:23 | Tags: [water-quality](/tag/water-quality), [oxygen](/tag/oxygen), [question:water-quality](/tag/question:water-quality), [dissolved](/tag/dissolved), [question:water-sensors](/tag/question:water-sensors), [location:blurred](/tag/location:blurred), [ohio](/tag/ohio), [question:dissolved-oxygen](/tag/question:dissolved-oxygen), [lat:39](/tag/lat:39), [lon:-84](/tag/lon:-84)
 
 ----
 

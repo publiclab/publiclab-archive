@@ -6,16 +6,14 @@ author: Jordansalcido
 path: /notes/Jordansalcido/03-22-2022/urban-heat.md
 nid: 30169
 uid: 792325
-
 cids: 29859
-
 ---
 
 # Urban Heat 
 
-by [Jordansalcido](../../../profile/Jordansalcido) | March 22, 2022 06:27
+by [Jordansalcido](/profile/Jordansalcido) | March 22, 2022 06:27
 
-March 22, 2022 06:27 | Tags: [urban-heat-island](../tag/urban-heat-island), [issue-brief](../tag/issue-brief), [lat:34](../tag/lat:34), [first-time-poster](../tag/first-time-poster), [lon:-118](../tag/lon:-118), [zoom:6](../tag/zoom:6), [urbanheat](../tag/urbanheat), [heatisland](../tag/heatisland), [treecanopy](../tag/treecanopy)
+March 22, 2022 06:27 | Tags: [urban-heat-island](/tag/urban-heat-island), [issue-brief](/tag/issue-brief), [lat:34](/tag/lat:34), [first-time-poster](/tag/first-time-poster), [lon:-118](/tag/lon:-118), [zoom:6](/tag/zoom:6), [urbanheat](/tag/urbanheat), [heatisland](/tag/heatisland), [treecanopy](/tag/treecanopy)
 
 ----
 

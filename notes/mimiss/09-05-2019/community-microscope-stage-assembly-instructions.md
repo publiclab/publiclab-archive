@@ -6,18 +6,16 @@ author: mimiss
 path: /notes/mimiss/09-05-2019/community-microscope-stage-assembly-instructions.md
 nid: 20703
 uid: 579821
-
 cids: 25440,25441,25442,25443,25447,29408,29412,29427,29428,29437,29440,29441,29458,30650
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/139/original/microscope-drawing-clip-lens.jpg)
 
 # Community Microscope Stage Assembly Instructions
 
-by [mimiss](../../../profile/mimiss) | August 28, 2019 16:09
+by [mimiss](/profile/mimiss) | August 28, 2019 16:09
 
-August 28, 2019 16:09 | Tags: [with:warren](../tag/with:warren), [with:stevie](../tag/with:stevie), [with:liz](../tag/with:liz), [microscope](../tag/microscope), [with:bronwen](../tag/with:bronwen), [activity:microscope](../tag/activity:microscope), [activity:community-microscope](../tag/activity:community-microscope), [assembly:community-microscope](../tag/assembly:community-microscope)
+August 28, 2019 16:09 | Tags: [with:warren](/tag/with:warren), [with:stevie](/tag/with:stevie), [with:liz](/tag/with:liz), [microscope](/tag/microscope), [with:bronwen](/tag/with:bronwen), [activity:microscope](/tag/activity:microscope), [activity:community-microscope](/tag/activity:community-microscope), [assembly:community-microscope](/tag/assembly:community-microscope)
 
 ----
 

@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/08-21-2014/low-cost-passive-aerosol-monitors.md
 nid: 11071
 uid: 4
-
 cids: 10106,10115,10682,10689
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/376/original/Screen_Shot_2014-08-21_at_12.10.22_PM.png)
 
 # Low-cost passive aerosol monitors
 
-by [mathew](../../../profile/mathew) | August 21, 2014 23:33
+by [mathew](/profile/mathew) | August 21, 2014 23:33
 
-August 21, 2014 23:33 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [particulates](../tag/particulates), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [particle-monitoring](../tag/particle-monitoring), [fracsand](../tag/fracsand), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [parent:frac-sand](../tag/parent:frac-sand)
+August 21, 2014 23:33 | Tags: [air-quality](/tag/air-quality), [dust](/tag/dust), [particulates](/tag/particulates), [silica](/tag/silica), [frac-sand](/tag/frac-sand), [pm](/tag/pm), [particle-sensing](/tag/particle-sensing), [particle-monitoring](/tag/particle-monitoring), [fracsand](/tag/fracsand), [passive-particle-monitors](/tag/passive-particle-monitors), [passive-pm](/tag/passive-pm), [parent:frac-sand](/tag/parent:frac-sand)
 
 ----
 

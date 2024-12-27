@@ -6,16 +6,16 @@ author: stevie
 path: /wiki/noise.md
 nid: 16322
 uid: 422561
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/460/original/Screen_Shot_2020-05-20_at_9.37.52_AM.png)
 
 # Noise
 
-by [joyofsoy](../profile/joyofsoy), [warren](../profile/warren), [stevie](../profile/stevie)
+by [joyofsoy](/profile/joyofsoy), [warren](/profile/warren), [stevie](/profile/stevie)
 
-May 09, 2018 16:52 | Tags: [audio](../tag/audio), [noise](../tag/noise), [method](../tag/method), [nuisance](../tag/nuisance)
+May 09, 2018 16:52 | Tags: [audio](/tag/audio), [noise](/tag/noise), [method](/tag/method), [nuisance](/tag/nuisance)
 
 ----
 
@@ -44,12 +44,12 @@ _Note from Muki Haklay: There are issues with the calibration of phones with app
 
 ## Questions
 
-[noise](../../tag/question:noise)
+[noise](/tag/question:noise)
 
 ## Notes
 
-[noise!question:noise](../../tag/noise!question:noise)
+[noise!question:noise](/tag/noise!question:noise)
 
 ## Activities
 
-[noise](../../tag/activity:noise)
+[noise](/tag/activity:noise)

@@ -6,14 +6,14 @@ author: Shannon
 path: /wiki/suggested-spectrometer-readings.md
 nid: 7433
 uid: 9
-
+cids: 
 ---
 
 # Suggested Spectrometer Readings
 
-by [PeterDavidowicz](../profile/PeterDavidowicz), [Shannon](../profile/Shannon)
+by [PeterDavidowicz](/profile/PeterDavidowicz), [Shannon](/profile/Shannon)
 
-May 11, 2013 13:48 | Tags: [spectrometer](../tag/spectrometer), [curriculum](../tag/curriculum), [readings](../tag/readings)
+May 11, 2013 13:48 | Tags: [spectrometer](/tag/spectrometer), [curriculum](/tag/curriculum), [readings](/tag/readings)
 
 ----
 

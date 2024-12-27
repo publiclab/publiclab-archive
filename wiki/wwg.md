@@ -6,16 +6,16 @@ author: warren
 path: /wiki/wwg.md
 nid: 15748
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/843/original/Screenshot_20180117-193940.png)
 
 # Web Working Group
 
-by [Bronwen](../profile/Bronwen), [warren](../profile/warren), [bigdaw](../profile/bigdaw)
+by [Bronwen](/profile/Bronwen), [warren](/profile/warren), [bigdaw](/profile/bigdaw)
 
-February 16, 2018 16:54 | Tags: [website](../tag/website), [working-groups](../tag/working-groups), [web-working-group](../tag/web-working-group), [wwg](../tag/wwg), [parent:working-groups](../tag/parent:working-groups), [parent:website](../tag/parent:website)
+February 16, 2018 16:54 | Tags: [website](/tag/website), [working-groups](/tag/working-groups), [web-working-group](/tag/web-working-group), [wwg](/tag/wwg), [parent:working-groups](/tag/parent:working-groups), [parent:website](/tag/parent:website)
 
 ----
 
@@ -25,7 +25,7 @@ For issues with Public Lab software and websites, please [see our Issues page](/
 
 ## Questions
 
-[website](../../tag/question:website)
+[website](/tag/question:website)
 
 ## Members
 
@@ -35,4 +35,4 @@ For issues with Public Lab software and websites, please [see our Issues page](/
 
 ## Web Working Group updates
 
-[wwg](../../tag/wwg)
+[wwg](/tag/wwg)

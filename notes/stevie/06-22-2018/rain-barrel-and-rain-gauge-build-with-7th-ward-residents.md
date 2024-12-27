@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/06-22-2018/rain-barrel-and-rain-gauge-build-with-7th-ward-residents.md
 nid: 16553
 uid: 422561
-
 cids: 19866,20255,30254
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/273/original/20180616_111917.jpg)
 
 # Rain Barrel and Rain Gauge Build with 7th Ward Residents 
 
-by [stevie](../../../profile/stevie) | June 22, 2018 14:29
+by [stevie](/profile/stevie) | June 22, 2018 14:29
 
-June 22, 2018 14:29 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [new-orleans](../tag/new-orleans), [blog](../tag/blog), [stormwater](../tag/stormwater), [flooding](../tag/flooding), [nas](../tag/nas), [nola](../tag/nola), [location:blurred](../tag/location:blurred), [lon:-90](../tag/lon:-90), [rain-barrel](../tag/rain-barrel), [rain-gauge](../tag/rain-gauge), [lat:29.9](../tag/lat:29.9), [place:la-70131-united-states](../tag/place:la-70131-united-states)
+June 22, 2018 14:29 | Tags: [gulf-coast](/tag/gulf-coast), [event](/tag/event), [new-orleans](/tag/new-orleans), [blog](/tag/blog), [stormwater](/tag/stormwater), [flooding](/tag/flooding), [nas](/tag/nas), [nola](/tag/nola), [location:blurred](/tag/location:blurred), [lon:-90](/tag/lon:-90), [rain-barrel](/tag/rain-barrel), [rain-gauge](/tag/rain-gauge), [lat:29.9](/tag/lat:29.9), [place:la-70131-united-states](/tag/place:la-70131-united-states)
 
 ----
 

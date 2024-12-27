@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/8-13-2012/foldable-and-countertop-spectrometers.md
 nid: 3266
 uid: 1
-
 cids: 1156
-
 ---
 
 ![](https://publiclab.org/sites/default/files/2012-08-12 23.53.29.jpg)
 
 # Foldable and "countertop" spectrometers
 
-by [warren](../../../profile/warren) | August 13, 2012 19:07
+by [warren](/profile/warren) | August 13, 2012 19:07
 
-August 13, 2012 19:07 | Tags: [spectrometer](../tag/spectrometer)
+August 13, 2012 19:07 | Tags: [spectrometer](/tag/spectrometer)
 
 ----
 

@@ -6,16 +6,16 @@ author: warren
 path: /wiki/anonymity.md
 nid: 14498
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/727/original/pl-narrow.png)
 
 # Anonymity
 
-by [warren](../profile/warren), [liz](../profile/liz), [xose](../profile/xose)
+by [warren](/profile/warren), [liz](/profile/liz), [xose](/profile/xose)
 
-June 02, 2017 18:21 | Tags: [community](../tag/community), [security](../tag/security), [metadata](../tag/metadata), [privacy](../tag/privacy), [method](../tag/method), [anonymity](../tag/anonymity), [personal-information](../tag/personal-information), [anonymizing](../tag/anonymizing), [risk](../tag/risk), [threat-model](../tag/threat-model), [risk-assessment](../tag/risk-assessment), [parent:security](../tag/parent:security)
+June 02, 2017 18:21 | Tags: [community](/tag/community), [security](/tag/security), [metadata](/tag/metadata), [privacy](/tag/privacy), [method](/tag/method), [anonymity](/tag/anonymity), [personal-information](/tag/personal-information), [anonymizing](/tag/anonymizing), [risk](/tag/risk), [threat-model](/tag/threat-model), [risk-assessment](/tag/risk-assessment), [parent:security](/tag/parent:security)
 
 ----
 
@@ -111,7 +111,7 @@ Of course, it's your choice to share personal or identifying information if you 
 
 If you have questions, you can post them here (being sure not to share private information as you do!) or email **staff@publiclab.org** for more information.
 
-[anonymity](../../tag/question:anonymity)
+[anonymity](/tag/question:anonymity)
 
 ****
 

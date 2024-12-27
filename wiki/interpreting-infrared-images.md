@@ -6,14 +6,14 @@ author: warren
 path: /wiki/interpreting-infrared-images.md
 nid: 1872
 uid: 1
-
+cids: 
 ---
 
 # Interpreting infrared images
 
-by [aguchosolano](../profile/aguchosolano), [warren](../profile/warren)
+by [aguchosolano](/profile/aguchosolano), [warren](/profile/warren)
 
-May 01, 2012 16:33 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [image-interpretation](../tag/image-interpretation), [interpretation](../tag/interpretation)
+May 01, 2012 16:33 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [infrared](/tag/infrared), [infragram](/tag/infragram), [image-interpretation](/tag/image-interpretation), [interpretation](/tag/interpretation)
 
 ----
 

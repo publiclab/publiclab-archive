@@ -6,18 +6,16 @@ author: jbreen
 path: /notes/jbreen/10-09-2013/balloon-mapping-k-week.md
 nid: 9423
 uid: 326
-
 cids: 7163,7173
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/802/original/T0Q-C-lrtojpphwLB4UhYwLhdJZtXjrxqoyQcee5Hm8.jpg)
 
 # Balloon Mapping K Week
 
-by [jbreen](../../../profile/jbreen) | October 09, 2013 01:29
+by [jbreen](/profile/jbreen) | October 09, 2013 01:29
 
-October 09, 2013 01:29 | Tags: [troubleshooting](../tag/troubleshooting), [balloon-mapping-kit](../tag/balloon-mapping-kit), [helium](../tag/helium)
+October 09, 2013 01:29 | Tags: [troubleshooting](/tag/troubleshooting), [balloon-mapping-kit](/tag/balloon-mapping-kit), [helium](/tag/helium)
 
 ----
 

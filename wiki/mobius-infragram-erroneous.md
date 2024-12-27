@@ -6,12 +6,12 @@ author: warren
 path: /wiki/mobius-infragram-erroneous.md
 nid: 10294
 uid: 1
-
+cids: 
 ---
 
 # mobius-infragram-erroneous
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 April 10, 2014 20:32 | Tags: 
 

@@ -6,12 +6,12 @@ author: joyofsoy
 path: /wiki/infragram-pi-camera.md
 nid: 20603
 uid: 540844
-
+cids: 
 ---
 
 # Infragram Pi Camera
 
-by [joyofsoy](../profile/joyofsoy)
+by [joyofsoy](/profile/joyofsoy)
 
 August 20, 2019 22:36 | Tags: 
 

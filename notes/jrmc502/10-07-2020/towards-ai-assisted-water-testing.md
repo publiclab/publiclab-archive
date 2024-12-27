@@ -6,18 +6,16 @@ author: jrmc502
 path: /notes/jrmc502/10-07-2020/towards-ai-assisted-water-testing.md
 nid: 24713
 uid: 705531
-
 cids: 27478,27505,27511,27512,27514,27761,28065
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/095/original/IMG_20200819_134838734_HDR.jpg)
 
 # (Towards) AI-Assisted Water Testing
 
-by [jrmc502](../../../profile/jrmc502) | October 07, 2020 19:15
+by [jrmc502](/profile/jrmc502) | October 07, 2020 19:15
 
-October 07, 2020 19:15 | Tags: [water-quality](../tag/water-quality), [wheestat](../tag/wheestat), [first-time-poster](../tag/first-time-poster), [zoom:4](../tag/zoom:4), [ai](../tag/ai), [lat:38.833881](../tag/lat:38.833881), [lon:-104.821363](../tag/lon:-104.821363), [machine-learning](../tag/machine-learning)
+October 07, 2020 19:15 | Tags: [water-quality](/tag/water-quality), [wheestat](/tag/wheestat), [first-time-poster](/tag/first-time-poster), [zoom:4](/tag/zoom:4), [ai](/tag/ai), [lat:38.833881](/tag/lat:38.833881), [lon:-104.821363](/tag/lon:-104.821363), [machine-learning](/tag/machine-learning)
 
 ----
 

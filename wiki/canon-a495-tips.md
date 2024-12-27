@@ -6,14 +6,14 @@ author: cfastie
 path: /wiki/canon-a495-tips.md
 nid: 1780
 uid: 554
-
+cids: 
 ---
 
 # Canon A495 Tips
 
-by [cfastie](../profile/cfastie), [warren](../profile/warren)
+by [cfastie](/profile/cfastie), [warren](/profile/warren)
 
-April 25, 2012 15:03 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping)
+April 25, 2012 15:03 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping)
 
 ----
 

@@ -6,16 +6,14 @@ author: Hudonnoodles
 path: /notes/hudonnoodles/10-25-2012/boston-plots-meet-tidmarsh-farm.md
 nid: 4636
 uid: 102
-
 cids: 1743,1751,1756,1943,2126,2127,2128
-
 ---
 
 # Boston PLOTS Meet Up - Tidmarsh Farm
 
-by [Hudonnoodles](../../../profile/Hudonnoodles) | October 25, 2012 10:36
+by [Hudonnoodles](/profile/Hudonnoodles) | October 25, 2012 10:36
 
-October 25, 2012 10:36 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [events](../tag/events), [pre-flight-planning](../tag/pre-flight-planning), [skillshare](../tag/skillshare), [tidmarsh](../tag/tidmarsh)
+October 25, 2012 10:36 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [events](/tag/events), [pre-flight-planning](/tag/pre-flight-planning), [skillshare](/tag/skillshare), [tidmarsh](/tag/tidmarsh)
 
 ----
 

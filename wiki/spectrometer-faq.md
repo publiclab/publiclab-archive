@@ -6,14 +6,14 @@ author: warren
 path: /wiki/spectrometer-faq.md
 nid: 243
 uid: 1
-
+cids: 
 ---
 
 # Spectrometer FAQ
 
-by [Tark](../profile/Tark), [rdwill](../profile/rdwill), [BrentNewhall](../profile/BrentNewhall), [warren](../profile/warren)
+by [Tark](/profile/Tark), [rdwill](/profile/rdwill), [BrentNewhall](/profile/BrentNewhall), [warren](/profile/warren)
 
-May 17, 2011 23:19 | Tags: [spectrometer](../tag/spectrometer), [documentation](../tag/documentation), [help](../tag/help), [faq](../tag/faq), [absorption-spectrometry](../tag/absorption-spectrometry)
+May 17, 2011 23:19 | Tags: [spectrometer](/tag/spectrometer), [documentation](/tag/documentation), [help](/tag/help), [faq](/tag/faq), [absorption-spectrometry](/tag/absorption-spectrometry)
 
 ----
 

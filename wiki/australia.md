@@ -6,14 +6,14 @@ author: cobi
 path: /wiki/australia.md
 nid: 11579
 uid: 427829
-
+cids: 
 ---
 
 # australia
 
-by [cobi](../profile/cobi), [warren](../profile/warren)
+by [cobi](/profile/cobi), [warren](/profile/warren)
 
-February 13, 2015 01:46 | Tags: [australia](../tag/australia), [chapter](../tag/chapter)
+February 13, 2015 01:46 | Tags: [australia](/tag/australia), [chapter](/tag/chapter)
 
 ----
 

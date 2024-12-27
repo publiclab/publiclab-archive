@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/09-07-2016/q-a-enables-automated-faq.md
 nid: 13428
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/964/original/Screenshot_2016-09-07_at_3.51.53_PM.png)
 
 # Q&A enables automated FAQ
 
-by [liz](../../../profile/liz) | September 07, 2016 18:11
+by [liz](/profile/liz) | September 07, 2016 18:11
 
-September 07, 2016 18:11 | Tags: [community](../tag/community), [blog](../tag/blog), [with:warren](../tag/with:warren), [with:gretchengehrke](../tag/with:gretchengehrke), [research-culture](../tag/research-culture), [activity-grids](../tag/activity-grids), [with:abdul](../tag/with:abdul)
+September 07, 2016 18:11 | Tags: [community](/tag/community), [blog](/tag/blog), [with:warren](/tag/with:warren), [with:gretchengehrke](/tag/with:gretchengehrke), [research-culture](/tag/research-culture), [activity-grids](/tag/activity-grids), [with:abdul](/tag/with:abdul)
 
 ----
 

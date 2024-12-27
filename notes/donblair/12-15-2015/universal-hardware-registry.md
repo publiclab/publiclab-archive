@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/12-15-2015/universal-hardware-registry.md
 nid: 12519
 uid: 43651
-
 cids: 13113,13119,13137,13167,13168
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/344/original/codex.png)
 
 # Universal Hardware Registry?
 
-by [donblair](../../../profile/donblair) | December 15, 2015 16:33
+by [donblair](/profile/donblair) | December 15, 2015 16:33
 
-December 15, 2015 16:33 | Tags: [open-hardware](../tag/open-hardware), [hardware](../tag/hardware), [units](../tag/units), [mayan-codex](../tag/mayan-codex)
+December 15, 2015 16:33 | Tags: [open-hardware](/tag/open-hardware), [hardware](/tag/hardware), [units](/tag/units), [mayan-codex](/tag/mayan-codex)
 
 ----
 

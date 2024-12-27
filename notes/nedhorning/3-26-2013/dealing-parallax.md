@@ -6,18 +6,16 @@ author: nedhorning
 path: /notes/nedhorning/3-26-2013/dealing-parallax.md
 nid: 6550
 uid: 133
-
 cids: 4239,4244,4259,4261,4263,4285,4289
-
 ---
 
 ![](https://publiclab.org/sites/default/files/kpm1_2.png)
 
 # Dealing with parallax
 
-by [nedhorning](../../../profile/nedhorning) | March 27, 2013 01:06
+by [nedhorning](/profile/nedhorning) | March 27, 2013 01:06
 
-March 27, 2013 01:06 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [image-stitching](../tag/image-stitching), [parallax](../tag/parallax), [image-registration](../tag/image-registration)
+March 27, 2013 01:06 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [image-stitching](/tag/image-stitching), [parallax](/tag/parallax), [image-registration](/tag/image-registration)
 
 ----
 

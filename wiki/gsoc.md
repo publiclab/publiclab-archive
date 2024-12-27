@@ -6,16 +6,16 @@ author: warren
 path: /wiki/gsoc.md
 nid: 7963
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/889/original/93239244-82ac5d80-f750-11ea-9317-55745d1dea24.png)
 
 # Summer of Code programs
 
-by [warren](../profile/warren), [ruthnwaiganjo](../profile/ruthnwaiganjo), [stevie](../profile/stevie), [liz](../profile/liz)
+by [warren](/profile/warren), [ruthnwaiganjo](/profile/ruthnwaiganjo), [stevie](/profile/stevie), [liz](/profile/liz)
 
-May 29, 2013 18:19 | Tags: [gsoc](../tag/gsoc), [list:plots-gsoc](../tag/list:plots-gsoc), [developers](../tag/developers), [parent:developers](../tag/parent:developers), [soc-2017](../tag/soc-2017), [questions](../tag/questions), [soc-2018](../tag/soc-2018), [outreachy-2018](../tag/outreachy-2018), [soc-2019](../tag/soc-2019), [outreachy-2019](../tag/outreachy-2019), [pin:gsoc](../tag/pin:gsoc), [pin:soc](../tag/pin:soc), [pin:outreachy](../tag/pin:outreachy)
+May 29, 2013 18:19 | Tags: [gsoc](/tag/gsoc), [list:plots-gsoc](/tag/list:plots-gsoc), [developers](/tag/developers), [parent:developers](/tag/parent:developers), [soc-2017](/tag/soc-2017), [questions](/tag/questions), [soc-2018](/tag/soc-2018), [outreachy-2018](/tag/outreachy-2018), [soc-2019](/tag/soc-2019), [outreachy-2019](/tag/outreachy-2019), [pin:gsoc](/tag/pin:gsoc), [pin:soc](/tag/pin:soc), [pin:outreachy](/tag/pin:outreachy)
 
 ----
 
@@ -126,11 +126,11 @@ You are always welcome to reach out and ask any questions
 
 # Questions
 
-[soc](../../tag/question:soc)
+[soc](/tag/question:soc)
 
 ## Activities
 
-[soc](../../tag/activity:soc)
+[soc](/tag/activity:soc)
 
 ****
 
@@ -186,4 +186,4 @@ But we also seek to change coding culture by recognizing how important communica
 
 ### Updates
 
-[soc](../../tag/soc)
+[soc](/tag/soc)

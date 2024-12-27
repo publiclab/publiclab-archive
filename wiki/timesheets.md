@@ -6,12 +6,12 @@ author: Shannon
 path: /wiki/timesheets.md
 nid: 407
 uid: 9
-
+cids: 
 ---
 
 # Staff time keeping 2011-2012
 
-by [warren](../profile/warren), [adam-griffith](../profile/adam-griffith), [Shannon](../profile/Shannon)
+by [warren](/profile/warren), [adam-griffith](/profile/adam-griffith), [Shannon](/profile/Shannon)
 
 July 22, 2011 16:20 | Tags: 
 

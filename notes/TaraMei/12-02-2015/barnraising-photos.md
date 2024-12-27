@@ -6,18 +6,16 @@ author: taramei
 path: /notes/TaraMei/12-02-2015/barnraising-photos.md
 nid: 12469
 uid: 455825
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/133/original/IMG_5389.JPG)
 
 # Barnraising Photos
 
-by [taramei](../../../profile/taramei) | December 02, 2015 03:16
+by [taramei](/profile/taramei) | December 02, 2015 03:16
 
-December 02, 2015 03:16 | Tags: [gulf-coast](../tag/gulf-coast), [lumcon](../tag/lumcon), [barnraising-2015](../tag/barnraising-2015), [barnrasing](../tag/barnrasing), [first-time-poster](../tag/first-time-poster)
+December 02, 2015 03:16 | Tags: [gulf-coast](/tag/gulf-coast), [lumcon](/tag/lumcon), [barnraising-2015](/tag/barnraising-2015), [barnrasing](/tag/barnrasing), [first-time-poster](/tag/first-time-poster)
 
 ----
 

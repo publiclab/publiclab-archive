@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/10-17-2017/winds-aloft-sensor-overload.md
 nid: 15057
 uid: 554
-
 cids: 17542,17543,17548,17549,17550,18670,18671
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/955/original/BreadKest_20171013-1397.JPG)
 
 # Winds aloft: sensor overload
 
-by [cfastie](../../../profile/cfastie) | October 17, 2017 03:01
+by [cfastie](/profile/cfastie) | October 17, 2017 03:01
 
-October 17, 2017 03:01 | Tags: [arduino](../tag/arduino), [nasa](../tag/nasa), [kite](../tag/kite), [gps](../tag/gps), [anemometer](../tag/anemometer), [wind-speed-meter](../tag/wind-speed-meter), [atmosphere](../tag/atmosphere), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [data-logging](../tag/data-logging), [skypod](../tag/skypod), [ublox](../tag/ublox), [wind-sensor](../tag/wind-sensor), [rokkaku](../tag/rokkaku), [series:diy-wind-sensors](../tag/series:diy-wind-sensors), [skypod-gps-logger](../tag/skypod-gps-logger), [wind-speed](../tag/wind-speed), [aeropod](../tag/aeropod), [activity:as220-wind-sensors](../tag/activity:as220-wind-sensors), [activity:aren](../tag/activity:aren)
+October 17, 2017 03:01 | Tags: [arduino](/tag/arduino), [nasa](/tag/nasa), [kite](/tag/kite), [gps](/tag/gps), [anemometer](/tag/anemometer), [wind-speed-meter](/tag/wind-speed-meter), [atmosphere](/tag/atmosphere), [saturnv](/tag/saturnv), [skyshield](/tag/skyshield), [data-logging](/tag/data-logging), [skypod](/tag/skypod), [ublox](/tag/ublox), [wind-sensor](/tag/wind-sensor), [rokkaku](/tag/rokkaku), [series:diy-wind-sensors](/tag/series:diy-wind-sensors), [skypod-gps-logger](/tag/skypod-gps-logger), [wind-speed](/tag/wind-speed), [aeropod](/tag/aeropod), [activity:as220-wind-sensors](/tag/activity:as220-wind-sensors), [activity:aren](/tag/activity:aren)
 
 ----
 

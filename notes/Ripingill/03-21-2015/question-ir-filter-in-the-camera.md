@@ -6,16 +6,14 @@ author: Ripingill
 path: /notes/Ripingill/03-21-2015/question-ir-filter-in-the-camera.md
 nid: 11710
 uid: 437099
-
 cids: 11389,11415,12114,12126,12130,12182
-
 ---
 
 # Question: IR filter in the camera
 
-by [Ripingill](../../../profile/Ripingill) | March 21, 2015 20:12
+by [Ripingill](/profile/Ripingill) | March 21, 2015 20:12
 
-March 21, 2015 20:12 | Tags: [question:spectrometry](../tag/question:spectrometry), [answered](../tag/answered)
+March 21, 2015 20:12 | Tags: [question:spectrometry](/tag/question:spectrometry), [answered](/tag/answered)
 
 ----
 

@@ -6,18 +6,16 @@ author: jiteovien
 path: /notes/jiteovien/07-18-2018/calibrating-low-cost-air-quality-sensor-1-2.md
 nid: 16745
 uid: 540008
-
 cids: 20161,20165,20171,20244
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/744/original/aq.jpg)
 
 # Calibrating low cost air quality sensor (1/2)
 
-by [jiteovien](../../../profile/jiteovien) | July 18, 2018 18:57
+by [jiteovien](/profile/jiteovien) | July 18, 2018 18:57
 
-July 18, 2018 18:57 | Tags: [arduino](../tag/arduino), [calibration](../tag/calibration), [air-quality](../tag/air-quality), [pollution](../tag/pollution), [dustduino](../tag/dustduino), [dust](../tag/dust), [autodesk](../tag/autodesk), [location:blurred](../tag/location:blurred), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [lat:-32](../tag/lat:-32), [lon:-68](../tag/lon:-68), [purple-air](../tag/purple-air), [zoom:6](../tag/zoom:6), [place:argentina](../tag/place:argentina)
+July 18, 2018 18:57 | Tags: [arduino](/tag/arduino), [calibration](/tag/calibration), [air-quality](/tag/air-quality), [pollution](/tag/pollution), [dustduino](/tag/dustduino), [dust](/tag/dust), [autodesk](/tag/autodesk), [location:blurred](/tag/location:blurred), [air-sensors](/tag/air-sensors), [purpleair](/tag/purpleair), [lat:-32](/tag/lat:-32), [lon:-68](/tag/lon:-68), [purple-air](/tag/purple-air), [zoom:6](/tag/zoom:6), [place:argentina](/tag/place:argentina)
 
 ----
 

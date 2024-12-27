@@ -6,18 +6,16 @@ author: dhaffnersr
 path: /notes/dhaffnersr/08-05-2016/chemical-analysis-for-kirkland-organic-extra-virgin-olive-oil.md
 nid: 13335
 uid: 461120
-
 cids: 15087,15090,30343
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/379/original/both_EVOO_samples.png)
 
 # Chemical Analysis For Kirkland (organic) Extra Virgin Olive Oil
 
-by [dhaffnersr](../../../profile/dhaffnersr) | August 05, 2016 16:13
+by [dhaffnersr](/profile/dhaffnersr) | August 05, 2016 16:13
 
-August 05, 2016 16:13 | Tags: [barnstar:basic](../tag/barnstar:basic)
+August 05, 2016 16:13 | Tags: [barnstar:basic](/tag/barnstar:basic)
 
 ----
 

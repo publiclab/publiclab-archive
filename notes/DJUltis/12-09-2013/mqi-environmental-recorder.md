@@ -6,18 +6,16 @@ author: DJUltis
 path: /notes/DJUltis/12-09-2013/mqi-environmental-recorder.md
 nid: 9861
 uid: 46348
-
 cids: 7846,7847,7872,7893,7894,7895,7896,7897,7906,8028,8029,8030
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/367/original/2013-08-06_22.38.49.jpg)
 
 # MQI Environmental Recorder
 
-by [DJUltis](../../../profile/DJUltis) | December 09, 2013 06:02
+by [DJUltis](/profile/DJUltis) | December 09, 2013 06:02
 
-December 09, 2013 06:02 | Tags: [indoor-air-quality-mapping](../tag/indoor-air-quality-mapping), [thermal-flashlight](../tag/thermal-flashlight), [methane](../tag/methane), [natural-gas](../tag/natural-gas), [co](../tag/co), [lpg](../tag/lpg)
+December 09, 2013 06:02 | Tags: [indoor-air-quality-mapping](/tag/indoor-air-quality-mapping), [thermal-flashlight](/tag/thermal-flashlight), [methane](/tag/methane), [natural-gas](/tag/natural-gas), [co](/tag/co), [lpg](/tag/lpg)
 
 ----
 

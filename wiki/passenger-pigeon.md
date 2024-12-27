@@ -6,16 +6,16 @@ author: warren
 path: /wiki/passenger-pigeon.md
 nid: 2156
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/185/original/5569549722_b0bf198e91_o.jpg)
 
 # Aerial photos with Passenger Pigeon
 
-by [pablo](../profile/pablo), [warren](../profile/warren)
+by [pablo](/profile/pablo), [warren](/profile/warren)
 
-May 21, 2012 17:28 | Tags: [aerial-photos](../tag/aerial-photos), [passenger-pigeon](../tag/passenger-pigeon), [airplane](../tag/airplane), [method](../tag/method), [oil-and-gas](../tag/oil-and-gas)
+May 21, 2012 17:28 | Tags: [aerial-photos](/tag/aerial-photos), [passenger-pigeon](/tag/passenger-pigeon), [airplane](/tag/airplane), [method](/tag/method), [oil-and-gas](/tag/oil-and-gas)
 
 ----
 
@@ -40,11 +40,11 @@ Above, NRG composite from out the window of airplane over Amsterdam, by @warren_
 
 ## Questions
 
-[passenger-pigeon](../../tag/question:passenger-pigeon)
+[passenger-pigeon](/tag/question:passenger-pigeon)
 
 ## Activities
 
-[passenger-pigeon](../../tag/activity:passenger-pigeon)
+[passenger-pigeon](/tag/activity:passenger-pigeon)
 
 ### Maps
 
@@ -62,4 +62,4 @@ Some Public Lab folks have done multispectral imaging from a plane window -- see
 
 ## Updates
 
-[passenger-pigeon](../../tag/passenger-pigeon)
+[passenger-pigeon](/tag/passenger-pigeon)

@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/4-7-2013/tac-workshop.md
 nid: 6707
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Sparrow-201334737.jpg)
 
 # TAC Workshop
 
-by [cfastie](../../../profile/cfastie) | April 07, 2013 21:58
+by [cfastie](/profile/cfastie) | April 07, 2013 21:58
 
-April 07, 2013 21:58 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kite-aerial-photography](../tag/kite-aerial-photography), [kap](../tag/kap), [tac](../tag/tac), [cfastie](../tag/cfastie)
+April 07, 2013 21:58 | Tags: [kite-mapping](/tag/kite-mapping), [vermont](/tag/vermont), [kite-aerial-photography](/tag/kite-aerial-photography), [kap](/tag/kap), [tac](/tag/tac), [cfastie](/tag/cfastie)
 
 ----
 

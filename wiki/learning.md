@@ -6,14 +6,14 @@ author: liz
 path: /wiki/learning.md
 nid: 12351
 uid: 7
-
+cids: 
 ---
 
 # learning
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-November 01, 2015 18:17 | Tags: [community](../tag/community), [education](../tag/education), [list:plots-education](../tag/list:plots-education), [parent:education](../tag/parent:education)
+November 01, 2015 18:17 | Tags: [community](/tag/community), [education](/tag/education), [list:plots-education](/tag/list:plots-education), [parent:education](/tag/parent:education)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/05-14-2013/laser-oil-fluorescence-proof-of-concept.md
 nid: 7551
 uid: 1
-
 cids: 5861,6346,6440
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/271/original/IMG_20130514_142239.jpg)
 
 # Laser oil fluorescence proof of concept
 
-by [warren](../../../profile/warren) | May 14, 2013 20:03
+by [warren](/profile/warren) | May 14, 2013 20:03
 
-May 14, 2013 20:03 | Tags: [spectrometer](../tag/spectrometer), [partsandcrafts](../tag/partsandcrafts), [oil](../tag/oil), [laser](../tag/laser), [fluorescence](../tag/fluorescence), [parts-and-crafts](../tag/parts-and-crafts)
+May 14, 2013 20:03 | Tags: [spectrometer](/tag/spectrometer), [partsandcrafts](/tag/partsandcrafts), [oil](/tag/oil), [laser](/tag/laser), [fluorescence](/tag/fluorescence), [parts-and-crafts](/tag/parts-and-crafts)
 
 ----
 

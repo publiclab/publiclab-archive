@@ -6,18 +6,16 @@ author: ananyo2012
 path: /notes/ananyo2012/07-25-2016/progress-of-the-expanded-q-a-project.md
 nid: 13309
 uid: 468506
-
 cids: 15035,15036,15038,15039,15040,15041,15044,15045,15057,15058,15133,15134,15137,15140,15141,15150,15151
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/213/original/question_index_production.png)
 
 # Progress of the Expanded Q & A Project
 
-by [ananyo2012](../../../profile/ananyo2012) | July 25, 2016 20:19
+by [ananyo2012](/profile/ananyo2012) | July 25, 2016 20:19
 
-July 25, 2016 20:19 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [web](../tag/web), [developers](../tag/developers), [barnstar:basic](../tag/barnstar:basic), [gsoc-2016](../tag/gsoc-2016), [q-and-a](../tag/q-and-a)
+July 25, 2016 20:19 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [web](/tag/web), [developers](/tag/developers), [barnstar:basic](/tag/barnstar:basic), [gsoc-2016](/tag/gsoc-2016), [q-and-a](/tag/q-and-a)
 
 ----
 

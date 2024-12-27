@@ -6,14 +6,14 @@ author: bansal_sidharth2996
 path: /wiki/oauth.md
 nid: 16397
 uid: 503599
-
+cids: 
 ---
 
 # oauth
 
-by [bansal_sidharth2996](../profile/bansal_sidharth2996)
+by [bansal_sidharth2996](/profile/bansal_sidharth2996)
 
-May 27, 2018 08:30 | Tags: [social-media](../tag/social-media), [parent:power-tags](../tag/parent:power-tags), [oauth](../tag/oauth), [gsoc:2018](../tag/gsoc:2018)
+May 27, 2018 08:30 | Tags: [social-media](/tag/social-media), [parent:power-tags](/tag/parent:power-tags), [oauth](/tag/oauth), [gsoc:2018](/tag/gsoc:2018)
 
 ----
 

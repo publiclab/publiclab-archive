@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/09-07-2017/what-could-teenagers-do-to-support-harvey-response-efforts.md
 nid: 14844
 uid: 1
-
 cids: 17410,22585,22620
-
 ---
 
 # What could teenagers do to support Harvey response efforts?
 
-by [warren](../../../profile/warren) | September 07, 2017 20:48
+by [warren](/profile/warren) | September 07, 2017 20:48
 
-September 07, 2017 20:48 | Tags: [answered](../tag/answered), [harvey](../tag/harvey), [question:harvey](../tag/question:harvey), [teenagers](../tag/teenagers)
+September 07, 2017 20:48 | Tags: [answered](/tag/answered), [harvey](/tag/harvey), [question:harvey](/tag/question:harvey), [teenagers](/tag/teenagers)
 
 ----
 

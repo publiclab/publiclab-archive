@@ -6,14 +6,14 @@ author: arlisjohnson
 path: /wiki/httppubliclaboratoryorgwikiwtyl.md
 nid: 1765
 uid: 969
-
+cids: 
 ---
 
 # http://publiclaboratory.org/wiki/WTYL
 
-by [arlisjohnson](../profile/arlisjohnson)
+by [arlisjohnson](/profile/arlisjohnson)
 
-April 24, 2012 18:50 | Tags: [sinkhole](../tag/sinkhole), [karst](../tag/karst)
+April 24, 2012 18:50 | Tags: [sinkhole](/tag/sinkhole), [karst](/tag/karst)
 
 ----
 

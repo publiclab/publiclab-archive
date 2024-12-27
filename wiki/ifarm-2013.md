@@ -6,14 +6,14 @@ author: warren
 path: /wiki/ifarm-2013.md
 nid: 7711
 uid: 1
-
+cids: 
 ---
 
 # ifarm-2013
 
-by [cfastie](../profile/cfastie), [warren](../profile/warren), [cversek](../profile/cversek), [donblair](../profile/donblair), [wward1400](../profile/wward1400)
+by [cfastie](/profile/cfastie), [warren](/profile/warren), [cversek](/profile/cversek), [donblair](/profile/donblair), [wward1400](/profile/wward1400)
 
-May 20, 2013 00:34 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [boston](../tag/boston), [lee](../tag/lee), [new-hampshire](../tag/new-hampshire), [infragram](../tag/infragram), [ifarm](../tag/ifarm)
+May 20, 2013 00:34 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [boston](/tag/boston), [lee](/tag/lee), [new-hampshire](/tag/new-hampshire), [infragram](/tag/infragram), [ifarm](/tag/ifarm)
 
 ----
 

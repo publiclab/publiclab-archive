@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/10-12-2015/nighthawk-panoramas.md
 nid: 12291
 uid: 554
-
 cids: 12708,12714,12716,12717
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/919/original/Planet2LFst2k.jpg)
 
 # Nighthawk panoramas
 
-by [cfastie](../../../profile/cfastie) | October 12, 2015 14:01
+by [cfastie](/profile/cfastie) | October 12, 2015 14:01
 
-October 12, 2015 14:01 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kite](../tag/kite), [leaffest](../tag/leaffest), [grassrootsmappingforum](../tag/grassrootsmappingforum), [style:fancy](../tag/style:fancy), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [leaffest2015](../tag/leaffest2015), [pfk](../tag/pfk), [response:12290](../tag/response:12290), [littleplanet](../tag/littleplanet), [gmf-9](../tag/gmf-9)
+October 12, 2015 14:01 | Tags: [kite-mapping](/tag/kite-mapping), [vermont](/tag/vermont), [kite](/tag/kite), [leaffest](/tag/leaffest), [grassrootsmappingforum](/tag/grassrootsmappingforum), [style:fancy](/tag/style:fancy), [saturnv](/tag/saturnv), [skyshield](/tag/skyshield), [half-spherical](/tag/half-spherical), [leaffest2015](/tag/leaffest2015), [pfk](/tag/pfk), [response:12290](/tag/response:12290), [littleplanet](/tag/littleplanet), [gmf-9](/tag/gmf-9)
 
 ----
 

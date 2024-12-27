@@ -6,16 +6,14 @@ author: justin_bauer
 path: /notes/justin_bauer/06-02-2020/does-anyone-know-the-upper-spectrum-range-of-the-pi-noir-camera-v2.md
 nid: 23765
 uid: 698760
-
 cids: 26927
-
 ---
 
 # Does anyone know the upper spectrum range of the Pi NoIR Camera V2?
 
-by [justin_bauer](../../../profile/justin_bauer) | June 02, 2020 22:34
+by [justin_bauer](/profile/justin_bauer) | June 02, 2020 22:34
 
-June 02, 2020 22:34 | Tags: [ndvi](../tag/ndvi), [nir](../tag/nir), [infrared](../tag/infrared), [agriculture](../tag/agriculture), [water](../tag/water), [canada](../tag/canada), [question:ndvi](../tag/question:ndvi), [question:infrared](../tag/question:infrared), [question:general](../tag/question:general), [general](../tag/general), [noir](../tag/noir), [first-time-poster](../tag/first-time-poster), [caj](../tag/caj), [pwi](../tag/pwi), [dwsi](../tag/dwsi)
+June 02, 2020 22:34 | Tags: [ndvi](/tag/ndvi), [nir](/tag/nir), [infrared](/tag/infrared), [agriculture](/tag/agriculture), [water](/tag/water), [canada](/tag/canada), [question:ndvi](/tag/question:ndvi), [question:infrared](/tag/question:infrared), [question:general](/tag/question:general), [general](/tag/general), [noir](/tag/noir), [first-time-poster](/tag/first-time-poster), [caj](/tag/caj), [pwi](/tag/pwi), [dwsi](/tag/dwsi)
 
 ----
 

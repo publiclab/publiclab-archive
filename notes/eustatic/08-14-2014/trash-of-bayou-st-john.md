@@ -6,18 +6,16 @@ author: eustatic
 path: /08-14-2014/trash-of-bayou-st-john.md
 nid: 11050
 uid: 379
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/267/original/a_IMG_8304_goldfish_trash.JPG)
 
 # Trash of Bayou St John 
 
-by [eustatic](../../../profile/eustatic) | August 14, 2014 18:40
+by [eustatic](/profile/eustatic) | August 14, 2014 18:40
 
-August 14, 2014 18:40 | Tags: [kite-mapping](../tag/kite-mapping), [restoration](../tag/restoration), [trash](../tag/trash), [bsj](../tag/bsj), [dredgefest](../tag/dredgefest)
+August 14, 2014 18:40 | Tags: [kite-mapping](/tag/kite-mapping), [restoration](/tag/restoration), [trash](/tag/trash), [bsj](/tag/bsj), [dredgefest](/tag/dredgefest)
 
 ----
 

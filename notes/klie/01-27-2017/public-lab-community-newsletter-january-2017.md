@@ -6,18 +6,16 @@ author: klie
 path: /notes/klie/01-27-2017/public-lab-community-newsletter-january-2017.md
 nid: 13883
 uid: 441262
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/385/original/PUBLIC_LAB_NEWS.png)
 
 # Public Lab Community Newsletter: January 2017
 
-by [klie](../../../profile/klie) | January 27, 2017 17:18
+by [klie](/profile/klie) | January 27, 2017 17:18
 
-January 27, 2017 17:18 | Tags: [newsletter](../tag/newsletter), [epa](../tag/epa), [board](../tag/board), [formaldehyde](../tag/formaldehyde), [nsf](../tag/nsf), [edgi](../tag/edgi), [moore-foundation](../tag/moore-foundation)
+January 27, 2017 17:18 | Tags: [newsletter](/tag/newsletter), [epa](/tag/epa), [board](/tag/board), [formaldehyde](/tag/formaldehyde), [nsf](/tag/nsf), [edgi](/tag/edgi), [moore-foundation](/tag/moore-foundation)
 
 ----
 

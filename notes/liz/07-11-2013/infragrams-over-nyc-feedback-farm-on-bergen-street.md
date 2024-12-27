@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/07-11-2013/infragrams-over-nyc-feedback-farm-on-bergen-street.md
 nid: 8824
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/747/original/BK-FeedbackFarm-Bergen.jpg)
 
 # Infragrams over NYC: Feedback Farm on Bergen Street
 
-by [liz](../../../profile/liz) | July 11, 2013 04:30
+by [liz](/profile/liz) | July 11, 2013 04:30
 
-July 11, 2013 04:30 | Tags: [new-york-city](../tag/new-york-city), [near-infrared-camera](../tag/near-infrared-camera), [polemapping](../tag/polemapping), [5bf](../tag/5bf), [five-borough-farm](../tag/five-borough-farm), [infragram](../tag/infragram), [pole-photography](../tag/pole-photography), [pole](../tag/pole), [pole-mapping](../tag/pole-mapping)
+July 11, 2013 04:30 | Tags: [new-york-city](/tag/new-york-city), [near-infrared-camera](/tag/near-infrared-camera), [polemapping](/tag/polemapping), [5bf](/tag/5bf), [five-borough-farm](/tag/five-borough-farm), [infragram](/tag/infragram), [pole-photography](/tag/pole-photography), [pole](/tag/pole), [pole-mapping](/tag/pole-mapping)
 
 ----
 

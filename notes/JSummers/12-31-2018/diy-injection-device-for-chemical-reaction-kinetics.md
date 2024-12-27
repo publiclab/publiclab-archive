@@ -6,18 +6,16 @@ author: JSummers
 path: /notes/JSummers/12-31-2018/diy-injection-device-for-chemical-reaction-kinetics.md
 nid: 18031
 uid: 304279
-
 cids: 21605,21614,21616,21618
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/563/original/Injector4_25.jpg)
 
 # DIY injection device for chemical reaction kinetics.
 
-by [JSummers](../../../profile/JSummers) | December 31, 2018 21:28
+by [JSummers](/profile/JSummers) | December 31, 2018 21:28
 
-December 31, 2018 21:28 | Tags: [hardware](../tag/hardware), [enzyme-kinetics](../tag/enzyme-kinetics), [chemical-kinetics](../tag/chemical-kinetics), [reaction-mechanisms](../tag/reaction-mechanisms), [lab-instruments](../tag/lab-instruments)
+December 31, 2018 21:28 | Tags: [hardware](/tag/hardware), [enzyme-kinetics](/tag/enzyme-kinetics), [chemical-kinetics](/tag/chemical-kinetics), [reaction-mechanisms](/tag/reaction-mechanisms), [lab-instruments](/tag/lab-instruments)
 
 ----
 

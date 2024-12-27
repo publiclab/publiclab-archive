@@ -6,16 +6,14 @@ author: gretchengehrke
 path: /notes/gretchengehrke/01-29-2018/what-are-good-humidity-sensor-monitors-to-use-with-gas-sampling-kits-that-sample-over-days.md
 nid: 15636
 uid: 430549
-
 cids: 22897,22899
-
 ---
 
 # What are good humidity sensor/monitors to use with gas sampling kits?
 
-by [gretchengehrke](../../../profile/gretchengehrke) | January 29, 2018 20:37
+by [gretchengehrke](/profile/gretchengehrke) | January 29, 2018 20:37
 
-January 29, 2018 20:37 | Tags: [question:air-quality](../tag/question:air-quality), [answered](../tag/answered), [question:general](../tag/question:general), [question:h2s](../tag/question:h2s), [question:sensors](../tag/question:sensors), [question:humidity](../tag/question:humidity)
+January 29, 2018 20:37 | Tags: [question:air-quality](/tag/question:air-quality), [answered](/tag/answered), [question:general](/tag/question:general), [question:h2s](/tag/question:h2s), [question:sensors](/tag/question:sensors), [question:humidity](/tag/question:humidity)
 
 ----
 

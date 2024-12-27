@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/09-04-2016/build-instructions-for-the-dh-4-0-v4-spectrometer.md
 nid: 13416
 uid: 461120
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/908/original/DVD_INSTRUCTION.png)
 
 # Build Instructions For The DH 4.0 v4 Spectrometer
 
-by [dhaffnersr](../../../profile/dhaffnersr) | September 04, 2016 21:17
+by [dhaffnersr](/profile/dhaffnersr) | September 04, 2016 21:17
 
 September 04, 2016 21:17 | Tags: 
 

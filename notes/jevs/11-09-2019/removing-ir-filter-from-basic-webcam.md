@@ -6,16 +6,14 @@ author: jevs
 path: /notes/jevs/11-09-2019/removing-ir-filter-from-basic-webcam.md
 nid: 21429
 uid: 635927
-
 cids: 25834,25835,25836,25837,25838,25839,25840,25842,25843,25845,25850,25851,25852,25853,25855
-
 ---
 
 # Removing IR filter from basic webcam?
 
-by [jevs](../../../profile/jevs) | November 09, 2019 01:09
+by [jevs](/profile/jevs) | November 09, 2019 01:09
 
-November 09, 2019 01:09 | Tags: [question:lego-spectrometer](../tag/question:lego-spectrometer), [lego-spectrometer](../tag/lego-spectrometer), [first-time-poster](../tag/first-time-poster)
+November 09, 2019 01:09 | Tags: [question:lego-spectrometer](/tag/question:lego-spectrometer), [lego-spectrometer](/tag/lego-spectrometer), [first-time-poster](/tag/first-time-poster)
 
 ----
 

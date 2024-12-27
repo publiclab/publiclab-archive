@@ -6,18 +6,16 @@ author: dmunchak
 path: /notes/dmunchak/09-02-2017/catch-basins-101.md
 nid: 14822
 uid: 513675
-
 cids: 17305,17316,17317,17318,17321,17322,17326,17330,26295,26299
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/553/original/IMG_3687.JPG)
 
 # Catch Basins 101: How to clean a catch basin with one person in 68 minutes.
 
-by [dmunchak](../../../profile/dmunchak) | September 02, 2017 21:32
+by [dmunchak](/profile/dmunchak) | September 02, 2017 21:32
 
-September 02, 2017 21:32 | Tags: [gulf-coast](../tag/gulf-coast), [new-orleans](../tag/new-orleans), [stormwater](../tag/stormwater), [activity:stormwater](../tag/activity:stormwater), [storm](../tag/storm), [catch](../tag/catch), [basins](../tag/basins), [drains](../tag/drains), [catch-basin](../tag/catch-basin)
+September 02, 2017 21:32 | Tags: [gulf-coast](/tag/gulf-coast), [new-orleans](/tag/new-orleans), [stormwater](/tag/stormwater), [activity:stormwater](/tag/activity:stormwater), [storm](/tag/storm), [catch](/tag/catch), [basins](/tag/basins), [drains](/tag/drains), [catch-basin](/tag/catch-basin)
 
 ----
 

@@ -6,18 +6,16 @@ author: wagnerc4
 path: /notes/wagnerc4/02-05-2014/fat-percent-in-milk.md
 nid: 10012
 uid: 420634
-
 cids: 8170,8171,8172,8173,8174,8176,8177,8178,13221,15047
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/782/original/DSC00567.JPG)
 
 # Fat percent in milk
 
-by [wagnerc4](../../../profile/wagnerc4) | February 05, 2014 19:37
+by [wagnerc4](/profile/wagnerc4) | February 05, 2014 19:37
 
-February 05, 2014 19:37 | Tags: [spectrometer](../tag/spectrometer), [milk](../tag/milk), [milk-fat](../tag/milk-fat), [activity:spectrometry](../tag/activity:spectrometry)
+February 05, 2014 19:37 | Tags: [spectrometer](/tag/spectrometer), [milk](/tag/milk), [milk-fat](/tag/milk-fat), [activity:spectrometry](/tag/activity:spectrometry)
 
 ----
 

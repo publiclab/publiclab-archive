@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/06-24-2019/what-do-i-do-with-microplastics-after-being-collected.md
 nid: 19838
 uid: 1
-
 cids: 24872,24879,24928,24947,24986,25755
-
 ---
 
 # What do I do with microplastics after being collected?
 
-by [warren](../../../profile/warren) | June 24, 2019 15:26
+by [warren](/profile/warren) | June 24, 2019 15:26
 
-June 24, 2019 15:26 | Tags: [disposal](../tag/disposal), [question:microplastics](../tag/question:microplastics), [microplastics](../tag/microplastics), [question:babylegs](../tag/question:babylegs), [babylegs](../tag/babylegs), [plastic](../tag/plastic)
+June 24, 2019 15:26 | Tags: [disposal](/tag/disposal), [question:microplastics](/tag/question:microplastics), [microplastics](/tag/microplastics), [question:babylegs](/tag/question:babylegs), [babylegs](/tag/babylegs), [plastic](/tag/plastic)
 
 ----
 

@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/6-2-2012/kite-machine.md
 nid: 2309
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20120602_155121.jpg)
 
 # Kite Machine
 
-by [liz](../../../profile/liz) | June 02, 2012 20:09
+by [liz](/profile/liz) | June 02, 2012 20:09
 
-June 02, 2012 20:09 | Tags: [new-york-city](../tag/new-york-city), [kites](../tag/kites), [vending-machine](../tag/vending-machine)
+June 02, 2012 20:09 | Tags: [new-york-city](/tag/new-york-city), [kites](/tag/kites), [vending-machine](/tag/vending-machine)
 
 ----
 

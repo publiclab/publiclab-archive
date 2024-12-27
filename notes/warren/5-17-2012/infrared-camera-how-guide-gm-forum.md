@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/5-17-2012/infrared-camera-how-guide-gm-forum.md
 nid: 2105
 uid: 1
-
 cids: 900,901,907,959
-
 ---
 
 ![](https://publiclab.org/sites/default/files/7173631724_f9aabd7855_k_0.jpg)
 
 # Infrared camera how-to guide for GM Forum
 
-by [warren](../../../profile/warren) | May 17, 2012 23:42
+by [warren](/profile/warren) | May 17, 2012 23:42
 
-May 17, 2012 23:42 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [great-photos](../tag/great-photos)
+May 17, 2012 23:42 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [great-photos](/tag/great-photos)
 
 ----
 

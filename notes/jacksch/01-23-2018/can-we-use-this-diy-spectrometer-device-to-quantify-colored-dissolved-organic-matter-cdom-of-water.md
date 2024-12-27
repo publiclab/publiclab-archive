@@ -6,16 +6,14 @@ author: jacksch
 path: /notes/jacksch/01-23-2018/can-we-use-this-diy-spectrometer-device-to-quantify-colored-dissolved-organic-matter-cdom-of-water.md
 nid: 15588
 uid: 523331
-
 cids: 18321,18322,22875
-
 ---
 
 # Can we use this DIY spectrometer device to quantify colored dissolved organic matter (CDOM) of water?
 
-by [jacksch](../../../profile/jacksch) | January 23, 2018 02:16
+by [jacksch](/profile/jacksch) | January 23, 2018 02:16
 
-January 23, 2018 02:16 | Tags: [remote-sensing](../tag/remote-sensing), [water-quality](../tag/water-quality), [question:spectrometer](../tag/question:spectrometer), [answered](../tag/answered), [cdom](../tag/cdom)
+January 23, 2018 02:16 | Tags: [remote-sensing](/tag/remote-sensing), [water-quality](/tag/water-quality), [question:spectrometer](/tag/question:spectrometer), [answered](/tag/answered), [cdom](/tag/cdom)
 
 ----
 

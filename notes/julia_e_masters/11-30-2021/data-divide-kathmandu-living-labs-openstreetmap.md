@@ -6,18 +6,16 @@ author: julia_e_masters
 path: /notes/julia_e_masters/11-30-2021/data-divide-kathmandu-living-labs-openstreetmap.md
 nid: 28314
 uid: 756220
-
 cids: 29539,30953,30954
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/113/original/kll.JPG)
 
 # Data Divide: Kathmandu Living Labs & OpenStreetMap
 
-by [julia_e_masters](../../../profile/julia_e_masters) | November 30, 2021 00:39
+by [julia_e_masters](/profile/julia_e_masters) | November 30, 2021 00:39
 
-November 30, 2021 00:39 | Tags: [mapping](../tag/mapping), [osm](../tag/osm), [climate-change](../tag/climate-change), [disaster-response](../tag/disaster-response), [open-data](../tag/open-data)
+November 30, 2021 00:39 | Tags: [mapping](/tag/mapping), [osm](/tag/osm), [climate-change](/tag/climate-change), [disaster-response](/tag/disaster-response), [open-data](/tag/open-data)
 
 ----
 

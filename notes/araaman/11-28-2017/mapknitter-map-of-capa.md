@@ -6,16 +6,14 @@ author: araaman
 path: /notes/araaman/11-28-2017/mapknitter-map-of-capa.md
 nid: 15251
 uid: 519477
-
 cids: 
-
 ---
 
 # MapKnitter map of  CAPA 
 
-by [araaman](../../../profile/araaman) | November 28, 2017 20:56
+by [araaman](/profile/araaman) | November 28, 2017 20:56
 
-November 28, 2017 20:56 | Tags: [mapknitter](../tag/mapknitter), [lat:42.9212476506](../tag/lat:42.9212476506), [lon:-73.2365611196](../tag/lon:-73.2365611196)
+November 28, 2017 20:56 | Tags: [mapknitter](/tag/mapknitter), [lat:42.9212476506](/tag/lat:42.9212476506), [lon:-73.2365611196](/tag/lon:-73.2365611196)
 
 ----
 

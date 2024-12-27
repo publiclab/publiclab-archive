@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/09-28-2015/ideas-on-opening-open-hardware.md
 nid: 12250
 uid: 7
-
 cids: 12589,12594,12603,12607,12639,12647,12671,12766
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/706/original/Screen_Shot_2015-09-28_at_6.56.05_PM.png)
 
 # Ideas on opening "open hardware"
 
-by [liz](../../../profile/liz) | September 28, 2015 23:33
+by [liz](/profile/liz) | September 28, 2015 23:33
 
-September 28, 2015 23:33 | Tags: [with:warren](../tag/with:warren), [with:donblair](../tag/with:donblair)
+September 28, 2015 23:33 | Tags: [with:warren](/tag/with:warren), [with:donblair](/tag/with:donblair)
 
 ----
 

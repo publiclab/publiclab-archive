@@ -6,18 +6,16 @@ author: mlamadrid
 path: /notes/mlamadrid/12-08-2015/photosynq.md
 nid: 12488
 uid: 45586
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/241/original/Screen_Shot_2015-10-28_at_12.44.48_AM.png)
 
 # PhotosynQ
 
-by [mlamadrid](../../../profile/mlamadrid) | December 08, 2015 20:34
+by [mlamadrid](/profile/mlamadrid) | December 08, 2015 20:34
 
-December 08, 2015 20:34 | Tags: [photosynq](../tag/photosynq), [grassrootsmappingforum](../tag/grassrootsmappingforum), [style:fancy](../tag/style:fancy), [coathor](../tag/coathor), [gregaustic](../tag/gregaustic), [gmf-9](../tag/gmf-9)
+December 08, 2015 20:34 | Tags: [photosynq](/tag/photosynq), [grassrootsmappingforum](/tag/grassrootsmappingforum), [style:fancy](/tag/style:fancy), [coathor](/tag/coathor), [gregaustic](/tag/gregaustic), [gmf-9](/tag/gmf-9)
 
 ----
 

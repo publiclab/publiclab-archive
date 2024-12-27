@@ -6,16 +6,14 @@ author: pfhs
 path: /notes/pfhs/06-28-2018/sample-aerial-balloon-or-kite-images-from-mobius-action-camera.md
 nid: 16588
 uid: 442023
-
 cids: 19952,23159
-
 ---
 
 # Sample aerial (balloon or kite) images from Mobius Action Camera?
 
-by [pfhs](../../../profile/pfhs) | June 28, 2018 19:29
+by [pfhs](/profile/pfhs) | June 28, 2018 19:29
 
-June 28, 2018 19:29 | Tags: [mapknitter](../tag/mapknitter), [mobius](../tag/mobius), [question:mobius](../tag/question:mobius), [question:mobius-actioncam](../tag/question:mobius-actioncam)
+June 28, 2018 19:29 | Tags: [mapknitter](/tag/mapknitter), [mobius](/tag/mobius), [question:mobius](/tag/question:mobius), [question:mobius-actioncam](/tag/question:mobius-actioncam)
 
 ----
 

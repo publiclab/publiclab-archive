@@ -6,18 +6,16 @@ author: eustatic
 path: /05-28-2013/kite-photos-of-ongoing-coal-pollution-in-plaquemines-parish-la.md
 nid: 7945
 uid: 379
-
 cids: 17313
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/427/original/8742168630_279f662a1f_o.jpg)
 
 # Kite Photo of Ongoing Coal Pollution in Plaquemines Parish, LA
 
-by [eustatic](../../../profile/eustatic) | May 28, 2013 16:48
+by [eustatic](/profile/eustatic) | May 28, 2013 16:48
 
-May 28, 2013 16:48 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [watchdog](../tag/watchdog), [water-quality](../tag/water-quality), [blog](../tag/blog), [pollution](../tag/pollution), [oblique](../tag/oblique), [coal](../tag/coal), [petcoke](../tag/petcoke), [water](../tag/water), [legal](../tag/legal), [unitedbulk](../tag/unitedbulk), [petroleum-coke](../tag/petroleum-coke), [monitoring](../tag/monitoring), [coal-terminal](../tag/coal-terminal), [citizen](../tag/citizen), [ubt](../tag/ubt), [cwa](../tag/cwa), [litigation](../tag/litigation), [citizen-suit](../tag/citizen-suit), [federal-court](../tag/federal-court), [story:kite-mapping](../tag/story:kite-mapping), [story:aerial-mapping](../tag/story:aerial-mapping), [law-and-policy](../tag/law-and-policy)
+May 28, 2013 16:48 | Tags: [gulf-coast](/tag/gulf-coast), [kite-mapping](/tag/kite-mapping), [watchdog](/tag/watchdog), [water-quality](/tag/water-quality), [blog](/tag/blog), [pollution](/tag/pollution), [oblique](/tag/oblique), [coal](/tag/coal), [petcoke](/tag/petcoke), [water](/tag/water), [legal](/tag/legal), [unitedbulk](/tag/unitedbulk), [petroleum-coke](/tag/petroleum-coke), [monitoring](/tag/monitoring), [coal-terminal](/tag/coal-terminal), [citizen](/tag/citizen), [ubt](/tag/ubt), [cwa](/tag/cwa), [litigation](/tag/litigation), [citizen-suit](/tag/citizen-suit), [federal-court](/tag/federal-court), [story:kite-mapping](/tag/story:kite-mapping), [story:aerial-mapping](/tag/story:aerial-mapping), [law-and-policy](/tag/law-and-policy)
 
 ----
 

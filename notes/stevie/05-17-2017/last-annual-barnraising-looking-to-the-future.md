@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/05-17-2017/last-annual-barnraising-looking-to-the-future.md
 nid: 14206
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/486/original/Screen_Shot_2017-05-17_at_1.52.15_PM.png)
 
 # Last Annual Barnraising -- looking to the future
 
-by [stevie](../../../profile/stevie) | May 17, 2017 18:54
+by [stevie](/profile/stevie) | May 17, 2017 18:54
 
-May 17, 2017 18:54 | Tags: [events](../tag/events), [cocodrie](../tag/cocodrie), [barnraising](../tag/barnraising), [event](../tag/event), [blog](../tag/blog), [save](../tag/save), [annual-barnraising](../tag/annual-barnraising)
+May 17, 2017 18:54 | Tags: [events](/tag/events), [cocodrie](/tag/cocodrie), [barnraising](/tag/barnraising), [event](/tag/event), [blog](/tag/blog), [save](/tag/save), [annual-barnraising](/tag/annual-barnraising)
 
 ----
 

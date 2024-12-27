@@ -6,16 +6,14 @@ author: viechdokter
 path: /notes/viechdokter/04-14-2016/distance-vs-light-intensity-first-trial.md
 nid: 12976
 uid: 468990
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/539/original/light_source_distance.jpg)
 
 # Distance vs light intensity                first trial
 
-by [viechdokter](../../../profile/viechdokter) | April 14, 2016 10:49
+by [viechdokter](/profile/viechdokter) | April 14, 2016 10:49
 
 April 14, 2016 10:49 | Tags: 
 

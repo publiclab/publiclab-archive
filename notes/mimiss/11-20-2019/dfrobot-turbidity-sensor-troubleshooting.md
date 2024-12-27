@@ -6,18 +6,16 @@ author: mimiss
 path: /notes/mimiss/11-20-2019/dfrobot-turbidity-sensor-troubleshooting.md
 nid: 21539
 uid: 579821
-
 cids: 25895,25899,25905,25906,25923,25932,25952
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/642/original/Image_from_iOS.jpg)
 
 # DFRobot Turbidity Sensor Troubleshooting
 
-by [mimiss](../../../profile/mimiss) | November 20, 2019 15:35
+by [mimiss](/profile/mimiss) | November 20, 2019 15:35
 
-November 20, 2019 15:35 | Tags: [arduino](../tag/arduino), [water-sensing](../tag/water-sensing), [water-quality](../tag/water-quality), [water-monitoring](../tag/water-monitoring), [turbidity](../tag/turbidity), [question:water-quality](../tag/question:water-quality), [question:arduino](../tag/question:arduino), [question:water-sensors](../tag/question:water-sensors), [water-sensors](../tag/water-sensors), [question:turbidity](../tag/question:turbidity), [water-sensor](../tag/water-sensor)
+November 20, 2019 15:35 | Tags: [arduino](/tag/arduino), [water-sensing](/tag/water-sensing), [water-quality](/tag/water-quality), [water-monitoring](/tag/water-monitoring), [turbidity](/tag/turbidity), [question:water-quality](/tag/question:water-quality), [question:arduino](/tag/question:arduino), [question:water-sensors](/tag/question:water-sensors), [water-sensors](/tag/water-sensors), [question:turbidity](/tag/question:turbidity), [water-sensor](/tag/water-sensor)
 
 ----
 

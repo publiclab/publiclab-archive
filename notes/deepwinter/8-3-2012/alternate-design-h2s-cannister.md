@@ -6,18 +6,16 @@ author: deepwinter
 path: /notes/deepwinter/8-3-2012/alternate-design-h2s-cannister.md
 nid: 3127
 uid: 808
-
 cids: 1122,1123,17987
-
 ---
 
 ![](https://publiclab.org/sites/default/files/20120803_200549.jpg)
 
 # Alternate Design for H2S Cannister
 
-by [deepwinter](../../../profile/deepwinter) | August 04, 2012 03:29
+by [deepwinter](/profile/deepwinter) | August 04, 2012 03:29
 
-August 04, 2012 03:29 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper)
+August 04, 2012 03:29 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [h2s-photopaper](/tag/h2s-photopaper)
 
 ----
 

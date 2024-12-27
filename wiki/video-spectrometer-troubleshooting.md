@@ -6,14 +6,14 @@ author: warren
 path: /wiki/video-spectrometer-troubleshooting.md
 nid: 633
 uid: 1
-
+cids: 
 ---
 
 # Video spectrometer troubleshooting
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-December 13, 2011 21:51 | Tags: [spectrometer](../tag/spectrometer), [troubleshooting](../tag/troubleshooting)
+December 13, 2011 21:51 | Tags: [spectrometer](/tag/spectrometer), [troubleshooting](/tag/troubleshooting)
 
 ----
 

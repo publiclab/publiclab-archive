@@ -6,16 +6,14 @@ author: michaelwma
 path: /notes/michaelwma/12-14-2018/building-a-case-against-aluf-plastics-polluting-my-town-i-need-help.md
 nid: 17892
 uid: 563601
-
 cids: 21519,21520,21524,21531,23303,23304,25793,25811,25856
-
 ---
 
 # Building a case against Aluf Plastics -- polluting my town & I need help
 
-by [michaelwma](../../../profile/michaelwma) | December 14, 2018 02:46
+by [michaelwma](/profile/michaelwma) | December 14, 2018 02:46
 
-December 14, 2018 02:46 | Tags: [new-york](../tag/new-york), [pvc](../tag/pvc), [air-quality](../tag/air-quality), [northeast](../tag/northeast), [question:air-quality](../tag/question:air-quality), [odor](../tag/odor), [featured-request](../tag/featured-request), [issue-brief](../tag/issue-brief), [plastics](../tag/plastics), [odor-logging](../tag/odor-logging), [first-time-poster](../tag/first-time-poster), [lat:41.054659](../tag/lat:41.054659), [lon:-73.950084](../tag/lon:-73.950084), [orangetown](../tag/orangetown), [clean-air-for-orangetown](../tag/clean-air-for-orangetown), [orangetown-aluf](../tag/orangetown-aluf), [question:orangetown-aluf](../tag/question:orangetown-aluf)
+December 14, 2018 02:46 | Tags: [new-york](/tag/new-york), [pvc](/tag/pvc), [air-quality](/tag/air-quality), [northeast](/tag/northeast), [question:air-quality](/tag/question:air-quality), [odor](/tag/odor), [featured-request](/tag/featured-request), [issue-brief](/tag/issue-brief), [plastics](/tag/plastics), [odor-logging](/tag/odor-logging), [first-time-poster](/tag/first-time-poster), [lat:41.054659](/tag/lat:41.054659), [lon:-73.950084](/tag/lon:-73.950084), [orangetown](/tag/orangetown), [clean-air-for-orangetown](/tag/clean-air-for-orangetown), [orangetown-aluf](/tag/orangetown-aluf), [question:orangetown-aluf](/tag/question:orangetown-aluf)
 
 ----
 

@@ -6,18 +6,16 @@ author: rosieliu
 path: /notes/rosieliu/05-22-2018/living-near-to-a-major-road-increases-children-s-risk-of-asthma.md
 nid: 16373
 uid: 535191
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/004/original/children's_risk_of_asthma.png)
 
 # Living near to a major road increases children's risk of asthma
 
-by [rosieliu](../../../profile/rosieliu) | May 22, 2018 02:53
+by [rosieliu](/profile/rosieliu) | May 22, 2018 02:53
 
-May 22, 2018 02:53 | Tags: [health](../tag/health), [children](../tag/children), [asthma](../tag/asthma), [first-time-poster](../tag/first-time-poster)
+May 22, 2018 02:53 | Tags: [health](/tag/health), [children](/tag/children), [asthma](/tag/asthma), [first-time-poster](/tag/first-time-poster)
 
 ----
 

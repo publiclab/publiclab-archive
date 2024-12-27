@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/2-21-2011/third-thermal-photo.md
 nid: 98
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/mon-21c.jpg)
 
 # Third thermal photo
 
-by [warren](../../../profile/warren) | February 22, 2011 00:15
+by [warren](/profile/warren) | February 22, 2011 00:15
 
-February 22, 2011 00:15 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-camera](../tag/thermal-camera), [scanning](../tag/scanning)
+February 22, 2011 00:15 | Tags: [thermal-photography](/tag/thermal-photography), [thermal-camera](/tag/thermal-camera), [scanning](/tag/scanning)
 
 ----
 

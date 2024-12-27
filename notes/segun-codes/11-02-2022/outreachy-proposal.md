@@ -6,18 +6,16 @@ author: segun-codes
 path: /notes/segun-codes/11-02-2022/outreachy-proposal.md
 nid: 36041
 uid: 818626
-
 cids: 30740,30741,30751
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/265/original/thumbnail2.jpg)
 
 # Outreachy Proposal: Improve MapKnitter Lite for Mapmaking with Aerial Photos as a Lightweight Web Service
 
-by [segun-codes](../../../profile/segun-codes) | November 02, 2022 10:12
+by [segun-codes](/profile/segun-codes) | November 02, 2022 10:12
 
-November 02, 2022 10:12 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:9.081999](../tag/lat:9.081999), [lon:8.675277](../tag/lon:8.675277), [outreachy-2022](../tag/outreachy-2022), [lat:9.0804](../tag/lat:9.0804), [lon:8.679199](../tag/lon:8.679199), [outreachy-winter-2022](../tag/outreachy-winter-2022)
+November 02, 2022 10:12 | Tags: [software](/tag/software), [outreachy](/tag/outreachy), [first-time-poster](/tag/first-time-poster), [zoom:6](/tag/zoom:6), [lat:9.081999](/tag/lat:9.081999), [lon:8.675277](/tag/lon:8.675277), [outreachy-2022](/tag/outreachy-2022), [lat:9.0804](/tag/lat:9.0804), [lon:8.679199](/tag/lon:8.679199), [outreachy-winter-2022](/tag/outreachy-winter-2022)
 
 ----
 

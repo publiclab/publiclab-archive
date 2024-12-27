@@ -6,18 +6,16 @@ author: klie
 path: /notes/klie/09-14-2015/homebrew-fellowship-application-spectrometer-intensity-calibration.md
 nid: 12214
 uid: 441262
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/566/original/Spectrometer_Intensity_Callibration.png)
 
 # Homebrew Fellowship Application:  Spectrometer Intensity Calibration 
 
-by [klie](../../../profile/klie) | September 14, 2015 19:56
+by [klie](/profile/klie) | September 14, 2015 19:56
 
-September 14, 2015 19:56 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [fellows](../tag/fellows)
+September 14, 2015 19:56 | Tags: [spectrometer](/tag/spectrometer), [spectralworkbench](/tag/spectralworkbench), [fellows](/tag/fellows)
 
 ----
 

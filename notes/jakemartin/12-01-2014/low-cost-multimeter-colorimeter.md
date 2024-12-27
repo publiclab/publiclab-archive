@@ -6,18 +6,16 @@ author: jakemartin
 path: /notes/jakemartin/12-01-2014/low-cost-multimeter-colorimeter.md
 nid: 11414
 uid: 422965
-
 cids: 10921,10978,11007,11008
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/152/original/IMG_0358.jpg)
 
 # Low-cost multimeter colorimeter
 
-by [jakemartin](../../../profile/jakemartin) | December 01, 2014 03:18
+by [jakemartin](/profile/jakemartin) | December 01, 2014 03:18
 
-December 01, 2014 03:18 | Tags: [spectrometer](../tag/spectrometer), [spectrophotometer](../tag/spectrophotometer), [quantitative](../tag/quantitative), [parent:spectrometer](../tag/parent:spectrometer), [colorimetry](../tag/colorimetry), [multimeter](../tag/multimeter), [first-time-poster](../tag/first-time-poster)
+December 01, 2014 03:18 | Tags: [spectrometer](/tag/spectrometer), [spectrophotometer](/tag/spectrophotometer), [quantitative](/tag/quantitative), [parent:spectrometer](/tag/parent:spectrometer), [colorimetry](/tag/colorimetry), [multimeter](/tag/multimeter), [first-time-poster](/tag/first-time-poster)
 
 ----
 

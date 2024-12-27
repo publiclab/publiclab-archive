@@ -6,18 +6,16 @@ author: Johudson1
 path: /notes/Johudson1/06-22-2015/solutions-to-plastic-pollution.md
 nid: 11995
 uid: 444215
-
 cids: 12002,13563
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/414/original/102979-004-7CA2A83F.jpg)
 
 # Solutions to Plastic Pollution
 
-by [Johudson1](../../../profile/Johudson1) | June 22, 2015 20:21
+by [Johudson1](/profile/Johudson1) | June 22, 2015 20:21
 
-June 22, 2015 20:21 | Tags: [pollution](../tag/pollution), [fungus](../tag/fungus), [bioremediation](../tag/bioremediation), [microplastics](../tag/microplastics)
+June 22, 2015 20:21 | Tags: [pollution](/tag/pollution), [fungus](/tag/fungus), [bioremediation](/tag/bioremediation), [microplastics](/tag/microplastics)
 
 ----
 

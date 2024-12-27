@@ -6,16 +6,14 @@ author: Monoxyde
 path: /notes/monoxyde/03-18-2015/question-help-needed.md
 nid: 11686
 uid: 432132
-
 cids: 11350,11351
-
 ---
 
 # Question: HELP NEEDED
 
-by [Monoxyde](../../../profile/Monoxyde) | March 18, 2015 19:31
+by [Monoxyde](/profile/Monoxyde) | March 18, 2015 19:31
 
-March 18, 2015 19:31 | Tags: [question:imagej](../tag/question:imagej), [first-time-poster](../tag/first-time-poster)
+March 18, 2015 19:31 | Tags: [question:imagej](/tag/question:imagej), [first-time-poster](/tag/first-time-poster)
 
 ----
 

@@ -6,16 +6,14 @@ author: grace_williams
 path: /notes/grace_williams/03-09-2021/what-are-the-best-ways-to-preserve-energy.md
 nid: 25880
 uid: 744105
-
 cids: 28322,28382,28604,29341,30249
-
 ---
 
 # What are the best ways to preserve energy?
 
-by [grace_williams](../../../profile/grace_williams) | March 09, 2021 15:53
+by [grace_williams](/profile/grace_williams) | March 09, 2021 15:53
 
-March 09, 2021 15:53 | Tags: [energy](../tag/energy), [climate-change](../tag/climate-change), [energy-conservation](../tag/energy-conservation), [question:general](../tag/question:general), [general](../tag/general), [electric](../tag/electric), [first-time-poster](../tag/first-time-poster)
+March 09, 2021 15:53 | Tags: [energy](/tag/energy), [climate-change](/tag/climate-change), [energy-conservation](/tag/energy-conservation), [question:general](/tag/question:general), [general](/tag/general), [electric](/tag/electric), [first-time-poster](/tag/first-time-poster)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/11-19-2012/wobble-adjustments-simple-juice-bottle-rig.md
 nid: 4952
 uid: 1
-
 cids: 2583
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-11-19 at 1.50.59 PM.png)
 
 # Wobble adjustments for simple juice bottle rig
 
-by [warren](../../../profile/warren) | November 19, 2012 18:56
+by [warren](/profile/warren) | November 19, 2012 18:56
 
-November 19, 2012 18:56 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [photo-rig](../tag/photo-rig), [bottle-rig](../tag/bottle-rig), [activity:photo-rig](../tag/activity:photo-rig), [replication:13948](../tag/replication:13948)
+November 19, 2012 18:56 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [photo-rig](/tag/photo-rig), [bottle-rig](/tag/bottle-rig), [activity:photo-rig](/tag/activity:photo-rig), [replication:13948](/tag/replication:13948)
 
 ----
 

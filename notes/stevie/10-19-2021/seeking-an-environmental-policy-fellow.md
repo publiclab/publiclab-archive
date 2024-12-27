@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/10-19-2021/seeking-an-environmental-policy-fellow.md
 nid: 27945
 uid: 422561
-
 cids: 29337
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/937/original/formosa_policy.jpg)
 
 # Seeking an Environmental Policy Fellow 
 
-by [stevie](../../../profile/stevie) | October 19, 2021 17:55
+by [stevie](/profile/stevie) | October 19, 2021 17:55
 
-October 19, 2021 17:55 | Tags: [air-quality](../tag/air-quality), [jobs](../tag/jobs), [pm](../tag/pm), [fellows](../tag/fellows), [particulate-matter](../tag/particulate-matter), [job](../tag/job), [policy](../tag/policy), [fellow](../tag/fellow), [fellowship-team](../tag/fellowship-team), [careers](../tag/careers), [st-james](../tag/st-james), [fellowship-teams](../tag/fellowship-teams), [eis](../tag/eis), [with:travislondon](../tag/with:travislondon), [formosaplastics](../tag/formosaplastics)
+October 19, 2021 17:55 | Tags: [air-quality](/tag/air-quality), [jobs](/tag/jobs), [pm](/tag/pm), [fellows](/tag/fellows), [particulate-matter](/tag/particulate-matter), [job](/tag/job), [policy](/tag/policy), [fellow](/tag/fellow), [fellowship-team](/tag/fellowship-team), [careers](/tag/careers), [st-james](/tag/st-james), [fellowship-teams](/tag/fellowship-teams), [eis](/tag/eis), [with:travislondon](/tag/with:travislondon), [formosaplastics](/tag/formosaplastics)
 
 ----
 

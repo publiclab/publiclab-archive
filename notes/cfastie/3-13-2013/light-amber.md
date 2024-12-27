@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/3-13-2013/light-amber.md
 nid: 6318
 uid: 554
-
 cids: 3769,3771,3782,3800,4478
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Syrup-201334107-2.jpg)
 
 # Light Amber
 
-by [cfastie](../../../profile/cfastie) | March 13, 2013 19:39
+by [cfastie](/profile/cfastie) | March 13, 2013 19:39
 
-March 13, 2013 19:39 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [spectralworkbench](../tag/spectralworkbench), [ebert](../tag/ebert), [absorption](../tag/absorption), [syrup](../tag/syrup), [activity:spectrometry](../tag/activity:spectrometry), [activity:science-fair](../tag/activity:science-fair)
+March 13, 2013 19:39 | Tags: [spectrometer](/tag/spectrometer), [vermont](/tag/vermont), [spectralworkbench](/tag/spectralworkbench), [ebert](/tag/ebert), [absorption](/tag/absorption), [syrup](/tag/syrup), [activity:spectrometry](/tag/activity:spectrometry), [activity:science-fair](/tag/activity:science-fair)
 
 ----
 

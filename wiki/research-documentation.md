@@ -6,12 +6,12 @@ author: gretchengehrke
 path: /wiki/research-documentation.md
 nid: 12935
 uid: 430549
-
+cids: 
 ---
 
 # Research Documentation
 
-by [stoft](../profile/stoft), [mathew](../profile/mathew), [gretchengehrke](../profile/gretchengehrke)
+by [stoft](/profile/stoft), [mathew](/profile/mathew), [gretchengehrke](/profile/gretchengehrke)
 
 April 07, 2016 20:21 | Tags: 
 

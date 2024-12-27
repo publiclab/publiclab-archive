@@ -6,18 +6,16 @@ author: anan12
 path: /notes/anan12/07-05-2019/my-journey-to-getting-selected-and-first-few-weeks-of-the-internship.md
 nid: 20009
 uid: 577881
-
 cids: 25077
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/526/original/image.jpeg)
 
 # My journey to getting selected and first few weeks of the internship
 
-by [anan12](../../../profile/anan12) | July 05, 2019 19:50
+by [anan12](/profile/anan12) | July 05, 2019 19:50
 
-July 05, 2019 19:50 | Tags: [soc](../tag/soc), [outreachy](../tag/outreachy), [soc-2019](../tag/soc-2019), [outreachy-2019](../tag/outreachy-2019)
+July 05, 2019 19:50 | Tags: [soc](/tag/soc), [outreachy](/tag/outreachy), [soc-2019](/tag/soc-2019), [outreachy-2019](/tag/outreachy-2019)
 
 ----
 

@@ -6,16 +6,14 @@ author: mimiss
 path: /notes/mimiss/05-08-2020/can-i-use-a-clear-case-with-the-infragram-pi-camera.md
 nid: 23578
 uid: 579821
-
 cids: 26826
-
 ---
 
 # Can I use a clear case with the Infragram pi camera?
 
-by [mimiss](../../../profile/mimiss) | May 08, 2020 15:42
+by [mimiss](/profile/mimiss) | May 08, 2020 15:42
 
-May 08, 2020 15:42 | Tags: [infrared](../tag/infrared), [infrared-camera](../tag/infrared-camera), [infragram](../tag/infragram), [question:infragram](../tag/question:infragram), [question:infrared](../tag/question:infrared), [question:multispectral-imaging](../tag/question:multispectral-imaging), [multispectral-imaging](../tag/multispectral-imaging), [question:general](../tag/question:general), [general](../tag/general), [infragram-pi](../tag/infragram-pi), [question:infragram-pi](../tag/question:infragram-pi), [question:infrared-camera](../tag/question:infrared-camera)
+May 08, 2020 15:42 | Tags: [infrared](/tag/infrared), [infrared-camera](/tag/infrared-camera), [infragram](/tag/infragram), [question:infragram](/tag/question:infragram), [question:infrared](/tag/question:infrared), [question:multispectral-imaging](/tag/question:multispectral-imaging), [multispectral-imaging](/tag/multispectral-imaging), [question:general](/tag/question:general), [general](/tag/general), [infragram-pi](/tag/infragram-pi), [question:infragram-pi](/tag/question:infragram-pi), [question:infrared-camera](/tag/question:infrared-camera)
 
 ----
 

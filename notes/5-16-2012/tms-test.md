@@ -6,16 +6,14 @@ author:
 path: /notes/5-16-2012/tms-test.md
 nid: 2084
 uid: 0
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/kit-tote-white-lines_medium_0.jpg)
 
 # tms-test
 
-by [](../../../profile/) | May 16, 2012 20:02
+by [](/profile/) | May 16, 2012 20:02
 
 May 16, 2012 20:02 | Tags: 
 

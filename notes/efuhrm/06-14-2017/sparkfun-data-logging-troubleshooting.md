@@ -6,16 +6,14 @@ author: efuhrm
 path: /notes/efuhrm/06-14-2017/sparkfun-data-logging-troubleshooting.md
 nid: 14542
 uid: 509097
-
 cids: 17020,17021,17022,17023,17024
-
 ---
 
 # Sparkfun data logging troubleshooting?
 
-by [efuhrm](../../../profile/efuhrm) | June 14, 2017 17:42
+by [efuhrm](/profile/efuhrm) | June 14, 2017 17:42
 
-June 14, 2017 17:42 | Tags: [air](../tag/air), [data](../tag/data), [sparkfun](../tag/sparkfun), [monitoring](../tag/monitoring), [logging](../tag/logging), [quality](../tag/quality), [dylos](../tag/dylos), [open-pipe-kit](../tag/open-pipe-kit), [data-logging](../tag/data-logging), [question:data-logging](../tag/question:data-logging), [datalogging](../tag/datalogging), [question:open-pipe-kit](../tag/question:open-pipe-kit), [question:phant](../tag/question:phant), [question:data-logging-visualization](../tag/question:data-logging-visualization)
+June 14, 2017 17:42 | Tags: [air](/tag/air), [data](/tag/data), [sparkfun](/tag/sparkfun), [monitoring](/tag/monitoring), [logging](/tag/logging), [quality](/tag/quality), [dylos](/tag/dylos), [open-pipe-kit](/tag/open-pipe-kit), [data-logging](/tag/data-logging), [question:data-logging](/tag/question:data-logging), [datalogging](/tag/datalogging), [question:open-pipe-kit](/tag/question:open-pipe-kit), [question:phant](/tag/question:phant), [question:data-logging-visualization](/tag/question:data-logging-visualization)
 
 ----
 

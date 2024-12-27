@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/05-08-2017/the-colors-mountain.md
 nid: 14168
 uid: 495038
-
 cids: 16721,16723
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/395/original/tcm.jpg)
 
 # The Colors Mountain
 
-by [imvec](../../../profile/imvec) | May 08, 2017 11:13
+by [imvec](/profile/imvec) | May 08, 2017 11:13
 
-May 08, 2017 11:13 | Tags: [balloon-mapping](../tag/balloon-mapping), [spain](../tag/spain), [lat:39.895](../tag/lat:39.895), [lon:-4.024](../tag/lon:-4.024), [grassroots](../tag/grassroots), [documentary](../tag/documentary)
+May 08, 2017 11:13 | Tags: [balloon-mapping](/tag/balloon-mapping), [spain](/tag/spain), [lat:39.895](/tag/lat:39.895), [lon:-4.024](/tag/lon:-4.024), [grassroots](/tag/grassroots), [documentary](/tag/documentary)
 
 ----
 

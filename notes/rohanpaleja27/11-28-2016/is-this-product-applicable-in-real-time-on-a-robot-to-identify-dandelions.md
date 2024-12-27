@@ -6,16 +6,14 @@ author: rohanpaleja27
 path: /notes/rohanpaleja27/11-28-2016/is-this-product-applicable-in-real-time-on-a-robot-to-identify-dandelions.md
 nid: 13729
 uid: 498340
-
 cids: 15888,15890,22352,22354
-
 ---
 
 # Is this product applicable in real-time on a robot to identify dandelions?
 
-by [rohanpaleja27](../../../profile/rohanpaleja27) | November 28, 2016 19:47
+by [rohanpaleja27](/profile/rohanpaleja27) | November 28, 2016 19:47
 
-November 28, 2016 19:47 | Tags: [spectrometry](../tag/spectrometry), [tool](../tag/tool), [answered](../tag/answered), [question:general](../tag/question:general)
+November 28, 2016 19:47 | Tags: [spectrometry](/tag/spectrometry), [tool](/tag/tool), [answered](/tag/answered), [question:general](/tag/question:general)
 
 ----
 

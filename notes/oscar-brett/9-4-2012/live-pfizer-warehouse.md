@@ -6,18 +6,16 @@ author: oscarbrett
 path: /notes/oscar-brett/9-4-2012/live-pfizer-warehouse.md
 nid: 3634
 uid: 409
-
 cids: 1246
-
 ---
 
 ![](https://publiclab.org/sites/default/files/P9010355.JPG)
 
 # Live from the Pfizer warehouse
 
-by [oscarbrett](../../../profile/oscarbrett) | September 04, 2012 16:55
+by [oscarbrett](/profile/oscarbrett) | September 04, 2012 16:55
 
-September 04, 2012 16:55 | Tags: [balloon-mapping](../tag/balloon-mapping), [diy-satellite](../tag/diy-satellite), [weird-science](../tag/weird-science), [plots](../tag/plots), [oscar-brett](../tag/oscar-brett)
+September 04, 2012 16:55 | Tags: [balloon-mapping](/tag/balloon-mapping), [diy-satellite](/tag/diy-satellite), [weird-science](/tag/weird-science), [plots](/tag/plots), [oscar-brett](/tag/oscar-brett)
 
 ----
 

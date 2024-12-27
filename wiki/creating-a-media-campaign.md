@@ -6,16 +6,16 @@ author: stevie
 path: /wiki/creating-a-media-campaign.md
 nid: 12595
 uid: 422561
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/728/original/CCH_20111121_003.JPG)
 
 # Creating a Media Campaign
 
-by [xose](../profile/xose), [stevie](../profile/stevie), [warren](../profile/warren), [hagitkeysar](../profile/hagitkeysar)
+by [xose](/profile/xose), [stevie](/profile/stevie), [warren](/profile/warren), [hagitkeysar](/profile/hagitkeysar)
 
-January 20, 2016 17:41 | Tags: [media](../tag/media), [organizing](../tag/organizing), [tool](../tag/tool), [methods](../tag/methods), [advocacy](../tag/advocacy), [strategy](../tag/strategy), [campaign](../tag/campaign), [method](../tag/method), [community-organizing](../tag/community-organizing)
+January 20, 2016 17:41 | Tags: [media](/tag/media), [organizing](/tag/organizing), [tool](/tag/tool), [methods](/tag/methods), [advocacy](/tag/advocacy), [strategy](/tag/strategy), [campaign](/tag/campaign), [method](/tag/method), [community-organizing](/tag/community-organizing)
 
 ----
 

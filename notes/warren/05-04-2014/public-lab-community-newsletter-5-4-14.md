@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/05-04-2014/public-lab-community-newsletter-5-4-14.md
 nid: 10411
 uid: 1
-
 cids: 11062
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/031/original/mobius-infragram.jpg)
 
 # Public Lab Community Newsletter 5.4.14
 
-by [warren](../../../profile/warren) | May 04, 2014 16:21
+by [warren](/profile/warren) | May 04, 2014 16:21
 
-May 04, 2014 16:21 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+May 04, 2014 16:21 | Tags: [newsletter](/tag/newsletter), [newsletter-archive](/tag/newsletter-archive)
 
 ----
 

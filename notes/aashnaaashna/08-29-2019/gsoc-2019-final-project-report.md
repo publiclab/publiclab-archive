@@ -6,16 +6,14 @@ author: aashnaaashna
 path: /notes/aashnaaashna/08-29-2019/gsoc-2019-final-project-report.md
 nid: 20717
 uid: 553271
-
 cids: 25561
-
 ---
 
 # GSOC 2019: Final Project Report
 
-by [aashnaaashna](../../../profile/aashnaaashna) | August 29, 2019 20:57
+by [aashnaaashna](/profile/aashnaaashna) | August 29, 2019 20:57
 
-August 29, 2019 20:57 | Tags: [gsoc-2019-final-report](../tag/gsoc-2019-final-report)
+August 29, 2019 20:57 | Tags: [gsoc-2019-final-report](/tag/gsoc-2019-final-report)
 
 ----
 

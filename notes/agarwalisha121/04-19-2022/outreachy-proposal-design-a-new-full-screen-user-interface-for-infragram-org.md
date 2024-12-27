@@ -6,18 +6,16 @@ author: agarwalisha121
 path: /notes/agarwalisha121/04-19-2022/outreachy-proposal-design-a-new-full-screen-user-interface-for-infragram-org.md
 nid: 30484
 uid: 795441
-
 cids: 30075,30100
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/131/original/359168.jpg)
 
 # Outreachy proposal: Design a new full-screen user interface for Infragram.org
 
-by [agarwalisha121](../../../profile/agarwalisha121) | April 19, 2022 10:49
+by [agarwalisha121](/profile/agarwalisha121) | April 19, 2022 10:49
 
-April 19, 2022 10:49 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [lat:26.912433](../tag/lat:26.912433), [lon:75.78727](../tag/lon:75.78727), [zoom:6](../tag/zoom:6), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
+April 19, 2022 10:49 | Tags: [software](/tag/software), [outreachy](/tag/outreachy), [first-time-poster](/tag/first-time-poster), [lat:26.912433](/tag/lat:26.912433), [lon:75.78727](/tag/lon:75.78727), [zoom:6](/tag/zoom:6), [outreachy-2022](/tag/outreachy-2022), [outreachy-summer-2022](/tag/outreachy-summer-2022)
 
 ----
 

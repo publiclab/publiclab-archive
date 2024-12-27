@@ -6,16 +6,14 @@ author: suman
 path: /notes/suman/03-26-2017/batching-the-process-of-ndvi-in-fiji-for-modified-mobius-with-red-filter.md
 nid: 14061
 uid: 497769
-
 cids: 16462,16465,16468,22450,22451
-
 ---
 
 # Batching the process of NDVI in Fiji for modified mobius with red filter
 
-by [suman](../../../profile/suman) | March 26, 2017 12:15
+by [suman](/profile/suman) | March 26, 2017 12:15
 
-March 26, 2017 12:15 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [imagej](../tag/imagej), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [fiji](../tag/fiji), [photo-monitoring-plugin](../tag/photo-monitoring-plugin), [answered](../tag/answered), [question:general](../tag/question:general)
+March 26, 2017 12:15 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [imagej](/tag/imagej), [infragram](/tag/infragram), [infrablue](/tag/infrablue), [fiji](/tag/fiji), [photo-monitoring-plugin](/tag/photo-monitoring-plugin), [answered](/tag/answered), [question:general](/tag/question:general)
 
 ----
 

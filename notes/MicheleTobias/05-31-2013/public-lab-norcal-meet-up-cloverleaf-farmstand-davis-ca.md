@@ -6,18 +6,16 @@ author: MicheleTobias
 path: /notes/MicheleTobias/05-31-2013/public-lab-norcal-meet-up-cloverleaf-farmstand-davis-ca.md
 nid: 7995
 uid: 149
-
 cids: 4926
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/443/original/KAPSite.PNG)
 
 # Public Lab NorCal Meet Up - Cloverleaf Farmstand, Davis, CA
 
-by [MicheleTobias](../../../profile/MicheleTobias) | May 31, 2013 18:11
+by [MicheleTobias](/profile/MicheleTobias) | May 31, 2013 18:11
 
-May 31, 2013 18:11 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [norcal](../tag/norcal), [event](../tag/event), [replication:14022](../tag/replication:14022)
+May 31, 2013 18:11 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [norcal](/tag/norcal), [event](/tag/event), [replication:14022](/tag/replication:14022)
 
 ----
 

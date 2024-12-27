@@ -6,16 +6,14 @@ author: rollinrenola
 path: /notes/rollinrenola/12-03-2019/week-9-fellowship-update.md
 nid: 21648
 uid: 618903
-
 cids: 
-
 ---
 
 # Week 9 Fellowship Update
 
-by [rollinrenola](../../../profile/rollinrenola) | December 03, 2019 15:35
+by [rollinrenola](/profile/rollinrenola) | December 03, 2019 15:35
 
-December 03, 2019 15:35 | Tags: [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
+December 03, 2019 15:35 | Tags: [oil-and-gas-water-trio](/tag/oil-and-gas-water-trio)
 
 ----
 

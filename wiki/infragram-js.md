@@ -6,12 +6,12 @@ author: warren
 path: /wiki/infragram-js.md
 nid: 9030
 uid: 1
-
+cids: 
 ---
 
 # Infragram JS
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 August 17, 2013 18:56 | Tags: 
 

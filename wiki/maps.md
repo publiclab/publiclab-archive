@@ -6,12 +6,12 @@ author: gonzoearth
 path: /wiki/maps.md
 nid: 153
 uid: 12
-
+cids: 
 ---
 
 # Maps
 
-by [gonzoearth](../profile/gonzoearth), [warren](../profile/warren)
+by [gonzoearth](/profile/gonzoearth), [warren](/profile/warren)
 
 April 04, 2011 21:47 | Tags: 
 

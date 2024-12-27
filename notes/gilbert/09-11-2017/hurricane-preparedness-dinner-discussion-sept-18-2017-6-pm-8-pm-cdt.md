@@ -6,18 +6,16 @@ author: gilbert
 path: /notes/gilbert/09-11-2017/hurricane-preparedness-dinner-discussion-sept-18-2017-6-pm-8-pm-cdt.md
 nid: 14877
 uid: 508551
-
 cids: 17361
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/608/original/download.jpg)
 
 # Hurricane Preparedness Dinner/Discussion - SEPT. 18, 2017 6 PM -8 PM  
 
-by [gilbert](../../../profile/gilbert) | September 11, 2017 20:46
+by [gilbert](/profile/gilbert) | September 11, 2017 20:46
 
-September 11, 2017 20:46 | Tags: [publiclab](../tag/publiclab), [with:stevie](../tag/with:stevie), [disaster-resilience](../tag/disaster-resilience), [hurricane-preparedness](../tag/hurricane-preparedness), [water_works](../tag/water_works)
+September 11, 2017 20:46 | Tags: [publiclab](/tag/publiclab), [with:stevie](/tag/with:stevie), [disaster-resilience](/tag/disaster-resilience), [hurricane-preparedness](/tag/hurricane-preparedness), [water_works](/tag/water_works)
 
 ----
 

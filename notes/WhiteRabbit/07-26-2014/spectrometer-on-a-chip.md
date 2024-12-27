@@ -6,18 +6,16 @@ author: WhiteRabbit
 path: /notes/WhiteRabbit/07-26-2014/spectrometer-on-a-chip.md
 nid: 10981
 uid: 425996
-
 cids: 9677,9692
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/593/original/PixelSensorTack_%281%29.jpg)
 
 # Spectrometer on a chip
 
-by [WhiteRabbit](../../../profile/WhiteRabbit) | July 26, 2014 20:08
+by [WhiteRabbit](/profile/WhiteRabbit) | July 26, 2014 20:08
 
-July 26, 2014 20:08 | Tags: [spectrometer](../tag/spectrometer), [chip](../tag/chip)
+July 26, 2014 20:08 | Tags: [spectrometer](/tag/spectrometer), [chip](/tag/chip)
 
 ----
 

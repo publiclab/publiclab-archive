@@ -6,16 +6,14 @@ author: Jtaw
 path: /notes/Jtaw/03-14-2017/what-is-the-algorithm-used-in-generating-the-fastie-colormap-in-infragram.md
 nid: 14012
 uid: 504063
-
 cids: 16363,16369,18260,22442,22445,23223
-
 ---
 
 # What is the algorithm used in generating the fastie colormap from NDVI in Infragram? 
 
-by [Jtaw](../../../profile/Jtaw) | March 14, 2017 12:41
+by [Jtaw](/profile/Jtaw) | March 14, 2017 12:41
 
-March 14, 2017 12:41 | Tags: [colormap](../tag/colormap), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [fastie](../tag/fastie), [question:general](../tag/question:general), [question:image-sequencer](../tag/question:image-sequencer), [question:colormap](../tag/question:colormap), [first-time-poster](../tag/first-time-poster)
+March 14, 2017 12:41 | Tags: [colormap](/tag/colormap), [question:ndvi](/tag/question:ndvi), [question:infragram](/tag/question:infragram), [fastie](/tag/fastie), [question:general](/tag/question:general), [question:image-sequencer](/tag/question:image-sequencer), [question:colormap](/tag/question:colormap), [first-time-poster](/tag/first-time-poster)
 
 ----
 

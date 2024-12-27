@@ -6,18 +6,16 @@ author: Nature_babes
 path: /notes/Nature_babes/02-19-2021/testing-the-ph-of-soil-using-different-liquids.md
 nid: 25741
 uid: 739154
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/752/original/35322834-E7B9-4A0A-AFF4-EA3C8487F996.jpeg)
 
 # Testing The PH of Soil using different liquids
 
-by [Nature_babes](../../../profile/Nature_babes) | February 19, 2021 17:25
+by [Nature_babes](/profile/Nature_babes) | February 19, 2021 17:25
 
-February 19, 2021 17:25 | Tags: [education](../tag/education), [soil](../tag/soil), [activity:education](../tag/activity:education), [lat:1](../tag/lat:1), [lon:9](../tag/lon:9), [activity:soil](../tag/activity:soil), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6)
+February 19, 2021 17:25 | Tags: [education](/tag/education), [soil](/tag/soil), [activity:education](/tag/activity:education), [lat:1](/tag/lat:1), [lon:9](/tag/lon:9), [activity:soil](/tag/activity:soil), [first-time-poster](/tag/first-time-poster), [zoom:6](/tag/zoom:6)
 
 ----
 

@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/5-18-2012/follow-faucet-cover-camera-enclosure.md
 nid: 2126
 uid: 77
-
 cids: 753,754,12189
-
 ---
 
 ![](https://publiclab.org/sites/default/files/faucet covers.JPG)
 
 # Follow up on faucet cover camera enclosure
 
-by [patcoyle](../../../profile/patcoyle) | May 18, 2012 06:39
+by [patcoyle](/profile/patcoyle) | May 18, 2012 06:39
 
-May 18, 2012 06:39 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [multiple-camera](../tag/multiple-camera), [photo-rig](../tag/photo-rig), [activity:photo-rig](../tag/activity:photo-rig)
+May 18, 2012 06:39 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [multiple-camera](/tag/multiple-camera), [photo-rig](/tag/photo-rig), [activity:photo-rig](/tag/activity:photo-rig)
 
 ----
 

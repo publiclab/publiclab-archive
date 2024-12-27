@@ -6,16 +6,14 @@ author: JaydenBailey
 path: /notes/JaydenBailey/04-30-2021/soil-samples.md
 nid: 26419
 uid: 754772
-
 cids: 
-
 ---
 
 # Soil Samples
 
-by [JaydenBailey](../../../profile/JaydenBailey) | April 30, 2021 18:12
+by [JaydenBailey](/profile/JaydenBailey) | April 30, 2021 18:12
 
-April 30, 2021 18:12 | Tags: [lat:30](../tag/lat:30), [lon:-90](../tag/lon:-90), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6)
+April 30, 2021 18:12 | Tags: [lat:30](/tag/lat:30), [lon:-90](/tag/lon:-90), [first-time-poster](/tag/first-time-poster), [zoom:6](/tag/zoom:6)
 
 ----
 

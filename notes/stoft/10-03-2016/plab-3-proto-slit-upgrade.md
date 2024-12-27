@@ -6,18 +6,16 @@ author: stoft
 path: /notes/stoft/10-03-2016/plab-3-proto-slit-upgrade.md
 nid: 13515
 uid: 54025
-
 cids: 15592,15593,15611,15693,15696
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/253/original/Slit-11.jpg)
 
 # PLab-3 Proto Slit Upgrade
 
-by [stoft](../../../profile/stoft) | October 03, 2016 06:44
+by [stoft](/profile/stoft) | October 03, 2016 06:44
 
-October 03, 2016 06:44 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [desktop-spectrometer](../tag/desktop-spectrometer), [upgrade:spectrometry](../tag/upgrade:spectrometry), [upgrade:dssk](../tag/upgrade:dssk), [seeks:builds](../tag/seeks:builds)
+October 03, 2016 06:44 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [desktop-spectrometer](/tag/desktop-spectrometer), [upgrade:spectrometry](/tag/upgrade:spectrometry), [upgrade:dssk](/tag/upgrade:dssk), [seeks:builds](/tag/seeks:builds)
 
 ----
 

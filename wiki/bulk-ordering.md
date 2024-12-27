@@ -6,12 +6,12 @@ author: warren
 path: /wiki/bulk-ordering.md
 nid: 747
 uid: 1
-
+cids: 
 ---
 
 # Bulk ordering
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 February 03, 2012 20:17 | Tags: 
 

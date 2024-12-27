@@ -6,18 +6,16 @@ author: TedF
 path: /notes/TedF/08-18-2013/constructing-a-2-90g-wooden-metal-picavet.md
 nid: 9033
 uid: 197186
-
 cids: 6681,6683,6695,10572,10581
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/200/original/photo_%282%29.JPG)
 
 # Constructing a <£2, 90g wooden/metal picavet
 
-by [TedF](../../../profile/TedF) | August 18, 2013 19:07
+by [TedF](/profile/TedF) | August 18, 2013 19:07
 
-August 18, 2013 19:07 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [picavet](../tag/picavet), [photo-rig](../tag/photo-rig), [camera-rig](../tag/camera-rig), [activity:kite-mapping](../tag/activity:kite-mapping), [activity:photo-rig](../tag/activity:photo-rig), [first-time-poster](../tag/first-time-poster)
+August 18, 2013 19:07 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [picavet](/tag/picavet), [photo-rig](/tag/photo-rig), [camera-rig](/tag/camera-rig), [activity:kite-mapping](/tag/activity:kite-mapping), [activity:photo-rig](/tag/activity:photo-rig), [first-time-poster](/tag/first-time-poster)
 
 ----
 

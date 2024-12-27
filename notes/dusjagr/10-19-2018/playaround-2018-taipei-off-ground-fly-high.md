@@ -6,18 +6,16 @@ author: dusjagr
 path: /notes/dusjagr/10-19-2018/playaround-2018-taipei-off-ground-fly-high.md
 nid: 17331
 uid: 46795
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/061/original/GroupPix_webBanner.jpg)
 
 # playaround 2018 - Taipei | Off Ground - Fly High
 
-by [dusjagr](../../../profile/dusjagr) | October 19, 2018 03:14
+by [dusjagr](/profile/dusjagr) | October 19, 2018 03:14
 
-October 19, 2018 03:14 | Tags: [balloon-mapping](../tag/balloon-mapping), [events](../tag/events), [aerial-photography](../tag/aerial-photography), [asia](../tag/asia), [taipei](../tag/taipei), [taiwan](../tag/taiwan), [replication:14022](../tag/replication:14022)
+October 19, 2018 03:14 | Tags: [balloon-mapping](/tag/balloon-mapping), [events](/tag/events), [aerial-photography](/tag/aerial-photography), [asia](/tag/asia), [taipei](/tag/taipei), [taiwan](/tag/taiwan), [replication:14022](/tag/replication:14022)
 
 ----
 

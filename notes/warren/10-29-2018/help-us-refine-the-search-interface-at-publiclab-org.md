@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/10-29-2018/help-us-refine-the-search-interface-at-publiclab-org.md
 nid: 17425
 uid: 1
-
 cids: 21036,21052,21071,23267,23269,23270
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/363/original/Screen_Shot_2018-10-29_at_6.12.05_PM.png)
 
 # Help us refine the search interface at PublicLab.org/search
 
-by [warren](../../../profile/warren) | October 29, 2018 22:21
+by [warren](/profile/warren) | October 29, 2018 22:21
 
-October 29, 2018 22:21 | Tags: [question](../tag/question), [search](../tag/search), [rgsoc](../tag/rgsoc), [ui](../tag/ui), [question:ui](../tag/question:ui), [comment-template:ui-feedback-template](../tag/comment-template:ui-feedback-template)
+October 29, 2018 22:21 | Tags: [question](/tag/question), [search](/tag/search), [rgsoc](/tag/rgsoc), [ui](/tag/ui), [question:ui](/tag/question:ui), [comment-template:ui-feedback-template](/tag/comment-template:ui-feedback-template)
 
 ----
 

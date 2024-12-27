@@ -6,16 +6,16 @@ author: bhamster
 path: /wiki/air-lab-testing.md
 nid: 25056
 uid: 664477
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/745/original/GC_MS_INL.jpg)
 
 # Air sample lab testing
 
-by [bhamster](../profile/bhamster)
+by [bhamster](/profile/bhamster)
 
-November 13, 2020 15:54 | Tags: [air-quality](../tag/air-quality), [method](../tag/method), [grab-sample](../tag/grab-sample), [air-sampling](../tag/air-sampling), [lab-testing](../tag/lab-testing), [lab-tests](../tag/lab-tests), [parent:air-quality](../tag/parent:air-quality), [bucket-monitor](../tag/bucket-monitor), [air-lab-testing](../tag/air-lab-testing)
+November 13, 2020 15:54 | Tags: [air-quality](/tag/air-quality), [method](/tag/method), [grab-sample](/tag/grab-sample), [air-sampling](/tag/air-sampling), [lab-testing](/tag/lab-testing), [lab-tests](/tag/lab-tests), [parent:air-quality](/tag/parent:air-quality), [bucket-monitor](/tag/bucket-monitor), [air-lab-testing](/tag/air-lab-testing)
 
 ----
 
@@ -172,7 +172,7 @@ Have others in the Public Lab community asked a question similar to yours? Do yo
 
 Posts tagged with `question:air-lab-testing` will appear here
 
-[air-lab-testing](../../tag/question:air-lab-testing)
+[air-lab-testing](/tag/question:air-lab-testing)
 
 <br>
 

@@ -6,14 +6,14 @@ author: mollydanielsson
 path: /wiki/public-lab-supports-community-investigations.md
 nid: 5614
 uid: 1259
-
+cids: 
 ---
 
 #  Public Lab supports community investigations
 
-by [liz](../profile/liz), [mollydanielsson](../profile/mollydanielsson)
+by [liz](/profile/liz), [mollydanielsson](/profile/mollydanielsson)
 
-January 16, 2013 21:09 | Tags: [website](../tag/website), [plots2](../tag/plots2), [wintercamp](../tag/wintercamp), [out-of-date](../tag/out-of-date)
+January 16, 2013 21:09 | Tags: [website](/tag/website), [plots2](/tag/plots2), [wintercamp](/tag/wintercamp), [out-of-date](/tag/out-of-date)
 
 ----
 

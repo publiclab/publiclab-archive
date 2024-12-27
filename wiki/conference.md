@@ -6,12 +6,12 @@ author: warren
 path: /wiki/conference.md
 nid: 7492
 uid: 1
-
+cids: 
 ---
 
 # conference
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 May 13, 2013 15:37 | Tags: 
 

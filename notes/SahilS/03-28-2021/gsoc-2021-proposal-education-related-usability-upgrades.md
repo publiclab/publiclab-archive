@@ -6,16 +6,14 @@ author: SahilS
 path: /notes/SahilS/03-28-2021/gsoc-2021-proposal-education-related-usability-upgrades.md
 nid: 26047
 uid: 746332
-
 cids: 28440,28450,28477,28488,28494,28495
-
 ---
 
 # GSOC 2021 Proposal: Education-related usability upgrades
 
-by [SahilS](../../../profile/SahilS) | March 28, 2021 14:50
+by [SahilS](/profile/SahilS) | March 28, 2021 14:50
 
-March 28, 2021 14:50 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [gsoc-2021-proposals](../tag/gsoc-2021-proposals)
+March 28, 2021 14:50 | Tags: [gsoc](/tag/gsoc), [soc](/tag/soc), [first-time-poster](/tag/first-time-poster), [gsoc-2021-proposals](/tag/gsoc-2021-proposals)
 
 ----
 

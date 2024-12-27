@@ -6,18 +6,16 @@ author: LauraChipley
 path: /notes/LauraChipley/10-06-2015/amp-august-and-september-workshops-and-fieldwork.md
 nid: 12272
 uid: 428957
-
 cids: 12662,12664,12674
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/790/original/marshy_fork_still.jpg)
 
 # AMP August and September workshops and fieldwork
 
-by [LauraChipley](../../../profile/LauraChipley) | October 06, 2015 17:06
+by [LauraChipley](/profile/LauraChipley) | October 06, 2015 17:06
 
-October 06, 2015 17:06 | Tags: [west-virginia](../tag/west-virginia), [mountaintop-removal](../tag/mountaintop-removal), [southeast](../tag/southeast), [amp](../tag/amp), [mtr](../tag/mtr), [appalachia](../tag/appalachia)
+October 06, 2015 17:06 | Tags: [west-virginia](/tag/west-virginia), [mountaintop-removal](/tag/mountaintop-removal), [southeast](/tag/southeast), [amp](/tag/amp), [mtr](/tag/mtr), [appalachia](/tag/appalachia)
 
 ----
 

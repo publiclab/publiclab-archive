@@ -6,12 +6,12 @@ author: vvincent
 path: /wiki/a-salty-scandal.md
 nid: 11595
 uid: 435415
-
+cids: 
 ---
 
 # A Salty Scandal
 
-by [vvincent](../profile/vvincent)
+by [vvincent](/profile/vvincent)
 
 February 17, 2015 19:02 | Tags: 
 

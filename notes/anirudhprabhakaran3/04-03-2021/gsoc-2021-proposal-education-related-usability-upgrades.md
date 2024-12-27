@@ -6,18 +6,16 @@ author: anirudhprabhakaran3
 path: /notes/anirudhprabhakaran3/04-03-2021/gsoc-2021-proposal-education-related-usability-upgrades.md
 nid: 26133
 uid: 751144
-
 cids: 28527,28529,28530,28533
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/123/original/GSoC-icon-192.png)
 
 # GSoC 2021 Proposal - Education-related Usability Upgrades
 
-by [anirudhprabhakaran3](../../../profile/anirudhprabhakaran3) | April 03, 2021 16:59
+by [anirudhprabhakaran3](/profile/anirudhprabhakaran3) | April 03, 2021 16:59
 
-April 03, 2021 16:59 | Tags: [gsoc](../tag/gsoc), [blog-submission](../tag/blog-submission), [soc](../tag/soc), [application](../tag/application), [first-time-poster](../tag/first-time-poster), [gsoc-2021-proposals](../tag/gsoc-2021-proposals)
+April 03, 2021 16:59 | Tags: [gsoc](/tag/gsoc), [blog-submission](/tag/blog-submission), [soc](/tag/soc), [application](/tag/application), [first-time-poster](/tag/first-time-poster), [gsoc-2021-proposals](/tag/gsoc-2021-proposals)
 
 ----
 

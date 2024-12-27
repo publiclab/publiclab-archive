@@ -6,14 +6,14 @@ author: paulokemperfilho
 path: /wiki/python-webcam-codes.md
 nid: 11031
 uid: 426653
-
+cids: 
 ---
 
 # Python Webcam Codes
 
-by [paulokemperfilho](../profile/paulokemperfilho)
+by [paulokemperfilho](/profile/paulokemperfilho)
 
-August 11, 2014 04:35 | Tags: [software](../tag/software), [infragram](../tag/infragram), [python](../tag/python), [parent:multispectral-imaging](../tag/parent:multispectral-imaging)
+August 11, 2014 04:35 | Tags: [software](/tag/software), [infragram](/tag/infragram), [python](/tag/python), [parent:multispectral-imaging](/tag/parent:multispectral-imaging)
 
 ----
 

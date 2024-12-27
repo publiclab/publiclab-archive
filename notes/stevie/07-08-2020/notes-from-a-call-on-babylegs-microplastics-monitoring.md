@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/07-08-2020/notes-from-a-call-on-babylegs-microplastics-monitoring.md
 nid: 24117
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/134/original/babylegs_plastic.jpg)
 
 # Notes from a call on Babylegs (microplastics monitoring)
 
-by [stevie](../../../profile/stevie) | July 08, 2020 20:21
+by [stevie](/profile/stevie) | July 08, 2020 20:21
 
-July 08, 2020 20:21 | Tags: [water-quality](../tag/water-quality), [microplastics](../tag/microplastics), [babylegs](../tag/babylegs)
+July 08, 2020 20:21 | Tags: [water-quality](/tag/water-quality), [microplastics](/tag/microplastics), [babylegs](/tag/babylegs)
 
 ----
 

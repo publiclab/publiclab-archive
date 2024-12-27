@@ -6,16 +6,14 @@ author: caitlion
 path: /notes/caitlion/04-21-2022/a-quick-note-on-title-vi.md
 nid: 30548
 uid: 780686
-
 cids: 
-
 ---
 
 # A Quick Note on Title VI
 
-by [caitlion](../../../profile/caitlion) | April 21, 2022 18:34
+by [caitlion](/profile/caitlion) | April 21, 2022 18:34
 
-April 21, 2022 18:34 | Tags: [epa](../tag/epa), [environmental-justice](../tag/environmental-justice), [formosaplastics](../tag/formosaplastics), [title-vi](../tag/title-vi)
+April 21, 2022 18:34 | Tags: [epa](/tag/epa), [environmental-justice](/tag/environmental-justice), [formosaplastics](/tag/formosaplastics), [title-vi](/tag/title-vi)
 
 ----
 

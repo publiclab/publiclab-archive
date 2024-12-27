@@ -6,12 +6,12 @@ author: Shannon
 path: /wiki/receipts.md
 nid: 4181
 uid: 9
-
+cids: 
 ---
 
 # Receipt submission form 2018
 
-by [warren](../profile/warren), [Shannon](../profile/Shannon), [liz](../profile/liz), [natalie](../profile/natalie)
+by [warren](/profile/warren), [Shannon](/profile/Shannon), [liz](/profile/liz), [natalie](/profile/natalie)
 
 October 05, 2012 02:42 | Tags: 
 

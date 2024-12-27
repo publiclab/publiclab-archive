@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/01-23-2018/where-can-you-get-the-stage-for-the-basic-microscope.md
 nid: 15596
 uid: 422561
-
 cids: 
-
 ---
 
 # Where can you get the stage for the basic microscope? 
 
-by [stevie](../../../profile/stevie) | January 23, 2018 21:05
+by [stevie](/profile/stevie) | January 23, 2018 21:05
 
-January 23, 2018 21:05 | Tags: [microscope](../tag/microscope), [question:microscopes](../tag/question:microscopes), [question:basic-microscope](../tag/question:basic-microscope), [microscope-stage](../tag/microscope-stage)
+January 23, 2018 21:05 | Tags: [microscope](/tag/microscope), [question:microscopes](/tag/question:microscopes), [question:basic-microscope](/tag/question:basic-microscope), [microscope-stage](/tag/microscope-stage)
 
 ----
 

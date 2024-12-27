@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/11-4-2011/towards-tyvek-bamboo-delta-kit.md
 nid: 542
 uid: 4
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/6293479738_a1a26d7658_o.jpeg)
 
 # Towards a Tyvek & Bamboo Delta Kit
 
-by [mathew](../../../profile/mathew) | November 04, 2011 06:45
+by [mathew](/profile/mathew) | November 04, 2011 06:45
 
-November 04, 2011 06:45 | Tags: [kite-mapping](../tag/kite-mapping), [diy-kite](../tag/diy-kite), [tyvek](../tag/tyvek), [diy-kites](../tag/diy-kites), [kite-making](../tag/kite-making), [activity:kite-making](../tag/activity:kite-making), [activity:tyvek](../tag/activity:tyvek)
+November 04, 2011 06:45 | Tags: [kite-mapping](/tag/kite-mapping), [diy-kite](/tag/diy-kite), [tyvek](/tag/tyvek), [diy-kites](/tag/diy-kites), [kite-making](/tag/kite-making), [activity:kite-making](/tag/activity:kite-making), [activity:tyvek](/tag/activity:tyvek)
 
 ----
 

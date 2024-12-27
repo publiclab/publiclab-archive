@@ -6,18 +6,16 @@ author: Rgaude
 path: /notes/Rgaude/05-10-2021/potholes-in-new-orleans-balloon-mapping-experience.md
 nid: 26542
 uid: 749812
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/738/original/Science_Pothole_1.jpg)
 
 # Potholes in New Orleans Balloon Mapping Experience
 
-by [Rgaude](../../../profile/Rgaude) | May 10, 2021 15:15
+by [Rgaude](/profile/Rgaude) | May 10, 2021 15:15
 
-May 10, 2021 15:15 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [laplace](../tag/laplace), [louisiana](../tag/louisiana), [transportation](../tag/transportation), [new-orleans](../tag/new-orleans), [stormwater](../tag/stormwater), [potholes](../tag/potholes), [roads](../tag/roads), [stem](../tag/stem), [zoom:6](../tag/zoom:6), [asphalt](../tag/asphalt), [lat:30.057693](../tag/lat:30.057693), [lon:-90.572898](../tag/lon:-90.572898), [lat:30.050076](../tag/lat:30.050076), [lon:-90.571289](../tag/lon:-90.571289)
+May 10, 2021 15:15 | Tags: [gulf-coast](/tag/gulf-coast), [balloon-mapping](/tag/balloon-mapping), [laplace](/tag/laplace), [louisiana](/tag/louisiana), [transportation](/tag/transportation), [new-orleans](/tag/new-orleans), [stormwater](/tag/stormwater), [potholes](/tag/potholes), [roads](/tag/roads), [stem](/tag/stem), [zoom:6](/tag/zoom:6), [asphalt](/tag/asphalt), [lat:30.057693](/tag/lat:30.057693), [lon:-90.572898](/tag/lon:-90.572898), [lat:30.050076](/tag/lat:30.050076), [lon:-90.571289](/tag/lon:-90.571289)
 
 ----
 

@@ -6,16 +6,14 @@ author: MadTinker
 path: /notes/MadTinker/12-26-2020/anyone-working-on-meteor-detection-tracking.md
 nid: 25336
 uid: 461206
-
 cids: 27873,27876,27921,27958,27979,28012,28075,28076,28078,28081,28082,28083,28084,28101,28102,28105,28106,28107,28108,28112,28133,28363
-
 ---
 
 # Anyone working on Meteor Detection/Tracking?
 
-by [MadTinker](../../../profile/MadTinker) | December 26, 2020 23:51
+by [MadTinker](/profile/MadTinker) | December 26, 2020 23:51
 
-December 26, 2020 23:51 | Tags: [question:general](../tag/question:general), [general](../tag/general)
+December 26, 2020 23:51 | Tags: [question:general](/tag/question:general), [general](/tag/general)
 
 ----
 

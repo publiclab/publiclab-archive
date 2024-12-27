@@ -6,14 +6,14 @@ author: warren
 path: /wiki/eval.md
 nid: 17904
 uid: 1
-
+cids: 
 ---
 
 # eval
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-December 14, 2018 20:37 | Tags: [redirect:evaluation](../tag/redirect:evaluation)
+December 14, 2018 20:37 | Tags: [redirect:evaluation](/tag/redirect:evaluation)
 
 ----
 

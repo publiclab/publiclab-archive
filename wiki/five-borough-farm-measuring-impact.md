@@ -6,16 +6,16 @@ author: mollydanielsson
 path: /wiki/five-borough-farm-measuring-impact.md
 nid: 11588
 uid: 1259
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/991/original/DOE-Fund-stitch1_small-original-NDVI.jpg)
 
 # Five Borough Farm: Measuring impact
 
-by [mollydanielsson](../profile/mollydanielsson)
+by [mollydanielsson](/profile/mollydanielsson)
 
-February 14, 2015 23:36 | Tags: [five-borough-farm](../tag/five-borough-farm), [community-garden](../tag/community-garden), [grassrootsmappingforum](../tag/grassrootsmappingforum), [food](../tag/food), [style:fancy](../tag/style:fancy), [with:liz](../tag/with:liz), [gmf-4](../tag/gmf-4), [category:weigh-produce](../tag/category:weigh-produce), [category:weigh](../tag/category:weigh)
+February 14, 2015 23:36 | Tags: [five-borough-farm](/tag/five-borough-farm), [community-garden](/tag/community-garden), [grassrootsmappingforum](/tag/grassrootsmappingforum), [food](/tag/food), [style:fancy](/tag/style:fancy), [with:liz](/tag/with:liz), [gmf-4](/tag/gmf-4), [category:weigh-produce](/tag/category:weigh-produce), [category:weigh](/tag/category:weigh)
 
 ----
 

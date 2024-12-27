@@ -6,14 +6,14 @@ author: Shannon
 path: /wiki/google-earth-publishes-community-created-maps-public-lab-archive.md
 nid: 1696
 uid: 9
-
+cids: 
 ---
 
 # Google Earth Publishes Community-created Maps from the Public Lab Archive
 
-by [Shannon](../profile/Shannon)
+by [Shannon](/profile/Shannon)
 
-April 18, 2012 14:03 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
+April 18, 2012 14:03 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping)
 
 ----
 

@@ -6,16 +6,14 @@ author: nshapiro
 path: /notes/nshapiro/10-02-2018/examples-of-fenceline-community-emissions-and-spill-reporting-services.md
 nid: 17208
 uid: 380298
-
 cids: 20773,23242,23252,23253,23254
-
 ---
 
 # Examples of fenceline community emissions and spill reporting services?
 
-by [nshapiro](../../../profile/nshapiro) | October 02, 2018 13:17
+by [nshapiro](/profile/nshapiro) | October 02, 2018 13:17
 
-October 02, 2018 13:17 | Tags: [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [answered](../tag/answered), [question:general](../tag/question:general)
+October 02, 2018 13:17 | Tags: [air-quality](/tag/air-quality), [water-quality](/tag/water-quality), [answered](/tag/answered), [question:general](/tag/question:general)
 
 ----
 

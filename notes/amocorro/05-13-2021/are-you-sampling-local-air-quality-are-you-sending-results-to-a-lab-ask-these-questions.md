@@ -6,16 +6,14 @@ author: amocorro
 path: /notes/amocorro/05-13-2021/are-you-sampling-local-air-quality-are-you-sending-results-to-a-lab-ask-these-questions.md
 nid: 26574
 uid: 700923
-
 cids: 28766
-
 ---
 
 # Are you sampling local air quality? Are you sending results to a lab? Ask these questions! 
 
-by [amocorro](../../../profile/amocorro) | May 13, 2021 17:04
+by [amocorro](/profile/amocorro) | May 13, 2021 17:04
 
-May 13, 2021 17:04 | Tags: [air-quality](../tag/air-quality), [with:sarasage](../tag/with:sarasage), [bucket-monitor](../tag/bucket-monitor), [air-lab-testing](../tag/air-lab-testing), [lab-results](../tag/lab-results), [question:vvamp](../tag/question:vvamp)
+May 13, 2021 17:04 | Tags: [air-quality](/tag/air-quality), [with:sarasage](/tag/with:sarasage), [bucket-monitor](/tag/bucket-monitor), [air-lab-testing](/tag/air-lab-testing), [lab-results](/tag/lab-results), [question:vvamp](/tag/question:vvamp)
 
 ----
 

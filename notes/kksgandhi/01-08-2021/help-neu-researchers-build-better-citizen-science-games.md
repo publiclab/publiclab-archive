@@ -6,16 +6,14 @@ author: kksgandhi
 path: /notes/kksgandhi/01-08-2021/help-neu-researchers-build-better-citizen-science-games.md
 nid: 25440
 uid: 735334
-
 cids: 27943,27944,27945,27946,27956
-
 ---
 
 # Help NEU researchers build better Citizen Science games [CLOSED]
 
-by [kksgandhi](../../../profile/kksgandhi) | January 08, 2021 23:01
+by [kksgandhi](/profile/kksgandhi) | January 08, 2021 23:01
 
-January 08, 2021 23:01 | Tags: [citizen-science](../tag/citizen-science), [event](../tag/event), [northeastern-university](../tag/northeastern-university), [app](../tag/app), [games](../tag/games), [research-study](../tag/research-study), [cartoscope](../tag/cartoscope), [first-time-poster](../tag/first-time-poster)
+January 08, 2021 23:01 | Tags: [citizen-science](/tag/citizen-science), [event](/tag/event), [northeastern-university](/tag/northeastern-university), [app](/tag/app), [games](/tag/games), [research-study](/tag/research-study), [cartoscope](/tag/cartoscope), [first-time-poster](/tag/first-time-poster)
 
 ----
 

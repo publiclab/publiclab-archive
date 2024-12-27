@@ -6,18 +6,16 @@ author: jenjimah
 path: /notes/jenjimah/06-02-2019/horticultural-spectrometer-assembly-ii.md
 nid: 19599
 uid: 505738
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/672/original/20190530_173730.jpg)
 
 # Horticultural Spectrometer - Assembly II
 
-by [jenjimah](../../../profile/jenjimah) | June 02, 2019 18:37
+by [jenjimah](/profile/jenjimah) | June 02, 2019 18:37
 
-June 02, 2019 18:37 | Tags: [spectrometer](../tag/spectrometer), [slit](../tag/slit), [blade](../tag/blade), [razor](../tag/razor)
+June 02, 2019 18:37 | Tags: [spectrometer](/tag/spectrometer), [slit](/tag/slit), [blade](/tag/blade), [razor](/tag/razor)
 
 ----
 

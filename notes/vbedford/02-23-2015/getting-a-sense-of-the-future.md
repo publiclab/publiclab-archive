@@ -6,18 +6,16 @@ author: vbedford
 path: /notes/vbedford/02-23-2015/getting-a-sense-of-the-future.md
 nid: 11623
 uid: 434423
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/060/original/Screen-Shot-2013-04-16-at-6.04.16-PM.png)
 
 # Getting a Sense of the Future 
 
-by [vbedford](../../../profile/vbedford) | February 23, 2015 17:50
+by [vbedford](/profile/vbedford) | February 23, 2015 17:50
 
-February 23, 2015 17:50 | Tags: [sensors](../tag/sensors), [data](../tag/data), [journalism](../tag/journalism), [sensor](../tag/sensor), [sensor-journalism](../tag/sensor-journalism)
+February 23, 2015 17:50 | Tags: [sensors](/tag/sensors), [data](/tag/data), [journalism](/tag/journalism), [sensor](/tag/sensor), [sensor-journalism](/tag/sensor-journalism)
 
 ----
 

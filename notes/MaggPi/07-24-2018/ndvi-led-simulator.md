@@ -6,18 +6,16 @@ author: MaggPi
 path: /notes/MaggPi/07-24-2018/ndvi-led-simulator.md
 nid: 16777
 uid: 501996
-
 cids: 20214,20234,20898
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/859/original/ndvi2.png)
 
 # NDVI LED Simulator
 
-by [MaggPi](../../../profile/MaggPi) | July 24, 2018 05:58
+by [MaggPi](/profile/MaggPi) | July 24, 2018 05:58
 
-July 24, 2018 05:58 | Tags: [raspberry-pi](../tag/raspberry-pi), [colormap](../tag/colormap), [ndvi-calibrate](../tag/ndvi-calibrate), [raspberry-pi-cameras](../tag/raspberry-pi-cameras), [question:image-sequencer](../tag/question:image-sequencer), [noir](../tag/noir)
+July 24, 2018 05:58 | Tags: [raspberry-pi](/tag/raspberry-pi), [colormap](/tag/colormap), [ndvi-calibrate](/tag/ndvi-calibrate), [raspberry-pi-cameras](/tag/raspberry-pi-cameras), [question:image-sequencer](/tag/question:image-sequencer), [noir](/tag/noir)
 
 ----
 

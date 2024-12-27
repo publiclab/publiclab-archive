@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/09-14-2013/finding-neon.md
 nid: 9326
 uid: 554
-
 cids: 6920,6921,6925
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/555/original/Taylor-neonCc.jpg)
 
 # Finding Neon
 
-by [cfastie](../../../profile/cfastie) | September 14, 2013 00:38
+by [cfastie](/profile/cfastie) | September 14, 2013 00:38
 
-September 14, 2013 00:38 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [ebert](../tag/ebert), [gsoc](../tag/gsoc), [gsoc-2013](../tag/gsoc-2013)
+September 14, 2013 00:38 | Tags: [spectrometer](/tag/spectrometer), [spectralworkbench](/tag/spectralworkbench), [ebert](/tag/ebert), [gsoc](/tag/gsoc), [gsoc-2013](/tag/gsoc-2013)
 
 ----
 

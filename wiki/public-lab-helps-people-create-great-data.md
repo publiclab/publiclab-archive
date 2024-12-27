@@ -6,14 +6,14 @@ author: mollydanielsson
 path: /wiki/public-lab-helps-people-create-great-data.md
 nid: 5613
 uid: 1259
-
+cids: 
 ---
 
 # Public Lab helps people create great Data
 
-by [liz](../profile/liz), [mollydanielsson](../profile/mollydanielsson)
+by [liz](/profile/liz), [mollydanielsson](/profile/mollydanielsson)
 
-January 16, 2013 20:56 | Tags: [website](../tag/website), [plots2](../tag/plots2), [wintercamp](../tag/wintercamp)
+January 16, 2013 20:56 | Tags: [website](/tag/website), [plots2](/tag/plots2), [wintercamp](/tag/wintercamp)
 
 ----
 

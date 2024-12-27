@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/12-13-2011/grassroots-mapping-butte-goes-analog.md
 nid: 629
 uid: 4
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/6084854686_c840afc536_b.jpeg)
 
 # Grassroots Mapping in Butte Goes Analog
 
-by [mathew](../../../profile/mathew) | December 13, 2011 05:00
+by [mathew](/profile/mathew) | December 13, 2011 05:00
 
-December 13, 2011 05:00 | Tags: [annotated-maps](../tag/annotated-maps), [idealab](../tag/idealab), [land-use](../tag/land-use), [zoning](../tag/zoning), [centerville](../tag/centerville), [mountain-west](../tag/mountain-west), [montana](../tag/montana), [reclamation](../tag/reclamation)
+December 13, 2011 05:00 | Tags: [annotated-maps](/tag/annotated-maps), [idealab](/tag/idealab), [land-use](/tag/land-use), [zoning](/tag/zoning), [centerville](/tag/centerville), [mountain-west](/tag/mountain-west), [montana](/tag/montana), [reclamation](/tag/reclamation)
 
 ----
 

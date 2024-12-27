@@ -6,16 +6,14 @@ author: Bronwen
 path: /notes/Bronwen/03-04-2019/diy-salinity-measurements-with-coqui-and-or-multimeter.md
 nid: 18462
 uid: 237313
-
 cids: 22049,22050,23323
-
 ---
 
 # DIY Salinity Measurements with Coqui and/or Multimeter?
 
-by [Bronwen](../../../profile/Bronwen) | March 04, 2019 16:47
+by [Bronwen](/profile/Bronwen) | March 04, 2019 16:47
 
-March 04, 2019 16:47 | Tags: [answered](../tag/answered), [question:question](../tag/question:question), [question:coqui](../tag/question:coqui), [question:salinity](../tag/question:salinity)
+March 04, 2019 16:47 | Tags: [answered](/tag/answered), [question:question](/tag/question:question), [question:coqui](/tag/question:coqui), [question:salinity](/tag/question:salinity)
 
 ----
 

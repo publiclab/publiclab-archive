@@ -6,14 +6,14 @@ author: liz
 path: /wiki/south-africa.md
 nid: 11158
 uid: 7
-
+cids: 
 ---
 
 # south-africa
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-September 18, 2014 14:00 | Tags: [africa](../tag/africa)
+September 18, 2014 14:00 | Tags: [africa](/tag/africa)
 
 ----
 

@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/5-18-2012/making-balloon-making-jig.md
 nid: 2135
 uid: 4
-
 cids: 761,771
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Foilballoon03.09.JPG)
 
 # Making a balloon-making jig
 
-by [mathew](../../../profile/mathew) | May 18, 2012 19:33
+by [mathew](/profile/mathew) | May 18, 2012 19:33
 
-May 18, 2012 19:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-balloon-hybrid](../tag/kite-balloon-hybrid), [diy-balloon](../tag/diy-balloon)
+May 18, 2012 19:33 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-balloon-hybrid](/tag/kite-balloon-hybrid), [diy-balloon](/tag/diy-balloon)
 
 ----
 

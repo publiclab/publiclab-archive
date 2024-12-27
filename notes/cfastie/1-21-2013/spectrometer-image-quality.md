@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/1-21-2013/spectrometer-image-quality.md
 nid: 5663
 uid: 554
-
 cids: 3158,3184,3185,3193,3194,3195,3215,3249
-
 ---
 
 ![](https://publiclab.org/sites/default/files/D40CFLCUSG.jpg)
 
 # Spectral image quality
 
-by [cfastie](../../../profile/cfastie) | January 21, 2013 16:30
+by [cfastie](/profile/cfastie) | January 21, 2013 16:30
 
-January 21, 2013 16:30 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer), [slit-width](../tag/slit-width)
+January 21, 2013 16:30 | Tags: [spectrometer](/tag/spectrometer), [vermont](/tag/vermont), [fold-up-mini-spectrometer](/tag/fold-up-mini-spectrometer), [slit-width](/tag/slit-width)
 
 ----
 

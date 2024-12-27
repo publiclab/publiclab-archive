@@ -6,14 +6,14 @@ author: warren
 path: /wiki/values-statement.md
 nid: 9408
 uid: 1
-
+cids: 
 ---
 
 # Values statement
 
-by [liz](../profile/liz), [warren](../profile/warren)
+by [liz](/profile/liz), [warren](/profile/warren)
 
-October 06, 2013 18:08 | Tags: [community](../tag/community), [organizers](../tag/organizers), [chapters](../tag/chapters), [values-statement](../tag/values-statement)
+October 06, 2013 18:08 | Tags: [community](/tag/community), [organizers](/tag/organizers), [chapters](/tag/chapters), [values-statement](/tag/values-statement)
 
 ----
 

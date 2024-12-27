@@ -6,18 +6,16 @@ author: pablo
 path: /notes/pablo/09-23-2015/taller-de-fotografia-aerea-en-madrid.md
 nid: 12237
 uid: 160
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/672/original/01_IMAG0291.jpg)
 
 # Taller de fotografía aérea en Madrid
 
-by [pablo](../../../profile/pablo) | September 23, 2015 18:02
+by [pablo](/profile/pablo) | September 23, 2015 18:02
 
-September 23, 2015 18:02 | Tags: [balloon-mapping](../tag/balloon-mapping), [spain](../tag/spain), [workshop](../tag/workshop), [madrid](../tag/madrid), [event](../tag/event), [lang:es](../tag/lang:es), [eu](../tag/eu), [replication:14022](../tag/replication:14022)
+September 23, 2015 18:02 | Tags: [balloon-mapping](/tag/balloon-mapping), [spain](/tag/spain), [workshop](/tag/workshop), [madrid](/tag/madrid), [event](/tag/event), [lang:es](/tag/lang:es), [eu](/tag/eu), [replication:14022](/tag/replication:14022)
 
 ----
 

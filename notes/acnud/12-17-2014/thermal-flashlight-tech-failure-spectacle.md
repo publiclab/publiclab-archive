@@ -6,18 +6,16 @@ author: acnud
 path: /notes/acnud/12-17-2014/thermal-flashlight-tech-failure-spectacle.md
 nid: 11479
 uid: 432851
-
 cids: 10971,10975,10976,10977
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/485/original/holyrudeactual.jpg)
 
 # Thermal Flashlight: Tech Failure Spectacle
 
-by [acnud](../../../profile/acnud) | December 17, 2014 23:27
+by [acnud](/profile/acnud) | December 17, 2014 23:27
 
-December 17, 2014 23:27 | Tags: [thermal-flashlight](../tag/thermal-flashlight), [thermal-pollution](../tag/thermal-pollution), [thermal-plume](../tag/thermal-plume), [sociology-4107](../tag/sociology-4107), [newfoundland](../tag/newfoundland), [holyrood](../tag/holyrood), [response:11466](../tag/response:11466), [replication:625](../tag/replication:625)
+December 17, 2014 23:27 | Tags: [thermal-flashlight](/tag/thermal-flashlight), [thermal-pollution](/tag/thermal-pollution), [thermal-plume](/tag/thermal-plume), [sociology-4107](/tag/sociology-4107), [newfoundland](/tag/newfoundland), [holyrood](/tag/holyrood), [response:11466](/tag/response:11466), [replication:625](/tag/replication:625)
 
 ----
 

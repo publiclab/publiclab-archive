@@ -6,18 +6,16 @@ author: denissebn_06
 path: /notes/denissebn_06/05-28-2021/personal-introduction-post-de-presentacion.md
 nid: 26733
 uid: 749988
-
 cids: 28854
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/986/original/DSCN4576_1_.JPG)
 
 # Personal Introduction / Post de Presentación 
 
-by [denissebn_06](../../../profile/denissebn_06) | May 28, 2021 20:23
+by [denissebn_06](/profile/denissebn_06) | May 28, 2021 20:23
 
-May 28, 2021 20:23 | Tags: [air-quality](../tag/air-quality), [water](../tag/water), [lang:es](../tag/lang:es), [zoom:14](../tag/zoom:14), [VVAMP](../tag/VVAMP), [lat:13.72](../tag/lat:13.72), [lon:-89.22](../tag/lon:-89.22)
+May 28, 2021 20:23 | Tags: [air-quality](/tag/air-quality), [water](/tag/water), [lang:es](/tag/lang:es), [zoom:14](/tag/zoom:14), [VVAMP](/tag/VVAMP), [lat:13.72](/tag/lat:13.72), [lon:-89.22](/tag/lon:-89.22)
 
 ----
 

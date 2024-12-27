@@ -6,18 +6,16 @@ author: pipix51
 path: /notes/pipix51/12-27-2016/transifex-internationalisation-of-publiclab-org.md
 nid: 13808
 uid: 500694
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/143/original/Screenshot_%2837%29.png)
 
 # Transifex Internationalisation of Publiclab.org
 
-by [pipix51](../../../profile/pipix51) | December 27, 2016 14:38
+by [pipix51](/profile/pipix51) | December 27, 2016 14:38
 
-December 27, 2016 14:38 | Tags: [website](../tag/website), [activity](../tag/activity), [localization](../tag/localization), [translation](../tag/translation), [language](../tag/language), [gcin](../tag/gcin), [gcin-2016](../tag/gcin-2016), [replication:13651](../tag/replication:13651), [transifex](../tag/transifex)
+December 27, 2016 14:38 | Tags: [website](/tag/website), [activity](/tag/activity), [localization](/tag/localization), [translation](/tag/translation), [language](/tag/language), [gcin](/tag/gcin), [gcin-2016](/tag/gcin-2016), [replication:13651](/tag/replication:13651), [transifex](/tag/transifex)
 
 ----
 

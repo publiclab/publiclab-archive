@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/07-06-2016/public-lab-code-of-conduct.md
 nid: 13263
 uid: 9
-
 cids: 14976,14998,30244
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/884/original/IMG_1941.jpg)
 
 # Public Lab Code of Conduct
 
-by [Shannon](../../../profile/Shannon) | July 06, 2016 19:01
+by [Shannon](/profile/Shannon) | July 06, 2016 19:01
 
-July 06, 2016 19:01 | Tags: [blog](../tag/blog), [with:thegreencommunitygarden](../tag/with:thegreencommunitygarden), [with:liz](../tag/with:liz), [with:nshapiro](../tag/with:nshapiro), [with:klie](../tag/with:klie)
+July 06, 2016 19:01 | Tags: [blog](/tag/blog), [with:thegreencommunitygarden](/tag/with:thegreencommunitygarden), [with:liz](/tag/with:liz), [with:nshapiro](/tag/with:nshapiro), [with:klie](/tag/with:klie)
 
 ----
 

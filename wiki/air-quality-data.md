@@ -6,16 +6,16 @@ author: bhamster
 path: /wiki/air-quality-data.md
 nid: 28246
 uid: 664477
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/264/original/Ways_to_Track_Air_Quality-3_copy.png)
 
 # Air Quality Data
 
-by [bhamster](../profile/bhamster)
+by [bhamster](/profile/bhamster)
 
-November 23, 2021 19:19 | Tags: [environmental-data](../tag/environmental-data), [data-visualization](../tag/data-visualization), [parent:air-quality](../tag/parent:air-quality), [presenting-data](../tag/presenting-data), [air-quality-data](../tag/air-quality-data), [data-viz](../tag/data-viz), [parent:presenting-data](../tag/parent:presenting-data)
+November 23, 2021 19:19 | Tags: [environmental-data](/tag/environmental-data), [data-visualization](/tag/data-visualization), [parent:air-quality](/tag/parent:air-quality), [presenting-data](/tag/presenting-data), [air-quality-data](/tag/air-quality-data), [data-viz](/tag/data-viz), [parent:presenting-data](/tag/parent:presenting-data)
 
 ----
 
@@ -63,7 +63,7 @@ _Lead image: Infographic on air quality data by @renee. See full image below._
 
 Questions tagged with `question:air-quality-data` will appear here
 
-[air-quality-data](../../tag/question:air-quality-data)
+[air-quality-data](/tag/question:air-quality-data)
 
 <br>
 
@@ -73,7 +73,7 @@ Questions tagged with `question:air-quality-data` will appear here
 
 Activity posts tagged with `activity:air-quality-data` will appear here
 
-[activity:air-quality-data](../../tag/activity:air-quality-data)
+[activity:air-quality-data](/tag/activity:air-quality-data)
 
 <br>
 
@@ -84,7 +84,7 @@ Activity posts tagged with `activity:air-quality-data` will appear here
 
 Research notes tagged with `getting-started-air-quality-data` will appear here
 
-[getting-started-air-quality-data](../../tag/getting-started-air-quality-data)
+[getting-started-air-quality-data](/tag/getting-started-air-quality-data)
 
 <br>
 
@@ -196,7 +196,7 @@ _Image: Illustrations from the [Openscapes](https://www.openscapes.org/) blog â€
 
 Research notes with the tag `data-storytelling` will appear here
 
-[grid:data-storytelling](../../tag/grid:data-storytelling)
+[grid:data-storytelling](/tag/grid:data-storytelling)
 
 <br>
 
@@ -244,7 +244,7 @@ Graphing tools built right into spreadsheet programs (like Google Sheets, Excel,
 
 ### Tools for making visualizations and other media
 
-[grid:data-visualization-tool](../../tag/grid:data-visualization-tool)
+[grid:data-visualization-tool](/tag/grid:data-visualization-tool)
 
 <br>
 

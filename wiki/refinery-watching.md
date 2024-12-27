@@ -6,16 +6,16 @@ author: danbeavers
 path: /wiki/refinery-watching.md
 nid: 9827
 uid: 51
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/323/original/Shell_Norco_flare_1_.jpg)
 
 # Refinery Watching
 
-by [warren](../profile/warren), [danbeavers](../profile/danbeavers)
+by [warren](/profile/warren), [danbeavers](/profile/danbeavers)
 
-November 25, 2013 21:51 | Tags: [spectrometer](../tag/spectrometer), [particulate-sensing](../tag/particulate-sensing), [industrial-monitoring](../tag/industrial-monitoring), [flame-spectroscopy](../tag/flame-spectroscopy), [photo-monitoring](../tag/photo-monitoring), [refinery](../tag/refinery), [air-quality](../tag/air-quality), [flare](../tag/flare), [tool](../tag/tool), [ioby](../tag/ioby), [industry](../tag/industry), [method](../tag/method), [chemicals](../tag/chemicals), [oil-and-gas](../tag/oil-and-gas), [parent:photo-monitoring](../tag/parent:photo-monitoring)
+November 25, 2013 21:51 | Tags: [spectrometer](/tag/spectrometer), [particulate-sensing](/tag/particulate-sensing), [industrial-monitoring](/tag/industrial-monitoring), [flame-spectroscopy](/tag/flame-spectroscopy), [photo-monitoring](/tag/photo-monitoring), [refinery](/tag/refinery), [air-quality](/tag/air-quality), [flare](/tag/flare), [tool](/tag/tool), [ioby](/tag/ioby), [industry](/tag/industry), [method](/tag/method), [chemicals](/tag/chemicals), [oil-and-gas](/tag/oil-and-gas), [parent:photo-monitoring](/tag/parent:photo-monitoring)
 
 ----
 

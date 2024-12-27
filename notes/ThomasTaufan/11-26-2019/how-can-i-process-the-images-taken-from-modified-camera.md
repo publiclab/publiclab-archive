@@ -6,16 +6,14 @@ author: ThomasTaufan
 path: /notes/ThomasTaufan/11-26-2019/how-can-i-process-the-images-taken-from-modified-camera.md
 nid: 21587
 uid: 640373
-
 cids: 25937,25946
-
 ---
 
 # How can I process the images taken from modified camera?
 
-by [ThomasTaufan](../../../profile/ThomasTaufan) | November 26, 2019 08:31
+by [ThomasTaufan](/profile/ThomasTaufan) | November 26, 2019 08:31
 
-November 26, 2019 08:31 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [webcam](../tag/webcam), [imagery](../tag/imagery), [aerial](../tag/aerial), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
+November 26, 2019 08:31 | Tags: [ndvi](/tag/ndvi), [infrared](/tag/infrared), [webcam](/tag/webcam), [imagery](/tag/imagery), [aerial](/tag/aerial), [question:general](/tag/question:general), [general](/tag/general), [first-time-poster](/tag/first-time-poster)
 
 ----
 

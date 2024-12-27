@@ -6,18 +6,16 @@ author: Morgan
 path: /notes/Morgan/01-05-2017/size-of-aerial-imagery-from-balloons-and-kites.md
 nid: 13839
 uid: 501320
-
 cids: 16049,16057,22396,22400,22401
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/214/original/20160903_143014-2.jpg)
 
 # Size of aerial imagery from balloons and kites
 
-by [Morgan](../../../profile/Morgan) | January 05, 2017 17:32
+by [Morgan](/profile/Morgan) | January 05, 2017 17:32
 
-January 05, 2017 17:32 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [citizen-science](../tag/citizen-science), [imagery](../tag/imagery), [question:balloon-mapping](../tag/question:balloon-mapping), [question:kite-mapping](../tag/question:kite-mapping), [first-time-poster](../tag/first-time-poster)
+January 05, 2017 17:32 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [citizen-science](/tag/citizen-science), [imagery](/tag/imagery), [question:balloon-mapping](/tag/question:balloon-mapping), [question:kite-mapping](/tag/question:kite-mapping), [first-time-poster](/tag/first-time-poster)
 
 ----
 

@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/08-08-2014/titan-2-ir-flight.md
 nid: 11021
 uid: 554
-
 cids: 9840,9843
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/128/original/TitanPetri-491-50.jpg)
 
 # Titan 2 IR flight
 
-by [cfastie](../../../profile/cfastie) | August 08, 2014 04:52
+by [cfastie](/profile/cfastie) | August 08, 2014 04:52
 
-August 08, 2014 04:52 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infrared](../tag/infrared), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [infragram](../tag/infragram), [3d-printing](../tag/3d-printing), [makerbot](../tag/makerbot), [northeast](../tag/northeast), [titan](../tag/titan), [response:10602](../tag/response:10602), [category:field-test](../tag/category:field-test), [activity:photo-rig](../tag/activity:photo-rig)
+August 08, 2014 04:52 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [ndvi](/tag/ndvi), [vermont](/tag/vermont), [infrared](/tag/infrared), [kap](/tag/kap), [photo-rig](/tag/photo-rig), [infragram](/tag/infragram), [3d-printing](/tag/3d-printing), [makerbot](/tag/makerbot), [northeast](/tag/northeast), [titan](/tag/titan), [response:10602](/tag/response:10602), [category:field-test](/tag/category:field-test), [activity:photo-rig](/tag/activity:photo-rig)
 
 ----
 

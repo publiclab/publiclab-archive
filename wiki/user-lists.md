@@ -6,12 +6,12 @@ author: warren
 path: /wiki/user-lists.md
 nid: 720
 uid: 1
-
+cids: 
 ---
 
 # User lists
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 January 26, 2012 15:33 | Tags: 
 

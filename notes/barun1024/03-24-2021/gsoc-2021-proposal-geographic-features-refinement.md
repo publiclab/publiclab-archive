@@ -6,18 +6,16 @@ author: barun1024
 path: /notes/barun1024/03-24-2021/gsoc-2021-proposal-geographic-features-refinement.md
 nid: 26021
 uid: 647185
-
 cids: 28404,28405,28438,28445,28480,28489,28490,28492,28499,28505,28507,28549,28607,28706
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/037/original/Geographic_features_refinement.png)
 
 # GSoC 2021 Proposal: Geographic Features Refinement
 
-by [barun1024](../../../profile/barun1024) | March 24, 2021 22:28
+by [barun1024](/profile/barun1024) | March 24, 2021 22:28
 
-March 24, 2021 22:28 | Tags: [software](../tag/software), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [gsoc-2021](../tag/gsoc-2021), [gsoc-2021-proposals](../tag/gsoc-2021-proposals)
+March 24, 2021 22:28 | Tags: [software](/tag/software), [soc](/tag/soc), [first-time-poster](/tag/first-time-poster), [gsoc-2021](/tag/gsoc-2021), [gsoc-2021-proposals](/tag/gsoc-2021-proposals)
 
 ----
 

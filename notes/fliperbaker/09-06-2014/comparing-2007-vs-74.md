@@ -6,18 +6,16 @@ author: fliperbaker
 path: /notes/fliperbaker/09-06-2014/comparing-2007-vs-74.md
 nid: 11114
 uid: 421358
-
 cids: 10216,10217
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/648/original/filter_comp_2.PNG)
 
 # Comparing #2007 vs #74
 
-by [fliperbaker](../../../profile/fliperbaker) | September 06, 2014 23:36
+by [fliperbaker](/profile/fliperbaker) | September 06, 2014 23:36
 
-September 06, 2014 23:36 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [filter](../tag/filter), [infragram](../tag/infragram), [2007](../tag/2007), [74](../tag/74), [filter_compare](../tag/filter_compare), [first-time-poster](../tag/first-time-poster)
+September 06, 2014 23:36 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [filter](/tag/filter), [infragram](/tag/infragram), [2007](/tag/2007), [74](/tag/74), [filter_compare](/tag/filter_compare), [first-time-poster](/tag/first-time-poster)
 
 ----
 

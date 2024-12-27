@@ -6,18 +6,16 @@ author: MadTinker
 path: /notes/MadTinker/03-09-2018/water-quality-monitoring-community-based-science.md
 nid: 15905
 uid: 461206
-
 cids: 18826,23939
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/932/original/IMG_8373.jpg)
 
 # Water Quality Monitoring: Community-based Science
 
-by [MadTinker](../../../profile/MadTinker) | March 09, 2018 19:30
+by [MadTinker](/profile/MadTinker) | March 09, 2018 19:30
 
-March 09, 2018 19:30 | Tags: [education](../tag/education), [presentations](../tag/presentations), [water-quality-monitoring](../tag/water-quality-monitoring), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [water-sensors](../tag/water-sensors), [stem](../tag/stem)
+March 09, 2018 19:30 | Tags: [education](/tag/education), [presentations](/tag/presentations), [water-quality-monitoring](/tag/water-quality-monitoring), [sensors](/tag/sensors), [water-quality](/tag/water-quality), [water-sensors](/tag/water-sensors), [stem](/tag/stem)
 
 ----
 

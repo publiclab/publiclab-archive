@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/3-24-2012/grassroots-ndvi-time-series.md
 nid: 1541
 uid: 554
-
 cids: 5216,5217
-
 ---
 
 ![](https://publiclab.org/sites/default/files/KentuckyNDVI.jpg)
 
 # Grassroots NDVI - time series
 
-by [cfastie](../../../profile/cfastie) | March 25, 2012 03:43
+by [cfastie](/profile/cfastie) | March 25, 2012 03:43
 
-March 25, 2012 03:43 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [timeseries](../tag/timeseries)
+March 25, 2012 03:43 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [ndvi](/tag/ndvi), [timeseries](/tag/timeseries)
 
 ----
 

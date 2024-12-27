@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/8-29-2012/refractometer-hands.md
 nid: 3551
 uid: 1
-
 cids: 1227,1235,1245
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0591.JPG)
 
 # Refractometer: hands on
 
-by [warren](../../../profile/warren) | August 29, 2012 04:13
+by [warren](/profile/warren) | August 29, 2012 04:13
 
-August 29, 2012 04:13 | Tags: [refractometer](../tag/refractometer), [brix](../tag/brix)
+August 29, 2012 04:13 | Tags: [refractometer](/tag/refractometer), [brix](/tag/brix)
 
 ----
 

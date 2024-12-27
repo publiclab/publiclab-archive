@@ -6,18 +6,16 @@ author: stoft
 path: /notes/stoft/10-23-2016/high-rez-webcam-spectrometers.md
 nid: 13641
 uid: 54025
-
 cids: 15721,15728,15730,15732,15819,15825,18215,18218,27686
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/549/original/Spectrometers.jpg)
 
 # High-Rez WebCam Spectrometers
 
-by [stoft](../../../profile/stoft) | October 23, 2016 07:16
+by [stoft](/profile/stoft) | October 23, 2016 07:16
 
-October 23, 2016 07:16 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [desktop-spectrometer](../tag/desktop-spectrometer), [diy-spectrometer](../tag/diy-spectrometer), [resolution](../tag/resolution)
+October 23, 2016 07:16 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [desktop-spectrometer](/tag/desktop-spectrometer), [diy-spectrometer](/tag/diy-spectrometer), [resolution](/tag/resolution)
 
 ----
 

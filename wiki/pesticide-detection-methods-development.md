@@ -6,16 +6,16 @@ author: silverhammer
 path: /wiki/pesticide-detection-methods-development.md
 nid: 10015
 uid: 420530
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/829/original/Screen_Shot_2014-02-05_at_9.25.06_PM.png)
 
 # Pesticide Detection Methods Development
 
-by [silverhammer](../profile/silverhammer)
+by [silverhammer](/profile/silverhammer)
 
-February 06, 2014 17:10 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [pesticides](../tag/pesticides), [quantitative](../tag/quantitative), [extraction](../tag/extraction), [reagents](../tag/reagents), [solvent](../tag/solvent)
+February 06, 2014 17:10 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [pesticides](/tag/pesticides), [quantitative](/tag/quantitative), [extraction](/tag/extraction), [reagents](/tag/reagents), [solvent](/tag/solvent)
 
 ----
 

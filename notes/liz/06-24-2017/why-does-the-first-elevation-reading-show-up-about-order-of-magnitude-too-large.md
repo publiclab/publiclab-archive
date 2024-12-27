@@ -6,16 +6,14 @@ author: liz
 path: /notes/liz/06-24-2017/why-does-the-first-elevation-reading-show-up-about-order-of-magnitude-too-large.md
 nid: 14580
 uid: 7
-
 cids: 22501,22502
-
 ---
 
 # Why does the first elevation reading show up about order of magnitude too large?
 
-by [liz](../../../profile/liz) | June 24, 2017 19:34
+by [liz](/profile/liz) | June 24, 2017 19:34
 
-June 24, 2017 19:34 | Tags: [answered](../tag/answered), [nano-data-logger](../tag/nano-data-logger), [question:nano-data-logger](../tag/question:nano-data-logger)
+June 24, 2017 19:34 | Tags: [answered](/tag/answered), [nano-data-logger](/tag/nano-data-logger), [question:nano-data-logger](/tag/question:nano-data-logger)
 
 ----
 

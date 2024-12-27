@@ -6,16 +6,14 @@ author: patcoyle
 path: /notes/patcoyle/2-23-2013/juice-bottle-bottom-dual-camera-rig.md
 nid: 6108
 uid: 77
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/P1070408.JPG)
 
 # prototype juice bottle bottom dual camera rig
 
-by [patcoyle](../../../profile/patcoyle) | February 24, 2013 03:05
+by [patcoyle](/profile/patcoyle) | February 24, 2013 03:05
 
 February 24, 2013 03:05 | Tags: 
 

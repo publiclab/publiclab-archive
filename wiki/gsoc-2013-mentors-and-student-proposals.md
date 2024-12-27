@@ -6,14 +6,14 @@ author: gonzoearth
 path: /wiki/gsoc-2013-mentors-and-student-proposals.md
 nid: 7225
 uid: 12
-
+cids: 
 ---
 
 # GSOC 2013 Mentors and Student Proposals
 
-by [dhenrynola](../profile/dhenrynola), [warren](../profile/warren), [SkyHigh](../profile/SkyHigh), [costin.carabas](../profile/costin.carabas), [qtstc](../profile/qtstc), [gonzoearth](../profile/gonzoearth)
+by [dhenrynola](/profile/dhenrynola), [warren](/profile/warren), [SkyHigh](/profile/SkyHigh), [costin.carabas](/profile/costin.carabas), [qtstc](/profile/qtstc), [gonzoearth](/profile/gonzoearth)
 
-May 03, 2013 18:42 | Tags: [gsoc](../tag/gsoc), [gsoc-2013](../tag/gsoc-2013)
+May 03, 2013 18:42 | Tags: [gsoc](/tag/gsoc), [gsoc-2013](/tag/gsoc-2013)
 
 ----
 

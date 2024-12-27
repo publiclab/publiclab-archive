@@ -6,16 +6,14 @@ author: soheilkh
 path: /notes/soheilkh/12-14-2016/how-to-convert-the-csv-or-xml-files-to-spectrum-graph.md
 nid: 13781
 uid: 499133
-
 cids: 15972,16161,16165,22379,22381
-
 ---
 
 # How to convert the csv or xml files to spectrum graph? 
 
-by [soheilkh](../../../profile/soheilkh) | December 14, 2016 00:30
+by [soheilkh](/profile/soheilkh) | December 14, 2016 00:30
 
-December 14, 2016 00:30 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [export](../tag/export), [graph](../tag/graph), [question:general](../tag/question:general)
+December 14, 2016 00:30 | Tags: [spectrometer](/tag/spectrometer), [spectralworkbench](/tag/spectralworkbench), [export](/tag/export), [graph](/tag/graph), [question:general](/tag/question:general)
 
 ----
 

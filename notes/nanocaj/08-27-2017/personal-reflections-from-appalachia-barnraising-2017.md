@@ -6,18 +6,16 @@ author: nanocaj
 path: /notes/nanocaj/08-27-2017/personal-reflections-from-appalachia-barnraising-2017.md
 nid: 14793
 uid: 513316
-
 cids: 17343
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/447/original/IMG_1789.JPG)
 
 # Personal Reflections from Appalachia Barnraising 2017
 
-by [nanocaj](../../../profile/nanocaj) | August 27, 2017 02:41
+by [nanocaj](/profile/nanocaj) | August 27, 2017 02:41
 
-August 27, 2017 02:41 | Tags: [community](../tag/community), [barnraising](../tag/barnraising), [event](../tag/event), [blog](../tag/blog), [datalogger](../tag/datalogger), [appalachia](../tag/appalachia), [blog-submission](../tag/blog-submission), [appalachia-barnraising](../tag/appalachia-barnraising)
+August 27, 2017 02:41 | Tags: [community](/tag/community), [barnraising](/tag/barnraising), [event](/tag/event), [blog](/tag/blog), [datalogger](/tag/datalogger), [appalachia](/tag/appalachia), [blog-submission](/tag/blog-submission), [appalachia-barnraising](/tag/appalachia-barnraising)
 
 ----
 

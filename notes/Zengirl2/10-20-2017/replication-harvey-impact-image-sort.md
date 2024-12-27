@@ -6,18 +6,16 @@ author: zengirl2
 path: /notes/Zengirl2/10-20-2017/replication-harvey-impact-image-sort.md
 nid: 15073
 uid: 423961
-
 cids: 17551
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/988/original/HarveyLes.jpg)
 
 # Hurricane Harvey Impact Image Sort 
 
-by [zengirl2](../../../profile/zengirl2) | October 20, 2017 03:59
+by [zengirl2](/profile/zengirl2) | October 20, 2017 03:59
 
-October 20, 2017 03:59 | Tags: [oil](../tag/oil), [water-quality](../tag/water-quality), [pollution](../tag/pollution), [image-sorting](../tag/image-sorting), [hurricane](../tag/hurricane), [disaster-response](../tag/disaster-response), [harvey](../tag/harvey), [hurricanes](../tag/hurricanes), [replication:14916](../tag/replication:14916)
+October 20, 2017 03:59 | Tags: [oil](/tag/oil), [water-quality](/tag/water-quality), [pollution](/tag/pollution), [image-sorting](/tag/image-sorting), [hurricane](/tag/hurricane), [disaster-response](/tag/disaster-response), [harvey](/tag/harvey), [hurricanes](/tag/hurricanes), [replication:14916](/tag/replication:14916)
 
 ----
 

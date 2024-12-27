@@ -6,16 +6,14 @@ author: lelex76
 path: /notes/lelex76/09-15-2020/questions-about-signals.md
 nid: 24578
 uid: 720560
-
 cids: 27369,27371,27372,27448
-
 ---
 
 # questions about signals
 
-by [lelex76](../../../profile/lelex76) | September 15, 2020 00:02
+by [lelex76](/profile/lelex76) | September 15, 2020 00:02
 
-September 15, 2020 00:02 | Tags: [satellite-imagery](../tag/satellite-imagery), [radio](../tag/radio), [question:satellite-imagery](../tag/question:satellite-imagery), [open-weather](../tag/open-weather), [question:open-weather](../tag/question:open-weather)
+September 15, 2020 00:02 | Tags: [satellite-imagery](/tag/satellite-imagery), [radio](/tag/radio), [question:satellite-imagery](/tag/question:satellite-imagery), [open-weather](/tag/open-weather), [question:open-weather](/tag/question:open-weather)
 
 ----
 

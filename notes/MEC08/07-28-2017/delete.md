@@ -6,16 +6,14 @@ author: MEC08
 path: /notes/MEC08/07-28-2017/delete.md
 nid: 14695
 uid: 504231
-
 cids: 17114
-
 ---
 
 # Delete my profile?
 
-by [MEC08](../../../profile/MEC08) | July 28, 2017 09:25
+by [MEC08](/profile/MEC08) | July 28, 2017 09:25
 
-July 28, 2017 09:25 | Tags: [spectrometry](../tag/spectrometry), [spectral-workbench](../tag/spectral-workbench), [question:spectral-workbench](../tag/question:spectral-workbench)
+July 28, 2017 09:25 | Tags: [spectrometry](/tag/spectrometry), [spectral-workbench](/tag/spectral-workbench), [question:spectral-workbench](/tag/question:spectral-workbench)
 
 ----
 

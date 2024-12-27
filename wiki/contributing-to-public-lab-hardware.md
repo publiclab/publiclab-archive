@@ -6,14 +6,14 @@ author: warren
 path: /wiki/contributing-to-public-lab-hardware.md
 nid: 12417
 uid: 1
-
+cids: 
 ---
 
 # Contributing to Public Lab hardware
 
-by [liz](../profile/liz), [warren](../profile/warren)
+by [liz](/profile/liz), [warren](/profile/warren)
 
-November 16, 2015 19:25 | Tags: [collaboration](../tag/collaboration), [community](../tag/community), [open-hardware](../tag/open-hardware), [contributing](../tag/contributing)
+November 16, 2015 19:25 | Tags: [collaboration](/tag/collaboration), [community](/tag/community), [open-hardware](/tag/open-hardware), [contributing](/tag/contributing)
 
 ----
 

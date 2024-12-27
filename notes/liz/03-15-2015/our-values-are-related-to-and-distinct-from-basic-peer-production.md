@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/03-15-2015/our-values-are-related-to-and-distinct-from-basic-peer-production.md
 nid: 11680
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/263/original/ValuesStatement-Phil_Cindy_barnraising_2014.png)
 
 # our values are related to and distinct from basic peer production
 
-by [liz](../../../profile/liz) | March 15, 2015 14:34
+by [liz](/profile/liz) | March 15, 2015 14:34
 
-March 15, 2015 14:34 | Tags: [community](../tag/community), [values-statement](../tag/values-statement), [peer-production](../tag/peer-production)
+March 15, 2015 14:34 | Tags: [community](/tag/community), [values-statement](/tag/values-statement), [peer-production](/tag/peer-production)
 
 ----
 

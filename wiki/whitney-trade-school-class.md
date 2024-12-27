@@ -6,14 +6,14 @@ author: warren
 path: /wiki/whitney-trade-school-class.md
 nid: 116
 uid: 1
-
+cids: 
 ---
 
 # Whitney Trade School Class
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-March 04, 2011 18:20 | Tags: [education](../tag/education)
+March 04, 2011 18:20 | Tags: [education](/tag/education)
 
 ----
 

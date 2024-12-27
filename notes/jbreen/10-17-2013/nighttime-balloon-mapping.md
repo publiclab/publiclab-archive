@@ -6,18 +6,16 @@ author: jbreen
 path: /notes/jbreen/10-17-2013/nighttime-balloon-mapping.md
 nid: 9497
 uid: 326
-
 cids: 7277,7286,7318,7323
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/947/original/Screen_Shot_2013-10-17_at_7.00.23_PM.jpg)
 
 # Nighttime Balloon Mapping
 
-by [jbreen](../../../profile/jbreen) | October 17, 2013 22:29
+by [jbreen](/profile/jbreen) | October 17, 2013 22:29
 
-October 17, 2013 22:29 | Tags: [balloon-mapping](../tag/balloon-mapping)
+October 17, 2013 22:29 | Tags: [balloon-mapping](/tag/balloon-mapping)
 
 ----
 

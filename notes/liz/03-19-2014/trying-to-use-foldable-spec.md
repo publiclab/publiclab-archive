@@ -6,16 +6,14 @@ author: liz
 path: /notes/liz/03-19-2014/trying-to-use-foldable-spec.md
 nid: 10207
 uid: 7
-
 cids: 8566,8567,8568,8570
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/342/original/IMG_3292.JPG)
 
 # trying to use foldable spec
 
-by [liz](../../../profile/liz) | March 19, 2014 22:59
+by [liz](/profile/liz) | March 19, 2014 22:59
 
 March 19, 2014 22:59 | Tags: 
 

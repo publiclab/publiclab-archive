@@ -6,14 +6,14 @@ author: JSummers
 path: /wiki/funding-sources-for-science-teachers.md
 nid: 11576
 uid: 304279
-
+cids: 
 ---
 
 # Funding sources for science teachers
 
-by [jmacha](../profile/jmacha), [JSummers](../profile/JSummers)
+by [jmacha](/profile/jmacha), [JSummers](/profile/JSummers)
 
-February 11, 2015 20:00 | Tags: [fundraising](../tag/fundraising), [parent:fundraising](../tag/parent:fundraising)
+February 11, 2015 20:00 | Tags: [fundraising](/tag/fundraising), [parent:fundraising](/tag/parent:fundraising)
 
 ----
 

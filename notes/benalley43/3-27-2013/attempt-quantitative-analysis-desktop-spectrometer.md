@@ -6,16 +6,14 @@ author: ben.alley43
 path: /notes/benalley43/3-27-2013/attempt-quantitative-analysis-desktop-spectrometer.md
 nid: 6566
 uid: 50894
-
 cids: 4245,4252,4269,4302,4303,4636,4644,7211
-
 ---
 
 # Attempt at Quantitative Analysis for Desktop Spectrometer 
 
-by [ben.alley43](../../../profile/ben.alley43) | March 28, 2013 00:46
+by [ben.alley43](/profile/ben.alley43) | March 28, 2013 00:46
 
-March 28, 2013 00:46 | Tags: [spectrometer](../tag/spectrometer), [analysis](../tag/analysis), [spectralworkbench](../tag/spectralworkbench), [centre_college](../tag/centre_college), [beers-law](../tag/beers-law), [quantitative](../tag/quantitative), [activity:spectrometry](../tag/activity:spectrometry), [activity:dsk](../tag/activity:dsk)
+March 28, 2013 00:46 | Tags: [spectrometer](/tag/spectrometer), [analysis](/tag/analysis), [spectralworkbench](/tag/spectralworkbench), [centre_college](/tag/centre_college), [beers-law](/tag/beers-law), [quantitative](/tag/quantitative), [activity:spectrometry](/tag/activity:spectrometry), [activity:dsk](/tag/activity:dsk)
 
 ----
 

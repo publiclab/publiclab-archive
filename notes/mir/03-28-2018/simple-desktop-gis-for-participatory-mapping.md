@@ -6,16 +6,14 @@ author: mir
 path: /notes/mir/03-28-2018/simple-desktop-gis-for-participatory-mapping.md
 nid: 16033
 uid: 528162
-
 cids: 19296,23043,23049,23050,23068
-
 ---
 
 # Simple desktop GIS for participatory mapping
 
-by [mir](../../../profile/mir) | March 28, 2018 17:26
+by [mir](/profile/mir) | March 28, 2018 17:26
 
-March 28, 2018 17:26 | Tags: [central-america](../tag/central-america), [panama](../tag/panama), [gis](../tag/gis), [answered](../tag/answered), [question:gis](../tag/question:gis), [qgis](../tag/qgis), [mapeo](../tag/mapeo)
+March 28, 2018 17:26 | Tags: [central-america](/tag/central-america), [panama](/tag/panama), [gis](/tag/gis), [answered](/tag/answered), [question:gis](/tag/question:gis), [qgis](/tag/qgis), [mapeo](/tag/mapeo)
 
 ----
 

@@ -6,14 +6,14 @@ author: Hudonnoodles
 path: /wiki/plum-island-meetup.md
 nid: 5850
 uid: 102
-
+cids: 
 ---
 
 # North Shore, Mass, Mapping Meetup: Pavilion Beach, Ipswich -- April 6, 2013
 
-by [wward1400](../profile/wward1400), [Hudonnoodles](../profile/Hudonnoodles)
+by [wward1400](/profile/wward1400), [Hudonnoodles](/profile/Hudonnoodles)
 
-February 01, 2013 12:45 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [boston](../tag/boston), [event](../tag/event)
+February 01, 2013 12:45 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [boston](/tag/boston), [event](/tag/event)
 
 ----
 

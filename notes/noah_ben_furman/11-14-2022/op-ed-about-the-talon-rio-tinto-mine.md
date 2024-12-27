@@ -6,16 +6,14 @@ author: noah_ben_furman
 path: /notes/noah_ben_furman/11-14-2022/op-ed-about-the-talon-rio-tinto-mine.md
 nid: 37424
 uid: 795472
-
 cids: 30773
-
 ---
 
 # Op-Ed about the Talon-Rio Tinto Mine
 
-by [noah_ben_furman](../../../profile/noah_ben_furman) | November 14, 2022 20:19
+by [noah_ben_furman](/profile/noah_ben_furman) | November 14, 2022 20:19
 
-November 14, 2022 20:19 | Tags: [water-quality](../tag/water-quality), [lat:44](../tag/lat:44), [zoom:8](../tag/zoom:8), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [lon:-93](../tag/lon:-93), [minneosta](../tag/minneosta)
+November 14, 2022 20:19 | Tags: [water-quality](/tag/water-quality), [lat:44](/tag/lat:44), [zoom:8](/tag/zoom:8), [mn-land-manoomin-protection](/tag/mn-land-manoomin-protection), [lon:-93](/tag/lon:-93), [minneosta](/tag/minneosta)
 
 ----
 

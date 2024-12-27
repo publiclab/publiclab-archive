@@ -6,18 +6,16 @@ author: eustatic
 path: /02-11-2014/new-orleans-city-park-stormwater-wetland.md
 nid: 10028
 uid: 379
-
 cids: 8261,8262,8291,8702,28303
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/875/original/12461944465_02407ff5df_z_1_.jpg)
 
 # New Orleans City Park Stormwater wetland
 
-by [eustatic](../../../profile/eustatic) | February 11, 2014 20:31
+by [eustatic](/profile/eustatic) | February 11, 2014 20:31
 
-February 11, 2014 20:31 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [flood](../tag/flood), [stormwater](../tag/stormwater), [response:9758](../tag/response:9758), [floodless](../tag/floodless), [grn](../tag/grn), [livingwithwater](../tag/livingwithwater), [rcpicavet](../tag/rcpicavet), [urbanwater](../tag/urbanwater), [urbanwaters](../tag/urbanwaters)
+February 11, 2014 20:31 | Tags: [gulf-coast](/tag/gulf-coast), [kite-mapping](/tag/kite-mapping), [flood](/tag/flood), [stormwater](/tag/stormwater), [response:9758](/tag/response:9758), [floodless](/tag/floodless), [grn](/tag/grn), [livingwithwater](/tag/livingwithwater), [rcpicavet](/tag/rcpicavet), [urbanwater](/tag/urbanwater), [urbanwaters](/tag/urbanwaters)
 
 ----
 

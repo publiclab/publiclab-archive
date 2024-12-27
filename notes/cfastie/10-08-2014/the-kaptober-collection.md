@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/10-08-2014/the-kaptober-collection.md
 nid: 11253
 uid: 554
-
 cids: 10541
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/382/original/KAPtober-538-26.jpg)
 
 # The KAPtober Collection
 
-by [cfastie](../../../profile/cfastie) | October 08, 2014 23:08
+by [cfastie](/profile/cfastie) | October 08, 2014 23:08
 
-October 08, 2014 23:08 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infragram](../tag/infragram), [gigapan](../tag/gigapan), [titan](../tag/titan), [redstone](../tag/redstone), [response:11103](../tag/response:11103)
+October 08, 2014 23:08 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [ndvi](/tag/ndvi), [vermont](/tag/vermont), [infragram](/tag/infragram), [gigapan](/tag/gigapan), [titan](/tag/titan), [redstone](/tag/redstone), [response:11103](/tag/response:11103)
 
 ----
 

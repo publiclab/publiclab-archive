@@ -6,18 +6,16 @@ author: gauravano
 path: /notes/gauravano/06-24-2018/gsoc-with-public-lab-first-evaluation.md
 nid: 16557
 uid: 515081
-
 cids: 19920,19921
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/285/original/draft_view.png)
 
 # GSoC with Public Lab: First Evaluation 
 
-by [gauravano](../../../profile/gauravano) | June 23, 2018 09:38
+by [gauravano](/profile/gauravano) | June 23, 2018 09:38
 
-June 23, 2018 09:38 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2018](../tag/gsoc-2018), [draft-feature](../tag/draft-feature)
+June 23, 2018 09:38 | Tags: [gsoc](/tag/gsoc), [soc](/tag/soc), [gsoc-2018](/tag/gsoc-2018), [draft-feature](/tag/draft-feature)
 
 ----
 

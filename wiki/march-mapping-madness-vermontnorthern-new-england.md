@@ -6,12 +6,12 @@ author: sara
 path: /wiki/march-mapping-madness-vermontnorthern-new-england.md
 nid: 895
 uid: 8
-
+cids: 
 ---
 
 # March Mapping Madness-Vermont/Northern New England
 
-by [rjstatic](../profile/rjstatic), [cfastie](../profile/cfastie), [sara](../profile/sara)
+by [rjstatic](/profile/rjstatic), [cfastie](/profile/cfastie), [sara](/profile/sara)
 
 March 06, 2012 01:27 | Tags: 
 

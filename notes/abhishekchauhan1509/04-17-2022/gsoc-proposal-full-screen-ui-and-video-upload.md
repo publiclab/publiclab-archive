@@ -6,18 +6,16 @@ author: abhishekchauhan1509
 path: /notes/abhishekchauhan1509/04-17-2022/gsoc-proposal-full-screen-ui-and-video-upload.md
 nid: 30443
 uid: 794981
-
 cids: 30023,30043,30044,30061
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/909/original/4621650.png)
 
 # GSoC"proposal: Full-screen UI and video upload 
 
-by [abhishekchauhan1509](../../../profile/abhishekchauhan1509) | April 17, 2022 01:09
+by [abhishekchauhan1509](/profile/abhishekchauhan1509) | April 17, 2022 01:09
 
-April 17, 2022 01:09 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [gsoc-2022](../tag/gsoc-2022), [gsoc-2022-proposals](../tag/gsoc-2022-proposals)
+April 17, 2022 01:09 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [soc](/tag/soc), [first-time-poster](/tag/first-time-poster), [gsoc-2022](/tag/gsoc-2022), [gsoc-2022-proposals](/tag/gsoc-2022-proposals)
 
 ----
 

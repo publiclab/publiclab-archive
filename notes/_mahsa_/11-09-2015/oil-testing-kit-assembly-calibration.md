@@ -6,18 +6,16 @@ author: _mahsa_
 path: /notes/_mahsa_/11-09-2015/oil-testing-kit-assembly-calibration.md
 nid: 12379
 uid: 445603
-
 cids: 12877,12878,12888,12980
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/570/original/undefined)
 
 # Oil Testing Kit -- Assembly & Calibration! 
 
-by [_mahsa_](../../../profile/_mahsa_) | November 09, 2015 00:54
+by [_mahsa_](/profile/_mahsa_) | November 09, 2015 00:54
 
-November 09, 2015 00:54 | Tags: [spectrometer](../tag/spectrometer), [sampling](../tag/sampling), [oil-testing-kit](../tag/oil-testing-kit)
+November 09, 2015 00:54 | Tags: [spectrometer](/tag/spectrometer), [sampling](/tag/sampling), [oil-testing-kit](/tag/oil-testing-kit)
 
 ----
 

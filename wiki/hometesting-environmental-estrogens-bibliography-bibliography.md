@@ -6,12 +6,12 @@ author: paidagogos
 path: /wiki/hometesting-environmental-estrogens-bibliography-bibliography.md
 nid: 10231
 uid: 421751
-
+cids: 
 ---
 
 # hometesting-environmental-estrogens-bibliography|Bibliography
 
-by [paidagogos](../profile/paidagogos)
+by [paidagogos](/profile/paidagogos)
 
 March 27, 2014 17:19 | Tags: 
 

@@ -6,16 +6,14 @@ author: ErikHanley11
 path: /notes/ErikHanley11/04-12-2018/literature-review-copper-rod-analysis.md
 nid: 16140
 uid: 444638
-
 cids: 
-
 ---
 
 # Literature Review: Copper Rod Analysis
 
-by [ErikHanley11](../../../profile/ErikHanley11) | April 12, 2018 02:45
+by [ErikHanley11](/profile/ErikHanley11) | April 12, 2018 02:45
 
-April 12, 2018 02:45 | Tags: [analysis](../tag/analysis), [copper](../tag/copper), [corrosion](../tag/corrosion), [epoxies](../tag/epoxies), [sem](../tag/sem), [eds](../tag/eds)
+April 12, 2018 02:45 | Tags: [analysis](/tag/analysis), [copper](/tag/copper), [corrosion](/tag/corrosion), [epoxies](/tag/epoxies), [sem](/tag/sem), [eds](/tag/eds)
 
 ----
 

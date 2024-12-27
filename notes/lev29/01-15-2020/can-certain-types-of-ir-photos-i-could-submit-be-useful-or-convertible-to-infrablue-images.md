@@ -6,16 +6,14 @@ author: lev29
 path: /notes/lev29/01-15-2020/can-certain-types-of-ir-photos-i-could-submit-be-useful-or-convertible-to-infrablue-images.md
 nid: 22323
 uid: 654422
-
 cids: 26180,26181,26182,26183,26184,26188,26189,26198,28265
-
 ---
 
 # How can I make IR photos derived from various cutoff useful for creating NDVI (normalized difference vegetation index) images?
 
-by [lev29](../../../profile/lev29) | January 15, 2020 19:17
+by [lev29](/profile/lev29) | January 15, 2020 19:17
 
-January 15, 2020 19:17 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [question:infrared](../tag/question:infrared), [question:multispectral-imaging](../tag/question:multispectral-imaging), [multispectral-imaging](../tag/multispectral-imaging), [first-time-poster](../tag/first-time-poster)
+January 15, 2020 19:17 | Tags: [ndvi](/tag/ndvi), [infrared](/tag/infrared), [infragram](/tag/infragram), [question:ndvi](/tag/question:ndvi), [question:infragram](/tag/question:infragram), [question:infrared](/tag/question:infrared), [question:multispectral-imaging](/tag/question:multispectral-imaging), [multispectral-imaging](/tag/multispectral-imaging), [first-time-poster](/tag/first-time-poster)
 
 ----
 

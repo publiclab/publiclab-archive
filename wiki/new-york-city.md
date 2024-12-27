@@ -6,16 +6,16 @@ author: warren
 path: /wiki/new-york-city.md
 nid: 8
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/160/original/Front-Image-Gowanus.jpg)
 
 # New York City
 
-by [Bronwen](../profile/Bronwen), [warren](../profile/warren), [Shannon](../profile/Shannon), [liz](../profile/liz), [nicholas](../profile/nicholas), [natasia](../profile/natasia), [gonzoearth](../profile/gonzoearth)
+by [Bronwen](/profile/Bronwen), [warren](/profile/warren), [Shannon](/profile/Shannon), [liz](/profile/liz), [nicholas](/profile/nicholas), [natasia](/profile/natasia), [gonzoearth](/profile/gonzoearth)
 
-December 07, 2010 17:06 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [washington-square-park](../tag/washington-square-park), [union-square](../tag/union-square), [newtown-creek](../tag/newtown-creek), [jamaica-bay](../tag/jamaica-bay), [new-york](../tag/new-york), [queens](../tag/queens), [bronx](../tag/bronx), [cypress-hills](../tag/cypress-hills), [chaq](../tag/chaq), [events:new-york-city](../tag/events:new-york-city), [list:plots-nyc](../tag/list:plots-nyc), [glam](../tag/glam), [superfund](../tag/superfund), [urban-design](../tag/urban-design), [chapter](../tag/chapter), [lat:40.675451](../tag/lat:40.675451), [lon:-73.990943](../tag/lon:-73.990943), [nyc](../tag/nyc), [tabbed:notes](../tag/tabbed:notes), [tabbed:wikis](../tag/tabbed:wikis), [flushing-bay](../tag/flushing-bay), [northeast](../tag/northeast), [staten-island](../tag/staten-island), [parent:northeast](../tag/parent:northeast), [lat:40.26276066437183](../tag/lat:40.26276066437183), [lon:-73.38867187500001](../tag/lon:-73.38867187500001), [place:new-york-city](../tag/place:new-york-city)
+December 07, 2010 17:06 | Tags: [new-york-city](/tag/new-york-city), [gowanus](/tag/gowanus), [washington-square-park](/tag/washington-square-park), [union-square](/tag/union-square), [newtown-creek](/tag/newtown-creek), [jamaica-bay](/tag/jamaica-bay), [new-york](/tag/new-york), [queens](/tag/queens), [bronx](/tag/bronx), [cypress-hills](/tag/cypress-hills), [chaq](/tag/chaq), [events:new-york-city](/tag/events:new-york-city), [list:plots-nyc](/tag/list:plots-nyc), [glam](/tag/glam), [superfund](/tag/superfund), [urban-design](/tag/urban-design), [chapter](/tag/chapter), [lat:40.675451](/tag/lat:40.675451), [lon:-73.990943](/tag/lon:-73.990943), [nyc](/tag/nyc), [tabbed:notes](/tag/tabbed:notes), [tabbed:wikis](/tag/tabbed:wikis), [flushing-bay](/tag/flushing-bay), [northeast](/tag/northeast), [staten-island](/tag/staten-island), [parent:northeast](/tag/parent:northeast), [lat:40.26276066437183](/tag/lat:40.26276066437183), [lon:-73.38867187500001](/tag/lon:-73.38867187500001), [place:new-york-city](/tag/place:new-york-city)
 
 ----
 

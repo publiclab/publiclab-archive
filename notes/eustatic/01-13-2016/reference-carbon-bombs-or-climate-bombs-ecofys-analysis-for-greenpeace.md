@@ -6,18 +6,16 @@ author: eustatic
 path: /01-13-2016/reference-carbon-bombs-or-climate-bombs-ecofys-analysis-for-greenpeace.md
 nid: 12580
 uid: 379
-
 cids: 13323,13776
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/622/original/Carbon-bombs-map-001.jpg)
 
 # [reference] "Carbon Bombs" or "Climate Bombs" --EcoFys analysis for Greenpeace
 
-by [eustatic](../../../profile/eustatic) | January 13, 2016 03:24
+by [eustatic](/profile/eustatic) | January 13, 2016 03:24
 
-January 13, 2016 03:24 | Tags: [gulf-coast](../tag/gulf-coast), [research](../tag/research), [blog](../tag/blog), [climate-change](../tag/climate-change), [climate](../tag/climate), [global-climate-change](../tag/global-climate-change), [cop21](../tag/cop21), [carbonbomb](../tag/carbonbomb), [reference](../tag/reference), [greenpeace](../tag/greenpeace)
+January 13, 2016 03:24 | Tags: [gulf-coast](/tag/gulf-coast), [research](/tag/research), [blog](/tag/blog), [climate-change](/tag/climate-change), [climate](/tag/climate), [global-climate-change](/tag/global-climate-change), [cop21](/tag/cop21), [carbonbomb](/tag/carbonbomb), [reference](/tag/reference), [greenpeace](/tag/greenpeace)
 
 ----
 

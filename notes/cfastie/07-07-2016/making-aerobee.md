@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/07-07-2016/making-aerobee.md
 nid: 13265
 uid: 554
-
 cids: 15301,15308,15318,15321,15326,15328,15330
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/887/original/scribing.jpg)
 
 # Making the aluminum frame of an aerial camera rig (video)
 
-by [cfastie](../../../profile/cfastie) | July 07, 2016 17:30
+by [cfastie](/profile/cfastie) | July 07, 2016 17:30
 
-July 07, 2016 17:30 | Tags: [vermont](../tag/vermont), [kite-aerial-photography](../tag/kite-aerial-photography), [camera-rig-tests](../tag/camera-rig-tests), [aerial-photography](../tag/aerial-photography), [photo-rig](../tag/photo-rig), [barnstar:video-documentation](../tag/barnstar:video-documentation), [kaptery](../tag/kaptery), [aerobee](../tag/aerobee), [jerkpan](../tag/jerkpan), [response:13261](../tag/response:13261), [category:build](../tag/category:build)
+July 07, 2016 17:30 | Tags: [vermont](/tag/vermont), [kite-aerial-photography](/tag/kite-aerial-photography), [camera-rig-tests](/tag/camera-rig-tests), [aerial-photography](/tag/aerial-photography), [photo-rig](/tag/photo-rig), [barnstar:video-documentation](/tag/barnstar:video-documentation), [kaptery](/tag/kaptery), [aerobee](/tag/aerobee), [jerkpan](/tag/jerkpan), [response:13261](/tag/response:13261), [category:build](/tag/category:build)
 
 ----
 

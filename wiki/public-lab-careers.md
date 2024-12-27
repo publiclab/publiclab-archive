@@ -6,16 +6,16 @@ author: thewrightjess
 path: /wiki/public-lab-careers.md
 nid: 27206
 uid: 603909
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/382/original/Careers_Page_2022.jpg)
 
 # Public Lab Careers
 
-by [thewrightjess](../profile/thewrightjess), [stevie](../profile/stevie), [jmacha](../profile/jmacha)
+by [thewrightjess](/profile/thewrightjess), [stevie](/profile/stevie), [jmacha](/profile/jmacha)
 
-July 20, 2021 21:05 | Tags: [staff](../tag/staff), [jobs](../tag/jobs), [fellowships](../tag/fellowships), [careers](../tag/careers)
+July 20, 2021 21:05 | Tags: [staff](/tag/staff), [jobs](/tag/jobs), [fellowships](/tag/fellowships), [careers](/tag/careers)
 
 ----
 

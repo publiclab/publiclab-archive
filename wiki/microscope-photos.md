@@ -6,14 +6,14 @@ author: liz
 path: /wiki/microscope-photos.md
 nid: 20704
 uid: 7
-
+cids: 
 ---
 
 # microscope-photos
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-August 28, 2019 18:43 | Tags: [communityscience](../tag/communityscience), [communitymicroscope](../tag/communitymicroscope)
+August 28, 2019 18:43 | Tags: [communityscience](/tag/communityscience), [communitymicroscope](/tag/communitymicroscope)
 
 ----
 

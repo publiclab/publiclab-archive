@@ -6,18 +6,16 @@ author: Corymbia
 path: /notes/Corymbia/02-19-2019/testing-a-midopt-db660-850-filter-nir-contamination-of-the-red-channel.md
 nid: 18394
 uid: 572650
-
 cids: 21911,21913,21917,21918,21920,21926,21927,21929,21931,21932,21933,21934,21935,21936,21937,21938,21940,21941,21942,21945,21964,27573
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/438/original/IMG_6818_%281%29.jpg)
 
 # Testing a Midopt DB660/850 filter: NIR contamination of the red channel
 
-by [Corymbia](../../../profile/Corymbia) | February 19, 2019 06:16
+by [Corymbia](/profile/Corymbia) | February 19, 2019 06:16
 
-February 19, 2019 06:16 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [nir](../tag/nir), [infrared](../tag/infrared), [near-infrared](../tag/near-infrared), [filter](../tag/filter), [testing](../tag/testing), [plant-health](../tag/plant-health), [dualband](../tag/dualband), [midopt](../tag/midopt), [first-time-poster](../tag/first-time-poster), [dng](../tag/dng)
+February 19, 2019 06:16 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [nir](/tag/nir), [infrared](/tag/infrared), [near-infrared](/tag/near-infrared), [filter](/tag/filter), [testing](/tag/testing), [plant-health](/tag/plant-health), [dualband](/tag/dualband), [midopt](/tag/midopt), [first-time-poster](/tag/first-time-poster), [dng](/tag/dng)
 
 ----
 

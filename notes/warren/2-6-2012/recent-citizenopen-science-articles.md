@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/2-6-2012/recent-citizenopen-science-articles.md
 nid: 758
 uid: 1
-
 cids: 24276
-
 ---
 
 # Recent citizen/open science articles
 
-by [warren](../../../profile/warren) | February 06, 2012 21:28
+by [warren](/profile/warren) | February 06, 2012 21:28
 
-February 06, 2012 21:28 | Tags: [readings](../tag/readings)
+February 06, 2012 21:28 | Tags: [readings](/tag/readings)
 
 ----
 

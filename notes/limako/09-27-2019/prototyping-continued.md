@@ -6,18 +6,16 @@ author: limako
 path: /notes/limako/09-27-2019/prototyping-continued.md
 nid: 21032
 uid: 546871
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/502/original/prototypingv2.jpg)
 
 # Prototyping Continued
 
-by [limako](../../../profile/limako) | September 27, 2019 20:08
+by [limako](/profile/limako) | September 27, 2019 20:08
 
-September 27, 2019 20:08 | Tags: [arduino](../tag/arduino), [education](../tag/education), [raspberry-pi](../tag/raspberry-pi), [umass-amherst](../tag/umass-amherst), [prototyping](../tag/prototyping)
+September 27, 2019 20:08 | Tags: [arduino](/tag/arduino), [education](/tag/education), [raspberry-pi](/tag/raspberry-pi), [umass-amherst](/tag/umass-amherst), [prototyping](/tag/prototyping)
 
 ----
 

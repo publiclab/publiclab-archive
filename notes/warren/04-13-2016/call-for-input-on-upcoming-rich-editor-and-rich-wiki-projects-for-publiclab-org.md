@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/04-13-2016/call-for-input-on-upcoming-rich-editor-and-rich-wiki-projects-for-publiclab-org.md
 nid: 12969
 uid: 1
-
 cids: 14230,14235,14340,14442,14443,14446,14447,14461,14463
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/522/original/IMG_20160413_163125-2.jpg)
 
 # Call for input on upcoming Rich Editor and Rich Wiki projects for PublicLab.org
 
-by [warren](../../../profile/warren) | April 13, 2016 20:58
+by [warren](/profile/warren) | April 13, 2016 20:58
 
-April 13, 2016 20:58 | Tags: [software](../tag/software), [web](../tag/web), [blog](../tag/blog), [developers](../tag/developers), [wwg](../tag/wwg), [rich-editor](../tag/rich-editor), [rich-wiki](../tag/rich-wiki), [ui](../tag/ui), [question:ui](../tag/question:ui)
+April 13, 2016 20:58 | Tags: [software](/tag/software), [web](/tag/web), [blog](/tag/blog), [developers](/tag/developers), [wwg](/tag/wwg), [rich-editor](/tag/rich-editor), [rich-wiki](/tag/rich-wiki), [ui](/tag/ui), [question:ui](/tag/question:ui)
 
 ----
 

@@ -6,12 +6,12 @@ author: FlorentBonnefoi
 path: /wiki/raman-spectrometer-simple-green-laser-pointer.md
 nid: 5412
 uid: 42202
-
+cids: 
 ---
 
 # Raman spectrometer from a simple green laser pointer
 
-by [FlorentBonnefoi](../profile/FlorentBonnefoi)
+by [FlorentBonnefoi](/profile/FlorentBonnefoi)
 
 January 04, 2013 19:55 | Tags: 
 

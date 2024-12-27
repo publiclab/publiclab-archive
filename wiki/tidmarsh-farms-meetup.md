@@ -6,14 +6,14 @@ author: warren
 path: /wiki/tidmarsh-farms-meetup.md
 nid: 4638
 uid: 1
-
+cids: 
 ---
 
 # Tidmarsh Farms meetup
 
-by [pablo](../profile/pablo), [kanarinka](../profile/kanarinka), [warren](../profile/warren), [donblair](../profile/donblair), [Hudonnoodles](../profile/Hudonnoodles)
+by [pablo](/profile/pablo), [kanarinka](/profile/kanarinka), [warren](/profile/warren), [donblair](/profile/donblair), [Hudonnoodles](/profile/Hudonnoodles)
 
-October 25, 2012 14:38 | Tags: [balloon-mapping](../tag/balloon-mapping), [boston](../tag/boston), [meetup](../tag/meetup), [event](../tag/event), [somerville](../tag/somerville), [massachusetts](../tag/massachusetts), [tidmarsh](../tag/tidmarsh)
+October 25, 2012 14:38 | Tags: [balloon-mapping](/tag/balloon-mapping), [boston](/tag/boston), [meetup](/tag/meetup), [event](/tag/event), [somerville](/tag/somerville), [massachusetts](/tag/massachusetts), [tidmarsh](/tag/tidmarsh)
 
 ----
 

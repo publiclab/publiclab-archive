@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/08-06-2013/brainstorming-coffee-analytics-system-for-coffee-shops.md
 nid: 8973
 uid: 1
-
 cids: 6535,6573,6605,8276,8293
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/042/original/coffee-analytics.jpg)
 
 # Brainstorming "coffee analytics" system for coffee shops
 
-by [warren](../../../profile/warren) | August 06, 2013 22:28
+by [warren](/profile/warren) | August 06, 2013 22:28
 
-August 06, 2013 22:28 | Tags: [spectrometer](../tag/spectrometer), [coffee](../tag/coffee), [sampling](../tag/sampling), [eyedropper](../tag/eyedropper)
+August 06, 2013 22:28 | Tags: [spectrometer](/tag/spectrometer), [coffee](/tag/coffee), [sampling](/tag/sampling), [eyedropper](/tag/eyedropper)
 
 ----
 

@@ -6,16 +6,14 @@ author: eloisereid
 path: /notes/eloisereid/06-13-2016/looking-for-new-orleans-pole-mappers.md
 nid: 13193
 uid: 478190
-
 cids: 
-
 ---
 
 # Looking for New Orleans Pole Mappers
 
-by [eloisereid](../../../profile/eloisereid) | June 13, 2016 17:29
+by [eloisereid](/profile/eloisereid) | June 13, 2016 17:29
 
-June 13, 2016 17:29 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [date:06-13-2016](../tag/date:06-13-2016)
+June 13, 2016 17:29 | Tags: [event](/tag/event), [event:rsvp](/tag/event:rsvp), [date:06-13-2016](/tag/date:06-13-2016)
 
 ----
 

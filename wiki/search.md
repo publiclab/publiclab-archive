@@ -6,14 +6,14 @@ author: warren
 path: /wiki/search.md
 nid: 19093
 uid: 1
-
+cids: 
 ---
 
 # Search
 
-by [mimiss](../profile/mimiss), [warren](../profile/warren)
+by [mimiss](/profile/mimiss), [warren](/profile/warren)
 
-April 17, 2019 23:20 | Tags: [search](../tag/search), [style:nobanner](../tag/style:nobanner), [style:minimal](../tag/style:minimal)
+April 17, 2019 23:20 | Tags: [search](/tag/search), [style:nobanner](/tag/style:nobanner), [style:minimal](/tag/style:minimal)
 
 ----
 

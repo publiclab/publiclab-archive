@@ -6,18 +6,16 @@ author: mlamadrid
 path: /notes/mlamadrid/01-18-2017/photo-documentation-of-frac-sand-mine-surface-water-spills.md
 nid: 13860
 uid: 45586
-
 cids: 28240
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/302/original/LB1.png)
 
 # Photo Documentation of Frac Sand Mine Surface Water Spills
 
-by [mlamadrid](../../../profile/mlamadrid) | January 18, 2017 03:50
+by [mlamadrid](/profile/mlamadrid) | January 18, 2017 03:50
 
-January 18, 2017 03:50 | Tags: [time-lapse](../tag/time-lapse), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [water-quality](../tag/water-quality), [blog](../tag/blog), [frac-sand](../tag/frac-sand), [fracsand](../tag/fracsand), [parent:frac-sand](../tag/parent:frac-sand), [communityscienceforum](../tag/communityscienceforum), [community-science-forum](../tag/community-science-forum), [reclamation](../tag/reclamation)
+January 18, 2017 03:50 | Tags: [time-lapse](/tag/time-lapse), [photo-monitoring](/tag/photo-monitoring), [timelapse](/tag/timelapse), [water-quality](/tag/water-quality), [blog](/tag/blog), [frac-sand](/tag/frac-sand), [fracsand](/tag/fracsand), [parent:frac-sand](/tag/parent:frac-sand), [communityscienceforum](/tag/communityscienceforum), [community-science-forum](/tag/community-science-forum), [reclamation](/tag/reclamation)
 
 ----
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/lego.md
 nid: 15362
 uid: 1
-
+cids: 
 ---
 
 # lego
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-December 13, 2017 15:36 | Tags: [redirect:15354](../tag/redirect:15354)
+December 13, 2017 15:36 | Tags: [redirect:15354](/tag/redirect:15354)
 
 ----
 

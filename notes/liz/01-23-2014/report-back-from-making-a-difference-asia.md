@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/01-23-2014/report-back-from-making-a-difference-asia.md
 nid: 9967
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/613/original/IMG_0617.JPG)
 
 # Report back from "Making a Difference" Asia
 
-by [liz](../../../profile/liz) | January 23, 2014 15:53
+by [liz](/profile/liz) | January 23, 2014 15:53
 
-January 23, 2014 15:53 | Tags: [event](../tag/event), [hong-kong](../tag/hong-kong), [asia](../tag/asia)
+January 23, 2014 15:53 | Tags: [event](/tag/event), [hong-kong](/tag/hong-kong), [asia](/tag/asia)
 
 ----
 

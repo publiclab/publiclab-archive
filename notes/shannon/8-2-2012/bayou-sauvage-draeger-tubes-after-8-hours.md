@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/shannon/8-2-2012/bayou-sauvage-draeger-tubes-after-8-hours.md
 nid: 3099
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0279.JPG)
 
 # Bayou Sauvage Draeger tubes after 8 hours
 
-by [Shannon](../../../profile/Shannon) | August 03, 2012 00:48
+by [Shannon](/profile/Shannon) | August 03, 2012 00:48
 
-August 03, 2012 00:48 | Tags: [gulf-coast](../tag/gulf-coast), [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [wetlands](../tag/wetlands), [h2s](../tag/h2s), [lat:30.321357](../tag/lat:30.321357), [lon:-89.935285](../tag/lon:-89.935285), [place:bayou-sauvage-lousiana](../tag/place:bayou-sauvage-lousiana)
+August 03, 2012 00:48 | Tags: [gulf-coast](/tag/gulf-coast), [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [wetlands](/tag/wetlands), [h2s](/tag/h2s), [lat:30.321357](/tag/lat:30.321357), [lon:-89.935285](/tag/lon:-89.935285), [place:bayou-sauvage-lousiana](/tag/place:bayou-sauvage-lousiana)
 
 ----
 

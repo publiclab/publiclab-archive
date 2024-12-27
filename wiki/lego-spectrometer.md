@@ -6,16 +6,16 @@ author: warren
 path: /wiki/lego-spectrometer.md
 nid: 15354
 uid: 1
-
+cids: 20586,20587,20588
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/929/original/PC051869.JPG)
 
 # Lego Spectrometer
 
-by [stevie](../profile/stevie), [mimiss](../profile/mimiss), [warren](../profile/warren), [vidit](../profile/vidit)
+by [stevie](/profile/stevie), [mimiss](/profile/mimiss), [warren](/profile/warren), [vidit](/profile/vidit)
 
-December 11, 2017 21:21 | Tags: [spectrometry](../tag/spectrometry), [lego](../tag/lego), [parent:spectrometry](../tag/parent:spectrometry), [method](../tag/method), [lego-spectrometer](../tag/lego-spectrometer), [activities:lego-spectrometer](../tag/activities:lego-spectrometer)
+December 11, 2017 21:21 | Tags: [spectrometry](/tag/spectrometry), [lego](/tag/lego), [parent:spectrometry](/tag/parent:spectrometry), [method](/tag/method), [lego-spectrometer](/tag/lego-spectrometer), [activities:lego-spectrometer](/tag/activities:lego-spectrometer)
 
 ----
 
@@ -137,25 +137,25 @@ Our mission is to make it **easier, cheaper, and more accessible to do environme
 
 ## Quick start
 
-[grid:lego-quickstart](../../tag/grid:lego-quickstart)
+[grid:lego-quickstart](/tag/grid:lego-quickstart)
 
 ## Questions
 
-[lego-spectrometer](../../tag/question:lego-spectrometer)
+[lego-spectrometer](/tag/question:lego-spectrometer)
 
 ## Building your Lego Spectrometer
 
-[lego-spectrometer](../../tag/activity:lego-spectrometer)
+[lego-spectrometer](/tag/activity:lego-spectrometer)
 
 ## Spectrometry activities
 
-[spectrometry-sampling](../../tag/activity:spectrometry-sampling)
+[spectrometry-sampling](/tag/activity:spectrometry-sampling)
 
 ****
 
 ## Spectrometer calibration
 
-[spectrometry-calibration](../../tag/activity:spectrometry-calibration)
+[spectrometry-calibration](/tag/activity:spectrometry-calibration)
 
 ****
 

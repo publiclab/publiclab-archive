@@ -6,12 +6,12 @@ author: warren
 path: /feature/home-intro.md
 nid: 16602
 uid: 1
-
+cids: 
 ---
 
 # home-intro
 
-July 02, 2018 01:00 | Tags: [bottom](../tag/bottom), [activity-](../tag/activity-), [activity-header](../tag/activity-header)
+July 02, 2018 01:00 | Tags: [bottom](/tag/bottom), [activity-](/tag/activity-), [activity-header](/tag/activity-header)
 
 ----
 

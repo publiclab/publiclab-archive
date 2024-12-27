@@ -6,16 +6,14 @@ author: lach_myers
 path: /notes/lach_myers/08-06-2018/standalone-spectrometry-software-uploading-jpg-or-png-spectra.md
 nid: 16870
 uid: 425849
-
 cids: 20296,24726,24834,24835,25968,25986
-
 ---
 
 # Standalone Spectrometry software & uploading JPG or PNG spectra
 
-by [lach_myers](../../../profile/lach_myers) | August 06, 2018 13:33
+by [lach_myers](/profile/lach_myers) | August 06, 2018 13:33
 
-August 06, 2018 13:33 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [fluorescence](../tag/fluorescence), [raspberry-pi](../tag/raspberry-pi), [lego](../tag/lego), [question:spectrometer](../tag/question:spectrometer), [question:spectral-workbench](../tag/question:spectral-workbench), [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer), [lego-spectrometer](../tag/lego-spectrometer), [response:16660](../tag/response:16660)
+August 06, 2018 13:33 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [fluorescence](/tag/fluorescence), [raspberry-pi](/tag/raspberry-pi), [lego](/tag/lego), [question:spectrometer](/tag/question:spectrometer), [question:spectral-workbench](/tag/question:spectral-workbench), [raspberry-pi-spectrometer](/tag/raspberry-pi-spectrometer), [lego-spectrometer](/tag/lego-spectrometer), [response:16660](/tag/response:16660)
 
 ----
 

@@ -6,16 +6,14 @@ author: abdul
 path: /notes/abdul/06-22-2016/infragram-plant-cam.md
 nid: 13232
 uid: 479194
-
 cids: 
-
 ---
 
 # Infragram Plant Cam
 
-by [abdul](../../../profile/abdul) | June 22, 2016 22:19
+by [abdul](/profile/abdul) | June 22, 2016 22:19
 
-June 22, 2016 22:19 | Tags: [infragram](../tag/infragram), [infragram-point-shoot](../tag/infragram-point-shoot), [infragram-plant-cam](../tag/infragram-plant-cam), [first-time-poster](../tag/first-time-poster)
+June 22, 2016 22:19 | Tags: [infragram](/tag/infragram), [infragram-point-shoot](/tag/infragram-point-shoot), [infragram-plant-cam](/tag/infragram-plant-cam), [first-time-poster](/tag/first-time-poster)
 
 ----
 

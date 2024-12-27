@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/7-15-2011/solveclimatenews-montana-spill-pipeline-may-have-carried-oil-sands-crude.md
 nid: 384
 uid: 1
-
 cids: 
-
 ---
 
 # SolveClimateNews: Montana Spill Pipeline May Have Carried Oil Sands Crude
 
-by [warren](../../../profile/warren) | July 15, 2011 17:11
+by [warren](/profile/warren) | July 15, 2011 17:11
 
-July 15, 2011 17:11 | Tags: [oil-spill](../tag/oil-spill), [tar-sands](../tag/tar-sands), [pipeline](../tag/pipeline), [mountain-west](../tag/mountain-west), [montana](../tag/montana)
+July 15, 2011 17:11 | Tags: [oil-spill](/tag/oil-spill), [tar-sands](/tag/tar-sands), [pipeline](/tag/pipeline), [mountain-west](/tag/mountain-west), [montana](/tag/montana)
 
 ----
 

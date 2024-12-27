@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/03-29-2019/refine-and-improve-an-existing-topic-or-project-page-on-publiclab-org.md
 nid: 18904
 uid: 1
-
 cids: 24864,27388
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/880/original/Screen_Shot_2019-03-29_at_4.13.49_PM.png)
 
 # Refine and improve an existing topic or project page on PublicLab.org
 
-by [warren](../../../profile/warren) | March 29, 2019 20:14
+by [warren](/profile/warren) | March 29, 2019 20:14
 
-March 29, 2019 20:14 | Tags: [website](../tag/website), [power-tags](../tag/power-tags), [wiki-gardening](../tag/wiki-gardening), [seeks:replications](../tag/seeks:replications), [activity:website](../tag/activity:website), [inline-power-tags](../tag/inline-power-tags), [knowledge-base](../tag/knowledge-base)
+March 29, 2019 20:14 | Tags: [website](/tag/website), [power-tags](/tag/power-tags), [wiki-gardening](/tag/wiki-gardening), [seeks:replications](/tag/seeks:replications), [activity:website](/tag/activity:website), [inline-power-tags](/tag/inline-power-tags), [knowledge-base](/tag/knowledge-base)
 
 ----
 

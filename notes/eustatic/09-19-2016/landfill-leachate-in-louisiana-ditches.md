@@ -6,18 +6,16 @@ author: eustatic
 path: /09-19-2016/landfill-leachate-in-louisiana-ditches.md
 nid: 13462
 uid: 379
-
 cids: 15439,15443,15444
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/074/original/9-13-16_Leachate_1.jpg)
 
 # Landfill leachate in Louisiana ditches?
 
-by [eustatic](../../../profile/eustatic) | September 19, 2016 21:33
+by [eustatic](/profile/eustatic) | September 19, 2016 21:33
 
-September 19, 2016 21:33 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [event](../tag/event), [barnstar:watchdog](../tag/barnstar:watchdog), [event:gulf-goast](../tag/event:gulf-goast), [event:gulf-coast](../tag/event:gulf-coast)
+September 19, 2016 21:33 | Tags: [gulf-coast](/tag/gulf-coast), [spectrometer](/tag/spectrometer), [event](/tag/event), [barnstar:watchdog](/tag/barnstar:watchdog), [event:gulf-goast](/tag/event:gulf-goast), [event:gulf-coast](/tag/event:gulf-coast)
 
 ----
 

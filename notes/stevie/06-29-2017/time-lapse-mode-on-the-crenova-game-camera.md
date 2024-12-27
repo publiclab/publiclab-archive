@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/06-29-2017/time-lapse-mode-on-the-crenova-game-camera.md
 nid: 14591
 uid: 422561
-
 cids: 16938,16939
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/947/original/20170629_132438.jpg)
 
 # Time lapse mode on the Crenova Game camera
 
-by [stevie](../../../profile/stevie) | June 29, 2017 18:56
+by [stevie](/profile/stevie) | June 29, 2017 18:56
 
-June 29, 2017 18:56 | Tags: [time-lapse](../tag/time-lapse), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [activity](../tag/activity), [activity:timelapse](../tag/activity:timelapse), [activity:photo-monitoring](../tag/activity:photo-monitoring), [game-camera](../tag/game-camera), [crenova](../tag/crenova)
+June 29, 2017 18:56 | Tags: [time-lapse](/tag/time-lapse), [photo-monitoring](/tag/photo-monitoring), [timelapse](/tag/timelapse), [activity](/tag/activity), [activity:timelapse](/tag/activity:timelapse), [activity:photo-monitoring](/tag/activity:photo-monitoring), [game-camera](/tag/game-camera), [crenova](/tag/crenova)
 
 ----
 

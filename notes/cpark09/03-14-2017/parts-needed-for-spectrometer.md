@@ -6,16 +6,14 @@ author: cpark09
 path: /notes/cpark09/03-14-2017/parts-needed-for-spectrometer.md
 nid: 14011
 uid: 504045
-
 cids: 
-
 ---
 
 # parts needed for spectrometer
 
-by [cpark09](../../../profile/cpark09) | March 14, 2017 05:34
+by [cpark09](/profile/cpark09) | March 14, 2017 05:34
 
-March 14, 2017 05:34 | Tags: [question:question](../tag/question:question)
+March 14, 2017 05:34 | Tags: [question:question](/tag/question:question)
 
 ----
 

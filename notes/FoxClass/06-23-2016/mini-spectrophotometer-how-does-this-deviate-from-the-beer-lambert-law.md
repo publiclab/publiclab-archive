@@ -6,18 +6,16 @@ author: FoxClass
 path: /notes/FoxClass/06-23-2016/mini-spectrophotometer-how-does-this-deviate-from-the-beer-lambert-law.md
 nid: 13233
 uid: 480280
-
 cids: 14811,14817,14864,14865,14866,14867,15493
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/738/original/2016-03-10_12.27.02.jpg)
 
 # Mini spectrophotometer - how does this deviate from the Beer-Lambert law?
 
-by [FoxClass](../../../profile/FoxClass) | June 23, 2016 05:04
+by [FoxClass](/profile/FoxClass) | June 23, 2016 05:04
 
-June 23, 2016 05:04 | Tags: [spectrometer](../tag/spectrometer), [beers-law](../tag/beers-law), [question:spectrometer](../tag/question:spectrometer), [question:spectrometry](../tag/question:spectrometry), [question:foldable-mini-spectrometer](../tag/question:foldable-mini-spectrometer), [beer-lambert-law](../tag/beer-lambert-law), [question:spectrometry-sampling](../tag/question:spectrometry-sampling)
+June 23, 2016 05:04 | Tags: [spectrometer](/tag/spectrometer), [beers-law](/tag/beers-law), [question:spectrometer](/tag/question:spectrometer), [question:spectrometry](/tag/question:spectrometry), [question:foldable-mini-spectrometer](/tag/question:foldable-mini-spectrometer), [beer-lambert-law](/tag/beer-lambert-law), [question:spectrometry-sampling](/tag/question:spectrometry-sampling)
 
 ----
 

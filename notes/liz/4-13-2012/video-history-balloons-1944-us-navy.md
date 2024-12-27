@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/4-13-2012/video-history-balloons-1944-us-navy.md
 nid: 1666
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/ballooning-in-the-1.jpg)
 
 # Video History of Balloons: 1944 US Navy
 
-by [liz](../../../profile/liz) | April 13, 2012 16:42
+by [liz](/profile/liz) | April 13, 2012 16:42
 
-April 13, 2012 16:42 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
+April 13, 2012 16:42 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping)
 
 ----
 

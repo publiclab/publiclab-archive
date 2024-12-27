@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/10-13-2020/translate-guides.md
 nid: 24746
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/131/original/Screen_Shot_2020-10-13_at_11.22.15_AM.png)
 
 # Translate guides!
 
-by [liz](../../../profile/liz) | October 13, 2020 15:24
+by [liz](/profile/liz) | October 13, 2020 15:24
 
-October 13, 2020 15:24 | Tags: [translation](../tag/translation), [activity:translation](../tag/activity:translation)
+October 13, 2020 15:24 | Tags: [translation](/tag/translation), [activity:translation](/tag/activity:translation)
 
 ----
 

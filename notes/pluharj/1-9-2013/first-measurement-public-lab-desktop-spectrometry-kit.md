@@ -6,18 +6,16 @@ author: pluharj
 path: /notes/pluharj/1-9-2013/first-measurement-public-lab-desktop-spectrometry-kit.md
 nid: 5496
 uid: 46812
-
 cids: 2980,2982,2985,2986,2987,3579,3580,3978
-
 ---
 
 ![](https://publiclab.org/sites/default/files/_IGP4545.jpg)
 
 # First Measurement with Public Lab Desktop Spectrometry Kit
 
-by [pluharj](../../../profile/pluharj) | January 09, 2013 18:16
+by [pluharj](/profile/pluharj) | January 09, 2013 18:16
 
-January 09, 2013 18:16 | Tags: [spectrometer](../tag/spectrometer), [dsk](../tag/dsk), [unboxing](../tag/unboxing)
+January 09, 2013 18:16 | Tags: [spectrometer](/tag/spectrometer), [dsk](/tag/dsk), [unboxing](/tag/unboxing)
 
 ----
 

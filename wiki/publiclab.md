@@ -6,12 +6,12 @@ author: warren
 path: /wiki/publiclab.md
 nid: 19415
 uid: 1
-
+cids: 
 ---
 
 # publiclab
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 May 15, 2019 22:39 | Tags: 
 

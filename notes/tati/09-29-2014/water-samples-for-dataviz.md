@@ -6,16 +6,14 @@ author: tati
 path: /notes/tati/09-29-2014/water-samples-for-dataviz.md
 nid: 11200
 uid: 428062
-
 cids: 10457,10460
-
 ---
 
 # Water Samples for DataViz
 
-by [tati](../../../profile/tati) | September 29, 2014 05:56
+by [tati](/profile/tati) | September 29, 2014 05:56
 
-September 29, 2014 05:56 | Tags: [water-quality](../tag/water-quality), [first-time-poster](../tag/first-time-poster)
+September 29, 2014 05:56 | Tags: [water-quality](/tag/water-quality), [first-time-poster](/tag/first-time-poster)
 
 ----
 

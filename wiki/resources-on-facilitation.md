@@ -6,14 +6,14 @@ author: wward1400
 path: /wiki/resources-on-facilitation.md
 nid: 11453
 uid: 46742
-
+cids: 
 ---
 
 # Resources on Facilitation
 
-by [liz](../profile/liz), [wward1400](../profile/wward1400)
+by [liz](/profile/liz), [wward1400](/profile/wward1400)
 
-December 13, 2014 22:05 | Tags: [community](../tag/community), [parent:facilitation](../tag/parent:facilitation), [resources-on-facilitation](../tag/resources-on-facilitation), [facilitation](../tag/facilitation), [redirect:11486](../tag/redirect:11486)
+December 13, 2014 22:05 | Tags: [community](/tag/community), [parent:facilitation](/tag/parent:facilitation), [resources-on-facilitation](/tag/resources-on-facilitation), [facilitation](/tag/facilitation), [redirect:11486](/tag/redirect:11486)
 
 ----
 

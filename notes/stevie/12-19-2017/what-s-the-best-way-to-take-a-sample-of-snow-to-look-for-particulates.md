@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/12-19-2017/what-s-the-best-way-to-take-a-sample-of-snow-to-look-for-particulates.md
 nid: 15395
 uid: 422561
-
 cids: 17997
-
 ---
 
 # What is the best way to take a sample of snow to look for particulates? 
 
-by [stevie](../../../profile/stevie) | December 19, 2017 16:39
+by [stevie](/profile/stevie) | December 19, 2017 16:39
 
-December 19, 2017 16:39 | Tags: [air-quality](../tag/air-quality), [frac-sand](../tag/frac-sand), [question:air-quality](../tag/question:air-quality), [microscope](../tag/microscope), [question:question](../tag/question:question), [question:frac-sand](../tag/question:frac-sand), [question:microscope](../tag/question:microscope), [question:sampling](../tag/question:sampling)
+December 19, 2017 16:39 | Tags: [air-quality](/tag/air-quality), [frac-sand](/tag/frac-sand), [question:air-quality](/tag/question:air-quality), [microscope](/tag/microscope), [question:question](/tag/question:question), [question:frac-sand](/tag/question:frac-sand), [question:microscope](/tag/question:microscope), [question:sampling](/tag/question:sampling)
 
 ----
 

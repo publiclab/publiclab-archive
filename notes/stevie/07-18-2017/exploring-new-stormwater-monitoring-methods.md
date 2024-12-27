@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/07-18-2017/exploring-new-stormwater-monitoring-methods.md
 nid: 14664
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/177/original/20170603_155739_%283%29.jpg)
 
 # Exploring New Stormwater Monitoring Methods
 
-by [stevie](../../../profile/stevie) | July 18, 2017 20:41
+by [stevie](/profile/stevie) | July 18, 2017 20:41
 
-July 18, 2017 20:41 | Tags: [gulf-coast](../tag/gulf-coast), [new-orleans](../tag/new-orleans), [blog](../tag/blog), [stormwater](../tag/stormwater), [workshop-series](../tag/workshop-series)
+July 18, 2017 20:41 | Tags: [gulf-coast](/tag/gulf-coast), [new-orleans](/tag/new-orleans), [blog](/tag/blog), [stormwater](/tag/stormwater), [workshop-series](/tag/workshop-series)
 
 ----
 

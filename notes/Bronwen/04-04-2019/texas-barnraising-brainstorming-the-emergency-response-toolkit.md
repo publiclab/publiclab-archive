@@ -6,18 +6,16 @@ author: Bronwen
 path: /notes/Bronwen/04-04-2019/texas-barnraising-brainstorming-the-emergency-response-toolkit.md
 nid: 18957
 uid: 237313
-
 cids: 25439
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/019/original/IMG_5076.JPG)
 
 # Texas Barnraising: Brainstorming the Emergency Response Toolkit 
 
-by [Bronwen](../../../profile/Bronwen) | April 04, 2019 12:32
+by [Bronwen](/profile/Bronwen) | April 04, 2019 12:32
 
-April 04, 2019 12:32 | Tags: [barnraising](../tag/barnraising), [blog](../tag/blog), [texas](../tag/texas), [emergency](../tag/emergency), [crisis-convening](../tag/crisis-convening), [galveston](../tag/galveston), [txbarnraising](../tag/txbarnraising), [lat:29.301347](../tag/lat:29.301347), [lon:-94.797695](../tag/lon:-94.797695), [activity:emergency-response](../tag/activity:emergency-response), [texas-barnraising](../tag/texas-barnraising), [environmental-emergency](../tag/environmental-emergency)
+April 04, 2019 12:32 | Tags: [barnraising](/tag/barnraising), [blog](/tag/blog), [texas](/tag/texas), [emergency](/tag/emergency), [crisis-convening](/tag/crisis-convening), [galveston](/tag/galveston), [txbarnraising](/tag/txbarnraising), [lat:29.301347](/tag/lat:29.301347), [lon:-94.797695](/tag/lon:-94.797695), [activity:emergency-response](/tag/activity:emergency-response), [texas-barnraising](/tag/texas-barnraising), [environmental-emergency](/tag/environmental-emergency)
 
 ----
 

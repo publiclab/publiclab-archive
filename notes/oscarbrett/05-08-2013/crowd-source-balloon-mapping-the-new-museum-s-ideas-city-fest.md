@@ -6,18 +6,16 @@ author: oscarbrett
 path: /notes/oscarbrett/05-08-2013/crowd-source-balloon-mapping-the-new-museum-s-ideas-city-fest.md
 nid: 7314
 uid: 409
-
 cids: 4660
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/178/original/cover.jpg)
 
 # Crowd-Source Balloon Mapping @ The New Museum's "IDEAS CITY" Fest
 
-by [oscarbrett](../../../profile/oscarbrett) | May 08, 2013 14:48
+by [oscarbrett](/profile/oscarbrett) | May 08, 2013 14:48
 
-May 08, 2013 14:48 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [new-museum](../tag/new-museum)
+May 08, 2013 14:48 | Tags: [new-york-city](/tag/new-york-city), [balloon-mapping](/tag/balloon-mapping), [new-museum](/tag/new-museum)
 
 ----
 

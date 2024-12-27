@@ -6,18 +6,16 @@ author: Frikkie
 path: /notes/Frikkie/03-05-2015/multi-parameter-analysis-using-a-diy-spectrometer.md
 nid: 11655
 uid: 435693
-
 cids: 11283,11286,11289,11375,13284
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/175/original/FLAME_EMISION_SETUP.png)
 
 # Multi parameter analysis using a DIY Spectrometer
 
-by [Frikkie](../../../profile/Frikkie) | March 05, 2015 11:30
+by [Frikkie](/profile/Frikkie) | March 05, 2015 11:30
 
-March 05, 2015 11:30 | Tags: [spectrometer](../tag/spectrometer), [flame-spectroscopy](../tag/flame-spectroscopy), [barnstar:basic](../tag/barnstar:basic), [nitrate](../tag/nitrate), [colorimetry](../tag/colorimetry), [sodium](../tag/sodium), [colorimeter](../tag/colorimeter), [aquaponics](../tag/aquaponics), [photometer](../tag/photometer), [potassium](../tag/potassium), [nitrates](../tag/nitrates), [activity:spectrometry](../tag/activity:spectrometry), [nitrogen](../tag/nitrogen), [first-time-poster](../tag/first-time-poster), [activity:nitrogen](../tag/activity:nitrogen), [activity:nitrates](../tag/activity:nitrates), [activity:spectrometry-usage](../tag/activity:spectrometry-usage)
+March 05, 2015 11:30 | Tags: [spectrometer](/tag/spectrometer), [flame-spectroscopy](/tag/flame-spectroscopy), [barnstar:basic](/tag/barnstar:basic), [nitrate](/tag/nitrate), [colorimetry](/tag/colorimetry), [sodium](/tag/sodium), [colorimeter](/tag/colorimeter), [aquaponics](/tag/aquaponics), [photometer](/tag/photometer), [potassium](/tag/potassium), [nitrates](/tag/nitrates), [activity:spectrometry](/tag/activity:spectrometry), [nitrogen](/tag/nitrogen), [first-time-poster](/tag/first-time-poster), [activity:nitrogen](/tag/activity:nitrogen), [activity:nitrates](/tag/activity:nitrates), [activity:spectrometry-usage](/tag/activity:spectrometry-usage)
 
 ----
 

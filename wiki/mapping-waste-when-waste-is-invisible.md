@@ -6,16 +6,16 @@ author: mollydanielsson
 path: /wiki/mapping-waste-when-waste-is-invisible.md
 nid: 11702
 uid: 1259
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/355/original/Trash_Track_2_months.png)
 
 # Mapping Waste When Waste is Invisible
 
-by [mollydanielsson](../profile/mollydanielsson)
+by [mollydanielsson](/profile/mollydanielsson)
 
-March 20, 2015 23:39 | Tags: [gps](../tag/gps), [visualization](../tag/visualization), [grassrootsmappingforum](../tag/grassrootsmappingforum), [trash](../tag/trash), [gmf-6](../tag/gmf-6), [style:fancy](../tag/style:fancy)
+March 20, 2015 23:39 | Tags: [gps](/tag/gps), [visualization](/tag/visualization), [grassrootsmappingforum](/tag/grassrootsmappingforum), [trash](/tag/trash), [gmf-6](/tag/gmf-6), [style:fancy](/tag/style:fancy)
 
 ----
 

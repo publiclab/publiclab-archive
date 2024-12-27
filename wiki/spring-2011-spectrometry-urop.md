@@ -6,12 +6,12 @@ author: warren
 path: /wiki/spring-2011-spectrometry-urop.md
 nid: 155
 uid: 1
-
+cids: 
 ---
 
 # Spring 2011 Spectrometry UROP
 
-by [Alex-McCarthy](../profile/Alex-McCarthy), [warren](../profile/warren)
+by [Alex-McCarthy](/profile/Alex-McCarthy), [warren](/profile/warren)
 
 April 05, 2011 21:41 | Tags: 
 

@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/4-3-2013/multispectral-defelice.md
 nid: 6653
 uid: 554
-
 cids: 4331,4347,4351,4352
-
 ---
 
 ![](https://publiclab.org/sites/default/files/cocofrontNDVI1500.jpg)
 
 # Multispectral DeFelice
 
-by [cfastie](../../../profile/cfastie) | April 03, 2013 04:17
+by [cfastie](/profile/cfastie) | April 03, 2013 04:17
 
-April 03, 2013 04:17 | Tags: [gulf-coast](../tag/gulf-coast), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [vegetation-mapping](../tag/vegetation-mapping), [louisiana](../tag/louisiana), [lumcon](../tag/lumcon), [cocodrie-la](../tag/cocodrie-la), [cfastie](../tag/cfastie), [plant-health](../tag/plant-health), [gigapan](../tag/gigapan)
+April 03, 2013 04:17 | Tags: [gulf-coast](/tag/gulf-coast), [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [nrg](/tag/nrg), [ndvi](/tag/ndvi), [vegetation-mapping](/tag/vegetation-mapping), [louisiana](/tag/louisiana), [lumcon](/tag/lumcon), [cocodrie-la](/tag/cocodrie-la), [cfastie](/tag/cfastie), [plant-health](/tag/plant-health), [gigapan](/tag/gigapan)
 
 ----
 

@@ -6,16 +6,14 @@ author: nipam_bhavsar
 path: /notes/nipam_bhavsar/10-07-2019/getting-problem-with-pi-builder-image.md
 nid: 21106
 uid: 625789
-
 cids: 25655,25658,28850
-
 ---
 
 # Getting problem with Pi-builder image
 
-by [nipam_bhavsar](../../../profile/nipam_bhavsar) | October 07, 2019 14:47
+by [nipam_bhavsar](/profile/nipam_bhavsar) | October 07, 2019 14:47
 
-October 07, 2019 14:47 | Tags: [camera](../tag/camera), [pi](../tag/pi), [raspberry](../tag/raspberry), [question:raspberry-pi](../tag/question:raspberry-pi), [first-time-poster](../tag/first-time-poster), [pi-builder](../tag/pi-builder), [question:pi-builder](../tag/question:pi-builder)
+October 07, 2019 14:47 | Tags: [camera](/tag/camera), [pi](/tag/pi), [raspberry](/tag/raspberry), [question:raspberry-pi](/tag/question:raspberry-pi), [first-time-poster](/tag/first-time-poster), [pi-builder](/tag/pi-builder), [question:pi-builder](/tag/question:pi-builder)
 
 ----
 

@@ -6,14 +6,14 @@ author: ccampos
 path: /wiki/ccejn.md
 nid: 12132
 uid: 446563
-
+cids: 
 ---
 
 # ccejn
 
-by [liz](../profile/liz), [ccampos](../profile/ccampos)
+by [liz](/profile/liz), [ccampos](/profile/ccampos)
 
-August 10, 2015 21:05 | Tags: [farm](../tag/farm), [california](../tag/california), [cafo](../tag/cafo), [ccejn](../tag/ccejn), [environmentaljustice](../tag/environmentaljustice), [san_joaquin_valley](../tag/san_joaquin_valley)
+August 10, 2015 21:05 | Tags: [farm](/tag/farm), [california](/tag/california), [cafo](/tag/cafo), [ccejn](/tag/ccejn), [environmentaljustice](/tag/environmentaljustice), [san_joaquin_valley](/tag/san_joaquin_valley)
 
 ----
 

@@ -6,16 +6,14 @@ author: amayas
 path: /notes/amayas/08-18-2018/can-you-tell-me-please-what-application-did-you-use.md
 nid: 16956
 uid: 422444
-
 cids: 20430,20431,20441
-
 ---
 
 # Can you tell me please what application did you use ?
 
-by [amayas](../../../profile/amayas) | August 18, 2018 12:18
+by [amayas](/profile/amayas) | August 18, 2018 12:18
 
-August 18, 2018 12:18 | Tags: [spectrometry](../tag/spectrometry), [mobile-spectrometer](../tag/mobile-spectrometer), [olive-oil](../tag/olive-oil), [question:general](../tag/question:general), [response:13699](../tag/response:13699)
+August 18, 2018 12:18 | Tags: [spectrometry](/tag/spectrometry), [mobile-spectrometer](/tag/mobile-spectrometer), [olive-oil](/tag/olive-oil), [question:general](/tag/question:general), [response:13699](/tag/response:13699)
 
 ----
 

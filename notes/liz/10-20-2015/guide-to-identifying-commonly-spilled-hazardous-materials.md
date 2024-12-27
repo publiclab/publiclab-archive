@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/10-20-2015/guide-to-identifying-commonly-spilled-hazardous-materials.md
 nid: 12321
 uid: 7
-
 cids: 12769,12770,12771
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/060/original/Screen_Shot_2015-10-20_at_3.48.20_PM.png)
 
 # guide to identifying commonly spilled hazardous materials
 
-by [liz](../../../profile/liz) | October 20, 2015 19:57
+by [liz](/profile/liz) | October 20, 2015 19:57
 
-October 20, 2015 19:57 | Tags: [material-identification](../tag/material-identification), [hazardous-materials](../tag/hazardous-materials)
+October 20, 2015 19:57 | Tags: [material-identification](/tag/material-identification), [hazardous-materials](/tag/hazardous-materials)
 
 ----
 

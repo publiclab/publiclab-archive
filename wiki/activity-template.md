@@ -6,14 +6,14 @@ author: warren
 path: /wiki/activity-template.md
 nid: 15322
 uid: 1
-
+cids: 
 ---
 
 # activity-template
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-December 06, 2017 19:31 | Tags: [template](../tag/template), [parent:templates](../tag/parent:templates)
+December 06, 2017 19:31 | Tags: [template](/tag/template), [parent:templates](/tag/parent:templates)
 
 ----
 

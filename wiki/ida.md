@@ -6,16 +6,16 @@ author: stevie
 path: /wiki/ida.md
 nid: 27636
 uid: 422561
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/762/original/Ida.jpeg)
 
 # Ida
 
-by [laurel_mire](../profile/laurel_mire), [stevie](../profile/stevie)
+by [laurel_mire](/profile/laurel_mire), [stevie](/profile/stevie)
 
-August 30, 2021 18:56 | Tags: [hurricane](../tag/hurricane), [climate-change](../tag/climate-change), [disaster-response](../tag/disaster-response), [ida](../tag/ida), [hurricane-ida](../tag/hurricane-ida)
+August 30, 2021 18:56 | Tags: [hurricane](/tag/hurricane), [climate-change](/tag/climate-change), [disaster-response](/tag/disaster-response), [ida](/tag/ida), [hurricane-ida](/tag/hurricane-ida)
 
 ----
 
@@ -34,7 +34,7 @@ If there are other efforts with similar aims, we don't want to duplicate or draw
 
 We are happy to feature report-ins from folks involved in Ida response on this page -- you can [post them here](/post?tags=ida,ida-response). 
 
-[ida!question:ida](../../tag/ida!question:ida)
+[ida!question:ida](/tag/ida!question:ida)
 
 ### Asks and offers 
 
@@ -45,7 +45,7 @@ If there are **specific asks or offers**, what works best is to break those out 
 
 That way we can get people connected up, whether they want to pitch in or they have information you need.
 
-[ida](../../tag/question:ida)
+[ida](/tag/question:ida)
 
 ###Follow this topic and stay up to date! 
 <a class="btn btn-large btn-primary" href="https://publiclab.org/subscribe/tag/ida">Subscribe to updates on this issue </a>

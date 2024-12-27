@@ -6,18 +6,16 @@ author: ernestootero
 path: /notes/ernestootero/10-25-2015/oil-testing-kit-collection-of-samples-from-pavement-boqueron-puerto-rico.md
 nid: 12334
 uid: 447002
-
 cids: 12780,12781,12782,12867,12868,12873,12939
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/163/original/20151025_105936.jpg)
 
 # Oil testing Kit: Collection of Samples from Pavement, Boqueron Puerto Rico
 
-by [ernestootero](../../../profile/ernestootero) | October 25, 2015 18:17
+by [ernestootero](/profile/ernestootero) | October 25, 2015 18:17
 
-October 25, 2015 18:17 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [pr](../tag/pr), [motor-oil](../tag/motor-oil), [identifying-oil](../tag/identifying-oil), [oil-testing-kit](../tag/oil-testing-kit), [caribbean](../tag/caribbean), [sampling-oil-residues](../tag/sampling-oil-residues), [oil-pavement](../tag/oil-pavement), [puerto-rico](../tag/puerto-rico)
+October 25, 2015 18:17 | Tags: [spectrometer](/tag/spectrometer), [oil](/tag/oil), [pr](/tag/pr), [motor-oil](/tag/motor-oil), [identifying-oil](/tag/identifying-oil), [oil-testing-kit](/tag/oil-testing-kit), [caribbean](/tag/caribbean), [sampling-oil-residues](/tag/sampling-oil-residues), [oil-pavement](/tag/oil-pavement), [puerto-rico](/tag/puerto-rico)
 
 ----
 

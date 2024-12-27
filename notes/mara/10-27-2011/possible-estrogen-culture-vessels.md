@@ -6,18 +6,16 @@ author: mara
 path: /notes/mara/10-27-2011/possible-estrogen-culture-vessels.md
 nid: 525
 uid: 331
-
 cids: 29540
-
 ---
 
 ![](https://publiclab.org/sites/default/files/3vesselsfront.jpg)
 
 # possible estrogen culture vessels...
 
-by [mara](../../../profile/mara) | October 27, 2011 20:38
+by [mara](/profile/mara) | October 27, 2011 20:38
 
-October 27, 2011 20:38 | Tags: [first-time-poster](../tag/first-time-poster)
+October 27, 2011 20:38 | Tags: [first-time-poster](/tag/first-time-poster)
 
 ----
 

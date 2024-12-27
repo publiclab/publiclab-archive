@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/01-20-2018/article-on-vertical-consolidation-in-for-profit-scholarly-research-infrastructure.md
 nid: 15573
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/278/original/production-cycle.png)
 
 # article on vertical consolidation in for-profit scholarly research infrastructure
 
-by [liz](../../../profile/liz) | January 20, 2018 20:56
+by [liz](/profile/liz) | January 20, 2018 20:56
 
-January 20, 2018 20:56 | Tags: [knowledge-production](../tag/knowledge-production)
+January 20, 2018 20:56 | Tags: [knowledge-production](/tag/knowledge-production)
 
 ----
 

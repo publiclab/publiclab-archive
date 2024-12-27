@@ -6,16 +6,14 @@ author: Clarke_Brian
 path: /notes/clarkebrian/2-12-2013/developing-film-canisters-louisiana-sent-shannon.md
 nid: 5960
 uid: 48632
-
 cids: 
-
 ---
 
 # Developing film canisters from Louisiana sent by Shannon
 
-by [Clarke_Brian](../../../profile/Clarke_Brian) | February 12, 2013 21:46
+by [Clarke_Brian](/profile/Clarke_Brian) | February 12, 2013 21:46
 
-February 12, 2013 21:46 | Tags: [boston](../tag/boston), [northeastern-university](../tag/northeastern-university)
+February 12, 2013 21:46 | Tags: [boston](/tag/boston), [northeastern-university](/tag/northeastern-university)
 
 ----
 

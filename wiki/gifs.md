@@ -6,12 +6,12 @@ author: warren
 path: /wiki/gifs.md
 nid: 17280
 uid: 1
-
+cids: 
 ---
 
 # gifs
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 October 12, 2018 06:40 | Tags: 
 
@@ -34,5 +34,5 @@ You can use these programs to make the Gif:
 
 ## Questions
 
-[gifs](../../tag/question:gifs)
+[gifs](/tag/question:gifs)
 

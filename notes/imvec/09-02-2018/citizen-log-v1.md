@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/09-02-2018/citizen-log-v1.md
 nid: 17038
 uid: 495038
-
 cids: 20561,21402,21403,21405
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/425/original/clog.png)
 
 # Citizen log v1
 
-by [imvec](../../../profile/imvec) | September 02, 2018 13:33
+by [imvec](/profile/imvec) | September 02, 2018 13:33
 
-September 02, 2018 13:33 | Tags: [reporting](../tag/reporting), [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [odor](../tag/odor), [activity:odor](../tag/activity:odor), [activity:water](../tag/activity:water)
+September 02, 2018 13:33 | Tags: [reporting](/tag/reporting), [air-quality](/tag/air-quality), [water-quality](/tag/water-quality), [odor](/tag/odor), [activity:odor](/tag/activity:odor), [activity:water](/tag/activity:water)
 
 ----
 

@@ -6,16 +6,16 @@ author: bhamster
 path: /wiki/advocacy.md
 nid: 26893
 uid: 664477
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/241/original/climate_demonstration.jpg)
 
 # Advocacy
 
-by [bhamster](../profile/bhamster)
+by [bhamster](/profile/bhamster)
 
-June 23, 2021 17:35 | Tags: [organizing](../tag/organizing), [advocacy](../tag/advocacy), [method](../tag/method)
+June 23, 2021 17:35 | Tags: [organizing](/tag/organizing), [advocacy](/tag/advocacy), [method](/tag/method)
 
 ----
 
@@ -119,7 +119,7 @@ _<small>Image: from [this post](https://publiclab.org/notes/a1ahna/11-13-2017/lo
 
 Activities on Public Lab that have been tagged with `activity:advocacy` will appear here
 
-[grid:activity:advocacy](../../tag/grid:activity:advocacy)
+[grid:activity:advocacy](/tag/grid:activity:advocacy)
 
 <br>
 
@@ -139,7 +139,7 @@ You can find all research notes on Public Lab that have been tagged with `advoca
 
 Questions tagged with `question:advocacy` will appear here
 
-[advocacy](../../tag/question:advocacy)
+[advocacy](/tag/question:advocacy)
 
 <hr>
 

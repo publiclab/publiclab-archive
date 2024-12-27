@@ -6,12 +6,12 @@ author: warren
 path: /wiki/cranston.md
 nid: 17754
 uid: 1
-
+cids: 
 ---
 
 # Cranston
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 November 26, 2018 16:19 | Tags: 
 

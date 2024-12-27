@@ -6,18 +6,16 @@ author: MicheleTobias
 path: /notes/micheletobias/11-21-2011/occupy-uc-davis-nov-21-2011.md
 nid: 576
 uid: 149
-
 cids: 347,348,351,353,354,356,357,358,359,360,362
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_7757.JPG)
 
 # Occupy UC Davis - Nov. 21, 2011
 
-by [MicheleTobias](../../../profile/MicheleTobias) | November 21, 2011 22:36
+by [MicheleTobias](/profile/MicheleTobias) | November 21, 2011 22:36
 
-November 21, 2011 22:36 | Tags: [davis](../tag/davis), [protest-mapping](../tag/protest-mapping), [protest](../tag/protest), [california](../tag/california), [occupy](../tag/occupy)
+November 21, 2011 22:36 | Tags: [davis](/tag/davis), [protest-mapping](/tag/protest-mapping), [protest](/tag/protest), [california](/tag/california), [occupy](/tag/occupy)
 
 ----
 

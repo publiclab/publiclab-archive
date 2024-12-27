@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/11-30-2016/how-many-people-to-do-an-activity.md
 nid: 13734
 uid: 1
-
 cids: 15900,15901,29656
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/948/original/henj.png)
 
 # How many people to do an activity?
 
-by [warren](../../../profile/warren) | November 30, 2016 21:55
+by [warren](/profile/warren) | November 30, 2016 21:55
 
-November 30, 2016 21:55 | Tags: [community](../tag/community), [barnraising](../tag/barnraising), [organizing](../tag/organizing), [research-culture](../tag/research-culture), [activity-grids](../tag/activity-grids), [activities](../tag/activities)
+November 30, 2016 21:55 | Tags: [community](/tag/community), [barnraising](/tag/barnraising), [organizing](/tag/organizing), [research-culture](/tag/research-culture), [activity-grids](/tag/activity-grids), [activities](/tag/activities)
 
 ----
 

@@ -6,14 +6,14 @@ author: liz
 path: /wiki/barnraising-newark-2018.md
 nid: 16786
 uid: 7
-
+cids: 
 ---
 
 # barnraising newark 2018
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-July 25, 2018 18:40 | Tags: [barnraising](../tag/barnraising), [parent:barnraising](../tag/parent:barnraising), [barnraising-newark-2018](../tag/barnraising-newark-2018), [barnraising-2018](../tag/barnraising-2018)
+July 25, 2018 18:40 | Tags: [barnraising](/tag/barnraising), [parent:barnraising](/tag/parent:barnraising), [barnraising-newark-2018](/tag/barnraising-newark-2018), [barnraising-2018](/tag/barnraising-2018)
 
 ----
 

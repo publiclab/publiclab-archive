@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/12-11-2017/can-we-use-webjack-as-a-javascript-serial-bridge.md
 nid: 15351
 uid: 1
-
 cids: 
-
 ---
 
 # Can we use WebJack as a JavaScript - Serial bridge?
 
-by [warren](../../../profile/warren) | December 11, 2017 15:43
+by [warren](/profile/warren) | December 11, 2017 15:43
 
-December 11, 2017 15:43 | Tags: [arduino](../tag/arduino), [webjack](../tag/webjack), [question:webjack](../tag/question:webjack), [data-logging](../tag/data-logging), [question:webjack-challenge](../tag/question:webjack-challenge), [webjack-challenge](../tag/webjack-challenge)
+December 11, 2017 15:43 | Tags: [arduino](/tag/arduino), [webjack](/tag/webjack), [question:webjack](/tag/question:webjack), [data-logging](/tag/data-logging), [question:webjack-challenge](/tag/question:webjack-challenge), [webjack-challenge](/tag/webjack-challenge)
 
 ----
 

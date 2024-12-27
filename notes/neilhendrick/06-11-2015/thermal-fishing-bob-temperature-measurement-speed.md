@@ -6,16 +6,14 @@ author: neilhendrick
 path: /notes/neilhendrick/06-11-2015/thermal-fishing-bob-temperature-measurement-speed.md
 nid: 11974
 uid: 421122
-
 cids: 11949,11950,11951,11952,11964
-
 ---
 
 # Thermal Fishing Bob Temperature Measurement Speed
 
-by [neilhendrick](../../../profile/neilhendrick) | June 11, 2015 22:20
+by [neilhendrick](/profile/neilhendrick) | June 11, 2015 22:20
 
-June 11, 2015 22:20 | Tags: [thermal-imaging](../tag/thermal-imaging), [thermal-fishing-bob](../tag/thermal-fishing-bob)
+June 11, 2015 22:20 | Tags: [thermal-imaging](/tag/thermal-imaging), [thermal-fishing-bob](/tag/thermal-fishing-bob)
 
 ----
 

@@ -6,18 +6,16 @@ author: shubham8705
 path: /notes/shubham8705/07-01-2020/what-does-covid-19-have-to-do-with-the-climate-and-environmental-crisis.md
 nid: 24078
 uid: 687735
-
 cids: 27086,27089,27666
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/048/original/Climate_Change___Corona_Virus.jpg)
 
 # What does COVID-19 have to do with the climate and environmental crisis
 
-by [shubham8705](../../../profile/shubham8705) | July 01, 2020 06:26
+by [shubham8705](/profile/shubham8705) | July 01, 2020 06:26
 
-July 01, 2020 06:26 | Tags: [forest](../tag/forest), [air-quality](../tag/air-quality), [climate-change](../tag/climate-change), [barnstar:watchdog](../tag/barnstar:watchdog), [biodiversity](../tag/biodiversity), [blog-submission](../tag/blog-submission), [air-pollution](../tag/air-pollution), [environmental-health](../tag/environmental-health), [first-time-poster](../tag/first-time-poster), [covid-19](../tag/covid-19), [landscape-fragmentation](../tag/landscape-fragmentation), [deforestation](../tag/deforestation)
+July 01, 2020 06:26 | Tags: [forest](/tag/forest), [air-quality](/tag/air-quality), [climate-change](/tag/climate-change), [barnstar:watchdog](/tag/barnstar:watchdog), [biodiversity](/tag/biodiversity), [blog-submission](/tag/blog-submission), [air-pollution](/tag/air-pollution), [environmental-health](/tag/environmental-health), [first-time-poster](/tag/first-time-poster), [covid-19](/tag/covid-19), [landscape-fragmentation](/tag/landscape-fragmentation), [deforestation](/tag/deforestation)
 
 ----
 

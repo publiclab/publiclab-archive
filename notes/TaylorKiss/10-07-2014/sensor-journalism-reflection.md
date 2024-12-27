@@ -6,16 +6,14 @@ author: TaylorKiss
 path: /notes/TaylorKiss/10-07-2014/sensor-journalism-reflection.md
 nid: 11248
 uid: 427886
-
 cids: 
-
 ---
 
 # Sensor Journalism Reflection 
 
-by [TaylorKiss](../../../profile/TaylorKiss) | October 07, 2014 17:10
+by [TaylorKiss](/profile/TaylorKiss) | October 07, 2014 17:10
 
-October 07, 2014 17:10 | Tags: [sensor-journalism](../tag/sensor-journalism)
+October 07, 2014 17:10 | Tags: [sensor-journalism](/tag/sensor-journalism)
 
 ----
 

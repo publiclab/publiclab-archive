@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/04-29-2017/getting-a-raspberry-pi-to-output-data-by-emulating-a-keyboard.md
 nid: 14151
 uid: 1
-
 cids: 16658,16660,16661,16663,22462
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/273/original/IMG_20170429_162416.jpg)
 
 # Getting a Raspberry Pi to output data by emulating a keyboard
 
-by [warren](../../../profile/warren) | April 29, 2017 20:28
+by [warren](/profile/warren) | April 29, 2017 20:28
 
-April 29, 2017 20:28 | Tags: [raspberry-pi](../tag/raspberry-pi), [usb](../tag/usb), [ease-of-use](../tag/ease-of-use), [keyboard](../tag/keyboard), [hid](../tag/hid), [question:raspberry-pi](../tag/question:raspberry-pi), [question:data-logging](../tag/question:data-logging)
+April 29, 2017 20:28 | Tags: [raspberry-pi](/tag/raspberry-pi), [usb](/tag/usb), [ease-of-use](/tag/ease-of-use), [keyboard](/tag/keyboard), [hid](/tag/hid), [question:raspberry-pi](/tag/question:raspberry-pi), [question:data-logging](/tag/question:data-logging)
 
 ----
 

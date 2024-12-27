@@ -6,12 +6,12 @@ author: pdhixenbaugh
 path: /wiki/sandbox-riffle.md
 nid: 13086
 uid: 459085
-
+cids: 
 ---
 
 # sandbox-riffle
 
-by [pdhixenbaugh](../profile/pdhixenbaugh)
+by [pdhixenbaugh](/profile/pdhixenbaugh)
 
 May 07, 2016 05:59 | Tags: 
 

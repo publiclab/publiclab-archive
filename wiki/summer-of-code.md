@@ -6,14 +6,14 @@ author: warren
 path: /wiki/summer-of-code.md
 nid: 14816
 uid: 1
-
+cids: 
 ---
 
 # Summer of Code
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-September 01, 2017 14:13 | Tags: [website](../tag/website), [software](../tag/software), [gsoc](../tag/gsoc), [web](../tag/web), [parent:developers](../tag/parent:developers), [wwg](../tag/wwg), [soc](../tag/soc), [parent:website](../tag/parent:website)
+September 01, 2017 14:13 | Tags: [website](/tag/website), [software](/tag/software), [gsoc](/tag/gsoc), [web](/tag/web), [parent:developers](/tag/parent:developers), [wwg](/tag/wwg), [soc](/tag/soc), [parent:website](/tag/parent:website)
 
 ----
 
@@ -23,8 +23,8 @@ This is a key way that we are able to develop our collaborative platform (this s
 
 ## Updates
 
-[soc](../../tag/soc)
+[soc](/tag/soc)
 
 ## Questions
 
-[soc](../../tag/question:soc)
+[soc](/tag/question:soc)

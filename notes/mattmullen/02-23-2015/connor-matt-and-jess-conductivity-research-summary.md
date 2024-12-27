@@ -6,18 +6,16 @@ author: mattmullen
 path: /notes/mattmullen/02-23-2015/connor-matt-and-jess-conductivity-research-summary.md
 nid: 11617
 uid: 434175
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/056/original/Screen_Shot_2015-02-23_at_12.36.00_AM.png)
 
 # Connor, Matt, and Jess' conductivity research summary
 
-by [mattmullen](../../../profile/mattmullen) | February 23, 2015 05:38
+by [mattmullen](/profile/mattmullen) | February 23, 2015 05:38
 
-February 23, 2015 05:38 | Tags: [conductivity](../tag/conductivity), [salt](../tag/salt), [coqui](../tag/coqui), [sensor-journalism](../tag/sensor-journalism), [first-time-poster](../tag/first-time-poster)
+February 23, 2015 05:38 | Tags: [conductivity](/tag/conductivity), [salt](/tag/salt), [coqui](/tag/coqui), [sensor-journalism](/tag/sensor-journalism), [first-time-poster](/tag/first-time-poster)
 
 ----
 

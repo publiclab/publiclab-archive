@@ -6,18 +6,16 @@ author: khufkens
 path: /notes/khufkens/04-29-2015/the-accidental-raspberry-pi-spectrometer-first-light.md
 nid: 11774
 uid: 438931
-
 cids: 13222,13226
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/737/original/spectrum.jpg)
 
 # The accidental raspberry pi spectrometer: first light
 
-by [khufkens](../../../profile/khufkens) | April 29, 2015 02:28
+by [khufkens](/profile/khufkens) | April 29, 2015 02:28
 
-April 29, 2015 02:28 | Tags: [spectrometer](../tag/spectrometer), [diy](../tag/diy), [light](../tag/light), [first](../tag/first)
+April 29, 2015 02:28 | Tags: [spectrometer](/tag/spectrometer), [diy](/tag/diy), [light](/tag/light), [first](/tag/first)
 
 ----
 

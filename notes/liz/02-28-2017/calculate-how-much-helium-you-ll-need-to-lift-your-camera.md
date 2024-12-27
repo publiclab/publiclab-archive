@@ -6,16 +6,14 @@ author: liz
 path: /notes/liz/02-28-2017/calculate-how-much-helium-you-ll-need-to-lift-your-camera.md
 nid: 13973
 uid: 7
-
 cids: 
-
 ---
 
 # Calculate how much helium you'll need to lift your camera
 
-by [liz](../../../profile/liz) | February 28, 2017 19:36
+by [liz](/profile/liz) | February 28, 2017 19:36
 
-February 28, 2017 19:36 | Tags: [activity:balloon-mapping](../tag/activity:balloon-mapping), [activity:publiclabriverratpack](../tag/activity:publiclabriverratpack), [activity:bourjalshamali](../tag/activity:bourjalshamali)
+February 28, 2017 19:36 | Tags: [activity:balloon-mapping](/tag/activity:balloon-mapping), [activity:publiclabriverratpack](/tag/activity:publiclabriverratpack), [activity:bourjalshamali](/tag/activity:bourjalshamali)
 
 ----
 

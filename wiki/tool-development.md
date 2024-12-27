@@ -6,14 +6,14 @@ author: warren
 path: /wiki/tool-development.md
 nid: 11344
 uid: 1
-
+cids: 
 ---
 
 # Tool Development
 
-by [liz](../profile/liz), [btbonval](../profile/btbonval), [warren](../profile/warren), [mathew](../profile/mathew)
+by [liz](/profile/liz), [btbonval](/profile/btbonval), [warren](/profile/warren), [mathew](/profile/mathew)
 
-November 14, 2014 17:44 | Tags: [development](../tag/development)
+November 14, 2014 17:44 | Tags: [development](/tag/development)
 
 ----
 

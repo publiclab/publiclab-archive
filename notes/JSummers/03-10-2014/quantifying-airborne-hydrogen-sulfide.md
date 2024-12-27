@@ -6,18 +6,16 @@ author: JSummers
 path: /notes/JSummers/03-10-2014/quantifying-airborne-hydrogen-sulfide.md
 nid: 10152
 uid: 304279
-
 cids: 8472,8483,8515,11373,11374
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/203/original/data_analyzed.png)
 
 # Quantifying Airborne Hydrogen Sulfide
 
-by [JSummers](../../../profile/JSummers) | March 10, 2014 20:49
+by [JSummers](/profile/JSummers) | March 10, 2014 20:49
 
-March 10, 2014 20:49 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [calibration](../tag/calibration), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [wheestat](../tag/wheestat), [h2s-detection-method](../tag/h2s-detection-method), [h2s-potentiometry](../tag/h2s-potentiometry), [potentiometer](../tag/potentiometer), [potentiometry](../tag/potentiometry)
+March 10, 2014 20:49 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [calibration](/tag/calibration), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [wheestat](/tag/wheestat), [h2s-detection-method](/tag/h2s-detection-method), [h2s-potentiometry](/tag/h2s-potentiometry), [potentiometer](/tag/potentiometer), [potentiometry](/tag/potentiometry)
 
 ----
 

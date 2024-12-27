@@ -6,18 +6,16 @@ author: Getty
 path: /notes/Getty/03-26-2019/outreachy-proposal-publiclab-org-ui-improvements.md
 nid: 18862
 uid: 580179
-
 cids: 23441,23448,23449,23466,23496,23500,23501,23502,23557,23564,23565,23607,23825,24062,24080
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/759/original/code.jpg)
 
 # Outreachy proposal: PublicLab.org UI Improvements
 
-by [Getty](../../../profile/Getty) | March 26, 2019 12:28
+by [Getty](/profile/Getty) | March 26, 2019 12:28
 
-March 26, 2019 12:28 | Tags: [ui](../tag/ui), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [outreachy-2019](../tag/outreachy-2019), [outreachy-2019-proposals](../tag/outreachy-2019-proposals), [lat:-1.406108](../tag/lat:-1.406108), [lon:36.914062](../tag/lon:36.914062)
+March 26, 2019 12:28 | Tags: [ui](/tag/ui), [outreachy](/tag/outreachy), [first-time-poster](/tag/first-time-poster), [outreachy-2019](/tag/outreachy-2019), [outreachy-2019-proposals](/tag/outreachy-2019-proposals), [lat:-1.406108](/tag/lat:-1.406108), [lon:36.914062](/tag/lon:36.914062)
 
 ----
 

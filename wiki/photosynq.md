@@ -6,14 +6,14 @@ author: natalie
 path: /wiki/photosynq.md
 nid: 11452
 uid: 424454
-
+cids: 
 ---
 
 # PhotosynQ
 
-by [natalie](../profile/natalie)
+by [natalie](/profile/natalie)
 
-December 12, 2014 22:13 | Tags: [photosynq](../tag/photosynq), [multispeq](../tag/multispeq)
+December 12, 2014 22:13 | Tags: [photosynq](/tag/photosynq), [multispeq](/tag/multispeq)
 
 ----
 

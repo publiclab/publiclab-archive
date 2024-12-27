@@ -6,18 +6,16 @@ author: gonzoearth
 path: /notes/gonzoearth/5-13-2011/grand-isle-louisiana.md
 nid: 234
 uid: 12
-
 cids: 20821
-
 ---
 
 ![](https://publiclab.org/sites/default/files/2011-2-25-louisiana-grandisle-preview.jpg)
 
 # Grand Isle, Louisiana
 
-by [gonzoearth](../../../profile/gonzoearth) | May 13, 2011 06:20
+by [gonzoearth](/profile/gonzoearth) | May 13, 2011 06:20
 
-May 13, 2011 06:20 | Tags: [gulf-coast](../tag/gulf-coast), [grand-isle](../tag/grand-isle), [louisiana](../tag/louisiana), [western-carolina-university](../tag/western-carolina-university), [with:adam-griffith](../tag/with:adam-griffith)
+May 13, 2011 06:20 | Tags: [gulf-coast](/tag/gulf-coast), [grand-isle](/tag/grand-isle), [louisiana](/tag/louisiana), [western-carolina-university](/tag/western-carolina-university), [with:adam-griffith](/tag/with:adam-griffith)
 
 ----
 

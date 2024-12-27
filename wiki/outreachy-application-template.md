@@ -6,14 +6,14 @@ author: warren
 path: /wiki/outreachy-application-template.md
 nid: 17360
 uid: 1
-
+cids: 
 ---
 
 # Outreachy Application Template
 
-by [gauravano](../profile/gauravano), [warren](../profile/warren)
+by [gauravano](/profile/gauravano), [warren](/profile/warren)
 
-October 23, 2018 17:06 | Tags: [outreachy](../tag/outreachy), [proposal-template](../tag/proposal-template)
+October 23, 2018 17:06 | Tags: [outreachy](/tag/outreachy), [proposal-template](/tag/proposal-template)
 
 ----
 

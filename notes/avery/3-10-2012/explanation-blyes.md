@@ -6,16 +6,14 @@ author: Avery
 path: /notes/avery/3-10-2012/explanation-blyes.md
 nid: 916
 uid: 441
-
 cids: 531
-
 ---
 
 # Explanation of BLYES
 
-by [Avery](../../../profile/Avery) | March 10, 2012 19:17
+by [Avery](/profile/Avery) | March 10, 2012 19:17
 
-March 10, 2012 19:17 | Tags: [environmental-estrogen-testing](../tag/environmental-estrogen-testing)
+March 10, 2012 19:17 | Tags: [environmental-estrogen-testing](/tag/environmental-estrogen-testing)
 
 ----
 

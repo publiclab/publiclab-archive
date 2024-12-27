@@ -6,14 +6,14 @@ author: liz
 path: /wiki/first-contact.md
 nid: 10991
 uid: 7
-
+cids: 
 ---
 
 # First contact and pathways through
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-July 29, 2014 13:29 | Tags: [community](../tag/community), [evaluation](../tag/evaluation), [first-contact](../tag/first-contact), [parent:ui](../tag/parent:ui)
+July 29, 2014 13:29 | Tags: [community](/tag/community), [evaluation](/tag/evaluation), [first-contact](/tag/first-contact), [parent:ui](/tag/parent:ui)
 
 ----
 

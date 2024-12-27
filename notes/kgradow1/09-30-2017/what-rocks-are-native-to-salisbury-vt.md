@@ -6,16 +6,14 @@ author: kgradow1
 path: /notes/kgradow1/09-30-2017/what-rocks-are-native-to-salisbury-vt.md
 nid: 14974
 uid: 297929
-
 cids: 17493,17494,17495,22652,22653,22654
-
 ---
 
 # What rocks are native to Salisbury, VT? 
 
-by [kgradow1](../../../profile/kgradow1) | September 30, 2017 14:25
+by [kgradow1](/profile/kgradow1) | September 30, 2017 14:25
 
-September 30, 2017 14:25 | Tags: [vermont](../tag/vermont), [leaffest](../tag/leaffest), [answered](../tag/answered), [leaffest2017](../tag/leaffest2017), [question:leaffest](../tag/question:leaffest), [leaffest-2017](../tag/leaffest-2017), [rocks](../tag/rocks), [minerals](../tag/minerals), [question:leaffest2017](../tag/question:leaffest2017)
+September 30, 2017 14:25 | Tags: [vermont](/tag/vermont), [leaffest](/tag/leaffest), [answered](/tag/answered), [leaffest2017](/tag/leaffest2017), [question:leaffest](/tag/question:leaffest), [leaffest-2017](/tag/leaffest-2017), [rocks](/tag/rocks), [minerals](/tag/minerals), [question:leaffest2017](/tag/question:leaffest2017)
 
 ----
 

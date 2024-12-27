@@ -6,16 +6,14 @@ author: SarahC
 path: /notes/SarahC/06-03-2018/bug-my-spectrum-loads-then-vanishes.md
 nid: 16425
 uid: 448894
-
 cids: 19773,23108
-
 ---
 
 # Bug? My Spectrum loads then vanishes.
 
-by [SarahC](../../../profile/SarahC) | June 03, 2018 05:01
+by [SarahC](/profile/SarahC) | June 03, 2018 05:01
 
-June 03, 2018 05:01 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered)
+June 03, 2018 05:01 | Tags: [question:spectral-workbench](/tag/question:spectral-workbench), [answered](/tag/answered)
 
 ----
 

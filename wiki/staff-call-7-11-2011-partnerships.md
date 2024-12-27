@@ -6,14 +6,14 @@ author: warren
 path: /wiki/staff-call-7-11-2011-partnerships.md
 nid: 392
 uid: 1
-
+cids: 
 ---
 
 # Staff Call 7 11 2011: Partnerships
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-July 19, 2011 21:54 | Tags: [partnerships](../tag/partnerships)
+July 19, 2011 21:54 | Tags: [partnerships](/tag/partnerships)
 
 ----
 

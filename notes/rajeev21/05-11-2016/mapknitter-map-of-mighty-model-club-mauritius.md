@@ -6,18 +6,16 @@ author: rajeev21
 path: /notes/rajeev21/05-11-2016/mapknitter-map-of-mighty-model-club-mauritius.md
 nid: 13104
 uid: 473323
-
 cids: 14589,14590
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/114/original/IMG_0300.JPG)
 
 # MapKnitter map of Mighty Model Club mauritius
 
-by [rajeev21](../../../profile/rajeev21) | May 11, 2016 18:47
+by [rajeev21](/profile/rajeev21) | May 11, 2016 18:47
 
-May 11, 2016 18:47 | Tags: [mapknitter](../tag/mapknitter), [africa](../tag/africa), [lat:-20.2293971505](../tag/lat:-20.2293971505), [lon:57.4419549108](../tag/lon:57.4419549108), [mauritius](../tag/mauritius), [first-time-poster](../tag/first-time-poster)
+May 11, 2016 18:47 | Tags: [mapknitter](/tag/mapknitter), [africa](/tag/africa), [lat:-20.2293971505](/tag/lat:-20.2293971505), [lon:57.4419549108](/tag/lon:57.4419549108), [mauritius](/tag/mauritius), [first-time-poster](/tag/first-time-poster)
 
 ----
 

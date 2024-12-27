@@ -6,14 +6,14 @@ author: mimiss
 path: /wiki/sandbox-streamline-coqui.md
 nid: 20360
 uid: 579821
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/203/original/IMG_20190123_132635_151.jpg)
 
 # sandbox-streamline-coqui
 
-by [mimiss](../profile/mimiss)
+by [mimiss](/profile/mimiss)
 
 July 30, 2019 18:07 | Tags: 
 

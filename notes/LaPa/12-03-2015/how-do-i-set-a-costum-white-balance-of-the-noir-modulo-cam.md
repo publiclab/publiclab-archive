@@ -6,16 +6,14 @@ author: LaPa
 path: /notes/LaPa/12-03-2015/how-do-i-set-a-costum-white-balance-of-the-noir-modulo-cam.md
 nid: 12476
 uid: 457187
-
 cids: 13020,13024,13032,13037,13038,13040,13041,13042,13048,13049,13053,13068,13069,13088,13202,13206,13213,13214,13352,13354,13355,13356,13371,13372,13374
-
 ---
 
 # How do I set a custum white balance of the NoIR modulo cam?
 
-by [LaPa](../../../profile/LaPa) | December 03, 2015 21:53
+by [LaPa](/profile/LaPa) | December 03, 2015 21:53
 
-December 03, 2015 21:53 | Tags: [raspberry-pi](../tag/raspberry-pi), [white-balance](../tag/white-balance), [pi-camera](../tag/pi-camera), [pinoir](../tag/pinoir), [whitebalance](../tag/whitebalance), [question:pi-camera](../tag/question:pi-camera), [raspberry-pi-infragram](../tag/raspberry-pi-infragram), [activity:raspberry-pi-infragram](../tag/activity:raspberry-pi-infragram), [question:raspberry-pi-infragram](../tag/question:raspberry-pi-infragram), [question:infragram-filters](../tag/question:infragram-filters), [question:infrared-camera-conversion](../tag/question:infrared-camera-conversion), [first-time-poster](../tag/first-time-poster)
+December 03, 2015 21:53 | Tags: [raspberry-pi](/tag/raspberry-pi), [white-balance](/tag/white-balance), [pi-camera](/tag/pi-camera), [pinoir](/tag/pinoir), [whitebalance](/tag/whitebalance), [question:pi-camera](/tag/question:pi-camera), [raspberry-pi-infragram](/tag/raspberry-pi-infragram), [activity:raspberry-pi-infragram](/tag/activity:raspberry-pi-infragram), [question:raspberry-pi-infragram](/tag/question:raspberry-pi-infragram), [question:infragram-filters](/tag/question:infragram-filters), [question:infrared-camera-conversion](/tag/question:infrared-camera-conversion), [first-time-poster](/tag/first-time-poster)
 
 ----
 

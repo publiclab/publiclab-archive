@@ -6,18 +6,16 @@ author: noi5e
 path: /notes/noi5e/01-20-2021/know-your-audience-outreachy-public-lab-internship-blog-3.md
 nid: 25507
 uid: 726270
-
 cids: 27988,27992,27995,28010,28026
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/470/original/st_small_507x507-pad_600x600_f8f8f8.u26.jpg)
 
 # Know Your Audience - [Outreachy & Public Lab Internship] Blog #3
 
-by [noi5e](../../../profile/noi5e) | January 20, 2021 23:03
+by [noi5e](/profile/noi5e) | January 20, 2021 23:03
 
-January 20, 2021 23:03 | Tags: [coding](../tag/coding), [blog-submission](../tag/blog-submission), [outreachy](../tag/outreachy), [outreachy-2020](../tag/outreachy-2020)
+January 20, 2021 23:03 | Tags: [coding](/tag/coding), [blog-submission](/tag/blog-submission), [outreachy](/tag/outreachy), [outreachy-2020](/tag/outreachy-2020)
 
 ----
 

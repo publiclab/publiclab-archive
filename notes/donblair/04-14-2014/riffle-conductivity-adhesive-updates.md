@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/04-14-2014/riffle-conductivity-adhesive-updates.md
 nid: 10308
 uid: 43651
-
 cids: 8759,8761,8763,8765,8771,8780,8783,8784,8786,8787,8967
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/652/original/riffle-conductivity.png)
 
 # RIFFLE: Conductivity + Adhesive updates
 
-by [donblair](../../../profile/donblair) | April 14, 2014 17:52
+by [donblair](/profile/donblair) | April 14, 2014 17:52
 
-April 14, 2014 17:52 | Tags: [water](../tag/water), [quality](../tag/quality)
+April 14, 2014 17:52 | Tags: [water](/tag/water), [quality](/tag/quality)
 
 ----
 

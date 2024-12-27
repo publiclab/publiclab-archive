@@ -6,16 +6,14 @@ author: liz
 path: /notes/liz/11-02-2016/make-the-most-basic-github-contribution.md
 nid: 13672
 uid: 7
-
 cids: 23922
-
 ---
 
 # Make the most basic github contribution
 
-by [liz](../../../profile/liz) | November 02, 2016 19:09
+by [liz](/profile/liz) | November 02, 2016 19:09
 
-November 02, 2016 19:09 | Tags: [with:bsugar](../tag/with:bsugar), [activity:software](../tag/activity:software), [activity:soc](../tag/activity:soc), [activity:developers](../tag/activity:developers), [activity:git](../tag/activity:git)
+November 02, 2016 19:09 | Tags: [with:bsugar](/tag/with:bsugar), [activity:software](/tag/activity:software), [activity:soc](/tag/activity:soc), [activity:developers](/tag/activity:developers), [activity:git](/tag/activity:git)
 
 ----
 

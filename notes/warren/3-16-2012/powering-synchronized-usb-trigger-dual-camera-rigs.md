@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/3-16-2012/powering-synchronized-usb-trigger-dual-camera-rigs.md
 nid: 1483
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0033.JPG)
 
 # Powering a synchronized USB trigger for dual camera rigs
 
-by [warren](../../../profile/warren) | March 16, 2012 17:22
+by [warren](/profile/warren) | March 16, 2012 17:22
 
-March 16, 2012 17:22 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
+March 16, 2012 17:22 | Tags: [near-infrared-camera](/tag/near-infrared-camera)
 
 ----
 

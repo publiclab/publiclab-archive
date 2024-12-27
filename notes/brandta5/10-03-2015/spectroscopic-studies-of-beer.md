@@ -6,16 +6,14 @@ author: brandta5
 path: /notes/brandta5/10-03-2015/spectroscopic-studies-of-beer.md
 nid: 12263
 uid: 453302
-
 cids: 12648,12797
-
 ---
 
 # Spectroscopic Studies of Beer
 
-by [brandta5](../../../profile/brandta5) | October 03, 2015 19:27
+by [brandta5](/profile/brandta5) | October 03, 2015 19:27
 
-October 03, 2015 19:27 | Tags: [first-time-poster](../tag/first-time-poster)
+October 03, 2015 19:27 | Tags: [first-time-poster](/tag/first-time-poster)
 
 ----
 

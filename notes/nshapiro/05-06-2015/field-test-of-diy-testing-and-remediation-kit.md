@@ -6,18 +6,16 @@ author: nshapiro
 path: /notes/nshapiro/05-06-2015/field-test-of-diy-testing-and-remediation-kit.md
 nid: 11791
 uid: 380298
-
 cids: 11605,11606,11625,11679,11691
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/818/original/Photo_Apr_10__3_09_44_PM.jpg)
 
 # Field Test of DIY formaldehyde testing and remediation kit  
 
-by [nshapiro](../../../profile/nshapiro) | May 06, 2015 14:19
+by [nshapiro](/profile/nshapiro) | May 06, 2015 14:19
 
-May 06, 2015 14:19 | Tags: [remediation](../tag/remediation), [air-quality](../tag/air-quality), [formaldehyde](../tag/formaldehyde), [wherewebreathe](../tag/wherewebreathe), [coast](../tag/coast), [gulf](../tag/gulf), [indoor-air-quality-monitoring](../tag/indoor-air-quality-monitoring), [indoor-air-quality](../tag/indoor-air-quality), [replication:13480](../tag/replication:13480), [activity:formaldehyde](../tag/activity:formaldehyde)
+May 06, 2015 14:19 | Tags: [remediation](/tag/remediation), [air-quality](/tag/air-quality), [formaldehyde](/tag/formaldehyde), [wherewebreathe](/tag/wherewebreathe), [coast](/tag/coast), [gulf](/tag/gulf), [indoor-air-quality-monitoring](/tag/indoor-air-quality-monitoring), [indoor-air-quality](/tag/indoor-air-quality), [replication:13480](/tag/replication:13480), [activity:formaldehyde](/tag/activity:formaldehyde)
 
 ----
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/science-fairs.md
 nid: 14030
 uid: 1
-
+cids: 
 ---
 
 # Science Fairs
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-March 16, 2017 23:06 | Tags: [education](../tag/education), [classroom](../tag/classroom), [parent:education](../tag/parent:education), [educators](../tag/educators), [science-fair](../tag/science-fair)
+March 16, 2017 23:06 | Tags: [education](/tag/education), [classroom](/tag/classroom), [parent:education](/tag/parent:education), [educators](/tag/educators), [science-fair](/tag/science-fair)
 
 ----
 
@@ -21,5 +21,5 @@ Here's a collection of activities that may be suitable for a science fair. Pleas
 
 ## Activities
 
-[science-fair](../../tag/activity:science-fair)
+[science-fair](/tag/activity:science-fair)
 

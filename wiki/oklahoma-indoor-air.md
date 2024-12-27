@@ -6,14 +6,14 @@ author: gretchengehrke
 path: /wiki/oklahoma-indoor-air.md
 nid: 13563
 uid: 430549
-
+cids: 
 ---
 
 # Oklahoma Indoor Air
 
-by [gretchengehrke](../profile/gretchengehrke)
+by [gretchengehrke](/profile/gretchengehrke)
 
-October 14, 2016 20:41 | Tags: [indoor-air-quality](../tag/indoor-air-quality), [indoor-air](../tag/indoor-air), [indoor-air-info-sheet](../tag/indoor-air-info-sheet), [oklahoma](../tag/oklahoma)
+October 14, 2016 20:41 | Tags: [indoor-air-quality](/tag/indoor-air-quality), [indoor-air](/tag/indoor-air), [indoor-air-info-sheet](/tag/indoor-air-info-sheet), [oklahoma](/tag/oklahoma)
 
 ----
 

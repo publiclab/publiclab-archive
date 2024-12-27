@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/05-13-2015/new-orleans-city-park-mapping.md
 nid: 11812
 uid: 422561
-
 cids: 11688,11697,11806,11811,11812
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/867/original/IDIYA_Mapping.jpg)
 
 # New Orleans City Park Mapping
 
-by [stevie](../../../profile/stevie) | May 13, 2015 20:47
+by [stevie](/profile/stevie) | May 13, 2015 20:47
 
-May 13, 2015 20:47 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [event](../tag/event), [pole-mapping](../tag/pole-mapping), [event:rsvp](../tag/event:rsvp), [date:05-30-2015](../tag/date:05-30-2015), [rsvp:emilya](../tag/rsvp:emilya), [rsvp:dflores6073](../tag/rsvp:dflores6073), [replication:14022](../tag/replication:14022)
+May 13, 2015 20:47 | Tags: [gulf-coast](/tag/gulf-coast), [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [event](/tag/event), [pole-mapping](/tag/pole-mapping), [event:rsvp](/tag/event:rsvp), [date:05-30-2015](/tag/date:05-30-2015), [rsvp:emilya](/tag/rsvp:emilya), [rsvp:dflores6073](/tag/rsvp:dflores6073), [replication:14022](/tag/replication:14022)
 
 ----
 

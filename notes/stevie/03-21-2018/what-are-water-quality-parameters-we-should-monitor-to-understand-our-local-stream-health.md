@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/03-21-2018/what-are-water-quality-parameters-we-should-monitor-to-understand-our-local-stream-health.md
 nid: 15994
 uid: 422561
-
 cids: 21424,23026,25075,25117
-
 ---
 
 # What are water quality parameters we should monitor to understand our local stream health? 
 
-by [stevie](../../../profile/stevie) | March 21, 2018 20:04
+by [stevie](/profile/stevie) | March 21, 2018 20:04
 
-March 21, 2018 20:04 | Tags: [answered](../tag/answered), [question:water-quality](../tag/question:water-quality), [question:water-sampling](../tag/question:water-sampling), [question:water](../tag/question:water), [question:water-monitoring](../tag/question:water-monitoring)
+March 21, 2018 20:04 | Tags: [answered](/tag/answered), [question:water-quality](/tag/question:water-quality), [question:water-sampling](/tag/question:water-sampling), [question:water](/tag/question:water), [question:water-monitoring](/tag/question:water-monitoring)
 
 ----
 

@@ -6,14 +6,14 @@ author: liz
 path: /wiki/barnraising-20-2015-photos-liz.md
 nid: 12439
 uid: 7
-
+cids: 
 ---
 
 # barnraising-20-2015-photos-liz
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-November 22, 2015 15:29 | Tags: [barnraising](../tag/barnraising), [barnraising-2015](../tag/barnraising-2015)
+November 22, 2015 15:29 | Tags: [barnraising](/tag/barnraising), [barnraising-2015](/tag/barnraising-2015)
 
 ----
 

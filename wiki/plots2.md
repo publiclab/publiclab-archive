@@ -6,14 +6,14 @@ author: warren
 path: /wiki/plots2.md
 nid: 4826
 uid: 1
-
+cids: 
 ---
 
 # plots2: the Public Lab 2.0 website
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-November 08, 2012 12:31 | Tags: [website](../tag/website), [plots2](../tag/plots2), [alphatest](../tag/alphatest), [needs-revision](../tag/needs-revision), [out-of-date](../tag/out-of-date)
+November 08, 2012 12:31 | Tags: [website](/tag/website), [plots2](/tag/plots2), [alphatest](/tag/alphatest), [needs-revision](/tag/needs-revision), [out-of-date](/tag/out-of-date)
 
 ----
 

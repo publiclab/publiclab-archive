@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/09-06-2016/question-has-anyone-used-a-timelapse-camera-in-stream-monitoring.md
 nid: 13427
 uid: 422561
-
 cids: 15336,15337,15338,15339,15340,15341,15343,15344,15345,15437,15607,15661,15755,22291,22328
-
 ---
 
 # Has anyone used a timelapse camera in stream monitoring?
 
-by [stevie](../../../profile/stevie) | September 06, 2016 19:15
+by [stevie](/profile/stevie) | September 06, 2016 19:15
 
-September 06, 2016 19:15 | Tags: [timelapse](../tag/timelapse), [water](../tag/water), [water-monitoring](../tag/water-monitoring), [sediment](../tag/sediment), [question:timelapse](../tag/question:timelapse), [runoff](../tag/runoff), [response:13266](../tag/response:13266), [question:photo-monitoring](../tag/question:photo-monitoring), [sedimentation](../tag/sedimentation), [question:sedimentation](../tag/question:sedimentation)
+September 06, 2016 19:15 | Tags: [timelapse](/tag/timelapse), [water](/tag/water), [water-monitoring](/tag/water-monitoring), [sediment](/tag/sediment), [question:timelapse](/tag/question:timelapse), [runoff](/tag/runoff), [response:13266](/tag/response:13266), [question:photo-monitoring](/tag/question:photo-monitoring), [sedimentation](/tag/sedimentation), [question:sedimentation](/tag/question:sedimentation)
 
 ----
 

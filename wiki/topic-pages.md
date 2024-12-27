@@ -6,14 +6,14 @@ author: warren
 path: /wiki/topic-pages.md
 nid: 20034
 uid: 1
-
+cids: 
 ---
 
 # Topic Pages
 
-by [liz](../profile/liz), [warren](../profile/warren)
+by [liz](/profile/liz), [warren](/profile/warren)
 
-July 08, 2019 16:37 | Tags: [parent:website](../tag/parent:website)
+July 08, 2019 16:37 | Tags: [parent:website](/tag/parent:website)
 
 ----
 
@@ -45,4 +45,4 @@ For example, if you're on the topic page for `algal-blooms` but want the text an
 
 ### Questions
 
-[topic-pages](../../tag/question:topic-pages)
+[topic-pages](/tag/question:topic-pages)

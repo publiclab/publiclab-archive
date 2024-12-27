@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/09-20-2017/compile-screenshots-and-urls-for-aerial-images-of-harvey-damages-in-a-spreadsheet-for-reporting.md
 nid: 14916
 uid: 1
-
 cids: 17463,17472,17517,18165
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/717/original/Screenshot_2017-09-20_at_10.42.37_AM.png)
 
 # Compile screenshots and URLs for aerial images of Harvey damages in a spreadsheet for reporting
 
-by [warren](../../../profile/warren) | September 20, 2017 14:55
+by [warren](/profile/warren) | September 20, 2017 14:55
 
-September 20, 2017 14:55 | Tags: [image-sorting](../tag/image-sorting), [hurricane](../tag/hurricane), [difficulty:easy](../tag/difficulty:easy), [time:10m](../tag/time:10m), [disaster-response](../tag/disaster-response), [harvey](../tag/harvey), [hurricanes](../tag/hurricanes), [activity:harvey](../tag/activity:harvey), [activity:hurricanes](../tag/activity:hurricanes), [activity:disaster-response](../tag/activity:disaster-response)
+September 20, 2017 14:55 | Tags: [image-sorting](/tag/image-sorting), [hurricane](/tag/hurricane), [difficulty:easy](/tag/difficulty:easy), [time:10m](/tag/time:10m), [disaster-response](/tag/disaster-response), [harvey](/tag/harvey), [hurricanes](/tag/hurricanes), [activity:harvey](/tag/activity:harvey), [activity:hurricanes](/tag/activity:hurricanes), [activity:disaster-response](/tag/activity:disaster-response)
 
 ----
 

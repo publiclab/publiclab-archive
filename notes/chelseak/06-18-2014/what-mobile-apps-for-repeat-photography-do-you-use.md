@@ -6,16 +6,14 @@ author: chelseak
 path: /notes/chelseak/06-18-2014/what-mobile-apps-for-repeat-photography-do-you-use.md
 nid: 10588
 uid: 424605
-
 cids: 9209,9214,9216,9235
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/849/original/2014-06-02_12.02.42.jpg)
 
 # What Mobile Apps for Repeat Photography Do You Use?
 
-by [chelseak](../../../profile/chelseak) | June 18, 2014 18:43
+by [chelseak](/profile/chelseak) | June 18, 2014 18:43
 
 June 18, 2014 18:43 | Tags: 
 

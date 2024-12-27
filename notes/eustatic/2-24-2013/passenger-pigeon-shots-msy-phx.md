@@ -6,18 +6,16 @@ author: eustatic
 path: /2-24-2013/passenger-pigeon-shots-msy-phx.md
 nid: 6115
 uid: 379
-
 cids: 3553,3555,3556,3560,3623
-
 ---
 
 ![](https://publiclab.org/sites/default/files/8487377765_5dce3c82eb_k.jpg)
 
 # Passenger Pigeon shots of MSY to PHX
 
-by [eustatic](../../../profile/eustatic) | February 25, 2013 02:22
+by [eustatic](/profile/eustatic) | February 25, 2013 02:22
 
-February 25, 2013 02:22 | Tags: [gulf-coast](../tag/gulf-coast), [passenger-pigeon](../tag/passenger-pigeon)
+February 25, 2013 02:22 | Tags: [gulf-coast](/tag/gulf-coast), [passenger-pigeon](/tag/passenger-pigeon)
 
 ----
 

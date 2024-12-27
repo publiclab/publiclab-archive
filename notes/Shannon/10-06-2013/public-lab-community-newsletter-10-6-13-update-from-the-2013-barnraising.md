@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/10-06-2013/public-lab-community-newsletter-10-6-13-update-from-the-2013-barnraising.md
 nid: 9413
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/761/original/plots-logo-transparent.jpg)
 
 # Public Lab community newsletter 10.6.13: Update from the 2013 barnraising
 
-by [Shannon](../../../profile/Shannon) | October 06, 2013 20:51
+by [Shannon](/profile/Shannon) | October 06, 2013 20:51
 
-October 06, 2013 20:51 | Tags: [newsletter](../tag/newsletter), [barnraising](../tag/barnraising), [newsletter-archive](../tag/newsletter-archive)
+October 06, 2013 20:51 | Tags: [newsletter](/tag/newsletter), [barnraising](/tag/barnraising), [newsletter-archive](/tag/newsletter-archive)
 
 ----
 

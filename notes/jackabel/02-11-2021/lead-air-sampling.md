@@ -6,16 +6,14 @@ author: jackabel
 path: /notes/jackabel/02-11-2021/lead-air-sampling.md
 nid: 25662
 uid: 739284
-
 cids: 28190,28198
-
 ---
 
 # lead air sampling
 
-by [jackabel](../../../profile/jackabel) | February 11, 2021 18:59
+by [jackabel](/profile/jackabel) | February 11, 2021 18:59
 
-February 11, 2021 18:59 | Tags: [air-sampling](../tag/air-sampling), [lead-testing](../tag/lead-testing), [first-time-poster](../tag/first-time-poster), [lead-abatements](../tag/lead-abatements)
+February 11, 2021 18:59 | Tags: [air-sampling](/tag/air-sampling), [lead-testing](/tag/lead-testing), [first-time-poster](/tag/first-time-poster), [lead-abatements](/tag/lead-abatements)
 
 ----
 

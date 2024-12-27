@@ -6,18 +6,16 @@ author: gwirth
 path: /notes/gwirth/7-23-2012/yellow-bar-island-dredge-reuse.md
 nid: 2930
 uid: 30539
-
 cids: 1068,1072,2001,2002,2003,2004,6337,6340
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Full_55x120.jpg)
 
 # Yellow Bar Island - Dredge Reuse and FAA permitting
 
-by [gwirth](../../../profile/gwirth) | July 23, 2012 11:03
+by [gwirth](/profile/gwirth) | July 23, 2012 11:03
 
-July 23, 2012 11:03 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [wetlands](../tag/wetlands), [jamaica-bay](../tag/jamaica-bay), [sand](../tag/sand), [spartina](../tag/spartina), [cordgrass](../tag/cordgrass), [dredge-reuse](../tag/dredge-reuse), [faa](../tag/faa), [salt-marsh](../tag/salt-marsh), [corrinetravis](../tag/corrinetravis), [lat:40.605663](../tag/lat:40.605663), [lon:-73.871309](../tag/lon:-73.871309), [place:yellow-bar-island-jamaica-bay-ny](../tag/place:yellow-bar-island-jamaica-bay-ny)
+July 23, 2012 11:03 | Tags: [new-york-city](/tag/new-york-city), [balloon-mapping](/tag/balloon-mapping), [wetlands](/tag/wetlands), [jamaica-bay](/tag/jamaica-bay), [sand](/tag/sand), [spartina](/tag/spartina), [cordgrass](/tag/cordgrass), [dredge-reuse](/tag/dredge-reuse), [faa](/tag/faa), [salt-marsh](/tag/salt-marsh), [corrinetravis](/tag/corrinetravis), [lat:40.605663](/tag/lat:40.605663), [lon:-73.871309](/tag/lon:-73.871309), [place:yellow-bar-island-jamaica-bay-ny](/tag/place:yellow-bar-island-jamaica-bay-ny)
 
 ----
 

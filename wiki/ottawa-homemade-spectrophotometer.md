@@ -6,14 +6,14 @@ author: Haripriya
 path: /wiki/ottawa-homemade-spectrophotometer.md
 nid: 10590
 uid: 421299
-
+cids: 
 ---
 
 # ottawa/homemade-spectrophotometer
 
-by [Haripriya](../profile/Haripriya)
+by [Haripriya](/profile/Haripriya)
 
-June 19, 2014 14:34 | Tags: [spectrometer](../tag/spectrometer), [spectrophotometer](../tag/spectrophotometer), [guide](../tag/guide), [parent:spectrometer](../tag/parent:spectrometer), [first-time-poster](../tag/first-time-poster)
+June 19, 2014 14:34 | Tags: [spectrometer](/tag/spectrometer), [spectrophotometer](/tag/spectrophotometer), [guide](/tag/guide), [parent:spectrometer](/tag/parent:spectrometer), [first-time-poster](/tag/first-time-poster)
 
 ----
 

@@ -6,18 +6,16 @@ author: jkpetter
 path: /notes/jkpetter/08-29-2016/mapknitter-map-of-prairie-island-one.md
 nid: 13404
 uid: 489340
-
 cids: 15256,15258,15267,15278,15296,15298,15356
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/833/original/IMG_9960.JPG)
 
 # MapKnitter map of Prairie Island One
 
-by [jkpetter](../../../profile/jkpetter) | August 29, 2016 15:09
+by [jkpetter](/profile/jkpetter) | August 29, 2016 15:09
 
-August 29, 2016 15:09 | Tags: [mapknitter](../tag/mapknitter), [north-carolina](../tag/north-carolina), [southeast](../tag/southeast), [lat:35.9894740318](../tag/lat:35.9894740318), [lon:-78.9067053795](../tag/lon:-78.9067053795), [durham](../tag/durham), [first-time-poster](../tag/first-time-poster)
+August 29, 2016 15:09 | Tags: [mapknitter](/tag/mapknitter), [north-carolina](/tag/north-carolina), [southeast](/tag/southeast), [lat:35.9894740318](/tag/lat:35.9894740318), [lon:-78.9067053795](/tag/lon:-78.9067053795), [durham](/tag/durham), [first-time-poster](/tag/first-time-poster)
 
 ----
 

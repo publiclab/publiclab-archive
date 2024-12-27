@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/05-22-2019/draft-of-a-public-lab-software-roadmap-comments-welcome.md
 nid: 19494
 uid: 1
-
 cids: 24239,24248,24249,24250,24252,24254,24256,24257,24258,25707,25714,26086,26665,27746,31347
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/413/original/Screen_Shot_2019-05-22_at_5.37.11_PM.png)
 
 # Draft of a Public Lab Software Roadmap: Comments welcome!
 
-by [warren](../../../profile/warren) | May 22, 2019 19:46
+by [warren](/profile/warren) | May 22, 2019 19:46
 
-May 22, 2019 19:46 | Tags: [software](../tag/software), [code](../tag/code), [wwg](../tag/wwg), [software-outreach](../tag/software-outreach), [soc](../tag/soc), [diagram](../tag/diagram), [roadmap](../tag/roadmap)
+May 22, 2019 19:46 | Tags: [software](/tag/software), [code](/tag/code), [wwg](/tag/wwg), [software-outreach](/tag/software-outreach), [soc](/tag/soc), [diagram](/tag/diagram), [roadmap](/tag/roadmap)
 
 ----
 

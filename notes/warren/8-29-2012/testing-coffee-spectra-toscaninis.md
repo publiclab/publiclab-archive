@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/8-29-2012/testing-coffee-spectra-toscaninis.md
 nid: 3562
 uid: 1
-
 cids: 1263,1271
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0606.JPG)
 
 # Testing coffee spectra at Toscanini's
 
-by [warren](../../../profile/warren) | August 29, 2012 22:00
+by [warren](/profile/warren) | August 29, 2012 22:00
 
-August 29, 2012 22:00 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter), [coffee](../tag/coffee), [toscaninis](../tag/toscaninis)
+August 29, 2012 22:00 | Tags: [spectrometer](/tag/spectrometer), [kickstarter](/tag/kickstarter), [coffee](/tag/coffee), [toscaninis](/tag/toscaninis)
 
 ----
 

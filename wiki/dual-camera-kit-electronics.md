@@ -6,14 +6,14 @@ author: warren
 path: /wiki/dual-camera-kit-electronics.md
 nid: 1796
 uid: 1
-
+cids: 
 ---
 
 # Dual camera kit electronics
 
-by [mathew](../profile/mathew), [warren](../profile/warren)
+by [mathew](/profile/mathew), [warren](/profile/warren)
 
-April 26, 2012 13:38 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
+April 26, 2012 13:38 | Tags: [near-infrared-camera](/tag/near-infrared-camera)
 
 ----
 

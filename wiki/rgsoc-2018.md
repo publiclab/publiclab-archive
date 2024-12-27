@@ -6,16 +6,16 @@ author: stella
 path: /wiki/rgsoc-2018.md
 nid: 15827
 uid: 504749
-
+cids: 18660
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/734/original/IMG_20180224_193208_3.jpg)
 
 # rgsoc-2018
 
-by [stella](../profile/stella)
+by [stella](/profile/stella)
 
-February 27, 2018 14:51 | Tags: [rgsoc](../tag/rgsoc), [rgsoc-2018](../tag/rgsoc-2018), [to_json](../tag/to_json)
+February 27, 2018 14:51 | Tags: [rgsoc](/tag/rgsoc), [rgsoc-2018](/tag/rgsoc-2018), [to_json](/tag/to_json)
 
 ----
 

@@ -6,12 +6,12 @@ author: Branden9415
 path: /wiki/software-accounting-indonesia.md
 nid: 9941
 uid: 420273
-
+cids: 
 ---
 
 # software accounting Indonesia
 
-by [Branden9415](../profile/Branden9415)
+by [Branden9415](/profile/Branden9415)
 
 January 14, 2014 05:52 | Tags: 
 

@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/07-02-2013/infragrams-over-nyc-100-quincy-garden.md
 nid: 8612
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/618/original/IMG_3096_small_NDVI.jpg)
 
 # Infragrams over NYC: 100 Quincy Garden
 
-by [liz](../../../profile/liz) | July 02, 2013 20:39
+by [liz](/profile/liz) | July 02, 2013 20:39
 
-July 02, 2013 20:39 | Tags: [new-york-city](../tag/new-york-city), [near-infrared-camera](../tag/near-infrared-camera), [5bf](../tag/5bf), [five-borough-farm](../tag/five-borough-farm)
+July 02, 2013 20:39 | Tags: [new-york-city](/tag/new-york-city), [near-infrared-camera](/tag/near-infrared-camera), [5bf](/tag/5bf), [five-borough-farm](/tag/five-borough-farm)
 
 ----
 

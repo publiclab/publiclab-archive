@@ -6,14 +6,12 @@ author: gonzoearth
 path: /notes/gonzoearth/10-21-2011/new-boston-map-library.md
 nid: 516
 uid: 12
-
 cids: 
-
 ---
 
 # New Boston Map Library
 
-by [gonzoearth](../../../profile/gonzoearth) | October 21, 2011 14:59
+by [gonzoearth](/profile/gonzoearth) | October 21, 2011 14:59
 
 October 21, 2011 14:59 | Tags: 
 

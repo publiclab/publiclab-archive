@@ -6,18 +6,16 @@ author: joyofsoy
 path: /notes/joyofsoy/10-04-2019/recipes-for-dyes-chemicals-metals-and-acids-at-cranston-print-works.md
 nid: 21077
 uid: 540844
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/565/original/20190618_094207.jpg)
 
 # Recipes for Dyes: Chemicals, Metals, and Acids at Cranston Print Works
 
-by [joyofsoy](../../../profile/joyofsoy) | October 04, 2019 17:46
+by [joyofsoy](/profile/joyofsoy) | October 04, 2019 17:46
 
-October 04, 2019 17:46 | Tags: [redirect:21673](../tag/redirect:21673)
+October 04, 2019 17:46 | Tags: [redirect:21673](/tag/redirect:21673)
 
 ----
 

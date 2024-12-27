@@ -6,16 +6,14 @@ author: walkerjeffd
 path: /notes/walkerjeffd/08-13-2014/creating-collapse-able-sections-in-a-research-note.md
 nid: 11044
 uid: 422528
-
 cids: 9996,15240,15241,15242,15243,15245
-
 ---
 
 # Creating Collapse-able Sections in a Research Note
 
-by [walkerjeffd](../../../profile/walkerjeffd) | August 13, 2014 17:43
+by [walkerjeffd](/profile/walkerjeffd) | August 13, 2014 17:43
 
-August 13, 2014 17:43 | Tags: [website](../tag/website), [markdown](../tag/markdown), [publishing](../tag/publishing), [formatting](../tag/formatting), [research-notes](../tag/research-notes), [ui](../tag/ui)
+August 13, 2014 17:43 | Tags: [website](/tag/website), [markdown](/tag/markdown), [publishing](/tag/publishing), [formatting](/tag/formatting), [research-notes](/tag/research-notes), [ui](/tag/ui)
 
 ----
 

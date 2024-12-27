@@ -6,16 +6,14 @@ author: KristinaTamara
 path: /notes/KristinaTamara/05-26-2019/can-you-help-us-with-calibrating-our-spectrometer.md
 nid: 19525
 uid: 592485
-
 cids: 24271,24277,24292,24322,24344,25480,25482
-
 ---
 
 # Can you help us with calibrating our spectrometer?
 
-by [KristinaTamara](../../../profile/KristinaTamara) | May 26, 2019 18:09
+by [KristinaTamara](/profile/KristinaTamara) | May 26, 2019 18:09
 
-May 26, 2019 18:09 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [question:spectrometry](../tag/question:spectrometry), [first-time-poster](../tag/first-time-poster), [calibrating](../tag/calibrating)
+May 26, 2019 18:09 | Tags: [spectrometer](/tag/spectrometer), [calibration](/tag/calibration), [question:spectrometry](/tag/question:spectrometry), [first-time-poster](/tag/first-time-poster), [calibrating](/tag/calibrating)
 
 ----
 

@@ -6,18 +6,16 @@ author: cess
 path: /notes/cess/03-02-2020/call-for-2020-soc-proposals-gsoc-and-outreachy.md
 nid: 22972
 uid: 525958
-
 cids: 26475,26497,26499,26550
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/394/original/gsoc.png)
 
 # Call for 2020 GSoC proposals
 
-by [cess](../../../profile/cess) | March 02, 2020 07:25
+by [cess](/profile/cess) | March 02, 2020 07:25
 
-March 02, 2020 07:25 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [lat:0](../tag/lat:0), [lon:0](../tag/lon:0), [outreachy](../tag/outreachy), [call-for-proposals](../tag/call-for-proposals), [zoom:1](../tag/zoom:1)
+March 02, 2020 07:25 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [soc](/tag/soc), [lat:0](/tag/lat:0), [lon:0](/tag/lon:0), [outreachy](/tag/outreachy), [call-for-proposals](/tag/call-for-proposals), [zoom:1](/tag/zoom:1)
 
 ----
 
@@ -67,13 +65,13 @@ Also see [2019's proposals here](https://publiclab.org/notes/warren/02-28-2019/c
 
 ## Proposals 
 
-[soc-2020-proposals](../../tag/soc-2020-proposals)
+[soc-2020-proposals](/tag/soc-2020-proposals)
 
 ---------
 
 ## Questions 
 
-[soc-2020-proposals](../../tag/question:soc-2020-proposals)
+[soc-2020-proposals](/tag/question:soc-2020-proposals)
 
 ---------
 

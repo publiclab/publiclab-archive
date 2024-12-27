@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/07-01-2014/reimagining-the-data-lifecycle.md
 nid: 10637
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/049/original/Screen_Shot_2014-07-01_at_11.03.10_AM.png)
 
 # Reimagining the data  lifecycle
 
-by [warren](../../../profile/warren) | July 01, 2014 15:04
+by [warren](/profile/warren) | July 01, 2014 15:04
 
-July 01, 2014 15:04 | Tags: [gmf](../tag/gmf), [grassrootsmappingforum](../tag/grassrootsmappingforum), [forum](../tag/forum), [with:shannon](../tag/with:shannon), [gmf-1](../tag/gmf-1)
+July 01, 2014 15:04 | Tags: [gmf](/tag/gmf), [grassrootsmappingforum](/tag/grassrootsmappingforum), [forum](/tag/forum), [with:shannon](/tag/with:shannon), [gmf-1](/tag/gmf-1)
 
 ----
 

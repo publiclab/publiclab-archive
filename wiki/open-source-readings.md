@@ -6,12 +6,12 @@ author: warren
 path: /wiki/open-source-readings.md
 nid: 1678
 uid: 1
-
+cids: 
 ---
 
 # Open source readings
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 April 15, 2012 22:22 | Tags: 
 

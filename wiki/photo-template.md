@@ -6,12 +6,12 @@ author: warren
 path: /wiki/photo-template.md
 nid: 17223
 uid: 1
-
+cids: 
 ---
 
 # photo-template
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 October 04, 2018 18:47 | Tags: 
 

@@ -6,16 +6,14 @@ author: liz
 path: /notes/liz/10-02-2018/my-voc-readings-are-maxing-out-at-9-99mg-cubic-meter-is-there-a-better-instrument.md
 nid: 17209
 uid: 7
-
 cids: 20777,20778
-
 ---
 
 # My VOC readings are maxing out at 9.99mg/cubic meter. Is there a better instrument?
 
-by [liz](../../../profile/liz) | October 02, 2018 17:56
+by [liz](/profile/liz) | October 02, 2018 17:56
 
-October 02, 2018 17:56 | Tags: [lat:0](../tag/lat:0), [question:formaldehyde](../tag/question:formaldehyde), [question:vocs](../tag/question:vocs), [question:monitoring](../tag/question:monitoring), [lon:11.25](../tag/lon:11.25)
+October 02, 2018 17:56 | Tags: [lat:0](/tag/lat:0), [question:formaldehyde](/tag/question:formaldehyde), [question:vocs](/tag/question:vocs), [question:monitoring](/tag/question:monitoring), [lon:11.25](/tag/lon:11.25)
 
 ----
 

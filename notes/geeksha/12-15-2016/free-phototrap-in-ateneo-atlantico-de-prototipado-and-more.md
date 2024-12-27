@@ -6,16 +6,14 @@ author: geeksha
 path: /notes/geeksha/12-15-2016/free-phototrap-in-ateneo-atlantico-de-prototipado-and-more.md
 nid: 13788
 uid: 500063
-
 cids: 15984,15986
-
 ---
 
 # Free Phototrap in Ateneo Atlántico de Prototipado and more
 
-by [geeksha](../../../profile/geeksha) | December 15, 2016 15:09
+by [geeksha](/profile/geeksha) | December 15, 2016 15:09
 
-December 15, 2016 15:09 | Tags: [spain](../tag/spain), [eu](../tag/eu), [prototyping-lab](../tag/prototyping-lab), [cultural-mediation](../tag/cultural-mediation), [diy-citizen-science-community](../tag/diy-citizen-science-community), [galicia](../tag/galicia)
+December 15, 2016 15:09 | Tags: [spain](/tag/spain), [eu](/tag/eu), [prototyping-lab](/tag/prototyping-lab), [cultural-mediation](/tag/cultural-mediation), [diy-citizen-science-community](/tag/diy-citizen-science-community), [galicia](/tag/galicia)
 
 ----
 

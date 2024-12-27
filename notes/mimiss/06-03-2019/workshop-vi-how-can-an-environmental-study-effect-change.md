@@ -6,18 +6,16 @@ author: mimiss
 path: /notes/mimiss/06-03-2019/workshop-vi-how-can-an-environmental-study-effect-change.md
 nid: 19433
 uid: 579821
-
 cids: 28346
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/294/original/NAS_Community_Science_in_the_Classroom_Overview.png)
 
 # Workshop VI: How can an environmental study effect change?
 
-by [mimiss](../../../profile/mimiss) | May 16, 2019 18:46
+by [mimiss](/profile/mimiss) | May 16, 2019 18:46
 
-May 16, 2019 18:46 | Tags: [education](../tag/education), [workshop](../tag/workshop), [curriculum](../tag/curriculum), [activity:education](../tag/activity:education), [study-design](../tag/study-design), [lesson](../tag/lesson), [parent:student-led-community-science-in-the-classroom-a-curriculum](../tag/parent:student-led-community-science-in-the-classroom-a-curriculum), [activity:student-community-science](../tag/activity:student-community-science), [with:purl](../tag/with:purl)
+May 16, 2019 18:46 | Tags: [education](/tag/education), [workshop](/tag/workshop), [curriculum](/tag/curriculum), [activity:education](/tag/activity:education), [study-design](/tag/study-design), [lesson](/tag/lesson), [parent:student-led-community-science-in-the-classroom-a-curriculum](/tag/parent:student-led-community-science-in-the-classroom-a-curriculum), [activity:student-community-science](/tag/activity:student-community-science), [with:purl](/tag/with:purl)
 
 ----
 

@@ -6,16 +6,14 @@ author: birdlink
 path: /notes/birdlink/12-14-2018/need-information-on-self-watering-irrigation-systems-rainwater-capture-down-spout-filter-dew-collection-systems.md
 nid: 17902
 uid: 564432
-
 cids: 21513,21540,21550
-
 ---
 
 # need information on self-watering irrigation systems, rainwater capture down spout filter, dew collection systems
 
-by [birdlink](../../../profile/birdlink) | December 14, 2018 17:11
+by [birdlink](/profile/birdlink) | December 14, 2018 17:11
 
-December 14, 2018 17:11 | Tags: [new-york-city](../tag/new-york-city), [williamsburg](../tag/williamsburg), [irrigation](../tag/irrigation), [hardware](../tag/hardware), [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster)
+December 14, 2018 17:11 | Tags: [new-york-city](/tag/new-york-city), [williamsburg](/tag/williamsburg), [irrigation](/tag/irrigation), [hardware](/tag/hardware), [question:general](/tag/question:general), [first-time-poster](/tag/first-time-poster)
 
 ----
 

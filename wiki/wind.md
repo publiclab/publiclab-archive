@@ -6,14 +6,14 @@ author: warren
 path: /wiki/wind.md
 nid: 14531
 uid: 1
-
+cids: 
 ---
 
 # Wind
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-June 13, 2017 16:51 | Tags: [atmosphere](../tag/atmosphere), [wind](../tag/wind), [weather](../tag/weather), [activities:wind](../tag/activities:wind), [questions:wind](../tag/questions:wind)
+June 13, 2017 16:51 | Tags: [atmosphere](/tag/atmosphere), [wind](/tag/wind), [weather](/tag/weather), [activities:wind](/tag/activities:wind), [questions:wind](/tag/questions:wind)
 
 ----
 
@@ -23,9 +23,9 @@ See the [AS220 page](/as220) for some wind sensors!
 
 ## Questions
 
-[wind](../../tag/question:wind)
+[wind](/tag/question:wind)
 
 ## Related posts
 
-[wind](../../tag/wind)
+[wind](/tag/wind)
 

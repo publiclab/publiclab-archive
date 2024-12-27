@@ -6,16 +6,14 @@ author: liz
 path: /notes/liz/01-14-2019/has-anyone-used-epa-s-retigo-to-upload-air-quality-data.md
 nid: 18116
 uid: 7
-
 cids: 
-
 ---
 
 # Has anyone used EPA's RETIGO to upload air quality data?
 
-by [liz](../../../profile/liz) | January 14, 2019 20:31
+by [liz](/profile/liz) | January 14, 2019 20:31
 
-January 14, 2019 20:31 | Tags: [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [question:question](../tag/question:question), [question:epa](../tag/question:epa)
+January 14, 2019 20:31 | Tags: [air-quality](/tag/air-quality), [question:air-quality](/tag/question:air-quality), [question:question](/tag/question:question), [question:epa](/tag/question:epa)
 
 ----
 

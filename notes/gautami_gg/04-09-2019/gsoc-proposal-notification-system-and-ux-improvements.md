@@ -6,18 +6,16 @@ author: gautami_gg
 path: /notes/gautami_gg/04-09-2019/gsoc-proposal-notification-system-and-ux-improvements.md
 nid: 19012
 uid: 579624
-
 cids: 23841,23842,23873,24129
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/358/original/1_g5RBYeGe0VLB6t_ZsvO_wQ.png)
 
 # GSoC Proposal : Notification System and UX Improvements
 
-by [gautami_gg](../../../profile/gautami_gg) | April 09, 2019 16:23
+by [gautami_gg](/profile/gautami_gg) | April 09, 2019 16:23
 
-April 09, 2019 16:23 | Tags: [gsoc](../tag/gsoc), [gsoc-proposal](../tag/gsoc-proposal), [summer-of-code](../tag/summer-of-code)
+April 09, 2019 16:23 | Tags: [gsoc](/tag/gsoc), [gsoc-proposal](/tag/gsoc-proposal), [summer-of-code](/tag/summer-of-code)
 
 ----
 

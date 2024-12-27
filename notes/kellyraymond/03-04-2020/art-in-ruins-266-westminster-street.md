@@ -6,16 +6,14 @@ author: kellyraymond
 path: /notes/kellyraymond/03-04-2020/art-in-ruins-266-westminster-street.md
 nid: 23026
 uid: 664202
-
 cids: 
-
 ---
 
 # Art in Ruins (236 Westminster Street)
 
-by [kellyraymond](../../../profile/kellyraymond) | March 04, 2020 18:54
+by [kellyraymond](/profile/kellyraymond) | March 04, 2020 18:54
 
-March 04, 2020 18:54 | Tags: [hidden:response](../tag/hidden:response), [lat:41.7](../tag/lat:41.7), [lon:-71.412506](../tag/lon:-71.412506), [zoom:6](../tag/zoom:6), [lon:-71.5](../tag/lon:-71.5), [zoom:10](../tag/zoom:10), [lat:41.822501](../tag/lat:41.822501), [lat:41.822804](../tag/lat:41.822804), [lon:-71.412449](../tag/lon:-71.412449), [response:23080](../tag/response:23080)
+March 04, 2020 18:54 | Tags: [hidden:response](/tag/hidden:response), [lat:41.7](/tag/lat:41.7), [lon:-71.412506](/tag/lon:-71.412506), [zoom:6](/tag/zoom:6), [lon:-71.5](/tag/lon:-71.5), [zoom:10](/tag/zoom:10), [lat:41.822501](/tag/lat:41.822501), [lat:41.822804](/tag/lat:41.822804), [lon:-71.412449](/tag/lon:-71.412449), [response:23080](/tag/response:23080)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/2-11-2012/common-cathode-variant-thermal-flashlight-code.md
 nid: 780
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/22.jpg)
 
 # Common cathode variant of Thermal Flashlight code
 
-by [warren](../../../profile/warren) | February 12, 2012 02:08
+by [warren](/profile/warren) | February 12, 2012 02:08
 
-February 12, 2012 02:08 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [led](../tag/led), [response:625](../tag/response:625), [activity:thermal-flashlight](../tag/activity:thermal-flashlight)
+February 12, 2012 02:08 | Tags: [thermal-photography](/tag/thermal-photography), [thermal-flashlight](/tag/thermal-flashlight), [led](/tag/led), [response:625](/tag/response:625), [activity:thermal-flashlight](/tag/activity:thermal-flashlight)
 
 ----
 

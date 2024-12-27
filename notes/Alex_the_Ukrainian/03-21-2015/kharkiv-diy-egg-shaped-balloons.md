@@ -6,18 +6,16 @@ author: Alex_the_Ukrainian
 path: /notes/Alex_the_Ukrainian/03-21-2015/kharkiv-diy-egg-shaped-balloons.md
 nid: 11707
 uid: 436428
-
 cids: 11412
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/373/original/6_aloft_with_cloud.jpg)
 
 # Kharkiv' DIY egg-shaped balloons
 
-by [Alex_the_Ukrainian](../../../profile/Alex_the_Ukrainian) | March 21, 2015 17:53
+by [Alex_the_Ukrainian](/profile/Alex_the_Ukrainian) | March 21, 2015 17:53
 
-March 21, 2015 17:53 | Tags: [balloon-mapping](../tag/balloon-mapping), [heat-seaming](../tag/heat-seaming), [diy-balloon](../tag/diy-balloon), [design](../tag/design), [nature](../tag/nature), [balloon](../tag/balloon), [ukraine](../tag/ukraine), [technique](../tag/technique), [seam](../tag/seam), [semirigid](../tag/semirigid), [catenaria](../tag/catenaria), [tandem](../tag/tandem), [egg-shaped](../tag/egg-shaped), [wild](../tag/wild), [preservation](../tag/preservation), [activity:balloon-making](../tag/activity:balloon-making), [balloon-making](../tag/balloon-making)
+March 21, 2015 17:53 | Tags: [balloon-mapping](/tag/balloon-mapping), [heat-seaming](/tag/heat-seaming), [diy-balloon](/tag/diy-balloon), [design](/tag/design), [nature](/tag/nature), [balloon](/tag/balloon), [ukraine](/tag/ukraine), [technique](/tag/technique), [seam](/tag/seam), [semirigid](/tag/semirigid), [catenaria](/tag/catenaria), [tandem](/tag/tandem), [egg-shaped](/tag/egg-shaped), [wild](/tag/wild), [preservation](/tag/preservation), [activity:balloon-making](/tag/activity:balloon-making), [balloon-making](/tag/balloon-making)
 
 ----
 

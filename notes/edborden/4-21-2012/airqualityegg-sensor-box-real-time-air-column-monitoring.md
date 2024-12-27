@@ -6,18 +6,16 @@ author: edborden
 path: /notes/edborden/4-21-2012/airqualityegg-sensor-box-real-time-air-column-monitoring.md
 nid: 1743
 uid: 730
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/565335247.jpg)
 
 # AirQualityEgg sensor-box for real-time air column monitoring
 
-by [edborden](../../../profile/edborden) | April 21, 2012 23:46
+by [edborden](/profile/edborden) | April 21, 2012 23:46
 
-April 21, 2012 23:46 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
+April 21, 2012 23:46 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping)
 
 ----
 

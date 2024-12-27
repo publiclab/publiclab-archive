@@ -6,18 +6,16 @@ author: erikakovalski
 path: /notes/erikakovalski/09-24-2021/honors-thesis-project.md
 nid: 27797
 uid: 773225
-
 cids: 29260,29261,29262,29290,29291,29292,29310,29311,29330,29340,29364,29380,29407,29409,29432,29449,29474,29501,29502
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/850/original/facebook.png)
 
 # Honors Thesis Project
 
-by [erikakovalski](../../../profile/erikakovalski) | September 24, 2021 19:42
+by [erikakovalski](/profile/erikakovalski) | September 24, 2021 19:42
 
-September 24, 2021 19:42 | Tags: [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:42.386759](../tag/lat:42.386759), [lon:-72.530051](../tag/lon:-72.530051)
+September 24, 2021 19:42 | Tags: [first-time-poster](/tag/first-time-poster), [zoom:6](/tag/zoom:6), [lat:42.386759](/tag/lat:42.386759), [lon:-72.530051](/tag/lon:-72.530051)
 
 ----
 

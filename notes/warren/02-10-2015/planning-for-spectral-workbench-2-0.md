@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/02-10-2015/planning-for-spectral-workbench-2-0.md
 nid: 11572
 uid: 1
-
 cids: 11142,11144,11145,11147,11151,11152,11154,11156,11160,11161,11162,11163,11177,11183,11184,11217,11321,11445,11741,12930,12950,12951,12952,12956
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/881/original/sw.png)
 
 # Planning for Spectral Workbench 2.0
 
-by [warren](../../../profile/warren) | February 10, 2015 20:30
+by [warren](/profile/warren) | February 10, 2015 20:30
 
-February 10, 2015 20:30 | Tags: [spectrometer](../tag/spectrometer), [spectral-workbench](../tag/spectral-workbench), [oil-testing-kit](../tag/oil-testing-kit)
+February 10, 2015 20:30 | Tags: [spectrometer](/tag/spectrometer), [spectral-workbench](/tag/spectral-workbench), [oil-testing-kit](/tag/oil-testing-kit)
 
 ----
 

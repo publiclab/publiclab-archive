@@ -6,18 +6,16 @@ author: Codenlyn
 path: /notes/Codenlyn/10-25-2020/outreachy-proposal-new-dashboard-implementation-with-bootstrap-4.md
 nid: 24809
 uid: 726817
-
 cids: 27527,27539,30983
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/212/original/publiclab.png)
 
 # Outreachy proposal: New Dashboard Implementation with Bootstrap 4
 
-by [Codenlyn](../../../profile/Codenlyn) | October 25, 2020 08:57
+by [Codenlyn](/profile/Codenlyn) | October 25, 2020 08:57
 
-October 25, 2020 08:57 | Tags: [software](../tag/software), [first-time-poster](../tag/first-time-poster), [zoom:7](../tag/zoom:7), [outreachy-winter-2020](../tag/outreachy-winter-2020), [outreachy-2020-winter-proposals](../tag/outreachy-2020-winter-proposals), [response:24687](../tag/response:24687), [lat:6.533645](../tag/lat:6.533645), [lon:3.339843](../tag/lon:3.339843)
+October 25, 2020 08:57 | Tags: [software](/tag/software), [first-time-poster](/tag/first-time-poster), [zoom:7](/tag/zoom:7), [outreachy-winter-2020](/tag/outreachy-winter-2020), [outreachy-2020-winter-proposals](/tag/outreachy-2020-winter-proposals), [response:24687](/tag/response:24687), [lat:6.533645](/tag/lat:6.533645), [lon:3.339843](/tag/lon:3.339843)
 
 ----
 

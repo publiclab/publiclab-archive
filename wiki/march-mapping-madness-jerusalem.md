@@ -6,12 +6,12 @@ author: sara
 path: /wiki/march-mapping-madness-jerusalem.md
 nid: 894
 uid: 8
-
+cids: 
 ---
 
 # March Mapping Madness-Jerusalem
 
-by [sara](../profile/sara)
+by [sara](/profile/sara)
 
 March 06, 2012 01:25 | Tags: 
 

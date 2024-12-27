@@ -6,18 +6,16 @@ author: perhisohwode
 path: /notes/perhisohwode/04-16-2022/outreachy-proposal-mapknitter-org-spam-management-system.md
 nid: 30442
 uid: 793563
-
 cids: 30018,30070,30111,30170
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/841/original/spam-g7b9dab021_1920.jpg)
 
 # Outreachy proposal: MapKnitter.org Spam Management system
 
-by [perhisohwode](../../../profile/perhisohwode) | April 16, 2022 18:39
+by [perhisohwode](/profile/perhisohwode) | April 16, 2022 18:39
 
-April 16, 2022 18:39 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
+April 16, 2022 18:39 | Tags: [software](/tag/software), [outreachy](/tag/outreachy), [first-time-poster](/tag/first-time-poster), [outreachy-2022](/tag/outreachy-2022), [outreachy-summer-2022](/tag/outreachy-summer-2022)
 
 ----
 

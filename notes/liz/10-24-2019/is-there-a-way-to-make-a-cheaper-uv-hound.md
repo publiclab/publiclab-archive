@@ -6,16 +6,14 @@ author: liz
 path: /notes/liz/10-24-2019/is-there-a-way-to-make-a-cheaper-uv-hound.md
 nid: 21284
 uid: 7
-
 cids: 25741,25742,25744,26001,26002,26004,26108,26110,26117,26121,26130,26140,26159
-
 ---
 
 # Is there a way to make a cheaper "UV Hound"?
 
-by [liz](../../../profile/liz) | October 24, 2019 19:03
+by [liz](/profile/liz) | October 24, 2019 19:03
 
-October 24, 2019 19:03 | Tags: [uv](../tag/uv), [spectrometry](../tag/spectrometry), [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [mass-spectrometry](../tag/mass-spectrometry)
+October 24, 2019 19:03 | Tags: [uv](/tag/uv), [spectrometry](/tag/spectrometry), [air-quality](/tag/air-quality), [question:air-quality](/tag/question:air-quality), [mass-spectrometry](/tag/mass-spectrometry)
 
 ----
 

@@ -6,18 +6,16 @@ author: jbest
 path: /notes/jbest/11-15-2013/the-brit-camera-rig.md
 nid: 9785
 uid: 194322
-
 cids: 7628,7630
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/239/original/IMG_2922.JPG)
 
 # The BRIT camera rig
 
-by [jbest](../../../profile/jbest) | November 15, 2013 20:17
+by [jbest](/profile/jbest) | November 15, 2013 20:17
 
-November 15, 2013 20:17 | Tags: [balloon-mapping](../tag/balloon-mapping), [picavet](../tag/picavet), [photo-rig](../tag/photo-rig), [response:9742](../tag/response:9742), [activity:photo-rig](../tag/activity:photo-rig)
+November 15, 2013 20:17 | Tags: [balloon-mapping](/tag/balloon-mapping), [picavet](/tag/picavet), [photo-rig](/tag/photo-rig), [response:9742](/tag/response:9742), [activity:photo-rig](/tag/activity:photo-rig)
 
 ----
 

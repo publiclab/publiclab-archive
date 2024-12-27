@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/06-15-2016/in-the-heat-of-the-pile.md
 nid: 13197
 uid: 554
-
 cids: 14769,14770,14771
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/642/original/Compost_B3_After.jpg)
 
 # In the heat of the pile
 
-by [cfastie](../../../profile/cfastie) | June 15, 2016 03:19
+by [cfastie](/profile/cfastie) | June 15, 2016 03:19
 
-June 15, 2016 03:19 | Tags: [arduino](../tag/arduino), [vermont](../tag/vermont), [temperature](../tag/temperature), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [humidity](../tag/humidity), [compost](../tag/compost), [response:13182](../tag/response:13182), [category:observe](../tag/category:observe), [data-logging](../tag/data-logging), [activity:riffle](../tag/activity:riffle), [riffle-examples](../tag/riffle-examples), [activity:data-logging](../tag/activity:data-logging)
+June 15, 2016 03:19 | Tags: [arduino](/tag/arduino), [vermont](/tag/vermont), [temperature](/tag/temperature), [sensors](/tag/sensors), [water-quality](/tag/water-quality), [riffle](/tag/riffle), [humidity](/tag/humidity), [compost](/tag/compost), [response:13182](/tag/response:13182), [category:observe](/tag/category:observe), [data-logging](/tag/data-logging), [activity:riffle](/tag/activity:riffle), [riffle-examples](/tag/riffle-examples), [activity:data-logging](/tag/activity:data-logging)
 
 ----
 

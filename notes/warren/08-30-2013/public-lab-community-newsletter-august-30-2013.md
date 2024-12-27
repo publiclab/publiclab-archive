@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/08-30-2013/public-lab-community-newsletter-august-30-2013.md
 nid: 9079
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/347/original/img_1990_r_20.jpg)
 
 # Public Lab Community Newsletter - August 30, 2013
 
-by [warren](../../../profile/warren) | August 30, 2013 16:31
+by [warren](/profile/warren) | August 30, 2013 16:31
 
-August 30, 2013 16:31 | Tags: [newsletter](../tag/newsletter), [blog](../tag/blog), [newsletter-archive](../tag/newsletter-archive)
+August 30, 2013 16:31 | Tags: [newsletter](/tag/newsletter), [blog](/tag/blog), [newsletter-archive](/tag/newsletter-archive)
 
 ----
 

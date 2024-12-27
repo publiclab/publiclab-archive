@@ -6,12 +6,12 @@ author: donblair
 path: /wiki/bustr.md
 nid: 12675
 uid: 43651
-
+cids: 
 ---
 
 # bustr
 
-by [donblair](../profile/donblair)
+by [donblair](/profile/donblair)
 
 February 10, 2016 06:53 | Tags: 
 

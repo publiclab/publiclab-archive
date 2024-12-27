@@ -6,16 +6,14 @@ author: Adreenah
 path: /notes/Adreenah/11-23-2020/mutual-aid-in-the-mist-of-a-pandemic.md
 nid: 25096
 uid: 730104
-
 cids: 
-
 ---
 
 # Mutual Aid in the Mist of a Pandemic 
 
-by [Adreenah](../../../profile/Adreenah) | November 23, 2020 20:41
+by [Adreenah](/profile/Adreenah) | November 23, 2020 20:41
 
-November 23, 2020 20:41 | Tags: [gulf-coast](../tag/gulf-coast), [organizing](../tag/organizing), [florida](../tag/florida), [issue-brief](../tag/issue-brief), [first-time-poster](../tag/first-time-poster), [zoom:3](../tag/zoom:3), [covid-19](../tag/covid-19), [lat:29.726222](../tag/lat:29.726222), [lon:-84.990234](../tag/lon:-84.990234), [mutual-aid](../tag/mutual-aid), [apalachicola](../tag/apalachicola), [resource-guides](../tag/resource-guides)
+November 23, 2020 20:41 | Tags: [gulf-coast](/tag/gulf-coast), [organizing](/tag/organizing), [florida](/tag/florida), [issue-brief](/tag/issue-brief), [first-time-poster](/tag/first-time-poster), [zoom:3](/tag/zoom:3), [covid-19](/tag/covid-19), [lat:29.726222](/tag/lat:29.726222), [lon:-84.990234](/tag/lon:-84.990234), [mutual-aid](/tag/mutual-aid), [apalachicola](/tag/apalachicola), [resource-guides](/tag/resource-guides)
 
 ----
 
@@ -63,4 +61,4 @@ What community groups need to be a part of this effort?
 
 How can mutual aid and funding from the government/public assistance go hand in hand?
 
-[mutual-aid](../../tag/question:mutual-aid)
+[mutual-aid](/tag/question:mutual-aid)

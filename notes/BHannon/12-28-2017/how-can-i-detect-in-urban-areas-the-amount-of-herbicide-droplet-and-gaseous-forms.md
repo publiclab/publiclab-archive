@@ -6,16 +6,14 @@ author: BHannon
 path: /notes/BHannon/12-28-2017/how-can-i-detect-in-urban-areas-the-amount-of-herbicide-droplet-and-gaseous-forms.md
 nid: 15441
 uid: 521430
-
 cids: 
-
 ---
 
 # How can I detect in urban areas the amount of herbicide droplet and gaseous forms?
 
-by [BHannon](../../../profile/BHannon) | December 28, 2017 18:48
+by [BHannon](/profile/BHannon) | December 28, 2017 18:48
 
-December 28, 2017 18:48 | Tags: [health](../tag/health), [2](../tag/2), [impacts](../tag/impacts), [question:general](../tag/question:general), [question:agriculture](../tag/question:agriculture), [herbicides](../tag/herbicides), [drift](../tag/drift), [dicamba](../tag/dicamba), [4d](../tag/4d)
+December 28, 2017 18:48 | Tags: [health](/tag/health), [2](/tag/2), [impacts](/tag/impacts), [question:general](/tag/question:general), [question:agriculture](/tag/question:agriculture), [herbicides](/tag/herbicides), [drift](/tag/drift), [dicamba](/tag/dicamba), [4d](/tag/4d)
 
 ----
 

@@ -6,18 +6,16 @@ author: eymund
 path: /notes/eymund/12-14-2014/having-fun-while-exploring-a-sinking-world.md
 nid: 11455
 uid: 1016
-
 cids: 10948,10952,10963
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/359/original/0_2014_11_15_Cocodrie_Barn_Raising_is_Kite_Mapping_Fun_3.gif)
 
 # Having Fun while Exploring a Sinking World
 
-by [eymund](../../../profile/eymund) | December 14, 2014 13:19
+by [eymund](/profile/eymund) | December 14, 2014 13:19
 
-December 14, 2014 13:19 | Tags: [new-york-city](../tag/new-york-city), [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [kite](../tag/kite), [mapping](../tag/mapping), [barnraising](../tag/barnraising), [lat:29.382175](../tag/lat:29.382175), [lon:-90.62622](../tag/lon:-90.62622), [place:cocodrie-louisiana](../tag/place:cocodrie-louisiana)
+December 14, 2014 13:19 | Tags: [new-york-city](/tag/new-york-city), [gulf-coast](/tag/gulf-coast), [kite-mapping](/tag/kite-mapping), [wetlands](/tag/wetlands), [kite](/tag/kite), [mapping](/tag/mapping), [barnraising](/tag/barnraising), [lat:29.382175](/tag/lat:29.382175), [lon:-90.62622](/tag/lon:-90.62622), [place:cocodrie-louisiana](/tag/place:cocodrie-louisiana)
 
 ----
 

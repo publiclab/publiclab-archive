@@ -6,18 +6,16 @@ author: JuliaR
 path: /notes/JuliaR/11-17-2014/thermal-flashlight-env-tech_neu_2014.md
 nid: 11355
 uid: 431607
-
 cids: 10772
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/956/original/!!!photo_1.JPG)
 
 # Thermal flashlight - ENV+TECH_NEU_2014
 
-by [JuliaR](../../../profile/JuliaR) | November 17, 2014 16:06
+by [JuliaR](/profile/JuliaR) | November 17, 2014 16:06
 
-November 17, 2014 16:06 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [northeastern-university](../tag/northeastern-university), [insulation](../tag/insulation), [heat](../tag/heat), [replication:625](../tag/replication:625)
+November 17, 2014 16:06 | Tags: [thermal-photography](/tag/thermal-photography), [thermal-flashlight](/tag/thermal-flashlight), [northeastern-university](/tag/northeastern-university), [insulation](/tag/insulation), [heat](/tag/heat), [replication:625](/tag/replication:625)
 
 ----
 

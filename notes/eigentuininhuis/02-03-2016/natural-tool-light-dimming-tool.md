@@ -6,18 +6,16 @@ author: eigentuininhuis
 path: /notes/eigentuininhuis/02-03-2016/natural-tool-light-dimming-tool.md
 nid: 12650
 uid: 460522
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/061/original/image.jpeg)
 
 # Natural tool light dimming tool
 
-by [eigentuininhuis](../../../profile/eigentuininhuis) | February 03, 2016 23:48
+by [eigentuininhuis](/profile/eigentuininhuis) | February 03, 2016 23:48
 
-February 03, 2016 23:48 | Tags: [spectrometer](../tag/spectrometer), [mango](../tag/mango)
+February 03, 2016 23:48 | Tags: [spectrometer](/tag/spectrometer), [mango](/tag/mango)
 
 ----
 

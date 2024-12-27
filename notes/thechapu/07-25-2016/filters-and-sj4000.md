@@ -6,16 +6,14 @@ author: thechapu
 path: /notes/thechapu/07-25-2016/filters-and-sj4000.md
 nid: 13307
 uid: 478881
-
 cids: 15017,15018,15020,15028,15031,15043,15046,15048,15049
-
 ---
 
 # Filters and SJ4000
 
-by [thechapu](../../../profile/thechapu) | July 25, 2016 01:45
+by [thechapu](/profile/thechapu) | July 25, 2016 01:45
 
-July 25, 2016 01:45 | Tags: [ndvi](../tag/ndvi), [filter](../tag/filter), [sj4000](../tag/sj4000)
+July 25, 2016 01:45 | Tags: [ndvi](/tag/ndvi), [filter](/tag/filter), [sj4000](/tag/sj4000)
 
 ----
 

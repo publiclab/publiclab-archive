@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/03-08-2016/removing-ambient-background-light-from-turbidity-measurements-through-signal-modulation.md
 nid: 12782
 uid: 43651
-
 cids: 13819,14008,14029,14042,14066,14067
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/674/original/fig9.png)
 
 # Removing ambient interference from turbidity measurements through signal modulation
 
-by [donblair](../../../profile/donblair) | March 08, 2016 04:12
+by [donblair](/profile/donblair) | March 08, 2016 04:12
 
-March 08, 2016 04:12 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [turbidity](../tag/turbidity), [open-water](../tag/open-water), [barnstar:basic](../tag/barnstar:basic)
+March 08, 2016 04:12 | Tags: [water-quality](/tag/water-quality), [water](/tag/water), [turbidity](/tag/turbidity), [open-water](/tag/open-water), [barnstar:basic](/tag/barnstar:basic)
 
 ----
 

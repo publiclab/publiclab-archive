@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/12-11-2015/scanning-the-oil-testing-kit-beta-samples.md
 nid: 12500
 uid: 422561
-
 cids: 13091,13094,13095,13096,13097,13098,13099,13100
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/279/original/80w90.png)
 
 # Scanning the Oil Testing Kit beta samples
 
-by [stevie](../../../profile/stevie) | December 11, 2015 20:46
+by [stevie](/profile/stevie) | December 11, 2015 20:46
 
-December 11, 2015 20:46 | Tags: [spectrometer](../tag/spectrometer), [oil-testing](../tag/oil-testing), [oil-testing-kit](../tag/oil-testing-kit), [otk](../tag/otk), [oiltestingkit](../tag/oiltestingkit), [otkbeta](../tag/otkbeta), [pipeline-monitoring](../tag/pipeline-monitoring)
+December 11, 2015 20:46 | Tags: [spectrometer](/tag/spectrometer), [oil-testing](/tag/oil-testing), [oil-testing-kit](/tag/oil-testing-kit), [otk](/tag/otk), [oiltestingkit](/tag/oiltestingkit), [otkbeta](/tag/otkbeta), [pipeline-monitoring](/tag/pipeline-monitoring)
 
 ----
 

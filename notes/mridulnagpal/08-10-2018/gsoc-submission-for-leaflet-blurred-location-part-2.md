@@ -6,18 +6,16 @@ author: mridulnagpal
 path: /notes/mridulnagpal/08-10-2018/gsoc-submission-for-leaflet-blurred-location-part-2.md
 nid: 16906
 uid: 497953
-
 cids: 20370
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/143/original/Display.png)
 
 # GSoC Submission for Leaflet Blurred Location Part 2
 
-by [mridulnagpal](../../../profile/mridulnagpal) | August 10, 2018 14:57
+by [mridulnagpal](/profile/mridulnagpal) | August 10, 2018 14:57
 
-August 10, 2018 14:57 | Tags: [gsoc](../tag/gsoc), [leaflet](../tag/leaflet), [soc](../tag/soc), [gsoc-2018-final](../tag/gsoc-2018-final), [soc-2018-final-report](../tag/soc-2018-final-report)
+August 10, 2018 14:57 | Tags: [gsoc](/tag/gsoc), [leaflet](/tag/leaflet), [soc](/tag/soc), [gsoc-2018-final](/tag/gsoc-2018-final), [soc-2018-final-report](/tag/soc-2018-final-report)
 
 ----
 

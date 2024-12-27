@@ -6,16 +6,14 @@ author: LaurenComSciATL
 path: /notes/LaurenComSciATL/02-28-2019/any-tips-on-the-search-for-accessible-and-safe-stream-entry-points-in-an-urban-forest.md
 nid: 18438
 uid: 574393
-
 cids: 
-
 ---
 
 # Any tips on the search for accessible and safe stream entry points in an urban forest?
 
-by [LaurenComSciATL](../../../profile/LaurenComSciATL) | February 28, 2019 20:10
+by [LaurenComSciATL](/profile/LaurenComSciATL) | February 28, 2019 20:10
 
-February 28, 2019 20:10 | Tags: [question:water-quality](../tag/question:water-quality)
+February 28, 2019 20:10 | Tags: [question:water-quality](/tag/question:water-quality)
 
 ----
 

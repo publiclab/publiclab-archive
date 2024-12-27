@@ -6,18 +6,16 @@ author: rbothra77
 path: /notes/rbothra77/03-15-2020/gsoc-proposal-printability-of-posts-and-wiki-pages.md
 nid: 23144
 uid: 568534
-
 cids: 26538,26539,26540,26608
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/527/original/gsoc.png)
 
 # GSOC Proposal : Printability of posts and wiki pages
 
-by [rbothra77](../../../profile/rbothra77) | March 15, 2020 08:42
+by [rbothra77](/profile/rbothra77) | March 15, 2020 08:42
 
-March 15, 2020 08:42 | Tags: [gsoc](../tag/gsoc), [printability](../tag/printability), [first-time-poster](../tag/first-time-poster), [gsoc-2020](../tag/gsoc-2020)
+March 15, 2020 08:42 | Tags: [gsoc](/tag/gsoc), [printability](/tag/printability), [first-time-poster](/tag/first-time-poster), [gsoc-2020](/tag/gsoc-2020)
 
 ----
 

@@ -6,16 +6,14 @@ author: wijnand_doffer
 path: /notes/wijnand_doffer/03-19-2021/every-spectrum-is-on-its-side.md
 nid: 25976
 uid: 747913
-
 cids: 28393,28425
-
 ---
 
 # Every spectrum is on its side?
 
-by [wijnand_doffer](../../../profile/wijnand_doffer) | March 19, 2021 14:32
+by [wijnand_doffer](/profile/wijnand_doffer) | March 19, 2021 14:32
 
-March 19, 2021 14:32 | Tags: [webcam](../tag/webcam), [spectral-workbench](../tag/spectral-workbench), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
+March 19, 2021 14:32 | Tags: [webcam](/tag/webcam), [spectral-workbench](/tag/spectral-workbench), [question:general](/tag/question:general), [general](/tag/general), [first-time-poster](/tag/first-time-poster)
 
 ----
 

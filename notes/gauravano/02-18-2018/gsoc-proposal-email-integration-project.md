@@ -6,18 +6,16 @@ author: gauravano
 path: /notes/gauravano/02-18-2018/gsoc-proposal-email-integration-project.md
 nid: 15757
 uid: 515081
-
 cids: 18493,18697,18699,18703,18705,18706,18707,18708,18710,18730,18742,18768,18774,18875,18879,18995,18996,18997,19012,19029,19030,19056,19069,19070,19074,19075,19081,19083,19084,19087,19088,19099,19100,19102,19103,19227,19228,19230,19557,20446,20452
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/605/original/email-2.jpg)
 
 # GSoC Proposal: Draft Feature & Email Integration Project
 
-by [gauravano](../../../profile/gauravano) | February 18, 2018 00:24
+by [gauravano](/profile/gauravano) | February 18, 2018 00:24
 
-February 18, 2018 00:24 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [soc-2018-email](../tag/soc-2018-email), [gsoc-2018-final](../tag/gsoc-2018-final), [first-time-poster](../tag/first-time-poster)
+February 18, 2018 00:24 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [soc](/tag/soc), [response:13975](/tag/response:13975), [gsoc-2018](/tag/gsoc-2018), [soc-2018](/tag/soc-2018), [soc-2018-proposals](/tag/soc-2018-proposals), [soc-2018-email](/tag/soc-2018-email), [gsoc-2018-final](/tag/gsoc-2018-final), [first-time-poster](/tag/first-time-poster)
 
 ----
 

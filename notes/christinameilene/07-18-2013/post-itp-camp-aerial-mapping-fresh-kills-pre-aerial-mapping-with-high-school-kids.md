@@ -6,18 +6,16 @@ author: christinameilene
 path: /notes/christinameilene/07-18-2013/post-itp-camp-aerial-mapping-fresh-kills-pre-aerial-mapping-with-high-school-kids.md
 nid: 8907
 uid: 170195
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/841/original/9112187334_e1a6c13ddc_c.jpg)
 
 # Post-ITP Camp Aerial Mapping @ Fresh Kills, Pre-Aerial Mapping with High School Kids!
 
-by [christinameilene](../../../profile/christinameilene) | July 18, 2013 22:22
+by [christinameilene](/profile/christinameilene) | July 18, 2013 22:22
 
-July 18, 2013 22:22 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [landfill](../tag/landfill), [waste](../tag/waste), [trash](../tag/trash), [fresh-kills](../tag/fresh-kills), [itp](../tag/itp), [high-school](../tag/high-school)
+July 18, 2013 22:22 | Tags: [new-york-city](/tag/new-york-city), [balloon-mapping](/tag/balloon-mapping), [landfill](/tag/landfill), [waste](/tag/waste), [trash](/tag/trash), [fresh-kills](/tag/fresh-kills), [itp](/tag/itp), [high-school](/tag/high-school)
 
 ----
 

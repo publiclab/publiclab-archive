@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/03-13-2018/what-should-we-look-for-when-sourcing-turbidity-tubes.md
 nid: 15937
 uid: 422561
-
 cids: 18949,18953,18990,18998,22996,23003,23018
-
 ---
 
 # What should we look for when sourcing turbidity tubes? 
 
-by [stevie](../../../profile/stevie) | March 13, 2018 15:39
+by [stevie](/profile/stevie) | March 13, 2018 15:39
 
-March 13, 2018 15:39 | Tags: [turbidity](../tag/turbidity), [answered](../tag/answered), [question:water-quality](../tag/question:water-quality), [question:water-sampling](../tag/question:water-sampling), [question:sample-collection](../tag/question:sample-collection), [question:turbidity](../tag/question:turbidity)
+March 13, 2018 15:39 | Tags: [turbidity](/tag/turbidity), [answered](/tag/answered), [question:water-quality](/tag/question:water-quality), [question:water-sampling](/tag/question:water-sampling), [question:sample-collection](/tag/question:sample-collection), [question:turbidity](/tag/question:turbidity)
 
 ----
 

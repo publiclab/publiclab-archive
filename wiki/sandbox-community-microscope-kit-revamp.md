@@ -6,16 +6,16 @@ author: mimiss
 path: /wiki/sandbox-community-microscope-kit-revamp.md
 nid: 20417
 uid: 579821
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/309/original/a8a6a2585e29b1c8e070d969679ade52_original_%281%29.png)
 
 # sandbox-community-microscope-kit-revamp
 
-by [mimiss](../profile/mimiss), [warren](../profile/warren)
+by [mimiss](/profile/mimiss), [warren](/profile/warren)
 
-August 05, 2019 18:11 | Tags: [community-microscope](../tag/community-microscope)
+August 05, 2019 18:11 | Tags: [community-microscope](/tag/community-microscope)
 
 ----
 
@@ -159,7 +159,7 @@ There is so much that you can do with your microscope! Learn more about what the
 
 Check out these activities to get started using your microscope.
 
-[activity:starter-community-microscope](../../tag/activity:starter-community-microscope)
+[activity:starter-community-microscope](/tag/activity:starter-community-microscope)
 
 Our community members have done even more cool stuff, [which you can see here](https://publiclab.org/tag/activity:microscope) _(links to tag page for activity:microscope, that page will need a new image, link back to some wiki?)_
 
@@ -167,13 +167,13 @@ Our community members have done even more cool stuff, [which you can see here](h
 
 Public Lab tools, like the community microscope, can be used in educational settings. Educators at Public Lab have created these materials to get you started using the Community Microscope Kit. [You can learn more about Public Lab's Education initiative here.](publiclab.org/wiki/education)
 
-[lesson-community-microscope](../../tag/lesson-community-microscope)
+[lesson-community-microscope](/tag/lesson-community-microscope)
 
 ### Workshops
 
 Science is better together! Here are some examples of how the community microscope has been used in a workshop setting. Check these out and share your own!
 
-[workshop-community-microscope](../../tag/workshop-community-microscope)
+[workshop-community-microscope](/tag/workshop-community-microscope)
 
 ****
 
@@ -181,7 +181,7 @@ Science is better together! Here are some examples of how the community microsco
 
 Check out these questions and answer's from our community to get you started! 
 
-[FAQ-community-microscope](../../tag/question:FAQ-community-microscope)
+[FAQ-community-microscope](/tag/question:FAQ-community-microscope)
 
 Want to see more questions from our community? [See more questions about the Community Microscope here](https://publiclab.org/questions/tag/community-microscope). _(this links  to all the questions tagged as community-microscope)_
 

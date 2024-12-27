@@ -6,18 +6,16 @@ author: mlamadrid
 path: /notes/mlamadrid/12-05-2017/what-s-happening-with-government-agencies-environmental-justice-work.md
 nid: 15312
 uid: 45586
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/809/original/TPL_ga_chattahoochee_02012017_005.jpg)
 
 # What's happening with government agencies' environmental justice work?
 
-by [mlamadrid](../../../profile/mlamadrid) | December 05, 2017 23:49
+by [mlamadrid](/profile/mlamadrid) | December 05, 2017 23:49
 
-December 05, 2017 23:49 | Tags: [data](../tag/data), [environmental](../tag/environmental), [environmental-justice](../tag/environmental-justice), [governance](../tag/governance), [chattahoochee](../tag/chattahoochee), [public-awareness](../tag/public-awareness)
+December 05, 2017 23:49 | Tags: [data](/tag/data), [environmental](/tag/environmental), [environmental-justice](/tag/environmental-justice), [governance](/tag/governance), [chattahoochee](/tag/chattahoochee), [public-awareness](/tag/public-awareness)
 
 ----
 

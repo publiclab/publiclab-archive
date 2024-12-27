@@ -6,16 +6,14 @@ author: gonzoearth
 path: /notes/gonzoearth/7-19-2012/high-altitude-flight-uses-radio-and-open-hardware.md
 nid: 2892
 uid: 12
-
 cids: 1063,26417
-
 ---
 
 # High altitude flight uses radio and open hardware
 
-by [gonzoearth](../../../profile/gonzoearth) | July 19, 2012 14:49
+by [gonzoearth](/profile/gonzoearth) | July 19, 2012 14:49
 
-July 19, 2012 14:49 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
+July 19, 2012 14:49 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping)
 
 ----
 

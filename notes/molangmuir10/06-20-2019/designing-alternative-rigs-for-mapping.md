@@ -6,18 +6,16 @@ author: molangmuir10
 path: /notes/molangmuir10/06-20-2019/designing-alternative-rigs-for-mapping.md
 nid: 19761
 uid: 589023
-
 cids: 24840,24841,24845,24853
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/038/original/IMG_20190620_131321.jpg)
 
 # Child-led R&D of camera rigs for mapping
 
-by [molangmuir10](../../../profile/molangmuir10) | June 20, 2019 15:01
+by [molangmuir10](/profile/molangmuir10) | June 20, 2019 15:01
 
-June 20, 2019 15:01 | Tags: [education](../tag/education), [rig](../tag/rig), [photo-rig](../tag/photo-rig), [camera](../tag/camera), [classroom](../tag/classroom), [activity:photo-rig](../tag/activity:photo-rig), [ballon-mapping](../tag/ballon-mapping), [activity:classroom](../tag/activity:classroom), [community-atlas](../tag/community-atlas), [urbangreeninginnottingham](../tag/urbangreeninginnottingham), [urbangreeningnottingham](../tag/urbangreeningnottingham), [activity:urbangreeninginnottingham](../tag/activity:urbangreeninginnottingham)
+June 20, 2019 15:01 | Tags: [education](/tag/education), [rig](/tag/rig), [photo-rig](/tag/photo-rig), [camera](/tag/camera), [classroom](/tag/classroom), [activity:photo-rig](/tag/activity:photo-rig), [ballon-mapping](/tag/ballon-mapping), [activity:classroom](/tag/activity:classroom), [community-atlas](/tag/community-atlas), [urbangreeninginnottingham](/tag/urbangreeninginnottingham), [urbangreeningnottingham](/tag/urbangreeningnottingham), [activity:urbangreeninginnottingham](/tag/activity:urbangreeninginnottingham)
 
 ----
 

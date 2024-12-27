@@ -6,18 +6,16 @@ author: ronhuber
 path: /notes/RonHuber/06-29-2014/stockton-harbor-me-acid-waste-site-got-sensors-july-17th-fly-w-them-over-gac.md
 nid: 10629
 uid: 437
-
 cids: 9368
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/014/original/gacshore_050113_gac_abandoned_bldg_tank_pollutedflat6.jpg)
 
 # Stockton Harbor, Me acid waste site overflight UPDATE
 
-by [ronhuber](../../../profile/ronhuber) | June 29, 2014 01:28
+by [ronhuber](/profile/ronhuber) | June 29, 2014 01:28
 
-June 29, 2014 01:28 | Tags: [maine](../tag/maine), [northeast](../tag/northeast), [searsport](../tag/searsport), [acid](../tag/acid), [gac](../tag/gac), [sulfuric](../tag/sulfuric), [phosoh](../tag/phosoh), [barnstar:watchdog](../tag/barnstar:watchdog)
+June 29, 2014 01:28 | Tags: [maine](/tag/maine), [northeast](/tag/northeast), [searsport](/tag/searsport), [acid](/tag/acid), [gac](/tag/gac), [sulfuric](/tag/sulfuric), [phosoh](/tag/phosoh), [barnstar:watchdog](/tag/barnstar:watchdog)
 
 ----
 

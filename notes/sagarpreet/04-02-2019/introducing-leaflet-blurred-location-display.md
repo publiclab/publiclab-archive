@@ -6,18 +6,16 @@ author: sagarpreet
 path: /notes/sagarpreet/04-02-2019/introducing-leaflet-blurred-location-display.md
 nid: 18933
 uid: 516343
-
 cids: 23622,23623,23652,23840,23843
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/972/original/Screenshot_2019-04-02_at_12.53.20_PM.png)
 
 # Introducing Leaflet Blurred Location Display Library .
 
-by [sagarpreet](../../../profile/sagarpreet) | April 02, 2019 08:02
+by [sagarpreet](/profile/sagarpreet) | April 02, 2019 08:02
 
-April 02, 2019 08:02 | Tags: [website](../tag/website), [blog](../tag/blog), [leaflet](../tag/leaflet), [location](../tag/location), [lat:28](../tag/lat:28), [lon:77](../tag/lon:77), [location-privacy](../tag/location-privacy), [f3](../tag/f3)
+April 02, 2019 08:02 | Tags: [website](/tag/website), [blog](/tag/blog), [leaflet](/tag/leaflet), [location](/tag/location), [lat:28](/tag/lat:28), [lon:77](/tag/lon:77), [location-privacy](/tag/location-privacy), [f3](/tag/f3)
 
 ----
 

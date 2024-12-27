@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/02-18-2016/peak-and-fwhm-data-for-uv-laser-baselines.md
 nid: 12705
 uid: 461120
-
 cids: 13672,13677
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/368/original/UV_405nm_peak_data_baseline_comparisons_feb17.png)
 
 # Peak and FWHM data for UV laser baselines
 
-by [dhaffnersr](../../../profile/dhaffnersr) | February 18, 2016 13:06
+by [dhaffnersr](/profile/dhaffnersr) | February 18, 2016 13:06
 
 February 18, 2016 13:06 | Tags: 
 

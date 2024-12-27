@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/05-04-2021/intermittent-issues-logging-into-mapknitter.md
 nid: 26489
 uid: 1
-
 cids: 
-
 ---
 
 # Intermittent issues logging into MapKnitter
 
-by [warren](../../../profile/warren) | May 04, 2021 17:24
+by [warren](/profile/warren) | May 04, 2021 17:24
 
-May 04, 2021 17:24 | Tags: [mapknitter](../tag/mapknitter), [question:mapknitter](../tag/question:mapknitter)
+May 04, 2021 17:24 | Tags: [mapknitter](/tag/mapknitter), [question:mapknitter](/tag/question:mapknitter)
 
 ----
 

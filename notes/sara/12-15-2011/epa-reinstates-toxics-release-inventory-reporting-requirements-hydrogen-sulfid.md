@@ -6,16 +6,14 @@ author: sara
 path: /notes/sara/12-15-2011/epa-reinstates-toxics-release-inventory-reporting-requirements-hydrogen-sulfid.md
 nid: 642
 uid: 8
-
 cids: 
-
 ---
 
 # EPA Reinstates Toxics Release Inventory Reporting Requirements For Hydrogen Sulfide 
 
-by [sara](../../../profile/sara) | December 15, 2011 19:15
+by [sara](/profile/sara) | December 15, 2011 19:15
 
-December 15, 2011 19:15 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-sites](../tag/h2s-sites)
+December 15, 2011 19:15 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [h2s-sites](/tag/h2s-sites)
 
 ----
 

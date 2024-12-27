@@ -6,14 +6,14 @@ author: warren
 path: /wiki/templates.md
 nid: 15481
 uid: 1
-
+cids: 
 ---
 
 # templates
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-January 08, 2018 20:45 | Tags: [redirect:15049](../tag/redirect:15049)
+January 08, 2018 20:45 | Tags: [redirect:15049](/tag/redirect:15049)
 
 ----
 

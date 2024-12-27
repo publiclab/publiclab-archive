@@ -6,14 +6,14 @@ author: laurel_mire
 path: /wiki/fracking.md
 nid: 28124
 uid: 759178
-
+cids: 
 ---
 
 # Fracking
 
-by [laurel_mire](../profile/laurel_mire)
+by [laurel_mire](/profile/laurel_mire)
 
-November 17, 2021 23:35 | Tags: [fracking](../tag/fracking), [environmental](../tag/environmental), [hydrofracking](../tag/hydrofracking), [oil-and-gas](../tag/oil-and-gas)
+November 17, 2021 23:35 | Tags: [fracking](/tag/fracking), [environmental](/tag/environmental), [hydrofracking](/tag/hydrofracking), [oil-and-gas](/tag/oil-and-gas)
 
 ----
 
@@ -28,14 +28,14 @@ _**Hydraulic fracturing (aka fracking or hydrofracking) makes up a growing porti
 ##Questions
 Questions from the Public Lab community tagged with 'fracking' will appear here
 
-[fracking](../../tag/question:fracking)
+[fracking](/tag/question:fracking)
 
 <br>
 
 ##Activities
 Activities on Public Lab tagged with 'fracking' will appear here
 
-[fracking](../../tag/activity:fracking)
+[fracking](/tag/activity:fracking)
 
 <br>
 

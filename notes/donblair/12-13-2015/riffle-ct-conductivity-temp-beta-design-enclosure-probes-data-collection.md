@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/12-13-2015/riffle-ct-conductivity-temp-beta-design-enclosure-probes-data-collection.md
 nid: 12511
 uid: 43651
-
 cids: 13093,13109,13110,13111,13115,13116,13118,13136,13165,13166,13184,13185,13186,13188,13216,13257
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/299/original/riffle-ito-A.png)
 
 # Riffle CT (Conductivity & Temp) Beta Design: Electronics, Enclosure, Probes, Data Collection
 
-by [donblair](../../../profile/donblair) | December 13, 2015 23:30
+by [donblair](/profile/donblair) | December 13, 2015 23:30
 
-December 13, 2015 23:30 | Tags: [water-quality](../tag/water-quality), [datalogger](../tag/datalogger), [logging](../tag/logging), [riffle](../tag/riffle), [beta](../tag/beta)
+December 13, 2015 23:30 | Tags: [water-quality](/tag/water-quality), [datalogger](/tag/datalogger), [logging](/tag/logging), [riffle](/tag/riffle), [beta](/tag/beta)
 
 ----
 

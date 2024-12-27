@@ -6,16 +6,14 @@ author: Aman007
 path: /notes/Aman007/02-26-2018/how-can-i-validate-the-ndvi-images.md
 nid: 15815
 uid: 526101
-
 cids: 
-
 ---
 
 # How can I validate the NDVI images
 
-by [Aman007](../../../profile/Aman007) | February 26, 2018 05:03
+by [Aman007](/profile/Aman007) | February 26, 2018 05:03
 
-February 26, 2018 05:03 | Tags: [infragram](../tag/infragram), [question:infragram](../tag/question:infragram)
+February 26, 2018 05:03 | Tags: [infragram](/tag/infragram), [question:infragram](/tag/question:infragram)
 
 ----
 

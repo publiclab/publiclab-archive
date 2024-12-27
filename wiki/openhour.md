@@ -6,16 +6,16 @@ author: liz
 path: /wiki/openhour.md
 nid: 10388
 uid: 7
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/896/original/2014-07-28-OpenHourSophie.png)
 
 # OpenHour
 
-by [stevie](../profile/stevie), [amocorro](../profile/amocorro), [liz](../profile/liz), [joyofsoy](../profile/joyofsoy), [mimiss](../profile/mimiss), [Bronwen](../profile/Bronwen), [warren](../profile/warren), [klie](../profile/klie), [mfrangos](../profile/mfrangos), [BrandonFeenstra](../profile/BrandonFeenstra), [alisonjparker](../profile/alisonjparker), [eustatic](../profile/eustatic), [ann](../profile/ann), [vastine](../profile/vastine), [danbeavers](../profile/danbeavers), [jeremyb](../profile/jeremyb)
+by [stevie](/profile/stevie), [amocorro](/profile/amocorro), [liz](/profile/liz), [joyofsoy](/profile/joyofsoy), [mimiss](/profile/mimiss), [Bronwen](/profile/Bronwen), [warren](/profile/warren), [klie](/profile/klie), [mfrangos](/profile/mfrangos), [BrandonFeenstra](/profile/BrandonFeenstra), [alisonjparker](/profile/alisonjparker), [eustatic](/profile/eustatic), [ann](/profile/ann), [vastine](/profile/vastine), [danbeavers](/profile/danbeavers), [jeremyb](/profile/jeremyb)
 
-May 08, 2018 02:07 | Tags: [community](../tag/community), [events](../tag/events), [openhour](../tag/openhour), [parent:events](../tag/parent:events), [fenceline](../tag/fenceline)
+May 08, 2018 02:07 | Tags: [community](/tag/community), [events](/tag/events), [openhour](/tag/openhour), [parent:events](/tag/parent:events), [fenceline](/tag/fenceline)
 
 ----
 

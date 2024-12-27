@@ -6,18 +6,16 @@ author: Hudonnoodles
 path: /notes/Hudonnoodles/10-10-2014/toolshed-raising-on-saturday-december-6.md
 nid: 11257
 uid: 102
-
 cids: 10531,10563,10566,10567,10571,10578,10592,10706,10714,10781,10782,10783,10784,10785,10786,10787,10789,10796,10797,10798,10829,10830,10857,10859
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/829/original/holiday_party!.jpg)
 
 # Public Lab Holiday Party on Saturday, December 6
 
-by [Hudonnoodles](../../../profile/Hudonnoodles) | October 10, 2014 11:53
+by [Hudonnoodles](/profile/Hudonnoodles) | October 10, 2014 11:53
 
-October 10, 2014 11:53 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [boston](../tag/boston), [event](../tag/event), [toolshed-raising](../tag/toolshed-raising), [toolshed](../tag/toolshed), [northeast](../tag/northeast), [event:rsvp](../tag/event:rsvp), [rsvp:warren](../tag/rsvp:warren), [rsvp:liz](../tag/rsvp:liz), [date:12-06-2014](../tag/date:12-06-2014), [rsvp:hudonnoodles](../tag/rsvp:hudonnoodles), [rsvp:shannon](../tag/rsvp:shannon), [rsvp:rjstatic](../tag/rsvp:rjstatic), [rsvp:ygzstc](../tag/rsvp:ygzstc), [rsvp:georesource](../tag/rsvp:georesource)
+October 10, 2014 11:53 | Tags: [somerville-massachusetts](/tag/somerville-massachusetts), [boston](/tag/boston), [event](/tag/event), [toolshed-raising](/tag/toolshed-raising), [toolshed](/tag/toolshed), [northeast](/tag/northeast), [event:rsvp](/tag/event:rsvp), [rsvp:warren](/tag/rsvp:warren), [rsvp:liz](/tag/rsvp:liz), [date:12-06-2014](/tag/date:12-06-2014), [rsvp:hudonnoodles](/tag/rsvp:hudonnoodles), [rsvp:shannon](/tag/rsvp:shannon), [rsvp:rjstatic](/tag/rsvp:rjstatic), [rsvp:ygzstc](/tag/rsvp:ygzstc), [rsvp:georesource](/tag/rsvp:georesource)
 
 ----
 

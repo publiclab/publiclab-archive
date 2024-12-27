@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/12-16-2016/impressive-stats-from-greenhunan.md
 nid: 13790
 uid: 7
-
 cids: 16075,18195
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/063/original/logo.png)
 
 # Impressive stats from GreenHunan
 
-by [liz](../../../profile/liz) | December 16, 2016 14:49
+by [liz](/profile/liz) | December 16, 2016 14:49
 
-December 16, 2016 14:49 | Tags: [water-quality](../tag/water-quality), [china](../tag/china), [hunan](../tag/hunan), [green-hunan](../tag/green-hunan), [with:shanlter](../tag/with:shanlter)
+December 16, 2016 14:49 | Tags: [water-quality](/tag/water-quality), [china](/tag/china), [hunan](/tag/hunan), [green-hunan](/tag/green-hunan), [with:shanlter](/tag/with:shanlter)
 
 ----
 

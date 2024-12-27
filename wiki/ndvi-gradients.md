@@ -6,14 +6,14 @@ author: warren
 path: /wiki/ndvi-gradients.md
 nid: 7758
 uid: 1
-
+cids: 
 ---
 
 # ndvi-gradients
 
-by [cfastie](../profile/cfastie), [warren](../profile/warren)
+by [cfastie](/profile/cfastie), [warren](/profile/warren)
 
-May 21, 2013 03:46 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [gradient](../tag/gradient), [colormap](../tag/colormap), [lut](../tag/lut), [lookup-tables](../tag/lookup-tables)
+May 21, 2013 03:46 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [infragram](/tag/infragram), [gradient](/tag/gradient), [colormap](/tag/colormap), [lut](/tag/lut), [lookup-tables](/tag/lookup-tables)
 
 ----
 

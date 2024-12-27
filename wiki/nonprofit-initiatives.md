@@ -6,16 +6,16 @@ author: Shannon
 path: /wiki/nonprofit-initiatives.md
 nid: 11675
 uid: 9
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/227/original/tmp_16817-IMG_20151120_114658_2-1922105436.jpg)
 
 # Nonprofit Initiatives
 
-by [nshapiro](../profile/nshapiro), [pdhixenbaugh](../profile/pdhixenbaugh), [warren](../profile/warren), [suzeejain](../profile/suzeejain), [Shannon](../profile/Shannon)
+by [nshapiro](/profile/nshapiro), [pdhixenbaugh](/profile/pdhixenbaugh), [warren](/profile/warren), [suzeejain](/profile/suzeejain), [Shannon](/profile/Shannon)
 
-March 13, 2015 14:35 | Tags: [nonprofit](../tag/nonprofit), [open-water](../tag/open-water), [open-air](../tag/open-air), [style:fancy](../tag/style:fancy), [kits-initiative](../tag/kits-initiative), [open-land](../tag/open-land), [out-of-date](../tag/out-of-date)
+March 13, 2015 14:35 | Tags: [nonprofit](/tag/nonprofit), [open-water](/tag/open-water), [open-air](/tag/open-air), [style:fancy](/tag/style:fancy), [kits-initiative](/tag/kits-initiative), [open-land](/tag/open-land), [out-of-date](/tag/out-of-date)
 
 ----
 

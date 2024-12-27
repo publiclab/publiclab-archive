@@ -6,14 +6,14 @@ author: warren
 path: /wiki/fundraising.md
 nid: 385
 uid: 1
-
+cids: 
 ---
 
 # Fundraising
 
-by [liz](../profile/liz), [warren](../profile/warren)
+by [liz](/profile/liz), [warren](/profile/warren)
 
-July 16, 2011 12:09 | Tags: [fundraising](../tag/fundraising)
+July 16, 2011 12:09 | Tags: [fundraising](/tag/fundraising)
 
 ----
 

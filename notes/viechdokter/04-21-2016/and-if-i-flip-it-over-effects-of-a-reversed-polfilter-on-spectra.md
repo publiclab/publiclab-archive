@@ -6,18 +6,16 @@ author: viechdokter
 path: /notes/viechdokter/04-21-2016/and-if-i-flip-it-over-effects-of-a-reversed-polfilter-on-spectra.md
 nid: 13011
 uid: 468990
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/715/original/flip_over_header.jpg)
 
 # And if I flip it over? Effects of a reversed polfilter on spectra.
 
-by [viechdokter](../../../profile/viechdokter) | April 21, 2016 17:11
+by [viechdokter](/profile/viechdokter) | April 21, 2016 17:11
 
-April 21, 2016 17:11 | Tags: [spectrometer](../tag/spectrometer), [spectrum](../tag/spectrum), [polarizing_filter](../tag/polarizing_filter), [polfilter](../tag/polfilter), [polarisation](../tag/polarisation), [angle](../tag/angle)
+April 21, 2016 17:11 | Tags: [spectrometer](/tag/spectrometer), [spectrum](/tag/spectrum), [polarizing_filter](/tag/polarizing_filter), [polfilter](/tag/polfilter), [polarisation](/tag/polarisation), [angle](/tag/angle)
 
 ----
 

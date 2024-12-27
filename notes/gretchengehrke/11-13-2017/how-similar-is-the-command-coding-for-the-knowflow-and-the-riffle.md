@@ -6,16 +6,14 @@ author: gretchengehrke
 path: /notes/gretchengehrke/11-13-2017/how-similar-is-the-command-coding-for-the-knowflow-and-the-riffle.md
 nid: 15178
 uid: 430549
-
 cids: 17676,17688,17689,17693,17742,17744,17745,17746,17759,17775,17782,17802,22716,22717,22740
-
 ---
 
 # How similar is the code for the KnowFlow and the RIFFLE data loggers?
 
-by [gretchengehrke](../../../profile/gretchengehrke) | November 13, 2017 17:24
+by [gretchengehrke](/profile/gretchengehrke) | November 13, 2017 17:24
 
-November 13, 2017 17:24 | Tags: [riffle](../tag/riffle), [question:riffle](../tag/question:riffle), [data-logging](../tag/data-logging), [question:data-logging](../tag/question:data-logging), [knowflow](../tag/knowflow), [question:knowflow](../tag/question:knowflow)
+November 13, 2017 17:24 | Tags: [riffle](/tag/riffle), [question:riffle](/tag/question:riffle), [data-logging](/tag/data-logging), [question:data-logging](/tag/question:data-logging), [knowflow](/tag/knowflow), [question:knowflow](/tag/question:knowflow)
 
 ----
 

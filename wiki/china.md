@@ -6,16 +6,16 @@ author: liz
 path: /wiki/china.md
 nid: 14540
 uid: 7
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/795/original/IMG_20160119_133308050.jpg)
 
 # china
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-June 14, 2017 15:06 | Tags: [chapter](../tag/chapter), [asia](../tag/asia), [china](../tag/china), [location:blurred](../tag/location:blurred), [place:china](../tag/place:china), [lat:20](../tag/lat:20), [lon:110](../tag/lon:110)
+June 14, 2017 15:06 | Tags: [chapter](/tag/chapter), [asia](/tag/asia), [china](/tag/china), [location:blurred](/tag/location:blurred), [place:china](/tag/place:china), [lat:20](/tag/lat:20), [lon:110](/tag/lon:110)
 
 ----
 
@@ -25,7 +25,7 @@ _Lead image from [2016 field work by @shalter & Lion ( @shizi ), ZhangZhang, Kin
 Organizer @shanlter has been doing amazing work with many organizations including GreenovationHub, DFRobot, GreenHunan, Green-seeds.org and more. Other China-based Public Lab folks include @shizi and @vickykq
 
 ### Environmental projects
-[china](../../tag/china)
+[china](/tag/china)
 
 [wikis:china]
 

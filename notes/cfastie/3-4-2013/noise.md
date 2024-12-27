@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/3-4-2013/noise.md
 nid: 6197
 uid: 554
-
 cids: 3633,3636,3644
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Noise.PNG)
 
 # Noise
 
-by [cfastie](../../../profile/cfastie) | March 05, 2013 04:32
+by [cfastie](/profile/cfastie) | March 05, 2013 04:32
 
-March 05, 2013 04:32 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [analysis](../tag/analysis), [ebert](../tag/ebert), [absorption](../tag/absorption), [sky](../tag/sky), [fraunhofer](../tag/fraunhofer)
+March 05, 2013 04:32 | Tags: [spectrometer](/tag/spectrometer), [vermont](/tag/vermont), [analysis](/tag/analysis), [ebert](/tag/ebert), [absorption](/tag/absorption), [sky](/tag/sky), [fraunhofer](/tag/fraunhofer)
 
 ----
 

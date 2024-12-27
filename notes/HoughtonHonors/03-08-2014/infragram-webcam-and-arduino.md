@@ -6,18 +6,16 @@ author: HoughtonHonors
 path: /notes/HoughtonHonors/03-08-2014/infragram-webcam-and-arduino.md
 nid: 10146
 uid: 420590
-
 cids: 8465,8484,8793
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/182/original/arduino.jpg)
 
 # Infragram Webcam and Arduino
 
-by [HoughtonHonors](../../../profile/HoughtonHonors) | March 08, 2014 22:08
+by [HoughtonHonors](/profile/HoughtonHonors) | March 08, 2014 22:08
 
-March 08, 2014 22:08 | Tags: [radiosonde](../tag/radiosonde)
+March 08, 2014 22:08 | Tags: [radiosonde](/tag/radiosonde)
 
 ----
 

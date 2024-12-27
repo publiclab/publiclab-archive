@@ -6,16 +6,16 @@ author: laurel_mire
 path: /wiki/evaluating-the-success-of-mine-reclamation.md
 nid: 30098
 uid: 759178
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/461/original/640px-Abandoned_coal_mine_subsidence_stablization_project.jpg)
 
 # Evaluating the Success of Mine Reclamation
 
-by [laurel_mire](../profile/laurel_mire)
+by [laurel_mire](/profile/laurel_mire)
 
-March 04, 2022 18:57 | Tags: [method](../tag/method), [soil-health](../tag/soil-health), [research-curation-fellows](../tag/research-curation-fellows), [reclamation](../tag/reclamation), [mine-reclamation](../tag/mine-reclamation), [evaluating-reclamation](../tag/evaluating-reclamation), [parent:mine-reclamation](../tag/parent:mine-reclamation), [mine-soil-health](../tag/mine-soil-health)
+March 04, 2022 18:57 | Tags: [method](/tag/method), [soil-health](/tag/soil-health), [research-curation-fellows](/tag/research-curation-fellows), [reclamation](/tag/reclamation), [mine-reclamation](/tag/mine-reclamation), [evaluating-reclamation](/tag/evaluating-reclamation), [parent:mine-reclamation](/tag/parent:mine-reclamation), [mine-soil-health](/tag/mine-soil-health)
 
 ----
 
@@ -56,7 +56,7 @@ You can also follow along and get updates on new resources by <a href="https://p
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 ##More on evaluating mine reclamation from Public Lab contributors
-[grid:evaluating-reclamation](../../tag/grid:evaluating-reclamation)
+[grid:evaluating-reclamation](/tag/grid:evaluating-reclamation)
 
 <br>
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">

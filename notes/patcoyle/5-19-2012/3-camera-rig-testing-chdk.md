@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/5-19-2012/3-camera-rig-testing-chdk.md
 nid: 2143
 uid: 77
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_2801.JPG)
 
 # 3-camera rig testing with with CHDK
 
-by [patcoyle](../../../profile/patcoyle) | May 20, 2012 03:51
+by [patcoyle](/profile/patcoyle) | May 20, 2012 03:51
 
-May 20, 2012 03:51 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [photo-rig](../tag/photo-rig), [activity:photo-rig](../tag/activity:photo-rig)
+May 20, 2012 03:51 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [photo-rig](/tag/photo-rig), [activity:photo-rig](/tag/activity:photo-rig)
 
 ----
 

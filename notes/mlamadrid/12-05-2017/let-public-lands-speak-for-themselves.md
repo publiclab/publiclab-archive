@@ -6,18 +6,16 @@ author: mlamadrid
 path: /notes/mlamadrid/12-05-2017/let-public-lands-speak-for-themselves.md
 nid: 15313
 uid: 45586
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/821/original/TPL_ga_chattahoochee_02012017_034.jpg)
 
 # Let public lands speak for themselves
 
-by [mlamadrid](../../../profile/mlamadrid) | December 05, 2017 23:55
+by [mlamadrid](/profile/mlamadrid) | December 05, 2017 23:55
 
-December 05, 2017 23:55 | Tags: [environment](../tag/environment), [land-use](../tag/land-use), [governance](../tag/governance)
+December 05, 2017 23:55 | Tags: [environment](/tag/environment), [land-use](/tag/land-use), [governance](/tag/governance)
 
 ----
 

@@ -6,16 +6,14 @@ author: Ridwane
 path: /notes/Ridwane/05-12-2017/copying-calibration.md
 nid: 14180
 uid: 506105
-
 cids: 16760
-
 ---
 
 # Copying Calibration
 
-by [Ridwane](../../../profile/Ridwane) | May 12, 2017 02:01
+by [Ridwane](/profile/Ridwane) | May 12, 2017 02:01
 
-May 12, 2017 02:01 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench)
+May 12, 2017 02:01 | Tags: [question:spectral-workbench](/tag/question:spectral-workbench)
 
 ----
 

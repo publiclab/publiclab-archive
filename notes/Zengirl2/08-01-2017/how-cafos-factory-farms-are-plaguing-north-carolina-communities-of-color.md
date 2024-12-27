@@ -6,18 +6,16 @@ author: zengirl2
 path: /notes/Zengirl2/08-01-2017/how-cafos-factory-farms-are-plaguing-north-carolina-communities-of-color.md
 nid: 14704
 uid: 423961
-
 cids: 17140,17141,17142,17144,25849,31242
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/250/original/Farm.jpg)
 
 # How CAFOS (Factory Farms) Are Plaguing North Carolina Communities of Color
 
-by [zengirl2](../../../profile/zengirl2) | August 01, 2017 19:58
+by [zengirl2](/profile/zengirl2) | August 01, 2017 19:58
 
-August 01, 2017 19:58 | Tags: [farming](../tag/farming), [agriculture](../tag/agriculture), [air-quality](../tag/air-quality), [health](../tag/health), [north-carolina](../tag/north-carolina), [public-health](../tag/public-health), [water-quality](../tag/water-quality), [particulates](../tag/particulates), [cafo](../tag/cafo), [southeast](../tag/southeast), [land-use](../tag/land-use), [factory-farms](../tag/factory-farms)
+August 01, 2017 19:58 | Tags: [farming](/tag/farming), [agriculture](/tag/agriculture), [air-quality](/tag/air-quality), [health](/tag/health), [north-carolina](/tag/north-carolina), [public-health](/tag/public-health), [water-quality](/tag/water-quality), [particulates](/tag/particulates), [cafo](/tag/cafo), [southeast](/tag/southeast), [land-use](/tag/land-use), [factory-farms](/tag/factory-farms)
 
 ----
 

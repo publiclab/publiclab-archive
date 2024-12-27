@@ -6,12 +6,12 @@ author: bhamster
 path: /wiki/sandbox-soil.md
 nid: 25980
 uid: 664477
-
+cids: 
 ---
 
 # sandbox-soil
 
-by [bhamster](../profile/bhamster)
+by [bhamster](/profile/bhamster)
 
 March 19, 2021 18:23 | Tags: 
 
@@ -85,7 +85,7 @@ Public Lab community projects tagged with `soil-projects` will appear here
 
 Questions tagged with `question:soil` will appear here
 
-[soil](../../tag/question:soil)
+[soil](/tag/question:soil)
 
 <br>
 
@@ -103,7 +103,7 @@ The Public Lab community is here to support people as they plan and carry out in
 
 Here are some activities for getting started with examining your soil. They involve gathering information that can help you make decisions about what to do next. 
 
-[grid:activity:getting-started-soil](../../tag/grid:activity:getting-started-soil)
+[grid:activity:getting-started-soil](/tag/grid:activity:getting-started-soil)
 
 <br>
 
@@ -266,7 +266,7 @@ Wiki pages tagged with `interpret-soil-tests` will appear here
 
 Activities on Public Lab that have been tagged with `activity:soil` will appear here
 
-[soil](../../tag/activity:soil)
+[soil](/tag/activity:soil)
 
 
 <hr style="height:5px;border-width:0;color:gray;background-color:gray">

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/pvd.md
 nid: 18540
 uid: 1
-
+cids: 
 ---
 
 # Providence Public Lab code fellowship
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-March 13, 2019 17:19 | Tags: [jobs](../tag/jobs), [sidebar:none](../tag/sidebar:none), [redirect:21030](../tag/redirect:21030)
+March 13, 2019 17:19 | Tags: [jobs](/tag/jobs), [sidebar:none](/tag/sidebar:none), [redirect:21030](/tag/redirect:21030)
 
 ----
 

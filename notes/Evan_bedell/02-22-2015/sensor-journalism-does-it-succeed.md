@@ -6,18 +6,16 @@ author: Evan_bedell
 path: /notes/Evan_bedell/02-22-2015/sensor-journalism-does-it-succeed.md
 nid: 11614
 uid: 434615
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/044/original/img_3011.jpg)
 
 # Sensor Journalism: Does it Succeed? 
 
-by [Evan_bedell](../../../profile/Evan_bedell) | February 22, 2015 23:39
+by [Evan_bedell](/profile/Evan_bedell) | February 22, 2015 23:39
 
-February 22, 2015 23:39 | Tags: [sensor-journalism](../tag/sensor-journalism)
+February 22, 2015 23:39 | Tags: [sensor-journalism](/tag/sensor-journalism)
 
 ----
 

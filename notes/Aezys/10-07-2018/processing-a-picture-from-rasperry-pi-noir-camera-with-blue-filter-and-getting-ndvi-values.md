@@ -6,16 +6,14 @@ author: Aezys
 path: /notes/Aezys/10-07-2018/processing-a-picture-from-rasperry-pi-noir-camera-with-blue-filter-and-getting-ndvi-values.md
 nid: 17241
 uid: 553933
-
 cids: 
-
 ---
 
 # Processing a picture from Rasperry Pi NoIR camera with blue filter and getting NDVI values.
 
-by [Aezys](../../../profile/Aezys) | October 07, 2018 15:32
+by [Aezys](/profile/Aezys) | October 07, 2018 15:32
 
-October 07, 2018 15:32 | Tags: [ndvi](../tag/ndvi), [infragram](../tag/infragram), [question:raspberry-pi](../tag/question:raspberry-pi)
+October 07, 2018 15:32 | Tags: [ndvi](/tag/ndvi), [infragram](/tag/infragram), [question:raspberry-pi](/tag/question:raspberry-pi)
 
 ----
 

@@ -6,14 +6,14 @@ author: shanlter
 path: /wiki/drinking-water-testing.md
 nid: 13174
 uid: 420999
-
+cids: 
 ---
 
 # 饮用水自测指引-Drinking Water Testing 
 
-by [shanlter](../profile/shanlter)
+by [shanlter](/profile/shanlter)
 
-June 08, 2016 03:36 | Tags: [water-quality](../tag/water-quality), [open-water](../tag/open-water), [water-testing](../tag/water-testing)
+June 08, 2016 03:36 | Tags: [water-quality](/tag/water-quality), [open-water](/tag/open-water), [water-testing](/tag/water-testing)
 
 ----
 

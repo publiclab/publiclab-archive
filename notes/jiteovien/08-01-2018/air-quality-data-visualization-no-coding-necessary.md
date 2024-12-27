@@ -6,18 +6,16 @@ author: jiteovien
 path: /notes/jiteovien/08-01-2018/air-quality-data-visualization-no-coding-necessary.md
 nid: 16826
 uid: 540008
-
 cids: 20252,20253,20262,31332
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/007/original/aqi_image.png)
 
 # Air Quality Data Visualization: No Coding Necessary
 
-by [jiteovien](../../../profile/jiteovien) | August 01, 2018 21:46
+by [jiteovien](/profile/jiteovien) | August 01, 2018 21:46
 
-August 01, 2018 21:46 | Tags: [providence](../tag/providence), [air-quality](../tag/air-quality), [sensors](../tag/sensors), [visualization](../tag/visualization), [data](../tag/data), [dustduino](../tag/dustduino), [northeast](../tag/northeast), [low](../tag/low), [cost](../tag/cost), [location:blurred](../tag/location:blurred), [data-visualization](../tag/data-visualization), [collocation](../tag/collocation), [lat:41.8](../tag/lat:41.8), [lon:-71.4](../tag/lon:-71.4), [place:ri-02905-united-states](../tag/place:ri-02905-united-states), [air-quality-data](../tag/air-quality-data)
+August 01, 2018 21:46 | Tags: [providence](/tag/providence), [air-quality](/tag/air-quality), [sensors](/tag/sensors), [visualization](/tag/visualization), [data](/tag/data), [dustduino](/tag/dustduino), [northeast](/tag/northeast), [low](/tag/low), [cost](/tag/cost), [location:blurred](/tag/location:blurred), [data-visualization](/tag/data-visualization), [collocation](/tag/collocation), [lat:41.8](/tag/lat:41.8), [lon:-71.4](/tag/lon:-71.4), [place:ri-02905-united-states](/tag/place:ri-02905-united-states), [air-quality-data](/tag/air-quality-data)
 
 ----
 

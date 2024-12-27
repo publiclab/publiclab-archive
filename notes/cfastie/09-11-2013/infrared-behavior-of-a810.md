@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/09-11-2013/infrared-behavior-of-a810.md
 nid: 9313
 uid: 554
-
 cids: 6804,6808,6809,9663
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/476/original/NIRLED-226-29CU2.jpg)
 
 # Infrared behavior of A810
 
-by [cfastie](../../../profile/cfastie) | September 11, 2013 14:10
+by [cfastie](/profile/cfastie) | September 11, 2013 14:10
 
-September 11, 2013 14:10 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [infrared](../tag/infrared), [leaffest](../tag/leaffest), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [histogram](../tag/histogram), [led](../tag/led), [leaffest2013](../tag/leaffest2013), [leds](../tag/leds), [a810](../tag/a810), [frosted-globe](../tag/frosted-globe)
+September 11, 2013 14:10 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [spectrometer](/tag/spectrometer), [vermont](/tag/vermont), [infrared](/tag/infrared), [leaffest](/tag/leaffest), [white-balance](/tag/white-balance), [infragram](/tag/infragram), [histogram](/tag/histogram), [led](/tag/led), [leaffest2013](/tag/leaffest2013), [leds](/tag/leds), [a810](/tag/a810), [frosted-globe](/tag/frosted-globe)
 
 ----
 

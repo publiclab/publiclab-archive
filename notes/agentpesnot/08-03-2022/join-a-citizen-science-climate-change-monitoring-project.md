@@ -6,18 +6,16 @@ author: agentpesnot
 path: /notes/agentpesnot/08-03-2022/join-a-citizen-science-climate-change-monitoring-project.md
 nid: 34820
 uid: 808787
-
 cids: 30374,30486,30654,31106,31111,31157,31193,31305,31313,31474,31475,31483,31484
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/941/original/Air_Sensor_with_Solar_Panel_v1_2022-Jul-27_08-34-44PM-000_CustomizedView7200339228.png)
 
 # Join a Citizen Science + Climate Change Monitoring Project
 
-by [agentpesnot](../../../profile/agentpesnot) | August 03, 2022 02:07
+by [agentpesnot](/profile/agentpesnot) | August 03, 2022 02:07
 
-August 03, 2022 02:07 | Tags: [remote-sensing](../tag/remote-sensing), [education](../tag/education), [citizen-science](../tag/citizen-science), [participation](../tag/participation), [air-quality](../tag/air-quality), [climate-change](../tag/climate-change), [first-time-poster](../tag/first-time-poster), [lat:30.267153](../tag/lat:30.267153), [lon:-97.74306](../tag/lon:-97.74306), [zoom:2](../tag/zoom:2), [greehouse-gas](../tag/greehouse-gas)
+August 03, 2022 02:07 | Tags: [remote-sensing](/tag/remote-sensing), [education](/tag/education), [citizen-science](/tag/citizen-science), [participation](/tag/participation), [air-quality](/tag/air-quality), [climate-change](/tag/climate-change), [first-time-poster](/tag/first-time-poster), [lat:30.267153](/tag/lat:30.267153), [lon:-97.74306](/tag/lon:-97.74306), [zoom:2](/tag/zoom:2), [greehouse-gas](/tag/greehouse-gas)
 
 ----
 

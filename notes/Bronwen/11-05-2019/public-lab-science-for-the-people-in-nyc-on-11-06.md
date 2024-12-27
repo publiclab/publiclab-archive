@@ -6,18 +6,16 @@ author: Bronwen
 path: /notes/Bronwen/11-05-2019/public-lab-science-for-the-people-in-nyc-on-11-06.md
 nid: 21401
 uid: 237313
-
 cids: 25813
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/256/original/sftpp.jpg)
 
 # Public Lab & Science For The People in NYC on 11/06
 
-by [Bronwen](../../../profile/Bronwen) | November 05, 2019 16:17
+by [Bronwen](/profile/Bronwen) | November 05, 2019 16:17
 
-November 05, 2019 16:17 | Tags: [new-york-city](../tag/new-york-city), [events](../tag/events), [workshops](../tag/workshops), [nyc](../tag/nyc), [northeast](../tag/northeast), [oil-and-gas](../tag/oil-and-gas), [science-for-the-people](../tag/science-for-the-people)
+November 05, 2019 16:17 | Tags: [new-york-city](/tag/new-york-city), [events](/tag/events), [workshops](/tag/workshops), [nyc](/tag/nyc), [northeast](/tag/northeast), [oil-and-gas](/tag/oil-and-gas), [science-for-the-people](/tag/science-for-the-people)
 
 ----
 

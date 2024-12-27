@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/05-06-2019/a-big-welcome-to-our-outreachy-gsoc-team-for-2019.md
 nid: 19259
 uid: 1
-
 cids: 24030,24031,24032,24034,24058,24108
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/832/original/IMG_20190118_205609_421_copy.jpg)
 
 # A big WELCOME to our Outreachy/GSoC team for 2019!
 
-by [warren](../../../profile/warren) | May 06, 2019 18:33
+by [warren](/profile/warren) | May 06, 2019 18:33
 
-May 06, 2019 18:33 | Tags: [gsoc](../tag/gsoc), [blog](../tag/blog), [code](../tag/code), [soc](../tag/soc), [outreachy](../tag/outreachy), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019)
+May 06, 2019 18:33 | Tags: [gsoc](/tag/gsoc), [blog](/tag/blog), [code](/tag/code), [soc](/tag/soc), [outreachy](/tag/outreachy), [gsoc-2019](/tag/gsoc-2019), [soc-2019](/tag/soc-2019)
 
 ----
 
@@ -35,4 +33,4 @@ A note to those who we weren't able to accept in this year's program: we had ove
 
 ## Projects
 
-[soc-2019-projects](../../tag/soc-2019-projects)
+[soc-2019-projects](/tag/soc-2019-projects)

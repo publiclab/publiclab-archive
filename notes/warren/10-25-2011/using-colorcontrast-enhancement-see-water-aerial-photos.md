@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/10-25-2011/using-colorcontrast-enhancement-see-water-aerial-photos.md
 nid: 518
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_7316-enhanced.jpg)
 
 # Using color/contrast enhancement to see into water in aerial photos
 
-by [warren](../../../profile/warren) | October 25, 2011 15:34
+by [warren](/profile/warren) | October 25, 2011 15:34
 
-October 25, 2011 15:34 | Tags: [barataria](../tag/barataria), [underwater](../tag/underwater), [contrast](../tag/contrast), [enhancement](../tag/enhancement)
+October 25, 2011 15:34 | Tags: [barataria](/tag/barataria), [underwater](/tag/underwater), [contrast](/tag/contrast), [enhancement](/tag/enhancement)
 
 ----
 

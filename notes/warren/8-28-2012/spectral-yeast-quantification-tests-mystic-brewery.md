@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/8-28-2012/spectral-yeast-quantification-tests-mystic-brewery.md
 nid: 3547
 uid: 1
-
 cids: 2783,2784,2785
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0570.JPG)
 
 # Spectral yeast tests at Mystic Brewery
 
-by [warren](../../../profile/warren) | August 28, 2012 22:02
+by [warren](/profile/warren) | August 28, 2012 22:02
 
-August 28, 2012 22:02 | Tags: [spectrometer](../tag/spectrometer), [yeast](../tag/yeast), [brewing](../tag/brewing), [quantitative](../tag/quantitative), [absorption-spectrometry](../tag/absorption-spectrometry), [beer](../tag/beer)
+August 28, 2012 22:02 | Tags: [spectrometer](/tag/spectrometer), [yeast](/tag/yeast), [brewing](/tag/brewing), [quantitative](/tag/quantitative), [absorption-spectrometry](/tag/absorption-spectrometry), [beer](/tag/beer)
 
 ----
 

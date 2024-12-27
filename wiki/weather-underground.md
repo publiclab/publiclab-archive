@@ -6,12 +6,12 @@ author: gonzoearth
 path: /wiki/weather-underground.md
 nid: 231
 uid: 12
-
+cids: 
 ---
 
 # weather underground
 
-by [gonzoearth](../profile/gonzoearth)
+by [gonzoearth](/profile/gonzoearth)
 
 May 09, 2011 18:09 | Tags: 
 

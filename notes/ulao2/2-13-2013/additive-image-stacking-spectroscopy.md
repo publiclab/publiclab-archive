@@ -6,14 +6,12 @@ author: Ulao2
 path: /notes/ulao2/2-13-2013/additive-image-stacking-spectroscopy.md
 nid: 5973
 uid: 48699
-
 cids: 3415,3418,3419,3420,3421,3423
-
 ---
 
 # Additive Image Stacking In Spectroscopy
 
-by [Ulao2](../../../profile/Ulao2) | February 14, 2013 04:18
+by [Ulao2](/profile/Ulao2) | February 14, 2013 04:18
 
 February 14, 2013 04:18 | Tags: 
 

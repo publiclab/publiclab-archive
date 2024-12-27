@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/9-7-2012/urban-systems-symposium.md
 nid: 3687
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/berkeley.jpg)
 
 # Urban Systems Symposium
 
-by [liz](../../../profile/liz) | September 07, 2012 18:29
+by [liz](/profile/liz) | September 07, 2012 18:29
 
-September 07, 2012 18:29 | Tags: [events](../tag/events)
+September 07, 2012 18:29 | Tags: [events](/tag/events)
 
 ----
 

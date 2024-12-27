@@ -6,18 +6,16 @@ author: coight
 path: /notes/coight/09-06-2015/attempting-reflectance-measurements-with-spectrometer.md
 nid: 12200
 uid: 424607
-
 cids: 12502,12503,12510,12511,12536,12545,12552,12553,12554,12575
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/496/original/sectralgraphs.jpg)
 
 # Attempting reflectance measurements with spectrometer
 
-by [coight](../../../profile/coight) | September 06, 2015 01:06
+by [coight](/profile/coight) | September 06, 2015 01:06
 
-September 06, 2015 01:06 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [kit](../tag/kit), [test](../tag/test), [response:12074](../tag/response:12074)
+September 06, 2015 01:06 | Tags: [spectrometer](/tag/spectrometer), [oil](/tag/oil), [kit](/tag/kit), [test](/tag/test), [response:12074](/tag/response:12074)
 
 ----
 

@@ -6,16 +6,14 @@ author: bha
 path: /notes/bha/9-11-2011/arduino-patch-detecting-hydrogen-sulfide.md
 nid: 465
 uid: 280
-
 cids: 
-
 ---
 
 # The arduino patch for detecting Hydrogen Sulfide
 
-by [bha](../../../profile/bha) | September 12, 2011 03:52
+by [bha](/profile/bha) | September 12, 2011 03:52
 
-September 12, 2011 03:52 | Tags: [arduino](../tag/arduino), [h2s](../tag/h2s), [hydrogen-sulfide-sensor](../tag/hydrogen-sulfide-sensor)
+September 12, 2011 03:52 | Tags: [arduino](/tag/arduino), [h2s](/tag/h2s), [hydrogen-sulfide-sensor](/tag/hydrogen-sulfide-sensor)
 
 ----
 

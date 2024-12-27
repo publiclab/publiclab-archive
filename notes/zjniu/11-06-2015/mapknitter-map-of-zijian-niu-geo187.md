@@ -6,18 +6,16 @@ author: zjniu
 path: /notes/zjniu/11-06-2015/mapknitter-map-of-zijian-niu-geo187.md
 nid: 12377
 uid: 454553
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/514/original/IMG_0197.JPG)
 
 # MapKnitter map of Zijian Niu Geo187
 
-by [zjniu](../../../profile/zjniu) | November 06, 2015 18:09
+by [zjniu](/profile/zjniu) | November 06, 2015 18:09
 
-November 06, 2015 18:09 | Tags: [mapknitter](../tag/mapknitter), [canada](../tag/canada), [lat:43.4711412109](../tag/lat:43.4711412109), [lon:-80.5506849289](../tag/lon:-80.5506849289)
+November 06, 2015 18:09 | Tags: [mapknitter](/tag/mapknitter), [canada](/tag/canada), [lat:43.4711412109](/tag/lat:43.4711412109), [lon:-80.5506849289](/tag/lon:-80.5506849289)
 
 ----
 

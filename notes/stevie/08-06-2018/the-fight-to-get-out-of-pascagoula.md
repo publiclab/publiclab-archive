@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/08-06-2018/the-fight-to-get-out-of-pascagoula.md
 nid: 16871
 uid: 422561
-
 cids: 20357,20384,20652,20666
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/093/original/Screen_Shot_2018-08-03_at_1.55.32_PM.png)
 
 # The fight to get out of Pascagoula
 
-by [stevie](../../../profile/stevie) | August 06, 2018 19:16
+by [stevie](/profile/stevie) | August 06, 2018 19:16
 
-August 06, 2018 19:16 | Tags: [gulf-coast](../tag/gulf-coast), [mississippi](../tag/mississippi), [blog](../tag/blog), [pollution](../tag/pollution), [pm](../tag/pm), [industry](../tag/industry), [odor](../tag/odor), [odor-log](../tag/odor-log), [chemicals](../tag/chemicals), [pascagoula](../tag/pascagoula), [tri](../tag/tri), [toxics-release-inventory](../tag/toxics-release-inventory), [odor-logging](../tag/odor-logging), [chevron](../tag/chevron), [mdeq](../tag/mdeq), [phosphates](../tag/phosphates)
+August 06, 2018 19:16 | Tags: [gulf-coast](/tag/gulf-coast), [mississippi](/tag/mississippi), [blog](/tag/blog), [pollution](/tag/pollution), [pm](/tag/pm), [industry](/tag/industry), [odor](/tag/odor), [odor-log](/tag/odor-log), [chemicals](/tag/chemicals), [pascagoula](/tag/pascagoula), [tri](/tag/tri), [toxics-release-inventory](/tag/toxics-release-inventory), [odor-logging](/tag/odor-logging), [chevron](/tag/chevron), [mdeq](/tag/mdeq), [phosphates](/tag/phosphates)
 
 ----
 

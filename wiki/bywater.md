@@ -6,14 +6,14 @@ author: warren
 path: /wiki/bywater.md
 nid: 22201
 uid: 1
-
+cids: 
 ---
 
 # bywater
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-January 02, 2020 20:41 | Tags: [redirect:21795](../tag/redirect:21795)
+January 02, 2020 20:41 | Tags: [redirect:21795](/tag/redirect:21795)
 
 ----
 

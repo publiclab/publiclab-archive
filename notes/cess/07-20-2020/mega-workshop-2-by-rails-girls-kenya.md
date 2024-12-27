@@ -6,18 +6,16 @@ author: cess
 path: /notes/cess/07-20-2020/mega-workshop-2-by-rails-girls-kenya.md
 nid: 24200
 uid: 525958
-
 cids: 27191,27192,27193
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/236/original/IMG_9486.jpg)
 
 # Rails Girls Kenya:  Mega Workshop 2
 
-by [cess](../../../profile/cess) | July 20, 2020 16:40
+by [cess](/profile/cess) | July 20, 2020 16:40
 
-July 20, 2020 16:40 | Tags: [event](../tag/event), [blog](../tag/blog), [lat:-1](../tag/lat:-1), [lon:36](../tag/lon:36), [zoom:6](../tag/zoom:6)
+July 20, 2020 16:40 | Tags: [event](/tag/event), [blog](/tag/blog), [lat:-1](/tag/lat:-1), [lon:36](/tag/lon:36), [zoom:6](/tag/zoom:6)
 
 ----
 

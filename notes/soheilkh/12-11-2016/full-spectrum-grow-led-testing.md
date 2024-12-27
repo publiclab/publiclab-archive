@@ -6,18 +6,16 @@ author: soheilkh
 path: /notes/soheilkh/12-11-2016/full-spectrum-grow-led-testing.md
 nid: 13766
 uid: 499133
-
 cids: 15959,15962,15965,15975,22371
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/002/original/led.png)
 
 # "Full Spectrum" grow LED Testing 
 
-by [soheilkh](../../../profile/soheilkh) | December 11, 2016 01:12
+by [soheilkh](/profile/soheilkh) | December 11, 2016 01:12
 
-December 11, 2016 01:12 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [export](../tag/export), [answered](../tag/answered), [graph](../tag/graph), [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster)
+December 11, 2016 01:12 | Tags: [spectrometer](/tag/spectrometer), [spectralworkbench](/tag/spectralworkbench), [export](/tag/export), [answered](/tag/answered), [graph](/tag/graph), [question:general](/tag/question:general), [first-time-poster](/tag/first-time-poster)
 
 ----
 

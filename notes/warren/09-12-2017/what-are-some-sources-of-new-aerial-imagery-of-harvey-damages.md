@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/09-12-2017/what-are-some-sources-of-new-aerial-imagery-of-harvey-damages.md
 nid: 14880
 uid: 1
-
 cids: 17365,17369,17380,22598,22601,22606
-
 ---
 
 # What are some sources of new aerial imagery of Harvey damages?
 
-by [warren](../../../profile/warren) | September 12, 2017 16:41
+by [warren](/profile/warren) | September 12, 2017 16:41
 
-September 12, 2017 16:41 | Tags: [aerial-photography](../tag/aerial-photography), [answered](../tag/answered), [question:aerial-photography](../tag/question:aerial-photography), [disaster-response](../tag/disaster-response), [harvey](../tag/harvey), [hurricanes](../tag/hurricanes), [question:harvey](../tag/question:harvey)
+September 12, 2017 16:41 | Tags: [aerial-photography](/tag/aerial-photography), [answered](/tag/answered), [question:aerial-photography](/tag/question:aerial-photography), [disaster-response](/tag/disaster-response), [harvey](/tag/harvey), [hurricanes](/tag/hurricanes), [question:harvey](/tag/question:harvey)
 
 ----
 

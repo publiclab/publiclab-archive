@@ -6,12 +6,12 @@ author:
 path: /wiki/publications.md
 nid: 49
 uid: 0
-
+cids: 
 ---
 
 # Publications
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 January 12, 2011 00:38 | Tags: 
 

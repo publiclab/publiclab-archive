@@ -6,18 +6,16 @@ author: ephemeralwaves
 path: /notes/ephemeralwaves/09-22-2015/rainbow-party-at-assemble-pgh.md
 nid: 12236
 uid: 47284
-
 cids: 12598,14523,22093
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/671/original/giselleandmichal.jpg)
 
 # Rainbow Party at Assemble PGH
 
-by [ephemeralwaves](../../../profile/ephemeralwaves) | September 22, 2015 21:20
+by [ephemeralwaves](/profile/ephemeralwaves) | September 22, 2015 21:20
 
-September 22, 2015 21:20 | Tags: [spectrometer](../tag/spectrometer), [event](../tag/event), [spectroscope](../tag/spectroscope), [event:rsvp](../tag/event:rsvp), [date:09-11-2014](../tag/date:09-11-2014)
+September 22, 2015 21:20 | Tags: [spectrometer](/tag/spectrometer), [event](/tag/event), [spectroscope](/tag/spectroscope), [event:rsvp](/tag/event:rsvp), [date:09-11-2014](/tag/date:09-11-2014)
 
 ----
 

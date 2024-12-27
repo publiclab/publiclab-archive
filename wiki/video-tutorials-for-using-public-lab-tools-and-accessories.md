@@ -6,14 +6,14 @@ author: btbonval
 path: /wiki/video-tutorials-for-using-public-lab-tools-and-accessories.md
 nid: 11667
 uid: 43229
-
+cids: 
 ---
 
 # Video Tutorials for using Public Lab tools and accessories.
 
-by [liz](../profile/liz), [ghazaliya](../profile/ghazaliya), [btbonval](../profile/btbonval)
+by [liz](/profile/liz), [ghazaliya](/profile/ghazaliya), [btbonval](/profile/btbonval)
 
-March 09, 2015 17:07 | Tags: [video](../tag/video), [documentation](../tag/documentation), [tutorial](../tag/tutorial), [videos](../tag/videos), [video-documentation](../tag/video-documentation), [video-tutorial](../tag/video-tutorial), [tutorials](../tag/tutorials)
+March 09, 2015 17:07 | Tags: [video](/tag/video), [documentation](/tag/documentation), [tutorial](/tag/tutorial), [videos](/tag/videos), [video-documentation](/tag/video-documentation), [video-tutorial](/tag/video-tutorial), [tutorials](/tag/tutorials)
 
 ----
 

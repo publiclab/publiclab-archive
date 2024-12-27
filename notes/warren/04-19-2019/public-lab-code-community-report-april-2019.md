@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/04-19-2019/public-lab-code-community-report-april-2019.md
 nid: 19116
 uid: 1
-
 cids: 23966
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/654/original/image.png)
 
 # Public Lab Code Community Report: April 2019
 
-by [warren](../../../profile/warren) | April 19, 2019 21:43
+by [warren](/profile/warren) | April 19, 2019 21:43
 
-April 19, 2019 21:43 | Tags: [website](../tag/website), [web-development](../tag/web-development), [software](../tag/software), [outreach](../tag/outreach), [gsoc](../tag/gsoc), [blog](../tag/blog), [developers](../tag/developers), [code](../tag/code), [wwg](../tag/wwg), [webwg](../tag/webwg), [software-outreach](../tag/software-outreach), [outreachy](../tag/outreachy), [wwg-report](../tag/wwg-report), [outreachy-2018](../tag/outreachy-2018), [with:bansal_sidharth2996](../tag/with:bansal_sidharth2996), [with:gauravano](../tag/with:gauravano), [response:17028](../tag/response:17028), [response:18039](../tag/response:18039)
+April 19, 2019 21:43 | Tags: [website](/tag/website), [web-development](/tag/web-development), [software](/tag/software), [outreach](/tag/outreach), [gsoc](/tag/gsoc), [blog](/tag/blog), [developers](/tag/developers), [code](/tag/code), [wwg](/tag/wwg), [webwg](/tag/webwg), [software-outreach](/tag/software-outreach), [outreachy](/tag/outreachy), [wwg-report](/tag/wwg-report), [outreachy-2018](/tag/outreachy-2018), [with:bansal_sidharth2996](/tag/with:bansal_sidharth2996), [with:gauravano](/tag/with:gauravano), [response:17028](/tag/response:17028), [response:18039](/tag/response:18039)
 
 ----
 

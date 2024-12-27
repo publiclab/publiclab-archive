@@ -6,14 +6,14 @@ author: mathew
 path: /wiki/picavet-rigging.md
 nid: 907
 uid: 4
-
+cids: 
 ---
 
 # Picavet Rigging
 
-by [cfastie](../profile/cfastie), [Juan](../profile/Juan), [cindy_excites](../profile/cindy_excites), [mathew](../profile/mathew)
+by [cfastie](/profile/cfastie), [Juan](/profile/Juan), [cindy_excites](/profile/cindy_excites), [mathew](/profile/mathew)
 
-March 08, 2012 21:21 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [photo-rig](../tag/photo-rig)
+March 08, 2012 21:21 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [photo-rig](/tag/photo-rig)
 
 ----
 

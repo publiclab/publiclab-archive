@@ -6,18 +6,16 @@ author: sophie
 path: /notes/sophie/07-16-2014/sensing-hydrogen-sulfide-from-cafo-emissions-in-poweshiek-county-iowa.md
 nid: 10700
 uid: 425591
-
 cids: 9550,9552,9553,11329,13585,17983
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/360/original/DSCN0554.JPG)
 
 #  Sensing Hydrogen Sulfide from CAFO Emissions in Poweshiek County, Iowa
 
-by [sophie](../../../profile/sophie) | July 16, 2014 15:54
+by [sophie](/profile/sophie) | July 16, 2014 15:54
 
-July 16, 2014 15:54 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [air-quality](../tag/air-quality), [h2s](../tag/h2s), [hydrogen-sulfide-testing](../tag/hydrogen-sulfide-testing), [cafo](../tag/cafo), [barnstar:empiricism](../tag/barnstar:empiricism), [midwest](../tag/midwest), [h2s-photopaper](../tag/h2s-photopaper), [activity:h2s](../tag/activity:h2s), [activity:h2s-photopaper](../tag/activity:h2s-photopaper), [livestock](../tag/livestock), [iowa](../tag/iowa), [first-time-poster](../tag/first-time-poster)
+July 16, 2014 15:54 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](/tag/hydrogen-sulfide), [air-quality](/tag/air-quality), [h2s](/tag/h2s), [hydrogen-sulfide-testing](/tag/hydrogen-sulfide-testing), [cafo](/tag/cafo), [barnstar:empiricism](/tag/barnstar:empiricism), [midwest](/tag/midwest), [h2s-photopaper](/tag/h2s-photopaper), [activity:h2s](/tag/activity:h2s), [activity:h2s-photopaper](/tag/activity:h2s-photopaper), [livestock](/tag/livestock), [iowa](/tag/iowa), [first-time-poster](/tag/first-time-poster)
 
 ----
 

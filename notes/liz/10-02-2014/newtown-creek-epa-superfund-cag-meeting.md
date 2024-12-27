@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/10-02-2014/newtown-creek-epa-superfund-cag-meeting.md
 nid: 11228
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/275/original/1412205088155.jpg)
 
 # Newtown Creek EPA Superfund CAG meeting
 
-by [liz](../../../profile/liz) | October 02, 2014 00:00
+by [liz](/profile/liz) | October 02, 2014 00:00
 
-October 02, 2014 00:00 | Tags: [new-york-city](../tag/new-york-city), [newtown-creek](../tag/newtown-creek), [superfund-site](../tag/superfund-site), [epa](../tag/epa), [cag](../tag/cag), [northeast](../tag/northeast)
+October 02, 2014 00:00 | Tags: [new-york-city](/tag/new-york-city), [newtown-creek](/tag/newtown-creek), [superfund-site](/tag/superfund-site), [epa](/tag/epa), [cag](/tag/cag), [northeast](/tag/northeast)
 
 ----
 

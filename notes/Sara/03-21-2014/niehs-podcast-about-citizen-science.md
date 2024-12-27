@@ -6,18 +6,16 @@ author: sara
 path: /notes/Sara/03-21-2014/niehs-podcast-about-citizen-science.md
 nid: 10210
 uid: 8
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/354/original/Screen_Shot_2014-03-20_at_8.19.05_PM.png)
 
 # NIEHS podcast about Citizen Science
 
-by [sara](../../../profile/sara) | March 21, 2014 00:38
+by [sara](/profile/sara) | March 21, 2014 00:38
 
-March 21, 2014 00:38 | Tags: [niehs](../tag/niehs), [publiclab](../tag/publiclab)
+March 21, 2014 00:38 | Tags: [niehs](/tag/niehs), [publiclab](/tag/publiclab)
 
 ----
 

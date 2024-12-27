@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/4-19-2012/high-traffic-stats-and-server-issues-recap.md
 nid: 1715
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/visitors-by-hour.png)
 
 # High traffic stats and server issues recap 
 
-by [warren](../../../profile/warren) | April 20, 2012 03:33
+by [warren](/profile/warren) | April 20, 2012 03:33
 
-April 20, 2012 03:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [community](../tag/community), [server](../tag/server)
+April 20, 2012 03:33 | Tags: [balloon-mapping](/tag/balloon-mapping), [community](/tag/community), [server](/tag/server)
 
 ----
 

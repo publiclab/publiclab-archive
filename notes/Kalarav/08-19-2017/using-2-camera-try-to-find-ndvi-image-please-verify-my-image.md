@@ -6,16 +6,14 @@ author: Kalarav
 path: /notes/Kalarav/08-19-2017/using-2-camera-try-to-find-ndvi-image-please-verify-my-image.md
 nid: 14769
 uid: 512890
-
 cids: 17190,17191,17192,17193,17195,17278,17279,17280,17287,17295,17320,17323,17335
-
 ---
 
 # Using 2 camera try to find NDVI Image. Please verify my image .
 
-by [Kalarav](../../../profile/Kalarav) | August 19, 2017 07:14
+by [Kalarav](/profile/Kalarav) | August 19, 2017 07:14
 
-August 19, 2017 07:14 | Tags: [ndvi](../tag/ndvi), [nera-infrared](../tag/nera-infrared)
+August 19, 2017 07:14 | Tags: [ndvi](/tag/ndvi), [nera-infrared](/tag/nera-infrared)
 
 ----
 

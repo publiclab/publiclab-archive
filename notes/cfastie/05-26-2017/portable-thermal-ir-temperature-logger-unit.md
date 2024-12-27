@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/05-26-2017/portable-thermal-ir-temperature-logger-unit.md
 nid: 14229
 uid: 554
-
 cids: 18222,21777,21784
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/551/original/Deek_18B20_20170524-9159.JPG)
 
 # Portable thermal IR temperature logger unit
 
-by [cfastie](../../../profile/cfastie) | May 26, 2017 20:37
+by [cfastie](/profile/cfastie) | May 26, 2017 20:37
 
-May 26, 2017 20:37 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [data-logging](../tag/data-logging), [arduino-nano](../tag/arduino-nano), [nano-data-logger](../tag/nano-data-logger), [16x2_lcd](../tag/16x2_lcd), [ds18b20](../tag/ds18b20), [gy90615](../tag/gy90615), [activity:nano-data-logger](../tag/activity:nano-data-logger)
+May 26, 2017 20:37 | Tags: [arduino](/tag/arduino), [sensors](/tag/sensors), [data-logging](/tag/data-logging), [arduino-nano](/tag/arduino-nano), [nano-data-logger](/tag/nano-data-logger), [16x2_lcd](/tag/16x2_lcd), [ds18b20](/tag/ds18b20), [gy90615](/tag/gy90615), [activity:nano-data-logger](/tag/activity:nano-data-logger)
 
 ----
 

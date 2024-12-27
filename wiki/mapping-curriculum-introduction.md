@@ -6,14 +6,14 @@ author: warren
 path: /wiki/mapping-curriculum-introduction.md
 nid: 77
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/534/original/image.png)
 
 # Mapping Curriculum Introduction
 
-by [gonzoearth](../profile/gonzoearth), [warren](../profile/warren)
+by [gonzoearth](/profile/gonzoearth), [warren](/profile/warren)
 
 February 08, 2011 18:25 | Tags: 
 

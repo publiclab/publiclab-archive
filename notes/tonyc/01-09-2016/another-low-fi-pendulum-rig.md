@@ -6,18 +6,16 @@ author: tonyc
 path: /notes/tonyc/01-09-2016/another-low-fi-pendulum-rig.md
 nid: 12573
 uid: 447491
-
 cids: 13299,13312,13315,13317,13338,13339,13340,13365,13376
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/577/original/IMG_3583.JPG)
 
 # Another low-fi pendulum rig
 
-by [tonyc](../../../profile/tonyc) | January 09, 2016 01:22
+by [tonyc](/profile/tonyc) | January 09, 2016 01:22
 
-January 09, 2016 01:22 | Tags: [diy-mount-kit](../tag/diy-mount-kit)
+January 09, 2016 01:22 | Tags: [diy-mount-kit](/tag/diy-mount-kit)
 
 ----
 

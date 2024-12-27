@@ -6,16 +6,14 @@ author: Bronwen
 path: /notes/bronwen/07-12-2018/newark-barnraising-crisis-convening-photos.md
 nid: 16710
 uid: 237313
-
 cids: 20098,20103,20104,20115,20116,20117,20118,20119,20121,20122,20123,20124,20125,20126,20127,20128,20129,20130,20131,20133,20142,20268
-
 ---
 
 # Newark Barnraising & Crisis Convening Photos
 
-by [Bronwen](../../../profile/Bronwen) | July 12, 2018 23:13
+by [Bronwen](/profile/Bronwen) | July 12, 2018 23:13
 
-July 12, 2018 23:13 | Tags: [events](../tag/events), [barnraising](../tag/barnraising), [new-jersey](../tag/new-jersey), [northeast](../tag/northeast), [crisis-convening](../tag/crisis-convening), [barnraising-newark-2018](../tag/barnraising-newark-2018)
+July 12, 2018 23:13 | Tags: [events](/tag/events), [barnraising](/tag/barnraising), [new-jersey](/tag/new-jersey), [northeast](/tag/northeast), [crisis-convening](/tag/crisis-convening), [barnraising-newark-2018](/tag/barnraising-newark-2018)
 
 ----
 

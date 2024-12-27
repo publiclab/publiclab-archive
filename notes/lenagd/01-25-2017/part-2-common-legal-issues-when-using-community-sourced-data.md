@@ -6,18 +6,16 @@ author: lenagd
 path: /notes/lenagd/01-25-2017/part-2-common-legal-issues-when-using-community-sourced-data.md
 nid: 13877
 uid: 429458
-
 cids: 25729
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/369/original/NYC_Vanquish.jpg)
 
 # Part 2: ‘Common Legal Issues when using Community Sourced Data’
 
-by [lenagd](../../../profile/lenagd) | January 25, 2017 16:43
+by [lenagd](/profile/lenagd) | January 25, 2017 16:43
 
-January 25, 2017 16:43 | Tags: [evidence](../tag/evidence), [legal](../tag/legal), [litigation](../tag/litigation), [evidence-project](../tag/evidence-project), [series:evidence-project](../tag/series:evidence-project), [torts](../tag/torts), [law-and-policy](../tag/law-and-policy)
+January 25, 2017 16:43 | Tags: [evidence](/tag/evidence), [legal](/tag/legal), [litigation](/tag/litigation), [evidence-project](/tag/evidence-project), [series:evidence-project](/tag/series:evidence-project), [torts](/tag/torts), [law-and-policy](/tag/law-and-policy)
 
 ----
 

@@ -6,14 +6,14 @@ author: shanlter
 path: /wiki/introduce-yourself-to-other-guangzhou-barnraisers.md
 nid: 17016
 uid: 420999
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/383/original/BR_poster.jpeg)
 
 # 广州谷仓聚会自我介绍 Introduce yourself to other Guangzhou Barnraisers!
 
-by [shanlter](../profile/shanlter)
+by [shanlter](/profile/shanlter)
 
 August 29, 2018 06:14 | Tags: 
 

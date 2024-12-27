@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/08-12-2014/better-communicate-the-purpose-of-research-notes.md
 nid: 11041
 uid: 7
-
 cids: 9937,10239,10439
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/688/original/Screen_Shot_2014-09-09_at_9.26.13_PM.png)
 
 # Better communicate the purpose of research notes
 
-by [liz](../../../profile/liz) | August 12, 2014 16:41
+by [liz](/profile/liz) | August 12, 2014 16:41
 
-August 12, 2014 16:41 | Tags: [collaboration](../tag/collaboration), [community](../tag/community), [research](../tag/research), [analog](../tag/analog), [with:warren](../tag/with:warren), [with:stevie](../tag/with:stevie), [publishing](../tag/publishing), [paper](../tag/paper), [ui](../tag/ui)
+August 12, 2014 16:41 | Tags: [collaboration](/tag/collaboration), [community](/tag/community), [research](/tag/research), [analog](/tag/analog), [with:warren](/tag/with:warren), [with:stevie](/tag/with:stevie), [publishing](/tag/publishing), [paper](/tag/paper), [ui](/tag/ui)
 
 ----
 

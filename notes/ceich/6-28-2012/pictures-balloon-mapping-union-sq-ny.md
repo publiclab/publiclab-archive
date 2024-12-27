@@ -6,18 +6,16 @@ author: C_Eich
 path: /notes/ceich/6-28-2012/pictures-balloon-mapping-union-sq-ny.md
 nid: 2660
 uid: 597
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/214_MayDay2012_IMG_8388_0.jpg)
 
 # Pictures of Balloon Mapping Union Sq NY
 
-by [C_Eich](../../../profile/C_Eich) | June 28, 2012 14:19
+by [C_Eich](/profile/C_Eich) | June 28, 2012 14:19
 
-June 28, 2012 14:19 | Tags: [balloon-mapping](../tag/balloon-mapping), [diy-balloon](../tag/diy-balloon), [camera-rig](../tag/camera-rig)
+June 28, 2012 14:19 | Tags: [balloon-mapping](/tag/balloon-mapping), [diy-balloon](/tag/diy-balloon), [camera-rig](/tag/camera-rig)
 
 ----
 

@@ -6,18 +6,16 @@ author: bessbl
 path: /notes/bessbl/01-27-2014/local-environmental-action-2014.md
 nid: 9984
 uid: 420473
-
 cids: 9023
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/677/original/8556568120_1d59d542d5_m.jpg)
 
 # Local Environmental Action 2014 
 
-by [bessbl](../../../profile/bessbl) | January 27, 2014 15:52
+by [bessbl](/profile/bessbl) | January 27, 2014 15:52
 
-January 27, 2014 15:52 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [boston](../tag/boston), [event](../tag/event), [tac](../tag/tac), [toxics-action-center](../tag/toxics-action-center), [mcan](../tag/mcan)
+January 27, 2014 15:52 | Tags: [somerville-massachusetts](/tag/somerville-massachusetts), [boston](/tag/boston), [event](/tag/event), [tac](/tag/tac), [toxics-action-center](/tag/toxics-action-center), [mcan](/tag/mcan)
 
 ----
 

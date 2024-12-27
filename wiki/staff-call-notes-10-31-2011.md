@@ -6,12 +6,12 @@ author: warren
 path: /wiki/staff-call-notes-10-31-2011.md
 nid: 530
 uid: 1
-
+cids: 
 ---
 
 # Staff call notes 10 31 2011
 
-by [liz](../profile/liz), [warren](../profile/warren)
+by [liz](/profile/liz), [warren](/profile/warren)
 
 October 31, 2011 17:04 | Tags: 
 

@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/03-14-2014/oil-fluorescence-testing-station-from-a-spectrometer-box.md
 nid: 10170
 uid: 4
-
 cids: 8504,8525,9365
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/241/original/IMG_0902.JPG)
 
 # Oil Fluorescence Testing station from a spectrometer box
 
-by [mathew](../../../profile/mathew) | March 14, 2014 01:06
+by [mathew](/profile/mathew) | March 14, 2014 01:06
 
-March 14, 2014 01:06 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit)
+March 14, 2014 01:06 | Tags: [spectrometer](/tag/spectrometer), [oil-testing-kit](/tag/oil-testing-kit)
 
 ----
 

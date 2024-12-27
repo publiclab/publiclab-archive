@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/05-27-2016/riffle-campout.md
 nid: 13149
 uid: 554
-
 cids: 14692,14693,14695,14697,14698,14699,14701
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/375/original/Riffle_20160527-5700.jpg)
 
 # Riffle campout
 
-by [cfastie](../../../profile/cfastie) | May 27, 2016 16:11
+by [cfastie](/profile/cfastie) | May 27, 2016 16:11
 
-May 27, 2016 16:11 | Tags: [arduino](../tag/arduino), [temperature](../tag/temperature), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [noise](../tag/noise), [micro-sd](../tag/micro-sd), [response:13128](../tag/response:13128), [category:test-limits](../tag/category:test-limits), [data-logging](../tag/data-logging), [activity:riffle](../tag/activity:riffle), [riffle-examples](../tag/riffle-examples), [activity:data-logging](../tag/activity:data-logging)
+May 27, 2016 16:11 | Tags: [arduino](/tag/arduino), [temperature](/tag/temperature), [sensors](/tag/sensors), [water-quality](/tag/water-quality), [riffle](/tag/riffle), [noise](/tag/noise), [micro-sd](/tag/micro-sd), [response:13128](/tag/response:13128), [category:test-limits](/tag/category:test-limits), [data-logging](/tag/data-logging), [activity:riffle](/tag/activity:riffle), [riffle-examples](/tag/riffle-examples), [activity:data-logging](/tag/activity:data-logging)
 
 ----
 

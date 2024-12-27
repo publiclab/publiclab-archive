@@ -6,16 +6,14 @@ author: Hudonnoodles
 path: /notes/Hudonnoodles/05-01-2018/grassroots-newark-continues.md
 nid: 166
 uid: 102
-
 cids: 
-
 ---
 
 # Grassroots Newark Continues
 
-by [Hudonnoodles](../../../profile/Hudonnoodles) | April 07, 2011 23:41
+by [Hudonnoodles](/profile/Hudonnoodles) | April 07, 2011 23:41
 
-April 07, 2011 23:41 | Tags: [balloon-mapping](../tag/balloon-mapping), [newark](../tag/newark), [new-jersey](../tag/new-jersey), [northeast](../tag/northeast), [first-time-poster](../tag/first-time-poster)
+April 07, 2011 23:41 | Tags: [balloon-mapping](/tag/balloon-mapping), [newark](/tag/newark), [new-jersey](/tag/new-jersey), [northeast](/tag/northeast), [first-time-poster](/tag/first-time-poster)
 
 ----
 

@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/02-28-2016/auto-eos-m.md
 nid: 12757
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/607/original/EOSIR-731-8.jpg)
 
 # Auto EOS M
 
-by [cfastie](../../../profile/cfastie) | February 28, 2016 05:08
+by [cfastie](/profile/cfastie) | February 28, 2016 05:08
 
-February 28, 2016 05:08 | Tags: [balloon-mapping](../tag/balloon-mapping), [arduino](../tag/arduino), [vermont](../tag/vermont), [kite-aerial-photography](../tag/kite-aerial-photography), [camera-triggering](../tag/camera-triggering), [kite](../tag/kite), [kap](../tag/kap), [camera](../tag/camera), [aerial-mapping](../tag/aerial-mapping), [canon](../tag/canon), [skyshield](../tag/skyshield), [eos_m](../tag/eos_m), [mirrorless](../tag/mirrorless), [response:12752](../tag/response:12752), [difficulty:hard](../tag/difficulty:hard), [activity:camera-triggering](../tag/activity:camera-triggering)
+February 28, 2016 05:08 | Tags: [balloon-mapping](/tag/balloon-mapping), [arduino](/tag/arduino), [vermont](/tag/vermont), [kite-aerial-photography](/tag/kite-aerial-photography), [camera-triggering](/tag/camera-triggering), [kite](/tag/kite), [kap](/tag/kap), [camera](/tag/camera), [aerial-mapping](/tag/aerial-mapping), [canon](/tag/canon), [skyshield](/tag/skyshield), [eos_m](/tag/eos_m), [mirrorless](/tag/mirrorless), [response:12752](/tag/response:12752), [difficulty:hard](/tag/difficulty:hard), [activity:camera-triggering](/tag/activity:camera-triggering)
 
 ----
 

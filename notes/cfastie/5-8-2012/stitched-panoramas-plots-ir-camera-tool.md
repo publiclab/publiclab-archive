@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/5-8-2012/stitched-panoramas-plots-ir-camera-tool.md
 nid: 1927
 uid: 554
-
 cids: 709,710,711,712,713,714,715,726
-
 ---
 
 ![](https://publiclab.org/sites/default/files/FledIRshots-20120503-153-34.jpg)
 
 # Stitched panoramas from the PLOTS IR camera tool
 
-by [cfastie](../../../profile/cfastie) | May 08, 2012 18:13
+by [cfastie](/profile/cfastie) | May 08, 2012 18:13
 
-May 08, 2012 18:13 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [nir](../tag/nir), [gigapan](../tag/gigapan)
+May 08, 2012 18:13 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [nrg](/tag/nrg), [ndvi](/tag/ndvi), [nir](/tag/nir), [gigapan](/tag/gigapan)
 
 ----
 

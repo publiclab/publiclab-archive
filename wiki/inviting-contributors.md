@@ -6,12 +6,12 @@ author: warren
 path: /wiki/inviting-contributors.md
 nid: 759
 uid: 1
-
+cids: 
 ---
 
 # Inviting contributors
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 February 06, 2012 21:53 | Tags: 
 

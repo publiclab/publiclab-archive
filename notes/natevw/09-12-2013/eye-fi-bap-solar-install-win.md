@@ -6,18 +6,16 @@ author: natevw
 path: /notes/natevw/09-12-2013/eye-fi-bap-solar-install-win.md
 nid: 9317
 uid: 804
-
 cids: 6817,6818,6819,6823,6825,6910,6912,6922,6923,6924
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/497/original/Screen_Shot_2013-09-12_at_9.31.52_AM.png)
 
 # Eye-Fi + BAP + Solar install = Win?
 
-by [natevw](../../../profile/natevw) | September 12, 2013 16:41
+by [natevw](/profile/natevw) | September 12, 2013 16:41
 
-September 12, 2013 16:41 | Tags: [balloon-mapping](../tag/balloon-mapping), [live-streaming](../tag/live-streaming), [photo-rig](../tag/photo-rig), [eye-fi](../tag/eye-fi)
+September 12, 2013 16:41 | Tags: [balloon-mapping](/tag/balloon-mapping), [live-streaming](/tag/live-streaming), [photo-rig](/tag/photo-rig), [eye-fi](/tag/eye-fi)
 
 ----
 

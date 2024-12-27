@@ -6,14 +6,14 @@ author: warren
 path: /wiki/indoor-air.md
 nid: 17396
 uid: 1
-
+cids: 
 ---
 
 # Indoor Air
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-October 25, 2018 21:07 | Tags: [redirect:indoor-air-quality-monitoring](../tag/redirect:indoor-air-quality-monitoring)
+October 25, 2018 21:07 | Tags: [redirect:indoor-air-quality-monitoring](/tag/redirect:indoor-air-quality-monitoring)
 
 ----
 

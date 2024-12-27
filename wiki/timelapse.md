@@ -6,16 +6,16 @@ author: warren
 path: /wiki/timelapse.md
 nid: 504
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/554/original/IMG_20170202_132917_566.jpg)
 
 # Timelapse Kit
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-October 11, 2011 17:03 | Tags: [timelapse](../tag/timelapse), [tool](../tag/tool), [method](../tag/method), [parent:photo-monitoring](../tag/parent:photo-monitoring)
+October 11, 2011 17:03 | Tags: [timelapse](/tag/timelapse), [tool](/tag/tool), [method](/tag/method), [parent:photo-monitoring](/tag/parent:photo-monitoring)
 
 ----
 
@@ -53,7 +53,7 @@ We're collecting well-documented examples of this technique in action, and we ne
 
 ## Questions
 
-[timelapse](../../tag/question:timelapse)
+[timelapse](/tag/question:timelapse)
 
 ****
 
@@ -73,7 +73,7 @@ Get in touch (jeff@publiclab.org) to organize a local group to assemble, documen
 
 ## Activities
 
-[timelapse](../../tag/activity:timelapse)
+[timelapse](/tag/activity:timelapse)
 
 ****
 

@@ -6,16 +6,14 @@ author: Shizi
 path: /notes/Shizi/12-28-2016/brita.md
 nid: 13809
 uid: 475993
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/149/original/brita.png)
 
 # 破解Brita净水壶滤芯
 
-by [Shizi](../../../profile/Shizi) | December 28, 2016 10:09
+by [Shizi](/profile/Shizi) | December 28, 2016 10:09
 
 December 28, 2016 10:09 | Tags: 
 

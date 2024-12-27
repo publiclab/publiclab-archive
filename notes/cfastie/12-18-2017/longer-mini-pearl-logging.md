@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/12-18-2017/longer-mini-pearl-logging.md
 nid: 15389
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/955/original/sensor_20171217-2146-2.JPG)
 
 # Longer Mini Pearl logging
 
-by [cfastie](../../../profile/cfastie) | December 18, 2017 00:25
+by [cfastie](/profile/cfastie) | December 18, 2017 00:25
 
-December 18, 2017 00:25 | Tags: [arduino](../tag/arduino), [datalogger](../tag/datalogger), [low-power](../tag/low-power), [data-logging](../tag/data-logging), [bme280](../tag/bme280), [mcp9808](../tag/mcp9808), [mini-pearl-logger](../tag/mini-pearl-logger), [activity:mini-pearl-logger](../tag/activity:mini-pearl-logger), [bmp280](../tag/bmp280)
+December 18, 2017 00:25 | Tags: [arduino](/tag/arduino), [datalogger](/tag/datalogger), [low-power](/tag/low-power), [data-logging](/tag/data-logging), [bme280](/tag/bme280), [mcp9808](/tag/mcp9808), [mini-pearl-logger](/tag/mini-pearl-logger), [activity:mini-pearl-logger](/tag/activity:mini-pearl-logger), [bmp280](/tag/bmp280)
 
 ----
 

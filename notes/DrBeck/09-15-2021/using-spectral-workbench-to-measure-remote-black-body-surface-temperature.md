@@ -6,18 +6,16 @@ author: DrBeck
 path: /notes/DrBeck/09-15-2021/using-spectral-workbench-to-measure-remote-black-body-surface-temperature.md
 nid: 27726
 uid: 754147
-
 cids: 29321,29322,29323,29328,29331
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/822/original/Screen_Shot_2021-09-12_at_17.38.54.png)
 
 # Using Spectral Workbench to measure remote "black-body" surface temperature
 
-by [DrBeck](../../../profile/DrBeck) | September 15, 2021 03:22
+by [DrBeck](/profile/DrBeck) | September 15, 2021 03:22
 
-September 15, 2021 03:22 | Tags: [lat:0](../tag/lat:0), [lon:0](../tag/lon:0), [first-time-poster](../tag/first-time-poster), [zoom:1](../tag/zoom:1)
+September 15, 2021 03:22 | Tags: [lat:0](/tag/lat:0), [lon:0](/tag/lon:0), [first-time-poster](/tag/first-time-poster), [zoom:1](/tag/zoom:1)
 
 ----
 

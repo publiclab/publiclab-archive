@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/5-2-2012/no-output-signal-ir-kit-timer.md
 nid: 1891
 uid: 554
-
 cids: 663,664,665,666,667,674,675,676,677,678,679,716,717,718,719,1006,1007
-
 ---
 
 ![](https://publiclab.org/sites/default/files/555-20120502-136-13.jpg)
 
 # No output signal on IR kit timer
 
-by [cfastie](../../../profile/cfastie) | May 02, 2012 17:24
+by [cfastie](/profile/cfastie) | May 02, 2012 17:24
 
-May 02, 2012 17:24 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [triggering](../tag/triggering), [debugging](../tag/debugging), [troubleshooting](../tag/troubleshooting), [555-timer](../tag/555-timer)
+May 02, 2012 17:24 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [triggering](/tag/triggering), [debugging](/tag/debugging), [troubleshooting](/tag/troubleshooting), [555-timer](/tag/555-timer)
 
 ----
 

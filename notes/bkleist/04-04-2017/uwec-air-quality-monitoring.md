@@ -6,18 +6,16 @@ author: bkleist
 path: /notes/bkleist/04-04-2017/uwec-air-quality-monitoring.md
 nid: 14087
 uid: 489504
-
 cids: 16564,16592,17360
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/083/original/download.jpg)
 
 # UWEC air quality monitoring
 
-by [bkleist](../../../profile/bkleist) | April 04, 2017 23:09
+by [bkleist](/profile/bkleist) | April 04, 2017 23:09
 
-April 04, 2017 23:09 | Tags: [time-lapse](../tag/time-lapse), [photo-monitoring](../tag/photo-monitoring), [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [timelapse](../tag/timelapse), [environment](../tag/environment), [pm](../tag/pm), [dylos](../tag/dylos), [mid-west](../tag/mid-west), [air-monitoring](../tag/air-monitoring), [trail-camera](../tag/trail-camera), [uwec](../tag/uwec), [story:timelapse](../tag/story:timelapse), [frac-sand-team](../tag/frac-sand-team), [lat:44.798745](../tag/lat:44.798745), [timelapse-story](../tag/timelapse-story), [lon:-91.501195](../tag/lon:-91.501195)
+April 04, 2017 23:09 | Tags: [time-lapse](/tag/time-lapse), [photo-monitoring](/tag/photo-monitoring), [wisconsin](/tag/wisconsin), [air-quality](/tag/air-quality), [timelapse](/tag/timelapse), [environment](/tag/environment), [pm](/tag/pm), [dylos](/tag/dylos), [mid-west](/tag/mid-west), [air-monitoring](/tag/air-monitoring), [trail-camera](/tag/trail-camera), [uwec](/tag/uwec), [story:timelapse](/tag/story:timelapse), [frac-sand-team](/tag/frac-sand-team), [lat:44.798745](/tag/lat:44.798745), [timelapse-story](/tag/timelapse-story), [lon:-91.501195](/tag/lon:-91.501195)
 
 ----
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/style-guide.md
 nid: 11739
 uid: 1
-
+cids: 
 ---
 
 # Style guide
 
-by [warren](../profile/warren), [liz](../profile/liz)
+by [warren](/profile/warren), [liz](/profile/liz)
 
-April 02, 2015 17:21 | Tags: [design](../tag/design), [style-guide](../tag/style-guide), [sidebar:none](../tag/sidebar:none)
+April 02, 2015 17:21 | Tags: [design](/tag/design), [style-guide](/tag/style-guide), [sidebar:none](/tag/sidebar:none)
 
 ----
 

@@ -6,16 +6,14 @@ author: agentnightingale
 path: /notes/agentnightingale/08-26-2020/infragram-and-pi-noir-camera-ndvi-not-working.md
 nid: 24460
 uid: 658888
-
 cids: 27297,27301,27303,27306,27308,27315
-
 ---
 
 # infragram and Pi NoIR camera - NDVI not working 
 
-by [agentnightingale](../../../profile/agentnightingale) | August 26, 2020 20:33
+by [agentnightingale](/profile/agentnightingale) | August 26, 2020 20:33
 
-August 26, 2020 20:33 | Tags: [ndvi](../tag/ndvi), [infragram](../tag/infragram), [pi](../tag/pi), [question:general](../tag/question:general), [general](../tag/general), [noir](../tag/noir), [first-time-poster](../tag/first-time-poster)
+August 26, 2020 20:33 | Tags: [ndvi](/tag/ndvi), [infragram](/tag/infragram), [pi](/tag/pi), [question:general](/tag/question:general), [general](/tag/general), [noir](/tag/noir), [first-time-poster](/tag/first-time-poster)
 
 ----
 

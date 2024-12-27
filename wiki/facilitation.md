@@ -6,16 +6,16 @@ author: wward1400
 path: /wiki/facilitation.md
 nid: 11486
 uid: 46742
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/237/original/IMG_20170624_100609_262.jpg)
 
 # Facilitate your meetings
 
-by [liz](../profile/liz), [stevie](../profile/stevie), [warren](../profile/warren), [DavidMack](../profile/DavidMack), [wward1400](../profile/wward1400)
+by [liz](/profile/liz), [stevie](/profile/stevie), [warren](/profile/warren), [DavidMack](/profile/DavidMack), [wward1400](/profile/wward1400)
 
-December 18, 2014 22:35 | Tags: [community](../tag/community), [organizing](../tag/organizing), [methodologies](../tag/methodologies), [communityengagement](../tag/communityengagement), [resources-on-facilitation](../tag/resources-on-facilitation), [facilitation](../tag/facilitation), [resources-for-facilitation](../tag/resources-for-facilitation), [method](../tag/method)
+December 18, 2014 22:35 | Tags: [community](/tag/community), [organizing](/tag/organizing), [methodologies](/tag/methodologies), [communityengagement](/tag/communityengagement), [resources-on-facilitation](/tag/resources-on-facilitation), [facilitation](/tag/facilitation), [resources-for-facilitation](/tag/resources-for-facilitation), [method](/tag/method)
 
 ----
 
@@ -61,11 +61,11 @@ It is important that everyone has the chance to weigh in on proposed ground rule
 
 ## Questions
 
-[facilitation](../../tag/question:facilitation)
+[facilitation](/tag/question:facilitation)
 
 ## Activities
 
-[facilitation](../../tag/activity:facilitation)
+[facilitation](/tag/activity:facilitation)
 
 ****
 

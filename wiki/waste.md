@@ -6,16 +6,16 @@ author: nicholas
 path: /wiki/waste.md
 nid: 9409
 uid: 53894
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/522/original/Garbage_barge.jpeg)
 
 # Waste
 
-by [bhamster](../profile/bhamster), [joyofsoy](../profile/joyofsoy), [stevie](../profile/stevie), [wward1400](../profile/wward1400), [nicholas](../profile/nicholas), [lilybui](../profile/lilybui)
+by [bhamster](/profile/bhamster), [joyofsoy](/profile/joyofsoy), [stevie](/profile/stevie), [wward1400](/profile/wward1400), [nicholas](/profile/nicholas), [lilybui](/profile/lilybui)
 
-October 06, 2013 19:11 | Tags: [landfill](../tag/landfill), [waste](../tag/waste), [needs-revision](../tag/needs-revision), [trash](../tag/trash), [basura](../tag/basura)
+October 06, 2013 19:11 | Tags: [landfill](/tag/landfill), [waste](/tag/waste), [needs-revision](/tag/needs-revision), [trash](/tag/trash), [basura](/tag/basura)
 
 ----
 
@@ -29,19 +29,19 @@ _Lead image: @a1ahna, CC BY SA_
 
 ### Questions
 
-[waste](../../tag/question:waste)
+[waste](/tag/question:waste)
 
 <br>
 
 ### Activities
 
-[waste](../../tag/activity:waste)
+[waste](/tag/activity:waste)
 
 <br>
 
 ### Research notes
 
-[waste](../../tag/waste)
+[waste](/tag/waste)
 
 <br>
 

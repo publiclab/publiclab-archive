@@ -6,14 +6,14 @@ author: mathew
 path: /wiki/pet-bottle-rubber-band-rig.md
 nid: 727
 uid: 4
-
+cids: 
 ---
 
 # PET Bottle & Rubber Band Rig
 
-by [mathew](../profile/mathew), [liz](../profile/liz), [blog](../profile/blog)
+by [mathew](/profile/mathew), [liz](/profile/liz), [blog](/profile/blog)
 
-January 30, 2012 04:36 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [photo-rig](../tag/photo-rig), [activity](../tag/activity), [parent:balloon-mapping](../tag/parent:balloon-mapping), [1](../tag/1), [camera-housing](../tag/camera-housing)
+January 30, 2012 04:36 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [photo-rig](/tag/photo-rig), [activity](/tag/activity), [parent:balloon-mapping](/tag/parent:balloon-mapping), [1](/tag/1), [camera-housing](/tag/camera-housing)
 
 ----
 

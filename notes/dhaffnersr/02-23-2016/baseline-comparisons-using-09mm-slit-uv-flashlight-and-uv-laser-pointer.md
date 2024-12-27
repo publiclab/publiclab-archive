@@ -6,18 +6,16 @@ author: dhaffnersr
 path: /notes/dhaffnersr/02-23-2016/baseline-comparisons-using-09mm-slit-uv-flashlight-and-uv-laser-pointer.md
 nid: 12722
 uid: 461120
-
 cids: 13700,13701,13702,13705,13706,13707,13708,13709,13711,13712,13713,13714,13715,13735
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/521/original/uvlaser_uvflashlight_comparison_updated_feb23.png)
 
 # Baseline comparisons using .09mm slit UV flashlight and UV laser pointer
 
-by [dhaffnersr](../../../profile/dhaffnersr) | February 23, 2016 17:20
+by [dhaffnersr](/profile/dhaffnersr) | February 23, 2016 17:20
 
-February 23, 2016 17:20 | Tags: [fluorescence](../tag/fluorescence), [led](../tag/led), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:basic](../tag/barnstar:basic), [405nm](../tag/405nm), [395nm](../tag/395nm), [response:12716](../tag/response:12716)
+February 23, 2016 17:20 | Tags: [fluorescence](/tag/fluorescence), [led](/tag/led), [oil-testing-kit](/tag/oil-testing-kit), [barnstar:basic](/tag/barnstar:basic), [405nm](/tag/405nm), [395nm](/tag/395nm), [response:12716](/tag/response:12716)
 
 ----
 

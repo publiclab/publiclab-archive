@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/6-20-2011/knc-test.md
 nid: 348
 uid: 1
-
 cids: 272,286,288,290
-
 ---
 
 ![](https://publiclab.org/sites/default/files/plots-group-kn.JPG)
 
 # The Public Laboratory for Open Technology and Science Receives Support for Expanding Civic Science Programs
 
-by [warren](../../../profile/warren) | June 22, 2011 18:30
+by [warren](/profile/warren) | June 22, 2011 18:30
 
 June 22, 2011 18:30 | Tags: 
 

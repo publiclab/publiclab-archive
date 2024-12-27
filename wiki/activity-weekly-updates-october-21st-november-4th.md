@@ -6,14 +6,14 @@ author: rollinrenola
 path: /wiki/activity-weekly-updates-october-21st-november-4th.md
 nid: 21323
 uid: 618903
-
+cids: 
 ---
 
 # activity:*weekly Updates October 21st- November 4th 
 
-by [rollinrenola](../profile/rollinrenola)
+by [rollinrenola](/profile/rollinrenola)
 
-October 29, 2019 02:07 | Tags: [publiclaboratory](../tag/publiclaboratory), [fellowship](../tag/fellowship), [updates](../tag/updates)
+October 29, 2019 02:07 | Tags: [publiclaboratory](/tag/publiclaboratory), [fellowship](/tag/fellowship), [updates](/tag/updates)
 
 ----
 

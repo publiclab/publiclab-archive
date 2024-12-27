@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/7-2-2012/matching-olive-oil-spectra-spectralworkbench.md
 nid: 2695
 uid: 1
-
 cids: 1074,1532,1612
-
 ---
 
 ![](https://publiclab.org/sites/default/files/match.jpg)
 
 # Matching olive oil spectra in SpectralWorkbench
 
-by [warren](../../../profile/warren) | July 02, 2012 21:21
+by [warren](/profile/warren) | July 02, 2012 21:21
 
-July 02, 2012 21:21 | Tags: [spectrometer](../tag/spectrometer), [spectrum-matching](../tag/spectrum-matching), [spectralworkbench](../tag/spectralworkbench), [matching](../tag/matching), [olive-oil](../tag/olive-oil)
+July 02, 2012 21:21 | Tags: [spectrometer](/tag/spectrometer), [spectrum-matching](/tag/spectrum-matching), [spectralworkbench](/tag/spectralworkbench), [matching](/tag/matching), [olive-oil](/tag/olive-oil)
 
 ----
 

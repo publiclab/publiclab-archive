@@ -6,18 +6,16 @@ author: AFairbairn
 path: /notes/AFairbairn/03-12-2016/ndvi-to-assess-forage-quality-question.md
 nid: 12839
 uid: 468688
-
 cids: 13884,13885,13890,13899,13911,13913,13915,13923,13924,13925,13929,13936,13958,14425,14525,14533
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/797/original/Color_Index1.tif)
 
 # NDVI to Assess Forage Quality, Question.
 
-by [AFairbairn](../../../profile/AFairbairn) | March 12, 2016 20:57
+by [AFairbairn](/profile/AFairbairn) | March 12, 2016 20:57
 
-March 12, 2016 20:57 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [imagej](../tag/imagej), [infrared-conversion](../tag/infrared-conversion)
+March 12, 2016 20:57 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [imagej](/tag/imagej), [infrared-conversion](/tag/infrared-conversion)
 
 ----
 

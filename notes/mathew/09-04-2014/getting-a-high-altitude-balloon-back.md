@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/09-04-2014/getting-a-high-altitude-balloon-back.md
 nid: 11101
 uid: 4
-
 cids: 10190,10196,10209,10924,12721
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/584/original/Screen_Shot_2014-09-03_at_10.08.19_PM.png)
 
 # Getting a high altitude balloon back
 
-by [mathew](../../../profile/mathew) | September 04, 2014 05:11
+by [mathew](/profile/mathew) | September 04, 2014 05:11
 
-September 04, 2014 05:11 | Tags: [balloon-mapping](../tag/balloon-mapping), [solar-balloon](../tag/solar-balloon), [mapping](../tag/mapping), [balloon](../tag/balloon), [arhab](../tag/arhab)
+September 04, 2014 05:11 | Tags: [balloon-mapping](/tag/balloon-mapping), [solar-balloon](/tag/solar-balloon), [mapping](/tag/mapping), [balloon](/tag/balloon), [arhab](/tag/arhab)
 
 ----
 

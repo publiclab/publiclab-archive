@@ -6,16 +6,14 @@ author: bicwood
 path: /notes/bicwood/04-18-2017/desktop-spectrometer-kit-availablility.md
 nid: 14120
 uid: 420736
-
 cids: 18104,18105,22455
-
 ---
 
 # Desktop Spectrometer Kit Availablility
 
-by [bicwood](../../../profile/bicwood) | April 18, 2017 16:44
+by [bicwood](/profile/bicwood) | April 18, 2017 16:44
 
-April 18, 2017 16:44 | Tags: [question:spectrometry](../tag/question:spectrometry), [question:dssk](../tag/question:dssk)
+April 18, 2017 16:44 | Tags: [question:spectrometry](/tag/question:spectrometry), [question:dssk](/tag/question:dssk)
 
 ----
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/skypod.md
 nid: 14569
 uid: 1
-
+cids: 
 ---
 
 # skypod
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-June 22, 2017 14:07 | Tags: [redirect:14553](../tag/redirect:14553)
+June 22, 2017 14:07 | Tags: [redirect:14553](/tag/redirect:14553)
 
 ----
 

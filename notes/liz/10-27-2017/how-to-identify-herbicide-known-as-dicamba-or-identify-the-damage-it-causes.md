@@ -6,16 +6,14 @@ author: liz
 path: /notes/liz/10-27-2017/how-to-identify-herbicide-known-as-dicamba-or-identify-the-damage-it-causes.md
 nid: 15108
 uid: 7
-
 cids: 22695
-
 ---
 
 # How to identify herbicide known as Dicamba or identify the damage it causes?
 
-by [liz](../../../profile/liz) | October 27, 2017 13:21
+by [liz](/profile/liz) | October 27, 2017 13:21
 
-October 27, 2017 13:21 | Tags: [answered](../tag/answered), [question:general](../tag/question:general), [question:herbicides](../tag/question:herbicides), [question:agriculture](../tag/question:agriculture)
+October 27, 2017 13:21 | Tags: [answered](/tag/answered), [question:general](/tag/question:general), [question:herbicides](/tag/question:herbicides), [question:agriculture](/tag/question:agriculture)
 
 ----
 

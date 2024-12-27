@@ -6,18 +6,16 @@ author: michalnon
 path: /notes/michalnon/02-24-2016/slowing-sensor-journalism.md
 nid: 12729
 uid: 461502
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/549/original/undefined)
 
 # Slowing Sensor Journalism
 
-by [michalnon](../../../profile/michalnon) | February 24, 2016 03:30
+by [michalnon](/profile/michalnon) | February 24, 2016 03:30
 
-February 24, 2016 03:30 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
+February 24, 2016 03:30 | Tags: [sensor-journalism](/tag/sensor-journalism), [response:12748](/tag/response:12748), [hidden:response](/tag/hidden:response)
 
 ----
 

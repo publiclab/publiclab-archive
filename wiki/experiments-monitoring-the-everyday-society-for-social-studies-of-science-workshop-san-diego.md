@@ -6,16 +6,16 @@ author: sara
 path: /wiki/experiments-monitoring-the-everyday-society-for-social-studies-of-science-workshop-san-diego.md
 nid: 9441
 uid: 8
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/900/original/Screen_Shot_2013-10-11_at_5.16.49_PM.png)
 
 # Experiments Monitoring the Everyday: Society for Social Studies of Science Workshop San Diego
 
-by [maxliboiron](../profile/maxliboiron), [holstius](../profile/holstius), [sara](../profile/sara)
+by [maxliboiron](/profile/maxliboiron), [holstius](/profile/holstius), [sara](/profile/sara)
 
-October 11, 2013 21:19 | Tags: [san-diego](../tag/san-diego), [workshops](../tag/workshops), [4s](../tag/4s)
+October 11, 2013 21:19 | Tags: [san-diego](/tag/san-diego), [workshops](/tag/workshops), [4s](/tag/4s)
 
 ----
 

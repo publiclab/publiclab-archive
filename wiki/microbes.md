@@ -6,14 +6,14 @@ author: liz
 path: /wiki/microbes.md
 nid: 3909
 uid: 7
-
+cids: 
 ---
 
 # microbes
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-September 20, 2012 17:41 | Tags: [air-column-monitor](../tag/air-column-monitor), [diy-bio](../tag/diy-bio), [microbes](../tag/microbes), [air-quality](../tag/air-quality), [diybio](../tag/diybio)
+September 20, 2012 17:41 | Tags: [air-column-monitor](/tag/air-column-monitor), [diy-bio](/tag/diy-bio), [microbes](/tag/microbes), [air-quality](/tag/air-quality), [diybio](/tag/diybio)
 
 ----
 

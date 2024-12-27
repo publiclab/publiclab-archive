@@ -6,16 +6,16 @@ author: JSummers
 path: /wiki/wheestat-user-s-manual.md
 nid: 10627
 uid: 304279
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/030/original/WheeStat-VoltammetryPhoto.jpg)
 
 # WheeStat User's Manual
 
-by [warren](../profile/warren), [JSummers](../profile/JSummers)
+by [warren](/profile/warren), [JSummers](/profile/JSummers)
 
-June 28, 2014 19:56 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [heavy-metals](../tag/heavy-metals), [water-quality](../tag/water-quality), [potentiostat](../tag/potentiostat), [lead](../tag/lead), [wheestat](../tag/wheestat)
+June 28, 2014 19:56 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [heavy-metals](/tag/heavy-metals), [water-quality](/tag/water-quality), [potentiostat](/tag/potentiostat), [lead](/tag/lead), [wheestat](/tag/wheestat)
 
 ----
 
@@ -27,11 +27,11 @@ The WheeStat is a potentiostat, which is an instrument used to study electron tr
 
 ## Questions
 
-[wheestat](../../tag/question:wheestat)
+[wheestat](/tag/question:wheestat)
 
 ## Activities
 
-[wheestat](../../tag/activity:wheestat)
+[wheestat](/tag/activity:wheestat)
 
 ****
 

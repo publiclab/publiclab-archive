@@ -6,14 +6,14 @@ author: dhaffnersr
 path: /wiki/dh-4-0-v4-spectrometer-build-illustrations-modifications-and-specifications.md
 nid: 13415
 uid: 461120
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/898/original/DH_spectrometer_sept_3_view_2.png)
 
 # DH 4.0 v4 Spectrometer Build Illustrations, Modifications and Specifications
 
-by [dhaffnersr](../profile/dhaffnersr)
+by [dhaffnersr](/profile/dhaffnersr)
 
 September 03, 2016 22:48 | Tags: 
 

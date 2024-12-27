@@ -6,12 +6,12 @@ author: warren
 path: /wiki/geo-storytelling-template.md
 nid: 21350
 uid: 1
-
+cids: 
 ---
 
 # Geo Storytelling Template
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 October 30, 2019 21:33 | Tags: 
 

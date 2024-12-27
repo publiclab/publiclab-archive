@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/04-06-2022/seeking-a-documentation-fellow.md
 nid: 30241
 uid: 422561
-
 cids: 29931,30256
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/632/original/rice2_1.1.2.jpg)
 
 # Seeking a Documentation Fellow
 
-by [stevie](../../../profile/stevie) | April 06, 2022 14:20
+by [stevie](/profile/stevie) | April 06, 2022 14:20
 
-April 06, 2022 14:20 | Tags: [documentation](../tag/documentation), [heavy-metals](../tag/heavy-metals), [pipeline](../tag/pipeline), [mining](../tag/mining), [minnesota](../tag/minnesota), [fracking](../tag/fracking), [jobs](../tag/jobs), [midwest](../tag/midwest), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [fellow](../tag/fellow), [mill](../tag/mill), [fellowship-team](../tag/fellowship-team), [anthropology](../tag/anthropology), [fellowship-teams](../tag/fellowship-teams), [lumber](../tag/lumber), [particle-board](../tag/particle-board), [with:bee](../tag/with:bee), [story-telling](../tag/story-telling)
+April 06, 2022 14:20 | Tags: [documentation](/tag/documentation), [heavy-metals](/tag/heavy-metals), [pipeline](/tag/pipeline), [mining](/tag/mining), [minnesota](/tag/minnesota), [fracking](/tag/fracking), [jobs](/tag/jobs), [midwest](/tag/midwest), [fellows](/tag/fellows), [fellowship](/tag/fellowship), [fellow](/tag/fellow), [mill](/tag/mill), [fellowship-team](/tag/fellowship-team), [anthropology](/tag/anthropology), [fellowship-teams](/tag/fellowship-teams), [lumber](/tag/lumber), [particle-board](/tag/particle-board), [with:bee](/tag/with:bee), [story-telling](/tag/story-telling)
 
 ----
 

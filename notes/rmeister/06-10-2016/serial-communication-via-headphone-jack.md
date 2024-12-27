@@ -6,18 +6,16 @@ author: rmeister
 path: /notes/rmeister/06-10-2016/serial-communication-via-headphone-jack.md
 nid: 13185
 uid: 468994
-
 cids: 15481,15483,15484,15485,15486,15487,15488,15489,15490,15494
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/576/original/figure_eval_pos.png)
 
 # Serial communication via headphone jack
 
-by [rmeister](../../../profile/rmeister) | June 10, 2016 18:06
+by [rmeister](/profile/rmeister) | June 10, 2016 18:06
 
-June 10, 2016 18:06 | Tags: [arduino](../tag/arduino), [barnstar:basic](../tag/barnstar:basic), [sensor-readout](../tag/sensor-readout), [sensor-nodes](../tag/sensor-nodes), [serial-link](../tag/serial-link), [fsk-decoder](../tag/fsk-decoder), [activity:webjack](../tag/activity:webjack), [category:dev](../tag/category:dev)
+June 10, 2016 18:06 | Tags: [arduino](/tag/arduino), [barnstar:basic](/tag/barnstar:basic), [sensor-readout](/tag/sensor-readout), [sensor-nodes](/tag/sensor-nodes), [serial-link](/tag/serial-link), [fsk-decoder](/tag/fsk-decoder), [activity:webjack](/tag/activity:webjack), [category:dev](/tag/category:dev)
 
 ----
 

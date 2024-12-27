@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/09-09-2013/an-overview-of-the-publiclab-org-website.md
 nid: 9310
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/466/original/Screen_Shot_2013-09-09_at_3.38.19_PM.png)
 
 # An overview of the PublicLab.org website
 
-by [warren](../../../profile/warren) | September 09, 2013 19:38
+by [warren](/profile/warren) | September 09, 2013 19:38
 
-September 09, 2013 19:38 | Tags: [video](../tag/video), [website](../tag/website)
+September 09, 2013 19:38 | Tags: [video](/tag/video), [website](/tag/website)
 
 ----
 

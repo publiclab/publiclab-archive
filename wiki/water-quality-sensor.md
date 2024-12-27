@@ -6,16 +6,16 @@ author: liz
 path: /wiki/water-quality-sensor.md
 nid: 1622
 uid: 7
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/216/original/IMG_4053.jpg)
 
 # Water Quality Sensor
 
-by [warren](../profile/warren), [Dana](../profile/Dana), [Shannon](../profile/Shannon), [lpercifield](../profile/lpercifield), [liz](../profile/liz)
+by [warren](/profile/warren), [Dana](/profile/Dana), [Shannon](/profile/Shannon), [lpercifield](/profile/lpercifield), [liz](/profile/liz)
 
-April 05, 2012 18:33 | Tags: [new-york-city](../tag/new-york-city), [arduino](../tag/arduino), [water-quality](../tag/water-quality), [water](../tag/water), [water-quality-sensor](../tag/water-quality-sensor), [tool](../tag/tool), [dontflushme](../tag/dontflushme), [method](../tag/method), [project:water-quality](../tag/project:water-quality)
+April 05, 2012 18:33 | Tags: [new-york-city](/tag/new-york-city), [arduino](/tag/arduino), [water-quality](/tag/water-quality), [water](/tag/water), [water-quality-sensor](/tag/water-quality-sensor), [tool](/tag/tool), [dontflushme](/tag/dontflushme), [method](/tag/method), [project:water-quality](/tag/project:water-quality)
 
 ----
 

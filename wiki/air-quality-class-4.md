@@ -6,12 +6,12 @@ author: liz
 path: /wiki/air-quality-class-4.md
 nid: 6126
 uid: 7
-
+cids: 
 ---
 
 # air quality class 4
 
-by [jmsaavedra](../profile/jmsaavedra), [liz](../profile/liz)
+by [jmsaavedra](/profile/jmsaavedra), [liz](/profile/liz)
 
 February 26, 2013 16:36 | Tags: 
 

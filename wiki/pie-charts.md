@@ -6,12 +6,12 @@ author: warren
 path: /wiki/pie-charts.md
 nid: 888
 uid: 1
-
+cids: 
 ---
 
 # Pie charts
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 March 05, 2012 22:37 | Tags: 
 

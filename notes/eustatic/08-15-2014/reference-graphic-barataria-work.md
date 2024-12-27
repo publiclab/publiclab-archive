@@ -6,18 +6,16 @@ author: eustatic
 path: /08-15-2014/reference-graphic-barataria-work.md
 nid: 11055
 uid: 379
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/278/original/philip_trosclair_rockerfeller_delination_over_time_showing_erosion.png)
 
 # Reference graphic, Barataria work
 
-by [eustatic](../../../profile/eustatic) | August 15, 2014 01:13
+by [eustatic](/profile/eustatic) | August 15, 2014 01:13
 
-August 15, 2014 01:13 | Tags: [gulf-coast](../tag/gulf-coast), [mapknitter](../tag/mapknitter), [wetlands](../tag/wetlands), [louisiana](../tag/louisiana), [barataria](../tag/barataria)
+August 15, 2014 01:13 | Tags: [gulf-coast](/tag/gulf-coast), [mapknitter](/tag/mapknitter), [wetlands](/tag/wetlands), [louisiana](/tag/louisiana), [barataria](/tag/barataria)
 
 ----
 

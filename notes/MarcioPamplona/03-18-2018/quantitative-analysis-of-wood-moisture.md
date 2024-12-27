@@ -6,16 +6,14 @@ author: MarcioPamplona
 path: /notes/MarcioPamplona/03-18-2018/quantitative-analysis-of-wood-moisture.md
 nid: 15971
 uid: 527940
-
 cids: 19010,19025,19026,23006,23007,23009,23012,23013,23014
-
 ---
 
 # Quantitative analysis of wood moisture
 
-by [MarcioPamplona](../../../profile/MarcioPamplona) | March 19, 2018 09:55
+by [MarcioPamplona](/profile/MarcioPamplona) | March 19, 2018 09:55
 
-March 19, 2018 09:55 | Tags: [spectrometry](../tag/spectrometry), [question:spectrometry](../tag/question:spectrometry), [moisture](../tag/moisture), [question:general](../tag/question:general), [solid](../tag/solid), [question:wood](../tag/question:wood), [question:moisture](../tag/question:moisture), [wood](../tag/wood)
+March 19, 2018 09:55 | Tags: [spectrometry](/tag/spectrometry), [question:spectrometry](/tag/question:spectrometry), [moisture](/tag/moisture), [question:general](/tag/question:general), [solid](/tag/solid), [question:wood](/tag/question:wood), [question:moisture](/tag/question:moisture), [wood](/tag/wood)
 
 ----
 

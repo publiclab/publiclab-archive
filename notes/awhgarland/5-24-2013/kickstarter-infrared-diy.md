@@ -6,14 +6,12 @@ author: awhgarland
 path: /notes/awhgarland/5-24-2013/kickstarter-infrared-diy.md
 nid: 7894
 uid: 84299
-
 cids: 
-
 ---
 
 # Kickstarter Infrared DIY
 
-by [awhgarland](../../../profile/awhgarland) | May 24, 2013 12:28
+by [awhgarland](/profile/awhgarland) | May 24, 2013 12:28
 
 May 24, 2013 12:28 | Tags: 
 

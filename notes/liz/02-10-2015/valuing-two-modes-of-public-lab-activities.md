@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/02-10-2015/valuing-two-modes-of-public-lab-activities.md
 nid: 11573
 uid: 7
-
 cids: 11146,11153,11303,11358,12427
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/882/original/tumblr_m51woeJu3w1qzt4vjo1_r4_500.gif)
 
 # Valuing two modes of Public Lab activities
 
-by [liz](../../../profile/liz) | February 10, 2015 21:04
+by [liz](/profile/liz) | February 10, 2015 21:04
 
-February 10, 2015 21:04 | Tags: [community](../tag/community), [with:warren](../tag/with:warren)
+February 10, 2015 21:04 | Tags: [community](/tag/community), [with:warren](/tag/with:warren)
 
 ----
 

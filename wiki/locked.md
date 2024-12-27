@@ -6,14 +6,14 @@ author: warren
 path: /wiki/locked.md
 nid: 13807
 uid: 1
-
+cids: 
 ---
 
 # Locked pages
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-December 27, 2016 06:28 | Tags: [website](../tag/website), [moderation](../tag/moderation), [location:blurred](../tag/location:blurred), [place:canada](../tag/place:canada), [lat:22](../tag/lat:22), [parent:moderation](../tag/parent:moderation), [lon:76](../tag/lon:76), [website-utilities](../tag/website-utilities), [zoom:6](../tag/zoom:6)
+December 27, 2016 06:28 | Tags: [website](/tag/website), [moderation](/tag/moderation), [location:blurred](/tag/location:blurred), [place:canada](/tag/place:canada), [lat:22](/tag/lat:22), [parent:moderation](/tag/parent:moderation), [lon:76](/tag/lon:76), [website-utilities](/tag/website-utilities), [zoom:6](/tag/zoom:6)
 
 ----
 

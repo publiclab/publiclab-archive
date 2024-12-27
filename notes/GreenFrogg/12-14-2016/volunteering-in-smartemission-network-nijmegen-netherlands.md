@@ -6,18 +6,16 @@ author: GreenFrogg
 path: /notes/GreenFrogg/12-14-2016/volunteering-in-smartemission-network-nijmegen-netherlands.md
 nid: 13785
 uid: 499984
-
 cids: 16207
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/053/original/2016-02-12_13.09.42.jpg)
 
 # Volunteering in Smartemission network Nijmegen Netherlands
 
-by [GreenFrogg](../../../profile/GreenFrogg) | December 14, 2016 20:57
+by [GreenFrogg](/profile/GreenFrogg) | December 14, 2016 20:57
 
-December 14, 2016 20:57 | Tags: [blog-submission](../tag/blog-submission), [first-time-poster](../tag/first-time-poster)
+December 14, 2016 20:57 | Tags: [blog-submission](/tag/blog-submission), [first-time-poster](/tag/first-time-poster)
 
 ----
 

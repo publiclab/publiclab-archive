@@ -6,18 +6,16 @@ author: nshapiro
 path: /notes/nshapiro/01-24-2018/plant-air-purifier-in-paris-feb-2-3-6pm.md
 nid: 15605
 uid: 380298
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/335/original/PlantPurifier.png)
 
 # Plant air purifier in Paris, Feb 2, 3-6PM
 
-by [nshapiro](../../../profile/nshapiro) | January 24, 2018 23:34
+by [nshapiro](/profile/nshapiro) | January 24, 2018 23:34
 
-January 24, 2018 23:34 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [with:cguerin](../tag/with:cguerin), [date:02-02-2018](../tag/date:02-02-2018), [rsvp:nshapiro](../tag/rsvp:nshapiro), [plant-air-purifier-prototypes](../tag/plant-air-purifier-prototypes)
+January 24, 2018 23:34 | Tags: [event](/tag/event), [event:rsvp](/tag/event:rsvp), [with:cguerin](/tag/with:cguerin), [date:02-02-2018](/tag/date:02-02-2018), [rsvp:nshapiro](/tag/rsvp:nshapiro), [plant-air-purifier-prototypes](/tag/plant-air-purifier-prototypes)
 
 ----
 

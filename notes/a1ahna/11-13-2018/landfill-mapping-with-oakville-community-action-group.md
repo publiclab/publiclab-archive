@@ -6,18 +6,16 @@ author: a1ahna
 path: /notes/a1ahna/11-13-2018/landfill-mapping-with-oakville-community-action-group.md
 nid: 17544
 uid: 518193
-
 cids: 21717,21722,27728
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/641/original/IMG_4496.JPG)
 
 # Landfill mapping with Oakville Community Action Group
 
-by [a1ahna](../../../profile/a1ahna) | November 13, 2018 17:18
+by [a1ahna](/profile/a1ahna) | November 13, 2018 17:18
 
-November 13, 2018 17:18 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [louisiana](../tag/louisiana), [landfill](../tag/landfill), [plaquemines](../tag/plaquemines), [location:blurred](../tag/location:blurred), [oakville](../tag/oakville), [lat:29.78](../tag/lat:29.78), [lon:-90.02](../tag/lon:-90.02), [place:oakville](../tag/place:oakville)
+November 13, 2018 17:18 | Tags: [gulf-coast](/tag/gulf-coast), [kite-mapping](/tag/kite-mapping), [wetlands](/tag/wetlands), [louisiana](/tag/louisiana), [landfill](/tag/landfill), [plaquemines](/tag/plaquemines), [location:blurred](/tag/location:blurred), [oakville](/tag/oakville), [lat:29.78](/tag/lat:29.78), [lon:-90.02](/tag/lon:-90.02), [place:oakville](/tag/place:oakville)
 
 ----
 

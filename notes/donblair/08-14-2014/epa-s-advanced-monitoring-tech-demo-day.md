@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/08-14-2014/epa-s-advanced-monitoring-tech-demo-day.md
 nid: 11054
 uid: 43651
-
 cids: 10007,10079,10080,10082,10127,10129,10153,10158,10161,10163,10164
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/275/original/epatechdemoday.png)
 
 # EPA's Advanced Monitoring Tech Demo Day
 
-by [donblair](../../../profile/donblair) | August 14, 2014 23:38
+by [donblair](/profile/donblair) | August 14, 2014 23:38
 
-August 14, 2014 23:38 | Tags: [epa](../tag/epa), [water](../tag/water), [riffle](../tag/riffle), [demo](../tag/demo), [barnstar:basic](../tag/barnstar:basic), [openwater](../tag/openwater)
+August 14, 2014 23:38 | Tags: [epa](/tag/epa), [water](/tag/water), [riffle](/tag/riffle), [demo](/tag/demo), [barnstar:basic](/tag/barnstar:basic), [openwater](/tag/openwater)
 
 ----
 

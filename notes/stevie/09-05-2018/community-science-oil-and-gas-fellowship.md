@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/09-05-2018/community-science-oil-and-gas-fellowship.md
 nid: 17066
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/447/original/pl-narrow.png)
 
 # Community Science Oil and Gas Fellowship
 
-by [stevie](../../../profile/stevie) | September 05, 2018 14:41
+by [stevie](/profile/stevie) | September 05, 2018 14:41
 
-September 05, 2018 14:41 | Tags: [gulf-coast](../tag/gulf-coast), [new-orleans](../tag/new-orleans), [monitoring](../tag/monitoring), [jobs](../tag/jobs), [with:eustatic](../tag/with:eustatic), [fellowship](../tag/fellowship), [oil-and-gas](../tag/oil-and-gas)
+September 05, 2018 14:41 | Tags: [gulf-coast](/tag/gulf-coast), [new-orleans](/tag/new-orleans), [monitoring](/tag/monitoring), [jobs](/tag/jobs), [with:eustatic](/tag/with:eustatic), [fellowship](/tag/fellowship), [oil-and-gas](/tag/oil-and-gas)
 
 ----
 

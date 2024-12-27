@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/03-29-2019/sant-adria-barcelona-ndvi.md
 nid: 18899
 uid: 495038
-
 cids: 23542,30293
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/857/original/gasnatural.jpg)
 
 # Sant Adriá, Barcelona NDVI
 
-by [imvec](../../../profile/imvec) | March 29, 2019 13:18
+by [imvec](/profile/imvec) | March 29, 2019 13:18
 
-March 29, 2019 13:18 | Tags: [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [barcelona](../tag/barcelona), [kite](../tag/kite), [kap](../tag/kap), [infragram](../tag/infragram), [lang:es](../tag/lang:es), [barnstar:basic](../tag/barnstar:basic), [pi-camera](../tag/pi-camera), [lang:en](../tag/lang:en), [with:xose](../tag/with:xose), [pi-builder](../tag/pi-builder), [infragram-pi](../tag/infragram-pi)
+March 29, 2019 13:18 | Tags: [kite-mapping](/tag/kite-mapping), [ndvi](/tag/ndvi), [barcelona](/tag/barcelona), [kite](/tag/kite), [kap](/tag/kap), [infragram](/tag/infragram), [lang:es](/tag/lang:es), [barnstar:basic](/tag/barnstar:basic), [pi-camera](/tag/pi-camera), [lang:en](/tag/lang:en), [with:xose](/tag/with:xose), [pi-builder](/tag/pi-builder), [infragram-pi](/tag/infragram-pi)
 
 ----
 

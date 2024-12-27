@@ -6,14 +6,14 @@ author: liz
 path: /wiki/riffle-beta.md
 nid: 12766
 uid: 7
-
+cids: 
 ---
 
 # Riffle Beta
 
-by [liz](../profile/liz), [mathew](../profile/mathew)
+by [liz](/profile/liz), [mathew](/profile/mathew)
 
-March 01, 2016 19:08 | Tags: [parent:riffle](../tag/parent:riffle)
+March 01, 2016 19:08 | Tags: [parent:riffle](/tag/parent:riffle)
 
 ----
 

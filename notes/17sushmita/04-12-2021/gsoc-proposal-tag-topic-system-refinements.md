@@ -6,18 +6,16 @@ author: 17sushmita
 path: /notes/17sushmita/04-12-2021/gsoc-proposal-tag-topic-system-refinements.md
 nid: 26208
 uid: 741338
-
 cids: 28541,28542,28544,28545,28546,28551,28552,28555,28556
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/276/original/gsoc.png)
 
 # GSoC Proposal : Tag/Topic System Refinements
 
-by [17sushmita](../../../profile/17sushmita) | April 12, 2021 22:32
+by [17sushmita](/profile/17sushmita) | April 12, 2021 22:32
 
-April 12, 2021 22:32 | Tags: [gsoc](../tag/gsoc), [location:blurred](../tag/location:blurred), [lat:28](../tag/lat:28), [lon:77](../tag/lon:77), [place:india](../tag/place:india), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [gsoc-2021-proposals](../tag/gsoc-2021-proposals)
+April 12, 2021 22:32 | Tags: [gsoc](/tag/gsoc), [location:blurred](/tag/location:blurred), [lat:28](/tag/lat:28), [lon:77](/tag/lon:77), [place:india](/tag/place:india), [first-time-poster](/tag/first-time-poster), [zoom:6](/tag/zoom:6), [gsoc-2021-proposals](/tag/gsoc-2021-proposals)
 
 ----
 

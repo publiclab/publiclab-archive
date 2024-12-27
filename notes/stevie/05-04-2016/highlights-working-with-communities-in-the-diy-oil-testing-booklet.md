@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/05-04-2016/highlights-working-with-communities-in-the-diy-oil-testing-booklet.md
 nid: 13075
 uid: 422561
-
 cids: 14733,14736,17998,18000,18001,18006,18061,18062,18076
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/942/original/IMG_20160420_112253-2.jpg)
 
 # Highlights: Working with Communities in the DIY Oil Testing Booklet
 
-by [stevie](../../../profile/stevie) | May 04, 2016 18:06
+by [stevie](/profile/stevie) | May 04, 2016 18:06
 
-May 04, 2016 18:06 | Tags: [spectrometer](../tag/spectrometer), [community](../tag/community), [workshops](../tag/workshops), [blog](../tag/blog), [oil-testing-kit](../tag/oil-testing-kit), [homebrew-oil-testing-kit](../tag/homebrew-oil-testing-kit), [booklet](../tag/booklet), [response:13032](../tag/response:13032)
+May 04, 2016 18:06 | Tags: [spectrometer](/tag/spectrometer), [community](/tag/community), [workshops](/tag/workshops), [blog](/tag/blog), [oil-testing-kit](/tag/oil-testing-kit), [homebrew-oil-testing-kit](/tag/homebrew-oil-testing-kit), [booklet](/tag/booklet), [response:13032](/tag/response:13032)
 
 ----
 

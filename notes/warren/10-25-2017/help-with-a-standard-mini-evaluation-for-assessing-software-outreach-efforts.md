@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/10-25-2017/help-with-a-standard-mini-evaluation-for-assessing-software-outreach-efforts.md
 nid: 15093
 uid: 1
-
 cids: 17572,17574,17575,17576,17584,17814,17815,18131,22973,23039,24086
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/026/original/Screenshot_2017-10-25_at_10.47.03_AM.png)
 
 # Help with a standard mini-evaluation for assessing software outreach efforts?
 
-by [warren](../../../profile/warren) | October 25, 2017 14:56
+by [warren](/profile/warren) | October 25, 2017 14:56
 
-October 25, 2017 14:56 | Tags: [software](../tag/software), [evaluation](../tag/evaluation), [survey](../tag/survey), [first-timers-only](../tag/first-timers-only), [software-outreach](../tag/software-outreach), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [eval](../tag/eval), [diversity](../tag/diversity), [question:evaluation](../tag/question:evaluation), [question:software-outreach](../tag/question:software-outreach)
+October 25, 2017 14:56 | Tags: [software](/tag/software), [evaluation](/tag/evaluation), [survey](/tag/survey), [first-timers-only](/tag/first-timers-only), [software-outreach](/tag/software-outreach), [soc](/tag/soc), [soc-2017](/tag/soc-2017), [eval](/tag/eval), [diversity](/tag/diversity), [question:evaluation](/tag/question:evaluation), [question:software-outreach](/tag/question:software-outreach)
 
 ----
 

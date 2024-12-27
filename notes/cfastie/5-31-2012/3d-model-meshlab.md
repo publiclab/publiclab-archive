@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/5-31-2012/3d-model-meshlab.md
 nid: 2275
 uid: 554
-
 cids: 806,807,809,811,817,821,823,905
-
 ---
 
 ![](https://publiclab.org/sites/default/files/LeeLow00.jpg)
 
 # 3D model in MeshLab
 
-by [cfastie](../../../profile/cfastie) | May 31, 2012 14:19
+by [cfastie](/profile/cfastie) | May 31, 2012 14:19
 
-May 31, 2012 14:19 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [biomass](../tag/biomass), [farming](../tag/farming)
+May 31, 2012 14:19 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [biomass](/tag/biomass), [farming](/tag/farming)
 
 ----
 

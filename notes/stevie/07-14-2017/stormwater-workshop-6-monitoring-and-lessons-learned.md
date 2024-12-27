@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/07-14-2017/stormwater-workshop-6-monitoring-and-lessons-learned.md
 nid: 14654
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/127/original/20170708_173545_720-1.jpg)
 
 # Stormwater Workshop 6: Monitoring and Lessons Learned
 
-by [stevie](../../../profile/stevie) | July 14, 2017 20:41
+by [stevie](/profile/stevie) | July 14, 2017 20:41
 
-July 14, 2017 20:41 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [time-lapse](../tag/time-lapse), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [new-orleans](../tag/new-orleans), [stormwater](../tag/stormwater), [story:timelapse](../tag/story:timelapse), [story:stormwater](../tag/story:stormwater)
+July 14, 2017 20:41 | Tags: [gulf-coast](/tag/gulf-coast), [louisiana](/tag/louisiana), [time-lapse](/tag/time-lapse), [photo-monitoring](/tag/photo-monitoring), [timelapse](/tag/timelapse), [new-orleans](/tag/new-orleans), [stormwater](/tag/stormwater), [story:timelapse](/tag/story:timelapse), [story:stormwater](/tag/story:stormwater)
 
 ----
 

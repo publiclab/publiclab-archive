@@ -6,18 +6,16 @@ author: gwirth
 path: /notes/gwirth/06-05-2013/gowanus-vegetation-mapping-saturday-june-8th.md
 nid: 8057
 uid: 30539
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/475/original/GC_cleangreen_thumb.jpg)
 
 # Gowanus Vegetation Mapping - Saturday June 8th
 
-by [gwirth](../../../profile/gwirth) | June 05, 2013 03:05
+by [gwirth](/profile/gwirth) | June 05, 2013 03:05
 
-June 05, 2013 03:05 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [events:new-york-city](../tag/events:new-york-city)
+June 05, 2013 03:05 | Tags: [new-york-city](/tag/new-york-city), [gowanus](/tag/gowanus), [events:new-york-city](/tag/events:new-york-city)
 
 ----
 

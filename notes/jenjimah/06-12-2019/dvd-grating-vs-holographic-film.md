@@ -6,18 +6,16 @@ author: jenjimah
 path: /notes/jenjimah/06-12-2019/dvd-grating-vs-holographic-film.md
 nid: 19670
 uid: 505738
-
 cids: 25002
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/838/original/versus.jpg)
 
 # DVD Grating vs. Holographic Film
 
-by [jenjimah](../../../profile/jenjimah) | June 12, 2019 08:08
+by [jenjimah](/profile/jenjimah) | June 12, 2019 08:08
 
-June 12, 2019 08:08 | Tags: [spectrometer](../tag/spectrometer), [grating](../tag/grating), [holographic](../tag/holographic), [dvd](../tag/dvd), [diffraction](../tag/diffraction)
+June 12, 2019 08:08 | Tags: [spectrometer](/tag/spectrometer), [grating](/tag/grating), [holographic](/tag/holographic), [dvd](/tag/dvd), [diffraction](/tag/diffraction)
 
 ----
 

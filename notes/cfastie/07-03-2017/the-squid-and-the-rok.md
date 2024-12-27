@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/07-03-2017/the-squid-and-the-rok.md
 nid: 14612
 uid: 554
-
 cids: 17001,17002,17003
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/988/original/Squid_20170702-9878c.jpg)
 
 # The Squid and the Rok
 
-by [cfastie](../../../profile/cfastie) | July 03, 2017 17:08
+by [cfastie](/profile/cfastie) | July 03, 2017 17:08
 
-July 03, 2017 17:08 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kite-aerial-photography](../tag/kite-aerial-photography), [kickstarter](../tag/kickstarter), [kap](../tag/kap), [mini-kite-kit](../tag/mini-kite-kit), [squidweek](../tag/squidweek), [squid](../tag/squid), [aerobee-rig](../tag/aerobee-rig), [rokkaku](../tag/rokkaku)
+July 03, 2017 17:08 | Tags: [kite-mapping](/tag/kite-mapping), [vermont](/tag/vermont), [kite-aerial-photography](/tag/kite-aerial-photography), [kickstarter](/tag/kickstarter), [kap](/tag/kap), [mini-kite-kit](/tag/mini-kite-kit), [squidweek](/tag/squidweek), [squid](/tag/squid), [aerobee-rig](/tag/aerobee-rig), [rokkaku](/tag/rokkaku)
 
 ----
 

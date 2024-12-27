@@ -6,14 +6,14 @@ author: warren
 path: /wiki/payload-weight.md
 nid: 1734
 uid: 1
-
+cids: 21978
 ---
 
 # Payload Weight
 
-by [mathew](../profile/mathew), [warren](../profile/warren)
+by [mathew](/profile/mathew), [warren](/profile/warren)
 
-April 21, 2012 14:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [grassrootsmappingwiki](../tag/grassrootsmappingwiki), [diy-balloon](../tag/diy-balloon), [payload](../tag/payload), [weight](../tag/weight)
+April 21, 2012 14:50 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [grassrootsmappingwiki](/tag/grassrootsmappingwiki), [diy-balloon](/tag/diy-balloon), [payload](/tag/payload), [weight](/tag/weight)
 
 ----
 

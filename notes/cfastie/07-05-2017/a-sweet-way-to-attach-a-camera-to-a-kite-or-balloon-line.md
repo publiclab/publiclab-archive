@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/07-05-2017/a-sweet-way-to-attach-a-camera-to-a-kite-or-balloon-line.md
 nid: 14621
 uid: 554
-
 cids: 16994,16997,25131,31400
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/039/original/JugRig_20170706-0023.JPG)
 
 # A sweet way to attach a camera to a kite or balloon line
 
-by [cfastie](../../../profile/cfastie) | July 05, 2017 23:39
+by [cfastie](/profile/cfastie) | July 05, 2017 23:39
 
-July 05, 2017 23:39 | Tags: [aerial-photography](../tag/aerial-photography), [photo-rig](../tag/photo-rig), [bottle-rig](../tag/bottle-rig), [aerial-mapping](../tag/aerial-mapping), [camera-rig](../tag/camera-rig), [barnstar:basic](../tag/barnstar:basic), [activity:photo-rig](../tag/activity:photo-rig)
+July 05, 2017 23:39 | Tags: [aerial-photography](/tag/aerial-photography), [photo-rig](/tag/photo-rig), [bottle-rig](/tag/bottle-rig), [aerial-mapping](/tag/aerial-mapping), [camera-rig](/tag/camera-rig), [barnstar:basic](/tag/barnstar:basic), [activity:photo-rig](/tag/activity:photo-rig)
 
 ----
 

@@ -6,16 +6,16 @@ author: liz
 path: /wiki/meteomex.md
 nid: 24071
 uid: 7
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/019/original/MM-aeria.jpg)
 
 # MeteoMex: online monitoring of climate and volatile organic compounds
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-June 30, 2020 14:57 | Tags: [soil](../tag/soil), [vocs](../tag/vocs), [data-logger](../tag/data-logger), [volatile-organochlorine-compounds](../tag/volatile-organochlorine-compounds), [soil-sampling](../tag/soil-sampling), [meteomex](../tag/meteomex), [climate-data](../tag/climate-data), [non-commercial](../tag/non-commercial), [solar-energy](../tag/solar-energy), [volatile-organic-compounds](../tag/volatile-organic-compounds)
+June 30, 2020 14:57 | Tags: [soil](/tag/soil), [vocs](/tag/vocs), [data-logger](/tag/data-logger), [volatile-organochlorine-compounds](/tag/volatile-organochlorine-compounds), [soil-sampling](/tag/soil-sampling), [meteomex](/tag/meteomex), [climate-data](/tag/climate-data), [non-commercial](/tag/non-commercial), [solar-energy](/tag/solar-energy), [volatile-organic-compounds](/tag/volatile-organic-compounds)
 
 ----
 
@@ -52,19 +52,19 @@ Are you interested in following along in the project? Subscribe to the tag below
 
 <a class="btn btn-large btn-primary" href="https://publiclab.org/subscribe/tag/meteomex">Subscribe to updates on this project </a>
 
-[meteomex](../../tag/meteomex) 
+[meteomex](/tag/meteomex) 
 
 ### Questions
 
 Here's a place to list things you have questions about or issues or **challenges you're hoping to solve in this project**. What questions helped guide the work? Let's build out a Frequently Asked Questions area:
 
-[meteomex](../../tag/question:meteomex)
+[meteomex](/tag/question:meteomex)
 
 ****
 
 ### Activities we've done in our project
 
-[meteomex](../../tag/activity:meteomex)
+[meteomex](/tag/activity:meteomex)
 
 ### Data
 At the moment, I am running an [Open Source Thingsboard server](https://thingsboard.io/) for collecting the data. The backend is a [PostgreSQL database](https://www.postgresql.org/). Access to these data is possible with a guest account.

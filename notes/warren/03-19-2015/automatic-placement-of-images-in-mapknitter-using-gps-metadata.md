@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/03-19-2015/automatic-placement-of-images-in-mapknitter-using-gps-metadata.md
 nid: 11693
 uid: 1
-
 cids: 11365,11367,11368,11369,11370,11371,11470,11833
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/324/original/auto-gps.png)
 
 # Automatic placement of images in MapKnitter using GPS metadata
 
-by [warren](../../../profile/warren) | March 19, 2015 21:05
+by [warren](/profile/warren) | March 19, 2015 21:05
 
-March 19, 2015 21:05 | Tags: [mapknitter](../tag/mapknitter), [gps](../tag/gps), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [auto-placement](../tag/auto-placement), [response:10999](../tag/response:10999)
+March 19, 2015 21:05 | Tags: [mapknitter](/tag/mapknitter), [gps](/tag/gps), [gsoc](/tag/gsoc), [gsoc-2014](/tag/gsoc-2014), [auto-placement](/tag/auto-placement), [response:10999](/tag/response:10999)
 
 ----
 

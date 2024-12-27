@@ -6,18 +6,16 @@ author: stoft
 path: /notes/stoft/02-23-2016/405nm-led-vs-laser.md
 nid: 12725
 uid: 54025
-
 cids: 13738,13740,13741,13742,13743,13746,13750,13751,13752,13753,13762,13764,13825,13826,13827,13828,13829,13830,13831
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/529/original/OTKP3_LED_VS_LASER.gif)
 
 # 405nm LED vs Laser
 
-by [stoft](../../../profile/stoft) | February 23, 2016 22:34
+by [stoft](/profile/stoft) | February 23, 2016 22:34
 
-February 23, 2016 22:34 | Tags: [spectrometer](../tag/spectrometer), [laser](../tag/laser), [led](../tag/led), [oil-testing-kit](../tag/oil-testing-kit), [405nm](../tag/405nm), [otk](../tag/otk), [uv-laser](../tag/uv-laser), [uv-laser-405nm](../tag/uv-laser-405nm)
+February 23, 2016 22:34 | Tags: [spectrometer](/tag/spectrometer), [laser](/tag/laser), [led](/tag/led), [oil-testing-kit](/tag/oil-testing-kit), [405nm](/tag/405nm), [otk](/tag/otk), [uv-laser](/tag/uv-laser), [uv-laser-405nm](/tag/uv-laser-405nm)
 
 ----
 

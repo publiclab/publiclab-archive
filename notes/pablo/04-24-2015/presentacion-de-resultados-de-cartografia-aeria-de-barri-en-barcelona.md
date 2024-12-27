@@ -6,18 +6,16 @@ author: pablo
 path: /notes/pablo/04-24-2015/presentacion-de-resultados-de-cartografia-aeria-de-barri-en-barcelona.md
 nid: 11769
 uid: 160
-
 cids: 11533
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/701/original/salvador-segui-map.jpg)
 
 # Presentación de resultados de “Cartografia aèria de barri” en Barcelona 
 
-by [pablo](../../../profile/pablo) | April 24, 2015 21:50
+by [pablo](/profile/pablo) | April 24, 2015 21:50
 
-April 24, 2015 21:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [barcelona](../tag/barcelona), [spain](../tag/spain), [presentations](../tag/presentations), [presentation](../tag/presentation), [lang:es](../tag/lang:es)
+April 24, 2015 21:50 | Tags: [balloon-mapping](/tag/balloon-mapping), [barcelona](/tag/barcelona), [spain](/tag/spain), [presentations](/tag/presentations), [presentation](/tag/presentation), [lang:es](/tag/lang:es)
 
 ----
 

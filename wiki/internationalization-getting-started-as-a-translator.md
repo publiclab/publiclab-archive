@@ -6,14 +6,14 @@ author: jiteshxyz
 path: /wiki/internationalization-getting-started-as-a-translator.md
 nid: 13379
 uid: 468400
-
+cids: 
 ---
 
 # Internationalization | Getting started as a translator
 
-by [jiteshxyz](../profile/jiteshxyz)
+by [jiteshxyz](/profile/jiteshxyz)
 
-August 22, 2016 12:25 | Tags: [signing](../tag/signing), [getting](../tag/getting), [internationalization](../tag/internationalization), [i18n](../tag/i18n), [translator](../tag/translator), [parent:translation](../tag/parent:translation)
+August 22, 2016 12:25 | Tags: [signing](/tag/signing), [getting](/tag/getting), [internationalization](/tag/internationalization), [i18n](/tag/i18n), [translator](/tag/translator), [parent:translation](/tag/parent:translation)
 
 ----
 

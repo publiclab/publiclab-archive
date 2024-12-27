@@ -6,16 +6,14 @@ author: milaaraujo
 path: /notes/milaaraujo/09-12-2018/search-page-comparing-search-modes.md
 nid: 17098
 uid: 525897
-
 cids: 20680,20682,20687,20689,20690,20691,20692,20693,20696,20763,23226,23227
-
 ---
 
 # Search page: Comparing search modes
 
-by [milaaraujo](../../../profile/milaaraujo) | September 12, 2018 02:40
+by [milaaraujo](/profile/milaaraujo) | September 12, 2018 02:40
 
-September 12, 2018 02:40 | Tags: [search](../tag/search), [answered](../tag/answered), [question:general](../tag/question:general), [lat:1.010689](../tag/lat:1.010689), [lon:9.997558](../tag/lon:9.997558)
+September 12, 2018 02:40 | Tags: [search](/tag/search), [answered](/tag/answered), [question:general](/tag/question:general), [lat:1.010689](/tag/lat:1.010689), [lon:9.997558](/tag/lon:9.997558)
 
 ----
 

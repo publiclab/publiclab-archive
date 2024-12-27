@@ -6,18 +6,16 @@ author: Alex-McCarthy
 path: /notes/alex-mccarthy/4-16-2011/spectrometry-urop-41611-update.md
 nid: 174
 uid: 125
-
 cids: 20528
-
 ---
 
 ![](https://publiclab.org/sites/default/files/PD vs PL.png)
 
 # Spectrometry UROP 4/16/11 update
 
-by [Alex-McCarthy](../../../profile/Alex-McCarthy) | April 16, 2011 04:59
+by [Alex-McCarthy](/profile/Alex-McCarthy) | April 16, 2011 04:59
 
-April 16, 2011 04:59 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [fluorescence](../tag/fluorescence), [pah](../tag/pah), [detergent](../tag/detergent), [fluorometer](../tag/fluorometer)
+April 16, 2011 04:59 | Tags: [spectrometer](/tag/spectrometer), [uv](/tag/uv), [fluorescence](/tag/fluorescence), [pah](/tag/pah), [detergent](/tag/detergent), [fluorometer](/tag/fluorometer)
 
 ----
 

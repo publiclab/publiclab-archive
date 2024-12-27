@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/02-24-2022/what-are-some-good-trouble-shooting-tips-for-installing-maintaining-a-purpleair.md
 nid: 30080
 uid: 422561
-
 cids: 29718,29899,29900,29901
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/530/original/PurpleAirPhoto2.png)
 
 # What are some good trouble shooting tips for installing/maintaining a PurpleAir? 
 
-by [stevie](../../../profile/stevie) | February 24, 2022 16:22
+by [stevie](/profile/stevie) | February 24, 2022 16:22
 
-February 24, 2022 16:22 | Tags: [air-quality](../tag/air-quality), [pm](../tag/pm), [sensor](../tag/sensor), [question:air-quality](../tag/question:air-quality), [air-monitoring](../tag/air-monitoring), [question:pm](../tag/question:pm), [question:general](../tag/question:general), [general](../tag/general), [particulate-matter](../tag/particulate-matter), [question:air-monitoring](../tag/question:air-monitoring), [purpleair](../tag/purpleair), [question:purpleair](../tag/question:purpleair), [purple-air](../tag/purple-air), [question:sensor](../tag/question:sensor), [question:purple-air](../tag/question:purple-air), [formosaplastics](../tag/formosaplastics), [question:formosaplastics](../tag/question:formosaplastics), [with:tylerknight](../tag/with:tylerknight)
+February 24, 2022 16:22 | Tags: [air-quality](/tag/air-quality), [pm](/tag/pm), [sensor](/tag/sensor), [question:air-quality](/tag/question:air-quality), [air-monitoring](/tag/air-monitoring), [question:pm](/tag/question:pm), [question:general](/tag/question:general), [general](/tag/general), [particulate-matter](/tag/particulate-matter), [question:air-monitoring](/tag/question:air-monitoring), [purpleair](/tag/purpleair), [question:purpleair](/tag/question:purpleair), [purple-air](/tag/purple-air), [question:sensor](/tag/question:sensor), [question:purple-air](/tag/question:purple-air), [formosaplastics](/tag/formosaplastics), [question:formosaplastics](/tag/question:formosaplastics), [with:tylerknight](/tag/with:tylerknight)
 
 ----
 

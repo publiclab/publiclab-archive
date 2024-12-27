@@ -6,18 +6,16 @@ author: ruthnwaiganjo
 path: /notes/ruthnwaiganjo/02-03-2021/underpromise-overdeliver.md
 nid: 25595
 uid: 725565
-
 cids: 28119,28128,28140,28145,28156,28157
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/598/original/Screenshot_2021-02-03_at_17.53.28.png)
 
 # Underpromise | Overdeliver
 
-by [ruthnwaiganjo](../../../profile/ruthnwaiganjo) | February 03, 2021 15:05
+by [ruthnwaiganjo](/profile/ruthnwaiganjo) | February 03, 2021 15:05
 
-February 03, 2021 15:05 | Tags: [blog-submission](../tag/blog-submission), [outreachy-2020](../tag/outreachy-2020), [estimations](../tag/estimations)
+February 03, 2021 15:05 | Tags: [blog-submission](/tag/blog-submission), [outreachy-2020](/tag/outreachy-2020), [estimations](/tag/estimations)
 
 ----
 

@@ -6,16 +6,14 @@ author: christie_reni
 path: /notes/christie_reni/02-11-2020/career-goals-after-outreachy.md
 nid: 22752
 uid: 630062
-
 cids: 26283,26286,26310,26334,26335,26337,26893,27194
-
 ---
 
 # Career goals after Outreachy
 
-by [christie_reni](../../../profile/christie_reni) | February 11, 2020 07:58
+by [christie_reni](/profile/christie_reni) | February 11, 2020 07:58
 
-February 11, 2020 07:58 | Tags: [blog-submission](../tag/blog-submission), [soc](../tag/soc), [location:blurred](../tag/location:blurred), [place:iran](../tag/place:iran), [lat:22](../tag/lat:22), [outreachy](../tag/outreachy), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
+February 11, 2020 07:58 | Tags: [blog-submission](/tag/blog-submission), [soc](/tag/soc), [location:blurred](/tag/location:blurred), [place:iran](/tag/place:iran), [lat:22](/tag/lat:22), [outreachy](/tag/outreachy), [lon:76](/tag/lon:76), [zoom:6](/tag/zoom:6)
 
 ----
 

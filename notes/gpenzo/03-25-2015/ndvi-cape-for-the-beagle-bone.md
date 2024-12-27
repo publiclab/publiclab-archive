@@ -6,18 +6,16 @@ author: gpenzo
 path: /notes/gpenzo/03-25-2015/ndvi-cape-for-the-beagle-bone.md
 nid: 11723
 uid: 420719
-
 cids: 11401,11407,11417,11420,11431,12305,12880,13788
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/414/original/ndvi_cap_v1_crop.jpg)
 
 # NDVI cape for the beagle bone.
 
-by [gpenzo](../../../profile/gpenzo) | March 25, 2015 23:01
+by [gpenzo](/profile/gpenzo) | March 25, 2015 23:01
 
-March 25, 2015 23:01 | Tags: [ndvi](../tag/ndvi), [camera](../tag/camera), [barnstar:basic](../tag/barnstar:basic), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [two](../tag/two), [beaglebone](../tag/beaglebone), [black](../tag/black), [response:4471](../tag/response:4471), [response:11448](../tag/response:11448)
+March 25, 2015 23:01 | Tags: [ndvi](/tag/ndvi), [camera](/tag/camera), [barnstar:basic](/tag/barnstar:basic), [barnstar:excessive-enthusiasm](/tag/barnstar:excessive-enthusiasm), [two](/tag/two), [beaglebone](/tag/beaglebone), [black](/tag/black), [response:4471](/tag/response:4471), [response:11448](/tag/response:11448)
 
 ----
 

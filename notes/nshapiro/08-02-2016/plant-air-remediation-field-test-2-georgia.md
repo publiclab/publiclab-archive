@@ -6,18 +6,16 @@ author: nshapiro
 path: /notes/nshapiro/08-02-2016/plant-air-remediation-field-test-2-georgia.md
 nid: 13325
 uid: 380298
-
 cids: 15071,15072,15073,15093,15095,15101
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/310/original/Plant_photo_1.jpg)
 
 # Plant Air Remediation Field Test #2 (Georgia)
 
-by [nshapiro](../../../profile/nshapiro) | August 02, 2016 19:54
+by [nshapiro](/profile/nshapiro) | August 02, 2016 19:54
 
-August 02, 2016 19:54 | Tags: [community](../tag/community), [remediation](../tag/remediation), [plant](../tag/plant), [formaldehyde](../tag/formaldehyde), [2](../tag/2), [with:liz](../tag/with:liz), [wwb](../tag/wwb), [indoor-air-quality](../tag/indoor-air-quality), [with:gretchengehrke](../tag/with:gretchengehrke), [indoor-air](../tag/indoor-air), [with:silentdisaster](../tag/with:silentdisaster), [replication:13480](../tag/replication:13480), [plant-air-purifier-prototypes](../tag/plant-air-purifier-prototypes)
+August 02, 2016 19:54 | Tags: [community](/tag/community), [remediation](/tag/remediation), [plant](/tag/plant), [formaldehyde](/tag/formaldehyde), [2](/tag/2), [with:liz](/tag/with:liz), [wwb](/tag/wwb), [indoor-air-quality](/tag/indoor-air-quality), [with:gretchengehrke](/tag/with:gretchengehrke), [indoor-air](/tag/indoor-air), [with:silentdisaster](/tag/with:silentdisaster), [replication:13480](/tag/replication:13480), [plant-air-purifier-prototypes](/tag/plant-air-purifier-prototypes)
 
 ----
 

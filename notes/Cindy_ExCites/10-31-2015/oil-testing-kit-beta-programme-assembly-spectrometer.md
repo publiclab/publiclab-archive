@@ -6,18 +6,16 @@ author: cindy_excites
 path: /notes/Cindy_ExCites/10-31-2015/oil-testing-kit-beta-programme-assembly-spectrometer.md
 nid: 12348
 uid: 1083
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/264/original/IMG_2234.JPG)
 
 # Oil testing kit Beta programme - Assembly: spectrometer
 
-by [cindy_excites](../../../profile/cindy_excites) | October 31, 2015 21:42
+by [cindy_excites](/profile/cindy_excites) | October 31, 2015 21:42
 
-October 31, 2015 21:42 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta)
+October 31, 2015 21:42 | Tags: [spectrometer](/tag/spectrometer), [fluorescence](/tag/fluorescence), [oil-testing-kit](/tag/oil-testing-kit), [oil-testing-kit-beta](/tag/oil-testing-kit-beta)
 
 ----
 

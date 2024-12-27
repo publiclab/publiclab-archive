@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/06-05-2019/build-a-simple-aerial-photo-rig-for-a-raspberry-pi-camera.md
 nid: 19620
 uid: 1
-
 cids: 24748,24785,25164,25253
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/709/original/IMG_20190530_173744_copy.jpg)
 
 # Build a simple aerial photo rig for a Raspberry Pi camera
 
-by [warren](../../../profile/warren) | June 05, 2019 21:20
+by [warren](/profile/warren) | June 05, 2019 21:20
 
-June 05, 2019 21:20 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [raspberry-pi](../tag/raspberry-pi), [aerial-mapping](../tag/aerial-mapping), [pi-camera](../tag/pi-camera), [aren](../tag/aren), [activity:pi-camera](../tag/activity:pi-camera), [pi-builder](../tag/pi-builder), [infragram-pi](../tag/infragram-pi), [community-atlas](../tag/community-atlas), [activity:infragram-pi](../tag/activity:infragram-pi), [activity:pi-camera-setup](../tag/activity:pi-camera-setup), [pin:activity:infragram-pi](../tag/pin:activity:infragram-pi), [pin:activity:pi-camera](../tag/pin:activity:pi-camera)
+June 05, 2019 21:20 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [raspberry-pi](/tag/raspberry-pi), [aerial-mapping](/tag/aerial-mapping), [pi-camera](/tag/pi-camera), [aren](/tag/aren), [activity:pi-camera](/tag/activity:pi-camera), [pi-builder](/tag/pi-builder), [infragram-pi](/tag/infragram-pi), [community-atlas](/tag/community-atlas), [activity:infragram-pi](/tag/activity:infragram-pi), [activity:pi-camera-setup](/tag/activity:pi-camera-setup), [pin:activity:infragram-pi](/tag/pin:activity:infragram-pi), [pin:activity:pi-camera](/tag/pin:activity:pi-camera)
 
 ----
 

@@ -6,18 +6,16 @@ author: silvanhi
 path: /notes/silvanhi/09-24-2014/problem-with-photomonitoring-plugin-on-fiji.md
 nid: 11182
 uid: 427351
-
 cids: 10411,10412,10413,10414,10415,10416,10420,10425
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/010/original/Screen_Shot_2014-09-24_at_20.51.14.png)
 
 # Problem with Photomonitoring Plugin on Fiji
 
-by [silvanhi](../../../profile/silvanhi) | September 24, 2014 18:51
+by [silvanhi](/profile/silvanhi) | September 24, 2014 18:51
 
-September 24, 2014 18:51 | Tags: [ndvi](../tag/ndvi), [fiji](../tag/fiji), [lut](../tag/lut), [photomonitoring](../tag/photomonitoring)
+September 24, 2014 18:51 | Tags: [ndvi](/tag/ndvi), [fiji](/tag/fiji), [lut](/tag/lut), [photomonitoring](/tag/photomonitoring)
 
 ----
 

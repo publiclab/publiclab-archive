@@ -6,16 +6,16 @@ author: warren
 path: /wiki/thermal-flashlight.md
 nid: 10098
 uid: 1
-
+cids: 20135
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/755/original/thermal-flashlight.gif)
 
 # Thermal Flashlight
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-March 02, 2014 17:02 | Tags: [thermal-photography](../tag/thermal-photography), [arduino](../tag/arduino), [thermal-flashlight](../tag/thermal-flashlight), [thermal](../tag/thermal), [heat](../tag/heat), [method](../tag/method), [parent:thermal-photography](../tag/parent:thermal-photography)
+March 02, 2014 17:02 | Tags: [thermal-photography](/tag/thermal-photography), [arduino](/tag/arduino), [thermal-flashlight](/tag/thermal-flashlight), [thermal](/tag/thermal), [heat](/tag/heat), [method](/tag/method), [parent:thermal-photography](/tag/parent:thermal-photography)
 
 ----
 
@@ -32,18 +32,18 @@ The Melexis MLX90614 digital thermometer used in this kit can be found in a few 
 
 There are a few versions of the thermal flashlight:
 
-[grid:activity:thermal-flashlight-assembly](../../tag/grid:activity:thermal-flashlight-assembly)
+[grid:activity:thermal-flashlight-assembly](/tag/grid:activity:thermal-flashlight-assembly)
 
 
 ### Questions
 
-[thermal-flashlight](../../tag/question:thermal-flashlight)
+[thermal-flashlight](/tag/question:thermal-flashlight)
 
 ****
 
 ### Activities
 
-[thermal-flashlight](../../tag/activity:thermal-flashlight)
+[thermal-flashlight](/tag/activity:thermal-flashlight)
 
 
 ****
@@ -118,7 +118,7 @@ If you are starting an electronics kit from scratch:
 
 All research on PublicLab.org about the thermal flashlight project:
 
-[thermal-flashlight](../../tag/thermal-flashlight)
+[thermal-flashlight](/tag/thermal-flashlight)
 
 ****
 

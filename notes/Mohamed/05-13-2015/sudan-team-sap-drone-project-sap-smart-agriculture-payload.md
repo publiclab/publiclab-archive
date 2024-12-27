@@ -6,18 +6,16 @@ author: Mohamed
 path: /notes/Mohamed/05-13-2015/sudan-team-sap-drone-project-sap-smart-agriculture-payload.md
 nid: 11813
 uid: 431141
-
 cids: 11703,12155,30722
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/893/original/PROMO-SAP-R_D.jpg)
 
 # Sudan Team SAP DRONE Project/SAP (Smart Agriculture Payload)
 
-by [Mohamed](../../../profile/Mohamed) | May 13, 2015 23:09
+by [Mohamed](/profile/Mohamed) | May 13, 2015 23:09
 
-May 13, 2015 23:09 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [agriculture](../tag/agriculture), [organic-agriculture](../tag/organic-agriculture), [infragram](../tag/infragram), [infragram-conversion](../tag/infragram-conversion), [mineral-oil](../tag/mineral-oil), [ndvi-ag](../tag/ndvi-ag), [first-time-poster](../tag/first-time-poster)
+May 13, 2015 23:09 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [agriculture](/tag/agriculture), [organic-agriculture](/tag/organic-agriculture), [infragram](/tag/infragram), [infragram-conversion](/tag/infragram-conversion), [mineral-oil](/tag/mineral-oil), [ndvi-ag](/tag/ndvi-ag), [first-time-poster](/tag/first-time-poster)
 
 ----
 

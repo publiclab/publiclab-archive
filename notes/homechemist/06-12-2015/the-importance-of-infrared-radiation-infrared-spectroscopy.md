@@ -6,18 +6,16 @@ author: homechemist
 path: /notes/homechemist/06-12-2015/the-importance-of-infrared-radiation-infrared-spectroscopy.md
 nid: 11976
 uid: 212574
-
 cids: 11953,11954,11955,11956,11958,11959
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/334/original/comparacion_sulfato_de_cobre_azul_de_metileno.jpg)
 
 # The importance of infrared radiation:INFRARED SPECTROSCOPY
 
-by [homechemist](../../../profile/homechemist) | June 12, 2015 18:19
+by [homechemist](/profile/homechemist) | June 12, 2015 18:19
 
-June 12, 2015 18:19 | Tags: [infrared](../tag/infrared), [mid-infrared](../tag/mid-infrared), [spectroscopy](../tag/spectroscopy), [near-infrared](../tag/near-infrared), [barnstar:basic](../tag/barnstar:basic), [copper](../tag/copper), [chloroform](../tag/chloroform)
+June 12, 2015 18:19 | Tags: [infrared](/tag/infrared), [mid-infrared](/tag/mid-infrared), [spectroscopy](/tag/spectroscopy), [near-infrared](/tag/near-infrared), [barnstar:basic](/tag/barnstar:basic), [copper](/tag/copper), [chloroform](/tag/chloroform)
 
 ----
 

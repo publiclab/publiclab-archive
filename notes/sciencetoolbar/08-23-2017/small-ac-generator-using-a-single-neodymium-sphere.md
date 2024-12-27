@@ -6,18 +6,16 @@ author: sciencetoolbar
 path: /notes/sciencetoolbar/08-23-2017/small-ac-generator-using-a-single-neodymium-sphere.md
 nid: 14777
 uid: 513114
-
 cids: 18178,20484,20485,20486
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/395/original/Small_generator_details.jpg)
 
 # Small Ac generator using a single neodymium sphere 
 
-by [sciencetoolbar](../../../profile/sciencetoolbar) | August 23, 2017 12:23
+by [sciencetoolbar](/profile/sciencetoolbar) | August 23, 2017 12:23
 
-August 23, 2017 12:23 | Tags: [generator](../tag/generator), [project](../tag/project), [electric](../tag/electric), [inverter](../tag/inverter), [electric-generator](../tag/electric-generator), [ac-generator](../tag/ac-generator), [small-generator](../tag/small-generator), [230v-generator](../tag/230v-generator), [activity:generator](../tag/activity:generator), [activity:electronics](../tag/activity:electronics), [science-projects](../tag/science-projects), [simple-projects](../tag/simple-projects), [first-time-poster](../tag/first-time-poster)
+August 23, 2017 12:23 | Tags: [generator](/tag/generator), [project](/tag/project), [electric](/tag/electric), [inverter](/tag/inverter), [electric-generator](/tag/electric-generator), [ac-generator](/tag/ac-generator), [small-generator](/tag/small-generator), [230v-generator](/tag/230v-generator), [activity:generator](/tag/activity:generator), [activity:electronics](/tag/activity:electronics), [science-projects](/tag/science-projects), [simple-projects](/tag/simple-projects), [first-time-poster](/tag/first-time-poster)
 
 ----
 

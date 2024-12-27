@@ -6,16 +6,16 @@ author: read_holman
 path: /wiki/the-lead-data-collaborative-overview.md
 nid: 16934
 uid: 540243
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/317/original/Screen_Shot_2018-12-10_at_11.59.00_AM.png)
 
 # The Lead (Pb) Data Initiative
 
-by [read_holman](../profile/read_holman), [liz](../profile/liz)
+by [read_holman](/profile/read_holman), [liz](/profile/liz)
 
-August 15, 2018 20:23 | Tags: [water-quality](../tag/water-quality), [lead](../tag/lead), [overview](../tag/overview), [how](../tag/how), [background](../tag/background), [lead-testing](../tag/lead-testing), [parent:lead](../tag/parent:lead), [initiative](../tag/initiative), [enter:](../tag/enter:)
+August 15, 2018 20:23 | Tags: [water-quality](/tag/water-quality), [lead](/tag/lead), [overview](/tag/overview), [how](/tag/how), [background](/tag/background), [lead-testing](/tag/lead-testing), [parent:lead](/tag/parent:lead), [initiative](/tag/initiative), [enter:](/tag/enter:)
 
 ----
 

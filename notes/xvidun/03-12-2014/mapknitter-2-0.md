@@ -6,18 +6,16 @@ author: xvidun
 path: /notes/xvidun/03-12-2014/mapknitter-2-0.md
 nid: 10165
 uid: 421168
-
 cids: 8482,8495
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/219/original/modellingpng)
 
 # Mapknitter 2.0
 
-by [xvidun](../../../profile/xvidun) | March 12, 2014 20:39
+by [xvidun](/profile/xvidun) | March 12, 2014 20:39
 
-March 12, 2014 20:39 | Tags: [mapknitter](../tag/mapknitter), [auto-knitting](../tag/auto-knitting), [upload](../tag/upload), [interface](../tag/interface)
+March 12, 2014 20:39 | Tags: [mapknitter](/tag/mapknitter), [auto-knitting](/tag/auto-knitting), [upload](/tag/upload), [interface](/tag/interface)
 
 ----
 

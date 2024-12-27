@@ -6,18 +6,16 @@ author: TakeshiMatsumoto
 path: /notes/TakeshiMatsumoto/04-11-2018/diy-spectrometer-episode-2-using-lego.md
 nid: 16130
 uid: 528173
-
 cids: 19351,19383,19671,19691
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/521/original/experimental_0.jpg)
 
 # DIY-spectrometer episode 2 (using LEGO)
 
-by [TakeshiMatsumoto](../../../profile/TakeshiMatsumoto) | April 11, 2018 08:58
+by [TakeshiMatsumoto](/profile/TakeshiMatsumoto) | April 11, 2018 08:58
 
-April 11, 2018 08:58 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [lego](../tag/lego), [activity:spectrometry](../tag/activity:spectrometry), [activity:lego-spectrometer](../tag/activity:lego-spectrometer), [activity:lego](../tag/activity:lego)
+April 11, 2018 08:58 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [lego](/tag/lego), [activity:spectrometry](/tag/activity:spectrometry), [activity:lego-spectrometer](/tag/activity:lego-spectrometer), [activity:lego](/tag/activity:lego)
 
 ----
 

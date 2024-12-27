@@ -6,18 +6,16 @@ author: gretchengehrke
 path: /notes/gretchengehrke/09-29-2016/common-low-cost-technique-limitations.md
 nid: 13508
 uid: 430549
-
 cids: 15533,18103
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/387/original/Screenshot_2016-10-12_at_4.29.19_PM.png)
 
 # Common low-cost technique limitations and strategies for impact
 
-by [gretchengehrke](../../../profile/gretchengehrke) | September 29, 2016 20:12
+by [gretchengehrke](/profile/gretchengehrke) | September 29, 2016 20:12
 
-September 29, 2016 20:12 | Tags: [with:warren](../tag/with:warren)
+September 29, 2016 20:12 | Tags: [with:warren](/tag/with:warren)
 
 ----
 

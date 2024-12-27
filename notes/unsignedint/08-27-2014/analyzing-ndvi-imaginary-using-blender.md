@@ -6,18 +6,16 @@ author: unsignedint
 path: /notes/unsignedint/08-27-2014/analyzing-ndvi-imaginary-using-blender.md
 nid: 11080
 uid: 427535
-
 cids: 10124,10128,10132,10135
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/451/original/infragram.blend.png)
 
 # Analyzing NDVI Imagery Using Blender
 
-by [unsignedint](../../../profile/unsignedint) | August 27, 2014 11:33
+by [unsignedint](/profile/unsignedint) | August 27, 2014 11:33
 
-August 27, 2014 11:33 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [image-processing](../tag/image-processing), [software](../tag/software), [blender](../tag/blender)
+August 27, 2014 11:33 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [image-processing](/tag/image-processing), [software](/tag/software), [blender](/tag/blender)
 
 ----
 

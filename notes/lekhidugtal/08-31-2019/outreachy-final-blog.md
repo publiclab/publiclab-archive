@@ -6,18 +6,16 @@ author: lekhidugtal
 path: /notes/lekhidugtal/08-31-2019/outreachy-final-blog.md
 nid: 20736
 uid: 577754
-
 cids: 25411,25418,25421,25425,25431,25432,26280
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/988/original/o.png)
 
 # Outreachy Final Blog : An awesome Journey
 
-by [lekhidugtal](../../../profile/lekhidugtal) | August 31, 2019 12:32
+by [lekhidugtal](/profile/lekhidugtal) | August 31, 2019 12:32
 
-August 31, 2019 12:32 | Tags: [design](../tag/design), [blog](../tag/blog), [barnstar:basic](../tag/barnstar:basic), [blog-submission](../tag/blog-submission), [soc](../tag/soc), [ui](../tag/ui), [summer-of-code](../tag/summer-of-code), [outreachy](../tag/outreachy), [outreachy-2019](../tag/outreachy-2019), [gsoc-2019-final-report](../tag/gsoc-2019-final-report)
+August 31, 2019 12:32 | Tags: [design](/tag/design), [blog](/tag/blog), [barnstar:basic](/tag/barnstar:basic), [blog-submission](/tag/blog-submission), [soc](/tag/soc), [ui](/tag/ui), [summer-of-code](/tag/summer-of-code), [outreachy](/tag/outreachy), [outreachy-2019](/tag/outreachy-2019), [gsoc-2019-final-report](/tag/gsoc-2019-final-report)
 
 ----
 

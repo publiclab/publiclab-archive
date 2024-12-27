@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/12-04-2017/how-much-of-an-arduino-s-onboard-memory-would-be-available-for-datalogging.md
 nid: 15296
 uid: 1
-
 cids: 
-
 ---
 
 # How much of an Arduino's onboard memory would be available for datalogging?
 
-by [warren](../../../profile/warren) | December 04, 2017 18:01
+by [warren](/profile/warren) | December 04, 2017 18:01
 
-December 04, 2017 18:01 | Tags: [arduino](../tag/arduino), [data-logging](../tag/data-logging), [question:data-logging](../tag/question:data-logging), [question:arduino](../tag/question:arduino), [response:14138](../tag/response:14138)
+December 04, 2017 18:01 | Tags: [arduino](/tag/arduino), [data-logging](/tag/data-logging), [question:data-logging](/tag/question:data-logging), [question:arduino](/tag/question:arduino), [response:14138](/tag/response:14138)
 
 ----
 

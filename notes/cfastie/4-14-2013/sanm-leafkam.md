@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/4-14-2013/sanm-leafkam.md
 nid: 6817
 uid: 554
-
 cids: 4445,4447,4454
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Sanm-201335008.jpg)
 
 # Sanm LeafKam
 
-by [cfastie](../../../profile/cfastie) | April 14, 2013 04:18
+by [cfastie](/profile/cfastie) | April 14, 2013 04:18
 
-April 14, 2013 04:18 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [nir](../tag/nir), [vermont](../tag/vermont), [infrared-camera](../tag/infrared-camera), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [development](../tag/development)
+April 14, 2013 04:18 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [nrg](/tag/nrg), [ndvi](/tag/ndvi), [nir](/tag/nir), [vermont](/tag/vermont), [infrared-camera](/tag/infrared-camera), [infragram](/tag/infragram), [plant-health](/tag/plant-health), [development](/tag/development)
 
 ----
 

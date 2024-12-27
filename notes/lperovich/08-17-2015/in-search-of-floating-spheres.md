@@ -6,18 +6,16 @@ author: lperovich
 path: /notes/lperovich/08-17-2015/in-search-of-floating-spheres.md
 nid: 12153
 uid: 443410
-
 cids: 12398,12399,12408,12409,12413,12414,12415,12953,12958,12959
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/166/original/sphere.jpg)
 
 # in search of floating spheres...
 
-by [lperovich](../../../profile/lperovich) | August 17, 2015 23:18
+by [lperovich](/profile/lperovich) | August 17, 2015 23:18
 
-August 17, 2015 23:18 | Tags: [thermal-fishing](../tag/thermal-fishing), [thermal-fishing-bob](../tag/thermal-fishing-bob), [riffle](../tag/riffle)
+August 17, 2015 23:18 | Tags: [thermal-fishing](/tag/thermal-fishing), [thermal-fishing-bob](/tag/thermal-fishing-bob), [riffle](/tag/riffle)
 
 ----
 

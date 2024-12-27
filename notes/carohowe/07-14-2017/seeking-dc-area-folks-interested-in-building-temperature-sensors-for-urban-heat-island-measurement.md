@@ -6,16 +6,14 @@ author: carohowe
 path: /notes/carohowe/07-14-2017/seeking-dc-area-folks-interested-in-building-temperature-sensors-for-urban-heat-island-measurement.md
 nid: 14653
 uid: 510884
-
 cids: 17055,17060,17061,17064,17070,17183,22537,22633
-
 ---
 
 # Seeking DC-area folks interested in building temperature sensors for urban heat island measurement
 
-by [carohowe](../../../profile/carohowe) | July 14, 2017 15:39
+by [carohowe](/profile/carohowe) | July 14, 2017 15:39
 
-July 14, 2017 15:39 | Tags: [temperature](../tag/temperature), [heat](../tag/heat), [question:thermal-photography](../tag/question:thermal-photography), [question:general](../tag/question:general), [question:sensors](../tag/question:sensors), [dc](../tag/dc), [washington-dc](../tag/washington-dc), [question:arduino](../tag/question:arduino), [urban-heat-island](../tag/urban-heat-island), [question:dc](../tag/question:dc), [baltimore-dc](../tag/baltimore-dc), [question:urban-heat-island](../tag/question:urban-heat-island), [question:heat](../tag/question:heat)
+July 14, 2017 15:39 | Tags: [temperature](/tag/temperature), [heat](/tag/heat), [question:thermal-photography](/tag/question:thermal-photography), [question:general](/tag/question:general), [question:sensors](/tag/question:sensors), [dc](/tag/dc), [washington-dc](/tag/washington-dc), [question:arduino](/tag/question:arduino), [urban-heat-island](/tag/urban-heat-island), [question:dc](/tag/question:dc), [baltimore-dc](/tag/baltimore-dc), [question:urban-heat-island](/tag/question:urban-heat-island), [question:heat](/tag/question:heat)
 
 ----
 

@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/12-11-2015/oil-testing-kit-3-scans-of-80w90.md
 nid: 12499
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/276/original/Screen_Shot_2015-12-11_at_3.33.09_PM.png)
 
 # Oil Testing Kit: 3 scans of 80W90
 
-by [liz](../../../profile/liz) | December 11, 2015 20:37
+by [liz](/profile/liz) | December 11, 2015 20:37
 
-December 11, 2015 20:37 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta)
+December 11, 2015 20:37 | Tags: [spectrometer](/tag/spectrometer), [oil-testing-kit](/tag/oil-testing-kit), [oil-testing-kit-beta](/tag/oil-testing-kit-beta)
 
 ----
 

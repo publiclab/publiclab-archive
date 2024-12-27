@@ -6,18 +6,16 @@ author: sara
 path: /notes/sara/7-29-2012/h2s-strips-batch-2-new-mexico.md
 nid: 3011
 uid: 8
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/water_glycerol_2h2S.jpeg)
 
 # H2S strips batch 2: New Mexico
 
-by [sara](../../../profile/sara) | July 29, 2012 21:09
+by [sara](/profile/sara) | July 29, 2012 21:09
 
-July 29, 2012 21:09 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper)
+July 29, 2012 21:09 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [h2s-photopaper](/tag/h2s-photopaper)
 
 ----
 

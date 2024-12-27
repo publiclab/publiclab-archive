@@ -6,18 +6,16 @@ author: cjedra
 path: /notes/cjedra/10-01-2014/charles-river-and-brighton-reservoir-water-samples.md
 nid: 11224
 uid: 428092
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/268/original/Screen_shot_2014-10-01_at_2.14.27_PM.png)
 
 # Charles River and Brighton Reservoir Water Samples 
 
-by [cjedra](../../../profile/cjedra) | October 01, 2014 18:09
+by [cjedra](/profile/cjedra) | October 01, 2014 18:09
 
-October 01, 2014 18:09 | Tags: [first-time-poster](../tag/first-time-poster)
+October 01, 2014 18:09 | Tags: [first-time-poster](/tag/first-time-poster)
 
 ----
 

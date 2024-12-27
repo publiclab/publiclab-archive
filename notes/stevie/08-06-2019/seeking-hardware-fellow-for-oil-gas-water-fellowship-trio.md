@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/08-06-2019/seeking-hardware-fellow-for-oil-gas-water-fellowship-trio.md
 nid: 20443
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/380/original/Sensor_Build_ShanHe2017-08-19_155901_copy.jpeg)
 
 # Seeking Hardware Fellow for Oil & Gas Water Fellowship Trio
 
-by [stevie](../../../profile/stevie) | August 06, 2019 16:30
+by [stevie](/profile/stevie) | August 06, 2019 16:30
 
-August 06, 2019 16:30 | Tags: [providence](../tag/providence), [organizers](../tag/organizers), [water-quality](../tag/water-quality), [water](../tag/water), [jobs](../tag/jobs), [fellows](../tag/fellows), [hardware](../tag/hardware), [fellowship](../tag/fellowship), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
+August 06, 2019 16:30 | Tags: [providence](/tag/providence), [organizers](/tag/organizers), [water-quality](/tag/water-quality), [water](/tag/water), [jobs](/tag/jobs), [fellows](/tag/fellows), [hardware](/tag/hardware), [fellowship](/tag/fellowship), [oil-and-gas-water-trio](/tag/oil-and-gas-water-trio)
 
 ----
 

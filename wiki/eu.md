@@ -6,14 +6,14 @@ author: liz
 path: /wiki/eu.md
 nid: 14539
 uid: 7
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/794/original/Screen_Shot_2017-06-14_at_10.46.18_AM.png)
 
 # Europe
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
 June 14, 2017 14:47 | Tags: 
 

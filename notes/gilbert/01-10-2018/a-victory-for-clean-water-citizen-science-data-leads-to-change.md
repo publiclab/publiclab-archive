@@ -6,18 +6,16 @@ author: gilbert
 path: /notes/gilbert/01-10-2018/a-victory-for-clean-water-citizen-science-data-leads-to-change.md
 nid: 15503
 uid: 508551
-
 cids: 18182,18511
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/157/original/image.png)
 
 # A Victory for Clean Water: Citizen Science Data Leads to Change by Andy Hrycyna
 
-by [gilbert](../../../profile/gilbert) | January 10, 2018 17:10
+by [gilbert](/profile/gilbert) | January 10, 2018 17:10
 
-January 10, 2018 17:10 | Tags: [citizen-science](../tag/citizen-science), [water-quality](../tag/water-quality), [blog](../tag/blog), [alewife-brook](../tag/alewife-brook), [mystic-river-watershed-association](../tag/mystic-river-watershed-association)
+January 10, 2018 17:10 | Tags: [citizen-science](/tag/citizen-science), [water-quality](/tag/water-quality), [blog](/tag/blog), [alewife-brook](/tag/alewife-brook), [mystic-river-watershed-association](/tag/mystic-river-watershed-association)
 
 ----
 

@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/11-15-2016/fresh-air-collector.md
 nid: 13706
 uid: 495038
-
 cids: 15832,15848,15919
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/846/original/freshair.jpg)
 
 # Fresh air collector
 
-by [imvec](../../../profile/imvec) | November 15, 2016 14:09
+by [imvec](/profile/imvec) | November 15, 2016 14:09
 
-November 15, 2016 14:09 | Tags: [calibration](../tag/calibration), [spain](../tag/spain), [sensors](../tag/sensors), [open-air](../tag/open-air), [espana](../tag/espana)
+November 15, 2016 14:09 | Tags: [calibration](/tag/calibration), [spain](/tag/spain), [sensors](/tag/sensors), [open-air](/tag/open-air), [espana](/tag/espana)
 
 ----
 

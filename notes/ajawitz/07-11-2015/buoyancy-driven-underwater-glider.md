@@ -6,18 +6,16 @@ author: ajawitz
 path: /notes/ajawitz/07-11-2015/buoyancy-driven-underwater-glider.md
 nid: 12049
 uid: 294634
-
 cids: 12232,12342,12348,12349,12351,12355,12356,12360,12361,12366,12367,15752
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/009/original/BallGlider.jpg)
 
 # Buoyancy-Driven Underwater Glider
 
-by [ajawitz](../../../profile/ajawitz) | July 11, 2015 17:51
+by [ajawitz](/profile/ajawitz) | July 11, 2015 17:51
 
-July 11, 2015 17:51 | Tags: [open-water](../tag/open-water), [robotics](../tag/robotics), [oceanography](../tag/oceanography)
+July 11, 2015 17:51 | Tags: [open-water](/tag/open-water), [robotics](/tag/robotics), [oceanography](/tag/oceanography)
 
 ----
 

@@ -6,18 +6,16 @@ author: Lalithr95
 path: /notes/Lalithr95/08-26-2016/gsoc-2016-final-outcome-of-rich-profile-tags-in-user-profiles.md
 nid: 13396
 uid: 468698
-
 cids: 15233,15234,15236,15244,28316
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/768/original/rich_profile.png)
 
 # GSOC 2016: Final outcome of Rich Profile tags in user profiles
 
-by [Lalithr95](../../../profile/Lalithr95) | August 26, 2016 12:00
+by [Lalithr95](/profile/Lalithr95) | August 26, 2016 12:00
 
-August 26, 2016 12:00 | Tags: [gsoc](../tag/gsoc), [developers](../tag/developers), [gsoc-2016](../tag/gsoc-2016), [gsoc2016](../tag/gsoc2016), [profiles](../tag/profiles), [response:13397](../tag/response:13397)
+August 26, 2016 12:00 | Tags: [gsoc](/tag/gsoc), [developers](/tag/developers), [gsoc-2016](/tag/gsoc-2016), [gsoc2016](/tag/gsoc2016), [profiles](/tag/profiles), [response:13397](/tag/response:13397)
 
 ----
 

@@ -6,18 +6,16 @@ author: gonzoearth
 path: /notes/gonzoearth/1-4-2013/looking-california-neighborhood-fall-and-winter-map-layers.md
 nid: 5415
 uid: 12
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen Shot 2013-01-04 at 1.26.16 PM.png)
 
 # Looking at California neighborhood fall and winter map layers
 
-by [gonzoearth](../../../profile/gonzoearth) | January 04, 2013 21:44
+by [gonzoearth](/profile/gonzoearth) | January 04, 2013 21:44
 
-January 04, 2013 21:44 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
+January 04, 2013 21:44 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping)
 
 ----
 

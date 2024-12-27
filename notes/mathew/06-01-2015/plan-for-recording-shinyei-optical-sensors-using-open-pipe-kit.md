@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/06-01-2015/plan-for-recording-shinyei-optical-sensors-using-open-pipe-kit.md
 nid: 11927
 uid: 4
-
 cids: 11835,11836,11842,11843,11884,11897,11909,11910,11911,11912,11913,11933,11935,18478
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/164/original/Screen_Shot_2015-05-19_at_3.51.13_PM.png)
 
 # Plan for recording Shinyei optical sensors using Open Pipe Kit
 
-by [mathew](../../../profile/mathew) | June 01, 2015 23:47
+by [mathew](/profile/mathew) | June 01, 2015 23:47
 
-June 01, 2015 23:47 | Tags: [air-quality](../tag/air-quality), [dustduino](../tag/dustduino), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [open-air](../tag/open-air), [particle-sensing](../tag/particle-sensing), [dust-monitoring](../tag/dust-monitoring), [openair](../tag/openair), [with:warren](../tag/with:warren), [open-pipe-kit](../tag/open-pipe-kit), [opk](../tag/opk), [shinyei](../tag/shinyei), [fracsand](../tag/fracsand), [parent:frac-sand](../tag/parent:frac-sand), [air-sensors](../tag/air-sensors)
+June 01, 2015 23:47 | Tags: [air-quality](/tag/air-quality), [dustduino](/tag/dustduino), [silica](/tag/silica), [frac-sand](/tag/frac-sand), [pm](/tag/pm), [open-air](/tag/open-air), [particle-sensing](/tag/particle-sensing), [dust-monitoring](/tag/dust-monitoring), [openair](/tag/openair), [with:warren](/tag/with:warren), [open-pipe-kit](/tag/open-pipe-kit), [opk](/tag/opk), [shinyei](/tag/shinyei), [fracsand](/tag/fracsand), [parent:frac-sand](/tag/parent:frac-sand), [air-sensors](/tag/air-sensors)
 
 ----
 

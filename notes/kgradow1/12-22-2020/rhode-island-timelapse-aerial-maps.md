@@ -6,18 +6,16 @@ author: kgradow1
 path: /notes/kgradow1/12-22-2020/rhode-island-timelapse-aerial-maps.md
 nid: 25310
 uid: 297929
-
 cids: 27846,27854,27864,27883
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/110/original/Screen_Shot_2020-12-22_at_10.33.31_AM.png)
 
 # Rhode Island Timelapse 
 
-by [kgradow1](../../../profile/kgradow1) | December 22, 2020 16:17
+by [kgradow1](/profile/kgradow1) | December 22, 2020 16:17
 
-December 22, 2020 16:17 | Tags: [providence](../tag/providence), [balloon-mapping](../tag/balloon-mapping), [aerial-photography](../tag/aerial-photography), [timelapse](../tag/timelapse), [development](../tag/development), [rhode-island](../tag/rhode-island), [northeast](../tag/northeast), [lon:-71](../tag/lon:-71), [lat:42](../tag/lat:42), [zoom:6](../tag/zoom:6)
+December 22, 2020 16:17 | Tags: [providence](/tag/providence), [balloon-mapping](/tag/balloon-mapping), [aerial-photography](/tag/aerial-photography), [timelapse](/tag/timelapse), [development](/tag/development), [rhode-island](/tag/rhode-island), [northeast](/tag/northeast), [lon:-71](/tag/lon:-71), [lat:42](/tag/lat:42), [zoom:6](/tag/zoom:6)
 
 ----
 

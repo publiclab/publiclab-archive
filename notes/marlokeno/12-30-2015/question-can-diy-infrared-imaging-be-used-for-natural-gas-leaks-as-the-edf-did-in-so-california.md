@@ -6,16 +6,14 @@ author: marlokeno
 path: /notes/marlokeno/12-30-2015/question-can-diy-infrared-imaging-be-used-for-natural-gas-leaks-as-the-edf-did-in-so-california.md
 nid: 12548
 uid: 420760
-
 cids: 13215,13232,13233,13234,13236,13237,15076
-
 ---
 
 # Question:Can diy infrared imaging be used for natural gas leaks as the EDF did in So California
 
-by [marlokeno](../../../profile/marlokeno) | December 30, 2015 05:06
+by [marlokeno](/profile/marlokeno) | December 30, 2015 05:06
 
-December 30, 2015 05:06 | Tags: [question:infrared](../tag/question:infrared)
+December 30, 2015 05:06 | Tags: [question:infrared](/tag/question:infrared)
 
 ----
 

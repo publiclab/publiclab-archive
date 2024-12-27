@@ -6,18 +6,16 @@ author: gpenzo
 path: /notes/gpenzo/07-10-2014/inconsistant-two-cam-ndvi.md
 nid: 10674
 uid: 420719
-
 cids: 9472,9475,9477,9478,9479,9489
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/213/original/der.jpeg)
 
 # Inconsistent two cam ndvi
 
-by [gpenzo](../../../profile/gpenzo) | July 10, 2014 23:10
+by [gpenzo](/profile/gpenzo) | July 10, 2014 23:10
 
-July 10, 2014 23:10 | Tags: [ndvi](../tag/ndvi), [canon](../tag/canon), [a2500](../tag/a2500)
+July 10, 2014 23:10 | Tags: [ndvi](/tag/ndvi), [canon](/tag/canon), [a2500](/tag/a2500)
 
 ----
 

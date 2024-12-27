@@ -6,14 +6,14 @@ author: warren
 path: /wiki/grassroots-mapping-youth-curriculum.md
 nid: 858
 uid: 1
-
+cids: 
 ---
 
 # Grassroots Mapping youth curriculum
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-February 27, 2012 15:19 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [curriculum](../tag/curriculum), [k-12](../tag/k-12), [classroom](../tag/classroom)
+February 27, 2012 15:19 | Tags: [balloon-mapping](/tag/balloon-mapping), [education](/tag/education), [curriculum](/tag/curriculum), [k-12](/tag/k-12), [classroom](/tag/classroom)
 
 ----
 

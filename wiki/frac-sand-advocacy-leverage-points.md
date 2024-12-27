@@ -6,16 +6,16 @@ author: stevie
 path: /wiki/frac-sand-advocacy-leverage-points.md
 nid: 12684
 uid: 422561
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/293/original/Sand_on_tracks.jpg)
 
 # Frac Sand Advocacy Leverage Points
 
-by [stevie](../profile/stevie), [gretchengehrke](../profile/gretchengehrke)
+by [stevie](/profile/stevie), [gretchengehrke](/profile/gretchengehrke)
 
-February 13, 2016 18:23 | Tags: [fracking](../tag/fracking), [advocacy](../tag/advocacy), [parent:frac-sand](../tag/parent:frac-sand), [reclamation](../tag/reclamation), [mine-reclamation](../tag/mine-reclamation), [mine-reclamation-advocacy](../tag/mine-reclamation-advocacy)
+February 13, 2016 18:23 | Tags: [fracking](/tag/fracking), [advocacy](/tag/advocacy), [parent:frac-sand](/tag/parent:frac-sand), [reclamation](/tag/reclamation), [mine-reclamation](/tag/mine-reclamation), [mine-reclamation-advocacy](/tag/mine-reclamation-advocacy)
 
 ----
 

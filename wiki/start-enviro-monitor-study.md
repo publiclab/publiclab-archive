@@ -6,14 +6,14 @@ author: gretchengehrke
 path: /wiki/start-enviro-monitor-study.md
 nid: 12603
 uid: 430549
-
+cids: 
 ---
 
 # Start an Environmental Monitoring Study
 
-by [bhamster](../profile/bhamster), [liz](../profile/liz), [mathew](../profile/mathew), [stevie](../profile/stevie), [gretchengehrke](../profile/gretchengehrke)
+by [bhamster](/profile/bhamster), [liz](/profile/liz), [mathew](/profile/mathew), [stevie](/profile/stevie), [gretchengehrke](/profile/gretchengehrke)
 
-January 23, 2016 04:21 | Tags: [research](../tag/research), [research-plan](../tag/research-plan), [needs-revision](../tag/needs-revision), [guidelines](../tag/guidelines), [tool](../tag/tool), [method](../tag/method), [study-design](../tag/study-design), [parent:study-design](../tag/parent:study-design)
+January 23, 2016 04:21 | Tags: [research](/tag/research), [research-plan](/tag/research-plan), [needs-revision](/tag/needs-revision), [guidelines](/tag/guidelines), [tool](/tag/tool), [method](/tag/method), [study-design](/tag/study-design), [parent:study-design](/tag/parent:study-design)
 
 ----
 

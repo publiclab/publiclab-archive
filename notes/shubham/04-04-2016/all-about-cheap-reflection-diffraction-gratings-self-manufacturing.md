@@ -6,18 +6,16 @@ author: shubham
 path: /notes/shubham/04-04-2016/all-about-cheap-reflection-diffraction-gratings-self-manufacturing.md
 nid: 12917
 uid: 460486
-
 cids: 14122,14133,14803,14828
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/345/original/Electricity_board_prototype.jpg)
 
 # All about cheap Reflection Diffraction Gratings-Self manufacturing!
 
-by [shubham](../../../profile/shubham) | April 04, 2016 16:13
+by [shubham](/profile/shubham) | April 04, 2016 16:13
 
-April 04, 2016 16:13 | Tags: [diffraction-grating](../tag/diffraction-grating)
+April 04, 2016 16:13 | Tags: [diffraction-grating](/tag/diffraction-grating)
 
 ----
 

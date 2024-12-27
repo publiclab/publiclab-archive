@@ -6,18 +6,16 @@ author: clauds
 path: /notes/clauds/09-03-2015/a-public-lab-chapter-in-bourj-al-shamali.md
 nid: 12196
 uid: 43867
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/457/original/IMG_0221.jpg)
 
 # A Public Lab Chapter in Bourj Al Shamali? 
 
-by [clauds](../../../profile/clauds) | September 03, 2015 22:29
+by [clauds](/profile/clauds) | September 03, 2015 22:29
 
-September 03, 2015 22:29 | Tags: [palestine](../tag/palestine), [chapters](../tag/chapters), [barnstar:basic](../tag/barnstar:basic), [lebanon](../tag/lebanon), [middle-east](../tag/middle-east), [refugees](../tag/refugees), [bourjalshamali](../tag/bourjalshamali)
+September 03, 2015 22:29 | Tags: [palestine](/tag/palestine), [chapters](/tag/chapters), [barnstar:basic](/tag/barnstar:basic), [lebanon](/tag/lebanon), [middle-east](/tag/middle-east), [refugees](/tag/refugees), [bourjalshamali](/tag/bourjalshamali)
 
 ----
 

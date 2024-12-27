@@ -6,14 +6,14 @@ author: liz
 path: /wiki/wheetrometer.md
 nid: 17111
 uid: 7
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/059/original/WheeTrometer4A2.jpg)
 
 # wheetrometer
 
-by [JSummers](../profile/JSummers), [liz](../profile/liz)
+by [JSummers](/profile/JSummers), [liz](/profile/liz)
 
 September 13, 2018 15:20 | Tags: 
 
@@ -26,4 +26,4 @@ Early Public Lab Research Notes by BHickman:[3D Printed Spectrometer](https://pu
 [Original Note](https://publiclab.org/notes/bhickman/10-12-2013/ccd-diodearray-spectrometer).
 
 
-[wheetrometer](../../tag/wheetrometer)
+[wheetrometer](/tag/wheetrometer)

@@ -6,16 +6,14 @@ author: iamben
 path: /notes/iamben/01-04-2018/normal-or-noir-camera.md
 nid: 15456
 uid: 521175
-
 cids: 18754,18755,22819
-
 ---
 
 # normal or noIR camera?
 
-by [iamben](../../../profile/iamben) | January 04, 2018 00:11
+by [iamben](/profile/iamben) | January 04, 2018 00:11
 
-January 04, 2018 00:11 | Tags: [raspberry-pi](../tag/raspberry-pi), [answered](../tag/answered), [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer), [question:raspberry-pi-spectrometer](../tag/question:raspberry-pi-spectrometer), [question:lego-spectrometer](../tag/question:lego-spectrometer), [lego-spectrometer](../tag/lego-spectrometer)
+January 04, 2018 00:11 | Tags: [raspberry-pi](/tag/raspberry-pi), [answered](/tag/answered), [raspberry-pi-spectrometer](/tag/raspberry-pi-spectrometer), [question:raspberry-pi-spectrometer](/tag/question:raspberry-pi-spectrometer), [question:lego-spectrometer](/tag/question:lego-spectrometer), [lego-spectrometer](/tag/lego-spectrometer)
 
 ----
 

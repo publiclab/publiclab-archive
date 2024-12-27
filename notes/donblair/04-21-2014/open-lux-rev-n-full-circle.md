@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/04-21-2014/open-lux-rev-n-full-circle.md
 nid: 10340
 uid: 43651
-
 cids: 8843,8846,8847
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/771/original/open-lux-evolution.png)
 
 # Open-Lux REV-N: Full Circle
 
-by [donblair](../../../profile/donblair) | April 21, 2014 07:02
+by [donblair](/profile/donblair) | April 21, 2014 07:02
 
-April 21, 2014 07:02 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [thermal-photography](../tag/thermal-photography), [ndvi](../tag/ndvi), [calibration](../tag/calibration), [thermal-flashlight](../tag/thermal-flashlight), [near-ir](../tag/near-ir), [thermal-fishing](../tag/thermal-fishing), [infragram](../tag/infragram)
+April 21, 2014 07:02 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [thermal-photography](/tag/thermal-photography), [ndvi](/tag/ndvi), [calibration](/tag/calibration), [thermal-flashlight](/tag/thermal-flashlight), [near-ir](/tag/near-ir), [thermal-fishing](/tag/thermal-fishing), [infragram](/tag/infragram)
 
 ----
 

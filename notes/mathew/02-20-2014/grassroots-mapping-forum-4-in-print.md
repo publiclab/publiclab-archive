@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/02-20-2014/grassroots-mapping-forum-4-in-print.md
 nid: 10051
 uid: 4
-
 cids: 8382
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/968/original/GMFWebgfc.jpg)
 
 # Grassroots Mapping Forum #4 in print
 
-by [mathew](../../../profile/mathew) | February 20, 2014 23:02
+by [mathew](/profile/mathew) | February 20, 2014 23:02
 
-February 20, 2014 23:02 | Tags: [gmf](../tag/gmf)
+February 20, 2014 23:02 | Tags: [gmf](/tag/gmf)
 
 ----
 

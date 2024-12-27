@@ -6,18 +6,16 @@ author: darinacosta
 path: /notes/darinacosta/07-12-2013/oil-platform-hotspot-analysis-near-venice-louisiana.md
 nid: 8858
 uid: 170106
-
 cids: 6318
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/766/original/djacosta_oilplatformhotspotanalysis_v1.jpg)
 
 # Oil Platform Hotspot Analysis near Venice, Louisiana
 
-by [darinacosta](../../../profile/darinacosta) | July 12, 2013 20:05
+by [darinacosta](/profile/darinacosta) | July 12, 2013 20:05
 
-July 12, 2013 20:05 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [oil](../tag/oil), [gis](../tag/gis)
+July 12, 2013 20:05 | Tags: [gulf-coast](/tag/gulf-coast), [louisiana](/tag/louisiana), [oil](/tag/oil), [gis](/tag/gis)
 
 ----
 

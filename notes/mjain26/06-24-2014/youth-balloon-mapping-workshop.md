@@ -6,16 +6,14 @@ author: mjain26
 path: /notes/mjain26/06-24-2014/youth-balloon-mapping-workshop.md
 nid: 10612
 uid: 424870
-
 cids: 9261,9262,9268,9405,9407,9409,9541,9722
-
 ---
 
 # Youth Balloon Mapping Workshop
 
-by [mjain26](../../../profile/mjain26) | June 24, 2014 21:39
+by [mjain26](/profile/mjain26) | June 24, 2014 21:39
 
-June 24, 2014 21:39 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [curriculum](../tag/curriculum), [chicago](../tag/chicago), [midwest](../tag/midwest), [civiclab](../tag/civiclab), [civic-lab](../tag/civic-lab), [first-time-poster](../tag/first-time-poster)
+June 24, 2014 21:39 | Tags: [balloon-mapping](/tag/balloon-mapping), [education](/tag/education), [curriculum](/tag/curriculum), [chicago](/tag/chicago), [midwest](/tag/midwest), [civiclab](/tag/civiclab), [civic-lab](/tag/civic-lab), [first-time-poster](/tag/first-time-poster)
 
 ----
 

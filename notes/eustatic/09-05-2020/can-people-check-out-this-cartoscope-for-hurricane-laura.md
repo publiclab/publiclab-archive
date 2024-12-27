@@ -6,16 +6,14 @@ author: eustatic
 path: /09-05-2020/can-people-check-out-this-cartoscope-for-hurricane-laura.md
 nid: 24527
 uid: 379
-
 cids: 
-
 ---
 
 # Can People Check out This Cartoscope for Hurricane Laura?
 
-by [eustatic](../../../profile/eustatic) | September 05, 2020 20:47
+by [eustatic](/profile/eustatic) | September 05, 2020 20:47
 
-September 05, 2020 20:47 | Tags: [gulf-coast](../tag/gulf-coast), [photo](../tag/photo), [aerial](../tag/aerial), [mapmill](../tag/mapmill), [response](../tag/response), [question:general](../tag/question:general), [general](../tag/general), [cartoscope](../tag/cartoscope)
+September 05, 2020 20:47 | Tags: [gulf-coast](/tag/gulf-coast), [photo](/tag/photo), [aerial](/tag/aerial), [mapmill](/tag/mapmill), [response](/tag/response), [question:general](/tag/question:general), [general](/tag/general), [cartoscope](/tag/cartoscope)
 
 ----
 

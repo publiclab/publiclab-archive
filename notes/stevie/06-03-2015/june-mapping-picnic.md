@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/06-03-2015/june-mapping-picnic.md
 nid: 11947
 uid: 422561
-
 cids: 11877,11931
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/194/original/June_Picnic.jpg)
 
 # June Mapping Picnic 
 
-by [stevie](../../../profile/stevie) | June 03, 2015 18:46
+by [stevie](/profile/stevie) | June 03, 2015 18:46
 
-June 03, 2015 18:46 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [event](../tag/event), [gulfcoast](../tag/gulfcoast), [event:rsvp](../tag/event:rsvp), [rsvp:eustatic](../tag/rsvp:eustatic), [date:06-27-2015](../tag/date:06-27-2015), [rsvp:klie](../tag/rsvp:klie), [replication:14022](../tag/replication:14022)
+June 03, 2015 18:46 | Tags: [gulf-coast](/tag/gulf-coast), [balloon-mapping](/tag/balloon-mapping), [event](/tag/event), [gulfcoast](/tag/gulfcoast), [event:rsvp](/tag/event:rsvp), [rsvp:eustatic](/tag/rsvp:eustatic), [date:06-27-2015](/tag/date:06-27-2015), [rsvp:klie](/tag/rsvp:klie), [replication:14022](/tag/replication:14022)
 
 ----
 

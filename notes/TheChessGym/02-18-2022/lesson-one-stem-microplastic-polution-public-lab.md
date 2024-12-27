@@ -6,18 +6,16 @@ author: TheChessGym
 path: /notes/TheChessGym/02-18-2022/lesson-one-stem-microplastic-polution-public-lab.md
 nid: 30036
 uid: 788868
-
 cids: 29684
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/407/original/images%281%29)
 
 # Lesson One- STEM MICROPLASTIC POLUTION -PUBLIC LAB
 
-by [TheChessGym](../../../profile/TheChessGym) | February 18, 2022 16:04
+by [TheChessGym](/profile/TheChessGym) | February 18, 2022 16:04
 
-February 18, 2022 16:04 | Tags: [microplastics](../tag/microplastics), [lat:22](../tag/lat:22), [first-time-poster](../tag/first-time-poster), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
+February 18, 2022 16:04 | Tags: [microplastics](/tag/microplastics), [lat:22](/tag/lat:22), [first-time-poster](/tag/first-time-poster), [lon:76](/tag/lon:76), [zoom:6](/tag/zoom:6)
 
 ----
 

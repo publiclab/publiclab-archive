@@ -6,18 +6,16 @@ author: TravisLondon
 path: /notes/TravisLondon/03-22-2022/a-public-statement-against-formosa-plastic-s-air-permit-application.md
 nid: 30174
 uid: 776235
-
 cids: 29846
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/565/original/pasted_image_0.png)
 
 # A Public Statement Against Formosa Plastic's Air Permit Application
 
-by [TravisLondon](../../../profile/TravisLondon) | March 22, 2022 21:50
+by [TravisLondon](/profile/TravisLondon) | March 22, 2022 21:50
 
-March 22, 2022 21:50 | Tags: [fellowship](../tag/fellowship), [first-time-poster](../tag/first-time-poster), [formosaplastics](../tag/formosaplastics), [stjames](../tag/stjames)
+March 22, 2022 21:50 | Tags: [fellowship](/tag/fellowship), [first-time-poster](/tag/first-time-poster), [formosaplastics](/tag/formosaplastics), [stjames](/tag/stjames)
 
 ----
 

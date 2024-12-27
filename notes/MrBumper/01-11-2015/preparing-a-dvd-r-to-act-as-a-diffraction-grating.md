@@ -6,18 +6,16 @@ author: MrBumper
 path: /notes/MrBumper/01-11-2015/preparing-a-dvd-r-to-act-as-a-diffraction-grating.md
 nid: 11515
 uid: 432766
-
 cids: 11034,11036,11063,11066,11112,11120,11128,11334,11336,11478,11479,12562,13756,14457,25696,25697
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/582/original/DVDFragmentDiffraction.png)
 
 # Preparing a DVD-R to act as a diffraction grating
 
-by [MrBumper](../../../profile/MrBumper) | January 11, 2015 20:22
+by [MrBumper](/profile/MrBumper) | January 11, 2015 20:22
 
-January 11, 2015 20:22 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [barnstar:basic](../tag/barnstar:basic), [activity:spectrometry](../tag/activity:spectrometry), [activity:papercraft-spec](../tag/activity:papercraft-spec), [activity:lego-spectrometer](../tag/activity:lego-spectrometer)
+January 11, 2015 20:22 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [barnstar:basic](/tag/barnstar:basic), [activity:spectrometry](/tag/activity:spectrometry), [activity:papercraft-spec](/tag/activity:papercraft-spec), [activity:lego-spectrometer](/tag/activity:lego-spectrometer)
 
 ----
 

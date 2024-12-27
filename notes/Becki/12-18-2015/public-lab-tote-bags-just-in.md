@@ -6,18 +6,16 @@ author: Becki
 path: /notes/Becki/12-18-2015/public-lab-tote-bags-just-in.md
 nid: 12533
 uid: 46673
-
 cids: 13170,13179
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/415/original/Tote_on_wall.JPG)
 
 # Public Lab Tote Bags just in!
 
-by [Becki](../../../profile/Becki) | December 18, 2015 22:19
+by [Becki](/profile/Becki) | December 18, 2015 22:19
 
-December 18, 2015 22:19 | Tags: [sustaining-members](../tag/sustaining-members)
+December 18, 2015 22:19 | Tags: [sustaining-members](/tag/sustaining-members)
 
 ----
 

@@ -6,18 +6,16 @@ author: ajawitz
 path: /notes/code4maine/05-08-2014/mobilizing-data-to-combat-the-evil-green-crab.md
 nid: 10452
 uid: 294634
-
 cids: 8995,8996,8997,8998,8999,9000,9001,9002,9003,9004,9005,9007,9013,9014,9017,9018,9031
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/180/original/GuardYOurShores.png)
 
 # Mobilizing Data to Combat the Evil Green Crab
 
-by [ajawitz](../../../profile/ajawitz) | May 08, 2014 18:04
+by [ajawitz](/profile/ajawitz) | May 08, 2014 18:04
 
-May 08, 2014 18:04 | Tags: [grassrootsmapping](../tag/grassrootsmapping), [citizen-science](../tag/citizen-science), [maine](../tag/maine), [invasives](../tag/invasives), [invasive-species](../tag/invasive-species), [civic-hacking](../tag/civic-hacking), [northeast](../tag/northeast)
+May 08, 2014 18:04 | Tags: [grassrootsmapping](/tag/grassrootsmapping), [citizen-science](/tag/citizen-science), [maine](/tag/maine), [invasives](/tag/invasives), [invasive-species](/tag/invasive-species), [civic-hacking](/tag/civic-hacking), [northeast](/tag/northeast)
 
 ----
 

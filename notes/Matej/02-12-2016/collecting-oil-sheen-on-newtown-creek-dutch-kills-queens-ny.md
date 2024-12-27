@@ -6,18 +6,16 @@ author: Matej
 path: /notes/Matej/02-12-2016/collecting-oil-sheen-on-newtown-creek-dutch-kills-queens-ny.md
 nid: 12681
 uid: 451808
-
 cids: 13601,13611,13612,13618
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/262/original/DSC09004.JPG)
 
 # Collecting Oil Sheen on Newtown Creek, Dutch Kills, Queens, NY
 
-by [Matej](../../../profile/Matej) | February 12, 2016 16:37
+by [Matej](/profile/Matej) | February 12, 2016 16:37
 
-February 12, 2016 16:37 | Tags: [new-york-city](../tag/new-york-city), [newtown-creek](../tag/newtown-creek), [oil-testing-kit](../tag/oil-testing-kit), [sheen](../tag/sheen), [otk](../tag/otk), [newtown-creek-alliance](../tag/newtown-creek-alliance), [greenpoint](../tag/greenpoint), [with:nameiswillis](../tag/with:nameiswillis), [oil-sheen](../tag/oil-sheen), [oil-and-gas](../tag/oil-and-gas)
+February 12, 2016 16:37 | Tags: [new-york-city](/tag/new-york-city), [newtown-creek](/tag/newtown-creek), [oil-testing-kit](/tag/oil-testing-kit), [sheen](/tag/sheen), [otk](/tag/otk), [newtown-creek-alliance](/tag/newtown-creek-alliance), [greenpoint](/tag/greenpoint), [with:nameiswillis](/tag/with:nameiswillis), [oil-sheen](/tag/oil-sheen), [oil-and-gas](/tag/oil-and-gas)
 
 ----
 

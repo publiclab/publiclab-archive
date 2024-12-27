@@ -6,18 +6,16 @@ author: bhamster
 path: /notes/bhamster/07-25-2022/public-open-environmental-data-presentation-for-ceejh-community-science-workshop.md
 nid: 34785
 uid: 664477
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/920/original/CEEJH_pres_image_1.png)
 
 # Public & Open Environmental Data: presentation for CEEJH Community Science Workshop
 
-by [bhamster](../../../profile/bhamster) | July 25, 2022 18:55
+by [bhamster](/profile/bhamster) | July 25, 2022 18:55
 
-July 25, 2022 18:55 | Tags: [environmental-data](../tag/environmental-data), [existing-data](../tag/existing-data), [datasource](../tag/datasource), [public-data](../tag/public-data)
+July 25, 2022 18:55 | Tags: [environmental-data](/tag/environmental-data), [existing-data](/tag/existing-data), [datasource](/tag/datasource), [public-data](/tag/public-data)
 
 ----
 

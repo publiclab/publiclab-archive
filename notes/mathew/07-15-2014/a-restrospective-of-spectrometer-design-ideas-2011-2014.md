@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/07-15-2014/a-restrospective-of-spectrometer-design-ideas-2011-2014.md
 nid: 10692
 uid: 4
-
 cids: 13101
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/291/original/8548944631_a1ba61040c.jpg)
 
 # A Retrospective of Spectrometer Design Ideas 2011-2014
 
-by [mathew](../../../profile/mathew) | July 15, 2014 00:25
+by [mathew](/profile/mathew) | July 15, 2014 00:25
 
-July 15, 2014 00:25 | Tags: [spectrometer](../tag/spectrometer), [overview](../tag/overview), [retrospective](../tag/retrospective)
+July 15, 2014 00:25 | Tags: [spectrometer](/tag/spectrometer), [overview](/tag/overview), [retrospective](/tag/retrospective)
 
 ----
 

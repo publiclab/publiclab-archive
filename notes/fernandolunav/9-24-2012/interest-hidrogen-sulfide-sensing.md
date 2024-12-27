@@ -6,16 +6,14 @@ author: fernandolunav
 path: /notes/fernandolunav/9-24-2012/interest-hidrogen-sulfide-sensing.md
 nid: 3989
 uid: 43553
-
 cids: 1451,1453,1459
-
 ---
 
 # Interest in Hidrogen Sulfide Sensing
 
-by [fernandolunav](../../../profile/fernandolunav) | September 24, 2012 16:09
+by [fernandolunav](/profile/fernandolunav) | September 24, 2012 16:09
 
-September 24, 2012 16:09 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper), [question:h2s](../tag/question:h2s)
+September 24, 2012 16:09 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [h2s-photopaper](/tag/h2s-photopaper), [question:h2s](/tag/question:h2s)
 
 ----
 

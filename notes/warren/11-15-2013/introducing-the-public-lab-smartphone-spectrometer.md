@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/11-15-2013/introducing-the-public-lab-smartphone-spectrometer.md
 nid: 9786
 uid: 1
-
 cids: 7948,7980,14092,14193
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/238/original/IMG_0372.JPG)
 
 # Introducing the Public Lab Smartphone Spectrometer
 
-by [warren](../../../profile/warren) | November 15, 2013 20:49
+by [warren](/profile/warren) | November 15, 2013 20:49
 
-November 15, 2013 20:49 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter), [smartphone-spectrometer](../tag/smartphone-spectrometer)
+November 15, 2013 20:49 | Tags: [spectrometer](/tag/spectrometer), [kickstarter](/tag/kickstarter), [smartphone-spectrometer](/tag/smartphone-spectrometer)
 
 ----
 

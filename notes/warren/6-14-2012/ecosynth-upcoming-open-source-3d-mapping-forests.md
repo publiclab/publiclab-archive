@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/6-14-2012/ecosynth-upcoming-open-source-3d-mapping-forests.md
 nid: 2491
 uid: 1
-
 cids: 1441,4820,5504
-
 ---
 
 ![](https://publiclab.org/sites/default/files/UMBC_Knoll_2012_10_24_oblique.png)
 
 # Ecosynth: upcoming open source 3d mapping for forests
 
-by [warren](../../../profile/warren) | June 14, 2012 17:08
+by [warren](/profile/warren) | June 14, 2012 17:08
 
-June 14, 2012 17:08 | Tags: [3d](../tag/3d), [uav](../tag/uav), [forest](../tag/forest), [pointcloud](../tag/pointcloud), [bundleadjustment](../tag/bundleadjustment), [sfm](../tag/sfm), [structure-from-motion](../tag/structure-from-motion)
+June 14, 2012 17:08 | Tags: [3d](/tag/3d), [uav](/tag/uav), [forest](/tag/forest), [pointcloud](/tag/pointcloud), [bundleadjustment](/tag/bundleadjustment), [sfm](/tag/sfm), [structure-from-motion](/tag/structure-from-motion)
 
 ----
 

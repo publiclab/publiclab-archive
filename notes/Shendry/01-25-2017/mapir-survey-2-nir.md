@@ -6,16 +6,14 @@ author: Shendry
 path: /notes/Shendry/01-25-2017/mapir-survey-2-nir.md
 nid: 13879
 uid: 502311
-
 cids: 16101,16106,16107
-
 ---
 
 # MAPIR Survey 2 NIR
 
-by [Shendry](../../../profile/Shendry) | January 25, 2017 20:45
+by [Shendry](/profile/Shendry) | January 25, 2017 20:45
 
-January 25, 2017 20:45 | Tags: [question:question](../tag/question:question)
+January 25, 2017 20:45 | Tags: [question:question](/tag/question:question)
 
 ----
 

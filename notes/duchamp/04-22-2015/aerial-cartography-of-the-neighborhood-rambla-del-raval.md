@@ -6,16 +6,14 @@ author: duchamp
 path: /notes/duchamp/04-22-2015/aerial-cartography-of-the-neighborhood-rambla-del-raval.md
 nid: 11761
 uid: 439194
-
 cids: 
-
 ---
 
 # Aerial Cartography of the neighborhood. Rambla del Raval
 
-by [duchamp](../../../profile/duchamp) | April 22, 2015 15:36
+by [duchamp](/profile/duchamp) | April 22, 2015 15:36
 
-April 22, 2015 15:36 | Tags: [rambla](../tag/rambla), [del](../tag/del), [raval](../tag/raval), [first-time-poster](../tag/first-time-poster)
+April 22, 2015 15:36 | Tags: [rambla](/tag/rambla), [del](/tag/del), [raval](/tag/raval), [first-time-poster](/tag/first-time-poster)
 
 ----
 

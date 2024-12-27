@@ -6,18 +6,16 @@ author: ajawitz
 path: /notes/ajawitz/06-11-2015/raspberry-pi-as-marine-traffic-radar.md
 nid: 11970
 uid: 294634
-
 cids: 11982,11985,27044
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/313/original/RPISDR.jpg)
 
 # Raspberry Pi as Marine Traffic Radar
 
-by [ajawitz](../../../profile/ajawitz) | June 11, 2015 05:08
+by [ajawitz](/profile/ajawitz) | June 11, 2015 05:08
 
-June 11, 2015 05:08 | Tags: [gulf-coast](../tag/gulf-coast), [software](../tag/software), [transportation](../tag/transportation), [open-water](../tag/open-water), [pi](../tag/pi), [traffic](../tag/traffic), [raspberry](../tag/raspberry), [rtl-sdr](../tag/rtl-sdr), [ship_tracking](../tag/ship_tracking), [defined](../tag/defined), [radio](../tag/radio), [sdr](../tag/sdr), [activity:transportation](../tag/activity:transportation)
+June 11, 2015 05:08 | Tags: [gulf-coast](/tag/gulf-coast), [software](/tag/software), [transportation](/tag/transportation), [open-water](/tag/open-water), [pi](/tag/pi), [traffic](/tag/traffic), [raspberry](/tag/raspberry), [rtl-sdr](/tag/rtl-sdr), [ship_tracking](/tag/ship_tracking), [defined](/tag/defined), [radio](/tag/radio), [sdr](/tag/sdr), [activity:transportation](/tag/activity:transportation)
 
 ----
 

@@ -6,18 +6,16 @@ author: eustatic
 path: /09-09-2013/nungesser-test-2-uv-and-green-lazer.md
 nid: 9306
 uid: 379
-
 cids: 6775,6776,6777
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/460/original/9711572372_3aa638cf46__nugesser_test_2.jpg)
 
 # Nungesser test #2, UV and green lazer 
 
-by [eustatic](../../../profile/eustatic) | September 09, 2013 16:32
+by [eustatic](/profile/eustatic) | September 09, 2013 16:32
 
-September 09, 2013 16:32 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [coal](../tag/coal), [unitedbulk](../tag/unitedbulk), [response:9304](../tag/response:9304)
+September 09, 2013 16:32 | Tags: [gulf-coast](/tag/gulf-coast), [spectrometer](/tag/spectrometer), [coal](/tag/coal), [unitedbulk](/tag/unitedbulk), [response:9304](/tag/response:9304)
 
 ----
 

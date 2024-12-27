@@ -6,12 +6,12 @@ author: warren
 path: /wiki/archive-planning.md
 nid: 159
 uid: 1
-
+cids: 
 ---
 
 # Archive Planning
 
-by [gonzoearth](../profile/gonzoearth), [warren](../profile/warren)
+by [gonzoearth](/profile/gonzoearth), [warren](/profile/warren)
 
 April 06, 2011 19:24 | Tags: 
 

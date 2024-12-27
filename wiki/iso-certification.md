@@ -6,12 +6,12 @@ author: aryan
 path: /wiki/iso-certification.md
 nid: 14493
 uid: 508276
-
+cids: 
 ---
 
 # ISO Certification
 
-by [aryan](../profile/aryan)
+by [aryan](/profile/aryan)
 
 May 31, 2017 06:26 | Tags: 
 

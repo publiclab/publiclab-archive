@@ -6,14 +6,14 @@ author: sara
 path: /wiki/may-26th-as220-thermal-flashlight-workshop.md
 nid: 2243
 uid: 8
-
+cids: 
 ---
 
 # May 26th AS220 Thermal Flashlight Workshop
 
-by [sara](../profile/sara)
+by [sara](/profile/sara)
 
-May 29, 2012 20:11 | Tags: [providence](../tag/providence), [thermal-photography](../tag/thermal-photography), [as220](../tag/as220), [event](../tag/event), [parent:as220](../tag/parent:as220)
+May 29, 2012 20:11 | Tags: [providence](/tag/providence), [thermal-photography](/tag/thermal-photography), [as220](/tag/as220), [event](/tag/event), [parent:as220](/tag/parent:as220)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/07-30-2013/smartphone-spectrometer-now-available-on-shapeways.md
 nid: 8940
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/961/original/8595277375_ea40a2c9d0_o.jpg)
 
 # Smartphone spectrometer now available on Shapeways
 
-by [warren](../../../profile/warren) | July 30, 2013 07:02
+by [warren](/profile/warren) | July 30, 2013 07:02
 
-July 30, 2013 07:02 | Tags: [spectrometer](../tag/spectrometer), [mobile-spectrometer](../tag/mobile-spectrometer), [backpack](../tag/backpack)
+July 30, 2013 07:02 | Tags: [spectrometer](/tag/spectrometer), [mobile-spectrometer](/tag/mobile-spectrometer), [backpack](/tag/backpack)
 
 ----
 

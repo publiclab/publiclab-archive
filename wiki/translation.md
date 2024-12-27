@@ -6,16 +6,16 @@ author: liz
 path: /wiki/translation.md
 nid: 13654
 uid: 7
-
+cids: 23514,23636
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/672/original/Olympics_flags_wide.png)
 
 # Translation
 
-by [warren](../profile/warren), [ajitmujumdar25999](../profile/ajitmujumdar25999), [liz](../profile/liz), [gauravano](../profile/gauravano), [ananyo2012](../profile/ananyo2012)
+by [warren](/profile/warren), [ajitmujumdar25999](/profile/ajitmujumdar25999), [liz](/profile/liz), [gauravano](/profile/gauravano), [ananyo2012](/profile/ananyo2012)
 
-October 26, 2016 19:49 | Tags: [community](../tag/community), [website](../tag/website), [internationalization](../tag/internationalization), [localization](../tag/localization), [translation](../tag/translation), [language](../tag/language), [prompt:translation](../tag/prompt:translation)
+October 26, 2016 19:49 | Tags: [community](/tag/community), [website](/tag/website), [internationalization](/tag/internationalization), [localization](/tag/localization), [translation](/tag/translation), [language](/tag/language), [prompt:translation](/tag/prompt:translation)
 
 ----
 
@@ -51,7 +51,7 @@ The people in this list have signed up to see these prompts and help translate t
 
 ## Activities for people who want to translate this website
 
-[localization](../../tag/activity:localization)
+[localization](/tag/activity:localization)
 
 ### Publishing new translation texts to the website
 
@@ -65,7 +65,7 @@ If it's a new language, we will also need to add it to the footer listing; pleas
 
 ## Activities for people who want to translate specific guides for tools
 
-[translation](../../tag/activity:translation)
+[translation](/tag/activity:translation)
 
 <i class="fa fa-film"></i> **Watch this small video on using Transifex for translation**
 <iframe width="900" height="560" src="https://www.youtube.com/embed/3y0x8q3Oj7Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -76,7 +76,7 @@ If it's a new language, we will also need to add it to the footer listing; pleas
 
 ## Activities for Transifex managers
 
-[localization-managers](../../tag/activity:localization-managers)
+[localization-managers](/tag/activity:localization-managers)
 
 ****
 

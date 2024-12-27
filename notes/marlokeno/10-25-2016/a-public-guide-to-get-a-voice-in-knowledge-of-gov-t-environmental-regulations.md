@@ -6,16 +6,14 @@ author: marlokeno
 path: /notes/marlokeno/10-25-2016/a-public-guide-to-get-a-voice-in-knowledge-of-gov-t-environmental-regulations.md
 nid: 13646
 uid: 420760
-
 cids: 15735,15736,15737,15738,15739,15768,15920
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/565/original/getting-public-info.jpg)
 
 # a public guide to get a voice in & knowledge of  gov't environmental  regulations
 
-by [marlokeno](../../../profile/marlokeno) | October 25, 2016 16:06
+by [marlokeno](/profile/marlokeno) | October 25, 2016 16:06
 
 October 25, 2016 16:06 | Tags: 
 

@@ -6,18 +6,16 @@ author: pdhixenbaugh
 path: /notes/pdhixenbaugh/09-15-2016/draft-don-t-look-meta-riffle-researching-how-to-build-electronic-circuits-with-the-riffle.md
 nid: 13448
 uid: 459085
-
 cids: 15383,15405,15436
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/049/original/breadboardpins.png)
 
 # (Draft, don't look) Meta-Riffle: Researching how to build Electronic Circuits with the Riffle
 
-by [pdhixenbaugh](../../../profile/pdhixenbaugh) | September 15, 2016 04:32
+by [pdhixenbaugh](/profile/pdhixenbaugh) | September 15, 2016 04:32
 
-September 15, 2016 04:32 | Tags: [draft](../tag/draft)
+September 15, 2016 04:32 | Tags: [draft](/tag/draft)
 
 ----
 

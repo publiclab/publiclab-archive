@@ -6,12 +6,12 @@ author: donblair
 path: /wiki/raspberry-pi-image-capture.md
 nid: 7659
 uid: 43651
-
+cids: 
 ---
 
 # raspberry pi image capture
 
-by [donblair](../profile/donblair)
+by [donblair](/profile/donblair)
 
 May 17, 2013 18:18 | Tags: 
 

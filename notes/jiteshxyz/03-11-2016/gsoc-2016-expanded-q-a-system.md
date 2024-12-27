@@ -6,16 +6,14 @@ author: jiteshxyz
 path: /notes/jiteshxyz/03-11-2016/gsoc-2016-expanded-q-a-system.md
 nid: 12835
 uid: 468400
-
 cids: 13930,13946,13947,13948,13949,13950,13971,13979,13986,14055,14069
-
 ---
 
 # GSOC 2016 : Expanded Q&A System
 
-by [jiteshxyz](../../../profile/jiteshxyz) | March 11, 2016 23:36
+by [jiteshxyz](/profile/jiteshxyz) | March 11, 2016 23:36
 
-March 11, 2016 23:36 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [coding](../tag/coding), [hidden:response](../tag/hidden:response), [gsoc-2016](../tag/gsoc-2016), [gsoc-2016-proposals](../tag/gsoc-2016-proposals), [response:12827](../tag/response:12827), [first-time-poster](../tag/first-time-poster)
+March 11, 2016 23:36 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [coding](/tag/coding), [hidden:response](/tag/hidden:response), [gsoc-2016](/tag/gsoc-2016), [gsoc-2016-proposals](/tag/gsoc-2016-proposals), [response:12827](/tag/response:12827), [first-time-poster](/tag/first-time-poster)
 
 ----
 

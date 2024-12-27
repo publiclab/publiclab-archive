@@ -6,16 +6,14 @@ author: bhamster
 path: /notes/bhamster/02-05-2021/what-are-other-ways-to-assess-soil-contamination-besides-directly-measuring-contaminant-concentrations.md
 nid: 25605
 uid: 664477
-
 cids: 28138,28139,28142,28150,28154,28160,28162,28163,28281,28360,28361
-
 ---
 
 # What are other ways to assess soil contamination, besides directly measuring contaminant concentrations?
 
-by [bhamster](../../../profile/bhamster) | February 05, 2021 19:05
+by [bhamster](/profile/bhamster) | February 05, 2021 19:05
 
-February 05, 2021 19:05 | Tags: [soil](../tag/soil), [bioassay](../tag/bioassay), [question:soil](../tag/question:soil), [soil-contamination](../tag/soil-contamination), [question:bioassay](../tag/question:bioassay)
+February 05, 2021 19:05 | Tags: [soil](/tag/soil), [bioassay](/tag/bioassay), [question:soil](/tag/question:soil), [soil-contamination](/tag/soil-contamination), [question:bioassay](/tag/question:bioassay)
 
 ----
 

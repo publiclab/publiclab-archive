@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/2-7-2013/feb-20th-public-lab-meetup-somerville-ma.md
 nid: 5911
 uid: 1
-
 cids: 3364,3372,3380,3381,3386,3460,3461,3478,3480,3504,3605
-
 ---
 
 ![](https://publiclab.org/sites/default/files/pirateship-front.jpg)
 
 # Feb 20th Public Lab meetup in Somerville MA
 
-by [warren](../../../profile/warren) | February 07, 2013 14:09
+by [warren](/profile/warren) | February 07, 2013 14:09
 
-February 07, 2013 14:09 | Tags: [meetup](../tag/meetup), [event](../tag/event)
+February 07, 2013 14:09 | Tags: [meetup](/tag/meetup), [event](/tag/event)
 
 ----
 

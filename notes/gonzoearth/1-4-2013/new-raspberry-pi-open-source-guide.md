@@ -6,14 +6,12 @@ author: gonzoearth
 path: /notes/gonzoearth/1-4-2013/new-raspberry-pi-open-source-guide.md
 nid: 5411
 uid: 12
-
 cids: 
-
 ---
 
 # New Raspberry PI open source guide
 
-by [gonzoearth](../../../profile/gonzoearth) | January 04, 2013 16:24
+by [gonzoearth](/profile/gonzoearth) | January 04, 2013 16:24
 
 January 04, 2013 16:24 | Tags: 
 

@@ -6,18 +6,16 @@ author: eustatic
 path: /02-09-2015/attending-frog-church-in-violet-louisiana.md
 nid: 11568
 uid: 379
-
 cids: 11141,26062,26908
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/874/original/16330978035_78828cd868_b_1_.jpg)
 
 # Attending Frog Church in Violet, Louisiana
 
-by [eustatic](../../../profile/eustatic) | February 09, 2015 18:03
+by [eustatic](/profile/eustatic) | February 09, 2015 18:03
 
-February 09, 2015 18:03 | Tags: [gulf-coast](../tag/gulf-coast), [lousiana](../tag/lousiana), [sonicenvironment](../tag/sonicenvironment), [impacts](../tag/impacts), [noise](../tag/noise), [frog](../tag/frog), [aesthetics](../tag/aesthetics)
+February 09, 2015 18:03 | Tags: [gulf-coast](/tag/gulf-coast), [lousiana](/tag/lousiana), [sonicenvironment](/tag/sonicenvironment), [impacts](/tag/impacts), [noise](/tag/noise), [frog](/tag/frog), [aesthetics](/tag/aesthetics)
 
 ----
 

@@ -6,18 +6,16 @@ author: scottvr
 path: /notes/scottvr/07-15-2015/447nm-oops.md
 nid: 12069
 uid: 445249
-
 cids: 12193,12197
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/695/original/1436945689128.jpg)
 
 # 447nm Oops!
 
-by [scottvr](../../../profile/scottvr) | July 15, 2015 07:41
+by [scottvr](/profile/scottvr) | July 15, 2015 07:41
 
-July 15, 2015 07:41 | Tags: [spectrometer](../tag/spectrometer), [laser](../tag/laser), [447nm](../tag/447nm), [oops](../tag/oops)
+July 15, 2015 07:41 | Tags: [spectrometer](/tag/spectrometer), [laser](/tag/laser), [447nm](/tag/447nm), [oops](/tag/oops)
 
 ----
 

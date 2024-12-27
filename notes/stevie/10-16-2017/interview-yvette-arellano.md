@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/10-16-2017/interview-yvette-arellano.md
 nid: 15054
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/950/original/Arellano_650.jpg)
 
 # Interview: Yvette Arellano
 
-by [stevie](../../../profile/stevie) | October 16, 2017 15:27
+by [stevie](/profile/stevie) | October 16, 2017 15:27
 
-October 16, 2017 15:27 | Tags: [gulf-coast](../tag/gulf-coast), [interview](../tag/interview), [blog](../tag/blog), [grassroots](../tag/grassroots), [texas](../tag/texas), [environmental-justice](../tag/environmental-justice), [community-organizing](../tag/community-organizing), [interview-series](../tag/interview-series), [harvey](../tag/harvey), [houston](../tag/houston), [tejas](../tag/tejas), [hurricane-harvey](../tag/hurricane-harvey), [series:community-interviews](../tag/series:community-interviews)
+October 16, 2017 15:27 | Tags: [gulf-coast](/tag/gulf-coast), [interview](/tag/interview), [blog](/tag/blog), [grassroots](/tag/grassroots), [texas](/tag/texas), [environmental-justice](/tag/environmental-justice), [community-organizing](/tag/community-organizing), [interview-series](/tag/interview-series), [harvey](/tag/harvey), [houston](/tag/houston), [tejas](/tag/tejas), [hurricane-harvey](/tag/hurricane-harvey), [series:community-interviews](/tag/series:community-interviews)
 
 ----
 

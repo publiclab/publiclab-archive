@@ -6,18 +6,16 @@ author: bhamster
 path: /notes/bhamster/12-21-2021/communicating-air-quality-data-research-area-review-summary.md
 nid: 28517
 uid: 664477
-
 cids: 29537,29607,30212,30574,30744,30781,31195,31254,31255,31283,31288,31290,31292,31295,31535
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/275/original/leadimage.png)
 
 # Communicating Air Quality Data: Research Area Review Summary
 
-by [bhamster](../../../profile/bhamster) | December 21, 2021 17:11
+by [bhamster](/profile/bhamster) | December 21, 2021 17:11
 
-December 21, 2021 17:11 | Tags: [research](../tag/research), [air-quality](../tag/air-quality), [reviews](../tag/reviews), [environmental-data](../tag/environmental-data), [data-visualization](../tag/data-visualization), [research-area-review](../tag/research-area-review), [presenting-data](../tag/presenting-data), [with:fongvania](../tag/with:fongvania), [pin:air-quality](../tag/pin:air-quality), [air-quality-data](../tag/air-quality-data)
+December 21, 2021 17:11 | Tags: [research](/tag/research), [air-quality](/tag/air-quality), [reviews](/tag/reviews), [environmental-data](/tag/environmental-data), [data-visualization](/tag/data-visualization), [research-area-review](/tag/research-area-review), [presenting-data](/tag/presenting-data), [with:fongvania](/tag/with:fongvania), [pin:air-quality](/tag/pin:air-quality), [air-quality-data](/tag/air-quality-data)
 
 ----
 

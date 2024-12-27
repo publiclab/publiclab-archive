@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/12-09-2017/will-an-arduino-measure-water-depth.md
 nid: 15342
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/865/original/springhouse_20171206-2045.JPG)
 
 # Will an Arduino measure water depth?
 
-by [cfastie](../../../profile/cfastie) | December 09, 2017 02:03
+by [cfastie](/profile/cfastie) | December 09, 2017 02:03
 
-December 09, 2017 02:03 | Tags: [arduino](../tag/arduino), [water-sensing](../tag/water-sensing), [sensors](../tag/sensors), [depth](../tag/depth), [water-depth](../tag/water-depth), [data-logging](../tag/data-logging), [nano-data-logger](../tag/nano-data-logger), [activity:nano-data-logger](../tag/activity:nano-data-logger), [accelerometer](../tag/accelerometer), [mma8451](../tag/mma8451), [series:springhouse-water-level](../tag/series:springhouse-water-level)
+December 09, 2017 02:03 | Tags: [arduino](/tag/arduino), [water-sensing](/tag/water-sensing), [sensors](/tag/sensors), [depth](/tag/depth), [water-depth](/tag/water-depth), [data-logging](/tag/data-logging), [nano-data-logger](/tag/nano-data-logger), [activity:nano-data-logger](/tag/activity:nano-data-logger), [accelerometer](/tag/accelerometer), [mma8451](/tag/mma8451), [series:springhouse-water-level](/tag/series:springhouse-water-level)
 
 ----
 

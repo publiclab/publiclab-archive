@@ -6,18 +6,16 @@ author: mjain26
 path: /notes/mjain26/07-01-2014/youth-balloon-mapping-workshop-second-draft.md
 nid: 10638
 uid: 424870
-
 cids: 9406,9540
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/056/original/Screen_Shot_2014-07-01_at_2.09.48_PM.png)
 
 # Youth Balloon Mapping Workshop (second draft)
 
-by [mjain26](../../../profile/mjain26) | July 01, 2014 19:10
+by [mjain26](/profile/mjain26) | July 01, 2014 19:10
 
-July 01, 2014 19:10 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [curriculum](../tag/curriculum), [youth](../tag/youth), [chicago](../tag/chicago)
+July 01, 2014 19:10 | Tags: [balloon-mapping](/tag/balloon-mapping), [education](/tag/education), [curriculum](/tag/curriculum), [youth](/tag/youth), [chicago](/tag/chicago)
 
 ----
 

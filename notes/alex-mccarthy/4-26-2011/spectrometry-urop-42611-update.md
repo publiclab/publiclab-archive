@@ -6,18 +6,16 @@ author: Alex-McCarthy
 path: /notes/alex-mccarthy/4-26-2011/spectrometry-urop-42611-update.md
 nid: 193
 uid: 125
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0200.JPG)
 
 # Spectrometry UROP 4/26/11 update
 
-by [Alex-McCarthy](../../../profile/Alex-McCarthy) | April 26, 2011 15:45
+by [Alex-McCarthy](/profile/Alex-McCarthy) | April 26, 2011 15:45
 
-April 26, 2011 15:45 | Tags: [spectrometer](../tag/spectrometer), [activity:dsk](../tag/activity:dsk)
+April 26, 2011 15:45 | Tags: [spectrometer](/tag/spectrometer), [activity:dsk](/tag/activity:dsk)
 
 ----
 

@@ -6,18 +6,16 @@ author: melissachecker
 path: /notes/melissachecker/06-18-2014/kite-mapping-on-the-kill-van-kull.md
 nid: 10586
 uid: 424962
-
 cids: 10008
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/838/original/DSC00776.JPG)
 
 # Kite Mapping on the Kill Van Kull
 
-by [melissachecker](../../../profile/melissachecker) | June 18, 2014 16:40
+by [melissachecker](/profile/melissachecker) | June 18, 2014 16:40
 
-June 18, 2014 16:40 | Tags: [new-york-city](../tag/new-york-city), [kite-mapping](../tag/kite-mapping), [new-york](../tag/new-york), [event](../tag/event), [northeast](../tag/northeast), [staten-island](../tag/staten-island), [baykeeper](../tag/baykeeper), [replication:14022](../tag/replication:14022)
+June 18, 2014 16:40 | Tags: [new-york-city](/tag/new-york-city), [kite-mapping](/tag/kite-mapping), [new-york](/tag/new-york), [event](/tag/event), [northeast](/tag/northeast), [staten-island](/tag/staten-island), [baykeeper](/tag/baykeeper), [replication:14022](/tag/replication:14022)
 
 ----
 

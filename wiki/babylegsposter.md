@@ -6,14 +6,14 @@ author: warren
 path: /wiki/babylegsposter.md
 nid: 20768
 uid: 1
-
+cids: 
 ---
 
 # babylegsposter
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-September 04, 2019 13:24 | Tags: [parent:babylegs](../tag/parent:babylegs)
+September 04, 2019 13:24 | Tags: [parent:babylegs](/tag/parent:babylegs)
 
 ----
 

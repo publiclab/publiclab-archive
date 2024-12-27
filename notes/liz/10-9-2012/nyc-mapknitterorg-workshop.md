@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/10-9-2012/nyc-mapknitterorg-workshop.md
 nid: 4288
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20121009_143055.jpg)
 
 # NYC Mapknitter.org workshop
 
-by [liz](../../../profile/liz) | October 09, 2012 19:55
+by [liz](/profile/liz) | October 09, 2012 19:55
 
-October 09, 2012 19:55 | Tags: [event](../tag/event)
+October 09, 2012 19:55 | Tags: [event](/tag/event)
 
 ----
 

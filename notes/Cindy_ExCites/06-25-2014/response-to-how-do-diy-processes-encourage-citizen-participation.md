@@ -6,18 +6,16 @@ author: cindy_excites
 path: /notes/Cindy_ExCites/06-25-2014/response-to-how-do-diy-processes-encourage-citizen-participation.md
 nid: 10616
 uid: 1083
-
 cids: 9272,9302,9305
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/984/original/IMG_1855_%281024x768%29.jpg)
 
 # Response to "How do DIY processes encourage citizen participation?"
 
-by [cindy_excites](../../../profile/cindy_excites) | June 25, 2014 19:31
+by [cindy_excites](/profile/cindy_excites) | June 25, 2014 19:31
 
-June 25, 2014 19:31 | Tags: [kite-mapping](../tag/kite-mapping), [diy](../tag/diy), [civic-science](../tag/civic-science), [crowdsourcing](../tag/crowdsourcing)
+June 25, 2014 19:31 | Tags: [kite-mapping](/tag/kite-mapping), [diy](/tag/diy), [civic-science](/tag/civic-science), [crowdsourcing](/tag/crowdsourcing)
 
 ----
 

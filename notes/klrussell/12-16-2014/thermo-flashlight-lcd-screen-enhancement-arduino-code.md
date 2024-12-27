@@ -6,18 +6,16 @@ author: klrussell
 path: /notes/klrussell/12-16-2014/thermo-flashlight-lcd-screen-enhancement-arduino-code.md
 nid: 11464
 uid: 432708
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/423/original/IMG_20141214_135711.jpg)
 
 # Thermo Flashlight LCD Screen Enhancement - Arduino Code
 
-by [klrussell](../../../profile/klrussell) | December 16, 2014 01:17
+by [klrussell](/profile/klrussell) | December 16, 2014 01:17
 
-December 16, 2014 01:17 | Tags: [code](../tag/code), [arduino-uno](../tag/arduino-uno), [thermo-flashlight](../tag/thermo-flashlight), [lcd-screen](../tag/lcd-screen)
+December 16, 2014 01:17 | Tags: [code](/tag/code), [arduino-uno](/tag/arduino-uno), [thermo-flashlight](/tag/thermo-flashlight), [lcd-screen](/tag/lcd-screen)
 
 ----
 

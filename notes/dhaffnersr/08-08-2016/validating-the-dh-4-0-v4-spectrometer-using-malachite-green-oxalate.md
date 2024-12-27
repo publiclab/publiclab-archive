@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/08-08-2016/validating-the-dh-4-0-v4-spectrometer-using-malachite-green-oxalate.md
 nid: 13340
 uid: 461120
-
 cids: 20436
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/426/original/malachite_green.png)
 
 # Validating The DH 4.0 v4 Spectrometer using - MALACHITE GREEN (Oxalate)
 
-by [dhaffnersr](../../../profile/dhaffnersr) | August 08, 2016 19:09
+by [dhaffnersr](/profile/dhaffnersr) | August 08, 2016 19:09
 
 August 08, 2016 19:09 | Tags: 
 

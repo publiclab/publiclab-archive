@@ -6,18 +6,16 @@ author: viechdokter
 path: /notes/viechdokter/04-13-2016/lost-in-calibration.md
 nid: 12967
 uid: 468990
-
 cids: 14210,14211,14217,14220,14222,14223
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/516/original/cross_section_button.jpg)
 
 # Lost in calibration...
 
-by [viechdokter](../../../profile/viechdokter) | April 13, 2016 14:43
+by [viechdokter](/profile/viechdokter) | April 13, 2016 14:43
 
-April 13, 2016 14:43 | Tags: [calibration](../tag/calibration), [spectrum](../tag/spectrum), [cross-section](../tag/cross-section), [data-extraction](../tag/data-extraction)
+April 13, 2016 14:43 | Tags: [calibration](/tag/calibration), [spectrum](/tag/spectrum), [cross-section](/tag/cross-section), [data-extraction](/tag/data-extraction)
 
 ----
 

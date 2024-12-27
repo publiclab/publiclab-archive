@@ -6,14 +6,14 @@ author: warren
 path: /wiki/nitrates.md
 nid: 18782
 uid: 1
-
+cids: 
 ---
 
 # nitrates
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-March 19, 2019 22:40 | Tags: [redirect:nitrogen](../tag/redirect:nitrogen)
+March 19, 2019 22:40 | Tags: [redirect:nitrogen](/tag/redirect:nitrogen)
 
 ----
 

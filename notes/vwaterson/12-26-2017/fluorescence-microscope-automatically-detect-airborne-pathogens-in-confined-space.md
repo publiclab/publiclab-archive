@@ -6,16 +6,14 @@ author: vwaterson
 path: /notes/vwaterson/12-26-2017/fluorescence-microscope-automatically-detect-airborne-pathogens-in-confined-space.md
 nid: 15435
 uid: 521239
-
 cids: 18045,18047,18048,18049,18060,18063,18066
-
 ---
 
 # Fluorescence microscope - automatically detect airborne pathogens in confined space?
 
-by [vwaterson](../../../profile/vwaterson) | December 26, 2017 19:21
+by [vwaterson](/profile/vwaterson) | December 26, 2017 19:21
 
-December 26, 2017 19:21 | Tags: [fluorescence](../tag/fluorescence), [question:general](../tag/question:general), [microscopes](../tag/microscopes), [pathogens](../tag/pathogens)
+December 26, 2017 19:21 | Tags: [fluorescence](/tag/fluorescence), [question:general](/tag/question:general), [microscopes](/tag/microscopes), [pathogens](/tag/pathogens)
 
 ----
 

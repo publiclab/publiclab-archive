@@ -6,16 +6,16 @@ author: warren
 path: /wiki/oil-testing-kit.md
 nid: 10112
 uid: 1
-
+cids: 25633
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/271/original/IMG_20150521_145931_2.jpg)
 
 # Oil Testing Kit
 
-by [warren](../profile/warren), [stevie](../profile/stevie), [pdhixenbaugh](../profile/pdhixenbaugh), [MelissaN](../profile/MelissaN), [mathew](../profile/mathew), [gretchengehrke](../profile/gretchengehrke), [mollydanielsson](../profile/mollydanielsson), [bsugar](../profile/bsugar), [Shannon](../profile/Shannon), [liz](../profile/liz)
+by [warren](/profile/warren), [stevie](/profile/stevie), [pdhixenbaugh](/profile/pdhixenbaugh), [MelissaN](/profile/MelissaN), [mathew](/profile/mathew), [gretchengehrke](/profile/gretchengehrke), [mollydanielsson](/profile/mollydanielsson), [bsugar](/profile/bsugar), [Shannon](/profile/Shannon), [liz](/profile/liz)
 
-March 06, 2014 13:58 | Tags: [spectrometer](../tag/spectrometer), [oil-spill](../tag/oil-spill), [oil](../tag/oil), [illustrated-guides](../tag/illustrated-guides), [sample-prep](../tag/sample-prep), [sampling](../tag/sampling), [instructions](../tag/instructions), [oil-testing](../tag/oil-testing), [oil-testing-kit](../tag/oil-testing-kit), [prompt:oil-testing-kit](../tag/prompt:oil-testing-kit), [parent:spectrometry](../tag/parent:spectrometry)
+March 06, 2014 13:58 | Tags: [spectrometer](/tag/spectrometer), [oil-spill](/tag/oil-spill), [oil](/tag/oil), [illustrated-guides](/tag/illustrated-guides), [sample-prep](/tag/sample-prep), [sampling](/tag/sampling), [instructions](/tag/instructions), [oil-testing](/tag/oil-testing), [oil-testing-kit](/tag/oil-testing-kit), [prompt:oil-testing-kit](/tag/prompt:oil-testing-kit), [parent:spectrometry](/tag/parent:spectrometry)
 
 ----
 
@@ -56,7 +56,7 @@ Related pages |
 
 ## Questions
 
-[oil-testing-kit](../../tag/question:oil-testing-kit)
+[oil-testing-kit](/tag/question:oil-testing-kit)
 
 ****
 

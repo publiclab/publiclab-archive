@@ -6,18 +6,16 @@ author: eustatic
 path: /11-09-2013/bayou-bienvenue-wetland-triangle-signage-unveiling-and-press-conference.md
 nid: 9756
 uid: 379
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/186/original/10506242995_cf27e0e056_1_.jpg)
 
 # Bayou Bienvenue Wetland Triangle Signage Unveiling and Press Conference
 
-by [eustatic](../../../profile/eustatic) | November 09, 2013 23:51
+by [eustatic](/profile/eustatic) | November 09, 2013 23:51
 
-November 09, 2013 23:51 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [bienvenue](../tag/bienvenue)
+November 09, 2013 23:51 | Tags: [gulf-coast](/tag/gulf-coast), [event](/tag/event), [bienvenue](/tag/bienvenue)
 
 ----
 

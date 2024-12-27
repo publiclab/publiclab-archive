@@ -6,18 +6,16 @@ author: ajawitz
 path: /notes/code4maine/01-22-2014/thermal-flashlight-using-mlx90614-ir-evaluation-board-from-sparkfun.md
 nid: 9962
 uid: 294634
-
 cids: 8060,8061,8064,8065,8066,15968
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/601/original/SparkfunEval.jpg)
 
 # Thermal Flashlight Using MLX90614 IR Evaluation Board From Sparkfun 
 
-by [ajawitz](../../../profile/ajawitz) | January 22, 2014 19:44
+by [ajawitz](/profile/ajawitz) | January 22, 2014 19:44
 
-January 22, 2014 19:44 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-camera](../tag/thermal-camera), [tool](../tag/tool), [response:9922](../tag/response:9922), [activity:thermal-flashlight](../tag/activity:thermal-flashlight), [upgrade:thermal-flashlight](../tag/upgrade:thermal-flashlight)
+January 22, 2014 19:44 | Tags: [thermal-photography](/tag/thermal-photography), [thermal-flashlight](/tag/thermal-flashlight), [thermal-camera](/tag/thermal-camera), [tool](/tag/tool), [response:9922](/tag/response:9922), [activity:thermal-flashlight](/tag/activity:thermal-flashlight), [upgrade:thermal-flashlight](/tag/upgrade:thermal-flashlight)
 
 ----
 

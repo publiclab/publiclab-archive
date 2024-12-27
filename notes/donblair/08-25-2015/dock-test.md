@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/08-25-2015/dock-test.md
 nid: 12169
 uid: 43651
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/274/original/thermal-tape.JPG)
 
 # Dock Test!
 
-by [donblair](../../../profile/donblair) | August 25, 2015 21:16
+by [donblair](/profile/donblair) | August 25, 2015 21:16
 
-August 25, 2015 21:16 | Tags: [thermal-fishing-bob](../tag/thermal-fishing-bob), [riffle](../tag/riffle), [open-water](../tag/open-water), [riffle-examples](../tag/riffle-examples)
+August 25, 2015 21:16 | Tags: [thermal-fishing-bob](/tag/thermal-fishing-bob), [riffle](/tag/riffle), [open-water](/tag/open-water), [riffle-examples](/tag/riffle-examples)
 
 ----
 

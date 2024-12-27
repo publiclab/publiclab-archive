@@ -6,14 +6,12 @@ author: manomac
 path: /notes/manomac/12-08-2014/vehicular-emission-sense-and-control-using-sensors-and-actuators.md
 nid: 11443
 uid: 432444
-
 cids: 
-
 ---
 
 # Vehicular emission sense and control using sensors and actuators
 
-by [manomac](../../../profile/manomac) | December 08, 2014 07:19
+by [manomac](/profile/manomac) | December 08, 2014 07:19
 
 December 08, 2014 07:19 | Tags: 
 

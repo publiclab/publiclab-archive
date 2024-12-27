@@ -6,18 +6,16 @@ author: ToF
 path: /notes/tof/9-9-2012/designing-spectrometer-1nm-range-10-part-1.md
 nid: 3702
 uid: 42340
-
 cids: 1293,1294,1295,1296,1302,1316,1629
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Handdrawing.jpg)
 
 # Designing a Spectrometer in the 1nm range for <10$ - PART 1
 
-by [ToF](../../../profile/ToF) | September 09, 2012 18:17
+by [ToF](/profile/ToF) | September 09, 2012 18:17
 
-September 09, 2012 18:17 | Tags: [spectrometer](../tag/spectrometer), [digicam](../tag/digicam), [nanometer](../tag/nanometer), [slide-mount](../tag/slide-mount), [first-time-poster](../tag/first-time-poster)
+September 09, 2012 18:17 | Tags: [spectrometer](/tag/spectrometer), [digicam](/tag/digicam), [nanometer](/tag/nanometer), [slide-mount](/tag/slide-mount), [first-time-poster](/tag/first-time-poster)
 
 ----
 

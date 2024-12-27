@@ -6,18 +6,16 @@ author: Hudonnoodles
 path: /notes/hudonnoodles/3-1-2013/boston-plots-meetup-synopsis-220.md
 nid: 6153
 uid: 102
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0131-IMG_0133b.jpg)
 
 # Boston PLOTS -- Meetup Synopsis for 2/20
 
-by [Hudonnoodles](../../../profile/Hudonnoodles) | March 01, 2013 14:21
+by [Hudonnoodles](/profile/Hudonnoodles) | March 01, 2013 14:21
 
-March 01, 2013 14:21 | Tags: [boston](../tag/boston), [event](../tag/event), [desktop-spectrometer](../tag/desktop-spectrometer)
+March 01, 2013 14:21 | Tags: [boston](/tag/boston), [event](/tag/event), [desktop-spectrometer](/tag/desktop-spectrometer)
 
 ----
 

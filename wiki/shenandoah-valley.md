@@ -6,16 +6,16 @@ author: Shannon
 path: /wiki/shenandoah-valley.md
 nid: 2918
 uid: 9
-
+cids: 
 ---
 
 ![](https://publiclab.org/sites/default/files/New_1.jpg)
 
 # Shenandoah Valley
 
-by [liz](../profile/liz), [adam-griffith](../profile/adam-griffith), [gonzoearth](../profile/gonzoearth), [Shannon](../profile/Shannon)
+by [liz](/profile/liz), [adam-griffith](/profile/adam-griffith), [gonzoearth](/profile/gonzoearth), [Shannon](/profile/Shannon)
 
-July 20, 2012 16:34 | Tags: [chapter](../tag/chapter), [list:plots-southeast](../tag/list:plots-southeast), [southeast](../tag/southeast), [parent:southeast](../tag/parent:southeast)
+July 20, 2012 16:34 | Tags: [chapter](/tag/chapter), [list:plots-southeast](/tag/list:plots-southeast), [southeast](/tag/southeast), [parent:southeast](/tag/parent:southeast)
 
 ----
 

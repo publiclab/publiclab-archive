@@ -6,16 +6,14 @@ author: caseyrcampbell327
 path: /notes/caseyrcampbell327/10-06-2014/sensor-journalism-water-conductivity-reflection.md
 nid: 11237
 uid: 427892
-
 cids: 10506
-
 ---
 
 # Sensor Journalism & Water Conductivity Reflection 
 
-by [caseyrcampbell327](../../../profile/caseyrcampbell327) | October 06, 2014 14:34
+by [caseyrcampbell327](/profile/caseyrcampbell327) | October 06, 2014 14:34
 
-October 06, 2014 14:34 | Tags: [sensor-journalism](../tag/sensor-journalism)
+October 06, 2014 14:34 | Tags: [sensor-journalism](/tag/sensor-journalism)
 
 ----
 

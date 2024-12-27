@@ -6,18 +6,16 @@ author: NataCabrera
 path: /notes/NataCabrera/11-10-2015/video-de-ciencia-al-parque-cuenca-ecuador.md
 nid: 12394
 uid: 457248
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/639/original/Captura_de_pantalla_2015-11-10_a_la%28s%29_11.32.31.png)
 
 # Video de Ciencia al Parque, Cuenca-Ecuador
 
-by [NataCabrera](../../../profile/NataCabrera) | November 10, 2015 16:35
+by [NataCabrera](/profile/NataCabrera) | November 10, 2015 16:35
 
-November 10, 2015 16:35 | Tags: [lang:es](../tag/lang:es), [ecuador](../tag/ecuador), [llactalab](../tag/llactalab), [cuenca](../tag/cuenca)
+November 10, 2015 16:35 | Tags: [lang:es](/tag/lang:es), [ecuador](/tag/ecuador), [llactalab](/tag/llactalab), [cuenca](/tag/cuenca)
 
 ----
 

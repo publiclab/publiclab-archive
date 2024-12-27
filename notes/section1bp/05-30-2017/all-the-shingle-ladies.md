@@ -6,18 +6,16 @@ author: section1bp
 path: /notes/section1bp/05-30-2017/all-the-shingle-ladies.md
 nid: 14241
 uid: 506910
-
 cids: 16909
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/578/original/IMG_0566.JPG)
 
 # All the Shingle Ladies 
 
-by [section1bp](../../../profile/section1bp) | May 30, 2017 16:16
+by [section1bp](/profile/section1bp) | May 30, 2017 16:16
 
-May 30, 2017 16:16 | Tags: [balloon-mapping](../tag/balloon-mapping), [event](../tag/event), [hidden:response](../tag/hidden:response), [response:14179](../tag/response:14179), [roof](../tag/roof), [shingle](../tag/shingle), [dorm](../tag/dorm)
+May 30, 2017 16:16 | Tags: [balloon-mapping](/tag/balloon-mapping), [event](/tag/event), [hidden:response](/tag/hidden:response), [response:14179](/tag/response:14179), [roof](/tag/roof), [shingle](/tag/shingle), [dorm](/tag/dorm)
 
 ----
 

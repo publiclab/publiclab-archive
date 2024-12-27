@@ -6,18 +6,16 @@ author: JoshMc
 path: /notes/joshmc/10-12-2012/webcam-conversion-near-infrared.md
 nid: 4389
 uid: 995
-
 cids: 1653,2620,2799,2800,3186,3189,4228,4230,4231,4232,4233,4236,4246,4248,4249,4251,4278,4704,4791,4792,4793,6767,6768,7093,7100,7128,7921,7922,7923,7924,7927,8120,8251,8708,11981
-
 ---
 
 ![](https://publiclab.org/sites/default/files/5593190_0.jpg)
 
 # Webcam Conversion to (Near-) Infrared
 
-by [JoshMc](../../../profile/JoshMc) | October 13, 2012 03:12
+by [JoshMc](/profile/JoshMc) | October 13, 2012 03:12
 
-October 13, 2012 03:12 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nir](../tag/nir), [infrared](../tag/infrared), [webcam](../tag/webcam), [near-infrared](../tag/near-infrared), [ir](../tag/ir), [conversion](../tag/conversion), [filter](../tag/filter), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion)
+October 13, 2012 03:12 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [nir](/tag/nir), [infrared](/tag/infrared), [webcam](/tag/webcam), [near-infrared](/tag/near-infrared), [ir](/tag/ir), [conversion](/tag/conversion), [filter](/tag/filter), [activity:infrared-camera-conversion](/tag/activity:infrared-camera-conversion)
 
 ----
 

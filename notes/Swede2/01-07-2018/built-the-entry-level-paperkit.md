@@ -6,18 +6,16 @@ author: Swede2
 path: /notes/Swede2/01-07-2018/built-the-entry-level-paperkit.md
 nid: 15472
 uid: 521609
-
 cids: 18107,18111,18115,18185,18186,18188,18189
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/122/original/PIC2.jpg)
 
 # Built the entry level paperkit
 
-by [Swede2](../../../profile/Swede2) | January 07, 2018 16:22
+by [Swede2](/profile/Swede2) | January 07, 2018 16:22
 
-January 07, 2018 16:22 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [assembly](../tag/assembly), [kit](../tag/kit), [instructions](../tag/instructions), [smartphone](../tag/smartphone), [foldable](../tag/foldable), [papercraft](../tag/papercraft), [spectral](../tag/spectral), [smart](../tag/smart), [beginner](../tag/beginner), [starter](../tag/starter), [starterkit](../tag/starterkit), [phone](../tag/phone), [printable](../tag/printable), [replication:13577](../tag/replication:13577)
+January 07, 2018 16:22 | Tags: [spectrometer](/tag/spectrometer), [spectralworkbench](/tag/spectralworkbench), [assembly](/tag/assembly), [kit](/tag/kit), [instructions](/tag/instructions), [smartphone](/tag/smartphone), [foldable](/tag/foldable), [papercraft](/tag/papercraft), [spectral](/tag/spectral), [smart](/tag/smart), [beginner](/tag/beginner), [starter](/tag/starter), [starterkit](/tag/starterkit), [phone](/tag/phone), [printable](/tag/printable), [replication:13577](/tag/replication:13577)
 
 ----
 

@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/09-06-2013/mobius-stripped.md
 nid: 9296
 uid: 554
-
 cids: 6762,6763,8544,8546,8547,8548,8549,8550,8557,8576,8581,8588,8589,8590,8621
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/413/original/mobiusInfRGBchan1800.jpg)
 
 # Mobius, stripped
 
-by [cfastie](../../../profile/cfastie) | September 06, 2013 01:13
+by [cfastie](/profile/cfastie) | September 06, 2013 01:13
 
-September 06, 2013 01:13 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [histogram](../tag/histogram), [infragram-conversion](../tag/infragram-conversion), [infragram-sandbox](../tag/infragram-sandbox), [mobius-actioncam](../tag/mobius-actioncam), [rcgroups](../tag/rcgroups), [response:9293](../tag/response:9293)
+September 06, 2013 01:13 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [infragram](/tag/infragram), [histogram](/tag/histogram), [infragram-conversion](/tag/infragram-conversion), [infragram-sandbox](/tag/infragram-sandbox), [mobius-actioncam](/tag/mobius-actioncam), [rcgroups](/tag/rcgroups), [response:9293](/tag/response:9293)
 
 ----
 

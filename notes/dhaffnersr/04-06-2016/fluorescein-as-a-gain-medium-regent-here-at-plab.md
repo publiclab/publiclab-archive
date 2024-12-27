@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/04-06-2016/fluorescein-as-a-gain-medium-regent-here-at-plab.md
 nid: 12926
 uid: 461120
-
 cids: 14192,14199,14200,14201,14203,14206
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/372/original/prolight_led_eosin_y_apr4.JPG)
 
 # Fluorescein as a gain medium regent here at Plab
 
-by [dhaffnersr](../../../profile/dhaffnersr) | April 06, 2016 14:58
+by [dhaffnersr](/profile/dhaffnersr) | April 06, 2016 14:58
 
 April 06, 2016 14:58 | Tags: 
 

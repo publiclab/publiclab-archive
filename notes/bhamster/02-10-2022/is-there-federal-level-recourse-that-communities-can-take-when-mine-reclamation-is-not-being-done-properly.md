@@ -6,16 +6,14 @@ author: bhamster
 path: /notes/bhamster/02-10-2022/is-there-federal-level-recourse-that-communities-can-take-when-mine-reclamation-is-not-being-done-properly.md
 nid: 30019
 uid: 664477
-
 cids: 29860
-
 ---
 
 # Is there federal-level recourse that communities can take when mine reclamation is not being done properly?
 
-by [bhamster](../../../profile/bhamster) | February 10, 2022 19:23
+by [bhamster](/profile/bhamster) | February 10, 2022 19:23
 
-February 10, 2022 19:23 | Tags: [epa](../tag/epa), [regulations](../tag/regulations), [question:regulations](../tag/question:regulations), [reclamation](../tag/reclamation), [mine-reclamation](../tag/mine-reclamation), [question:mine-reclamation](../tag/question:mine-reclamation), [question:reclamation](../tag/question:reclamation)
+February 10, 2022 19:23 | Tags: [epa](/tag/epa), [regulations](/tag/regulations), [question:regulations](/tag/question:regulations), [reclamation](/tag/reclamation), [mine-reclamation](/tag/mine-reclamation), [question:mine-reclamation](/tag/question:mine-reclamation), [question:reclamation](/tag/question:reclamation)
 
 ----
 

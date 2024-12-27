@@ -6,16 +6,16 @@ author: warren
 path: /wiki/about.md
 nid: 4
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/137/original/PublicLabBarnraising2013Group_crop.jpg)
 
 # About Public Lab
 
-by [liz](../profile/liz), [thewrightjess](../profile/thewrightjess), [joyofsoy](../profile/joyofsoy), [Shannon](../profile/Shannon), [warren](../profile/warren), [stevie](../profile/stevie), [ygzstc](../profile/ygzstc), [Becki](../profile/Becki), [assethomes](../profile/assethomes), [Charles_Hamilton](../profile/Charles_Hamilton), [kalako23](../profile/kalako23), [gonzoearth](../profile/gonzoearth)
+by [liz](/profile/liz), [thewrightjess](/profile/thewrightjess), [joyofsoy](/profile/joyofsoy), [Shannon](/profile/Shannon), [warren](/profile/warren), [stevie](/profile/stevie), [ygzstc](/profile/ygzstc), [Becki](/profile/Becki), [assethomes](/profile/assethomes), [Charles_Hamilton](/profile/Charles_Hamilton), [kalako23](/profile/kalako23), [gonzoearth](/profile/gonzoearth)
 
-December 07, 2010 04:25 | Tags: [style:wide](../tag/style:wide), [about](../tag/about)
+December 07, 2010 04:25 | Tags: [style:wide](/tag/style:wide), [about](/tag/about)
 
 ----
 

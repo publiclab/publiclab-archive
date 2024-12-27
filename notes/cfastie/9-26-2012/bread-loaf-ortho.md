@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/9-26-2012/bread-loaf-ortho.md
 nid: 4026
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/LEAFBread-20120922-1157.jpg)
 
 # Bread Loaf Ortho
 
-by [cfastie](../../../profile/cfastie) | September 26, 2012 21:38
+by [cfastie](/profile/cfastie) | September 26, 2012 21:38
 
-September 26, 2012 21:38 | Tags: [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [leaffest](../tag/leaffest), [leaffest2012](../tag/leaffest2012), [gps](../tag/gps)
+September 26, 2012 21:38 | Tags: [kite-mapping](/tag/kite-mapping), [mapknitter](/tag/mapknitter), [leaffest](/tag/leaffest), [leaffest2012](/tag/leaffest2012), [gps](/tag/gps)
 
 ----
 

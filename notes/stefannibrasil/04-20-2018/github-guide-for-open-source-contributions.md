@@ -6,16 +6,14 @@ author: stefannibrasil
 path: /notes/stefannibrasil/04-20-2018/github-guide-for-open-source-contributions.md
 nid: 16176
 uid: 525300
-
 cids: 19468,19469,19484,19492,19500,25659,25661,25680
-
 ---
 
 # Github guide for Open Source Contributions
 
-by [stefannibrasil](../../../profile/stefannibrasil) | April 20, 2018 04:15
+by [stefannibrasil](/profile/stefannibrasil) | April 20, 2018 04:15
 
-April 20, 2018 04:15 | Tags: [open-source](../tag/open-source), [software](../tag/software), [developers](../tag/developers), [code](../tag/code), [coding](../tag/coding), [barnstar:basic](../tag/barnstar:basic), [github](../tag/github), [activity:software](../tag/activity:software), [git](../tag/git), [activity:developers](../tag/activity:developers), [activity:coding](../tag/activity:coding)
+April 20, 2018 04:15 | Tags: [open-source](/tag/open-source), [software](/tag/software), [developers](/tag/developers), [code](/tag/code), [coding](/tag/coding), [barnstar:basic](/tag/barnstar:basic), [github](/tag/github), [activity:software](/tag/activity:software), [git](/tag/git), [activity:developers](/tag/activity:developers), [activity:coding](/tag/activity:coding)
 
 ----
 

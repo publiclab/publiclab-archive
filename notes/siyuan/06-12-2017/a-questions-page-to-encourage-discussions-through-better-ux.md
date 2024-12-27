@@ -6,16 +6,14 @@ author: siyuan
 path: /notes/siyuan/06-12-2017/a-questions-page-to-encourage-discussions-through-better-ux.md
 nid: 14523
 uid: 508697
-
 cids: 16861,16863,16891,16962,17027,17460,17461,18440,21430,21431,21433,21742,21743,21951
-
 ---
 
 # A Questions page to encourage discussions through better UX
 
-by [siyuan](../../../profile/siyuan) | June 12, 2017 19:26
+by [siyuan](/profile/siyuan) | June 12, 2017 19:26
 
-June 12, 2017 19:26 | Tags: [website](../tag/website), [software](../tag/software), [barnstar:basic](../tag/barnstar:basic), [ux](../tag/ux), [ui](../tag/ui), [interface-design](../tag/interface-design), [user-interface](../tag/user-interface)
+June 12, 2017 19:26 | Tags: [website](/tag/website), [software](/tag/software), [barnstar:basic](/tag/barnstar:basic), [ux](/tag/ux), [ui](/tag/ui), [interface-design](/tag/interface-design), [user-interface](/tag/user-interface)
 
 ----
 

@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/03-22-2016/new-cuvette-holder-design-and-rhodamine-b-testing.md
 nid: 12875
 uid: 461120
-
 cids: 14023,14037,14038
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/166/original/PIC_0110.JPG)
 
 # New cuvette holder design and Rhodamine B testing
 
-by [dhaffnersr](../../../profile/dhaffnersr) | March 22, 2016 15:38
+by [dhaffnersr](/profile/dhaffnersr) | March 22, 2016 15:38
 
 March 22, 2016 15:38 | Tags: 
 

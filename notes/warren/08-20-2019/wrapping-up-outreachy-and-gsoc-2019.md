@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/08-20-2019/wrapping-up-outreachy-and-gsoc-2019.md
 nid: 20602
 uid: 1
-
 cids: 25290,25291,25292,25595
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/711/original/image.png)
 
 # Wrapping up Outreachy and GSoC 2019
 
-by [warren](../../../profile/warren) | August 20, 2019 20:53
+by [warren](/profile/warren) | August 20, 2019 20:53
 
-August 20, 2019 20:53 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [code](../tag/code), [soc](../tag/soc), [outreachy](../tag/outreachy), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [outreachy-2019](../tag/outreachy-2019), [gsoc-2019-final-report](../tag/gsoc-2019-final-report)
+August 20, 2019 20:53 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [code](/tag/code), [soc](/tag/soc), [outreachy](/tag/outreachy), [gsoc-2019](/tag/gsoc-2019), [soc-2019](/tag/soc-2019), [outreachy-2019](/tag/outreachy-2019), [gsoc-2019-final-report](/tag/gsoc-2019-final-report)
 
 ----
 

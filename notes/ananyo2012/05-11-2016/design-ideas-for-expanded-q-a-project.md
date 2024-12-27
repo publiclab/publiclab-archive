@@ -6,18 +6,16 @@ author: ananyo2012
 path: /notes/ananyo2012/05-11-2016/design-ideas-for-expanded-q-a-project.md
 nid: 13101
 uid: 468506
-
 cids: 14587,14588,14592,14593,14594,14595,14596,14597,14598,14683,14684
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/254/original/question_index_page.jpg)
 
 # Design Ideas for Expanded Q & A Project
 
-by [ananyo2012](../../../profile/ananyo2012) | May 11, 2016 01:55
+by [ananyo2012](/profile/ananyo2012) | May 11, 2016 01:55
 
-May 11, 2016 01:55 | Tags: [software](../tag/software), [design](../tag/design), [gsoc](../tag/gsoc), [web](../tag/web), [developers](../tag/developers), [gsoc-2016](../tag/gsoc-2016), [q-and-a](../tag/q-and-a), [ui](../tag/ui)
+May 11, 2016 01:55 | Tags: [software](/tag/software), [design](/tag/design), [gsoc](/tag/gsoc), [web](/tag/web), [developers](/tag/developers), [gsoc-2016](/tag/gsoc-2016), [q-and-a](/tag/q-and-a), [ui](/tag/ui)
 
 ----
 

@@ -6,12 +6,12 @@ author: warren
 path: /wiki/mapknitter-test.md
 nid: 18526
 uid: 1
-
+cids: 
 ---
 
 # mapknitter-test
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 March 12, 2019 21:28 | Tags: 
 

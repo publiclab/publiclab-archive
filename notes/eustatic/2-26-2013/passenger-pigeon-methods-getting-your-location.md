@@ -6,18 +6,16 @@ author: eustatic
 path: /2-26-2013/passenger-pigeon-methods-getting-your-location.md
 nid: 6130
 uid: 379
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/msy to phx.png)
 
 # Passenger Pigeon methods:  getting your location, the hacky way
 
-by [eustatic](../../../profile/eustatic) | February 26, 2013 22:59
+by [eustatic](/profile/eustatic) | February 26, 2013 22:59
 
-February 26, 2013 22:59 | Tags: [kite-mapping](../tag/kite-mapping), [passenger-pigeon](../tag/passenger-pigeon), [united-states](../tag/united-states), [activity:passenger-pigeon](../tag/activity:passenger-pigeon)
+February 26, 2013 22:59 | Tags: [kite-mapping](/tag/kite-mapping), [passenger-pigeon](/tag/passenger-pigeon), [united-states](/tag/united-states), [activity:passenger-pigeon](/tag/activity:passenger-pigeon)
 
 ----
 

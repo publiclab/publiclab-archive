@@ -6,16 +6,14 @@ author: robotfarms
 path: /notes/robotfarms/10-15-2017/can-i-use-an-nir-led-to-help-make-weeds-or-plants-stand-out-even-more-with-an-nir-camera.md
 nid: 15052
 uid: 516361
-
 cids: 17528,17531,17532,17534,22668
-
 ---
 
 # Can I use an NIR LED to help make weeds (or plants) stand out even more with an NIR camera?
 
-by [robotfarms](../../../profile/robotfarms) | October 15, 2017 12:43
+by [robotfarms](/profile/robotfarms) | October 15, 2017 12:43
 
-October 15, 2017 12:43 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nir](../tag/nir), [infrared](../tag/infrared), [infragram](../tag/infragram), [answered](../tag/answered), [question:general](../tag/question:general)
+October 15, 2017 12:43 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [nir](/tag/nir), [infrared](/tag/infrared), [infragram](/tag/infragram), [answered](/tag/answered), [question:general](/tag/question:general)
 
 ----
 

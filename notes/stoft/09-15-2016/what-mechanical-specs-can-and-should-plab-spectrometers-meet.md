@@ -6,16 +6,14 @@ author: stoft
 path: /notes/stoft/09-15-2016/what-mechanical-specs-can-and-should-plab-spectrometers-meet.md
 nid: 13451
 uid: 54025
-
 cids: 15395,15456,15458,15556,15558,15631,15633,22282,22284,22287,22288,22289,22296,22297,22298,22299,22317,22333
-
 ---
 
 # What mechanical specs can and should PLab spectrometers meet?
 
-by [stoft](../../../profile/stoft) | September 15, 2016 19:58
+by [stoft](/profile/stoft) | September 15, 2016 19:58
 
-September 15, 2016 19:58 | Tags: [spectrometry](../tag/spectrometry), [question:spectrometry](../tag/question:spectrometry), [1](../tag/1), [question:dssk](../tag/question:dssk)
+September 15, 2016 19:58 | Tags: [spectrometry](/tag/spectrometry), [question:spectrometry](/tag/question:spectrometry), [1](/tag/1), [question:dssk](/tag/question:dssk)
 
 ----
 

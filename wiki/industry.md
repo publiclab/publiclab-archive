@@ -6,16 +6,16 @@ author: stevie
 path: /wiki/industry.md
 nid: 21064
 uid: 422561
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/551/original/industry-525119_1280.jpg)
 
 # Industry
 
-by [stevie](../profile/stevie)
+by [stevie](/profile/stevie)
 
-October 03, 2019 14:26 | Tags: [industry](../tag/industry)
+October 03, 2019 14:26 | Tags: [industry](/tag/industry)
 
 ----
 
@@ -50,10 +50,10 @@ Here are some topics related to Industry on Public Lab:
 
 
 ###Recent questions
-[industry](../../tag/question:industry)
+[industry](/tag/question:industry)
 
 ###Recent posts: 
-[industry](../../tag/industry)
+[industry](/tag/industry)
 
 ###Monitoring methods and wiki pages:
 [wikis:industry]

@@ -6,12 +6,12 @@ author: liz
 path: /wiki/sandbox-community-science.md
 nid: 27693
 uid: 7
-
+cids: 
 ---
 
 # sandbox community science
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
 September 07, 2021 18:13 | Tags: 
 

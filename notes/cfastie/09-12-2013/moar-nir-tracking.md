@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/09-12-2013/moar-nir-tracking.md
 nid: 9316
 uid: 554
-
 cids: 6811,6813,6821,6824,6826,6827
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/496/original/NIRLED-225-6-Edit.jpg)
 
 # Moar NIR tracking
 
-by [cfastie](../../../profile/cfastie) | September 12, 2013 02:58
+by [cfastie](/profile/cfastie) | September 12, 2013 02:58
 
-September 12, 2013 02:58 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [infrared](../tag/infrared), [leaffest](../tag/leaffest), [infragram](../tag/infragram), [histogram](../tag/histogram), [led](../tag/led), [leaffest2013](../tag/leaffest2013), [frosted-globe](../tag/frosted-globe)
+September 12, 2013 02:58 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [vermont](/tag/vermont), [infrared](/tag/infrared), [leaffest](/tag/leaffest), [infragram](/tag/infragram), [histogram](/tag/histogram), [led](/tag/led), [leaffest2013](/tag/leaffest2013), [frosted-globe](/tag/frosted-globe)
 
 ----
 

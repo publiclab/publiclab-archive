@@ -6,18 +6,16 @@ author: epongrat
 path: /notes/epongrat/11-19-2014/the-sensor-is-gathering-data.md
 nid: 11369
 uid: 428825
-
 cids: 10806,10807,10872
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/014/original/sensor_ozone.jpg)
 
 # Pollution to Solution: The sensor is gathering data!
 
-by [epongrat](../../../profile/epongrat) | November 19, 2014 20:53
+by [epongrat](/profile/epongrat) | November 19, 2014 20:53
 
-November 19, 2014 20:53 | Tags: [air-quality](../tag/air-quality), [umass-amherst](../tag/umass-amherst), [amherst-media](../tag/amherst-media), [5-college](../tag/5-college), [publiclab-at-umass](../tag/publiclab-at-umass)
+November 19, 2014 20:53 | Tags: [air-quality](/tag/air-quality), [umass-amherst](/tag/umass-amherst), [amherst-media](/tag/amherst-media), [5-college](/tag/5-college), [publiclab-at-umass](/tag/publiclab-at-umass)
 
 ----
 

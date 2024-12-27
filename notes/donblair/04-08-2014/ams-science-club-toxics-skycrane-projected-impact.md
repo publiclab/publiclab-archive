@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/04-08-2014/ams-science-club-toxics-skycrane-projected-impact.md
 nid: 10284
 uid: 43651
-
 cids: 8714,8716,8722
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/572/original/skycranefromabove.jpeg)
 
 # AMS Science Club: Toxics Skycrane + Projected Impacts
 
-by [donblair](../../../profile/donblair) | April 08, 2014 21:48
+by [donblair](/profile/donblair) | April 08, 2014 21:48
 
-April 08, 2014 21:48 | Tags: [balloon-mapping](../tag/balloon-mapping)
+April 08, 2014 21:48 | Tags: [balloon-mapping](/tag/balloon-mapping)
 
 ----
 

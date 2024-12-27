@@ -6,16 +6,16 @@ author: omarion
 path: /wiki/wateristic-and-underwater-bioluminescence-detector.md
 nid: 20996
 uid: 622967
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/451/original/bioluniescence.jpg)
 
 # Wateristic: an underwater bioluminescence detector
 
-by [stevie](../profile/stevie), [omarion](../profile/omarion)
+by [stevie](/profile/stevie), [omarion](/profile/omarion)
 
-September 26, 2019 17:10 | Tags: [arduino](../tag/arduino), [water](../tag/water), [underwater](../tag/underwater), [project](../tag/project), [underwater-image](../tag/underwater-image), [water-sensor](../tag/water-sensor), [wateristic](../tag/wateristic)
+September 26, 2019 17:10 | Tags: [arduino](/tag/arduino), [water](/tag/water), [underwater](/tag/underwater), [project](/tag/project), [underwater-image](/tag/underwater-image), [water-sensor](/tag/water-sensor), [wateristic](/tag/wateristic)
 
 ----
 
@@ -51,17 +51,17 @@ Interested in following along in the project? Subscribe to the tag below to get 
  
 <a class="btn btn-large btn-primary" href="https://publiclab.org/subscribe/tag/wateristic">Subscribe to updates on this project </a>
 
-[wateristic!question:wateristic](../../tag/wateristic!question:wateristic) 
+[wateristic!question:wateristic](/tag/wateristic!question:wateristic) 
 
 ### Questions
 
-[wateristic](../../tag/question:wateristic)
+[wateristic](/tag/question:wateristic)
 
 ****
 
 ### Activities we’ve done in our project
 
-[wateristic](../../tag/activity:wateristic)
+[wateristic](/tag/activity:wateristic)
 
 ### Data
 

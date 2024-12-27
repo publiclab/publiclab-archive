@@ -6,18 +6,16 @@ author: TheChessGym
 path: /notes/TheChessGym/02-22-2022/microplastics-intrusion-to-the-human-body.md
 nid: 30072
 uid: 788868
-
 cids: 31187
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/419/original/bodyplas.jpg)
 
 # Microplastics' Intrusion To The Human Body 
 
-by [TheChessGym](../../../profile/TheChessGym) | February 22, 2022 16:02
+by [TheChessGym](/profile/TheChessGym) | February 22, 2022 16:02
 
-February 22, 2022 16:02 | Tags: [microplastics](../tag/microplastics), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:22.004174](../tag/lat:22.004174), [lon:76.003417](../tag/lon:76.003417)
+February 22, 2022 16:02 | Tags: [microplastics](/tag/microplastics), [first-time-poster](/tag/first-time-poster), [zoom:6](/tag/zoom:6), [lat:22.004174](/tag/lat:22.004174), [lon:76.003417](/tag/lon:76.003417)
 
 ----
 

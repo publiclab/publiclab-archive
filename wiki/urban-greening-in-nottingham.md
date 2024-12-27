@@ -6,16 +6,16 @@ author: molangmuir10
 path: /wiki/urban-greening-in-nottingham.md
 nid: 20517
 uid: 589023
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/520/original/G0102433.jpeg)
 
 # Urban greening in Nottingham
 
-by [molangmuir10](../profile/molangmuir10)
+by [molangmuir10](/profile/molangmuir10)
 
-August 13, 2019 09:04 | Tags: [mapping](../tag/mapping), [uk](../tag/uk), [urban-ag](../tag/urban-ag), [eu](../tag/eu), [project](../tag/project), [nottingham](../tag/nottingham), [project:advocacy-with-maps](../tag/project:advocacy-with-maps)
+August 13, 2019 09:04 | Tags: [mapping](/tag/mapping), [uk](/tag/uk), [urban-ag](/tag/urban-ag), [eu](/tag/eu), [project](/tag/project), [nottingham](/tag/nottingham), [project:advocacy-with-maps](/tag/project:advocacy-with-maps)
 
 ----
 
@@ -55,20 +55,20 @@ Interested in following along in the project? Subscribe to the tag below to get 
  
 <a class="btn btn-large btn-primary" href="https://publiclab.org/subscribe/tag/urbangreeninginnottingham">Subscribe to updates on this project </a>
  
-[urbangreeninginnottingham](../../tag/urbangreeninginnottingham) 
+[urbangreeninginnottingham](/tag/urbangreeninginnottingham) 
 
 ### Questions 
 
 Here's a place to list things you have questions about, or issues or **challenges you’re hoping to solve in this project**. What questions helped guide the work? Let's build out a Frequently Asked Questions area:
 
-[urbangreeningnottingham](../../tag/question:urbangreeningnottingham)
+[urbangreeningnottingham](/tag/question:urbangreeningnottingham)
 
 ****
 
 ### Activities we’ve done in our project
  
 
-[urbangreeninginnottingham](../../tag/activity:urbangreeninginnottingham)
+[urbangreeninginnottingham](/tag/activity:urbangreeninginnottingham)
 
 ### Data
 

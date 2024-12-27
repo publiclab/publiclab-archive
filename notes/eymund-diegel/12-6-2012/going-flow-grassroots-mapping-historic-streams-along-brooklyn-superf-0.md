@@ -6,18 +6,16 @@ author: eymund
 path: /notes/eymund-diegel/12-6-2012/going-flow-grassroots-mapping-historic-streams-along-brooklyn-superf-0.md
 nid: 5139
 uid: 1016
-
 cids: 3458
-
 ---
 
 ![](https://publiclab.org/sites/default/files/8_2012_March_5_First Street Basin E-Waste Dump landfill at Gowanus Canal looking towards Carroll Bridge.JPG)
 
 # Going with the Flow – Grassroots mapping historic streams along a Brooklyn Superfund site.
 
-by [eymund](../../../profile/eymund) | December 07, 2012 04:49
+by [eymund](/profile/eymund) | December 07, 2012 04:49
 
-December 07, 2012 04:49 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [brooklyn](../tag/brooklyn), [new-york](../tag/new-york), [gowanus-canal-conservancy](../tag/gowanus-canal-conservancy), [battle-of-brooklyn](../tag/battle-of-brooklyn), [gowanus-canal-superfund-site](../tag/gowanus-canal-superfund-site), [water-quality-mapping](../tag/water-quality-mapping), [first-street-basin](../tag/first-street-basin), [Denton's Tidal Mill](../tag/Denton's Tidal Mill), [gowanus-dredgers-canoe-club](../tag/gowanus-dredgers-canoe-club), [proteus-gowanus](../tag/proteus-gowanus), [circuit-board-tombstones](../tag/circuit-board-tombstones), [northeast](../tag/northeast)
+December 07, 2012 04:49 | Tags: [new-york-city](/tag/new-york-city), [gowanus](/tag/gowanus), [brooklyn](/tag/brooklyn), [new-york](/tag/new-york), [gowanus-canal-conservancy](/tag/gowanus-canal-conservancy), [battle-of-brooklyn](/tag/battle-of-brooklyn), [gowanus-canal-superfund-site](/tag/gowanus-canal-superfund-site), [water-quality-mapping](/tag/water-quality-mapping), [first-street-basin](/tag/first-street-basin), [Denton's Tidal Mill](/tag/Denton's Tidal Mill), [gowanus-dredgers-canoe-club](/tag/gowanus-dredgers-canoe-club), [proteus-gowanus](/tag/proteus-gowanus), [circuit-board-tombstones](/tag/circuit-board-tombstones), [northeast](/tag/northeast)
 
 ----
 

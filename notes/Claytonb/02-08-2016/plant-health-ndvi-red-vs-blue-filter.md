@@ -6,18 +6,16 @@ author: Claytonb
 path: /notes/Claytonb/02-08-2016/plant-health-ndvi-red-vs-blue-filter.md
 nid: 12670
 uid: 460246
-
 cids: 13757,13765,13766,13771,13772,13773,16121,16122,16123
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/151/original/0207161357_HDR_%282%29.jpg)
 
 # Plant health NDVI Red vs Blue filter
 
-by [Claytonb](../../../profile/Claytonb) | February 08, 2016 17:50
+by [Claytonb](/profile/Claytonb) | February 08, 2016 17:50
 
-February 08, 2016 17:50 | Tags: [ndvi](../tag/ndvi), [calibration](../tag/calibration), [infrared](../tag/infrared), [infragram](../tag/infragram), [wratten25a](../tag/wratten25a), [super-red](../tag/super-red), [red-vs-blue](../tag/red-vs-blue), [response:9717](../tag/response:9717)
+February 08, 2016 17:50 | Tags: [ndvi](/tag/ndvi), [calibration](/tag/calibration), [infrared](/tag/infrared), [infragram](/tag/infragram), [wratten25a](/tag/wratten25a), [super-red](/tag/super-red), [red-vs-blue](/tag/red-vs-blue), [response:9717](/tag/response:9717)
 
 ----
 

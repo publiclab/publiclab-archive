@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/09-14-2018/notes-from-tuesday-s-frac-sand-call.md
 nid: 17117
 uid: 422561
-
 cids: 20707
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/562/original/IMG_7743.JPG)
 
 # Notes from Tuesday’s frac sand call
 
-by [stevie](../../../profile/stevie) | September 14, 2018 20:54
+by [stevie](/profile/stevie) | September 14, 2018 20:54
 
-September 14, 2018 20:54 | Tags: [reporting](../tag/reporting), [wisconsin](../tag/wisconsin), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [midwest](../tag/midwest), [with:warren](../tag/with:warren), [with:liz](../tag/with:liz), [with:bronwen](../tag/with:bronwen), [parent:frac-sand](../tag/parent:frac-sand), [with:pat](../tag/with:pat), [open-call](../tag/open-call), [with:dswenson](../tag/with:dswenson), [with:wicca](../tag/with:wicca), [with:read_holman](../tag/with:read_holman), [sentinel](../tag/sentinel), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program), [sand-sentinel](../tag/sand-sentinel)
+September 14, 2018 20:54 | Tags: [reporting](/tag/reporting), [wisconsin](/tag/wisconsin), [frac-sand](/tag/frac-sand), [pm](/tag/pm), [midwest](/tag/midwest), [with:warren](/tag/with:warren), [with:liz](/tag/with:liz), [with:bronwen](/tag/with:bronwen), [parent:frac-sand](/tag/parent:frac-sand), [with:pat](/tag/with:pat), [open-call](/tag/open-call), [with:dswenson](/tag/with:dswenson), [with:wicca](/tag/with:wicca), [with:read_holman](/tag/with:read_holman), [sentinel](/tag/sentinel), [parent:the-sand-sentinel-program](/tag/parent:the-sand-sentinel-program), [sand-sentinel](/tag/sand-sentinel)
 
 ----
 

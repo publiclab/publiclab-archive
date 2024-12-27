@@ -6,16 +6,14 @@ author: pdhixenbaugh
 path: /notes/pdhixenbaugh/10-12-2016/is-it-possible-to-generate-a-word-cloud-based-on-a-tag-s-related-tags.md
 nid: 13557
 uid: 459085
-
 cids: 22332,23513
-
 ---
 
 # Is it possible to generate a word cloud based on a tag's related tags?
 
-by [pdhixenbaugh](../../../profile/pdhixenbaugh) | October 12, 2016 22:44
+by [pdhixenbaugh](/profile/pdhixenbaugh) | October 12, 2016 22:44
 
-October 12, 2016 22:44 | Tags: [question:website](../tag/question:website), [question:website-structure](../tag/question:website-structure)
+October 12, 2016 22:44 | Tags: [question:website](/tag/question:website), [question:website-structure](/tag/question:website-structure)
 
 ----
 

@@ -6,12 +6,12 @@ author: warren
 path: /wiki/map-printing.md
 nid: 548
 uid: 1
-
+cids: 
 ---
 
 # Map printing
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 November 07, 2011 16:26 | Tags: 
 

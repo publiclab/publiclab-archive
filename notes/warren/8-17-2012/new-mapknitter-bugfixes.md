@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/8-17-2012/new-mapknitter-bugfixes.md
 nid: 3325
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-08-17 at 8.35.38 AM.png)
 
 # New MapKnitter bugfixes
 
-by [warren](../../../profile/warren) | August 17, 2012 12:36
+by [warren](/profile/warren) | August 17, 2012 12:36
 
-August 17, 2012 12:36 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter)
+August 17, 2012 12:36 | Tags: [balloon-mapping](/tag/balloon-mapping), [mapknitter](/tag/mapknitter)
 
 ----
 

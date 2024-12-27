@@ -6,16 +6,14 @@ author: Shannon
 path: /notes/shannon/5-25-2012/air-column-monitor-ecohack-video.md
 nid: 2204
 uid: 9
-
 cids: 
-
 ---
 
 # Air Column Monitor EcoHack video
 
-by [Shannon](../../../profile/Shannon) | May 25, 2012 18:03
+by [Shannon](/profile/Shannon) | May 25, 2012 18:03
 
-May 25, 2012 18:03 | Tags: [air-column-monitor](../tag/air-column-monitor), [diy-balloon](../tag/diy-balloon)
+May 25, 2012 18:03 | Tags: [air-column-monitor](/tag/air-column-monitor), [diy-balloon](/tag/diy-balloon)
 
 ----
 

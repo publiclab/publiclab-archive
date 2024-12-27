@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/03-19-2019/assembling-the-simple-air-sensor.md
 nid: 18563
 uid: 1
-
 cids: 22239,22240,23362,25663,26192,28446,28470,28474
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/324/original/IMG_20190320_162254_076.jpg)
 
 # Assembling the Simple Air Sensor
 
-by [warren](../../../profile/warren) | March 15, 2019 22:04
+by [warren](/profile/warren) | March 15, 2019 22:04
 
-March 15, 2019 22:04 | Tags: [arduino](../tag/arduino), [air-quality](../tag/air-quality), [dust](../tag/dust), [pm](../tag/pm), [air-sensing](../tag/air-sensing), [seeks:replications](../tag/seeks:replications), [activity:arduino](../tag/activity:arduino), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [plantower](../tag/plantower), [purple-air](../tag/purple-air), [simple-air-sensor](../tag/simple-air-sensor), [activity:simple-air-sensor](../tag/activity:simple-air-sensor), [activity:air-sensing](../tag/activity:air-sensing), [lat:41.809115](../tag/lat:41.809115), [lon:-71.426615](../tag/lon:-71.426615), [pin:simple-air-sensor](../tag/pin:simple-air-sensor), [pin:activity:simple-air-sensor](../tag/pin:activity:simple-air-sensor), [sas-build](../tag/sas-build)
+March 15, 2019 22:04 | Tags: [arduino](/tag/arduino), [air-quality](/tag/air-quality), [dust](/tag/dust), [pm](/tag/pm), [air-sensing](/tag/air-sensing), [seeks:replications](/tag/seeks:replications), [activity:arduino](/tag/activity:arduino), [air-sensors](/tag/air-sensors), [purpleair](/tag/purpleair), [plantower](/tag/plantower), [purple-air](/tag/purple-air), [simple-air-sensor](/tag/simple-air-sensor), [activity:simple-air-sensor](/tag/activity:simple-air-sensor), [activity:air-sensing](/tag/activity:air-sensing), [lat:41.809115](/tag/lat:41.809115), [lon:-71.426615](/tag/lon:-71.426615), [pin:simple-air-sensor](/tag/pin:simple-air-sensor), [pin:activity:simple-air-sensor](/tag/pin:activity:simple-air-sensor), [sas-build](/tag/sas-build)
 
 ----
 

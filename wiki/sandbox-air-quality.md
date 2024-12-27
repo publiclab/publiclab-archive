@@ -6,12 +6,12 @@ author: bhamster
 path: /wiki/sandbox-air-quality.md
 nid: 25192
 uid: 664477
-
+cids: 
 ---
 
 # sandbox-air-quality
 
-by [bhamster](../profile/bhamster)
+by [bhamster](/profile/bhamster)
 
 December 09, 2020 00:07 | Tags: 
 
@@ -125,7 +125,7 @@ Image: [@mollydanielsson](https://publiclab.org/profile/mollydanielsson)
 + Ask a question so other community members can offer support
 + Sign up below to be notified when someone asks an air quality question
 
-[air-quality](../../tag/question:air-quality)
+[air-quality](/tag/question:air-quality)
 
 <br>
 
@@ -278,7 +278,7 @@ Considering common sources of air pollutants can help you determine which pollut
 
 **_Sources near you_**: the activities listed below can help you learn about searching public databases to find out what industries and emissions sources are near you.
 
-[grid:activity:air-database](../../tag/grid:activity:air-database)
+[grid:activity:air-database](/tag/grid:activity:air-database)
 
 <br>
 
@@ -451,7 +451,7 @@ A collection of wiki pages on monitoring methods and approaches covering particu
 
 Activities on Public Lab that have been tagged with `air-quality` will appear here
 
-[air-quality](../../tag/activity:air-quality)
+[air-quality](/tag/activity:air-quality)
 
 <br>
 <hr style="height:5px;border-width:0;color:gray;background-color:gray">

@@ -6,16 +6,14 @@ author: Naljorpa
 path: /notes/Naljorpa/11-07-2013/photos-of-my-modifications-to-the-sprctrograph.md
 nid: 9745
 uid: 306917
-
 cids: 7473,7495,7690,8135
-
 ---
 
 # Photos of my modifications to the sprctrograph
 
-by [Naljorpa](../../../profile/Naljorpa) | November 07, 2013 17:42
+by [Naljorpa](/profile/Naljorpa) | November 07, 2013 17:42
 
-November 07, 2013 17:42 | Tags: [spectrometer](../tag/spectrometer), [dsk](../tag/dsk), [tripod](../tag/tripod)
+November 07, 2013 17:42 | Tags: [spectrometer](/tag/spectrometer), [dsk](/tag/dsk), [tripod](/tag/tripod)
 
 ----
 

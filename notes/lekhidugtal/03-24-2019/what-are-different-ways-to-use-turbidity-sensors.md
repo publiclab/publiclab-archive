@@ -6,16 +6,14 @@ author: lekhidugtal
 path: /notes/lekhidugtal/03-24-2019/what-are-different-ways-to-use-turbidity-sensors.md
 nid: 18834
 uid: 577754
-
 cids: 
-
 ---
 
 # What are some different ways to use turbidity sensors? 
 
-by [lekhidugtal](../../../profile/lekhidugtal) | March 24, 2019 17:18
+by [lekhidugtal](/profile/lekhidugtal) | March 24, 2019 17:18
 
-March 24, 2019 17:18 | Tags: [sensors](../tag/sensors), [turbidity](../tag/turbidity), [question:general](../tag/question:general), [projects](../tag/projects)
+March 24, 2019 17:18 | Tags: [sensors](/tag/sensors), [turbidity](/tag/turbidity), [question:general](/tag/question:general), [projects](/tag/projects)
 
 ----
 

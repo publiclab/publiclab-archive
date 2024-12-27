@@ -6,18 +6,16 @@ author: Bronwen
 path: /notes/bronwen/08-24-2017/kits-are-on-the-move.md
 nid: 14789
 uid: 237313
-
 cids: 17465
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/409/original/kitswindow_copy.jpg)
 
 # Kits are on the move!
 
-by [Bronwen](../../../profile/Bronwen) | August 24, 2017 15:59
+by [Bronwen](/profile/Bronwen) | August 24, 2017 15:59
 
-August 24, 2017 15:59 | Tags: [providence](../tag/providence), [portland](../tag/portland), [kits](../tag/kits), [store](../tag/store), [jobs](../tag/jobs), [kits-initiative](../tag/kits-initiative), [kits-store](../tag/kits-store)
+August 24, 2017 15:59 | Tags: [providence](/tag/providence), [portland](/tag/portland), [kits](/tag/kits), [store](/tag/store), [jobs](/tag/jobs), [kits-initiative](/tag/kits-initiative), [kits-store](/tag/kits-store)
 
 ----
 

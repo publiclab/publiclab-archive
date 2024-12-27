@@ -6,16 +6,16 @@ author: gilbert
 path: /wiki/ph-testing-and-citizen-science.md
 nid: 15293
 uid: 508551
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/782/original/f_09_CarlsbergLab_splsorensen2_a_v.jpg)
 
 # pH Testing and Citizen Science
 
-by [gilbert](../profile/gilbert)
+by [gilbert](/profile/gilbert)
 
-December 04, 2017 14:42 | Tags: [citizen-science](../tag/citizen-science), [water-quality-monitoring](../tag/water-quality-monitoring), [ph](../tag/ph), [water-sensors](../tag/water-sensors), [water-quality-testing](../tag/water-quality-testing)
+December 04, 2017 14:42 | Tags: [citizen-science](/tag/citizen-science), [water-quality-monitoring](/tag/water-quality-monitoring), [ph](/tag/ph), [water-sensors](/tag/water-sensors), [water-quality-testing](/tag/water-quality-testing)
 
 ----
 

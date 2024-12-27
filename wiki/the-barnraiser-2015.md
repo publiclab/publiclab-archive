@@ -6,12 +6,12 @@ author: warren
 path: /wiki/the-barnraiser-2015.md
 nid: 13674
 uid: 1
-
+cids: 
 ---
 
 # The Barnraiser 2015
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 November 03, 2016 17:14 | Tags: 
 

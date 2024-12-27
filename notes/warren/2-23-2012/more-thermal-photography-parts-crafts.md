@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/2-23-2012/more-thermal-photography-parts-crafts.md
 nid: 836
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/1.png)
 
 # More thermal photography at Parts & Crafts
 
-by [warren](../../../profile/warren) | February 23, 2012 23:43
+by [warren](/profile/warren) | February 23, 2012 23:43
 
-February 23, 2012 23:43 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [parts-and-crafts](../tag/parts-and-crafts), [replication:625](../tag/replication:625)
+February 23, 2012 23:43 | Tags: [thermal-photography](/tag/thermal-photography), [thermal-flashlight](/tag/thermal-flashlight), [parts-and-crafts](/tag/parts-and-crafts), [replication:625](/tag/replication:625)
 
 ----
 

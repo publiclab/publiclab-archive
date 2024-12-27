@@ -6,14 +6,14 @@ author: shanlter
 path: /wiki/water-risks-in-urban-and-rural-china.md
 nid: 13175
 uid: 420999
-
+cids: 
 ---
 
 # 中国城乡水质问题 - Water Risks in Urban and Rural China
 
-by [shanlter](../profile/shanlter)
+by [shanlter](/profile/shanlter)
 
-June 08, 2016 03:44 | Tags: [water](../tag/water), [china](../tag/china)
+June 08, 2016 03:44 | Tags: [water](/tag/water), [china](/tag/china)
 
 ----
 

@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/07-08-2015/new-orleans-map-viewing-party.md
 nid: 12039
 uid: 422561
-
 cids: 12280
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/570/original/Map_viewing.png)
 
 # New Orleans Map Viewing Party
 
-by [stevie](../../../profile/stevie) | July 08, 2015 18:12
+by [stevie](/profile/stevie) | July 08, 2015 18:12
 
-July 08, 2015 18:12 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [event](../tag/event), [gulfcoast](../tag/gulfcoast), [event:rsvp](../tag/event:rsvp), [urbanwaters](../tag/urbanwaters), [date:07-28-2015](../tag/date:07-28-2015)
+July 08, 2015 18:12 | Tags: [gulf-coast](/tag/gulf-coast), [balloon-mapping](/tag/balloon-mapping), [event](/tag/event), [gulfcoast](/tag/gulfcoast), [event:rsvp](/tag/event:rsvp), [urbanwaters](/tag/urbanwaters), [date:07-28-2015](/tag/date:07-28-2015)
 
 ----
 

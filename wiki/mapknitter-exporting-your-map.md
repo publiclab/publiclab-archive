@@ -6,14 +6,14 @@ author: gonzoearth
 path: /wiki/mapknitter-exporting-your-map.md
 nid: 918
 uid: 12
-
+cids: 
 ---
 
 # MapKnitter: Exporting 
 
-by [warren](../profile/warren), [olafur](../profile/olafur), [gonzoearth](../profile/gonzoearth)
+by [warren](/profile/warren), [olafur](/profile/olafur), [gonzoearth](/profile/gonzoearth)
 
-March 11, 2012 07:33 | Tags: [mapknitter](../tag/mapknitter), [help](../tag/help), [needs-revision](../tag/needs-revision), [tutorial](../tag/tutorial), [parent:mapknitter](../tag/parent:mapknitter), [exporting](../tag/exporting)
+March 11, 2012 07:33 | Tags: [mapknitter](/tag/mapknitter), [help](/tag/help), [needs-revision](/tag/needs-revision), [tutorial](/tag/tutorial), [parent:mapknitter](/tag/parent:mapknitter), [exporting](/tag/exporting)
 
 ----
 

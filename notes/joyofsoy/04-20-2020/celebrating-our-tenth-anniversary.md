@@ -6,18 +6,16 @@ author: joyofsoy
 path: /notes/joyofsoy/04-20-2020/celebrating-our-tenth-anniversary.md
 nid: 23422
 uid: 540844
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/115/original/publiclab_mapping_1200x430.png)
 
 # Celebrating our tenth anniversary
 
-by [joyofsoy](../../../profile/joyofsoy) | April 20, 2020 07:14
+by [joyofsoy](/profile/joyofsoy) | April 20, 2020 07:14
 
-April 20, 2020 07:14 | Tags: [blog](../tag/blog), [anniversary](../tag/anniversary), [pl10](../tag/pl10)
+April 20, 2020 07:14 | Tags: [blog](/tag/blog), [anniversary](/tag/anniversary), [pl10](/tag/pl10)
 
 ----
 

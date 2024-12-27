@@ -6,18 +6,16 @@ author: bhamster
 path: /notes/bhamster/11-30-2020/comparing-air-quality-databases-a-fun-activity.md
 nid: 25142
 uid: 664477
-
 cids: 27787,27789,27790,27793
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/859/original/Envirofacts.png)
 
 # Comparing air quality databases: a fun activity
 
-by [bhamster](../../../profile/bhamster) | November 30, 2020 21:53
+by [bhamster](/profile/bhamster) | November 30, 2020 21:53
 
-November 30, 2020 21:53 | Tags: [epa](../tag/epa), [database](../tag/database), [air-quality](../tag/air-quality), [emissions](../tag/emissions), [skytruth](../tag/skytruth), [bucket-brigade](../tag/bucket-brigade), [getting-started](../tag/getting-started), [advocacy](../tag/advocacy), [activity:air-quality](../tag/activity:air-quality), [existing-data](../tag/existing-data), [toxics-release-inventory](../tag/toxics-release-inventory), [air-pollution](../tag/air-pollution), [national-emissions-inventory](../tag/national-emissions-inventory), [bucket-monitor](../tag/bucket-monitor), [activity:bucket-monitor](../tag/activity:bucket-monitor), [air-database](../tag/air-database), [activity:air-database](../tag/activity:air-database)
+November 30, 2020 21:53 | Tags: [epa](/tag/epa), [database](/tag/database), [air-quality](/tag/air-quality), [emissions](/tag/emissions), [skytruth](/tag/skytruth), [bucket-brigade](/tag/bucket-brigade), [getting-started](/tag/getting-started), [advocacy](/tag/advocacy), [activity:air-quality](/tag/activity:air-quality), [existing-data](/tag/existing-data), [toxics-release-inventory](/tag/toxics-release-inventory), [air-pollution](/tag/air-pollution), [national-emissions-inventory](/tag/national-emissions-inventory), [bucket-monitor](/tag/bucket-monitor), [activity:bucket-monitor](/tag/activity:bucket-monitor), [air-database](/tag/air-database), [activity:air-database](/tag/activity:air-database)
 
 ----
 
@@ -62,4 +60,4 @@ Let's keep talking about the steps that people can take after gathering informat
 
 Community questions with the tag `emissions` will appear here. Ask your own question using the button below!
 
-[emissions](../../tag/question:emissions)
+[emissions](/tag/question:emissions)

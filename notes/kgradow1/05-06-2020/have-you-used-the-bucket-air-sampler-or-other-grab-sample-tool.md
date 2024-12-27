@@ -6,16 +6,14 @@ author: kgradow1
 path: /notes/kgradow1/05-06-2020/have-you-used-the-bucket-air-sampler-or-other-grab-sample-tool.md
 nid: 23558
 uid: 297929
-
 cids: 26758,26767,26768,26771,26772,26774,26775,26776,26778,26792,26793,26999,27229
-
 ---
 
 # Have you used the bucket air sampler or other grab sample tool?  
 
-by [kgradow1](../../../profile/kgradow1) | May 06, 2020 17:47
+by [kgradow1](/profile/kgradow1) | May 06, 2020 17:47
 
-May 06, 2020 17:47 | Tags: [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [question:general](../tag/question:general), [general](../tag/general), [method](../tag/method), [air-sampling](../tag/air-sampling), [question:air-sampling](../tag/question:air-sampling), [question:method](../tag/question:method), [bucket-monitor](../tag/bucket-monitor), [question:bucket-monitor](../tag/question:bucket-monitor)
+May 06, 2020 17:47 | Tags: [air-quality](/tag/air-quality), [question:air-quality](/tag/question:air-quality), [question:general](/tag/question:general), [general](/tag/general), [method](/tag/method), [air-sampling](/tag/air-sampling), [question:air-sampling](/tag/question:air-sampling), [question:method](/tag/question:method), [bucket-monitor](/tag/bucket-monitor), [question:bucket-monitor](/tag/question:bucket-monitor)
 
 ----
 

@@ -6,18 +6,16 @@ author: forcha
 path: /notes/forcha/04-05-2022/gsoc-proposal-full-screen-ui-and-video-upload.md
 nid: 30254
 uid: 791076
-
 cids: 29993,29999,30034,30080,30137,30140,30141
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/611/original/ndownload_%281%29.png)
 
 # GSoC 2022 proposal: Inragram.org full-screen UI and video upload
 
-by [forcha](../../../profile/forcha) | April 05, 2022 09:48
+by [forcha](/profile/forcha) | April 05, 2022 09:48
 
-April 05, 2022 09:48 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [gsoc-2022](../tag/gsoc-2022), [gsoc-2022-proposals](../tag/gsoc-2022-proposals), [lat:4.1492](../tag/lat:4.1492), [lon:9.294433](../tag/lon:9.294433), [soc-2022](../tag/soc-2022), [soc-2022-proposal](../tag/soc-2022-proposal), [soc-2022-proposals](../tag/soc-2022-proposals), [gsoc-2022-proposal](../tag/gsoc-2022-proposal)
+April 05, 2022 09:48 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [soc](/tag/soc), [first-time-poster](/tag/first-time-poster), [zoom:6](/tag/zoom:6), [gsoc-2022](/tag/gsoc-2022), [gsoc-2022-proposals](/tag/gsoc-2022-proposals), [lat:4.1492](/tag/lat:4.1492), [lon:9.294433](/tag/lon:9.294433), [soc-2022](/tag/soc-2022), [soc-2022-proposal](/tag/soc-2022-proposal), [soc-2022-proposals](/tag/soc-2022-proposals), [gsoc-2022-proposal](/tag/gsoc-2022-proposal)
 
 ----
 

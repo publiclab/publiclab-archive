@@ -6,18 +6,16 @@ author: JSummers
 path: /notes/JSummers/11-20-2014/toward-calibrating-h2s-sensors.md
 nid: 11372
 uid: 304279
-
 cids: 10805
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/028/original/DOT_poison_label.png)
 
 # Toward calibrating H2S sensors.
 
-by [JSummers](../../../profile/JSummers) | November 20, 2014 22:18
+by [JSummers](/profile/JSummers) | November 20, 2014 22:18
 
-November 20, 2014 22:18 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [calibration](../tag/calibration), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-calibration](../tag/h2s-calibration)
+November 20, 2014 22:18 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [calibration](/tag/calibration), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [h2s-calibration](/tag/h2s-calibration)
 
 ----
 

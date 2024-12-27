@@ -6,18 +6,16 @@ author: nathanathan
 path: /notes/nathanathan/12-04-2013/glow-in-the-dark-paint-photos.md
 nid: 9857
 uid: 365600
-
 cids: 7823,7829,7856
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/353/original/11209894354_a9b4a4475f_o.jpg)
 
 # Glow in the dark paint photos
 
-by [nathanathan](../../../profile/nathanathan) | December 04, 2013 19:59
+by [nathanathan](/profile/nathanathan) | December 04, 2013 19:59
 
-December 04, 2013 19:59 | Tags: [calibration](../tag/calibration), [phosphorescence](../tag/phosphorescence), [response:9816](../tag/response:9816), [glow-in-the-dark](../tag/glow-in-the-dark)
+December 04, 2013 19:59 | Tags: [calibration](/tag/calibration), [phosphorescence](/tag/phosphorescence), [response:9816](/tag/response:9816), [glow-in-the-dark](/tag/glow-in-the-dark)
 
 ----
 

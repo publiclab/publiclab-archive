@@ -6,14 +6,14 @@ author: Shannon
 path: /wiki/2013-barn-raising-cocodrie-louisiana.md
 nid: 8783
 uid: 9
-
+cids: 
 ---
 
 # 2013 Barn Raising: Cocodrie, Louisiana
 
-by [warren](../profile/warren), [Shannon](../profile/Shannon)
+by [warren](/profile/warren), [Shannon](/profile/Shannon)
 
-July 09, 2013 12:55 | Tags: [louisiana](../tag/louisiana), [barnraising](../tag/barnraising)
+July 09, 2013 12:55 | Tags: [louisiana](/tag/louisiana), [barnraising](/tag/barnraising)
 
 ----
 

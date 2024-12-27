@@ -6,18 +6,16 @@ author: TheChessGym
 path: /notes/TheChessGym/09-26-2022/sublimation-and-deposition-impact-our-water-resources.md
 nid: 34998
 uid: 788868
-
 cids: 30635,30636,30637,30638,30639,30640,30641,30642
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/193/original/conversion-sublimation-carbon-dioxide-gas.webp)
 
 # Sublimation and Deposition Impact Our Water Resources 
 
-by [TheChessGym](../../../profile/TheChessGym) | September 26, 2022 13:38
+by [TheChessGym](/profile/TheChessGym) | September 26, 2022 13:38
 
-September 26, 2022 13:38 | Tags: [first-time-poster](../tag/first-time-poster), [lat:20](../tag/lat:20), [lon:70](../tag/lon:70), [zoom:4](../tag/zoom:4)
+September 26, 2022 13:38 | Tags: [first-time-poster](/tag/first-time-poster), [lat:20](/tag/lat:20), [lon:70](/tag/lon:70), [zoom:4](/tag/zoom:4)
 
 ----
 

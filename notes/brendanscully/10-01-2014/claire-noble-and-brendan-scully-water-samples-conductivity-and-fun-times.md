@@ -6,18 +6,16 @@ author: brendanscully
 path: /notes/brendanscully/10-01-2014/claire-noble-and-brendan-scully-water-samples-conductivity-and-fun-times.md
 nid: 11220
 uid: 428089
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/238/original/data_viz_water.jpg)
 
 # Claire Nobles and Brendan Scully - Water Samples, Conductivity, and Fun Times 
 
-by [brendanscully](../../../profile/brendanscully) | October 01, 2014 15:55
+by [brendanscully](/profile/brendanscully) | October 01, 2014 15:55
 
-October 01, 2014 15:55 | Tags: [first-time-poster](../tag/first-time-poster)
+October 01, 2014 15:55 | Tags: [first-time-poster](/tag/first-time-poster)
 
 ----
 

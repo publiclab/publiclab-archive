@@ -6,16 +6,14 @@ author: scotttees
 path: /notes/scotttees/10-09-2018/diy-oil-refinery-air-quality-monitoring.md
 nid: 17260
 uid: 430317
-
 cids: 20838,20856,20874,23250,23255,23257,23302
-
 ---
 
 # DIY Oil Refinery Air Quality Monitoring?
 
-by [scotttees](../../../profile/scotttees) | October 09, 2018 19:13
+by [scotttees](/profile/scotttees) | October 09, 2018 19:13
 
-October 09, 2018 19:13 | Tags: [oil](../tag/oil), [diy](../tag/diy), [refinery](../tag/refinery), [air-quality](../tag/air-quality), [question:general](../tag/question:general), [purple-air](../tag/purple-air), [new_orleans](../tag/new_orleans), [question:industry](../tag/question:industry)
+October 09, 2018 19:13 | Tags: [oil](/tag/oil), [diy](/tag/diy), [refinery](/tag/refinery), [air-quality](/tag/air-quality), [question:general](/tag/question:general), [purple-air](/tag/purple-air), [new_orleans](/tag/new_orleans), [question:industry](/tag/question:industry)
 
 ----
 

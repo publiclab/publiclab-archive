@@ -6,18 +6,16 @@ author: tonyc
 path: /notes/tonyc/07-07-2016/design-specifications-for-field-camera.md
 nid: 13266
 uid: 447491
-
 cids: 14954
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/895/original/IMG_4015.JPG)
 
 # Design Specifications for Field Camera
 
-by [tonyc](../../../profile/tonyc) | July 07, 2016 19:01
+by [tonyc](/profile/tonyc) | July 07, 2016 19:01
 
-July 07, 2016 19:01 | Tags: [design](../tag/design), [turbidity](../tag/turbidity), [mobius](../tag/mobius), [trapcam](../tag/trapcam), [specs](../tag/specs)
+July 07, 2016 19:01 | Tags: [design](/tag/design), [turbidity](/tag/turbidity), [mobius](/tag/mobius), [trapcam](/tag/trapcam), [specs](/tag/specs)
 
 ----
 

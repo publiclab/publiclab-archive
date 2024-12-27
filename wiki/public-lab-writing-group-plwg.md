@@ -6,14 +6,14 @@ author: jbreen
 path: /wiki/public-lab-writing-group-plwg.md
 nid: 9412
 uid: 326
-
+cids: 
 ---
 
 # Public Lab Writing Group (PLWG)
 
-by [liz](../profile/liz), [donblair](../profile/donblair), [jbreen](../profile/jbreen), [warren](../profile/warren), [eustatic](../profile/eustatic), [Shannon](../profile/Shannon)
+by [liz](/profile/liz), [donblair](/profile/donblair), [jbreen](/profile/jbreen), [warren](/profile/warren), [eustatic](/profile/eustatic), [Shannon](/profile/Shannon)
 
-October 06, 2013 20:28 | Tags: [writing](../tag/writing), [writing-group](../tag/writing-group), [working-groups](../tag/working-groups), [literature](../tag/literature), [list:public-lab-writing-group](../tag/list:public-lab-writing-group), [collaborative-writing](../tag/collaborative-writing)
+October 06, 2013 20:28 | Tags: [writing](/tag/writing), [writing-group](/tag/writing-group), [working-groups](/tag/working-groups), [literature](/tag/literature), [list:public-lab-writing-group](/tag/list:public-lab-writing-group), [collaborative-writing](/tag/collaborative-writing)
 
 ----
 

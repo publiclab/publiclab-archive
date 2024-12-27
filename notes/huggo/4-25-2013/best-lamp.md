@@ -6,16 +6,14 @@ author: huggo
 path: /notes/huggo/4-25-2013/best-lamp.md
 nid: 7051
 uid: 43581
-
 cids: 4548
-
 ---
 
 # Best Lamp
 
-by [huggo](../../../profile/huggo) | April 25, 2013 19:36
+by [huggo](/profile/huggo) | April 25, 2013 19:36
 
-April 25, 2013 19:36 | Tags: [spectrometer](../tag/spectrometer), [lamp](../tag/lamp)
+April 25, 2013 19:36 | Tags: [spectrometer](/tag/spectrometer), [lamp](/tag/lamp)
 
 ----
 

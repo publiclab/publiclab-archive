@@ -6,14 +6,14 @@ author: Olivia
 path: /wiki/butte-montana-centerville-neighborhood.md
 nid: 446
 uid: 269
-
+cids: 
 ---
 
 # Butte, Montana: Centerville Neighborhood
 
-by [Olivia](../profile/Olivia)
+by [Olivia](/profile/Olivia)
 
-August 29, 2011 03:14 | Tags: [montana](../tag/montana), [reclamation](../tag/reclamation)
+August 29, 2011 03:14 | Tags: [montana](/tag/montana), [reclamation](/tag/reclamation)
 
 ----
 

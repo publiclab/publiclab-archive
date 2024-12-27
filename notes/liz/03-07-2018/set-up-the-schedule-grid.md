@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/03-07-2018/set-up-the-schedule-grid.md
 nid: 15884
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/869/original/IMG_20161110_201129423_HDR_crop.jpg)
 
 # Set up a schedule grid for an Open Space event
 
-by [liz](../../../profile/liz) | March 07, 2018 22:01
+by [liz](/profile/liz) | March 07, 2018 22:01
 
-March 07, 2018 22:01 | Tags: [events](../tag/events), [barnraising](../tag/barnraising), [open-space-technology](../tag/open-space-technology), [facilitation](../tag/facilitation), [open-space](../tag/open-space), [activity:barnraising](../tag/activity:barnraising), [activity:night-before-barnraising](../tag/activity:night-before-barnraising), [activity:facilitation](../tag/activity:facilitation)
+March 07, 2018 22:01 | Tags: [events](/tag/events), [barnraising](/tag/barnraising), [open-space-technology](/tag/open-space-technology), [facilitation](/tag/facilitation), [open-space](/tag/open-space), [activity:barnraising](/tag/activity:barnraising), [activity:night-before-barnraising](/tag/activity:night-before-barnraising), [activity:facilitation](/tag/activity:facilitation)
 
 ----
 

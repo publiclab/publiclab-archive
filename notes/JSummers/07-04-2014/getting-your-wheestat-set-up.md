@@ -6,18 +6,16 @@ author: JSummers
 path: /notes/JSummers/07-04-2014/getting-your-wheestat-set-up.md
 nid: 10658
 uid: 304279
-
 cids: 9418,9424,10147,10152,10441,10443,10449,10565,10582,11458,14992,16570
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/135/original/WheeStat-VoltammetryPhoto.jpg)
 
 # Getting your WheeStat set up.
 
-by [JSummers](../../../profile/JSummers) | July 04, 2014 17:40
+by [JSummers](/profile/JSummers) | July 04, 2014 17:40
 
-July 04, 2014 17:40 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [water-quality](../tag/water-quality), [potentiostat](../tag/potentiostat), [wheestat](../tag/wheestat)
+July 04, 2014 17:40 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [water-quality](/tag/water-quality), [potentiostat](/tag/potentiostat), [wheestat](/tag/wheestat)
 
 ----
 

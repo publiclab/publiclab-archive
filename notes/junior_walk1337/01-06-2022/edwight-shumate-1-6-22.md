@@ -6,18 +6,16 @@ author: junior_walk1337
 path: /notes/junior_walk1337/01-06-2022/edwight-shumate-1-6-22.md
 nid: 28685
 uid: 756318
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/304/original/Edwight-Sundial.jpg)
 
 # Edwight/Shumate 1/6/22
 
-by [junior_walk1337](../../../profile/junior_walk1337) | January 06, 2022 18:11
+by [junior_walk1337](/profile/junior_walk1337) | January 06, 2022 18:11
 
-January 06, 2022 18:11 | Tags: [drones](../tag/drones), [mining](../tag/mining), [water-quality](../tag/water-quality), [coal](../tag/coal), [mmmp](../tag/mmmp)
+January 06, 2022 18:11 | Tags: [drones](/tag/drones), [mining](/tag/mining), [water-quality](/tag/water-quality), [coal](/tag/coal), [mmmp](/tag/mmmp)
 
 ----
 

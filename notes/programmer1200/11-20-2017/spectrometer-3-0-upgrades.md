@@ -6,18 +6,16 @@ author: programmer1200
 path: /notes/programmer1200/11-20-2017/spectrometer-3-0-upgrades.md
 nid: 15207
 uid: 509305
-
 cids: 17735,17736,17737,17743,17757,17758,17766
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/459/original/insidespec.jpg)
 
 # Spectrometer 3.0 Upgrades
 
-by [programmer1200](../../../profile/programmer1200) | November 20, 2017 17:35
+by [programmer1200](/profile/programmer1200) | November 20, 2017 17:35
 
-November 20, 2017 17:35 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [cuvette](../tag/cuvette), [modifications](../tag/modifications), [barnstar:basic](../tag/barnstar:basic), [upgrade:spectrometry](../tag/upgrade:spectrometry), [upgrade:dssk](../tag/upgrade:dssk), [activity:dssk](../tag/activity:dssk), [dssk](../tag/dssk)
+November 20, 2017 17:35 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [cuvette](/tag/cuvette), [modifications](/tag/modifications), [barnstar:basic](/tag/barnstar:basic), [upgrade:spectrometry](/tag/upgrade:spectrometry), [upgrade:dssk](/tag/upgrade:dssk), [activity:dssk](/tag/activity:dssk), [dssk](/tag/dssk)
 
 ----
 

@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/01-19-2015/filters-in-focus.md
 nid: 11531
 uid: 554
-
 cids: 11058,11059,12585,12588
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/643/original/S95Convert-512-10.jpg)
 
 # Filters in focus
 
-by [cfastie](../../../profile/cfastie) | January 19, 2015 04:19
+by [cfastie](/profile/cfastie) | January 19, 2015 04:19
 
-January 19, 2015 04:19 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [infrared](../tag/infrared), [a2200](../tag/a2200), [conversion](../tag/conversion), [filter](../tag/filter), [infragram](../tag/infragram), [focus](../tag/focus), [infrablue](../tag/infrablue), [bg3](../tag/bg3), [wratten25a](../tag/wratten25a), [response:9744](../tag/response:9744), [wratten15](../tag/wratten15)
+January 19, 2015 04:19 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [vermont](/tag/vermont), [infrared](/tag/infrared), [a2200](/tag/a2200), [conversion](/tag/conversion), [filter](/tag/filter), [infragram](/tag/infragram), [focus](/tag/focus), [infrablue](/tag/infrablue), [bg3](/tag/bg3), [wratten25a](/tag/wratten25a), [response:9744](/tag/response:9744), [wratten15](/tag/wratten15)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/7-27-2012/prototype-diy-glove-box.md
 nid: 2971
 uid: 1
-
 cids: 1099,1100,1101
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/737/original/glovebox.png)
 
 # Prototype DIY glove box
 
-by [warren](../../../profile/warren) | July 27, 2012 17:29
+by [warren](/profile/warren) | July 27, 2012 17:29
 
-July 27, 2012 17:29 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen](../tag/hydrogen)
+July 27, 2012 17:29 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen](/tag/hydrogen)
 
 ----
 

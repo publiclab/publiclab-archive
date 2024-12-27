@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/06-18-2014/underwater-ledz-first-test.md
 nid: 10584
 uid: 43651
-
 cids: 9210,9632
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/832/original/front.png)
 
 # "Underwater LEDz" -- first test
 
-by [donblair](../../../profile/donblair) | June 18, 2014 12:39
+by [donblair](/profile/donblair) | June 18, 2014 12:39
 
-June 18, 2014 12:39 | Tags: [riffle](../tag/riffle), [riffle-examples](../tag/riffle-examples)
+June 18, 2014 12:39 | Tags: [riffle](/tag/riffle), [riffle-examples](/tag/riffle-examples)
 
 ----
 

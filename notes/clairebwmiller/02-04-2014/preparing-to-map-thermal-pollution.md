@@ -6,18 +6,16 @@ author: clairebwmiller
 path: /notes/clairebwmiller/02-04-2014/preparing-to-map-thermal-pollution.md
 nid: 10010
 uid: 420611
-
 cids: 8162,8186,8277
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/766/original/IMG_20140203_203151.jpg)
 
 # Preparing to map thermal pollution
 
-by [clairebwmiller](../../../profile/clairebwmiller) | February 04, 2014 16:59
+by [clairebwmiller](/profile/clairebwmiller) | February 04, 2014 16:59
 
-February 04, 2014 16:59 | Tags: [thermal-photography](../tag/thermal-photography), [tac](../tag/tac), [thermal-imaging](../tag/thermal-imaging), [flir](../tag/flir), [thermal-pollution](../tag/thermal-pollution)
+February 04, 2014 16:59 | Tags: [thermal-photography](/tag/thermal-photography), [tac](/tag/tac), [thermal-imaging](/tag/thermal-imaging), [flir](/tag/flir), [thermal-pollution](/tag/thermal-pollution)
 
 ----
 

@@ -6,12 +6,12 @@ author: warren
 path: /wiki/balloon-mapping-2.md
 nid: 101
 uid: 1
-
+cids: 
 ---
 
 # Balloon Mapping
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 February 23, 2011 05:31 | Tags: 
 

@@ -6,14 +6,14 @@ author: nicholas
 path: /wiki/publishing-collaboratively.md
 nid: 11650
 uid: 53894
-
+cids: 
 ---
 
 # Publishing Collaboratively 
 
-by [nicholas](../profile/nicholas)
+by [nicholas](/profile/nicholas)
 
-March 02, 2015 14:17 | Tags: [publication](../tag/publication), [research-notes](../tag/research-notes), [workflows](../tag/workflows)
+March 02, 2015 14:17 | Tags: [publication](/tag/publication), [research-notes](/tag/research-notes), [workflows](/tag/workflows)
 
 ----
 

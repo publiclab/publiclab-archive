@@ -6,14 +6,14 @@ author: warren
 path: /wiki/inline-maps.md
 nid: 14171
 uid: 1
-
+cids: 
 ---
 
 # Inline maps
 
-by [warren](../profile/warren), [sagarpreet](../profile/sagarpreet)
+by [warren](/profile/warren), [sagarpreet](/profile/sagarpreet)
 
-May 09, 2017 22:25 | Tags: [power-tags](../tag/power-tags), [parent:power-tags](../tag/parent:power-tags)
+May 09, 2017 22:25 | Tags: [power-tags](/tag/power-tags), [parent:power-tags](/tag/parent:power-tags)
 
 ----
 

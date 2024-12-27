@@ -6,16 +6,14 @@ author: niklasjordan
 path: /notes/niklasjordan/05-28-2018/how-to-design-scientific-experiments.md
 nid: 16400
 uid: 531062
-
 cids: 19705,23096,23522
-
 ---
 
 # How to design scientific experiments?
 
-by [niklasjordan](../../../profile/niklasjordan) | May 28, 2018 12:29
+by [niklasjordan](/profile/niklasjordan) | May 28, 2018 12:29
 
-May 28, 2018 12:29 | Tags: [answered](../tag/answered), [experimental-design](../tag/experimental-design), [category:experiment](../tag/category:experiment), [question:general](../tag/question:general), [study-design](../tag/study-design), [question:study-design](../tag/question:study-design)
+May 28, 2018 12:29 | Tags: [answered](/tag/answered), [experimental-design](/tag/experimental-design), [category:experiment](/tag/category:experiment), [question:general](/tag/question:general), [study-design](/tag/study-design), [question:study-design](/tag/question:study-design)
 
 ----
 

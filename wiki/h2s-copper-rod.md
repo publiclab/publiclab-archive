@@ -6,14 +6,14 @@ author: warren
 path: /wiki/h2s-copper-rod.md
 nid: 15253
 uid: 1
-
+cids: 
 ---
 
 # h2s-copper-rod
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-November 28, 2017 22:05 | Tags: [redirect:15067](../tag/redirect:15067)
+November 28, 2017 22:05 | Tags: [redirect:15067](/tag/redirect:15067)
 
 ----
 

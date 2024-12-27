@@ -6,18 +6,16 @@ author: bhickman
 path: /notes/bhickman/04-21-2014/wheetrometer-2-0.md
 nid: 10338
 uid: 201929
-
 cids: 8840,8855,8958,8968,8972
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/763/original/feb92014_flourescencespec2.png)
 
 # WheeTrometer 2.0
 
-by [bhickman](../../../profile/bhickman) | April 21, 2014 04:11
+by [bhickman](/profile/bhickman) | April 21, 2014 04:11
 
-April 21, 2014 04:11 | Tags: [spectrometer](../tag/spectrometer)
+April 21, 2014 04:11 | Tags: [spectrometer](/tag/spectrometer)
 
 ----
 

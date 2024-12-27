@@ -6,14 +6,14 @@ author: warren
 path: /wiki/spectrometry-sampling.md
 nid: 9403
 uid: 1
-
+cids: 
 ---
 
 # Spectrometry Sampling
 
-by [warren](../profile/warren), [OpenSourceScience](../profile/OpenSourceScience)
+by [warren](/profile/warren), [OpenSourceScience](/profile/OpenSourceScience)
 
-October 05, 2013 21:18 | Tags: [spectrometer](../tag/spectrometer), [sampling](../tag/sampling), [spectrometry-sampling](../tag/spectrometry-sampling), [parent:sampling](../tag/parent:sampling), [sample-collection](../tag/sample-collection)
+October 05, 2013 21:18 | Tags: [spectrometer](/tag/spectrometer), [sampling](/tag/sampling), [spectrometry-sampling](/tag/spectrometry-sampling), [parent:sampling](/tag/parent:sampling), [sample-collection](/tag/sample-collection)
 
 ----
 
@@ -21,7 +21,7 @@ October 05, 2013 21:18 | Tags: [spectrometer](../tag/spectrometer), [sampling](.
 
 ## Questions
 
-[spectrometry-sampling](../../tag/question:spectrometry-sampling)
+[spectrometry-sampling](/tag/question:spectrometry-sampling)
 
 ****
 
@@ -92,4 +92,4 @@ Read more about flame spectroscopy:
 
 ### Activities
 
-[spectrometry-sampling](../../tag/activity:spectrometry-sampling)
+[spectrometry-sampling](/tag/activity:spectrometry-sampling)

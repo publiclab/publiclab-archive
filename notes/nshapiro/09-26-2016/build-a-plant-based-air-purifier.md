@@ -6,18 +6,16 @@ author: nshapiro
 path: /notes/nshapiro/09-26-2016/build-a-plant-based-air-purifier.md
 nid: 13480
 uid: 380298
-
 cids: 15498,15520,16568,16839,18599,18604,18835,19192,19589,19757,20880,20881,20942,21665,25424,26150,26151,26155,26191,30998,31081
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/143/original/Plant_air.jpg)
 
 # Build a plant-based air purifier 
 
-by [nshapiro](../../../profile/nshapiro) | September 26, 2016 15:15
+by [nshapiro](/profile/nshapiro) | September 26, 2016 15:15
 
-September 26, 2016 15:15 | Tags: [remediation](../tag/remediation), [air-quality](../tag/air-quality), [barnstar:basic](../tag/barnstar:basic), [formaldehyde](../tag/formaldehyde), [open-air](../tag/open-air), [filters](../tag/filters), [indoor-air-quality](../tag/indoor-air-quality), [indoor-air](../tag/indoor-air), [pick](../tag/pick), [current](../tag/current), [difficulty:easy](../tag/difficulty:easy), [seeks:replications](../tag/seeks:replications), [time:3h](../tag/time:3h), [category:build](../tag/category:build), [status:in-progress](../tag/status:in-progress), [vocs](../tag/vocs), [activity:open-air](../tag/activity:open-air), [activity:formaldehyde](../tag/activity:formaldehyde), [activity:indoor-air-remediation](../tag/activity:indoor-air-remediation), [plant-air-purifier-prototypes](../tag/plant-air-purifier-prototypes), [activity:filters](../tag/activity:filters)
+September 26, 2016 15:15 | Tags: [remediation](/tag/remediation), [air-quality](/tag/air-quality), [barnstar:basic](/tag/barnstar:basic), [formaldehyde](/tag/formaldehyde), [open-air](/tag/open-air), [filters](/tag/filters), [indoor-air-quality](/tag/indoor-air-quality), [indoor-air](/tag/indoor-air), [pick](/tag/pick), [current](/tag/current), [difficulty:easy](/tag/difficulty:easy), [seeks:replications](/tag/seeks:replications), [time:3h](/tag/time:3h), [category:build](/tag/category:build), [status:in-progress](/tag/status:in-progress), [vocs](/tag/vocs), [activity:open-air](/tag/activity:open-air), [activity:formaldehyde](/tag/activity:formaldehyde), [activity:indoor-air-remediation](/tag/activity:indoor-air-remediation), [plant-air-purifier-prototypes](/tag/plant-air-purifier-prototypes), [activity:filters](/tag/activity:filters)
 
 ----
 

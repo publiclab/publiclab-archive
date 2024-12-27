@@ -6,16 +6,14 @@ author: JoshMc
 path: /notes/joshmc/4-28-2012/setup-uv-testing-specrtrometer.md
 nid: 1833
 uid: 995
-
 cids: 942,1019,1021,1022,1033,1145,1146,1175,1176,1177,1178,1190,1191,1200,1238,1239,1244,1269,1328,1332,1334,1337,1342,1361,1363,1364,1410,1461,1474,8721
-
 ---
 
 # Setup for UV Testing with Specrtrometer
 
-by [JoshMc](../../../profile/JoshMc) | April 28, 2012 12:18
+by [JoshMc](/profile/JoshMc) | April 28, 2012 12:18
 
-April 28, 2012 12:18 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [ultraviolet](../tag/ultraviolet), [fluorescence](../tag/fluorescence), [activity:spectrometry](../tag/activity:spectrometry), [activity:science-fair](../tag/activity:science-fair), [first-time-poster](../tag/first-time-poster)
+April 28, 2012 12:18 | Tags: [spectrometer](/tag/spectrometer), [uv](/tag/uv), [ultraviolet](/tag/ultraviolet), [fluorescence](/tag/fluorescence), [activity:spectrometry](/tag/activity:spectrometry), [activity:science-fair](/tag/activity:science-fair), [first-time-poster](/tag/first-time-poster)
 
 ----
 

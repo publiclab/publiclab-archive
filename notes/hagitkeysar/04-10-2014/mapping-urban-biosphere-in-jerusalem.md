@@ -6,18 +6,16 @@ author: hagitkeysar
 path: /notes/hagitkeysar/04-10-2014/mapping-urban-biosphere-in-jerusalem.md
 nid: 10289
 uid: 152
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/585/original/20131201_114211.jpg)
 
 # mapping urban biosphere in Jerusalem
 
-by [hagitkeysar](../../../profile/hagitkeysar) | April 10, 2014 10:12
+by [hagitkeysar](/profile/hagitkeysar) | April 10, 2014 10:12
 
-April 10, 2014 10:12 | Tags: [balloon-mapping](../tag/balloon-mapping), [photography](../tag/photography), [jerusalem](../tag/jerusalem), [kite](../tag/kite), [rhus](../tag/rhus), [israel](../tag/israel), [palestine](../tag/palestine), [blog](../tag/blog), [aerial](../tag/aerial), [urban-biosphere](../tag/urban-biosphere), [geo-tagged-photography](../tag/geo-tagged-photography)
+April 10, 2014 10:12 | Tags: [balloon-mapping](/tag/balloon-mapping), [photography](/tag/photography), [jerusalem](/tag/jerusalem), [kite](/tag/kite), [rhus](/tag/rhus), [israel](/tag/israel), [palestine](/tag/palestine), [blog](/tag/blog), [aerial](/tag/aerial), [urban-biosphere](/tag/urban-biosphere), [geo-tagged-photography](/tag/geo-tagged-photography)
 
 ----
 

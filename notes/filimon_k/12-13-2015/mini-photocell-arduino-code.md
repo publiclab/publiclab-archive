@@ -6,18 +6,16 @@ author: filimon_k
 path: /notes/filimon_k/12-13-2015/mini-photocell-arduino-code.md
 nid: 12509
 uid: 460113
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/297/original/z.jpg)
 
 # Mini Photocell arduino code
 
-by [filimon_k](../../../profile/filimon_k) | December 13, 2015 19:38
+by [filimon_k](/profile/filimon_k) | December 13, 2015 19:38
 
-December 13, 2015 19:38 | Tags: [response:12507](../tag/response:12507)
+December 13, 2015 19:38 | Tags: [response:12507](/tag/response:12507)
 
 ----
 

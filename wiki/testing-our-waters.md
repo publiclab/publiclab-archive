@@ -6,16 +6,16 @@ author: TestOurWaters
 path: /wiki/testing-our-waters.md
 nid: 19763
 uid: 597615
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/056/original/download.png)
 
 # Testing Our Waters
 
-by [TestOurWaters](../profile/TestOurWaters)
+by [TestOurWaters](/profile/TestOurWaters)
 
-June 20, 2019 16:14 | Tags: [ocean](../tag/ocean), [micro-plastics](../tag/micro-plastics), [method](../tag/method), [plastics](../tag/plastics), [trawls](../tag/trawls), [trawling](../tag/trawling)
+June 20, 2019 16:14 | Tags: [ocean](/tag/ocean), [micro-plastics](/tag/micro-plastics), [method](/tag/method), [plastics](/tag/plastics), [trawls](/tag/trawls), [trawling](/tag/trawling)
 
 ----
 

@@ -6,12 +6,12 @@ author: donblair
 path: /wiki/sensor-journalism.md
 nid: 11428
 uid: 43651
-
+cids: 
 ---
 
 # sensor-journalism
 
-by [donblair](../profile/donblair)
+by [donblair](/profile/donblair)
 
 December 03, 2014 14:11 | Tags: 
 

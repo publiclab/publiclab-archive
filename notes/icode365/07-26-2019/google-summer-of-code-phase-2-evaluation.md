@@ -6,16 +6,14 @@ author: icode365
 path: /notes/icode365/07-26-2019/google-summer-of-code-phase-2-evaluation.md
 nid: 20321
 uid: 553778
-
 cids: 25143,25145,25148
-
 ---
 
 # Google Summer of Code: Phase 2 Evaluation
 
-by [icode365](../../../profile/icode365) | July 26, 2019 00:46
+by [icode365](/profile/icode365) | July 26, 2019 00:46
 
-July 26, 2019 00:46 | Tags: [gsoc](../tag/gsoc), [community-toolbox](../tag/community-toolbox), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-eval](../tag/soc-2019-eval)
+July 26, 2019 00:46 | Tags: [gsoc](/tag/gsoc), [community-toolbox](/tag/community-toolbox), [gsoc-2019](/tag/gsoc-2019), [soc-2019](/tag/soc-2019), [soc-2019-eval](/tag/soc-2019-eval)
 
 ----
 

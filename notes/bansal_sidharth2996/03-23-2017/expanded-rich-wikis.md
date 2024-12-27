@@ -6,16 +6,14 @@ author: bansal_sidharth2996
 path: /notes/bansal_sidharth2996/03-23-2017/expanded-rich-wikis.md
 nid: 14051
 uid: 503599
-
 cids: 16515,16521
-
 ---
 
 # Expanded  Rich Wikis
 
-by [bansal_sidharth2996](../../../profile/bansal_sidharth2996) | March 23, 2017 12:55
+by [bansal_sidharth2996](/profile/bansal_sidharth2996) | March 23, 2017 12:55
 
-March 23, 2017 12:55 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [rgsoc-2017](../tag/rgsoc-2017), [soc-2017-proposals](../tag/soc-2017-proposals), [response:13975](../tag/response:13975), [first-time-poster](../tag/first-time-poster)
+March 23, 2017 12:55 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [gsoc-2017](/tag/gsoc-2017), [soc](/tag/soc), [soc-2017](/tag/soc-2017), [rgsoc-2017](/tag/rgsoc-2017), [soc-2017-proposals](/tag/soc-2017-proposals), [response:13975](/tag/response:13975), [first-time-poster](/tag/first-time-poster)
 
 ----
 

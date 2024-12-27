@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/05-30-2019/build-a-raspberry-pi-zero-aerial-photo-rig.md
 nid: 19578
 uid: 1
-
 cids: 24307,24308,24312,24342,24351,27571
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/603/original/IMG_20181206_124527_021.jpg)
 
 # Build a Raspberry Pi Zero aerial photo rig
 
-by [warren](../../../profile/warren) | May 30, 2019 15:12
+by [warren](/profile/warren) | May 30, 2019 15:12
 
-May 30, 2019 15:12 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [photo-rig](../tag/photo-rig), [raspberry-pi](../tag/raspberry-pi), [pi-camera](../tag/pi-camera), [raspberry-pi-cameras](../tag/raspberry-pi-cameras), [replication:10166](../tag/replication:10166), [response:10166](../tag/response:10166)
+May 30, 2019 15:12 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [photo-rig](/tag/photo-rig), [raspberry-pi](/tag/raspberry-pi), [pi-camera](/tag/pi-camera), [raspberry-pi-cameras](/tag/raspberry-pi-cameras), [replication:10166](/tag/replication:10166), [response:10166](/tag/response:10166)
 
 ----
 

@@ -6,18 +6,16 @@ author: scaramel
 path: /notes/scaramel/6-13-2013/video-kitemappers.md
 nid: 8189
 uid: 43696
-
 cids: 5440,5699,6068,8941
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/501/original/Screen_Shot_2013-06-13_at_7.07.35_PM.png)
 
 # Video: Kitemappers
 
-by [scaramel](../../../profile/scaramel) | June 13, 2013 19:56
+by [scaramel](/profile/scaramel) | June 13, 2013 19:56
 
-June 13, 2013 19:56 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [video](../tag/video), [photo-rig](../tag/photo-rig), [barnraising](../tag/barnraising), [lumcon](../tag/lumcon)
+June 13, 2013 19:56 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [video](/tag/video), [photo-rig](/tag/photo-rig), [barnraising](/tag/barnraising), [lumcon](/tag/lumcon)
 
 ----
 

@@ -6,18 +6,16 @@ author: aeriall
 path: /notes/aeriall/01-28-2016/mapknitter-map-of-defileul-bue-ti.md
 nid: 12628
 uid: 461834
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/901/original/Aeriall-CompanyLogo_for_Yoast.png)
 
 # MapKnitter map of Defileul Buești
 
-by [aeriall](../../../profile/aeriall) | January 28, 2016 07:41
+by [aeriall](/profile/aeriall) | January 28, 2016 07:41
 
-January 28, 2016 07:41 | Tags: [mapknitter](../tag/mapknitter), [lat:44.5445604393](../tag/lat:44.5445604393), [lon:27.1730303764](../tag/lon:27.1730303764)
+January 28, 2016 07:41 | Tags: [mapknitter](/tag/mapknitter), [lat:44.5445604393](/tag/lat:44.5445604393), [lon:27.1730303764](/tag/lon:27.1730303764)
 
 ----
 

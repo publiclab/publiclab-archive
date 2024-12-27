@@ -6,18 +6,16 @@ author: bansal_sidharth2996
 path: /notes/bansal_sidharth2996/02-20-2018/gsoc-proposal-oauth-authentication.md
 nid: 15771
 uid: 503599
-
 cids: 18607,18613,18615,18887,18960,18961,18962,18980,18992,18993,19045,19046,19047,19071,19072,19126,19128,19133,19143,19166,19167,19168,19210,19211,19212,19214,19215,19217,19218,19219,19236,19237,19239,19240,19241,19243,19302,19303
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/721/original/omniauth.png)
 
 # GSoc Proposal: OAuth & Upgrade to Bootstrap 4
 
-by [bansal_sidharth2996](../../../profile/bansal_sidharth2996) | February 20, 2018 00:23
+by [bansal_sidharth2996](/profile/bansal_sidharth2996) | February 20, 2018 00:23
 
-February 20, 2018 00:23 | Tags: [gsoc](../tag/gsoc), [user](../tag/user), [soc](../tag/soc), [gsoc-2018](../tag/gsoc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [config](../tag/config), [gsoc-2018-final](../tag/gsoc-2018-final)
+February 20, 2018 00:23 | Tags: [gsoc](/tag/gsoc), [user](/tag/user), [soc](/tag/soc), [gsoc-2018](/tag/gsoc-2018), [soc-2018-proposals](/tag/soc-2018-proposals), [config](/tag/config), [gsoc-2018-final](/tag/gsoc-2018-final)
 
 ----
 

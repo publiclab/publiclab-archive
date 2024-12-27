@@ -6,12 +6,12 @@ author: warren
 path: /wiki/infragram-sponsorship.md
 nid: 8175
 uid: 1
-
+cids: 
 ---
 
 # Infragram Sponsorship
 
-by [Shannon](../profile/Shannon), [warren](../profile/warren)
+by [Shannon](/profile/Shannon), [warren](/profile/warren)
 
 June 12, 2013 14:00 | Tags: 
 

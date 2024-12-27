@@ -6,18 +6,16 @@ author: hagitkeysar
 path: /notes/hagitkeysar/3-30-2013/community-aerial-maps-uni-posters-0.md
 nid: 6624
 uid: 152
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/seminar-8-4_0.jpg)
 
 # Community Aerial Maps on Uni' Posters
 
-by [hagitkeysar](../../../profile/hagitkeysar) | March 30, 2013 20:01
+by [hagitkeysar](/profile/hagitkeysar) | March 30, 2013 20:01
 
-March 30, 2013 20:01 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [hagit-keysar](../tag/hagit-keysar), [israel](../tag/israel), [palestine](../tag/palestine), [design](../tag/design), [publication](../tag/publication), [middle-east](../tag/middle-east)
+March 30, 2013 20:01 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [hagit-keysar](/tag/hagit-keysar), [israel](/tag/israel), [palestine](/tag/palestine), [design](/tag/design), [publication](/tag/publication), [middle-east](/tag/middle-east)
 
 ----
 

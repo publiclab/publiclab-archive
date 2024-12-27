@@ -6,16 +6,14 @@ author: vidit
 path: /notes/vidit/04-13-2019/gsoc-19-mapknitter-synchronous-editing.md
 nid: 19051
 uid: 517093
-
 cids: 23891,24130
-
 ---
 
 # GSOC-19 Mapknitter synchronous editing
 
-by [vidit](../../../profile/vidit) | April 13, 2019 19:42
+by [vidit](/profile/vidit) | April 13, 2019 19:42
 
-April 13, 2019 19:42 | Tags: [summer-camp](../tag/summer-camp), [gsoc](../tag/gsoc), [google-summer-of-code](../tag/google-summer-of-code), [gsoc-proposal](../tag/gsoc-proposal), [summer-of-code](../tag/summer-of-code), [soc-2019-proposals](../tag/soc-2019-proposals), [soc-2019-projects](../tag/soc-2019-projects)
+April 13, 2019 19:42 | Tags: [summer-camp](/tag/summer-camp), [gsoc](/tag/gsoc), [google-summer-of-code](/tag/google-summer-of-code), [gsoc-proposal](/tag/gsoc-proposal), [summer-of-code](/tag/summer-of-code), [soc-2019-proposals](/tag/soc-2019-proposals), [soc-2019-projects](/tag/soc-2019-projects)
 
 ----
 

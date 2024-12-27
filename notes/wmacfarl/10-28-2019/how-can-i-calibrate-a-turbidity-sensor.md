@@ -6,18 +6,16 @@ author: wmacfarl
 path: /notes/wmacfarl/10-28-2019/how-can-i-calibrate-a-turbidity-sensor.md
 nid: 21316
 uid: 424597
-
 cids: 25757,25759,25760,25797
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/064/original/turbid_water.jpg)
 
 # How can I calibrate a turbidity sensor?
 
-by [wmacfarl](../../../profile/wmacfarl) | October 28, 2019 15:03
+by [wmacfarl](/profile/wmacfarl) | October 28, 2019 15:03
 
-October 28, 2019 15:03 | Tags: [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [question:water-quality](../tag/question:water-quality), [oil-and-gas](../tag/oil-and-gas), [question:oil-and-gas](../tag/question:oil-and-gas), [question:turbidity](../tag/question:turbidity), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [question:oil-and-gas-water-trio](../tag/question:oil-and-gas-water-trio), [oil-and-gas-water-quality](../tag/oil-and-gas-water-quality), [question:oil-and-gas-water-quality](../tag/question:oil-and-gas-water-quality), [simple-water-sensor-platform](../tag/simple-water-sensor-platform), [question:simple-water-sensor-platform](../tag/question:simple-water-sensor-platform)
+October 28, 2019 15:03 | Tags: [water-quality](/tag/water-quality), [turbidity](/tag/turbidity), [question:water-quality](/tag/question:water-quality), [oil-and-gas](/tag/oil-and-gas), [question:oil-and-gas](/tag/question:oil-and-gas), [question:turbidity](/tag/question:turbidity), [oil-and-gas-water-trio](/tag/oil-and-gas-water-trio), [question:oil-and-gas-water-trio](/tag/question:oil-and-gas-water-trio), [oil-and-gas-water-quality](/tag/oil-and-gas-water-quality), [question:oil-and-gas-water-quality](/tag/question:oil-and-gas-water-quality), [simple-water-sensor-platform](/tag/simple-water-sensor-platform), [question:simple-water-sensor-platform](/tag/question:simple-water-sensor-platform)
 
 ----
 

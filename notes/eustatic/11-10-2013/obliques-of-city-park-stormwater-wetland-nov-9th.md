@@ -6,18 +6,16 @@ author: eustatic
 path: /11-10-2013/obliques-of-city-park-stormwater-wetland-nov-9th.md
 nid: 9758
 uid: 379
-
 cids: 7527,7536,7537,7538,7542
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/187/original/10767703546_c88413e6d9_b_1_.jpg)
 
 # Obliques of City Park Stormwater wetland Nov 9th
 
-by [eustatic](../../../profile/eustatic) | November 10, 2013 00:32
+by [eustatic](/profile/eustatic) | November 10, 2013 00:32
 
-November 10, 2013 00:32 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [polemapping](../tag/polemapping), [pole-mapping](../tag/pole-mapping), [flood](../tag/flood), [stormwater](../tag/stormwater)
+November 10, 2013 00:32 | Tags: [gulf-coast](/tag/gulf-coast), [kite-mapping](/tag/kite-mapping), [polemapping](/tag/polemapping), [pole-mapping](/tag/pole-mapping), [flood](/tag/flood), [stormwater](/tag/stormwater)
 
 ----
 

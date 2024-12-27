@@ -6,18 +6,16 @@ author: roberts_ecofarm
 path: /notes/roberts_ecofarm/10-24-2018/inexpensive-conductivity-probe-for-drinking-water-monitoring-network.md
 nid: 17383
 uid: 556121
-
 cids: 20960,20984,21016,21023
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/186/original/water_quality.jpg)
 
 # Inexpensive conductivity probe for drinking water monitoring network
 
-by [roberts_ecofarm](../../../profile/roberts_ecofarm) | October 24, 2018 16:30
+by [roberts_ecofarm](/profile/roberts_ecofarm) | October 24, 2018 16:30
 
-October 24, 2018 16:30 | Tags: [water-sensing](../tag/water-sensing), [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [drinking-water](../tag/drinking-water), [data-logging](../tag/data-logging), [citizenscience](../tag/citizenscience), [location:blurred](../tag/location:blurred), [lat:40](../tag/lat:40), [lon:-80](../tag/lon:-80), [place:ohio](../tag/place:ohio), [cave-pearl](../tag/cave-pearl)
+October 24, 2018 16:30 | Tags: [water-sensing](/tag/water-sensing), [water-quality](/tag/water-quality), [conductivity](/tag/conductivity), [drinking-water](/tag/drinking-water), [data-logging](/tag/data-logging), [citizenscience](/tag/citizenscience), [location:blurred](/tag/location:blurred), [lat:40](/tag/lat:40), [lon:-80](/tag/lon:-80), [place:ohio](/tag/place:ohio), [cave-pearl](/tag/cave-pearl)
 
 ----
 

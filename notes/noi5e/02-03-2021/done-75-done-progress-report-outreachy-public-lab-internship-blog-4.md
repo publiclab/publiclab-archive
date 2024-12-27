@@ -6,18 +6,16 @@ author: noi5e
 path: /notes/noi5e/02-03-2021/done-75-done-progress-report-outreachy-public-lab-internship-blog-4.md
 nid: 25587
 uid: 726270
-
 cids: 28120,28136,28143,28144,28146
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/589/original/maxresdefault.jpg)
 
 # ¾ Done! 75% Done! Progress Report! - [Outreachy & Public Lab Internship] Blog #4
 
-by [noi5e](../../../profile/noi5e) | February 03, 2021 04:40
+by [noi5e](/profile/noi5e) | February 03, 2021 04:40
 
-February 03, 2021 04:40 | Tags: [outreachy](../tag/outreachy), [soc-2020](../tag/soc-2020), [outreachy-2020](../tag/outreachy-2020)
+February 03, 2021 04:40 | Tags: [outreachy](/tag/outreachy), [soc-2020](/tag/soc-2020), [outreachy-2020](/tag/outreachy-2020)
 
 ----
 

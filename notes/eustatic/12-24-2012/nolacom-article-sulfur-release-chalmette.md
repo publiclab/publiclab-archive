@@ -6,16 +6,14 @@ author: eustatic
 path: /12-24-2012/nolacom-article-sulfur-release-chalmette.md
 nid: 5328
 uid: 379
-
 cids: 
-
 ---
 
 # NOLA.com article on Sulfur release to Chalmette
 
-by [eustatic](../../../profile/eustatic) | December 24, 2012 23:07
+by [eustatic](/profile/eustatic) | December 24, 2012 23:07
 
-December 24, 2012 23:07 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing)
+December 24, 2012 23:07 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing)
 
 ----
 

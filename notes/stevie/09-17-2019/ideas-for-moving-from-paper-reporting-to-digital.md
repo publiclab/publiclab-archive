@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/09-17-2019/ideas-for-moving-from-paper-reporting-to-digital.md
 nid: 20898
 uid: 422561
-
 cids: 25534,25540,25825
-
 ---
 
 # Ideas for moving from paper reporting to digital?
 
-by [stevie](../../../profile/stevie) | September 17, 2019 20:23
+by [stevie](/profile/stevie) | September 17, 2019 20:23
 
-September 17, 2019 20:23 | Tags: [question:question](../tag/question:question), [question:sentinel](../tag/question:sentinel), [question:reporting](../tag/question:reporting), [question:midwest](../tag/question:midwest)
+September 17, 2019 20:23 | Tags: [question:question](/tag/question:question), [question:sentinel](/tag/question:sentinel), [question:reporting](/tag/question:reporting), [question:midwest](/tag/question:midwest)
 
 ----
 

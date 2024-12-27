@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/1-31-2013/room-sized-air-column-monitor.md
 nid: 5833
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/wea01433.jpg)
 
 # Room-sized "air column monitor"
 
-by [liz](../../../profile/liz) | January 31, 2013 23:23
+by [liz](/profile/liz) | January 31, 2013 23:23
 
-January 31, 2013 23:23 | Tags: [air-column-monitor](../tag/air-column-monitor)
+January 31, 2013 23:23 | Tags: [air-column-monitor](/tag/air-column-monitor)
 
 ----
 

@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/12-03-2017/putting-sensor-data-to-work.md
 nid: 15288
 uid: 554
-
 cids: 17866
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/738/original/StoveRelay_20171122-1726.JPG)
 
 # Putting sensor data to work
 
-by [cfastie](../../../profile/cfastie) | December 03, 2017 00:46
+by [cfastie](/profile/cfastie) | December 03, 2017 00:46
 
-December 03, 2017 00:46 | Tags: [arduino](../tag/arduino), [temperature](../tag/temperature), [datalogger](../tag/datalogger), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [data-logging](../tag/data-logging), [activity:data-logging](../tag/activity:data-logging), [feather](../tag/feather), [thermal-infrared](../tag/thermal-infrared), [gy90614](../tag/gy90614), [relay](../tag/relay), [activity:feather](../tag/activity:feather), [series:woodstove-control](../tag/series:woodstove-control)
+December 03, 2017 00:46 | Tags: [arduino](/tag/arduino), [temperature](/tag/temperature), [datalogger](/tag/datalogger), [barnstar:photo-documentation](/tag/barnstar:photo-documentation), [data-logging](/tag/data-logging), [activity:data-logging](/tag/activity:data-logging), [feather](/tag/feather), [thermal-infrared](/tag/thermal-infrared), [gy90614](/tag/gy90614), [relay](/tag/relay), [activity:feather](/tag/activity:feather), [series:woodstove-control](/tag/series:woodstove-control)
 
 ----
 

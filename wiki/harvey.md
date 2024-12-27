@@ -6,14 +6,14 @@ author: warren
 path: /wiki/harvey.md
 nid: 14806
 uid: 1
-
+cids: 
 ---
 
 # Harvey Response
 
-by [warren](../profile/warren), [zengirl2](../profile/zengirl2), [liz](../profile/liz)
+by [warren](/profile/warren), [zengirl2](/profile/zengirl2), [liz](/profile/liz)
 
-August 31, 2017 15:09 | Tags: [hurricane](../tag/hurricane), [coordinating](../tag/coordinating), [disaster-response](../tag/disaster-response), [harvey](../tag/harvey), [hurricanes](../tag/hurricanes), [storms](../tag/storms), [harvey-response](../tag/harvey-response), [ajustharveyrecovery](../tag/ajustharveyrecovery)
+August 31, 2017 15:09 | Tags: [hurricane](/tag/hurricane), [coordinating](/tag/coordinating), [disaster-response](/tag/disaster-response), [harvey](/tag/harvey), [hurricanes](/tag/hurricanes), [storms](/tag/storms), [harvey-response](/tag/harvey-response), [ajustharveyrecovery](/tag/ajustharveyrecovery)
 
 ----
 
@@ -48,14 +48,14 @@ Please add your name and/or comments there, even if you can't join, and we'll do
 
 Notes from these calls will be listed here:
 
-[harvey-calls](../../tag/harvey-calls)
+[harvey-calls](/tag/harvey-calls)
 
 
 ****
 
 ## Requests for help
 
-[harvey](../../tag/activity:harvey)
+[harvey](/tag/activity:harvey)
 
 ****
 
@@ -63,7 +63,7 @@ Notes from these calls will be listed here:
 
 Please post questions (requests and/or asking if your offer of capacity is needed) relevant to Harvey here:
 
-[harvey](../../tag/question:harvey)
+[harvey](/tag/question:harvey)
 
 ****
 

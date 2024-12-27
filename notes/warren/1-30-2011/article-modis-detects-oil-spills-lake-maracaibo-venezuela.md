@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/1-30-2011/article-modis-detects-oil-spills-lake-maracaibo-venezuela.md
 nid: 67
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2011-01-30 at 3.42.39 PM.png)
 
 # Article: MODIS Detects Oil Spills in Lake Maracaibo, Venezuela
 
-by [warren](../../../profile/warren) | January 30, 2011 20:43
+by [warren](/profile/warren) | January 30, 2011 20:43
 
-January 30, 2011 20:43 | Tags: [remote-sensing](../tag/remote-sensing), [oil-spill](../tag/oil-spill), [nasa](../tag/nasa), [modis](../tag/modis), [south-america](../tag/south-america), [satellite](../tag/satellite), [venezuela](../tag/venezuela)
+January 30, 2011 20:43 | Tags: [remote-sensing](/tag/remote-sensing), [oil-spill](/tag/oil-spill), [nasa](/tag/nasa), [modis](/tag/modis), [south-america](/tag/south-america), [satellite](/tag/satellite), [venezuela](/tag/venezuela)
 
 ----
 

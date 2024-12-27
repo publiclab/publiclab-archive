@@ -6,16 +6,16 @@ author: warren
 path: /wiki/air-sensors.md
 nid: 15366
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/586/original/IMG_20180207_140817_021_2.jpg)
 
 # Air Sensors
 
-by [bhamster](../profile/bhamster), [warren](../profile/warren)
+by [bhamster](/profile/bhamster), [warren](/profile/warren)
 
-December 13, 2017 22:14 | Tags: [sensors](../tag/sensors), [dylos](../tag/dylos), [shinyei](../tag/shinyei), [sidebar:none](../tag/sidebar:none), [11927](../tag/11927), [parent:sensors](../tag/parent:sensors), [parent:air-quality](../tag/parent:air-quality)
+December 13, 2017 22:14 | Tags: [sensors](/tag/sensors), [dylos](/tag/dylos), [shinyei](/tag/shinyei), [sidebar:none](/tag/sidebar:none), [11927](/tag/11927), [parent:sensors](/tag/parent:sensors), [parent:air-quality](/tag/parent:air-quality)
 
 ----
 
@@ -33,7 +33,7 @@ Can you afford a sensor? Can it detect what you're looking for? Where can you le
 
 ### Posts about choosing and evaluating an air sensor
 
-[grid:air-sensor-eval](../../tag/grid:air-sensor-eval)
+[grid:air-sensor-eval](/tag/grid:air-sensor-eval)
 
 <br>
 
@@ -61,7 +61,7 @@ Public Lab pages and posts tagged `air-sensor-projects` will appear here
 
 ## Questions
 
-[air-sensors](../../tag/question:air-sensors)
+[air-sensors](/tag/question:air-sensors)
 
 <br>
 <hr>

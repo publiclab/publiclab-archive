@@ -6,12 +6,12 @@ author: warren
 path: /wiki/public-lab-intro-video-script.md
 nid: 5718
 uid: 1
-
+cids: 
 ---
 
 # Public Lab intro video script
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 January 25, 2013 23:44 | Tags: 
 

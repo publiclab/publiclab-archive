@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/8-1-2012/spectrometer-kickstarter-script.md
 nid: 3063
 uid: 1
-
 cids: 1105,1106,1107,1112,1113,1114,1117,1144
-
 ---
 
 ![](https://publiclab.org/sites/default/files/-014.jpg)
 
 # Spectrometer Kickstarter script
 
-by [warren](../../../profile/warren) | August 01, 2012 15:17
+by [warren](/profile/warren) | August 01, 2012 15:17
 
-August 01, 2012 15:17 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter)
+August 01, 2012 15:17 | Tags: [spectrometer](/tag/spectrometer), [kickstarter](/tag/kickstarter)
 
 ----
 

@@ -6,18 +6,16 @@ author: tonyc
 path: /notes/tonyc/03-22-2016/using-mobius-camera-as-a-trap-cam-in-field-deployments.md
 nid: 12876
 uid: 447491
-
 cids: 14017,14021,14028,14034,14041,14043,14044,14049,14113,14114,14265,14266,14837
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/184/original/IMG_1137.JPG)
 
 # Using Mobius camera as a "trap cam" in field deployments
 
-by [tonyc](../../../profile/tonyc) | March 22, 2016 18:36
+by [tonyc](/profile/tonyc) | March 22, 2016 18:36
 
-March 22, 2016 18:36 | Tags: [mobius](../tag/mobius), [barnstar:basic](../tag/barnstar:basic), [activity:timelapse](../tag/activity:timelapse), [activity:photo-monitoring](../tag/activity:photo-monitoring)
+March 22, 2016 18:36 | Tags: [mobius](/tag/mobius), [barnstar:basic](/tag/barnstar:basic), [activity:timelapse](/tag/activity:timelapse), [activity:photo-monitoring](/tag/activity:photo-monitoring)
 
 ----
 

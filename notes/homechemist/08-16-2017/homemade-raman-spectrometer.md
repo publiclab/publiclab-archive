@@ -6,18 +6,16 @@ author: homechemist
 path: /notes/homechemist/08-16-2017/homemade-raman-spectrometer.md
 nid: 14761
 uid: 212574
-
 cids: 17684,17817,17946
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/361/original/ramanmini2.jpg)
 
 # Homemade Raman spectrometer
 
-by [homechemist](../../../profile/homechemist) | August 16, 2017 20:32
+by [homechemist](/profile/homechemist) | August 16, 2017 20:32
 
-August 16, 2017 20:32 | Tags: [spectrometer](../tag/spectrometer), [raman](../tag/raman), [spectroscopy](../tag/spectroscopy), [homemade](../tag/homemade)
+August 16, 2017 20:32 | Tags: [spectrometer](/tag/spectrometer), [raman](/tag/raman), [spectroscopy](/tag/spectroscopy), [homemade](/tag/homemade)
 
 ----
 

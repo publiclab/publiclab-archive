@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/12-25-2014/santa-s-first-stop.md
 nid: 11497
 uid: 554
-
 cids: 11005,11029
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/536/original/3DXmas-557-33.jpg)
 
 # Santa's first stop
 
-by [cfastie](../../../profile/cfastie) | December 25, 2014 14:09
+by [cfastie](/profile/cfastie) | December 25, 2014 14:09
 
-December 25, 2014 14:09 | Tags: [holiday](../tag/holiday), [3d-printing](../tag/3d-printing), [christmas](../tag/christmas), [response:9915](../tag/response:9915)
+December 25, 2014 14:09 | Tags: [holiday](/tag/holiday), [3d-printing](/tag/3d-printing), [christmas](/tag/christmas), [response:9915](/tag/response:9915)
 
 ----
 

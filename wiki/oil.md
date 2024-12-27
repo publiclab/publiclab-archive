@@ -6,14 +6,14 @@ author: liz
 path: /wiki/oil.md
 nid: 17972
 uid: 7
-
+cids: 
 ---
 
 # oil
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-December 18, 2018 21:43 | Tags: [redirect:oil-and-gas](../tag/redirect:oil-and-gas)
+December 18, 2018 21:43 | Tags: [redirect:oil-and-gas](/tag/redirect:oil-and-gas)
 
 ----
 

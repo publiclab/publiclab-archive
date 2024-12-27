@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/06-11-2014/a-first-look-at-dust-with-consumer-scanners.md
 nid: 10550
 uid: 4
-
 cids: 9180,9183,9184,9188,9212,9226,10646
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/667/original/Screen_Shot_2014-06-10_at_6.18.38_PM.png)
 
 # a first look at dust with consumer scanners 
 
-by [mathew](../../../profile/mathew) | June 11, 2014 02:58
+by [mathew](/profile/mathew) | June 11, 2014 02:58
 
-June 11, 2014 02:58 | Tags: [silica](../tag/silica), [pm](../tag/pm), [midwest](../tag/midwest), [particle-sensing](../tag/particle-sensing), [particulate-monitoring](../tag/particulate-monitoring), [openair](../tag/openair), [stickypad](../tag/stickypad), [passive-pm](../tag/passive-pm)
+June 11, 2014 02:58 | Tags: [silica](/tag/silica), [pm](/tag/pm), [midwest](/tag/midwest), [particle-sensing](/tag/particle-sensing), [particulate-monitoring](/tag/particulate-monitoring), [openair](/tag/openair), [stickypad](/tag/stickypad), [passive-pm](/tag/passive-pm)
 
 ----
 

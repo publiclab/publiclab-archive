@@ -6,16 +6,14 @@ author: programmer1200
 path: /notes/programmer1200/02-03-2018/photometer-kit-idea.md
 nid: 15672
 uid: 509305
-
 cids: 18359,18360,18364,18365,18366,18373,18379,18383,18389,18952,18964,19085
-
 ---
 
 # Photometer Kit idea 
 
-by [programmer1200](../../../profile/programmer1200) | February 03, 2018 05:39
+by [programmer1200](/profile/programmer1200) | February 03, 2018 05:39
 
-February 03, 2018 05:39 | Tags: [arduino](../tag/arduino), [diy](../tag/diy), [kit](../tag/kit), [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [barnstar:basic](../tag/barnstar:basic), [photometer](../tag/photometer), [activity:turbidity](../tag/activity:turbidity), [community-kits-prep](../tag/community-kits-prep), [activity:prototype](../tag/activity:prototype), [activity:photometer](../tag/activity:photometer)
+February 03, 2018 05:39 | Tags: [arduino](/tag/arduino), [diy](/tag/diy), [kit](/tag/kit), [water-quality](/tag/water-quality), [turbidity](/tag/turbidity), [barnstar:basic](/tag/barnstar:basic), [photometer](/tag/photometer), [activity:turbidity](/tag/activity:turbidity), [community-kits-prep](/tag/community-kits-prep), [activity:prototype](/tag/activity:prototype), [activity:photometer](/tag/activity:photometer)
 
 ----
 

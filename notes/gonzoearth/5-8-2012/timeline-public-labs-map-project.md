@@ -6,18 +6,16 @@ author: gonzoearth
 path: /notes/gonzoearth/5-8-2012/timeline-public-labs-map-project.md
 nid: 1926
 uid: 12
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/70.jpg)
 
 # Timeline of a Public Labs map project
 
-by [gonzoearth](../../../profile/gonzoearth) | May 08, 2012 17:28
+by [gonzoearth](/profile/gonzoearth) | May 08, 2012 17:28
 
-May 08, 2012 17:28 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [idealab](../tag/idealab)
+May 08, 2012 17:28 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [idealab](/tag/idealab)
 
 ----
 

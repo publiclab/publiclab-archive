@@ -6,18 +6,16 @@ author: jarenfrow
 path: /notes/jarenfrow/10-19-2016/lamp.md
 nid: 13617
 uid: 494927
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/473/original/image.jpeg)
 
 # Lamp
 
-by [jarenfrow](../../../profile/jarenfrow) | October 19, 2016 17:27
+by [jarenfrow](/profile/jarenfrow) | October 19, 2016 17:27
 
-October 19, 2016 17:27 | Tags: [hidden:response](../tag/hidden:response), [response:13586](../tag/response:13586)
+October 19, 2016 17:27 | Tags: [hidden:response](/tag/hidden:response), [response:13586](/tag/response:13586)
 
 ----
 

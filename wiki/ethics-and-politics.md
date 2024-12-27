@@ -6,14 +6,14 @@ author: sara
 path: /wiki/ethics-and-politics.md
 nid: 395
 uid: 8
-
+cids: 
 ---
 
 # Ethics and Politics
 
-by [Shannon](../profile/Shannon), [warren](../profile/warren), [sara](../profile/sara)
+by [Shannon](/profile/Shannon), [warren](/profile/warren), [sara](/profile/sara)
 
-July 19, 2011 22:14 | Tags: [community](../tag/community), [ethics](../tag/ethics), [politics](../tag/politics), [consent](../tag/consent)
+July 19, 2011 22:14 | Tags: [community](/tag/community), [ethics](/tag/ethics), [politics](/tag/politics), [consent](/tag/consent)
 
 ----
 

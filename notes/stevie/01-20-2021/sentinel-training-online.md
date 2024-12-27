@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/01-20-2021/sentinel-training-online.md
 nid: 25505
 uid: 422561
-
 cids: 27984,28023,28068,28074,28280,29367
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/468/original/FracSandMining-2013-Auch25.JPG)
 
 # Sentinel Training Online
 
-by [stevie](../../../profile/stevie) | January 20, 2021 18:31
+by [stevie](/profile/stevie) | January 20, 2021 18:31
 
-January 20, 2021 18:31 | Tags: [reporting](../tag/reporting), [event](../tag/event), [wisconsin](../tag/wisconsin), [fracking](../tag/fracking), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [parent:frac-sand](../tag/parent:frac-sand), [particulate-matter](../tag/particulate-matter), [with:pat](../tag/with:pat), [violation-reporting](../tag/violation-reporting), [frac-sand-reporting](../tag/frac-sand-reporting), [sentinel](../tag/sentinel), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program), [sentinel-program](../tag/sentinel-program)
+January 20, 2021 18:31 | Tags: [reporting](/tag/reporting), [event](/tag/event), [wisconsin](/tag/wisconsin), [fracking](/tag/fracking), [frac-sand](/tag/frac-sand), [pm](/tag/pm), [parent:frac-sand](/tag/parent:frac-sand), [particulate-matter](/tag/particulate-matter), [with:pat](/tag/with:pat), [violation-reporting](/tag/violation-reporting), [frac-sand-reporting](/tag/frac-sand-reporting), [sentinel](/tag/sentinel), [parent:the-sand-sentinel-program](/tag/parent:the-sand-sentinel-program), [sentinel-program](/tag/sentinel-program)
 
 ----
 

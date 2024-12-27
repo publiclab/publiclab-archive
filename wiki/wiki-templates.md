@@ -6,14 +6,14 @@ author: stevie
 path: /wiki/wiki-templates.md
 nid: 15049
 uid: 422561
-
+cids: 
 ---
 
 # Wiki Templates 
 
-by [warren](../profile/warren), [stevie](../profile/stevie)
+by [warren](/profile/warren), [stevie](/profile/stevie)
 
-October 13, 2017 18:42 | Tags: [issue](../tag/issue), [templates](../tag/templates), [template](../tag/template), [parent:website](../tag/parent:website)
+October 13, 2017 18:42 | Tags: [issue](/tag/issue), [templates](/tag/templates), [template](/tag/template), [parent:website](/tag/parent:website)
 
 ----
 

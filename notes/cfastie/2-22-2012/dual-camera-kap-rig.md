@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/2-22-2012/dual-camera-kap-rig.md
 nid: 831
 uid: 554
-
 cids: 485,486,487,489,490,492,495,505,681,693,8538,8555,8563,21793,21868
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Legomass.jpg)
 
 # Dual camera KAP rig
 
-by [cfastie](../../../profile/cfastie) | February 22, 2012 16:23
+by [cfastie](/profile/cfastie) | February 22, 2012 16:23
 
-February 22, 2012 16:23 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [picavet](../tag/picavet), [photo-rig](../tag/photo-rig), [first-time-poster](../tag/first-time-poster)
+February 22, 2012 16:23 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [picavet](/tag/picavet), [photo-rig](/tag/photo-rig), [first-time-poster](/tag/first-time-poster)
 
 ----
 

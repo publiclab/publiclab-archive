@@ -6,16 +6,14 @@ author: nshapiro
 path: /notes/nshapiro/04-10-2020/does-anyone-have-tips-for-making-masks-more-effective-for-those-who-have-a-beard-for-religious-reasons.md
 nid: 23357
 uid: 380298
-
 cids: 26658,26659,26660,26661,26662,26663,26690,26691,26693,26696,26697,26699,27983,28020
-
 ---
 
 # Does anyone have tips for making masks more effective for those who have a beard for religious reasons?
 
-by [nshapiro](../../../profile/nshapiro) | April 10, 2020 01:02
+by [nshapiro](/profile/nshapiro) | April 10, 2020 01:02
 
-April 10, 2020 01:02 | Tags: [question:general](../tag/question:general), [general](../tag/general), [covid-19](../tag/covid-19), [face-mask](../tag/face-mask)
+April 10, 2020 01:02 | Tags: [question:general](/tag/question:general), [general](/tag/general), [covid-19](/tag/covid-19), [face-mask](/tag/face-mask)
 
 ----
 

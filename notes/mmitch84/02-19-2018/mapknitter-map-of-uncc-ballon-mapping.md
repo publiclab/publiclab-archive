@@ -6,16 +6,14 @@ author: mmitch84
 path: /notes/mmitch84/02-19-2018/mapknitter-map-of-uncc-ballon-mapping.md
 nid: 15769
 uid: 525067
-
 cids: 
-
 ---
 
 # MapKnitter map of UNCC Ballon Mapping
 
-by [mmitch84](../../../profile/mmitch84) | February 19, 2018 19:51
+by [mmitch84](/profile/mmitch84) | February 19, 2018 19:51
 
-February 19, 2018 19:51 | Tags: [mapknitter](../tag/mapknitter), [lat:35.303938](../tag/lat:35.303938), [lon:-80.7299303](../tag/lon:-80.7299303)
+February 19, 2018 19:51 | Tags: [mapknitter](/tag/mapknitter), [lat:35.303938](/tag/lat:35.303938), [lon:-80.7299303](/tag/lon:-80.7299303)
 
 ----
 

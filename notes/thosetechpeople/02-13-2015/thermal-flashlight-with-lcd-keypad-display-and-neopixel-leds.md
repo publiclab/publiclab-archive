@@ -6,18 +6,16 @@ author: thosetechpeople
 path: /notes/thosetechpeople/02-13-2015/thermal-flashlight-with-lcd-keypad-display-and-neopixel-leds.md
 nid: 11581
 uid: 435226
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/963/original/IMG_20150210_075830_hdr.jpg)
 
 # Thermal Flashlight with LCD keypad display and Neopixel LEDs
 
-by [thosetechpeople](../../../profile/thosetechpeople) | February 13, 2015 15:03
+by [thosetechpeople](/profile/thosetechpeople) | February 13, 2015 15:03
 
-February 13, 2015 15:03 | Tags: [thermal-photography](../tag/thermal-photography), [arduino](../tag/arduino), [thermal-flashlight](../tag/thermal-flashlight), [fritzing](../tag/fritzing), [response:625](../tag/response:625), [heat](../tag/heat), [activity:thermal-flashlight](../tag/activity:thermal-flashlight), [activity:thermal-flashlight-assembly](../tag/activity:thermal-flashlight-assembly)
+February 13, 2015 15:03 | Tags: [thermal-photography](/tag/thermal-photography), [arduino](/tag/arduino), [thermal-flashlight](/tag/thermal-flashlight), [fritzing](/tag/fritzing), [response:625](/tag/response:625), [heat](/tag/heat), [activity:thermal-flashlight](/tag/activity:thermal-flashlight), [activity:thermal-flashlight-assembly](/tag/activity:thermal-flashlight-assembly)
 
 ----
 

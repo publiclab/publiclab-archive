@@ -6,18 +6,16 @@ author: dusjagr
 path: /notes/dusjagr/04-29-2013/redesign-of-the-foldable-mini-spectro-to-hold-a-cuvette.md
 nid: 7117
 uid: 46795
-
 cids: 4564,4577,4578,4583,4755,6759,9432
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/135/original/foldableMiniSpectro_v2_on_Android.jpg)
 
 # Redesign of the Foldable Mini-Spectro to hold a cuvette
 
-by [dusjagr](../../../profile/dusjagr) | April 29, 2013 13:06
+by [dusjagr](/profile/dusjagr) | April 29, 2013 13:06
 
-April 29, 2013 13:06 | Tags: [list:plots-spectrometry](../tag/list:plots-spectrometry), [spectrometer](../tag/spectrometer), [cuvettes](../tag/cuvettes), [sampling](../tag/sampling), [foldable](../tag/foldable), [papercraft](../tag/papercraft), [cuvette-frame](../tag/cuvette-frame)
+April 29, 2013 13:06 | Tags: [list:plots-spectrometry](/tag/list:plots-spectrometry), [spectrometer](/tag/spectrometer), [cuvettes](/tag/cuvettes), [sampling](/tag/sampling), [foldable](/tag/foldable), [papercraft](/tag/papercraft), [cuvette-frame](/tag/cuvette-frame)
 
 ----
 

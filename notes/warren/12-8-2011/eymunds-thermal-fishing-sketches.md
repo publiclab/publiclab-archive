@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/12-8-2011/eymunds-thermal-fishing-sketches.md
 nid: 619
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/6481808803_73d35d279c_b.jpeg)
 
 # Eymund's thermal fishing sketches
 
-by [warren](../../../profile/warren) | December 08, 2011 20:15
+by [warren](/profile/warren) | December 08, 2011 20:15
 
 December 08, 2011 20:15 | Tags: 
 

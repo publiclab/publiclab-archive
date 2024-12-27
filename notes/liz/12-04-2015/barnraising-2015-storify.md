@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/12-04-2015/barnraising-2015-storify.md
 nid: 12480
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/198/original/Screen_Shot_2015-12-04_at_4.34.08_PM.png)
 
 # Barnraising 2015 Storify
 
-by [liz](../../../profile/liz) | December 04, 2015 21:37
+by [liz](/profile/liz) | December 04, 2015 21:37
 
-December 04, 2015 21:37 | Tags: [barnraising-2015](../tag/barnraising-2015), [with:bronwen](../tag/with:bronwen)
+December 04, 2015 21:37 | Tags: [barnraising-2015](/tag/barnraising-2015), [with:bronwen](/tag/with:bronwen)
 
 ----
 

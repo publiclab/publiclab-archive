@@ -6,14 +6,14 @@ author: warren
 path: /wiki/spectral-workbench-exporting.md
 nid: 4213
 uid: 1
-
+cids: 
 ---
 
 # Spectral Workbench exporting
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-October 05, 2012 20:25 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench)
+October 05, 2012 20:25 | Tags: [spectrometer](/tag/spectrometer), [spectralworkbench](/tag/spectralworkbench)
 
 ----
 

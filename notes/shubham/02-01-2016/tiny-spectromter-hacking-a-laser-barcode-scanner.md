@@ -6,18 +6,16 @@ author: shubham
 path: /notes/shubham/02-01-2016/tiny-spectromter-hacking-a-laser-barcode-scanner.md
 nid: 12639
 uid: 460486
-
 cids: 13446,13447,13448,13454,13457,13458,13461,13462,13464,13557,13558
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/016/original/IMG-20160129-WA0002.jpeg)
 
 # Tiny spectromter - Hacking a LASER barcode scanner
 
-by [shubham](../../../profile/shubham) | February 01, 2016 09:08
+by [shubham](/profile/shubham) | February 01, 2016 09:08
 
-February 01, 2016 09:08 | Tags: [spectrometer](../tag/spectrometer), [ccd](../tag/ccd), [reflection](../tag/reflection), [pocket](../tag/pocket), [sized](../tag/sized), [barcode](../tag/barcode), [scanner](../tag/scanner), [mirror](../tag/mirror), [front](../tag/front)
+February 01, 2016 09:08 | Tags: [spectrometer](/tag/spectrometer), [ccd](/tag/ccd), [reflection](/tag/reflection), [pocket](/tag/pocket), [sized](/tag/sized), [barcode](/tag/barcode), [scanner](/tag/scanner), [mirror](/tag/mirror), [front](/tag/front)
 
 ----
 

@@ -6,16 +6,16 @@ author: warren
 path: /wiki/serc.md
 nid: 13988
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/739/original/tmp_10143-IMG_20170301_135400_608_21924115293.jpg)
 
 # SERC
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-March 05, 2017 16:25 | Tags: [serc](../tag/serc), [community-kits-prep](../tag/community-kits-prep)
+March 05, 2017 16:25 | Tags: [serc](/tag/serc), [community-kits-prep](/tag/community-kits-prep)
 
 ----
 

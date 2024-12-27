@@ -6,16 +6,14 @@ author: radimir_cacic09
 path: /notes/radimir_cacic09/02-04-2020/test-page-for-7320.md
 nid: 22619
 uid: 644656
-
 cids: 
-
 ---
 
 # TEST PAGE FOR #7320
 
-by [radimir_cacic09](../../../profile/radimir_cacic09) | February 04, 2020 18:38
+by [radimir_cacic09](/profile/radimir_cacic09) | February 04, 2020 18:38
 
-February 04, 2020 18:38 | Tags: [new](../tag/new), [draft](../tag/draft), [activity:new](../tag/activity:new)
+February 04, 2020 18:38 | Tags: [new](/tag/new), [draft](/tag/draft), [activity:new](/tag/activity:new)
 
 ----
 

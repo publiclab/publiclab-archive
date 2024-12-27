@@ -6,18 +6,16 @@ author: GSan
 path: /notes/GSan/08-26-2015/mae-d-agua-indice-de-qualidade-water-mother-quality-index.md
 nid: 12173
 uid: 426547
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/523/original/IMG_4589.JPG)
 
 # Mãe d'água - Índice de qualidade / Water Mother - Quality index
 
-by [GSan](../../../profile/GSan) | August 26, 2015 21:49
+by [GSan](/profile/GSan) | August 26, 2015 21:49
 
-August 26, 2015 21:49 | Tags: [water-quality](../tag/water-quality), [brasil](../tag/brasil), [redeinfoamazonia](../tag/redeinfoamazonia), [maedagua](../tag/maedagua), [lang:pt](../tag/lang:pt), [first-time-poster](../tag/first-time-poster)
+August 26, 2015 21:49 | Tags: [water-quality](/tag/water-quality), [brasil](/tag/brasil), [redeinfoamazonia](/tag/redeinfoamazonia), [maedagua](/tag/maedagua), [lang:pt](/tag/lang:pt), [first-time-poster](/tag/first-time-poster)
 
 ----
 

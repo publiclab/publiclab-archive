@@ -6,18 +6,16 @@ author: shanlter
 path: /notes/shanlter/06-23-2016/chinese-kite-factory.md
 nid: 13235
 uid: 420999
-
 cids: 14812,14819,17148,17152,17153
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/764/original/2016-06-23_11.54.23.jpg)
 
 # Chinese kite factory 
 
-by [shanlter](../../../profile/shanlter) | June 23, 2016 14:32
+by [shanlter](/profile/shanlter) | June 23, 2016 14:32
 
-June 23, 2016 14:32 | Tags: [kite](../tag/kite), [history](../tag/history), [china](../tag/china), [chinese](../tag/chinese), [factory](../tag/factory)
+June 23, 2016 14:32 | Tags: [kite](/tag/kite), [history](/tag/history), [china](/tag/china), [chinese](/tag/chinese), [factory](/tag/factory)
 
 ----
 

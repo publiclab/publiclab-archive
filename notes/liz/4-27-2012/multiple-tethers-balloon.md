@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/4-27-2012/multiple-tethers-balloon.md
 nid: 1816
 uid: 7
-
 cids: 668,670
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Anthony_OpenPlans_JavierDeLaTorre.jpg)
 
 # multiple tethers on balloon
 
-by [liz](../../../profile/liz) | April 27, 2012 17:43
+by [liz](/profile/liz) | April 27, 2012 17:43
 
-April 27, 2012 17:43 | Tags: [balloon-mapping](../tag/balloon-mapping), [multiple-tethers](../tag/multiple-tethers), [flying](../tag/flying)
+April 27, 2012 17:43 | Tags: [balloon-mapping](/tag/balloon-mapping), [multiple-tethers](/tag/multiple-tethers), [flying](/tag/flying)
 
 ----
 

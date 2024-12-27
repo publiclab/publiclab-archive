@@ -6,18 +6,16 @@ author: cindy_excites
 path: /notes/Cindy_ExCites/11-04-2015/oil-testing-kit-beta-programme-scanning-otk-samples.md
 nid: 12366
 uid: 1083
-
 cids: 12855,13056,13078,13080,13264
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/588/original/IMG_4148_-_Crude_%28694x800%29.jpg)
 
 # Oil testing kit Beta programme - Scanning OTK samples
 
-by [cindy_excites](../../../profile/cindy_excites) | November 04, 2015 22:39
+by [cindy_excites](/profile/cindy_excites) | November 04, 2015 22:39
 
-November 04, 2015 22:39 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [fluorescence](../tag/fluorescence), [spectrometer-calibration](../tag/spectrometer-calibration), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta), [oil-testing-kit-beta-calibration](../tag/oil-testing-kit-beta-calibration), [response:12349](../tag/response:12349)
+November 04, 2015 22:39 | Tags: [spectrometer](/tag/spectrometer), [calibration](/tag/calibration), [fluorescence](/tag/fluorescence), [spectrometer-calibration](/tag/spectrometer-calibration), [oil-testing-kit](/tag/oil-testing-kit), [oil-testing-kit-beta](/tag/oil-testing-kit-beta), [oil-testing-kit-beta-calibration](/tag/oil-testing-kit-beta-calibration), [response:12349](/tag/response:12349)
 
 ----
 

@@ -6,12 +6,12 @@ author: liz
 path: /wiki/staten-island-photos.md
 nid: 11134
 uid: 7
-
+cids: 
 ---
 
 # staten-island-photos
 
-by [troy](../profile/troy), [liz](../profile/liz)
+by [troy](/profile/troy), [liz](/profile/liz)
 
 September 12, 2014 16:56 | Tags: 
 

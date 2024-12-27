@@ -6,14 +6,14 @@ author: liz
 path: /wiki/london.md
 nid: 21415
 uid: 7
-
+cids: 
 ---
 
 # London
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-November 06, 2019 16:04 | Tags: [redirect:512](../tag/redirect:512)
+November 06, 2019 16:04 | Tags: [redirect:512](/tag/redirect:512)
 
 ----
 

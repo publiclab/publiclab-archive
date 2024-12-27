@@ -6,16 +6,14 @@ author: kgradow1
 path: /notes/kgradow1/06-12-2020/what-s-the-relationship-between-temp-and-dewpoint.md
 nid: 23834
 uid: 297929
-
 cids: 27014
-
 ---
 
 # What's the relationship between temp and dewpoint?
 
-by [kgradow1](../../../profile/kgradow1) | June 12, 2020 22:14
+by [kgradow1](/profile/kgradow1) | June 12, 2020 22:14
 
-June 12, 2020 22:14 | Tags: [weather](../tag/weather), [weather-station](../tag/weather-station), [humidity](../tag/humidity), [general](../tag/general), [question:weather](../tag/question:weather), [question:humidity](../tag/question:humidity)
+June 12, 2020 22:14 | Tags: [weather](/tag/weather), [weather-station](/tag/weather-station), [humidity](/tag/humidity), [general](/tag/general), [question:weather](/tag/question:weather), [question:humidity](/tag/question:humidity)
 
 ----
 

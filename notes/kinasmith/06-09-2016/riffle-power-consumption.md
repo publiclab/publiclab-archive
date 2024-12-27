@@ -6,18 +6,16 @@ author: kinasmith
 path: /notes/kinasmith/06-09-2016/riffle-power-consumption.md
 nid: 13180
 uid: 445906
-
 cids: 14740,14743,17764
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/546/original/NewFile5.bmp)
 
 # Riffle Power Consumption
 
-by [kinasmith](../../../profile/kinasmith) | June 09, 2016 01:54
+by [kinasmith](/profile/kinasmith) | June 09, 2016 01:54
 
-June 09, 2016 01:54 | Tags: [riffle](../tag/riffle), [low-power](../tag/low-power), [riffle-beta](../tag/riffle-beta), [riffle-examples](../tag/riffle-examples)
+June 09, 2016 01:54 | Tags: [riffle](/tag/riffle), [low-power](/tag/low-power), [riffle-beta](/tag/riffle-beta), [riffle-examples](/tag/riffle-examples)
 
 ----
 

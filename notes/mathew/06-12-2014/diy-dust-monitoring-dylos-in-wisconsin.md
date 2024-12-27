@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/06-12-2014/diy-dust-monitoring-dylos-in-wisconsin.md
 nid: 10552
 uid: 4
-
 cids: 9213,9327,9362,9364,9374,9375,9380
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/678/original/Screen_Shot_2014-06-11_at_7.13.27_PM.png)
 
 # DIY dust monitoring: Dylos in Wisconsin 
 
-by [mathew](../../../profile/mathew) | June 12, 2014 02:13
+by [mathew](/profile/mathew) | June 12, 2014 02:13
 
-June 12, 2014 02:13 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [midwest](../tag/midwest), [particle-sensing](../tag/particle-sensing), [particulate-monitoring](../tag/particulate-monitoring), [openair](../tag/openair), [air-sensors](../tag/air-sensors)
+June 12, 2014 02:13 | Tags: [wisconsin](/tag/wisconsin), [air-quality](/tag/air-quality), [dust](/tag/dust), [silica](/tag/silica), [midwest](/tag/midwest), [particle-sensing](/tag/particle-sensing), [particulate-monitoring](/tag/particulate-monitoring), [openair](/tag/openair), [air-sensors](/tag/air-sensors)
 
 ----
 

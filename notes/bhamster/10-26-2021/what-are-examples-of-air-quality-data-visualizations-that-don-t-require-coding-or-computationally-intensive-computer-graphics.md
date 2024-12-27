@@ -6,16 +6,14 @@ author: bhamster
 path: /notes/bhamster/10-26-2021/what-are-examples-of-air-quality-data-visualizations-that-don-t-require-coding-or-computationally-intensive-computer-graphics.md
 nid: 27965
 uid: 664477
-
 cids: 29356,29366
-
 ---
 
 # What are examples of air quality data visualizations that don’t require coding or computationally intensive computer graphics?
 
-by [bhamster](../../../profile/bhamster) | October 26, 2021 16:51
+by [bhamster](/profile/bhamster) | October 26, 2021 16:51
 
-October 26, 2021 16:51 | Tags: [data-visualization](../tag/data-visualization), [presenting-data](../tag/presenting-data), [question:presenting-data](../tag/question:presenting-data), [air-quality-data](../tag/air-quality-data), [question:air-quality-data](../tag/question:air-quality-data), [question:data-visualization](../tag/question:data-visualization), [data-visualization-tool](../tag/data-visualization-tool)
+October 26, 2021 16:51 | Tags: [data-visualization](/tag/data-visualization), [presenting-data](/tag/presenting-data), [question:presenting-data](/tag/question:presenting-data), [air-quality-data](/tag/air-quality-data), [question:air-quality-data](/tag/question:air-quality-data), [question:data-visualization](/tag/question:data-visualization), [data-visualization-tool](/tag/data-visualization-tool)
 
 ----
 

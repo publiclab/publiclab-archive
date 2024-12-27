@@ -6,14 +6,12 @@ author:
 path: /notes/5-11-2012/river-point-golf-course.md
 nid: 2090
 uid: 0
-
 cids: 
-
 ---
 
 # river-point-golf-course
 
-by [](../../../profile/) | May 11, 2012 15:23
+by [](/profile/) | May 11, 2012 15:23
 
 May 11, 2012 15:23 | Tags: 
 

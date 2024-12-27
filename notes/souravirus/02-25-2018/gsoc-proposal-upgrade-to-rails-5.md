@@ -6,16 +6,14 @@ author: souravirus
 path: /notes/souravirus/02-25-2018/gsoc-proposal-upgrade-to-rails-5.md
 nid: 15814
 uid: 524509
-
 cids: 18598,18617,18618,18680,18682,18684,18685,18686,18687,18688,18689,18702,18704,19036,19044,19073,19080,19086,19096,19097,19101,19172,19174,19182,19200
-
 ---
 
 # GSoC proposal: Upgrade to Rails 5
 
-by [souravirus](../../../profile/souravirus) | February 25, 2018 18:59
+by [souravirus](/profile/souravirus) | February 25, 2018 18:59
 
-February 25, 2018 18:59 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [gsoc-2018-final](../tag/gsoc-2018-final), [first-time-poster](../tag/first-time-poster)
+February 25, 2018 18:59 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [soc](/tag/soc), [response:13975](/tag/response:13975), [gsoc-2018](/tag/gsoc-2018), [soc-2018](/tag/soc-2018), [soc-2018-proposals](/tag/soc-2018-proposals), [gsoc-2018-final](/tag/gsoc-2018-final), [first-time-poster](/tag/first-time-poster)
 
 ----
 

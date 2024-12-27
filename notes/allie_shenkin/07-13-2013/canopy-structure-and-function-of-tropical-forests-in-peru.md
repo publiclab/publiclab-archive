@@ -6,18 +6,16 @@ author: allie_shenkin
 path: /notes/allie_shenkin/07-13-2013/canopy-structure-and-function-of-tropical-forests-in-peru.md
 nid: 8868
 uid: 170116
-
 cids: 6308,6315,6317,6320
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/772/original/medium_DSCN0047_1_.JPG_AWSAccessKeyId_AKIAISUZRVAFZUSTGD4A_Signature_96qJ15VQ2GYKkxVjjgZ7JR0iZSE__Expires_1373730502)
 
 # Canopy structure and function of tropical forests in Peru
 
-by [allie_shenkin](../../../profile/allie_shenkin) | July 13, 2013 15:40
+by [allie_shenkin](/profile/allie_shenkin) | July 13, 2013 15:40
 
-July 13, 2013 15:40 | Tags: [balloon-mapping](../tag/balloon-mapping), [3d](../tag/3d), [peru](../tag/peru), [forest](../tag/forest), [transect](../tag/transect), [lidar](../tag/lidar), [photoscan](../tag/photoscan), [south-america](../tag/south-america)
+July 13, 2013 15:40 | Tags: [balloon-mapping](/tag/balloon-mapping), [3d](/tag/3d), [peru](/tag/peru), [forest](/tag/forest), [transect](/tag/transect), [lidar](/tag/lidar), [photoscan](/tag/photoscan), [south-america](/tag/south-america)
 
 ----
 

@@ -6,12 +6,12 @@ author: bhamster
 path: /wiki/sandbox-microplastics.md
 nid: 24584
 uid: 664477
-
+cids: 
 ---
 
 # sandbox-microplastics
 
-by [bhamster](../profile/bhamster)
+by [bhamster](/profile/bhamster)
 
 September 15, 2020 21:49 | Tags: 
 
@@ -141,7 +141,7 @@ Image: [@mollydanielsson](https://publiclab.org/profile/mollydanielsson)
 + Ask a question so other community members can offer support
 + Sign up below to be notified when someone asks a microplastics question
 
-[microplastics](../../tag/question:microplastics)
+[microplastics](/tag/question:microplastics)
 
 <br>
 
@@ -165,7 +165,7 @@ Further below, you’ll find more information on how you can get started in micr
 Posts written by Public Lab community members and tagged with `microplastics` will appear here. [Write a note about your own research or story here!](/post?tags=microplastics)
 
 
-[microplastics](../../tag/microplastics)
+[microplastics](/tag/microplastics)
 
 <br>
 
@@ -173,7 +173,7 @@ Posts written by Public Lab community members and tagged with `microplastics` wi
 
 Activities on Public Lab that have been tagged with `microplastics` will appear here
 
-[microplastics](../../tag/activity:microplastics)
+[microplastics](/tag/activity:microplastics)
 
 <br>
 <hr>

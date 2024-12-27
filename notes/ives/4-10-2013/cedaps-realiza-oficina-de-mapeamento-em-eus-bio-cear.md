@@ -6,18 +6,16 @@ author: ives
 path: /notes/ives/4-10-2013/cedaps-realiza-oficina-de-mapeamento-em-eus-bio-cear.md
 nid: 6762
 uid: 403
-
 cids: 4389,4394,4593,4594,4595
-
 ---
 
 ![](https://publiclab.org/sites/default/files/10899_528102040562302_1516759573_n.jpg)
 
 # CEDAPS realiza Oficina de Mapeamento em Eusébio, Ceará
 
-by [ives](../../../profile/ives) | April 10, 2013 21:50
+by [ives](/profile/ives) | April 10, 2013 21:50
 
-April 10, 2013 21:50 | Tags: [kite-mapping](../tag/kite-mapping), [brazil](../tag/brazil), [cedaps](../tag/cedaps), [Ceará](../tag/Ceará), [south-america](../tag/south-america), [first-time-poster](../tag/first-time-poster)
+April 10, 2013 21:50 | Tags: [kite-mapping](/tag/kite-mapping), [brazil](/tag/brazil), [cedaps](/tag/cedaps), [Ceará](/tag/Ceará), [south-america](/tag/south-america), [first-time-poster](/tag/first-time-poster)
 
 ----
 

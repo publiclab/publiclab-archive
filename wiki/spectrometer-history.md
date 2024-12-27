@@ -6,14 +6,14 @@ author: mathew
 path: /wiki/spectrometer-history.md
 nid: 10691
 uid: 4
-
+cids: 
 ---
 
 # Spectrometer History
 
-by [mathew](../profile/mathew)
+by [mathew](/profile/mathew)
 
-July 15, 2014 00:24 | Tags: [spectrometer](../tag/spectrometer), [parent:spectrometry](../tag/parent:spectrometry)
+July 15, 2014 00:24 | Tags: [spectrometer](/tag/spectrometer), [parent:spectrometry](/tag/parent:spectrometry)
 
 ----
 

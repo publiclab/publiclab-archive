@@ -6,18 +6,16 @@ author: LEGOnauts
 path: /notes/LEGOnauts/11-10-2017/arsenic-detection-in-well-water-with-spectrometry.md
 nid: 15170
 uid: 517979
-
 cids: 17654,17659
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/361/original/As.jpg)
 
 # Arsenic detection in well water with spectrometry
 
-by [LEGOnauts](../../../profile/LEGOnauts) | November 10, 2017 02:47
+by [LEGOnauts](/profile/LEGOnauts) | November 10, 2017 02:47
 
-November 10, 2017 02:47 | Tags: [response:480](../tag/response:480)
+November 10, 2017 02:47 | Tags: [response:480](/tag/response:480)
 
 ----
 

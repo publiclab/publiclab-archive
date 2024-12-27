@@ -6,12 +6,12 @@ author: bhamster
 path: /wiki/sandbox-air-quality-data.md
 nid: 28017
 uid: 664477
-
+cids: 
 ---
 
 # sandbox-air-quality-data
 
-by [bhamster](../profile/bhamster), [fongvania](../profile/fongvania)
+by [bhamster](/profile/bhamster), [fongvania](/profile/fongvania)
 
 November 01, 2021 18:38 | Tags: 
 
@@ -63,7 +63,7 @@ Visit the [air-quality-data tag page](https://publiclab.org/tag/air-quality-data
 
 Questions tagged with `question:air-quality-data` will appear here
 
-[air-quality-data](../../tag/question:air-quality-data)
+[air-quality-data](/tag/question:air-quality-data)
 
 <br>
 
@@ -73,7 +73,7 @@ Questions tagged with `question:air-quality-data` will appear here
 
 Activity posts tagged with `activity:air-quality-data` will appear here
 
-[activity:air-quality-data](../../tag/activity:air-quality-data)
+[activity:air-quality-data](/tag/activity:air-quality-data)
 
 <br>
 
@@ -84,7 +84,7 @@ Activity posts tagged with `activity:air-quality-data` will appear here
 
 Research notes tagged with `getting-started-air-quality-data` will appear here
 
-[getting-started-air-quality-data](../../tag/getting-started-air-quality-data)
+[getting-started-air-quality-data](/tag/getting-started-air-quality-data)
 
 <br>
 
@@ -196,7 +196,7 @@ _Image: Illustrations from the [Openscapes](https://www.openscapes.org/) blog â€
 
 Research notes with the tag `data-storytelling` will appear here
 
-[grid:data-storytelling](../../tag/grid:data-storytelling)
+[grid:data-storytelling](/tag/grid:data-storytelling)
 
 <br>
 
@@ -244,7 +244,7 @@ Graphing tools built right into spreadsheet programs (like Google Sheets, Excel,
 
 ### Tools for making visualizations and other media
 
-[grid:data-visualization-tool](../../tag/grid:data-visualization-tool)
+[grid:data-visualization-tool](/tag/grid:data-visualization-tool)
 
 <br>
 

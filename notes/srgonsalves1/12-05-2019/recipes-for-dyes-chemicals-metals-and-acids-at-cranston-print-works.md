@@ -6,18 +6,16 @@ author: srgonsalves1
 path: /notes/srgonsalves1/12-05-2019/recipes-for-dyes-chemicals-metals-and-acids-at-cranston-print-works.md
 nid: 21673
 uid: 635245
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/876/original/dye1.jpg)
 
 # Recipes for Dyes: Chemicals, Metals, and Acids at Cranston Print Works
 
-by [srgonsalves1](../../../profile/srgonsalves1) | December 05, 2019 14:36
+by [srgonsalves1](/profile/srgonsalves1) | December 05, 2019 14:36
 
-December 05, 2019 14:36 | Tags: [csf](../tag/csf), [one-cranston](../tag/one-cranston), [csf17](../tag/csf17), [lat:41.781842](../tag/lat:41.781842), [lon:-71.430369](../tag/lon:-71.430369), [unearthing-pvd](../tag/unearthing-pvd), [unearthing-pvd-sites](../tag/unearthing-pvd-sites), [lat:41.013065](../tag/lat:41.013065), [lon:-71.015625](../tag/lon:-71.015625)
+December 05, 2019 14:36 | Tags: [csf](/tag/csf), [one-cranston](/tag/one-cranston), [csf17](/tag/csf17), [lat:41.781842](/tag/lat:41.781842), [lon:-71.430369](/tag/lon:-71.430369), [unearthing-pvd](/tag/unearthing-pvd), [unearthing-pvd-sites](/tag/unearthing-pvd-sites), [lat:41.013065](/tag/lat:41.013065), [lon:-71.015625](/tag/lon:-71.015625)
 
 ----
 

@@ -6,16 +6,14 @@ author: Mempet
 path: /notes/Mempet/09-04-2017/bacteria.md
 nid: 14827
 uid: 513742
-
 cids: 
-
 ---
 
 # Bacteria
 
-by [Mempet](../../../profile/Mempet) | September 04, 2017 19:18
+by [Mempet](/profile/Mempet) | September 04, 2017 19:18
 
-September 04, 2017 19:18 | Tags: [water-quality](../tag/water-quality), [bacteria](../tag/bacteria)
+September 04, 2017 19:18 | Tags: [water-quality](/tag/water-quality), [bacteria](/tag/bacteria)
 
 ----
 

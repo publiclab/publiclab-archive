@@ -6,18 +6,16 @@ author: bhamster
 path: /notes/bhamster/03-04-2021/digging-into-soil-research-public-lab-virtual-event-on-soil-contamination.md
 nid: 25843
 uid: 664477
-
 cids: 28294,28354,28399,28403,28408,28409,28418,28428
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/860/original/Urban_garden_SK.jpg)
 
 # Digging into soil research: Public Lab virtual event on soil contamination
 
-by [bhamster](../../../profile/bhamster) | March 04, 2021 17:27
+by [bhamster](/profile/bhamster) | March 04, 2021 17:27
 
-March 04, 2021 17:27 | Tags: [event](../tag/event), [soil](../tag/soil), [research](../tag/research), [event:rsvp](../tag/event:rsvp), [rsvp:bronwen](../tag/rsvp:bronwen), [soil-testing](../tag/soil-testing), [reviews](../tag/reviews), [soil-contamination](../tag/soil-contamination), [research-area-review](../tag/research-area-review), [rsvp:jjcreedon](../tag/rsvp:jjcreedon), [rsvp:cgram34](../tag/rsvp:cgram34), [rsvp:gteix](../tag/rsvp:gteix), [rsvp:benperrin](../tag/rsvp:benperrin), [rsvp:sureta](../tag/rsvp:sureta), [rsvp:bernard](../tag/rsvp:bernard)
+March 04, 2021 17:27 | Tags: [event](/tag/event), [soil](/tag/soil), [research](/tag/research), [event:rsvp](/tag/event:rsvp), [rsvp:bronwen](/tag/rsvp:bronwen), [soil-testing](/tag/soil-testing), [reviews](/tag/reviews), [soil-contamination](/tag/soil-contamination), [research-area-review](/tag/research-area-review), [rsvp:jjcreedon](/tag/rsvp:jjcreedon), [rsvp:cgram34](/tag/rsvp:cgram34), [rsvp:gteix](/tag/rsvp:gteix), [rsvp:benperrin](/tag/rsvp:benperrin), [rsvp:sureta](/tag/rsvp:sureta), [rsvp:bernard](/tag/rsvp:bernard)
 
 ----
 

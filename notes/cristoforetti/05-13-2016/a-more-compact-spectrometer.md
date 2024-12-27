@@ -6,18 +6,16 @@ author: cristoforetti
 path: /notes/cristoforetti/05-13-2016/a-more-compact-spectrometer.md
 nid: 13112
 uid: 470966
-
 cids: 14608,14614,14615,14616,14618,14620,14621,14622,14623,14624,14626,14627
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/166/original/project1.jpg)
 
 # A more compact spectrometer
 
-by [cristoforetti](../../../profile/cristoforetti) | May 13, 2016 16:59
+by [cristoforetti](/profile/cristoforetti) | May 13, 2016 16:59
 
-May 13, 2016 16:59 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [italy](../tag/italy), [diy-spectrometer](../tag/diy-spectrometer), [webvalley](../tag/webvalley), [upgrade:spectrometry](../tag/upgrade:spectrometry), [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer), [activity:raspberry-pi-spectrometer](../tag/activity:raspberry-pi-spectrometer), [first-time-poster](../tag/first-time-poster)
+May 13, 2016 16:59 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [italy](/tag/italy), [diy-spectrometer](/tag/diy-spectrometer), [webvalley](/tag/webvalley), [upgrade:spectrometry](/tag/upgrade:spectrometry), [raspberry-pi-spectrometer](/tag/raspberry-pi-spectrometer), [activity:raspberry-pi-spectrometer](/tag/activity:raspberry-pi-spectrometer), [first-time-poster](/tag/first-time-poster)
 
 ----
 

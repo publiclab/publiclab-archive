@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/04-21-2013/rosco.md
 nid: 6953
 uid: 554
-
 cids: 4496,4502,4566,4567,4568,4570,5191,5224,5225
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/105/original/LifePixel-EpReCUNDVIGS.jpg)
 
 # Rosco!
 
-by [cfastie](../../../profile/cfastie) | April 21, 2013 18:57
+by [cfastie](/profile/cfastie) | April 21, 2013 18:57
 
-April 21, 2013 18:57 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [nir](../tag/nir), [vermont](../tag/vermont), [infrared](../tag/infrared), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [development](../tag/development), [superblue](../tag/superblue), [rosco](../tag/rosco), [vegetation](../tag/vegetation), [infrablue](../tag/infrablue), [infragram-filters](../tag/infragram-filters)
+April 21, 2013 18:57 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [nrg](/tag/nrg), [ndvi](/tag/ndvi), [nir](/tag/nir), [vermont](/tag/vermont), [infrared](/tag/infrared), [white-balance](/tag/white-balance), [infragram](/tag/infragram), [plant-health](/tag/plant-health), [development](/tag/development), [superblue](/tag/superblue), [rosco](/tag/rosco), [vegetation](/tag/vegetation), [infrablue](/tag/infrablue), [infragram-filters](/tag/infragram-filters)
 
 ----
 

@@ -6,16 +6,16 @@ author: sara
 path: /wiki/thermal-fishing-bob-workshop-northeastern.md
 nid: 11972
 uid: 8
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/320/original/FishingBobWorkshopPosterFinal_sw.pdf)
 
 # Thermal Fishing Bob Workshop Northeastern
 
-by [kgrevera](../profile/kgrevera), [sara](../profile/sara)
+by [kgrevera](/profile/kgrevera), [sara](/profile/sara)
 
-June 11, 2015 14:43 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [boston](../tag/boston), [thermal-fishing](../tag/thermal-fishing), [water-quality](../tag/water-quality), [nuclear](../tag/nuclear), [thermal-fishing-bob](../tag/thermal-fishing-bob), [cso](../tag/cso), [pilgrim](../tag/pilgrim)
+June 11, 2015 14:43 | Tags: [somerville-massachusetts](/tag/somerville-massachusetts), [boston](/tag/boston), [thermal-fishing](/tag/thermal-fishing), [water-quality](/tag/water-quality), [nuclear](/tag/nuclear), [thermal-fishing-bob](/tag/thermal-fishing-bob), [cso](/tag/cso), [pilgrim](/tag/pilgrim)
 
 ----
 

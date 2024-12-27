@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/10-19-2021/announcing-new-fellowship-team-game-over-formosa.md
 nid: 27944
 uid: 422561
-
 cids: 29335,29442,30339,30341
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/936/original/5d30f2ceb2ea1.image_%281%29.jpg)
 
 # Announcing New Fellowship Team: Game Over Formosa! 
 
-by [stevie](../../../profile/stevie) | October 19, 2021 17:37
+by [stevie](/profile/stevie) | October 19, 2021 17:37
 
-October 19, 2021 17:37 | Tags: [air-quality](../tag/air-quality), [blog](../tag/blog), [pollution](../tag/pollution), [pm](../tag/pm), [environmental-justice](../tag/environmental-justice), [industry](../tag/industry), [fellowship](../tag/fellowship), [ej](../tag/ej), [particulate-matter](../tag/particulate-matter), [plastics](../tag/plastics), [plastic](../tag/plastic), [zoom:6](../tag/zoom:6), [st-james](../tag/st-james), [fellowship-teams](../tag/fellowship-teams), [lat:30.101032](../tag/lat:30.101032), [lon:-90.992877](../tag/lon:-90.992877), [with:travislondon](../tag/with:travislondon), [formosaplastics](../tag/formosaplastics)
+October 19, 2021 17:37 | Tags: [air-quality](/tag/air-quality), [blog](/tag/blog), [pollution](/tag/pollution), [pm](/tag/pm), [environmental-justice](/tag/environmental-justice), [industry](/tag/industry), [fellowship](/tag/fellowship), [ej](/tag/ej), [particulate-matter](/tag/particulate-matter), [plastics](/tag/plastics), [plastic](/tag/plastic), [zoom:6](/tag/zoom:6), [st-james](/tag/st-james), [fellowship-teams](/tag/fellowship-teams), [lat:30.101032](/tag/lat:30.101032), [lon:-90.992877](/tag/lon:-90.992877), [with:travislondon](/tag/with:travislondon), [formosaplastics](/tag/formosaplastics)
 
 ----
 

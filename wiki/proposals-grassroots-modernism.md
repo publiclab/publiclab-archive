@@ -6,12 +6,12 @@ author: warren
 path: /wiki/proposals-grassroots-modernism.md
 nid: 152
 uid: 1
-
+cids: 
 ---
 
 # Proposals: Grassroots Modernism
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 April 04, 2011 21:22 | Tags: 
 

@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/02-24-2014/join-the-public-lab-nonprofit-team-job-posting-outreach-manager.md
 nid: 10060
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/012/original/plots-logo-transparent.jpg)
 
 # Join the Public Lab nonprofit team! Job Posting: Outreach Manager
 
-by [Shannon](../../../profile/Shannon) | February 24, 2014 16:02
+by [Shannon](/profile/Shannon) | February 24, 2014 16:02
 
-February 24, 2014 16:02 | Tags: [nonprofit](../tag/nonprofit), [jobs](../tag/jobs), [gulfcoast](../tag/gulfcoast)
+February 24, 2014 16:02 | Tags: [nonprofit](/tag/nonprofit), [jobs](/tag/jobs), [gulfcoast](/tag/gulfcoast)
 
 ----
 

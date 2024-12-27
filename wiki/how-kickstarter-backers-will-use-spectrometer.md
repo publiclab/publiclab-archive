@@ -6,14 +6,14 @@ author: Shannon
 path: /wiki/how-kickstarter-backers-will-use-spectrometer.md
 nid: 5227
 uid: 9
-
+cids: 
 ---
 
 # How Kickstarter backers will use the spectrometer
 
-by [Becki](../profile/Becki), [Shannon](../profile/Shannon)
+by [Becki](/profile/Becki), [Shannon](/profile/Shannon)
 
-December 17, 2012 04:39 | Tags: [spectrometer](../tag/spectrometer), [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer)
+December 17, 2012 04:39 | Tags: [spectrometer](/tag/spectrometer), [fold-up-mini-spectrometer](/tag/fold-up-mini-spectrometer)
 
 ----
 

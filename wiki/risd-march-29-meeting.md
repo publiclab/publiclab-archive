@@ -6,14 +6,14 @@ author: warren
 path: /wiki/risd-march-29-meeting.md
 nid: 149
 uid: 1
-
+cids: 
 ---
 
 # RISD March 29 meeting
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-March 29, 2011 16:59 | Tags: [providence](../tag/providence)
+March 29, 2011 16:59 | Tags: [providence](/tag/providence)
 
 ----
 

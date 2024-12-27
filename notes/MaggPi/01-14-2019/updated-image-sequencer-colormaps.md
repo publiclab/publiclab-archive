@@ -6,18 +6,16 @@ author: MaggPi
 path: /notes/MaggPi/01-14-2019/updated-image-sequencer-colormaps.md
 nid: 18117
 uid: 501996
-
 cids: 21729,21730,22082,22083,22085,22086,22087,22181,23809
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/815/original/Slide1.JPG)
 
 #  Updated Image Sequencer Colormaps!
 
-by [MaggPi](../../../profile/MaggPi) | January 14, 2019 22:23
+by [MaggPi](/profile/MaggPi) | January 14, 2019 22:23
 
-January 14, 2019 22:23 | Tags: [ndvi](../tag/ndvi), [colormap](../tag/colormap), [code](../tag/code), [barnstar:basic](../tag/barnstar:basic), [fastie](../tag/fastie), [fastiecolormap](../tag/fastiecolormap), [soc](../tag/soc), [aren](../tag/aren), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [image-sequencer](../tag/image-sequencer)
+January 14, 2019 22:23 | Tags: [ndvi](/tag/ndvi), [colormap](/tag/colormap), [code](/tag/code), [barnstar:basic](/tag/barnstar:basic), [fastie](/tag/fastie), [fastiecolormap](/tag/fastiecolormap), [soc](/tag/soc), [aren](/tag/aren), [gsoc-2018](/tag/gsoc-2018), [soc-2018](/tag/soc-2018), [image-sequencer](/tag/image-sequencer)
 
 ----
 

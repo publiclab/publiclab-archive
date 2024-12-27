@@ -6,16 +6,16 @@ author: stevie
 path: /wiki/wisconsin.md
 nid: 12565
 uid: 422561
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/531/original/20150804_191011.jpg)
 
 # Wisconsin 
 
-by [warren](../profile/warren), [stevie](../profile/stevie), [gretchengehrke](../profile/gretchengehrke)
+by [warren](/profile/warren), [stevie](/profile/stevie), [gretchengehrke](/profile/gretchengehrke)
 
-January 06, 2016 18:07 | Tags: [wisconsin](../tag/wisconsin), [tabbed:notes](../tag/tabbed:notes), [location:blurred](../tag/location:blurred), [lat:44](../tag/lat:44), [lon:-91](../tag/lon:-91)
+January 06, 2016 18:07 | Tags: [wisconsin](/tag/wisconsin), [tabbed:notes](/tag/tabbed:notes), [location:blurred](/tag/location:blurred), [lat:44](/tag/lat:44), [lon:-91](/tag/lon:-91)
 
 ----
 
@@ -44,7 +44,7 @@ Below is a list of some of the recent projects people have worked on in this reg
 - Developing the [community microscope](https://publiclab.org/wiki/micro) to visualize particulate matter pollution (2018)
 
 
-[wisconsin](../../tag/wisconsin)
+[wisconsin](/tag/wisconsin)
 
 ## Events
 Here are some links to events that have been hosted in Wisconsin. 

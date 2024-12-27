@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/02-03-2015/gulf-coast-spring-fling.md
 nid: 11551
 uid: 422561
-
 cids: 11129,11312,11322
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/769/original/Spring_Fling.jpg)
 
 # Gulf Coast Spring Fling! 
 
-by [stevie](../../../profile/stevie) | February 03, 2015 20:11
+by [stevie](/profile/stevie) | February 03, 2015 20:11
 
-February 03, 2015 20:11 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [spectrometry](../tag/spectrometry), [event](../tag/event), [water-quality](../tag/water-quality), [event:rsvp](../tag/event:rsvp), [urbanwater](../tag/urbanwater), [coqui](../tag/coqui), [urbanwaters](../tag/urbanwaters), [waterquality](../tag/waterquality), [oiltestkit](../tag/oiltestkit), [date:03-14-2015](../tag/date:03-14-2015), [rsvp:jlwhitbeck](../tag/rsvp:jlwhitbeck), [rsvp:abbeyghart](../tag/rsvp:abbeyghart), [rsvp:jeanellsullivan](../tag/rsvp:jeanellsullivan)
+February 03, 2015 20:11 | Tags: [gulf-coast](/tag/gulf-coast), [balloon-mapping](/tag/balloon-mapping), [spectrometry](/tag/spectrometry), [event](/tag/event), [water-quality](/tag/water-quality), [event:rsvp](/tag/event:rsvp), [urbanwater](/tag/urbanwater), [coqui](/tag/coqui), [urbanwaters](/tag/urbanwaters), [waterquality](/tag/waterquality), [oiltestkit](/tag/oiltestkit), [date:03-14-2015](/tag/date:03-14-2015), [rsvp:jlwhitbeck](/tag/rsvp:jlwhitbeck), [rsvp:abbeyghart](/tag/rsvp:abbeyghart), [rsvp:jeanellsullivan](/tag/rsvp:jeanellsullivan)
 
 ----
 

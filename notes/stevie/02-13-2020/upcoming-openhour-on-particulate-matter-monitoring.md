@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/02-13-2020/upcoming-openhour-on-particulate-matter-monitoring.md
 nid: 22804
 uid: 422561
-
 cids: 26305,26306,26308,26312,26313,26314,26323,26406,26407,26408,26410,26414
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/143/original/SmokeSchool-crop.jpg)
 
 # Upcoming OpenHour on Particulate Matter Monitoring 
 
-by [stevie](../../../profile/stevie) | February 13, 2020 20:11
+by [stevie](/profile/stevie) | February 13, 2020 20:11
 
-February 13, 2020 20:11 | Tags: [event](../tag/event), [air-quality](../tag/air-quality), [pm](../tag/pm), [openhour](../tag/openhour), [oil-and-gas](../tag/oil-and-gas), [particulate-matter](../tag/particulate-matter), [lat:29](../tag/lat:29), [lon:-90](../tag/lon:-90), [zoom:6](../tag/zoom:6), [date:03-02-2020](../tag/date:03-02-2020)
+February 13, 2020 20:11 | Tags: [event](/tag/event), [air-quality](/tag/air-quality), [pm](/tag/pm), [openhour](/tag/openhour), [oil-and-gas](/tag/oil-and-gas), [particulate-matter](/tag/particulate-matter), [lat:29](/tag/lat:29), [lon:-90](/tag/lon:-90), [zoom:6](/tag/zoom:6), [date:03-02-2020](/tag/date:03-02-2020)
 
 ----
 

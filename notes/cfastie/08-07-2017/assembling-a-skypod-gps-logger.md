@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/08-07-2017/assembling-a-skypod-gps-logger.md
 nid: 14723
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/293/original/Skypod_20170412-7979b.jpg)
 
 # Assembling a SkyPod GPS logger
 
-by [cfastie](../../../profile/cfastie) | August 07, 2017 04:10
+by [cfastie](/profile/cfastie) | August 07, 2017 04:10
 
-August 07, 2017 04:10 | Tags: [arduino](../tag/arduino), [kite-aerial-photography](../tag/kite-aerial-photography), [aerial-photography](../tag/aerial-photography), [gps](../tag/gps), [sensors](../tag/sensors), [data-logging](../tag/data-logging), [skypod](../tag/skypod), [ublox](../tag/ublox), [response:14551](../tag/response:14551), [skypod-gps-logger](../tag/skypod-gps-logger), [activity:skypod-gps-logger](../tag/activity:skypod-gps-logger)
+August 07, 2017 04:10 | Tags: [arduino](/tag/arduino), [kite-aerial-photography](/tag/kite-aerial-photography), [aerial-photography](/tag/aerial-photography), [gps](/tag/gps), [sensors](/tag/sensors), [data-logging](/tag/data-logging), [skypod](/tag/skypod), [ublox](/tag/ublox), [response:14551](/tag/response:14551), [skypod-gps-logger](/tag/skypod-gps-logger), [activity:skypod-gps-logger](/tag/activity:skypod-gps-logger)
 
 ----
 

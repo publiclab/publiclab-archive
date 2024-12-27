@@ -6,16 +6,14 @@ author: mathew
 path: /notes/mathew/1-31-2013/programs-simple-chdk-and-stereo-datamaker-installation.md
 nid: 5827
 uid: 4
-
 cids: 
-
 ---
 
 # Programs for simple CHDK and Stereo Datamaker Installation
 
-by [mathew](../../../profile/mathew) | January 31, 2013 18:16
+by [mathew](/profile/mathew) | January 31, 2013 18:16
 
-January 31, 2013 18:16 | Tags: [kite-mapping](../tag/kite-mapping), [chdk](../tag/chdk), [dual-camera](../tag/dual-camera), [camera-trigger](../tag/camera-trigger), [sdm](../tag/sdm), [stereo-datamaker](../tag/stereo-datamaker)
+January 31, 2013 18:16 | Tags: [kite-mapping](/tag/kite-mapping), [chdk](/tag/chdk), [dual-camera](/tag/dual-camera), [camera-trigger](/tag/camera-trigger), [sdm](/tag/sdm), [stereo-datamaker](/tag/stereo-datamaker)
 
 ----
 

@@ -6,16 +6,16 @@ author: warren
 path: /wiki/donate.md
 nid: 327
 uid: 1
-
+cids: 24995
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/404/original/Community_Manager.jpg)
 
 # Donate
 
-by [thewrightjess](../profile/thewrightjess), [warren](../profile/warren), [joyofsoy](../profile/joyofsoy), [Shannon](../profile/Shannon), [Margie](../profile/Margie), [liz](../profile/liz), [travelpoint](../profile/travelpoint), [Becki](../profile/Becki), [cfastie](../profile/cfastie), [pinkgirl](../profile/pinkgirl), [stevie](../profile/stevie), [rashmiroya](../profile/rashmiroya), [jeremyb](../profile/jeremyb), [sbobetsunz](../profile/sbobetsunz), [mathew](../profile/mathew)
+by [thewrightjess](/profile/thewrightjess), [warren](/profile/warren), [joyofsoy](/profile/joyofsoy), [Shannon](/profile/Shannon), [Margie](/profile/Margie), [liz](/profile/liz), [travelpoint](/profile/travelpoint), [Becki](/profile/Becki), [cfastie](/profile/cfastie), [pinkgirl](/profile/pinkgirl), [stevie](/profile/stevie), [rashmiroya](/profile/rashmiroya), [jeremyb](/profile/jeremyb), [sbobetsunz](/profile/sbobetsunz), [mathew](/profile/mathew)
 
-June 03, 2011 23:50 | Tags: [donation](../tag/donation), [sidebar:none](../tag/sidebar:none), [donations](../tag/donations)
+June 03, 2011 23:50 | Tags: [donation](/tag/donation), [sidebar:none](/tag/sidebar:none), [donations](/tag/donations)
 
 ----
 

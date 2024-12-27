@@ -6,18 +6,16 @@ author: anan12
 path: /notes/anan12/03-25-2019/outreachy-proposal-public-lab-ui-improvements.md
 nid: 18850
 uid: 577881
-
 cids: 23439,23447,23450,23497,23508
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/698/original/index.png)
 
 # Outreachy proposal: Public Lab UI Improvements 
 
-by [anan12](../../../profile/anan12) | March 25, 2019 22:00
+by [anan12](/profile/anan12) | March 25, 2019 22:00
 
-March 25, 2019 22:00 | Tags: [software](../tag/software), [soc](../tag/soc), [outreachy](../tag/outreachy), [response:17359](../tag/response:17359), [first-time-poster](../tag/first-time-poster), [soc-2019](../tag/soc-2019), [outreachy-2019](../tag/outreachy-2019), [outreachy-2019-proposals](../tag/outreachy-2019-proposals)
+March 25, 2019 22:00 | Tags: [software](/tag/software), [soc](/tag/soc), [outreachy](/tag/outreachy), [response:17359](/tag/response:17359), [first-time-poster](/tag/first-time-poster), [soc-2019](/tag/soc-2019), [outreachy-2019](/tag/outreachy-2019), [outreachy-2019-proposals](/tag/outreachy-2019-proposals)
 
 ----
 

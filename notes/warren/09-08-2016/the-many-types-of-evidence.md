@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/09-08-2016/the-many-types-of-evidence.md
 nid: 13431
 uid: 1
-
 cids: 15347,15348,15349,15351,15352,15353,15362,15363,15364,15366,15368,15371,15372,15373,15374,15375
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/982/original/DSC09006.JPG)
 
 # The many types of evidence
 
-by [warren](../../../profile/warren) | September 08, 2016 18:06
+by [warren](/profile/warren) | September 08, 2016 18:06
 
-September 08, 2016 18:06 | Tags: [evidence](../tag/evidence), [timelapse](../tag/timelapse), [legal](../tag/legal), [with:gretchengehrke](../tag/with:gretchengehrke), [evidence-project](../tag/evidence-project), [proof](../tag/proof), [response:13365](../tag/response:13365), [spreadsheets](../tag/spreadsheets), [series:evidence-project](../tag/series:evidence-project), [law-and-policy](../tag/law-and-policy)
+September 08, 2016 18:06 | Tags: [evidence](/tag/evidence), [timelapse](/tag/timelapse), [legal](/tag/legal), [with:gretchengehrke](/tag/with:gretchengehrke), [evidence-project](/tag/evidence-project), [proof](/tag/proof), [response:13365](/tag/response:13365), [spreadsheets](/tag/spreadsheets), [series:evidence-project](/tag/series:evidence-project), [law-and-policy](/tag/law-and-policy)
 
 ----
 

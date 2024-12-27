@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/05-28-2013/bugs-in-ir.md
 nid: 7944
 uid: 4
-
 cids: 4870,4888
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/425/original/IMG_1366_ir.jpg)
 
 # Bugs in IR
 
-by [mathew](../../../profile/mathew) | May 28, 2013 16:27
+by [mathew](/profile/mathew) | May 28, 2013 16:27
 
-May 28, 2013 16:27 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram)
+May 28, 2013 16:27 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [infragram](/tag/infragram)
 
 ----
 

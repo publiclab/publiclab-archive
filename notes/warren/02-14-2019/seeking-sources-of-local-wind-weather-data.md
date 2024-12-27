@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/02-14-2019/seeking-sources-of-local-wind-weather-data.md
 nid: 18364
 uid: 1
-
 cids: 21871,21873,21874
-
 ---
 
 # Seeking sources of local wind/weather data
 
-by [warren](../../../profile/warren) | February 14, 2019 19:01
+by [warren](/profile/warren) | February 14, 2019 19:01
 
-February 14, 2019 19:01 | Tags: [air-quality](../tag/air-quality), [wind](../tag/wind), [weather](../tag/weather), [weather-station](../tag/weather-station), [question:air-quality](../tag/question:air-quality), [question:wind](../tag/question:wind), [question:weather](../tag/question:weather), [purpleair](../tag/purpleair), [question:purpleair](../tag/question:purpleair), [purple-air](../tag/purple-air), [leaflet-](../tag/leaflet-), [question:weather-station](../tag/question:weather-station)
+February 14, 2019 19:01 | Tags: [air-quality](/tag/air-quality), [wind](/tag/wind), [weather](/tag/weather), [weather-station](/tag/weather-station), [question:air-quality](/tag/question:air-quality), [question:wind](/tag/question:wind), [question:weather](/tag/question:weather), [purpleair](/tag/purpleair), [question:purpleair](/tag/question:purpleair), [purple-air](/tag/purple-air), [leaflet-](/tag/leaflet-), [question:weather-station](/tag/question:weather-station)
 
 ----
 

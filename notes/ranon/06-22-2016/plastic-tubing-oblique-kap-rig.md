@@ -6,18 +6,16 @@ author: ranon
 path: /notes/ranon/06-22-2016/plastic-tubing-oblique-kap-rig.md
 nid: 13228
 uid: 477060
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/731/original/Tinker_Toy_Rig.jpg)
 
 # Plastic Tubing Oblique KAP Rig
 
-by [ranon](../../../profile/ranon) | June 22, 2016 20:28
+by [ranon](/profile/ranon) | June 22, 2016 20:28
 
-June 22, 2016 20:28 | Tags: [kite-mapping](../tag/kite-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [self-made-kite-mapping](../tag/self-made-kite-mapping), [photo-rig](../tag/photo-rig), [nap](../tag/nap), [lap-rigs](../tag/lap-rigs), [reconfigurable-rig](../tag/reconfigurable-rig), [activity:photo-rig](../tag/activity:photo-rig)
+June 22, 2016 20:28 | Tags: [kite-mapping](/tag/kite-mapping), [kite-aerial-photography](/tag/kite-aerial-photography), [self-made-kite-mapping](/tag/self-made-kite-mapping), [photo-rig](/tag/photo-rig), [nap](/tag/nap), [lap-rigs](/tag/lap-rigs), [reconfigurable-rig](/tag/reconfigurable-rig), [activity:photo-rig](/tag/activity:photo-rig)
 
 ----
 

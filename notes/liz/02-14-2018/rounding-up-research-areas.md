@@ -6,16 +6,14 @@ author: liz
 path: /notes/liz/02-14-2018/rounding-up-research-areas.md
 nid: 15735
 uid: 7
-
 cids: 22940
-
 ---
 
 # "Rounding up" research areas?
 
-by [liz](../../../profile/liz) | February 14, 2018 20:49
+by [liz](/profile/liz) | February 14, 2018 20:49
 
-February 14, 2018 20:49 | Tags: [community](../tag/community), [question:general](../tag/question:general), [question:community](../tag/question:community)
+February 14, 2018 20:49 | Tags: [community](/tag/community), [question:general](/tag/question:general), [question:community](/tag/question:community)
 
 ----
 

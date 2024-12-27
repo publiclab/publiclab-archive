@@ -6,14 +6,14 @@ author: warren
 path: /wiki/lel.md
 nid: 17434
 uid: 1
-
+cids: 
 ---
 
 # LEL
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-October 30, 2018 17:07 | Tags: [redirect:leaflet-environmental-layers](../tag/redirect:leaflet-environmental-layers)
+October 30, 2018 17:07 | Tags: [redirect:leaflet-environmental-layers](/tag/redirect:leaflet-environmental-layers)
 
 ----
 

@@ -6,18 +6,16 @@ author: ajawitz
 path: /notes/code4maine/07-09-2014/kap-rig-for-mobius-action-cam.md
 nid: 10670
 uid: 294634
-
 cids: 9500,9511,9566,10294
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/192/original/Mobius_Foam.png)
 
 # KAP Rig for Mobius Action Cam
 
-by [ajawitz](../../../profile/ajawitz) | July 09, 2014 23:53
+by [ajawitz](/profile/ajawitz) | July 09, 2014 23:53
 
-July 09, 2014 23:53 | Tags: [kite-mapping](../tag/kite-mapping), [grassrootsmapping](../tag/grassrootsmapping), [citizen-science](../tag/citizen-science), [mobius](../tag/mobius), [mobius-action-cam](../tag/mobius-action-cam), [kap-rigs](../tag/kap-rigs), [response:10162](../tag/response:10162), [mini-kite-kit](../tag/mini-kite-kit), [mini-balloon-kit](../tag/mini-balloon-kit), [activity:photo-rig](../tag/activity:photo-rig), [activity:mobius](../tag/activity:mobius), [activity:mini-balloon-kit](../tag/activity:mini-balloon-kit), [activity:mini-kite-kit](../tag/activity:mini-kite-kit), [activity:lightweight-photo-rig](../tag/activity:lightweight-photo-rig)
+July 09, 2014 23:53 | Tags: [kite-mapping](/tag/kite-mapping), [grassrootsmapping](/tag/grassrootsmapping), [citizen-science](/tag/citizen-science), [mobius](/tag/mobius), [mobius-action-cam](/tag/mobius-action-cam), [kap-rigs](/tag/kap-rigs), [response:10162](/tag/response:10162), [mini-kite-kit](/tag/mini-kite-kit), [mini-balloon-kit](/tag/mini-balloon-kit), [activity:photo-rig](/tag/activity:photo-rig), [activity:mobius](/tag/activity:mobius), [activity:mini-balloon-kit](/tag/activity:mini-balloon-kit), [activity:mini-kite-kit](/tag/activity:mini-kite-kit), [activity:lightweight-photo-rig](/tag/activity:lightweight-photo-rig)
 
 ----
 

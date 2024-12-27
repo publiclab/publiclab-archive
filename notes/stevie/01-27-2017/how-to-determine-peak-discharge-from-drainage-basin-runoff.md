@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/01-27-2017/how-to-determine-peak-discharge-from-drainage-basin-runoff.md
 nid: 13884
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/387/original/2255129_02a73e59.jpg)
 
 # How to determine peak discharge from drainage basin runoff
 
-by [stevie](../../../profile/stevie) | January 27, 2017 18:43
+by [stevie](/profile/stevie) | January 27, 2017 18:43
 
-January 27, 2017 18:43 | Tags: [stormwater](../tag/stormwater), [seeks:replications](../tag/seeks:replications), [activity:stormwater](../tag/activity:stormwater)
+January 27, 2017 18:43 | Tags: [stormwater](/tag/stormwater), [seeks:replications](/tag/seeks:replications), [activity:stormwater](/tag/activity:stormwater)
 
 ----
 

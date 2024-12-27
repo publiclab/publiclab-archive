@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/07-26-2016/photos-to-3d.md
 nid: 13310
 uid: 554
-
 cids: 15065,15262,15263,15264,15265,15272
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/234/original/Atwater2pan.jpg)
 
 # Photos to 3D
 
-by [cfastie](../../../profile/cfastie) | July 26, 2016 03:40
+by [cfastie](/profile/cfastie) | July 26, 2016 03:40
 
-July 26, 2016 03:40 | Tags: [vermont](../tag/vermont), [kite-aerial-photography](../tag/kite-aerial-photography), [kap](../tag/kap), [sfm](../tag/sfm), [structure-from-motion](../tag/structure-from-motion), [autokap](../tag/autokap), [recap-360](../tag/recap-360), [autodesk](../tag/autodesk)
+July 26, 2016 03:40 | Tags: [vermont](/tag/vermont), [kite-aerial-photography](/tag/kite-aerial-photography), [kap](/tag/kap), [sfm](/tag/sfm), [structure-from-motion](/tag/structure-from-motion), [autokap](/tag/autokap), [recap-360](/tag/recap-360), [autodesk](/tag/autodesk)
 
 ----
 

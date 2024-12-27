@@ -6,18 +6,16 @@ author: jbreen
 path: /notes/jbreen/6-23-2012/fabaoutfit-derivative-kap-rig-0.md
 nid: 2618
 uid: 326
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0452.JPG)
 
 # FABAoutfit derivative KAP rig
 
-by [jbreen](../../../profile/jbreen) | June 23, 2012 19:21
+by [jbreen](/profile/jbreen) | June 23, 2012 19:21
 
-June 23, 2012 19:21 | Tags: [picavet](../tag/picavet), [kite-aerial-photography](../tag/kite-aerial-photography), [photo-rig](../tag/photo-rig), [activity:photo-rig](../tag/activity:photo-rig)
+June 23, 2012 19:21 | Tags: [picavet](/tag/picavet), [kite-aerial-photography](/tag/kite-aerial-photography), [photo-rig](/tag/photo-rig), [activity:photo-rig](/tag/activity:photo-rig)
 
 ----
 

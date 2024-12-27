@@ -6,16 +6,14 @@ author: jfd
 path: /notes/jfd/12-14-2016/video-infragram.md
 nid: 13783
 uid: 499882
-
 cids: 15978,15991,15992,22380,22383
-
 ---
 
 # Video Infragram
 
-by [jfd](../../../profile/jfd) | December 14, 2016 08:37
+by [jfd](/profile/jfd) | December 14, 2016 08:37
 
-December 14, 2016 08:37 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infrared](../tag/infrared), [infragram](../tag/infragram), [question:infragram](../tag/question:infragram), [answered](../tag/answered), [question:infrared](../tag/question:infrared), [n](../tag/n), [question:multispectral-imaging](../tag/question:multispectral-imaging), [multispectral-imaging](../tag/multispectral-imaging), [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster)
+December 14, 2016 08:37 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [infrared](/tag/infrared), [infragram](/tag/infragram), [question:infragram](/tag/question:infragram), [answered](/tag/answered), [question:infrared](/tag/question:infrared), [n](/tag/n), [question:multispectral-imaging](/tag/question:multispectral-imaging), [multispectral-imaging](/tag/multispectral-imaging), [question:general](/tag/question:general), [first-time-poster](/tag/first-time-poster)
 
 ----
 

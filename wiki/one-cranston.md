@@ -6,14 +6,14 @@ author: warren
 path: /wiki/one-cranston.md
 nid: 19000
 uid: 1
-
+cids: 
 ---
 
 # One Cranston
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-April 08, 2019 19:33 | Tags: [place](../tag/place), [location:blurred](../tag/location:blurred), [lat:41.7900](../tag/lat:41.7900), [lon:-71.4570](../tag/lon:-71.4570), [redirect:onecranston](../tag/redirect:onecranston)
+April 08, 2019 19:33 | Tags: [place](/tag/place), [location:blurred](/tag/location:blurred), [lat:41.7900](/tag/lat:41.7900), [lon:-71.4570](/tag/lon:-71.4570), [redirect:onecranston](/tag/redirect:onecranston)
 
 ----
 
@@ -43,19 +43,19 @@ Interested in following along in the project? Subscribe to the tag below to get 
 
 <a class="btn btn-large btn-primary" href="https://publiclab.org/subscribe/tag/one-cranston">Subscribe to updates on this project </a>
 
-[grid:one-cranston](../../tag/grid:one-cranston)
+[grid:one-cranston](/tag/grid:one-cranston)
 
 ### Questions
 
 Here's a place to list things you have questions about, or issues or **challenges you’re hoping to solve in this project**. What questions helped guide the work? Let's build out a Frequently Asked Questions area:
 
-[one-cranston](../../tag/question:one-cranston)
+[one-cranston](/tag/question:one-cranston)
 
 ****
 
 ### Activities we’ve done in our project
 
-[one-cranston](../../tag/activity:one-cranston)
+[one-cranston](/tag/activity:one-cranston)
 
 ### Data
 

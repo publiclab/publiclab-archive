@@ -6,14 +6,14 @@ author: warren
 path: /wiki/values.md
 nid: 20247
 uid: 1
-
+cids: 
 ---
 
 # values
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-July 22, 2019 12:01 | Tags: [redirect:public-lab-nonprofit-values](../tag/redirect:public-lab-nonprofit-values)
+July 22, 2019 12:01 | Tags: [redirect:public-lab-nonprofit-values](/tag/redirect:public-lab-nonprofit-values)
 
 ----
 

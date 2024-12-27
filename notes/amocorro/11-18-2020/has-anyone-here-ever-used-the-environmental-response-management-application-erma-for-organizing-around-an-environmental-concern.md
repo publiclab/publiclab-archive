@@ -6,16 +6,14 @@ author: amocorro
 path: /notes/amocorro/11-18-2020/has-anyone-here-ever-used-the-environmental-response-management-application-erma-for-organizing-around-an-environmental-concern.md
 nid: 25074
 uid: 700923
-
 cids: 27677,27681,27682,27683,27702,27743,27752
-
 ---
 
 # Has anyone here ever used the Environmental Response Management Application (ERMA) for organizing around an environmental concern? 
 
-by [amocorro](../../../profile/amocorro) | November 18, 2020 20:31
+by [amocorro](/profile/amocorro) | November 18, 2020 20:31
 
-November 18, 2020 20:31 | Tags: [oil-spill](../tag/oil-spill), [visualization](../tag/visualization), [maps](../tag/maps), [question:general](../tag/question:general), [general](../tag/general), [environmental-sensitivity-index](../tag/environmental-sensitivity-index), [erma](../tag/erma), [environmental-responders](../tag/environmental-responders)
+November 18, 2020 20:31 | Tags: [oil-spill](/tag/oil-spill), [visualization](/tag/visualization), [maps](/tag/maps), [question:general](/tag/question:general), [general](/tag/general), [environmental-sensitivity-index](/tag/environmental-sensitivity-index), [erma](/tag/erma), [environmental-responders](/tag/environmental-responders)
 
 ----
 

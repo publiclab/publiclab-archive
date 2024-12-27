@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/1-20-2012/expensive-and-over-engineered-heat-mapping-inaccessible-and-illegible-homeown.md
 nid: 715
 uid: 1
-
 cids: 412
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Building_thermal_imaging.jpg)
 
 # Expensive and over-engineered heat mapping is inaccessible and illegible to homeowners
 
-by [warren](../../../profile/warren) | January 20, 2012 23:10
+by [warren](/profile/warren) | January 20, 2012 23:10
 
 January 20, 2012 23:10 | Tags: 
 

@@ -6,16 +6,16 @@ author: devinb
 path: /wiki/crisis-convening.md
 nid: 16515
 uid: 430735
-
+cids: 30833
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/239/original/4671237980_40b7806e4b_b_%281%29.jpg)
 
 # Crisis Convening
 
-by [devinb](../profile/devinb)
+by [devinb](/profile/devinb)
 
-June 18, 2018 20:20 | Tags: [barnraising](../tag/barnraising), [newark](../tag/newark), [new-jersey](../tag/new-jersey), [parent:barnraising](../tag/parent:barnraising)
+June 18, 2018 20:20 | Tags: [barnraising](/tag/barnraising), [newark](/tag/newark), [new-jersey](/tag/new-jersey), [parent:barnraising](/tag/parent:barnraising)
 
 ----
 

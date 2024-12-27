@@ -6,18 +6,16 @@ author: Kaya9804
 path: /notes/Kaya9804/06-09-2014/thermal-fishing-bob-presentation-from-the-ne-barnraising.md
 nid: 10544
 uid: 45526
-
 cids: 9167,9168,9172
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/575/original/IMG_1214.jpg)
 
 # Thermal Fishing Bob Presentation from the NE Barnraising
 
-by [Kaya9804](../../../profile/Kaya9804) | June 09, 2014 18:41
+by [Kaya9804](/profile/Kaya9804) | June 09, 2014 18:41
 
-June 09, 2014 18:41 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-fishing-bob](../tag/thermal-fishing-bob)
+June 09, 2014 18:41 | Tags: [thermal-photography](/tag/thermal-photography), [thermal-fishing-bob](/tag/thermal-fishing-bob)
 
 ----
 

@@ -6,18 +6,16 @@ author: kgradow1
 path: /notes/kgradow1/10-19-2015/pyrotechnics-101-flame-testing-metal-salts.md
 nid: 12319
 uid: 297929
-
 cids: 12767,12802,27986,27990,27991,27999,28002,28005,28006,28009,28021,28028,28036,28037,28038,28044
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/047/original/PA190023.JPG)
 
 # Flame testing metal salts
 
-by [kgradow1](../../../profile/kgradow1) | October 19, 2015 23:56
+by [kgradow1](/profile/kgradow1) | October 19, 2015 23:56
 
-October 19, 2015 23:56 | Tags: [spectrometer](../tag/spectrometer), [boston](../tag/boston), [education](../tag/education), [partsandcrafts](../tag/partsandcrafts), [curriculum](../tag/curriculum), [youth](../tag/youth), [somerville](../tag/somerville), [massachusetts](../tag/massachusetts), [flame](../tag/flame), [parts-and-crafts](../tag/parts-and-crafts), [aluminum](../tag/aluminum), [response:4406](../tag/response:4406), [copper](../tag/copper), [sodium](../tag/sodium), [iron](../tag/iron), [emission-spectra](../tag/emission-spectra), [flame-test](../tag/flame-test), [strontium](../tag/strontium), [potassium](../tag/potassium), [activity:spectrometry](../tag/activity:spectrometry), [time:3h](../tag/time:3h), [difficulty:medium](../tag/difficulty:medium), [category:observe](../tag/category:observe), [activity:education](../tag/activity:education), [activity:science-fair](../tag/activity:science-fair), [activity:classroom](../tag/activity:classroom), [activity:curriculum](../tag/activity:curriculum), [activity:nitrogen](../tag/activity:nitrogen), [fire-science](../tag/fire-science)
+October 19, 2015 23:56 | Tags: [spectrometer](/tag/spectrometer), [boston](/tag/boston), [education](/tag/education), [partsandcrafts](/tag/partsandcrafts), [curriculum](/tag/curriculum), [youth](/tag/youth), [somerville](/tag/somerville), [massachusetts](/tag/massachusetts), [flame](/tag/flame), [parts-and-crafts](/tag/parts-and-crafts), [aluminum](/tag/aluminum), [response:4406](/tag/response:4406), [copper](/tag/copper), [sodium](/tag/sodium), [iron](/tag/iron), [emission-spectra](/tag/emission-spectra), [flame-test](/tag/flame-test), [strontium](/tag/strontium), [potassium](/tag/potassium), [activity:spectrometry](/tag/activity:spectrometry), [time:3h](/tag/time:3h), [difficulty:medium](/tag/difficulty:medium), [category:observe](/tag/category:observe), [activity:education](/tag/activity:education), [activity:science-fair](/tag/activity:science-fair), [activity:classroom](/tag/activity:classroom), [activity:curriculum](/tag/activity:curriculum), [activity:nitrogen](/tag/activity:nitrogen), [fire-science](/tag/fire-science)
 
 ----
 

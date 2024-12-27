@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/03-31-2017/u-blox-gps-board.md
 nid: 14074
 uid: 554
-
 cids: 16562,16563,16583,27972
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/988/original/3tracksallps.jpg)
 
 # U-blox GPS board
 
-by [cfastie](../../../profile/cfastie) | March 31, 2017 23:09
+by [cfastie](/profile/cfastie) | March 31, 2017 23:09
 
-March 31, 2017 23:09 | Tags: [arduino](../tag/arduino), [gps](../tag/gps), [sensors](../tag/sensors), [altitude](../tag/altitude), [data-logging](../tag/data-logging), [skypod](../tag/skypod), [response:14036](../tag/response:14036), [ublox](../tag/ublox)
+March 31, 2017 23:09 | Tags: [arduino](/tag/arduino), [gps](/tag/gps), [sensors](/tag/sensors), [altitude](/tag/altitude), [data-logging](/tag/data-logging), [skypod](/tag/skypod), [response:14036](/tag/response:14036), [ublox](/tag/ublox)
 
 ----
 

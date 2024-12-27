@@ -6,18 +6,16 @@ author: nshapiro
 path: /notes/nshapiro/07-12-2018/smart-form-paper-published-by-public-health-nursing.md
 nid: 16709
 uid: 380298
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/566/original/Formaldehyde-icon-A-2017-1n08u6a-150x150.png)
 
 # SmART-Form Paper Published by Public Health Nursing
 
-by [nshapiro](../../../profile/nshapiro) | July 12, 2018 17:31
+by [nshapiro](/profile/nshapiro) | July 12, 2018 17:31
 
-July 12, 2018 17:31 | Tags: [georgia](../tag/georgia), [air-quality](../tag/air-quality), [publication](../tag/publication), [public-health](../tag/public-health), [indoor](../tag/indoor), [southeast](../tag/southeast), [smart-form](../tag/smart-form), [community-science](../tag/community-science), [feasibility](../tag/feasibility)
+July 12, 2018 17:31 | Tags: [georgia](/tag/georgia), [air-quality](/tag/air-quality), [publication](/tag/publication), [public-health](/tag/public-health), [indoor](/tag/indoor), [southeast](/tag/southeast), [smart-form](/tag/smart-form), [community-science](/tag/community-science), [feasibility](/tag/feasibility)
 
 ----
 

@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/10-09-2014/shorter-spectrometer-geometry-with-two-slits.md
 nid: 11254
 uid: 4
-
 cids: 10520,10537,10538
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/388/original/IMG_20141008_183921.jpg)
 
 # shorter spectrometer geometry with two slits?
 
-by [mathew](../../../profile/mathew) | October 09, 2014 03:04
+by [mathew](/profile/mathew) | October 09, 2014 03:04
 
-October 09, 2014 03:04 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit)
+October 09, 2014 03:04 | Tags: [spectrometer](/tag/spectrometer), [oil-testing-kit](/tag/oil-testing-kit)
 
 ----
 

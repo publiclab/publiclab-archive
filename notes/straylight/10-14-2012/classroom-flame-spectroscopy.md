@@ -6,18 +6,16 @@ author: straylight
 path: /notes/straylight/10-14-2012/classroom-flame-spectroscopy.md
 nid: 4406
 uid: 43047
-
 cids: 1651,1654,1655,1656,1657,1658,1659,4434,4483,6292,7117
-
 ---
 
 ![](https://publiclab.org/sites/default/files/sDSCN3945.jpg)
 
 # Classroom Flame Spectroscopy
 
-by [straylight](../../../profile/straylight) | October 14, 2012 09:23
+by [straylight](/profile/straylight) | October 14, 2012 09:23
 
-October 14, 2012 09:23 | Tags: [spectrometer](../tag/spectrometer), [education](../tag/education), [flame-spectroscopy](../tag/flame-spectroscopy), [flame](../tag/flame), [spectroscope](../tag/spectroscope), [science](../tag/science), [metal](../tag/metal), [bunsen](../tag/bunsen), [activity:spectrometry](../tag/activity:spectrometry), [activity:science-fair](../tag/activity:science-fair), [activity:classroom](../tag/activity:classroom), [first-time-poster](../tag/first-time-poster)
+October 14, 2012 09:23 | Tags: [spectrometer](/tag/spectrometer), [education](/tag/education), [flame-spectroscopy](/tag/flame-spectroscopy), [flame](/tag/flame), [spectroscope](/tag/spectroscope), [science](/tag/science), [metal](/tag/metal), [bunsen](/tag/bunsen), [activity:spectrometry](/tag/activity:spectrometry), [activity:science-fair](/tag/activity:science-fair), [activity:classroom](/tag/activity:classroom), [first-time-poster](/tag/first-time-poster)
 
 ----
 

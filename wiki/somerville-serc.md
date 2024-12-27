@@ -6,14 +6,14 @@ author: warren
 path: /wiki/somerville-serc.md
 nid: 16147
 uid: 1
-
+cids: 
 ---
 
 # Somerville SERC
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-April 12, 2018 15:04 | Tags: [parent:serc](../tag/parent:serc)
+April 12, 2018 15:04 | Tags: [parent:serc](/tag/parent:serc)
 
 ----
 

@@ -6,18 +6,16 @@ author: B.Williams
 path: /notes/bwilliams/10-9-2012/carbon-arc.md
 nid: 4291
 uid: 42631
-
 cids: 1603,1604,1607,1609,1615,1621,1624
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Carbon Arc 010.JPG)
 
 # Carbon Arc
 
-by [B.Williams](../../../profile/B.Williams) | October 09, 2012 23:00
+by [B.Williams](/profile/B.Williams) | October 09, 2012 23:00
 
-October 09, 2012 23:00 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [emission-spectroscopy](../tag/emission-spectroscopy), [carbon-arc](../tag/carbon-arc)
+October 09, 2012 23:00 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [emission-spectroscopy](/tag/emission-spectroscopy), [carbon-arc](/tag/carbon-arc)
 
 ----
 

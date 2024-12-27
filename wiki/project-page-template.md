@@ -6,16 +6,16 @@ author: warren
 path: /wiki/project-page-template.md
 nid: 15164
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/020/original/small-logo.png)
 
 # Project page template
 
-by [liz](../profile/liz), [robert_winkler](../profile/robert_winkler), [warren](../profile/warren)
+by [liz](/profile/liz), [robert_winkler](/profile/robert_winkler), [warren](/profile/warren)
 
-November 08, 2017 23:54 | Tags: [locked](../tag/locked), [parent:templates](../tag/parent:templates)
+November 08, 2017 23:54 | Tags: [locked](/tag/locked), [parent:templates](/tag/parent:templates)
 
 ----
 
@@ -45,7 +45,7 @@ Delete this text and Replace “TAGNAME” in the url with the tag for your proj
 <a class="btn btn-large btn-primary" href="https://publiclab.org/subscribe/tag/TAGNAME">Subscribe to updates on this project </a>
 
 Delete this text and replace “tagname” below with the tag for your project 
-[tagname](../../tag/tagname) 
+[tagname](/tag/tagname) 
 
 ### Questions
 
@@ -53,7 +53,7 @@ Delete this text and replace “tagname” below with the tag for your project
 
 Here's a place to list things you have questions about, or issues or **challenges you’re hoping to solve in this project**. What questions helped guide the work? Let's build out a Frequently Asked Questions area:
 
-[tagname](../../tag/question:tagname)
+[tagname](/tag/question:tagname)
 
 ****
 
@@ -61,7 +61,7 @@ Here's a place to list things you have questions about, or issues or **challenge
 
 This section will capture any activities you've done with your group with your project tag. This will help others follow along with what you've already done. Delete this text and replace “tagname” below with the tag for your project. Be sure to tag any activities you've done with your project tag. 
 
-[tagname](../../tag/activity:tagname)
+[tagname](/tag/activity:tagname)
 
 ### Data
 

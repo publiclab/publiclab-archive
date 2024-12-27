@@ -6,12 +6,12 @@ author: sara
 path: /wiki/barnraising-0.md
 nid: 450
 uid: 8
-
+cids: 
 ---
 
 # OLDFirst Annual Barnraising!
 
-by [sara](../profile/sara)
+by [sara](/profile/sara)
 
 September 02, 2011 18:48 | Tags: 
 

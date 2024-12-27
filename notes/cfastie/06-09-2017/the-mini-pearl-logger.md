@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/06-09-2017/the-mini-pearl-logger.md
 nid: 14518
 uid: 554
-
 cids: 16901,16915,16917
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/448/original/MiniPearl400.jpg)
 
 # The Mini Pearl Logger
 
-by [cfastie](../../../profile/cfastie) | June 09, 2017 23:28
+by [cfastie](/profile/cfastie) | June 09, 2017 23:28
 
-June 09, 2017 23:28 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [data-logging](../tag/data-logging), [response:14152](../tag/response:14152), [bme280](../tag/bme280), [arduino-pro-mini](../tag/arduino-pro-mini), [mcp9808](../tag/mcp9808), [mini-pearl-logger](../tag/mini-pearl-logger), [activity:mini-pearl-logger](../tag/activity:mini-pearl-logger)
+June 09, 2017 23:28 | Tags: [arduino](/tag/arduino), [sensors](/tag/sensors), [data-logging](/tag/data-logging), [response:14152](/tag/response:14152), [bme280](/tag/bme280), [arduino-pro-mini](/tag/arduino-pro-mini), [mcp9808](/tag/mcp9808), [mini-pearl-logger](/tag/mini-pearl-logger), [activity:mini-pearl-logger](/tag/activity:mini-pearl-logger)
 
 ----
 

@@ -6,14 +6,14 @@ author: mathew
 path: /wiki/public-lab-lesson-3-photography-in-a-new-light-curricular-standards.md
 nid: 12066
 uid: 4
-
+cids: 
 ---
 
 # Public Lab Lesson 3: Photography in a New Light, curricular standards
 
-by [Shannon](../profile/Shannon), [mathew](../profile/mathew)
+by [Shannon](/profile/Shannon), [mathew](/profile/mathew)
 
-July 15, 2015 02:33 | Tags: [parent:wetlands-lesson-plans](../tag/parent:wetlands-lesson-plans)
+July 15, 2015 02:33 | Tags: [parent:wetlands-lesson-plans](/tag/parent:wetlands-lesson-plans)
 
 ----
 

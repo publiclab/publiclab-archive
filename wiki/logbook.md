@@ -6,12 +6,12 @@ author: warren
 path: /wiki/logbook.md
 nid: 105
 uid: 1
-
+cids: 
 ---
 
 # Logbook
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 February 28, 2011 16:19 | Tags: 
 

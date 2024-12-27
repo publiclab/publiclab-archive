@@ -6,16 +6,16 @@ author: Paddy
 path: /wiki/centerville-the-town-at-the-crest-of-the-richest-hill-on-earth.md
 nid: 13012
 uid: 451390
-
+cids: 25974
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/720/original/IMG_1807.JPG)
 
 # Centerville, the town at the crest of the Richest Hill on Earth
 
-by [Paddy](../profile/Paddy)
+by [Paddy](/profile/Paddy)
 
-April 21, 2016 19:25 | Tags: [mining](../tag/mining), [centerville](../tag/centerville), [mountain-west](../tag/mountain-west), [montana](../tag/montana)
+April 21, 2016 19:25 | Tags: [mining](/tag/mining), [centerville](/tag/centerville), [mountain-west](/tag/mountain-west), [montana](/tag/montana)
 
 ----
 

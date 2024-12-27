@@ -6,18 +6,16 @@ author: eustatic
 path: /09-23-2020/querying-the-us-national-response-center-s-data-for-reports-of-plastic-to-the-us-coast-guard-with-skytruth-org.md
 nid: 24634
 uid: 379
-
 cids: 27405,27421,27429,27432,27467
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/970/original/skytruthalertsmap_%282%29.jpg)
 
 # Querying the US National Response Center's data for reports of "plastic" to the US Coast Guard, with Skytruth.org
 
-by [eustatic](../../../profile/eustatic) | September 23, 2020 16:43
+by [eustatic](/profile/eustatic) | September 23, 2020 16:43
 
-September 23, 2020 16:43 | Tags: [gulf-coast](../tag/gulf-coast), [database](../tag/database), [water-quality](../tag/water-quality), [skytruth](../tag/skytruth), [advocacy-pathways](../tag/advocacy-pathways), [microplastics](../tag/microplastics), [skytruth-alerts](../tag/skytruth-alerts), [zoom:16](../tag/zoom:16), [plastic-pollution](../tag/plastic-pollution), [nurdles](../tag/nurdles), [lat:29.953744](../tag/lat:29.953744), [lon:-90.073642](../tag/lon:-90.073642), [plastic-smell](../tag/plastic-smell), [pellets](../tag/pellets)
+September 23, 2020 16:43 | Tags: [gulf-coast](/tag/gulf-coast), [database](/tag/database), [water-quality](/tag/water-quality), [skytruth](/tag/skytruth), [advocacy-pathways](/tag/advocacy-pathways), [microplastics](/tag/microplastics), [skytruth-alerts](/tag/skytruth-alerts), [zoom:16](/tag/zoom:16), [plastic-pollution](/tag/plastic-pollution), [nurdles](/tag/nurdles), [lat:29.953744](/tag/lat:29.953744), [lon:-90.073642](/tag/lon:-90.073642), [plastic-smell](/tag/plastic-smell), [pellets](/tag/pellets)
 
 ----
 

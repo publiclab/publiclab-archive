@@ -6,14 +6,14 @@ author: liz
 path: /wiki/sandbox-sitemap.md
 nid: 17204
 uid: 7
-
+cids: 
 ---
 
 # sandbox-sitemap
 
-by [liz](../profile/liz), [stevie](../profile/stevie), [joyofsoy](../profile/joyofsoy)
+by [liz](/profile/liz), [stevie](/profile/stevie), [joyofsoy](/profile/joyofsoy)
 
-October 01, 2018 21:45 | Tags: [community](../tag/community), [sitemap](../tag/sitemap)
+October 01, 2018 21:45 | Tags: [community](/tag/community), [sitemap](/tag/sitemap)
 
 ----
 

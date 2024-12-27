@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/01-22-2018/how-do-we-do-user-interface-design-work-in-a-community-process.md
 nid: 15587
 uid: 1
-
 cids: 18256,18269,18287,18288,18491,18504,18507,22869,22934,22941
-
 ---
 
 # How do we do user interface design work in a community process?
 
-by [warren](../../../profile/warren) | January 22, 2018 23:46
+by [warren](/profile/warren) | January 22, 2018 23:46
 
-January 22, 2018 23:46 | Tags: [design](../tag/design), [evaluation](../tag/evaluation), [answered](../tag/answered), [autodesk](../tag/autodesk), [ux](../tag/ux), [ui](../tag/ui), [user-interface](../tag/user-interface), [question:ui](../tag/question:ui), [question:design](../tag/question:design), [pro-bono](../tag/pro-bono), [autodesk-pro-bono](../tag/autodesk-pro-bono), [user-experience](../tag/user-experience), [with:caufenkamp](../tag/with:caufenkamp), [with:tommystyles](../tag/with:tommystyles), [with:julvie](../tag/with:julvie)
+January 22, 2018 23:46 | Tags: [design](/tag/design), [evaluation](/tag/evaluation), [answered](/tag/answered), [autodesk](/tag/autodesk), [ux](/tag/ux), [ui](/tag/ui), [user-interface](/tag/user-interface), [question:ui](/tag/question:ui), [question:design](/tag/question:design), [pro-bono](/tag/pro-bono), [autodesk-pro-bono](/tag/autodesk-pro-bono), [user-experience](/tag/user-experience), [with:caufenkamp](/tag/with:caufenkamp), [with:tommystyles](/tag/with:tommystyles), [with:julvie](/tag/with:julvie)
 
 ----
 

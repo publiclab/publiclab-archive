@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/12-7-2012/nyc-winter-party.md
 nid: 5151
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Holiday2012-NYCparty.png)
 
 # NYC Winter Party
 
-by [liz](../../../profile/liz) | December 07, 2012 18:54
+by [liz](/profile/liz) | December 07, 2012 18:54
 
-December 07, 2012 18:54 | Tags: [event](../tag/event)
+December 07, 2012 18:54 | Tags: [event](/tag/event)
 
 ----
 

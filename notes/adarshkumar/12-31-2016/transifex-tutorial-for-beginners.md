@@ -6,18 +6,16 @@ author: adarshkumar
 path: /notes/adarshkumar/12-31-2016/transifex-tutorial-for-beginners.md
 nid: 13828
 uid: 500732
-
 cids: 16022,16023
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/173/original/Screenshot_from_2017-01-01_02-44-17.png)
 
 # Transifex tutorial for beginners
 
-by [adarshkumar](../../../profile/adarshkumar) | December 31, 2016 21:43
+by [adarshkumar](/profile/adarshkumar) | December 31, 2016 21:43
 
-December 31, 2016 21:43 | Tags: [community](../tag/community), [website](../tag/website), [activity](../tag/activity), [localization](../tag/localization), [translation](../tag/translation), [language](../tag/language), [gcin](../tag/gcin), [gcin-2016](../tag/gcin-2016), [replication:13651](../tag/replication:13651), [transifex](../tag/transifex)
+December 31, 2016 21:43 | Tags: [community](/tag/community), [website](/tag/website), [activity](/tag/activity), [localization](/tag/localization), [translation](/tag/translation), [language](/tag/language), [gcin](/tag/gcin), [gcin-2016](/tag/gcin-2016), [replication:13651](/tag/replication:13651), [transifex](/tag/transifex)
 
 ----
 

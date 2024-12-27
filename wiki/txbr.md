@@ -6,14 +6,14 @@ author: liz
 path: /wiki/txbr.md
 nid: 18342
 uid: 7
-
+cids: 
 ---
 
 # txbr
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-February 11, 2019 19:24 | Tags: [redirect:17210](../tag/redirect:17210)
+February 11, 2019 19:24 | Tags: [redirect:17210](/tag/redirect:17210)
 
 ----
 

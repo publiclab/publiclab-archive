@@ -6,14 +6,14 @@ author: warren
 path: /wiki/stickers.md
 nid: 10571
 uid: 1
-
+cids: 
 ---
 
 # Stickers
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-June 13, 2014 19:44 | Tags: [stickers](../tag/stickers), [drawings](../tag/drawings), [parent:kits-artwork](../tag/parent:kits-artwork)
+June 13, 2014 19:44 | Tags: [stickers](/tag/stickers), [drawings](/tag/drawings), [parent:kits-artwork](/tag/parent:kits-artwork)
 
 ----
 

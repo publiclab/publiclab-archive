@@ -6,18 +6,16 @@ author: stoft
 path: /notes/stoft/04-16-2016/spectrometer-noise.md
 nid: 12987
 uid: 54025
-
 cids: 14283,14287,14292,14294,14295
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/581/original/STest_0-15BluDistrib.gif)
 
 # Spectrometer Noise
 
-by [stoft](../../../profile/stoft) | April 16, 2016 07:01
+by [stoft](/profile/stoft) | April 16, 2016 07:01
 
-April 16, 2016 07:01 | Tags: [spectrometer](../tag/spectrometer), [webcam](../tag/webcam), [desktop-spectrometer](../tag/desktop-spectrometer), [barnstar:empiricism](../tag/barnstar:empiricism), [noise-reduction](../tag/noise-reduction), [signal-to-noise-ratio](../tag/signal-to-noise-ratio), [stability](../tag/stability), [noise](../tag/noise), [averaging](../tag/averaging)
+April 16, 2016 07:01 | Tags: [spectrometer](/tag/spectrometer), [webcam](/tag/webcam), [desktop-spectrometer](/tag/desktop-spectrometer), [barnstar:empiricism](/tag/barnstar:empiricism), [noise-reduction](/tag/noise-reduction), [signal-to-noise-ratio](/tag/signal-to-noise-ratio), [stability](/tag/stability), [noise](/tag/noise), [averaging](/tag/averaging)
 
 ----
 

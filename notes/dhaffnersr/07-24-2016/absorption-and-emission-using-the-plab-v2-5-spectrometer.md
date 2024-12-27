@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/07-24-2016/absorption-and-emission-using-the-plab-v2-5-spectrometer.md
 nid: 13305
 uid: 461120
-
 cids: 15016
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/195/original/cuvette_holder_apparates.png)
 
 # Absorption And Emission - Using The Plab v2.5 Spectrometer
 
-by [dhaffnersr](../../../profile/dhaffnersr) | July 24, 2016 11:48
+by [dhaffnersr](/profile/dhaffnersr) | July 24, 2016 11:48
 
 July 24, 2016 11:48 | Tags: 
 

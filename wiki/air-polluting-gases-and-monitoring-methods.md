@@ -6,16 +6,16 @@ author: bhamster
 path: /wiki/air-polluting-gases-and-monitoring-methods.md
 nid: 25180
 uid: 664477
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/903/original/LA_traffic.jpg)
 
 # Air-polluting gases and monitoring methods
 
-by [fongvania](../profile/fongvania), [bhamster](../profile/bhamster)
+by [fongvania](/profile/fongvania), [bhamster](/profile/bhamster)
 
-December 07, 2020 20:27 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [air-quality](../tag/air-quality), [h2s](../tag/h2s), [ozone](../tag/ozone), [vocs](../tag/vocs), [gas-monitoring](../tag/gas-monitoring), [method](../tag/method), [air-sampling](../tag/air-sampling), [air-sensors](../tag/air-sensors), [parent:air-quality](../tag/parent:air-quality)
+December 07, 2020 20:27 | Tags: [hydrogen-sulfide](/tag/hydrogen-sulfide), [air-quality](/tag/air-quality), [h2s](/tag/h2s), [ozone](/tag/ozone), [vocs](/tag/vocs), [gas-monitoring](/tag/gas-monitoring), [method](/tag/method), [air-sampling](/tag/air-sampling), [air-sensors](/tag/air-sensors), [parent:air-quality](/tag/parent:air-quality)
 
 ----
 
@@ -294,14 +294,14 @@ And more research notes and wiki pages from the hydrogen sulfide tag page here: 
 
 ## Questions about outdoor gas-phase pollutants
 
-[gas-monitoring](../../tag/question:gas-monitoring)
+[gas-monitoring](/tag/question:gas-monitoring)
 
 <br>
 <br>
 
 ## Activities about outdoor gas-phase pollutants
 
-[gas-monitoring](../../tag/activity:gas-monitoring)
+[gas-monitoring](/tag/activity:gas-monitoring)
 
 <br>
 <br>

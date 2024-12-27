@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/2-23-2013/inspirational-deltas.md
 nid: 6097
 uid: 4
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/kiteplans_planos_tissue_tissue.html_.gif)
 
 # Inspirational deltas
 
-by [mathew](../../../profile/mathew) | February 23, 2013 07:04
+by [mathew](/profile/mathew) | February 23, 2013 07:04
 
-February 23, 2013 07:04 | Tags: [kite-mapping](../tag/kite-mapping), [diy-kite](../tag/diy-kite), [delta](../tag/delta), [kites](../tag/kites), [tyvek](../tag/tyvek), [kite-making](../tag/kite-making)
+February 23, 2013 07:04 | Tags: [kite-mapping](/tag/kite-mapping), [diy-kite](/tag/diy-kite), [delta](/tag/delta), [kites](/tag/kites), [tyvek](/tag/tyvek), [kite-making](/tag/kite-making)
 
 ----
 

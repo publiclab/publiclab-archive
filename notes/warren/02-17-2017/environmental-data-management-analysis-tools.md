@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/02-17-2017/environmental-data-management-analysis-tools.md
 nid: 13937
 uid: 1
-
 cids: 19357,19467,20263,20264
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/578/original/Screen_Shot_2017-02-16_at_7.44.44_PM.png)
 
 # Environmental data management & analysis tools
 
-by [warren](../../../profile/warren) | February 17, 2017 01:13
+by [warren](/profile/warren) | February 17, 2017 01:13
 
-February 17, 2017 01:13 | Tags: [software](../tag/software), [data](../tag/data), [data-management](../tag/data-management), [environmental-data](../tag/environmental-data), [data-analysis](../tag/data-analysis), [platforms](../tag/platforms), [data-logging-visualization](../tag/data-logging-visualization), [data-visualization](../tag/data-visualization), [data-visualization-tool](../tag/data-visualization-tool)
+February 17, 2017 01:13 | Tags: [software](/tag/software), [data](/tag/data), [data-management](/tag/data-management), [environmental-data](/tag/environmental-data), [data-analysis](/tag/data-analysis), [platforms](/tag/platforms), [data-logging-visualization](/tag/data-logging-visualization), [data-visualization](/tag/data-visualization), [data-visualization-tool](/tag/data-visualization-tool)
 
 ----
 

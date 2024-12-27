@@ -6,16 +6,14 @@ author: Shannon
 path: /notes/shannon/6-17-2011/additional-need-aerial-monitoring-gulf.md
 nid: 346
 uid: 9
-
 cids: 270
-
 ---
 
 # additional need for aerial monitoring in the Gulf
 
-by [Shannon](../../../profile/Shannon) | June 17, 2011 17:43
+by [Shannon](/profile/Shannon) | June 17, 2011 17:43
 
-June 17, 2011 17:43 | Tags: [gulf-coast](../tag/gulf-coast), [pipeline](../tag/pipeline), [parent:pipeline-monitoring](../tag/parent:pipeline-monitoring), [pipeline-monitoring](../tag/pipeline-monitoring)
+June 17, 2011 17:43 | Tags: [gulf-coast](/tag/gulf-coast), [pipeline](/tag/pipeline), [parent:pipeline-monitoring](/tag/parent:pipeline-monitoring), [pipeline-monitoring](/tag/pipeline-monitoring)
 
 ----
 

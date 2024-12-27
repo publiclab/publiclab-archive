@@ -6,12 +6,12 @@ author: warren
 path: /wiki/2011-plots-nyc-summit.md
 nid: 30
 uid: 1
-
+cids: 
 ---
 
 # 2011 PLOTS NYC Summit
 
-by [Shannon](../profile/Shannon), [liz](../profile/liz), [mathew](../profile/mathew), [warren](../profile/warren)
+by [Shannon](/profile/Shannon), [liz](/profile/liz), [mathew](/profile/mathew), [warren](/profile/warren)
 
 December 14, 2010 21:01 | Tags: 
 

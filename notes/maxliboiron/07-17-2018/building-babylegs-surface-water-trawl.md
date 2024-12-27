@@ -6,18 +6,16 @@ author: maxliboiron
 path: /notes/maxliboiron/07-17-2018/building-babylegs-surface-water-trawl.md
 nid: 16733
 uid: 310707
-
 cids: 20222,20223,20835,26711,26835
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/728/original/mat.jpg)
 
 # Building BabyLegs (surface water trawl)
 
-by [maxliboiron](../../../profile/maxliboiron) | July 17, 2018 18:04
+by [maxliboiron](/profile/maxliboiron) | July 17, 2018 18:04
 
-July 17, 2018 18:04 | Tags: [kits](../tag/kits), [water-quality](../tag/water-quality), [water](../tag/water), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [micro-plastics](../tag/micro-plastics), [community-kits](../tag/community-kits), [microplastics](../tag/microplastics), [plastics](../tag/plastics), [babylegs](../tag/babylegs), [activity:16667](../tag/activity:16667), [activity:babylegs](../tag/activity:babylegs), [parent:babylegs](../tag/parent:babylegs), [activity:microplastics](../tag/activity:microplastics), [babylegs-build](../tag/babylegs-build)
+July 17, 2018 18:04 | Tags: [kits](/tag/kits), [water-quality](/tag/water-quality), [water](/tag/water), [barnstar:excessive-enthusiasm](/tag/barnstar:excessive-enthusiasm), [barnstar:photo-documentation](/tag/barnstar:photo-documentation), [micro-plastics](/tag/micro-plastics), [community-kits](/tag/community-kits), [microplastics](/tag/microplastics), [plastics](/tag/plastics), [babylegs](/tag/babylegs), [activity:16667](/tag/activity:16667), [activity:babylegs](/tag/activity:babylegs), [parent:babylegs](/tag/parent:babylegs), [activity:microplastics](/tag/activity:microplastics), [babylegs-build](/tag/babylegs-build)
 
 ----
 

@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/7-13-2012/thermal-flashlight-calibration-nomogram.md
 nid: 2799
 uid: 4
-
 cids: 1017,1028
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_5171.JPG)
 
 # Thermal Flashlight Calibration Nomogram
 
-by [mathew](../../../profile/mathew) | July 13, 2012 20:22
+by [mathew](/profile/mathew) | July 13, 2012 20:22
 
-July 13, 2012 20:22 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [nomogram](../tag/nomogram), [chart](../tag/chart)
+July 13, 2012 20:22 | Tags: [thermal-photography](/tag/thermal-photography), [thermal-flashlight](/tag/thermal-flashlight), [nomogram](/tag/nomogram), [chart](/tag/chart)
 
 ----
 

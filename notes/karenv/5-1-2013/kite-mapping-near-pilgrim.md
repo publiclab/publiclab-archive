@@ -6,18 +6,16 @@ author: karenv
 path: /notes/karenv/5-1-2013/kite-mapping-near-pilgrim.md
 nid: 7189
 uid: 60501
-
 cids: 4601,4613,6436
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_3410.JPG)
 
 # Kite Mapping Near Pilgrim Power Plant
 
-by [karenv](../../../profile/karenv) | May 01, 2013 17:57
+by [karenv](/profile/karenv) | May 01, 2013 17:57
 
-May 01, 2013 17:57 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [boston](../tag/boston), [watchdog](../tag/watchdog), [plymouth](../tag/plymouth), [powerplant](../tag/powerplant), [cape-cod-bay-watch](../tag/cape-cod-bay-watch), [nuclear](../tag/nuclear), [great-photos](../tag/great-photos), [first-time-poster](../tag/first-time-poster)
+May 01, 2013 17:57 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [boston](/tag/boston), [watchdog](/tag/watchdog), [plymouth](/tag/plymouth), [powerplant](/tag/powerplant), [cape-cod-bay-watch](/tag/cape-cod-bay-watch), [nuclear](/tag/nuclear), [great-photos](/tag/great-photos), [first-time-poster](/tag/first-time-poster)
 
 ----
 

@@ -6,18 +6,16 @@ author: gauravano
 path: /notes/gauravano/03-12-2019/call-for-outreachy-2019-proposals.md
 nid: 18518
 uid: 515081
-
 cids: 22115,22117,22120,22122,22123,22124,22136,22180,22185,23377,23381,23396,23401,23588,23600,23610
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/004/original/outreachy.png)
 
 # Call for Outreachy 2019 proposals!
 
-by [gauravano](../../../profile/gauravano) | March 11, 2019 23:43
+by [gauravano](/profile/gauravano) | March 11, 2019 23:43
 
-March 11, 2019 23:43 | Tags: [software](../tag/software), [code](../tag/code), [with:warren](../tag/with:warren), [wwg](../tag/wwg), [software-outreach](../tag/software-outreach), [soc](../tag/soc), [outreachy](../tag/outreachy), [call-for-proposals](../tag/call-for-proposals), [proposals](../tag/proposals), [response:17359](../tag/response:17359), [call-](../tag/call-), [outreachy-2019](../tag/outreachy-2019)
+March 11, 2019 23:43 | Tags: [software](/tag/software), [code](/tag/code), [with:warren](/tag/with:warren), [wwg](/tag/wwg), [software-outreach](/tag/software-outreach), [soc](/tag/soc), [outreachy](/tag/outreachy), [call-for-proposals](/tag/call-for-proposals), [proposals](/tag/proposals), [response:17359](/tag/response:17359), [call-](/tag/call-), [outreachy-2019](/tag/outreachy-2019)
 
 ----
 
@@ -74,12 +72,12 @@ You can also read through past proposals for Outreachy at [https://publiclab.org
 
 ## Proposals
 
-[outreachy-2019-proposals](../../tag/outreachy-2019-proposals)
+[outreachy-2019-proposals](/tag/outreachy-2019-proposals)
 
 ---------
 
 ## Questions
 
-[soc](../../tag/question:soc)
+[soc](/tag/question:soc)
 
 Please ask questions! We're very friendly and we love welcoming new people into our community.

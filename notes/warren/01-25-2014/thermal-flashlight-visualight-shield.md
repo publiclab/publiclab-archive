@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/01-25-2014/thermal-flashlight-visualight-shield.md
 nid: 9980
 uid: 1
-
 cids: 8076,8077,8078,8081,8082,8083,8084,8085,8086,8355,8356,8357,8358,8359,8361,8362,8363,8364,8365,8366,8367,8369,8375,8378,8743
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/659/original/Screen_Shot_2014-01-25_at_1.29.51_PM.png)
 
 # Thermal flashlight Visualight shield
 
-by [warren](../../../profile/warren) | January 25, 2014 18:37
+by [warren](/profile/warren) | January 25, 2014 18:37
 
-January 25, 2014 18:37 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [visualight](../tag/visualight), [pcb](../tag/pcb), [response:9784](../tag/response:9784), [upverter](../tag/upverter), [circuit](../tag/circuit), [upgrade:thermal-flashlight](../tag/upgrade:thermal-flashlight)
+January 25, 2014 18:37 | Tags: [thermal-photography](/tag/thermal-photography), [thermal-flashlight](/tag/thermal-flashlight), [visualight](/tag/visualight), [pcb](/tag/pcb), [response:9784](/tag/response:9784), [upverter](/tag/upverter), [circuit](/tag/circuit), [upgrade:thermal-flashlight](/tag/upgrade:thermal-flashlight)
 
 ----
 

@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/09-06-2017/report-back-from-second-open-call-on-hurricane-harvey-response-and-coordination.md
 nid: 14833
 uid: 1
-
 cids: 
-
 ---
 
 # Report-back from second Open Call on Hurricane Harvey response and coordination
 
-by [warren](../../../profile/warren) | September 06, 2017 22:10
+by [warren](/profile/warren) | September 06, 2017 22:10
 
-September 06, 2017 22:10 | Tags: [gulf-coast](../tag/gulf-coast), [gulf-restoration-network](../tag/gulf-restoration-network), [skytruth](../tag/skytruth), [hurricane](../tag/hurricane), [stormwater](../tag/stormwater), [mapmill](../tag/mapmill), [storm](../tag/storm), [opencall](../tag/opencall), [coordinating](../tag/coordinating), [disaster-response](../tag/disaster-response), [cartoscope](../tag/cartoscope), [harvey](../tag/harvey), [harvey-calls](../tag/harvey-calls), [response:14797](../tag/response:14797)
+September 06, 2017 22:10 | Tags: [gulf-coast](/tag/gulf-coast), [gulf-restoration-network](/tag/gulf-restoration-network), [skytruth](/tag/skytruth), [hurricane](/tag/hurricane), [stormwater](/tag/stormwater), [mapmill](/tag/mapmill), [storm](/tag/storm), [opencall](/tag/opencall), [coordinating](/tag/coordinating), [disaster-response](/tag/disaster-response), [cartoscope](/tag/cartoscope), [harvey](/tag/harvey), [harvey-calls](/tag/harvey-calls), [response:14797](/tag/response:14797)
 
 ----
 

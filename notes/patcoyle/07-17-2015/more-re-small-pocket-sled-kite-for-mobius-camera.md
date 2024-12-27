@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/07-17-2015/more-re-small-pocket-sled-kite-for-mobius-camera.md
 nid: 12073
 uid: 77
-
 cids: 12220,12221,12222,12223,12225,12227
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/702/original/screenshot_contact_sheet2.jpg)
 
 # More re: small pocket sled kite for Mobius camera
 
-by [patcoyle](../../../profile/patcoyle) | July 17, 2015 05:19
+by [patcoyle](/profile/patcoyle) | July 17, 2015 05:19
 
-July 17, 2015 05:19 | Tags: [kap](../tag/kap), [sled-kite](../tag/sled-kite), [gimp](../tag/gimp), [mobius-actioncam](../tag/mobius-actioncam)
+July 17, 2015 05:19 | Tags: [kap](/tag/kap), [sled-kite](/tag/sled-kite), [gimp](/tag/gimp), [mobius-actioncam](/tag/mobius-actioncam)
 
 ----
 

@@ -6,16 +6,14 @@ author: marinaraHQ
 path: /notes/marinaraHQ/03-10-2022/monitoring-high-rise-construction-on-a-state-remediation-site.md
 nid: 30116
 uid: 791074
-
 cids: 29809
-
 ---
 
 # Monitoring High-Rise Construction on a State Remediation Site
 
-by [marinaraHQ](../../../profile/marinaraHQ) | March 10, 2022 20:38
+by [marinaraHQ](/profile/marinaraHQ) | March 10, 2022 20:38
 
-March 10, 2022 20:38 | Tags: [soil](../tag/soil), [water](../tag/water), [pcb](../tag/pcb), [construction](../tag/construction), [northeast](../tag/northeast), [lead](../tag/lead), [first-time-poster](../tag/first-time-poster), [run-off](../tag/run-off), [soil-contamination](../tag/soil-contamination), [zoom:15](../tag/zoom:15), [lat:42.45568220597949](../tag/lat:42.45568220597949), [lon:-76.49245179811261](../tag/lon:-76.49245179811261), [soil-monitoring](../tag/soil-monitoring), [tce](../tag/tce), [ithaca](../tag/ithaca), [cornell](../tag/cornell)
+March 10, 2022 20:38 | Tags: [soil](/tag/soil), [water](/tag/water), [pcb](/tag/pcb), [construction](/tag/construction), [northeast](/tag/northeast), [lead](/tag/lead), [first-time-poster](/tag/first-time-poster), [run-off](/tag/run-off), [soil-contamination](/tag/soil-contamination), [zoom:15](/tag/zoom:15), [lat:42.45568220597949](/tag/lat:42.45568220597949), [lon:-76.49245179811261](/tag/lon:-76.49245179811261), [soil-monitoring](/tag/soil-monitoring), [tce](/tag/tce), [ithaca](/tag/ithaca), [cornell](/tag/cornell)
 
 ----
 

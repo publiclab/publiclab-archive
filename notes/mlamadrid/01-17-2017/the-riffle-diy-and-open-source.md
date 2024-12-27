@@ -6,18 +6,16 @@ author: mlamadrid
 path: /notes/mlamadrid/01-17-2017/the-riffle-diy-and-open-source.md
 nid: 13856
 uid: 45586
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/289/original/Riffle_20160527-5700.jpg)
 
 # The Riffle: DIY and Open Source
 
-by [mlamadrid](../../../profile/mlamadrid) | January 17, 2017 22:24
+by [mlamadrid](/profile/mlamadrid) | January 17, 2017 22:24
 
-January 17, 2017 22:24 | Tags: [water-quality](../tag/water-quality), [riffle](../tag/riffle), [with:mathew](../tag/with:mathew), [with:donblair](../tag/with:donblair), [communityscienceforum](../tag/communityscienceforum), [riffle-examples](../tag/riffle-examples)
+January 17, 2017 22:24 | Tags: [water-quality](/tag/water-quality), [riffle](/tag/riffle), [with:mathew](/tag/with:mathew), [with:donblair](/tag/with:donblair), [communityscienceforum](/tag/communityscienceforum), [riffle-examples](/tag/riffle-examples)
 
 ----
 

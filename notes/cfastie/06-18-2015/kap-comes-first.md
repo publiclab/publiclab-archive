@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/06-18-2015/kap-comes-first.md
 nid: 11988
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/382/original/BrePettis.JPG)
 
 # KAP comes first
 
-by [cfastie](../../../profile/cfastie) | June 18, 2015 20:28
+by [cfastie](/profile/cfastie) | June 18, 2015 20:28
 
-June 18, 2015 20:28 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [3dprinting](../tag/3dprinting), [kaptery](../tag/kaptery), [response:11726](../tag/response:11726)
+June 18, 2015 20:28 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [kite-aerial-photography](/tag/kite-aerial-photography), [3dprinting](/tag/3dprinting), [kaptery](/tag/kaptery), [response:11726](/tag/response:11726)
 
 ----
 

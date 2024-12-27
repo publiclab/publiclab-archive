@@ -6,16 +6,14 @@ author: stefannibrasil
 path: /notes/stefannibrasil/03-23-2018/v2-api-collaboration.md
 nid: 16015
 uid: 525300
-
 cids: 19163,19261,19271,19301,23030
-
 ---
 
 # v2 API collaboration
 
-by [stefannibrasil](../../../profile/stefannibrasil) | March 23, 2018 22:46
+by [stefannibrasil](/profile/stefannibrasil) | March 23, 2018 22:46
 
-March 23, 2018 22:46 | Tags: [soc-2018-api](../tag/soc-2018-api), [question:soc-2018-api](../tag/question:soc-2018-api)
+March 23, 2018 22:46 | Tags: [soc-2018-api](/tag/soc-2018-api), [question:soc-2018-api](/tag/question:soc-2018-api)
 
 ----
 

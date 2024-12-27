@@ -6,18 +6,16 @@ author: Matej
 path: /notes/Matej/02-24-2016/various-cfls-with-different-spectra.md
 nid: 12727
 uid: 451808
-
 cids: 13722,13723,13724,13726,13727,13728,13734,13816,13817,14509,14513,14514,14520,14522
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/545/original/IMG_7173.jpg)
 
 # Various CFLs with Different Spectra
 
-by [Matej](../../../profile/Matej) | February 24, 2016 01:42
+by [Matej](/profile/Matej) | February 24, 2016 01:42
 
-February 24, 2016 01:42 | Tags: [spectrometer](../tag/spectrometer), [spectrum-matching](../tag/spectrum-matching), [multispectral](../tag/multispectral), [uv](../tag/uv), [telemetry](../tag/telemetry), [spectralworkbench](../tag/spectralworkbench), [emission-spectroscopy](../tag/emission-spectroscopy), [cfl](../tag/cfl), [spectral-analysis](../tag/spectral-analysis), [spectral-workbench](../tag/spectral-workbench), [response:12658](../tag/response:12658), [response:12656](../tag/response:12656)
+February 24, 2016 01:42 | Tags: [spectrometer](/tag/spectrometer), [spectrum-matching](/tag/spectrum-matching), [multispectral](/tag/multispectral), [uv](/tag/uv), [telemetry](/tag/telemetry), [spectralworkbench](/tag/spectralworkbench), [emission-spectroscopy](/tag/emission-spectroscopy), [cfl](/tag/cfl), [spectral-analysis](/tag/spectral-analysis), [spectral-workbench](/tag/spectral-workbench), [response:12658](/tag/response:12658), [response:12656](/tag/response:12656)
 
 ----
 

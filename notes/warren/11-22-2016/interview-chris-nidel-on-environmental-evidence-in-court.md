@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/11-22-2016/interview-chris-nidel-on-environmental-evidence-in-court.md
 nid: 13716
 uid: 1
-
 cids: 21139,31470
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/877/original/Screenshot_2016-11-22_at_11.28.29_AM.png)
 
 # Interview: Chris Nidel on environmental evidence in court
 
-by [warren](../../../profile/warren) | November 22, 2016 16:31
+by [warren](/profile/warren) | November 22, 2016 16:31
 
-November 22, 2016 16:31 | Tags: [evidence](../tag/evidence), [blog](../tag/blog), [legal](../tag/legal), [openhour](../tag/openhour), [with:gretchengehrke](../tag/with:gretchengehrke), [evidence-project](../tag/evidence-project), [chris-nidel](../tag/chris-nidel), [photographic-evidence](../tag/photographic-evidence), [photographic-monitoring](../tag/photographic-monitoring), [court](../tag/court), [jury](../tag/jury), [series:evidence-project](../tag/series:evidence-project), [law-and-policy](../tag/law-and-policy)
+November 22, 2016 16:31 | Tags: [evidence](/tag/evidence), [blog](/tag/blog), [legal](/tag/legal), [openhour](/tag/openhour), [with:gretchengehrke](/tag/with:gretchengehrke), [evidence-project](/tag/evidence-project), [chris-nidel](/tag/chris-nidel), [photographic-evidence](/tag/photographic-evidence), [photographic-monitoring](/tag/photographic-monitoring), [court](/tag/court), [jury](/tag/jury), [series:evidence-project](/tag/series:evidence-project), [law-and-policy](/tag/law-and-policy)
 
 ----
 
@@ -120,7 +118,7 @@ We're moving these questions into the new [Questions system](/questions) -- so f
 
 <a class="btn btn-primary" href="/post?tags=evidence,question:evidence&template=question">Ask a question about evidence</a>
   
-[question:evidence](../../tag/question:evidence)
+[question:evidence](/tag/question:evidence)
 
 [1]: http://www.nidellaw.com/
 [2]: https://chrisnidel.wordpress.com/about/

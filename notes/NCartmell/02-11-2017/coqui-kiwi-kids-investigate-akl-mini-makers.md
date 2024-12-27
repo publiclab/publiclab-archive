@@ -6,18 +6,16 @@ author: NCartmell
 path: /notes/NCartmell/02-11-2017/coqui-kiwi-kids-investigate-akl-mini-makers.md
 nid: 13924
 uid: 502789
-
 cids: 16694
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/532/original/nutrient-pathoways.png)
 
 # Coqui - Kiwi kids investigate ("AKL Mini-Makers")
 
-by [NCartmell](../../../profile/NCartmell) | February 11, 2017 10:09
+by [NCartmell](/profile/NCartmell) | February 11, 2017 10:09
 
-February 11, 2017 10:09 | Tags: [water-quality](../tag/water-quality), [akl_mini-makers](../tag/akl_mini-makers), [kiwi](../tag/kiwi)
+February 11, 2017 10:09 | Tags: [water-quality](/tag/water-quality), [akl_mini-makers](/tag/akl_mini-makers), [kiwi](/tag/kiwi)
 
 ----
 

@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/09-24-2013/world-maker-faire-2013.md
 nid: 9363
 uid: 7
-
 cids: 24136
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/667/original/MakerDon2013.jpg)
 
 # World Maker Faire 2013
 
-by [liz](../../../profile/liz) | September 24, 2013 23:01
+by [liz](/profile/liz) | September 24, 2013 23:01
 
-September 24, 2013 23:01 | Tags: [new-york-city](../tag/new-york-city), [events](../tag/events), [makerfaire](../tag/makerfaire), [panel](../tag/panel), [with:donblair](../tag/with:donblair), [make](../tag/make)
+September 24, 2013 23:01 | Tags: [new-york-city](/tag/new-york-city), [events](/tag/events), [makerfaire](/tag/makerfaire), [panel](/tag/panel), [with:donblair](/tag/with:donblair), [make](/tag/make)
 
 ----
 

@@ -6,14 +6,14 @@ author: mathew
 path: /wiki/oil-response-toolkit-planning.md
 nid: 5448
 uid: 4
-
+cids: 
 ---
 
 # Oil Response Toolkit Planning
 
-by [mathew](../profile/mathew)
+by [mathew](/profile/mathew)
 
-January 08, 2013 01:22 | Tags: [oil-spill-toolkit](../tag/oil-spill-toolkit), [cocodrie--la](../tag/cocodrie--la), [oil-response-toolkit](../tag/oil-response-toolkit)
+January 08, 2013 01:22 | Tags: [oil-spill-toolkit](/tag/oil-spill-toolkit), [cocodrie--la](/tag/cocodrie--la), [oil-response-toolkit](/tag/oil-response-toolkit)
 
 ----
 

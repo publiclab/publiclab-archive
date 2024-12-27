@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/05-03-2016/excellent-photographers-handbook-design-by-life-magazine.md
 nid: 13066
 uid: 1
-
 cids: 14512,14526
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/908/original/tmp_8630-IMG_20160503_1356191787192055.jpg)
 
 # Excellent photographers handbook design by LIFE magazine
 
-by [warren](../../../profile/warren) | May 03, 2016 19:08
+by [warren](/profile/warren) | May 03, 2016 19:08
 
-May 03, 2016 19:08 | Tags: [guides](../tag/guides), [design](../tag/design), [instructions](../tag/instructions), [steps](../tag/steps), [onboarding](../tag/onboarding), [accessibility](../tag/accessibility), [booklets](../tag/booklets)
+May 03, 2016 19:08 | Tags: [guides](/tag/guides), [design](/tag/design), [instructions](/tag/instructions), [steps](/tag/steps), [onboarding](/tag/onboarding), [accessibility](/tag/accessibility), [booklets](/tag/booklets)
 
 ----
 

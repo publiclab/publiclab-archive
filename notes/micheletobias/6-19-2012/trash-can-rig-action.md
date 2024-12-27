@@ -6,16 +6,14 @@ author: MicheleTobias
 path: /notes/micheletobias/6-19-2012/trash-can-rig-action.md
 nid: 2557
 uid: 149
-
 cids: 
-
 ---
 
 # Trash Can Rig in Action
 
-by [MicheleTobias](../../../profile/MicheleTobias) | June 19, 2012 23:42
+by [MicheleTobias](/profile/MicheleTobias) | June 19, 2012 23:42
 
-June 19, 2012 23:42 | Tags: [kite-mapping](../tag/kite-mapping), [photo-rig](../tag/photo-rig)
+June 19, 2012 23:42 | Tags: [kite-mapping](/tag/kite-mapping), [photo-rig](/tag/photo-rig)
 
 ----
 

@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/09-29-2016/what-are-good-containers-to-use-for-spectrometry-samples.md
 nid: 13509
 uid: 1
-
 cids: 22859
-
 ---
 
 # What are good containers to use for spectrometry samples?
 
-by [warren](../../../profile/warren) | September 29, 2016 21:19
+by [warren](/profile/warren) | September 29, 2016 21:19
 
-September 29, 2016 21:19 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [sample-containers](../tag/sample-containers), [sample-prep](../tag/sample-prep), [sampling](../tag/sampling), [question:spectrometry](../tag/question:spectrometry), [answered](../tag/answered), [spectrometry-sampling](../tag/spectrometry-sampling), [question:spectrometry-sampling](../tag/question:spectrometry-sampling), [question:water-sampling](../tag/question:water-sampling), [question:spectrometry-challenge](../tag/question:spectrometry-challenge), [question:spectrometry-turbidity](../tag/question:spectrometry-turbidity)
+September 29, 2016 21:19 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [sample-containers](/tag/sample-containers), [sample-prep](/tag/sample-prep), [sampling](/tag/sampling), [question:spectrometry](/tag/question:spectrometry), [answered](/tag/answered), [spectrometry-sampling](/tag/spectrometry-sampling), [question:spectrometry-sampling](/tag/question:spectrometry-sampling), [question:water-sampling](/tag/question:water-sampling), [question:spectrometry-challenge](/tag/question:spectrometry-challenge), [question:spectrometry-turbidity](/tag/question:spectrometry-turbidity)
 
 ----
 

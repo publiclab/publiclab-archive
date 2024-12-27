@@ -6,16 +6,14 @@ author: ncraig
 path: /notes/ncraig/11-25-2011/photographs-scaled-3d-model-using-free-software.md
 nid: 584
 uid: 15
-
 cids: 363,364,382,448,16251
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2011-11-27 at 12.09.40 AM.png)
 
 # Photographs to Scaled 3D model using free software
 
-by [ncraig](../../../profile/ncraig) | November 25, 2011 21:16
+by [ncraig](/profile/ncraig) | November 25, 2011 21:16
 
 November 25, 2011 21:16 | Tags: 
 

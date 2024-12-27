@@ -6,18 +6,16 @@ author: fswank
 path: /notes/fswank/10-01-2017/help-with-infragram-on-custom-camera-red-yellow-green-appears-to-be-backwards.md
 nid: 14987
 uid: 515510
-
 cids: 22651
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/799/original/infragramtroubleshooting.jpg)
 
 # Help with infragram on custom camera, red/yellow/green appears to be backwards?
 
-by [fswank](../../../profile/fswank) | October 01, 2017 16:53
+by [fswank](/profile/fswank) | October 01, 2017 16:53
 
-October 01, 2017 16:53 | Tags: [troubleshooting](../tag/troubleshooting), [infragram](../tag/infragram), [red-filter](../tag/red-filter), [answered](../tag/answered), [question:question](../tag/question:question), [019:](../tag/019:), [panasonic](../tag/panasonic)
+October 01, 2017 16:53 | Tags: [troubleshooting](/tag/troubleshooting), [infragram](/tag/infragram), [red-filter](/tag/red-filter), [answered](/tag/answered), [question:question](/tag/question:question), [019:](/tag/019:), [panasonic](/tag/panasonic)
 
 ----
 

@@ -6,18 +6,16 @@ author: bhamster
 path: /notes/bhamster/01-25-2021/event-welcome-to-the-soil-research-area-review.md
 nid: 25535
 uid: 664477
-
 cids: 28040,28046,28056,28059,28060,28118,28121,28159
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/500/original/dirt-698869_640.jpg)
 
 # Event: Welcome to the soil research area review!
 
-by [bhamster](../../../profile/bhamster) | January 25, 2021 22:27
+by [bhamster](/profile/bhamster) | January 25, 2021 22:27
 
-January 25, 2021 22:27 | Tags: [event](../tag/event), [soil](../tag/soil), [reviews](../tag/reviews), [soil-contamination](../tag/soil-contamination), [research-area-review](../tag/research-area-review)
+January 25, 2021 22:27 | Tags: [event](/tag/event), [soil](/tag/soil), [reviews](/tag/reviews), [soil-contamination](/tag/soil-contamination), [research-area-review](/tag/research-area-review)
 
 ----
 

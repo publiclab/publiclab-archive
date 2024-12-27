@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/03-01-2019/can-we-use-a-guitar-tuning-app-to-get-numeric-data-from-the-coqui-water-sensor.md
 nid: 18445
 uid: 1
-
 cids: 23333,23480,23498,30303
-
 ---
 
 # Can we use a guitar tuning app to get numeric data from the Coqui water sensor? 
 
-by [warren](../../../profile/warren) | March 01, 2019 23:26
+by [warren](/profile/warren) | March 01, 2019 23:26
 
-March 01, 2019 23:26 | Tags: [water-quality](../tag/water-quality), [coqui](../tag/coqui), [question:coqui](../tag/question:coqui), [guitar-tuner](../tag/guitar-tuner)
+March 01, 2019 23:26 | Tags: [water-quality](/tag/water-quality), [coqui](/tag/coqui), [question:coqui](/tag/question:coqui), [guitar-tuner](/tag/guitar-tuner)
 
 ----
 

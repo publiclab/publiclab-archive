@@ -6,14 +6,14 @@ author: warren
 path: /wiki/gsoc-faq.md
 nid: 10356
 uid: 1
-
+cids: 
 ---
 
 # GSoC FAQ
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-April 24, 2014 17:52 | Tags: [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014)
+April 24, 2014 17:52 | Tags: [gsoc](/tag/gsoc), [gsoc-2014](/tag/gsoc-2014)
 
 ----
 

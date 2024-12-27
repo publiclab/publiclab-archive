@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/04-21-2016/prototype-of-easy-to-build-rigid-spectrometer-housing.md
 nid: 13013
 uid: 1
-
 cids: 14405,14411,14412,14417,14434,14435,14436,14437,14441,14444,14476,14477,14549,15378,15388,15389,15392,15393,15394
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/724/original/tmp_12449-IMG_20160421_154045-1649115331.jpg)
 
 # Prototype of easy-to-build rigid spectrometer housing
 
-by [warren](../../../profile/warren) | April 21, 2016 20:05
+by [warren](/profile/warren) | April 21, 2016 20:05
 
-April 21, 2016 20:05 | Tags: [spectrometer](../tag/spectrometer), [laser-cut](../tag/laser-cut), [design](../tag/design), [housing](../tag/housing), [response:11649](../tag/response:11649), [stability](../tag/stability), [setup](../tag/setup), [rigidness](../tag/rigidness), [response:12986](../tag/response:12986), [response:12157](../tag/response:12157), [cardboard](../tag/cardboard), [difficulty:easy](../tag/difficulty:easy), [upgrade:spectrometry](../tag/upgrade:spectrometry), [upgrade:dssk](../tag/upgrade:dssk), [status:under-development](../tag/status:under-development), [seeks:builds](../tag/seeks:builds), [time:3h](../tag/time:3h)
+April 21, 2016 20:05 | Tags: [spectrometer](/tag/spectrometer), [laser-cut](/tag/laser-cut), [design](/tag/design), [housing](/tag/housing), [response:11649](/tag/response:11649), [stability](/tag/stability), [setup](/tag/setup), [rigidness](/tag/rigidness), [response:12986](/tag/response:12986), [response:12157](/tag/response:12157), [cardboard](/tag/cardboard), [difficulty:easy](/tag/difficulty:easy), [upgrade:spectrometry](/tag/upgrade:spectrometry), [upgrade:dssk](/tag/upgrade:dssk), [status:under-development](/tag/status:under-development), [seeks:builds](/tag/seeks:builds), [time:3h](/tag/time:3h)
 
 ----
 

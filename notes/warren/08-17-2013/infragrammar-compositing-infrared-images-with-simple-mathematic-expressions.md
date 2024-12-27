@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/08-17-2013/infragrammar-compositing-infrared-images-with-simple-mathematic-expressions.md
 nid: 9028
 uid: 1
-
 cids: 6663,6664,6665,6666,6667,6707,6710,6712
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/174/original/Screen_Shot_2013-08-17_at_11.52.00_AM.png)
 
 # Infragrammar: compositing infrared images with simple mathematic expressions
 
-by [warren](../../../profile/warren) | August 17, 2013 16:17
+by [warren](/profile/warren) | August 17, 2013 16:17
 
-August 17, 2013 16:17 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [nbg](../tag/nbg), [processing](../tag/processing), [compositing](../tag/compositing), [ngb](../tag/ngb), [infragram-sandbox](../tag/infragram-sandbox), [infragrammar](../tag/infragrammar)
+August 17, 2013 16:17 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [infragram](/tag/infragram), [nbg](/tag/nbg), [processing](/tag/processing), [compositing](/tag/compositing), [ngb](/tag/ngb), [infragram-sandbox](/tag/infragram-sandbox), [infragrammar](/tag/infragrammar)
 
 ----
 

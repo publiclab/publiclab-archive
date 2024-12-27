@@ -6,18 +6,16 @@ author: seankmcginnis
 path: /notes/SeanKMcGinnis/08-17-2015/summer-of-maps-fellowship-presentation.md
 nid: 12152
 uid: 552
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/165/original/SummerOfMaps.png)
 
 # Summer of Maps Fellowship Presentation
 
-by [seankmcginnis](../../../profile/seankmcginnis) | August 17, 2015 22:40
+by [seankmcginnis](/profile/seankmcginnis) | August 17, 2015 22:40
 
-August 17, 2015 22:40 | Tags: [philadelphia](../tag/philadelphia), [event](../tag/event), [events:philadelphia](../tag/events:philadelphia), [maine](../tag/maine), [northeast](../tag/northeast), [penobscot](../tag/penobscot), [friends-of-penobscot-bay](../tag/friends-of-penobscot-bay), [event:rsvp](../tag/event:rsvp), [date:08-18-2015](../tag/date:08-18-2015)
+August 17, 2015 22:40 | Tags: [philadelphia](/tag/philadelphia), [event](/tag/event), [events:philadelphia](/tag/events:philadelphia), [maine](/tag/maine), [northeast](/tag/northeast), [penobscot](/tag/penobscot), [friends-of-penobscot-bay](/tag/friends-of-penobscot-bay), [event:rsvp](/tag/event:rsvp), [date:08-18-2015](/tag/date:08-18-2015)
 
 ----
 

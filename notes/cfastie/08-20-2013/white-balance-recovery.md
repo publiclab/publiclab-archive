@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/08-20-2013/white-balance-recovery.md
 nid: 9038
 uid: 554
-
 cids: 6714,6720
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/216/original/Lettuce_Infrared.jpg)
 
 # Recover your balance
 
-by [cfastie](../../../profile/cfastie) | August 20, 2013 05:28
+by [cfastie](/profile/cfastie) | August 20, 2013 05:28
 
-August 20, 2013 05:28 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infrared](../tag/infrared), [infragram](../tag/infragram), [infragram-sandbox](../tag/infragram-sandbox)
+August 20, 2013 05:28 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [vermont](/tag/vermont), [infrared](/tag/infrared), [infragram](/tag/infragram), [infragram-sandbox](/tag/infragram-sandbox)
 
 ----
 

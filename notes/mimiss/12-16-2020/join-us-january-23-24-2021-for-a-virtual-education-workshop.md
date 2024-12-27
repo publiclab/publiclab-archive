@@ -6,18 +6,16 @@ author: mimiss
 path: /notes/mimiss/12-16-2020/join-us-january-23-24-2021-for-a-virtual-education-workshop.md
 nid: 25265
 uid: 579821
-
 cids: 27812,27839,27858,27859,27860,27861,27862,27878,28027,29365
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/042/original/20180501_162220.jpg)
 
 # Join us January 23-24, 2021 for a virtual education workshop!
 
-by [mimiss](../../../profile/mimiss) | December 16, 2020 16:31
+by [mimiss](/profile/mimiss) | December 16, 2020 16:31
 
-December 16, 2020 16:31 | Tags: [gulf-coast](../tag/gulf-coast), [education](../tag/education), [louisiana](../tag/louisiana), [mississippi](../tag/mississippi), [workshop](../tag/workshop), [florida](../tag/florida), [texas](../tag/texas), [alabama](../tag/alabama), [classroom-community-science](../tag/classroom-community-science), [lesson-plan](../tag/lesson-plan)
+December 16, 2020 16:31 | Tags: [gulf-coast](/tag/gulf-coast), [education](/tag/education), [louisiana](/tag/louisiana), [mississippi](/tag/mississippi), [workshop](/tag/workshop), [florida](/tag/florida), [texas](/tag/texas), [alabama](/tag/alabama), [classroom-community-science](/tag/classroom-community-science), [lesson-plan](/tag/lesson-plan)
 
 ----
 

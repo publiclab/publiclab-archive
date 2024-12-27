@@ -6,14 +6,14 @@ author: mathew
 path: /wiki/lesson-1-wetlands-water-oil-curricular-standards.md
 nid: 12064
 uid: 4
-
+cids: 
 ---
 
 # Lesson 1: Wetlands, Water, & Oil curricular standards
 
-by [Shannon](../profile/Shannon), [mathew](../profile/mathew)
+by [Shannon](/profile/Shannon), [mathew](/profile/mathew)
 
-July 15, 2015 00:09 | Tags: [wetlands](../tag/wetlands), [parent:wetlands-lesson-plans](../tag/parent:wetlands-lesson-plans)
+July 15, 2015 00:09 | Tags: [wetlands](/tag/wetlands), [parent:wetlands-lesson-plans](/tag/parent:wetlands-lesson-plans)
 
 ----
 

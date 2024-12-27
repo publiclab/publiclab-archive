@@ -6,18 +6,16 @@ author: wmacfarl
 path: /notes/wmacfarl/01-10-2020/building-the-simple-water-sensor-platform.md
 nid: 22256
 uid: 424597
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/539/original/sensor_platform.jpg)
 
 # Building the Simple Water Sensor Platform
 
-by [wmacfarl](../../../profile/wmacfarl) | January 10, 2020 18:31
+by [wmacfarl](/profile/wmacfarl) | January 10, 2020 18:31
 
-January 10, 2020 18:31 | Tags: [arduino](../tag/arduino), [materials](../tag/materials), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [water-sensors](../tag/water-sensors), [activity:water-sensors](../tag/activity:water-sensors), [dfrobot](../tag/dfrobot), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [oil-and-gas-water-quality](../tag/oil-and-gas-water-quality), [activity:oil-and-gas-water-quality](../tag/activity:oil-and-gas-water-quality), [simple-water-sensor-platform](../tag/simple-water-sensor-platform), [activity:simple-water-sensor-platform](../tag/activity:simple-water-sensor-platform)
+January 10, 2020 18:31 | Tags: [arduino](/tag/arduino), [materials](/tag/materials), [sensors](/tag/sensors), [water-quality](/tag/water-quality), [water-sensors](/tag/water-sensors), [activity:water-sensors](/tag/activity:water-sensors), [dfrobot](/tag/dfrobot), [oil-and-gas-water-trio](/tag/oil-and-gas-water-trio), [oil-and-gas-water-quality](/tag/oil-and-gas-water-quality), [activity:oil-and-gas-water-quality](/tag/activity:oil-and-gas-water-quality), [simple-water-sensor-platform](/tag/simple-water-sensor-platform), [activity:simple-water-sensor-platform](/tag/activity:simple-water-sensor-platform)
 
 ----
 

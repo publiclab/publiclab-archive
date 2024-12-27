@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/12-16-2019/are-there-simple-tests-for-nitrates-in-well-water.md
 nid: 21769
 uid: 422561
-
 cids: 26014,26024,26075,26077,26078,26085,26131,26132,26260,26276
-
 ---
 
 # Are there simple tests for nitrates in well water? 
 
-by [stevie](../../../profile/stevie) | December 16, 2019 14:59
+by [stevie](/profile/stevie) | December 16, 2019 14:59
 
-December 16, 2019 14:59 | Tags: [water-quality](../tag/water-quality), [nitrates](../tag/nitrates), [water-testing](../tag/water-testing), [drinking-water](../tag/drinking-water), [question:water-quality](../tag/question:water-quality), [question:general](../tag/question:general), [general](../tag/general), [question:nitrates](../tag/question:nitrates), [question:drinking-water](../tag/question:drinking-water), [question:well-water](../tag/question:well-water), [well-water](../tag/well-water), [question:water-testing](../tag/question:water-testing)
+December 16, 2019 14:59 | Tags: [water-quality](/tag/water-quality), [nitrates](/tag/nitrates), [water-testing](/tag/water-testing), [drinking-water](/tag/drinking-water), [question:water-quality](/tag/question:water-quality), [question:general](/tag/question:general), [general](/tag/general), [question:nitrates](/tag/question:nitrates), [question:drinking-water](/tag/question:drinking-water), [question:well-water](/tag/question:well-water), [well-water](/tag/well-water), [question:water-testing](/tag/question:water-testing)
 
 ----
 

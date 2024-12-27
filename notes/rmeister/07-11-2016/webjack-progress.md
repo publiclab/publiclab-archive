@@ -6,18 +6,16 @@ author: rmeister
 path: /notes/rmeister/07-11-2016/webjack-progress.md
 nid: 13277
 uid: 468994
-
 cids: 14922,14943,14944,14945,27217
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/940/original/webjack_arduino_temp_sensor.png)
 
 # WebJack progress
 
-by [rmeister](../../../profile/rmeister) | July 11, 2016 15:04
+by [rmeister](/profile/rmeister) | July 11, 2016 15:04
 
-July 11, 2016 15:04 | Tags: [arduino](../tag/arduino), [arduino-uno](../tag/arduino-uno), [sensor-readout](../tag/sensor-readout), [sensor-nodes](../tag/sensor-nodes), [serial-link](../tag/serial-link), [webjack](../tag/webjack), [activity:webjack](../tag/activity:webjack), [category:dev](../tag/category:dev)
+July 11, 2016 15:04 | Tags: [arduino](/tag/arduino), [arduino-uno](/tag/arduino-uno), [sensor-readout](/tag/sensor-readout), [sensor-nodes](/tag/sensor-nodes), [serial-link](/tag/serial-link), [webjack](/tag/webjack), [activity:webjack](/tag/activity:webjack), [category:dev](/tag/category:dev)
 
 ----
 

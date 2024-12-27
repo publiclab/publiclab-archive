@@ -6,16 +6,14 @@ author: Becki
 path: /notes/Becki/05-20-2015/thank-you-new-partnerships-and-other-updates.md
 nid: 11824
 uid: 46673
-
 cids: 11749
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/922/original/All_Logos_May_2015_Announcement.png)
 
 # THANK YOU, new partnerships, and other updates
 
-by [Becki](../../../profile/Becki) | May 20, 2015 21:28
+by [Becki](/profile/Becki) | May 20, 2015 21:28
 
 May 20, 2015 21:28 | Tags: 
 

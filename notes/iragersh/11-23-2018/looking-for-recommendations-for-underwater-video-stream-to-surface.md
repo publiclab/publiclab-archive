@@ -6,16 +6,14 @@ author: iragersh
 path: /notes/iragersh/11-23-2018/looking-for-recommendations-for-underwater-video-stream-to-surface.md
 nid: 17740
 uid: 557258
-
 cids: 21443,25446
-
 ---
 
 # Looking for recommendations for underwater video stream to surface
 
-by [iragersh](../../../profile/iragersh) | November 23, 2018 15:39
+by [iragersh](/profile/iragersh) | November 23, 2018 15:39
 
-November 23, 2018 15:39 | Tags: [video](../tag/video), [water](../tag/water), [underwater](../tag/underwater), [stream](../tag/stream), [question:general](../tag/question:general), [waterproof](../tag/waterproof), [observation](../tag/observation)
+November 23, 2018 15:39 | Tags: [video](/tag/video), [water](/tag/water), [underwater](/tag/underwater), [stream](/tag/stream), [question:general](/tag/question:general), [waterproof](/tag/waterproof), [observation](/tag/observation)
 
 ----
 

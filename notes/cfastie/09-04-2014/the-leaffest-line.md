@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/09-04-2014/the-leaffest-line.md
 nid: 11103
 uid: 554
-
 cids: 10185,10187
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/587/original/LEAFColl-502-365.jpg)
 
 # The LEAFFEST Line
 
-by [cfastie](../../../profile/cfastie) | September 04, 2014 21:00
+by [cfastie](/profile/cfastie) | September 04, 2014 21:00
 
-September 04, 2014 21:00 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [leaffest](../tag/leaffest), [event](../tag/event), [infragram](../tag/infragram), [super-red](../tag/super-red), [titan](../tag/titan), [leaffest2014](../tag/leaffest2014), [response:11076](../tag/response:11076), [redstone](../tag/redstone)
+September 04, 2014 21:00 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [ndvi](/tag/ndvi), [vermont](/tag/vermont), [leaffest](/tag/leaffest), [event](/tag/event), [infragram](/tag/infragram), [super-red](/tag/super-red), [titan](/tag/titan), [leaffest2014](/tag/leaffest2014), [response:11076](/tag/response:11076), [redstone](/tag/redstone)
 
 ----
 

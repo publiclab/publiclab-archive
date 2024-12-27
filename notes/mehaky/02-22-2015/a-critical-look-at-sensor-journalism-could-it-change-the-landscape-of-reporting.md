@@ -6,18 +6,16 @@ author: mehaky
 path: /notes/mehaky/02-22-2015/a-critical-look-at-sensor-journalism-could-it-change-the-landscape-of-reporting.md
 nid: 11612
 uid: 435583
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/033/original/5249766381_3cb6d0e2bb_o.jpg)
 
 # A Critical Look At Sensor Journalism: Could it Change the Landscape of Reporting?
 
-by [mehaky](../../../profile/mehaky) | February 22, 2015 00:44
+by [mehaky](/profile/mehaky) | February 22, 2015 00:44
 
-February 22, 2015 00:44 | Tags: [sensor-journalism](../tag/sensor-journalism), [first-time-poster](../tag/first-time-poster)
+February 22, 2015 00:44 | Tags: [sensor-journalism](/tag/sensor-journalism), [first-time-poster](/tag/first-time-poster)
 
 ----
 

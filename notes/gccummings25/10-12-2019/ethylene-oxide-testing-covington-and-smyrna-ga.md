@@ -6,18 +6,16 @@ author: gccummings25
 path: /notes/gccummings25/10-12-2019/ethylene-oxide-testing-covington-and-smyrna-ga.md
 nid: 21149
 uid: 622597
-
 cids: 25679,25695
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/683/original/newsEngin.24611199_082019-Sterigenics-CC10.jpg)
 
 # Ethylene Oxide Testing - Covington and Smyrna, GA
 
-by [gccummings25](../../../profile/gccummings25) | October 12, 2019 20:34
+by [gccummings25](/profile/gccummings25) | October 12, 2019 20:34
 
-October 12, 2019 20:34 | Tags: [georgia](../tag/georgia), [air-quality](../tag/air-quality), [southeast](../tag/southeast), [advocacy](../tag/advocacy), [study-design](../tag/study-design), [community-organizing](../tag/community-organizing), [air-sensors](../tag/air-sensors), [first-time-poster](../tag/first-time-poster), [lat:33.610044](../tag/lat:33.610044), [lon:-83.871222](../tag/lon:-83.871222), [ethylene-oxide](../tag/ethylene-oxide)
+October 12, 2019 20:34 | Tags: [georgia](/tag/georgia), [air-quality](/tag/air-quality), [southeast](/tag/southeast), [advocacy](/tag/advocacy), [study-design](/tag/study-design), [community-organizing](/tag/community-organizing), [air-sensors](/tag/air-sensors), [first-time-poster](/tag/first-time-poster), [lat:33.610044](/tag/lat:33.610044), [lon:-83.871222](/tag/lon:-83.871222), [ethylene-oxide](/tag/ethylene-oxide)
 
 ----
 

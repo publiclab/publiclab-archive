@@ -6,16 +6,16 @@ author: bhamster
 path: /wiki/bioassay.md
 nid: 25807
 uid: 664477
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/810/original/Lettuce_seeds_germinating.jpg)
 
 # Bioassay
 
-by [alejobonifacio](../profile/alejobonifacio), [bhamster](../profile/bhamster), [laurel_mire](../profile/laurel_mire)
+by [alejobonifacio](/profile/alejobonifacio), [bhamster](/profile/bhamster), [laurel_mire](/profile/laurel_mire)
 
-February 25, 2021 22:25 | Tags: [diy-bio](../tag/diy-bio), [soil](../tag/soil), [water-quality](../tag/water-quality), [bioassay](../tag/bioassay), [method](../tag/method), [soil-contamination](../tag/soil-contamination), [bioluminescence](../tag/bioluminescence), [effect-based-test](../tag/effect-based-test)
+February 25, 2021 22:25 | Tags: [diy-bio](/tag/diy-bio), [soil](/tag/soil), [water-quality](/tag/water-quality), [bioassay](/tag/bioassay), [method](/tag/method), [soil-contamination](/tag/soil-contamination), [bioluminescence](/tag/bioluminescence), [effect-based-test](/tag/effect-based-test)
 
 ----
 
@@ -140,13 +140,13 @@ BUT! <b>Is it possible to break this method down into separate components and ma
 
 ## Questions
 
-[bioassay](../../tag/question:bioassay)
+[bioassay](/tag/question:bioassay)
 
 <br>
 
 ## Research notes
 
-[bioassay](../../tag/bioassay)
+[bioassay](/tag/bioassay)
 
 <br>
 
@@ -158,7 +158,7 @@ BUT! <b>Is it possible to break this method down into separate components and ma
 
 ## Activities
 
-[bioassay](../../tag/activity:bioassay)
+[bioassay](/tag/activity:bioassay)
 
 <br>
 

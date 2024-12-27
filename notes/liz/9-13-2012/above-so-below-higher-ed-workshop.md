@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/9-13-2012/above-so-below-higher-ed-workshop.md
 nid: 3802
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/As above so below flyer.png)
 
 # As Above So Below: Higher E+D workshop
 
-by [liz](../../../profile/liz) | September 13, 2012 23:02
+by [liz](/profile/liz) | September 13, 2012 23:02
 
-September 13, 2012 23:02 | Tags: [kite-mapping](../tag/kite-mapping), [ilab](../tag/ilab), [events](../tag/events)
+September 13, 2012 23:02 | Tags: [kite-mapping](/tag/kite-mapping), [ilab](/tag/ilab), [events](/tag/events)
 
 ----
 

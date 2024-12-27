@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/09-11-2013/fade-out.md
 nid: 9315
 uid: 554
-
 cids: 6812,6815,6820
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/488/original/fadecard-231-11a.jpg)
 
 # Fade out
 
-by [cfastie](../../../profile/cfastie) | September 11, 2013 20:57
+by [cfastie](/profile/cfastie) | September 11, 2013 20:57
 
-September 11, 2013 20:57 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [leaffest](../tag/leaffest), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [leaffest2013](../tag/leaffest2013), [response:9305](../tag/response:9305)
+September 11, 2013 20:57 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [vermont](/tag/vermont), [leaffest](/tag/leaffest), [infragram](/tag/infragram), [infrablue](/tag/infrablue), [leaffest2013](/tag/leaffest2013), [response:9305](/tag/response:9305)
 
 ----
 

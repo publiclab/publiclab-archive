@@ -6,18 +6,16 @@ author: Matej
 path: /notes/Matej/02-19-2016/report-public-lab-workshop-at-sunview.md
 nid: 12713
 uid: 451808
-
 cids: 13673,13678,27754
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/393/original/PL_Workshop_Sunview-7110.jpg)
 
 # Report: Public Lab Workshop at Sunview
 
-by [Matej](../../../profile/Matej) | February 19, 2016 01:48
+by [Matej](/profile/Matej) | February 19, 2016 01:48
 
-February 19, 2016 01:48 | Tags: [new-york-city](../tag/new-york-city), [spectrometer](../tag/spectrometer), [uv](../tag/uv), [oil](../tag/oil), [workshop](../tag/workshop), [fluorescence](../tag/fluorescence), [led](../tag/led), [oil-testing-kit](../tag/oil-testing-kit), [otk](../tag/otk), [pig](../tag/pig), [isopropyl](../tag/isopropyl)
+February 19, 2016 01:48 | Tags: [new-york-city](/tag/new-york-city), [spectrometer](/tag/spectrometer), [uv](/tag/uv), [oil](/tag/oil), [workshop](/tag/workshop), [fluorescence](/tag/fluorescence), [led](/tag/led), [oil-testing-kit](/tag/oil-testing-kit), [otk](/tag/otk), [pig](/tag/pig), [isopropyl](/tag/isopropyl)
 
 ----
 

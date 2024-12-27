@@ -6,16 +6,14 @@ author:
 path: /notes/5-3-2012/granite-falls-wa-ca-1941.md
 nid: 2098
 uid: 0
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/4CGY02042_063_medium_1.jpg)
 
 # granite-falls--wa-ca--1941
 
-by [](../../../profile/) | May 03, 2012 07:49
+by [](/profile/) | May 03, 2012 07:49
 
 May 03, 2012 07:49 | Tags: 
 

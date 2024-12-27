@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/04-06-2018/online-odor-log-v1-0.md
 nid: 16081
 uid: 495038
-
 cids: 19318,19319,19320,19321,19322,19330,19334,19335,19336,19340,19342,19343,19344,19345,19347,19352,19460,19463,19464,26127,26128
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/340/original/Screenshot_from_2018-04-06_12-48-56.png)
 
 # Online Odor Log v1.0
 
-by [imvec](../../../profile/imvec) | April 06, 2018 10:56
+by [imvec](/profile/imvec) | April 06, 2018 10:56
 
-April 06, 2018 10:56 | Tags: [evidence](../tag/evidence), [landfill](../tag/landfill), [air-quality](../tag/air-quality), [air](../tag/air), [waste](../tag/waste), [landfills](../tag/landfills), [odor](../tag/odor), [odor-log](../tag/odor-log), [oil-and-gas](../tag/oil-and-gas), [smell](../tag/smell), [gaimec](../tag/gaimec), [activity:odor](../tag/activity:odor), [odor-logging](../tag/odor-logging), [activity:odor-logging](../tag/activity:odor-logging), [smells](../tag/smells), [ushahidi](../tag/ushahidi), [diary](../tag/diary)
+April 06, 2018 10:56 | Tags: [evidence](/tag/evidence), [landfill](/tag/landfill), [air-quality](/tag/air-quality), [air](/tag/air), [waste](/tag/waste), [landfills](/tag/landfills), [odor](/tag/odor), [odor-log](/tag/odor-log), [oil-and-gas](/tag/oil-and-gas), [smell](/tag/smell), [gaimec](/tag/gaimec), [activity:odor](/tag/activity:odor), [odor-logging](/tag/odor-logging), [activity:odor-logging](/tag/activity:odor-logging), [smells](/tag/smells), [ushahidi](/tag/ushahidi), [diary](/tag/diary)
 
 ----
 

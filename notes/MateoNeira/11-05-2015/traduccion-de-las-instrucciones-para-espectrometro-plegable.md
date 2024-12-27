@@ -6,18 +6,16 @@ author: MateoNeira
 path: /notes/MateoNeira/11-05-2015/traduccion-de-las-instrucciones-para-espectrometro-plegable.md
 nid: 12373
 uid: 441504
-
 cids: 12869,12940
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/508/original/undefined)
 
 # Traducción de las instrucciones para espectrometro plegable 
 
-by [MateoNeira](../../../profile/MateoNeira) | November 05, 2015 22:13
+by [MateoNeira](/profile/MateoNeira) | November 05, 2015 22:13
 
-November 05, 2015 22:13 | Tags: [spectrometer](../tag/spectrometer), [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer), [lang:es](../tag/lang:es), [barnstar:basic](../tag/barnstar:basic), [llactalab](../tag/llactalab)
+November 05, 2015 22:13 | Tags: [spectrometer](/tag/spectrometer), [fold-up-mini-spectrometer](/tag/fold-up-mini-spectrometer), [lang:es](/tag/lang:es), [barnstar:basic](/tag/barnstar:basic), [llactalab](/tag/llactalab)
 
 ----
 

@@ -6,16 +6,14 @@ author: marlokeno
 path: /notes/marlokeno/09-02-2017/how-can-the-public-find-or-make-maps-of-the-polluters-next-door.md
 nid: 14821
 uid: 420760
-
 cids: 22579,23023,23123
-
 ---
 
 # How can the public find or make maps of the polluters next door?
 
-by [marlokeno](../../../profile/marlokeno) | September 02, 2017 18:45
+by [marlokeno](/profile/marlokeno) | September 02, 2017 18:45
 
-September 02, 2017 18:45 | Tags: [neighborhood](../tag/neighborhood), [mapping](../tag/mapping), [database](../tag/database), [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [toxic-waste](../tag/toxic-waste), [pollution](../tag/pollution), [data-collection](../tag/data-collection), [emissions](../tag/emissions), [answered](../tag/answered), [airpollution](../tag/airpollution), [oil-pollution](../tag/oil-pollution), [harvey](../tag/harvey), [question:harvey](../tag/question:harvey), [question:emissions](../tag/question:emissions)
+September 02, 2017 18:45 | Tags: [neighborhood](/tag/neighborhood), [mapping](/tag/mapping), [database](/tag/database), [air-quality](/tag/air-quality), [water-quality](/tag/water-quality), [toxic-waste](/tag/toxic-waste), [pollution](/tag/pollution), [data-collection](/tag/data-collection), [emissions](/tag/emissions), [answered](/tag/answered), [airpollution](/tag/airpollution), [oil-pollution](/tag/oil-pollution), [harvey](/tag/harvey), [question:harvey](/tag/question:harvey), [question:emissions](/tag/question:emissions)
 
 ----
 

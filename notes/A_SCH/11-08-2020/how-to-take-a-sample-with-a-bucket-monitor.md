@@ -6,18 +6,16 @@ author: A_SCH
 path: /notes/A_SCH/11-08-2020/how-to-take-a-sample-with-a-bucket-monitor.md
 nid: 24953
 uid: 704145
-
 cids: 27632,27675,27762,27763
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/314/original/Screen_Shot_2021-01-05_at_9.11.13_PM.png)
 
 # How to Take an Air Quality Sample with a Bucket Monitor
 
-by [A_SCH](../../../profile/A_SCH) | November 08, 2020 04:22
+by [A_SCH](/profile/A_SCH) | November 08, 2020 04:22
 
-November 08, 2020 04:22 | Tags: [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [barnstar:video-documentation](../tag/barnstar:video-documentation), [with:kgradow1](../tag/with:kgradow1), [africa](../tag/africa), [advocacy](../tag/advocacy), [community-organizing](../tag/community-organizing), [advocacy-pathways](../tag/advocacy-pathways), [bucket](../tag/bucket), [bucket-monitor](../tag/bucket-monitor), [activity:bucket-monitor](../tag/activity:bucket-monitor), [south-africa](../tag/south-africa), [south-durban](../tag/south-durban)
+November 08, 2020 04:22 | Tags: [air-quality](/tag/air-quality), [bucket-brigade](/tag/bucket-brigade), [barnstar:video-documentation](/tag/barnstar:video-documentation), [with:kgradow1](/tag/with:kgradow1), [africa](/tag/africa), [advocacy](/tag/advocacy), [community-organizing](/tag/community-organizing), [advocacy-pathways](/tag/advocacy-pathways), [bucket](/tag/bucket), [bucket-monitor](/tag/bucket-monitor), [activity:bucket-monitor](/tag/activity:bucket-monitor), [south-africa](/tag/south-africa), [south-durban](/tag/south-durban)
 
 ----
 

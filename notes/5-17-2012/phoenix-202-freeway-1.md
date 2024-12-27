@@ -6,18 +6,16 @@ author:
 path: /notes/5-17-2012/phoenix-202-freeway-1.md
 nid: 2082
 uid: 0
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/1_01.tif.thmb_medium.jpg)
 
 # phoenix-202-freeway-1
 
-by [](../../../profile/) | May 17, 2012 16:24
+by [](/profile/) | May 17, 2012 16:24
 
-May 17, 2012 16:24 | Tags: [first-time-poster](../tag/first-time-poster)
+May 17, 2012 16:24 | Tags: [first-time-poster](/tag/first-time-poster)
 
 ----
 

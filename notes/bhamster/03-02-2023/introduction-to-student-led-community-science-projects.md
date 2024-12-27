@@ -6,18 +6,16 @@ author: bhamster
 path: /notes/bhamster/03-02-2023/introduction-to-student-led-community-science-projects.md
 nid: 38731
 uid: 664477
-
 cids: 30873
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/449/original/CSF_18_drawings.png)
 
 # Introduction to Student-Led Community Science Projects
 
-by [bhamster](../../../profile/bhamster) | March 02, 2023 21:52
+by [bhamster](/profile/bhamster) | March 02, 2023 21:52
 
-March 02, 2023 21:52 | Tags: [csf](../tag/csf), [community-science-forum](../tag/community-science-forum), [student-community-science](../tag/student-community-science), [classroom-community-science](../tag/classroom-community-science), [with:purl](../tag/with:purl), [csf18](../tag/csf18)
+March 02, 2023 21:52 | Tags: [csf](/tag/csf), [community-science-forum](/tag/community-science-forum), [student-community-science](/tag/student-community-science), [classroom-community-science](/tag/classroom-community-science), [with:purl](/tag/with:purl), [csf18](/tag/csf18)
 
 ----
 

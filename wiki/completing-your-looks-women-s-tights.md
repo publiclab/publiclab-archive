@@ -6,12 +6,12 @@ author: tights
 path: /wiki/completing-your-looks-women-s-tights.md
 nid: 5148
 uid: 4403
-
+cids: 
 ---
 
 # Completing Your Looks with Women’s Tights
 
-by [tights](../profile/tights)
+by [tights](/profile/tights)
 
 December 07, 2012 13:07 | Tags: 
 

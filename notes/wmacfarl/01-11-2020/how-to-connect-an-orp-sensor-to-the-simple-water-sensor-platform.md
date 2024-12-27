@@ -6,18 +6,16 @@ author: wmacfarl
 path: /notes/wmacfarl/01-11-2020/how-to-connect-an-orp-sensor-to-the-simple-water-sensor-platform.md
 nid: 22290
 uid: 424597
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/590/original/ORP_sensor_attached.jpg)
 
 # How to Connect an ORP Sensor to the Simple Water Sensor Platform
 
-by [wmacfarl](../../../profile/wmacfarl) | January 11, 2020 19:44
+by [wmacfarl](/profile/wmacfarl) | January 11, 2020 19:44
 
-January 11, 2020 19:44 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [new](../tag/new), [orp](../tag/orp), [water-sensors](../tag/water-sensors), [activity:water-sensors](../tag/activity:water-sensors), [activity:new](../tag/activity:new), [dfrobot](../tag/dfrobot), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [oil-and-gas-water-quality](../tag/oil-and-gas-water-quality), [activity:oil-and-gas-water-quality](../tag/activity:oil-and-gas-water-quality), [simple-water-sensor-platform](../tag/simple-water-sensor-platform), [activity:simple-water-sensor-platform](../tag/activity:simple-water-sensor-platform)
+January 11, 2020 19:44 | Tags: [arduino](/tag/arduino), [sensors](/tag/sensors), [water-quality](/tag/water-quality), [new](/tag/new), [orp](/tag/orp), [water-sensors](/tag/water-sensors), [activity:water-sensors](/tag/activity:water-sensors), [activity:new](/tag/activity:new), [dfrobot](/tag/dfrobot), [oil-and-gas-water-trio](/tag/oil-and-gas-water-trio), [oil-and-gas-water-quality](/tag/oil-and-gas-water-quality), [activity:oil-and-gas-water-quality](/tag/activity:oil-and-gas-water-quality), [simple-water-sensor-platform](/tag/simple-water-sensor-platform), [activity:simple-water-sensor-platform](/tag/activity:simple-water-sensor-platform)
 
 ----
 

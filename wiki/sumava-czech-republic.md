@@ -6,16 +6,16 @@ author: Shannon
 path: /wiki/sumava-czech-republic.md
 nid: 484
 uid: 9
-
+cids: 
 ---
 
 ![](https://publiclab.org/sites/default/files/4 point 10 each.jpg)
 
 # Sumava, Czech Republic
 
-by [Shannon](../profile/Shannon)
+by [Shannon](/profile/Shannon)
 
-September 27, 2011 22:42 | Tags: [chapter](../tag/chapter)
+September 27, 2011 22:42 | Tags: [chapter](/tag/chapter)
 
 ----
 

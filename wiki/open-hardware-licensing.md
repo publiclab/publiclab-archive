@@ -6,12 +6,12 @@ author: warren
 path: /wiki/open-hardware-licensing.md
 nid: 879
 uid: 1
-
+cids: 
 ---
 
 # Open Hardware Licensing
 
-by [warren](../profile/warren), [liz](../profile/liz)
+by [warren](/profile/warren), [liz](/profile/liz)
 
 March 01, 2012 17:12 | Tags: 
 

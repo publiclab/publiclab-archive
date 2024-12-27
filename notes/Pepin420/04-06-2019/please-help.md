@@ -6,16 +6,14 @@ author: Pepin420
 path: /notes/Pepin420/04-06-2019/please-help.md
 nid: 18971
 uid: 582812
-
 cids: 23742,23754,23775
-
 ---
 
 # please help!
 
-by [Pepin420](../../../profile/Pepin420) | April 06, 2019 06:43
+by [Pepin420](/profile/Pepin420) | April 06, 2019 06:43
 
-April 06, 2019 06:43 | Tags: [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster)
+April 06, 2019 06:43 | Tags: [question:general](/tag/question:general), [first-time-poster](/tag/first-time-poster)
 
 ----
 

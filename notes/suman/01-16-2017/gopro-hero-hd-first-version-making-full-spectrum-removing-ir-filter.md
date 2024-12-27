@@ -6,16 +6,14 @@ author: suman
 path: /notes/suman/01-16-2017/gopro-hero-hd-first-version-making-full-spectrum-removing-ir-filter.md
 nid: 13853
 uid: 497769
-
 cids: 16096,16097,16098,16126,22404,22406,22407
-
 ---
 
 # GoPro Hero HD first version- Making full spectrum( Removing IR filter)
 
-by [suman](../../../profile/suman) | January 16, 2017 09:43
+by [suman](/profile/suman) | January 16, 2017 09:43
 
-January 16, 2017 09:43 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [conversion](../tag/conversion), [infragram](../tag/infragram), [gopro](../tag/gopro), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [answered](../tag/answered), [question:infrared](../tag/question:infrared), [question:general](../tag/question:general), [question:gopro](../tag/question:gopro), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion), [mini-camera](../tag/mini-camera), [activity:mini-camera](../tag/activity:mini-camera)
+January 16, 2017 09:43 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [conversion](/tag/conversion), [infragram](/tag/infragram), [gopro](/tag/gopro), [question:ndvi](/tag/question:ndvi), [question:infragram](/tag/question:infragram), [answered](/tag/answered), [question:infrared](/tag/question:infrared), [question:general](/tag/question:general), [question:gopro](/tag/question:gopro), [activity:infrared-camera-conversion](/tag/activity:infrared-camera-conversion), [mini-camera](/tag/mini-camera), [activity:mini-camera](/tag/activity:mini-camera)
 
 ----
 

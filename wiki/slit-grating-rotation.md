@@ -6,12 +6,12 @@ author: danbeavers
 path: /wiki/slit-grating-rotation.md
 nid: 5904
 uid: 51
-
+cids: 
 ---
 
 # Slit - Grating Rotation
 
-by [danbeavers](../profile/danbeavers)
+by [danbeavers](/profile/danbeavers)
 
 February 06, 2013 21:42 | Tags: 
 

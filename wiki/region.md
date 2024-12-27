@@ -6,14 +6,14 @@ author: liz
 path: /wiki/region.md
 nid: 10499
 uid: 7
-
+cids: 
 ---
 
 # Region
 
-by [liz](../profile/liz), [ann](../profile/ann)
+by [liz](/profile/liz), [ann](/profile/ann)
 
-May 21, 2014 16:24 | Tags: [community](../tag/community), [chapters](../tag/chapters), [region](../tag/region), [website-utilities](../tag/website-utilities), [parent:locations](../tag/parent:locations)
+May 21, 2014 16:24 | Tags: [community](/tag/community), [chapters](/tag/chapters), [region](/tag/region), [website-utilities](/tag/website-utilities), [parent:locations](/tag/parent:locations)
 
 ----
 

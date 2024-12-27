@@ -6,18 +6,16 @@ author: kanarinka
 path: /notes/kanarinka/03-01-2018/sensor-journalism-a-guide-for-educators.md
 nid: 15852
 uid: 994
-
 cids: 19491,19525
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/789/original/Screenshot_2018-03-01_18.16.16.png)
 
 # Sensor Journalism: A Guide for Educators
 
-by [kanarinka](../../../profile/kanarinka) | March 01, 2018 23:17
+by [kanarinka](/profile/kanarinka) | March 01, 2018 23:17
 
-March 01, 2018 23:17 | Tags: [education](../tag/education), [curriculum](../tag/curriculum), [water-quality](../tag/water-quality), [coqui](../tag/coqui), [sensor-journalism](../tag/sensor-journalism), [seeks:replications](../tag/seeks:replications), [storytelling](../tag/storytelling), [activity:coqui-usage](../tag/activity:coqui-usage), [activity:edu-coqui](../tag/activity:edu-coqui)
+March 01, 2018 23:17 | Tags: [education](/tag/education), [curriculum](/tag/curriculum), [water-quality](/tag/water-quality), [coqui](/tag/coqui), [sensor-journalism](/tag/sensor-journalism), [seeks:replications](/tag/seeks:replications), [storytelling](/tag/storytelling), [activity:coqui-usage](/tag/activity:coqui-usage), [activity:edu-coqui](/tag/activity:edu-coqui)
 
 ----
 

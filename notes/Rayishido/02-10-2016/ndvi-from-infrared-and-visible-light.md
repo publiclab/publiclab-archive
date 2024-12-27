@@ -6,18 +6,16 @@ author: Rayishido
 path: /notes/Rayishido/02-10-2016/ndvi-from-infrared-and-visible-light.md
 nid: 12676
 uid: 464454
-
 cids: 13549,13553,13591,13616,13625,13629,13631,13632,13633,13634,13729,13730,14531,14532,14537
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/211/original/NDVI.jpg)
 
 # NDVI from infrared and visible-light
 
-by [Rayishido](../../../profile/Rayishido) | February 10, 2016 11:42
+by [Rayishido](/profile/Rayishido) | February 10, 2016 11:42
 
-February 10, 2016 11:42 | Tags: [nrg](../tag/nrg), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [photoshop](../tag/photoshop), [aerial-photography](../tag/aerial-photography), [raspberry-pi](../tag/raspberry-pi), [infrared-photography](../tag/infrared-photography), [fiji](../tag/fiji), [gimp](../tag/gimp), [rasperry](../tag/rasperry)
+February 10, 2016 11:42 | Tags: [nrg](/tag/nrg), [ndvi](/tag/ndvi), [infrared](/tag/infrared), [photoshop](/tag/photoshop), [aerial-photography](/tag/aerial-photography), [raspberry-pi](/tag/raspberry-pi), [infrared-photography](/tag/infrared-photography), [fiji](/tag/fiji), [gimp](/tag/gimp), [rasperry](/tag/rasperry)
 
 ----
 

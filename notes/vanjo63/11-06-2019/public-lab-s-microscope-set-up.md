@@ -6,18 +6,16 @@ author: vanjo63
 path: /notes/vanjo63/11-06-2019/public-lab-s-microscope-set-up.md
 nid: 21418
 uid: 458760
-
 cids: 26752,27274
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/287/original/my_photo-1.jpg)
 
 # Public Lab's Microscope Set-up
 
-by [vanjo63](../../../profile/vanjo63) | November 06, 2019 21:39
+by [vanjo63](/profile/vanjo63) | November 06, 2019 21:39
 
-November 06, 2019 21:39 | Tags: [raspberry-pi](../tag/raspberry-pi), [raspberry](../tag/raspberry), [microscope](../tag/microscope), [lat:52.213151](../tag/lat:52.213151), [lon:6.899134](../tag/lon:6.899134), [lat:52.215684](../tag/lat:52.215684), [lon:6.879577](../tag/lon:6.879577)
+November 06, 2019 21:39 | Tags: [raspberry-pi](/tag/raspberry-pi), [raspberry](/tag/raspberry), [microscope](/tag/microscope), [lat:52.213151](/tag/lat:52.213151), [lon:6.899134](/tag/lon:6.899134), [lat:52.215684](/tag/lat:52.215684), [lon:6.879577](/tag/lon:6.879577)
 
 ----
 

@@ -6,16 +6,14 @@ author: molangmuir10
 path: /notes/molangmuir10/06-06-2019/what-is-the-wifi-range-of-the-ras-pi-when-mapping.md
 nid: 19624
 uid: 589023
-
 cids: 
-
 ---
 
 # What is the wifi range of the ras-pi when mapping?
 
-by [molangmuir10](../../../profile/molangmuir10) | June 06, 2019 13:00
+by [molangmuir10](/profile/molangmuir10) | June 06, 2019 13:00
 
-June 06, 2019 13:00 | Tags: [question:general](../tag/question:general), [wifi](../tag/wifi), [ras-pi](../tag/ras-pi)
+June 06, 2019 13:00 | Tags: [question:general](/tag/question:general), [wifi](/tag/wifi), [ras-pi](/tag/ras-pi)
 
 ----
 

@@ -6,18 +6,16 @@ author: SuziT9
 path: /notes/SuziT9/04-16-2018/reverse-engineering-a-hands-on-stem-activity.md
 nid: 16162
 uid: 477814
-
 cids: 19434,19440,19452
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/625/original/screwdrivers-icon_My3bwS_O_L.png)
 
 # Reverse Engineering (a hands-on STEM activity)
 
-by [SuziT9](../../../profile/SuziT9) | April 16, 2018 19:40
+by [SuziT9](/profile/SuziT9) | April 16, 2018 19:40
 
-April 16, 2018 19:40 | Tags: [education](../tag/education), [youth](../tag/youth), [outreach](../tag/outreach), [kidcom](../tag/kidcom), [stem](../tag/stem), [engineering](../tag/engineering), [activity:reverse-engineering](../tag/activity:reverse-engineering), [activity:kidcom](../tag/activity:kidcom), [activity:session-ideas](../tag/activity:session-ideas)
+April 16, 2018 19:40 | Tags: [education](/tag/education), [youth](/tag/youth), [outreach](/tag/outreach), [kidcom](/tag/kidcom), [stem](/tag/stem), [engineering](/tag/engineering), [activity:reverse-engineering](/tag/activity:reverse-engineering), [activity:kidcom](/tag/activity:kidcom), [activity:session-ideas](/tag/activity:session-ideas)
 
 ----
 

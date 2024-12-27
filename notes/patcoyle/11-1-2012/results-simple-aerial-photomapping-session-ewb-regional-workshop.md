@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/11-1-2012/results-simple-aerial-photomapping-session-ewb-regional-workshop.md
 nid: 4725
 uid: 77
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/grab of NDVI copy.jpg)
 
 # Results: Simple Aerial Photomapping session, EWB Regional Workshop
 
-by [patcoyle](../../../profile/patcoyle) | November 01, 2012 05:24
+by [patcoyle](/profile/patcoyle) | November 01, 2012 05:24
 
-November 01, 2012 05:24 | Tags: [ndvi](../tag/ndvi), [bap](../tag/bap), [ewb](../tag/ewb)
+November 01, 2012 05:24 | Tags: [ndvi](/tag/ndvi), [bap](/tag/bap), [ewb](/tag/ewb)
 
 ----
 

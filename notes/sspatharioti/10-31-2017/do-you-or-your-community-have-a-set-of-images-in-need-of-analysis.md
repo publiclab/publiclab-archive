@@ -6,16 +6,14 @@ author: sspatharioti
 path: /notes/sspatharioti/10-31-2017/do-you-or-your-community-have-a-set-of-images-in-need-of-analysis.md
 nid: 15130
 uid: 462488
-
 cids: 17752,22744
-
 ---
 
 # Do you or your community have a set of images in need of analysis? 
 
-by [sspatharioti](../../../profile/sspatharioti) | October 31, 2017 00:34
+by [sspatharioti](/profile/sspatharioti) | October 31, 2017 00:34
 
-October 31, 2017 00:34 | Tags: [barnraising](../tag/barnraising), [question:barnraising](../tag/question:barnraising)
+October 31, 2017 00:34 | Tags: [barnraising](/tag/barnraising), [question:barnraising](/tag/question:barnraising)
 
 ----
 

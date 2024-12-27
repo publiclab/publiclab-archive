@@ -6,18 +6,16 @@ author: jlev
 path: /notes/jlev/02-01-2018/how-can-i-identify-bits-of-plastic-from-the-beach-in-an-image.md
 nid: 15654
 uid: 439055
-
 cids: 18343,18348,18392,18393,18395,18396,18398,18399,18400,22172,22174,22188,22199,22918,22919,22920,23325
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/424/original/plastic.jpg)
 
 # How can I identify bits of plastic from the beach in an image?
 
-by [jlev](../../../profile/jlev) | February 01, 2018 00:52
+by [jlev](/profile/jlev) | February 01, 2018 00:52
 
-February 01, 2018 00:52 | Tags: [image-processing](../tag/image-processing), [waste](../tag/waste), [micro-plastics](../tag/micro-plastics), [question:general](../tag/question:general), [question:microscope](../tag/question:microscope), [beach](../tag/beach), [question:microplastics](../tag/question:microplastics), [microplastics](../tag/microplastics), [plastics](../tag/plastics), [particle-imaging](../tag/particle-imaging), [polymers](../tag/polymers), [question:image-sequencer](../tag/question:image-sequencer), [question:waste](../tag/question:waste), [question:plastics](../tag/question:plastics)
+February 01, 2018 00:52 | Tags: [image-processing](/tag/image-processing), [waste](/tag/waste), [micro-plastics](/tag/micro-plastics), [question:general](/tag/question:general), [question:microscope](/tag/question:microscope), [beach](/tag/beach), [question:microplastics](/tag/question:microplastics), [microplastics](/tag/microplastics), [plastics](/tag/plastics), [particle-imaging](/tag/particle-imaging), [polymers](/tag/polymers), [question:image-sequencer](/tag/question:image-sequencer), [question:waste](/tag/question:waste), [question:plastics](/tag/question:plastics)
 
 ----
 

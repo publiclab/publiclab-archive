@@ -6,18 +6,16 @@ author: avikeid2007
 path: /notes/avikeid2007/03-18-2019/home-automation-using-arduino.md
 nid: 18759
 uid: 579541
-
 cids: 23352,23664,28025
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/254/original/IMG_3857.JPG)
 
 # Home Automation Using Arduino
 
-by [avikeid2007](../../../profile/avikeid2007) | March 18, 2019 11:10
+by [avikeid2007](/profile/avikeid2007) | March 18, 2019 11:10
 
-March 18, 2019 11:10 | Tags: [arduino](../tag/arduino), [first-time-poster](../tag/first-time-poster), [home-automation](../tag/home-automation), [lat:28.535516](../tag/lat:28.535516), [lon:77.391026](../tag/lon:77.391026)
+March 18, 2019 11:10 | Tags: [arduino](/tag/arduino), [first-time-poster](/tag/first-time-poster), [home-automation](/tag/home-automation), [lat:28.535516](/tag/lat:28.535516), [lon:77.391026](/tag/lon:77.391026)
 
 ----
 

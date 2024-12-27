@@ -6,16 +6,16 @@ author: JSummers
 path: /wiki/creating-graphic-user-interfaces-guis.md
 nid: 12553
 uid: 304279
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/493/original/ASV-Pb.png)
 
 # Creating Graphic User Interfaces (GUIs)
 
-by [JSummers](../profile/JSummers)
+by [JSummers](/profile/JSummers)
 
-January 01, 2016 20:23 | Tags: [gui](../tag/gui), [graphic-user-interface](../tag/graphic-user-interface)
+January 01, 2016 20:23 | Tags: [gui](/tag/gui), [graphic-user-interface](/tag/graphic-user-interface)
 
 ----
 

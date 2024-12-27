@@ -6,18 +6,16 @@ author: RQ-05
 path: /notes/RQ-05/06-15-2015/modified-mobius-with-pl-red-filter.md
 nid: 11979
 uid: 440673
-
 cids: 11965,16447,16449,16452,16453,16455,16457,16461
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/343/original/IMAG0046.JPG)
 
 # Modified MOBIUS with PL red filter
 
-by [RQ-05](../../../profile/RQ-05) | June 15, 2015 00:03
+by [RQ-05](/profile/RQ-05) | June 15, 2015 00:03
 
-June 15, 2015 00:03 | Tags: [white-balance](../tag/white-balance), [mobius-actioncam](../tag/mobius-actioncam), [ndvi-ag](../tag/ndvi-ag), [first-time-poster](../tag/first-time-poster)
+June 15, 2015 00:03 | Tags: [white-balance](/tag/white-balance), [mobius-actioncam](/tag/mobius-actioncam), [ndvi-ag](/tag/ndvi-ag), [first-time-poster](/tag/first-time-poster)
 
 ----
 

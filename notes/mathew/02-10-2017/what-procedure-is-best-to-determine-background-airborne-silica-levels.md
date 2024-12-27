@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/02-10-2017/what-procedure-is-best-to-determine-background-airborne-silica-levels.md
 nid: 13921
 uid: 4
-
 cids: 16463
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/527/original/EPA_454-R-04-002_Fig_2.png)
 
 # What procedure is best to determine background airborne silica levels?
 
-by [mathew](../../../profile/mathew) | February 10, 2017 23:36
+by [mathew](/profile/mathew) | February 10, 2017 23:36
 
-February 10, 2017 23:36 | Tags: [wisconsin](../tag/wisconsin), [dust](../tag/dust), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [pm-monitoring](../tag/pm-monitoring), [question:pm](../tag/question:pm), [question:minivol](../tag/question:minivol), [question:silica](../tag/question:silica), [silica-monitoring](../tag/silica-monitoring), [question:frac-sand](../tag/question:frac-sand)
+February 10, 2017 23:36 | Tags: [wisconsin](/tag/wisconsin), [dust](/tag/dust), [silica](/tag/silica), [frac-sand](/tag/frac-sand), [pm](/tag/pm), [pm-monitoring](/tag/pm-monitoring), [question:pm](/tag/question:pm), [question:minivol](/tag/question:minivol), [question:silica](/tag/question:silica), [silica-monitoring](/tag/silica-monitoring), [question:frac-sand](/tag/question:frac-sand)
 
 ----
 

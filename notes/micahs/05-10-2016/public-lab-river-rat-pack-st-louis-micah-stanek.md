@@ -6,18 +6,16 @@ author: micahs
 path: /notes/micahs/05-10-2016/public-lab-river-rat-pack-st-louis-micah-stanek.md
 nid: 13099
 uid: 465997
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/092/original/IMG_4209.jpg)
 
 # Public Lab River Rat Pack -- St. Louis -- Micah Stanek
 
-by [micahs](../../../profile/micahs) | May 10, 2016 22:31
+by [micahs](/profile/micahs) | May 10, 2016 22:31
 
-May 10, 2016 22:31 | Tags: [publiclabriverratpack](../tag/publiclabriverratpack)
+May 10, 2016 22:31 | Tags: [publiclabriverratpack](/tag/publiclabriverratpack)
 
 ----
 

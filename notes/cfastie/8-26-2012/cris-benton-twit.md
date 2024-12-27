@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/8-26-2012/cris-benton-twit.md
 nid: 3466
 uid: 554
-
 cids: 2729
-
 ---
 
 ![](https://publiclab.org/sites/default/files/CrisBentonTwit.jpg)
 
 # Cris Benton on TWiT
 
-by [cfastie](../../../profile/cfastie) | August 26, 2012 12:57
+by [cfastie](/profile/cfastie) | August 26, 2012 12:57
 
-August 26, 2012 12:57 | Tags: [kite-mapping](../tag/kite-mapping), [media](../tag/media), [kap](../tag/kap)
+August 26, 2012 12:57 | Tags: [kite-mapping](/tag/kite-mapping), [media](/tag/media), [kap](/tag/kap)
 
 ----
 

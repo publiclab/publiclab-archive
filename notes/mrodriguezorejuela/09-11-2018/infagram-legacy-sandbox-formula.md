@@ -6,16 +6,14 @@ author: mrodriguezorejuela
 path: /notes/mrodriguezorejuela/09-11-2018/infagram-legacy-sandbox-formula.md
 nid: 17089
 uid: 550339
-
 cids: 20646,23225
-
 ---
 
 # Infragram - Legacy sandbox formula
 
-by [mrodriguezorejuela](../../../profile/mrodriguezorejuela) | September 11, 2018 13:03
+by [mrodriguezorejuela](/profile/mrodriguezorejuela) | September 11, 2018 13:03
 
-September 11, 2018 13:03 | Tags: [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster)
+September 11, 2018 13:03 | Tags: [question:general](/tag/question:general), [first-time-poster](/tag/first-time-poster)
 
 ----
 

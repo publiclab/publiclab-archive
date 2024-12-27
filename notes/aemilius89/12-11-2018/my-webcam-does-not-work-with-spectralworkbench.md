@@ -6,14 +6,12 @@ author: aemilius89
 path: /notes/aemilius89/12-11-2018/my-webcam-does-not-work-with-spectralworkbench.md
 nid: 17863
 uid: 561190
-
 cids: 21492,21493,21494,21496,21502,21755
-
 ---
 
 # My webcam does not work with spectralworkbench
 
-by [aemilius89](../../../profile/aemilius89) | December 11, 2018 11:15
+by [aemilius89](/profile/aemilius89) | December 11, 2018 11:15
 
 December 11, 2018 11:15 | Tags: 
 

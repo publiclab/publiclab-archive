@@ -6,12 +6,12 @@ author: warren
 path: /wiki/registration.md
 nid: 6801
 uid: 1
-
+cids: 
 ---
 
 # registration
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 April 12, 2013 18:58 | Tags: 
 

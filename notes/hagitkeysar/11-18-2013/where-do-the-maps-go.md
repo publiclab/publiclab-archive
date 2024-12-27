@@ -6,18 +6,16 @@ author: hagitkeysar
 path: /notes/hagitkeysar/11-18-2013/where-do-the-maps-go.md
 nid: 9806
 uid: 152
-
 cids: 7643,7649,7653,7710
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/277/original/10148873294_8930ea62d3_c.jpg)
 
 # "where do the maps go?" 
 
-by [hagitkeysar](../../../profile/hagitkeysar) | November 18, 2013 16:16
+by [hagitkeysar](/profile/hagitkeysar) | November 18, 2013 16:16
 
-November 18, 2013 16:16 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [jerusalem](../tag/jerusalem), [annotated-maps](../tag/annotated-maps), [israel](../tag/israel), [blog](../tag/blog), [communityengagement](../tag/communityengagement), [middle-east](../tag/middle-east)
+November 18, 2013 16:16 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [jerusalem](/tag/jerusalem), [annotated-maps](/tag/annotated-maps), [israel](/tag/israel), [blog](/tag/blog), [communityengagement](/tag/communityengagement), [middle-east](/tag/middle-east)
 
 ----
 

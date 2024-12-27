@@ -6,18 +6,16 @@ author: chalmers
 path: /notes/chalmers/02-19-2017/testing-water-depth-from-camera-image.md
 nid: 13942
 uid: 503143
-
 cids: 16213,16266,16438,26048
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/596/original/carScale.png)
 
 # Testing - water depth from camera image
 
-by [chalmers](../../../profile/chalmers) | February 19, 2017 18:42
+by [chalmers](/profile/chalmers) | February 19, 2017 18:42
 
-February 19, 2017 18:42 | Tags: [stormwater](../tag/stormwater), [seeks:replications](../tag/seeks:replications), [activity:timelapse](../tag/activity:timelapse), [activity:stormwater](../tag/activity:stormwater), [activity:site-survey](../tag/activity:site-survey)
+February 19, 2017 18:42 | Tags: [stormwater](/tag/stormwater), [seeks:replications](/tag/seeks:replications), [activity:timelapse](/tag/activity:timelapse), [activity:stormwater](/tag/activity:stormwater), [activity:site-survey](/tag/activity:site-survey)
 
 ----
 

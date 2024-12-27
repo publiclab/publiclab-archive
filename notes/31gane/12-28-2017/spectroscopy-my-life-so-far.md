@@ -6,18 +6,16 @@ author: 31gane
 path: /notes/31gane/12-28-2017/spectroscopy-my-life-so-far.md
 nid: 15440
 uid: 420044
-
 cids: 18041,18042,18087
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/045/original/Screenshot_from_2017-12-29_13-15-42.png)
 
 # Spectroscopy & My Life So Far
 
-by [31gane](../../../profile/31gane) | December 28, 2017 11:12
+by [31gane](/profile/31gane) | December 28, 2017 11:12
 
-December 28, 2017 11:12 | Tags: [spectrometer](../tag/spectrometer), [spectral-analysis](../tag/spectral-analysis), [openaccess](../tag/openaccess), [opendata](../tag/opendata), [openinstrument](../tag/openinstrument), [opentools](../tag/opentools), [opendesign](../tag/opendesign), [commons-based-peer-production](../tag/commons-based-peer-production), [systems-integration](../tag/systems-integration), [openresearch](../tag/openresearch), [openscience](../tag/openscience), [first-time-poster](../tag/first-time-poster)
+December 28, 2017 11:12 | Tags: [spectrometer](/tag/spectrometer), [spectral-analysis](/tag/spectral-analysis), [openaccess](/tag/openaccess), [opendata](/tag/opendata), [openinstrument](/tag/openinstrument), [opentools](/tag/opentools), [opendesign](/tag/opendesign), [commons-based-peer-production](/tag/commons-based-peer-production), [systems-integration](/tag/systems-integration), [openresearch](/tag/openresearch), [openscience](/tag/openscience), [first-time-poster](/tag/first-time-poster)
 
 ----
 

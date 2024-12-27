@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/09-28-2016/upgrade-a-diy-spectrometer-with-a-raspberry-pi-camera.md
 nid: 13499
 uid: 1
-
 cids: 15521,15524,15562,15564,15565,21227,22311,22313,22337,23120
-
 ---
 
 # Can I upgrade a DIY spectrometer with a Raspberry Pi camera?
 
-by [warren](../../../profile/warren) | September 28, 2016 19:13
+by [warren](/profile/warren) | September 28, 2016 19:13
 
-September 28, 2016 19:13 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [spectrometry](../tag/spectrometry), [webcam](../tag/webcam), [raspberry-pi](../tag/raspberry-pi), [question:spectrometry](../tag/question:spectrometry), [exposure](../tag/exposure), [rpi](../tag/rpi), [pi-camera](../tag/pi-camera), [gain-correction](../tag/gain-correction), [gain-control](../tag/gain-control), [webvalley](../tag/webvalley), [exposure-calibration](../tag/exposure-calibration), [question:pi-camera](../tag/question:pi-camera), [question:spectrometry-challenge](../tag/question:spectrometry-challenge), [question:spectrometry-turbidity](../tag/question:spectrometry-turbidity), [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer), [question:raspberry-pi-spectrometer](../tag/question:raspberry-pi-spectrometer), [question:lego-spectrometer](../tag/question:lego-spectrometer)
+September 28, 2016 19:13 | Tags: [spectrometer](/tag/spectrometer), [calibration](/tag/calibration), [spectrometry](/tag/spectrometry), [webcam](/tag/webcam), [raspberry-pi](/tag/raspberry-pi), [question:spectrometry](/tag/question:spectrometry), [exposure](/tag/exposure), [rpi](/tag/rpi), [pi-camera](/tag/pi-camera), [gain-correction](/tag/gain-correction), [gain-control](/tag/gain-control), [webvalley](/tag/webvalley), [exposure-calibration](/tag/exposure-calibration), [question:pi-camera](/tag/question:pi-camera), [question:spectrometry-challenge](/tag/question:spectrometry-challenge), [question:spectrometry-turbidity](/tag/question:spectrometry-turbidity), [raspberry-pi-spectrometer](/tag/raspberry-pi-spectrometer), [question:raspberry-pi-spectrometer](/tag/question:raspberry-pi-spectrometer), [question:lego-spectrometer](/tag/question:lego-spectrometer)
 
 ----
 

@@ -6,16 +6,14 @@ author: fongvania
 path: /notes/fongvania/09-21-2021/activity-lichens-for-qualitative-air-quality-determination.md
 nid: 27727
 uid: 754846
-
 cids: 
-
 ---
 
 # Activity: Lichens for Qualitative Air Quality Determination
 
-by [fongvania](../../../profile/fongvania) | September 21, 2021 05:40
+by [fongvania](/profile/fongvania) | September 21, 2021 05:40
 
-September 21, 2021 05:40 | Tags: [air-quality](../tag/air-quality), [lichen](../tag/lichen), [no2](../tag/no2), [difficulty:easy](../tag/difficulty:easy), [category:observe](../tag/category:observe), [air-pollution](../tag/air-pollution), [research-curation-fellows](../tag/research-curation-fellows), [bioindicators](../tag/bioindicators), [activity:bioindicators](../tag/activity:bioindicators), [nh3](../tag/nh3), [activity:lichen](../tag/activity:lichen)
+September 21, 2021 05:40 | Tags: [air-quality](/tag/air-quality), [lichen](/tag/lichen), [no2](/tag/no2), [difficulty:easy](/tag/difficulty:easy), [category:observe](/tag/category:observe), [air-pollution](/tag/air-pollution), [research-curation-fellows](/tag/research-curation-fellows), [bioindicators](/tag/bioindicators), [activity:bioindicators](/tag/activity:bioindicators), [nh3](/tag/nh3), [activity:lichen](/tag/activity:lichen)
 
 ----
 

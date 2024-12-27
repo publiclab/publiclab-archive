@@ -6,16 +6,16 @@ author: babailey
 path: /wiki/autonomous-recording-unit.md
 nid: 11181
 uid: 428915
-
+cids: 17881
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/679/original/ARU.jpg)
 
 # Autonomous Recording Unit
 
-by [warren](../profile/warren), [babailey](../profile/babailey)
+by [warren](/profile/warren), [babailey](/profile/babailey)
 
-September 24, 2014 15:28 | Tags: [arduino](../tag/arduino), [research](../tag/research), [environment](../tag/environment), [audio](../tag/audio), [data-logging](../tag/data-logging), [parent:data-logging](../tag/parent:data-logging)
+September 24, 2014 15:28 | Tags: [arduino](/tag/arduino), [research](/tag/research), [environment](/tag/environment), [audio](/tag/audio), [data-logging](/tag/data-logging), [parent:data-logging](/tag/parent:data-logging)
 
 ----
 
@@ -42,7 +42,7 @@ Suggestions for battery powered Arduino projects; can Arduino run in a low power
 
 ## Questions
 
-[autonomous-recording-unit](../../tag/question:autonomous-recording-unit)
+[autonomous-recording-unit](/tag/question:autonomous-recording-unit)
 
 ****
 

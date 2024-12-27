@@ -6,16 +6,14 @@ author: cindy_excites
 path: /notes/cindyexcites/8-3-2012/first-reading-humidity-and-temperature-senson-community-garden.md
 nid: 3124
 uid: 1083
-
 cids: 1120,1121,6381
-
 ---
 
 # First reading from the humidity and temperature sensor @ the community garden
 
-by [cindy_excites](../../../profile/cindy_excites) | August 03, 2012 22:11
+by [cindy_excites](/profile/cindy_excites) | August 03, 2012 22:11
 
-August 03, 2012 22:11 | Tags: [arduino](../tag/arduino), [diy](../tag/diy), [humidity-and-temperature-sensor](../tag/humidity-and-temperature-sensor)
+August 03, 2012 22:11 | Tags: [arduino](/tag/arduino), [diy](/tag/diy), [humidity-and-temperature-sensor](/tag/humidity-and-temperature-sensor)
 
 ----
 

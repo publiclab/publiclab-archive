@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/5-11-2012/water-testing-card-idea-fluoride.md
 nid: 1961
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20120511_164852.jpg)
 
 # Water testing card idea: fluoride
 
-by [liz](../../../profile/liz) | May 11, 2012 21:26
+by [liz](/profile/liz) | May 11, 2012 21:26
 
-May 11, 2012 21:26 | Tags: [water-quality](../tag/water-quality), [fluoride](../tag/fluoride), [indiawaterportal](../tag/indiawaterportal)
+May 11, 2012 21:26 | Tags: [water-quality](/tag/water-quality), [fluoride](/tag/fluoride), [indiawaterportal](/tag/indiawaterportal)
 
 ----
 

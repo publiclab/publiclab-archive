@@ -6,16 +6,14 @@ author: ThomasTaufan
 path: /notes/ThomasTaufan/06-05-2020/ndvi-results-from-modified-camera-is-inaccurate.md
 nid: 23780
 uid: 640373
-
 cids: 26933,26934,26935,26936,26944,26945,26946,26947,26949,26950,26951,26974,26977
-
 ---
 
 # NDVI results from modified camera is inaccurate
 
-by [ThomasTaufan](../../../profile/ThomasTaufan) | June 05, 2020 05:16
+by [ThomasTaufan](/profile/ThomasTaufan) | June 05, 2020 05:16
 
-June 05, 2020 05:16 | Tags: [ndvi](../tag/ndvi), [filter](../tag/filter), [infragram](../tag/infragram), [camera](../tag/camera), [red](../tag/red), [redfilter](../tag/redfilter), [question:general](../tag/question:general), [general](../tag/general), [modified](../tag/modified)
+June 05, 2020 05:16 | Tags: [ndvi](/tag/ndvi), [filter](/tag/filter), [infragram](/tag/infragram), [camera](/tag/camera), [red](/tag/red), [redfilter](/tag/redfilter), [question:general](/tag/question:general), [general](/tag/general), [modified](/tag/modified)
 
 ----
 

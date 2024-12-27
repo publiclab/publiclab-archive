@@ -6,18 +6,16 @@ author: rjstatic
 path: /1-20-2012/recap-thermal-flashlight-workshop-12182011.md
 nid: 717
 uid: 174
-
 cids: 419
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen Shot 2011-12-18 at 8.33.54 PM.png)
 
 # Recap on a Thermal Flashlight Workshop from 12/18/2011
 
-by [rjstatic](../../../profile/rjstatic) | January 21, 2012 03:47
+by [rjstatic](/profile/rjstatic) | January 21, 2012 03:47
 
-January 21, 2012 03:47 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [thermal-photography](../tag/thermal-photography), [boston](../tag/boston), [meetup](../tag/meetup), [thermal-flashlight](../tag/thermal-flashlight)
+January 21, 2012 03:47 | Tags: [somerville-massachusetts](/tag/somerville-massachusetts), [thermal-photography](/tag/thermal-photography), [boston](/tag/boston), [meetup](/tag/meetup), [thermal-flashlight](/tag/thermal-flashlight)
 
 ----
 

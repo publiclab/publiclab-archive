@@ -6,16 +6,14 @@ author: zapfding
 path: /notes/zapfding/11-3-2012/calibration-non-webcam-users.md
 nid: 4762
 uid: 45301
-
 cids: 2041,2565,2596,3483,3554
-
 ---
 
 # Calibration for non-webcam users?
 
-by [zapfding](../../../profile/zapfding) | November 04, 2012 03:02
+by [zapfding](/profile/zapfding) | November 04, 2012 03:02
 
-November 04, 2012 03:02 | Tags: [troubleshooting](../tag/troubleshooting), [spectralworkbench](../tag/spectralworkbench), [help](../tag/help)
+November 04, 2012 03:02 | Tags: [troubleshooting](/tag/troubleshooting), [spectralworkbench](/tag/spectralworkbench), [help](/tag/help)
 
 ----
 

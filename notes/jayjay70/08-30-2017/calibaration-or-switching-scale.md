@@ -6,18 +6,16 @@ author: jayjay70
 path: /notes/jayjay70/08-30-2017/calibaration-or-switching-scale.md
 nid: 14800
 uid: 513445
-
 cids: 22568
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/468/original/WP_20130525_007.jpg)
 
 # Calibaration or switching scale?
 
-by [jayjay70](../../../profile/jayjay70) | August 30, 2017 15:36
+by [jayjay70](/profile/jayjay70) | August 30, 2017 15:36
 
-August 30, 2017 15:36 | Tags: [spectrometry](../tag/spectrometry), [spectral-workbench](../tag/spectral-workbench), [question:spectrometry](../tag/question:spectrometry), [question:spectral-workbench](../tag/question:spectral-workbench)
+August 30, 2017 15:36 | Tags: [spectrometry](/tag/spectrometry), [spectral-workbench](/tag/spectral-workbench), [question:spectrometry](/tag/question:spectrometry), [question:spectral-workbench](/tag/question:spectral-workbench)
 
 ----
 

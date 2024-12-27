@@ -6,18 +6,16 @@ author: JSummers
 path: /notes/JSummers/07-18-2019/wheetrometer-optics-and-wavelength-calibration.md
 nid: 20183
 uid: 304279
-
 cids: 25228,29288
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/850/original/3DPrintedWheetrometer07-18-2016.png)
 
 # WheeTrometer Optics and Wavelength Calibration
 
-by [JSummers](../../../profile/JSummers) | July 18, 2019 19:55
+by [JSummers](/profile/JSummers) | July 18, 2019 19:55
 
-July 18, 2019 19:55 | Tags: [spectrometer](../tag/spectrometer), [wheetrometer](../tag/wheetrometer), [spectrophotometry](../tag/spectrophotometry)
+July 18, 2019 19:55 | Tags: [spectrometer](/tag/spectrometer), [wheetrometer](/tag/wheetrometer), [spectrophotometry](/tag/spectrophotometry)
 
 ----
 

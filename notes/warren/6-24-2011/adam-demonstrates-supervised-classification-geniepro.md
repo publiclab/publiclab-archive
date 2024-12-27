@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/6-24-2011/adam-demonstrates-supervised-classification-geniepro.md
 nid: 355
 uid: 1
-
 cids: 7688
-
 ---
 
 ![](https://publiclab.org/sites/default/files/geniepro-adam.jpg)
 
 # Adam demonstrates supervised classification with GeniePro
 
-by [warren](../../../profile/warren) | June 24, 2011 15:09
+by [warren](/profile/warren) | June 24, 2011 15:09
 
-June 24, 2011 15:09 | Tags: [classification](../tag/classification), [geniepro](../tag/geniepro)
+June 24, 2011 15:09 | Tags: [classification](/tag/classification), [geniepro](/tag/geniepro)
 
 ----
 

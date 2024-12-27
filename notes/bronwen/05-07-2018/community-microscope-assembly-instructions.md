@@ -6,18 +6,16 @@ author: Bronwen
 path: /notes/bronwen/05-07-2018/community-microscope-assembly-instructions.md
 nid: 16310
 uid: 237313
-
 cids: 19796,19798,19800,19802,19998,20058,20656,25370
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/837/original/Screen_Shot_2018-05-07_at_5.10.36_PM.png)
 
 # Community Microscope Assembly Instructions
 
-by [Bronwen](../../../profile/Bronwen) | May 07, 2018 21:32
+by [Bronwen](/profile/Bronwen) | May 07, 2018 21:32
 
-May 07, 2018 21:32 | Tags: [webcam](../tag/webcam), [with:warren](../tag/with:warren), [microscope](../tag/microscope), [activity:microscope](../tag/activity:microscope), [community-kits](../tag/community-kits), [activity:basic-microscope](../tag/activity:basic-microscope), [optics](../tag/optics), [activity:community-microscope](../tag/activity:community-microscope), [community-microscope](../tag/community-microscope), [activity:community-microscope-assembly](../tag/activity:community-microscope-assembly), [pin:activity:community-microscope-assembly](../tag/pin:activity:community-microscope-assembly)
+May 07, 2018 21:32 | Tags: [webcam](/tag/webcam), [with:warren](/tag/with:warren), [microscope](/tag/microscope), [activity:microscope](/tag/activity:microscope), [community-kits](/tag/community-kits), [activity:basic-microscope](/tag/activity:basic-microscope), [optics](/tag/optics), [activity:community-microscope](/tag/activity:community-microscope), [community-microscope](/tag/community-microscope), [activity:community-microscope-assembly](/tag/activity:community-microscope-assembly), [pin:activity:community-microscope-assembly](/tag/pin:activity:community-microscope-assembly)
 
 ----
 

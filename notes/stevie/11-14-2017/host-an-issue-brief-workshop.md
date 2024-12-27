@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/11-14-2017/host-an-issue-brief-workshop.md
 nid: 15186
 uid: 422561
-
 cids: 19526
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/413/original/Screen_Shot_2017-11-14_at_1.48.44_PM.png)
 
 # Workshop: Explore Issue Briefs with others 
 
-by [stevie](../../../profile/stevie) | November 14, 2017 19:49
+by [stevie](/profile/stevie) | November 14, 2017 19:49
 
-November 14, 2017 19:49 | Tags: [organizing](../tag/organizing), [barnstar:basic](../tag/barnstar:basic), [facilitation](../tag/facilitation), [getting-started](../tag/getting-started), [community-organizing](../tag/community-organizing), [issue-brief](../tag/issue-brief), [activity:community-organizing](../tag/activity:community-organizing), [activity:issue-brief](../tag/activity:issue-brief), [activity:organizing](../tag/activity:organizing)
+November 14, 2017 19:49 | Tags: [organizing](/tag/organizing), [barnstar:basic](/tag/barnstar:basic), [facilitation](/tag/facilitation), [getting-started](/tag/getting-started), [community-organizing](/tag/community-organizing), [issue-brief](/tag/issue-brief), [activity:community-organizing](/tag/activity:community-organizing), [activity:issue-brief](/tag/activity:issue-brief), [activity:organizing](/tag/activity:organizing)
 
 ----
 

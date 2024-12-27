@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/12-14-2020/coqui.md
 nid: 25251
 uid: 495038
-
 cids: 27813,27901
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/014/original/1.jpg)
 
 # Coqui 文件
 
-by [imvec](../../../profile/imvec) | December 14, 2020 15:14
+by [imvec](/profile/imvec) | December 14, 2020 15:14
 
-December 14, 2020 15:14 | Tags: [workshop](../tag/workshop), [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [barnstar:basic](../tag/barnstar:basic), [coqui](../tag/coqui), [chinese](../tag/chinese), [activity:coqui](../tag/activity:coqui), [sound](../tag/sound), [lang:zh](../tag/lang:zh), [pin:activity:coqui](../tag/pin:activity:coqui), [zoom:16](../tag/zoom:16), [lang:chinese](../tag/lang:chinese), [wateria](../tag/wateria), [lat:25.040486](../tag/lat:25.040486), [lon:121.53805](../tag/lon:121.53805), [conductivity-sensor](../tag/conductivity-sensor)
+December 14, 2020 15:14 | Tags: [workshop](/tag/workshop), [water-quality](/tag/water-quality), [conductivity](/tag/conductivity), [barnstar:basic](/tag/barnstar:basic), [coqui](/tag/coqui), [chinese](/tag/chinese), [activity:coqui](/tag/activity:coqui), [sound](/tag/sound), [lang:zh](/tag/lang:zh), [pin:activity:coqui](/tag/pin:activity:coqui), [zoom:16](/tag/zoom:16), [lang:chinese](/tag/lang:chinese), [wateria](/tag/wateria), [lat:25.040486](/tag/lat:25.040486), [lon:121.53805](/tag/lon:121.53805), [conductivity-sensor](/tag/conductivity-sensor)
 
 ----
 

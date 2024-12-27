@@ -6,18 +6,16 @@ author: wln215
 path: /notes/wln215/12-09-2019/open-source-spectrometer-for-detecting-laser-harmonics.md
 nid: 21708
 uid: 578478
-
 cids: 26981
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/959/original/im_0068_20181010_074544.jpg)
 
 # Open source spectrometer for detecting laser harmonics. 
 
-by [wln215](../../../profile/wln215) | December 09, 2019 23:10
+by [wln215](/profile/wln215) | December 09, 2019 23:10
 
-December 09, 2019 23:10 | Tags: [spectrometer](../tag/spectrometer), [spectroscopy](../tag/spectroscopy), [barnstar:basic](../tag/barnstar:basic), [spectrometers](../tag/spectrometers), [lasers](../tag/lasers), [response:10692](../tag/response:10692), [lat:40.580584](../tag/lat:40.580584), [lon:-73.828125](../tag/lon:-73.828125)
+December 09, 2019 23:10 | Tags: [spectrometer](/tag/spectrometer), [spectroscopy](/tag/spectroscopy), [barnstar:basic](/tag/barnstar:basic), [spectrometers](/tag/spectrometers), [lasers](/tag/lasers), [response:10692](/tag/response:10692), [lat:40.580584](/tag/lat:40.580584), [lon:-73.828125](/tag/lon:-73.828125)
 
 ----
 

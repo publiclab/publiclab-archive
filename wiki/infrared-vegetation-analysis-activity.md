@@ -6,14 +6,14 @@ author: warren
 path: /wiki/infrared-vegetation-analysis-activity.md
 nid: 150
 uid: 1
-
+cids: 
 ---
 
 # Infrared Vegetation Analysis Activity
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-April 02, 2011 12:53 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [activity](../tag/activity)
+April 02, 2011 12:53 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [nrg](/tag/nrg), [activity](/tag/activity)
 
 ----
 

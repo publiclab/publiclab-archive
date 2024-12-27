@@ -6,14 +6,14 @@ author: goliadranger
 path: /wiki/foss4geo-for-educators.md
 nid: 9320
 uid: 251201
-
+cids: 
 ---
 
 # FOSS4Geo for Educators
 
-by [goliadranger](../profile/goliadranger)
+by [goliadranger](/profile/goliadranger)
 
-September 12, 2013 18:12 | Tags: [foss4g](../tag/foss4g), [gis](../tag/gis), [foss](../tag/foss), [geo](../tag/geo), [geospatial](../tag/geospatial)
+September 12, 2013 18:12 | Tags: [foss4g](/tag/foss4g), [gis](/tag/gis), [foss](/tag/foss), [geo](/tag/geo), [geospatial](/tag/geospatial)
 
 ----
 

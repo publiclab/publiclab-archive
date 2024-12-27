@@ -6,18 +6,16 @@ author: DanielleS
 path: /notes/DanielleS/03-08-2019/diy-soil-texture-tests-learn-more-about-your-soil.md
 nid: 18491
 uid: 569208
-
 cids: 22099,22233,28282,28287
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/950/original/image.png)
 
 # DIY Soil Texture Tests- Learn more about your soil! 
 
-by [DanielleS](../../../profile/DanielleS) | March 08, 2019 05:54
+by [DanielleS](/profile/DanielleS) | March 08, 2019 05:54
 
-March 08, 2019 05:54 | Tags: [soil](../tag/soil), [seeks:replications](../tag/seeks:replications), [activity:soil](../tag/activity:soil), [soil-contamination](../tag/soil-contamination), [getting-started-soil](../tag/getting-started-soil), [activity:getting-started-soil](../tag/activity:getting-started-soil)
+March 08, 2019 05:54 | Tags: [soil](/tag/soil), [seeks:replications](/tag/seeks:replications), [activity:soil](/tag/activity:soil), [soil-contamination](/tag/soil-contamination), [getting-started-soil](/tag/getting-started-soil), [activity:getting-started-soil](/tag/activity:getting-started-soil)
 
 ----
 

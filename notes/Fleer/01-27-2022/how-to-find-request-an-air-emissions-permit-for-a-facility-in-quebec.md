@@ -6,16 +6,14 @@ author: Fleer
 path: /notes/Fleer/01-27-2022/how-to-find-request-an-air-emissions-permit-for-a-facility-in-quebec.md
 nid: 29070
 uid: 785824
-
 cids: 29618
-
 ---
 
 # How to find/request an air emissions permit for a facility in Quebec?
 
-by [Fleer](../../../profile/Fleer) | January 27, 2022 19:01
+by [Fleer](/profile/Fleer) | January 27, 2022 19:01
 
-January 27, 2022 19:01 | Tags: [air-quality](../tag/air-quality), [emissions](../tag/emissions), [question:air-quality](../tag/question:air-quality), [question:general](../tag/question:general), [general](../tag/general), [question:permit](../tag/question:permit), [first-time-poster](../tag/first-time-poster), [question:emissions](../tag/question:emissions), [zoom:6](../tag/zoom:6), [permit](../tag/permit), [lat:45.86541](../tag/lat:45.86541), [lon:-73.241282](../tag/lon:-73.241282)
+January 27, 2022 19:01 | Tags: [air-quality](/tag/air-quality), [emissions](/tag/emissions), [question:air-quality](/tag/question:air-quality), [question:general](/tag/question:general), [general](/tag/general), [question:permit](/tag/question:permit), [first-time-poster](/tag/first-time-poster), [question:emissions](/tag/question:emissions), [zoom:6](/tag/zoom:6), [permit](/tag/permit), [lat:45.86541](/tag/lat:45.86541), [lon:-73.241282](/tag/lon:-73.241282)
 
 ----
 

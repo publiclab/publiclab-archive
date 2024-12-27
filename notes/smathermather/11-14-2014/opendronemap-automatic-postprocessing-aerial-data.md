@@ -6,18 +6,16 @@ author: smathermather
 path: /notes/smathermather/11-14-2014/opendronemap-automatic-postprocessing-aerial-data.md
 nid: 11342
 uid: 431062
-
 cids: 10753,10757,10758,10759,10761,10762,10763
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/844/original/balloon.PNG)
 
 # OpenDroneMap -- Automatic postprocessing aerial data
 
-by [smathermather](../../../profile/smathermather) | November 14, 2014 13:08
+by [smathermather](/profile/smathermather) | November 14, 2014 13:08
 
-November 14, 2014 13:08 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [gowanus](../tag/gowanus), [kite-aerial-photography](../tag/kite-aerial-photography), [drones](../tag/drones), [aerial-photography](../tag/aerial-photography), [glam](../tag/glam), [aerial-mapping](../tag/aerial-mapping), [aerial-photos](../tag/aerial-photos), [northeast](../tag/northeast), [uas](../tag/uas), [opendronemap](../tag/opendronemap), [first-time-poster](../tag/first-time-poster)
+November 14, 2014 13:08 | Tags: [new-york-city](/tag/new-york-city), [balloon-mapping](/tag/balloon-mapping), [gowanus](/tag/gowanus), [kite-aerial-photography](/tag/kite-aerial-photography), [drones](/tag/drones), [aerial-photography](/tag/aerial-photography), [glam](/tag/glam), [aerial-mapping](/tag/aerial-mapping), [aerial-photos](/tag/aerial-photos), [northeast](/tag/northeast), [uas](/tag/uas), [opendronemap](/tag/opendronemap), [first-time-poster](/tag/first-time-poster)
 
 ----
 

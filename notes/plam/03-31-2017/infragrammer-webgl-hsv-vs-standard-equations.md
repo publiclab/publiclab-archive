@@ -6,18 +6,16 @@ author: plam
 path: /notes/plam/03-31-2017/infragrammer-webgl-hsv-vs-standard-equations.md
 nid: 14069
 uid: 504901
-
 cids: 17175
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/973/original/Comparison.jpg)
 
 # Infragrammer WebGL HSV vs Standard equations
 
-by [plam](../../../profile/plam) | March 31, 2017 02:32
+by [plam](/profile/plam) | March 31, 2017 02:32
 
-March 31, 2017 02:32 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [infragram-sandbox](../tag/infragram-sandbox), [question:general](../tag/question:general)
+March 31, 2017 02:32 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [infrared](/tag/infrared), [infragram](/tag/infragram), [infragram-sandbox](/tag/infragram-sandbox), [question:general](/tag/question:general)
 
 ----
 

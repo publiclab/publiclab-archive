@@ -6,16 +6,14 @@ author: wln215
 path: /notes/wln215/11-22-2019/any-experience-with-knockoff-temperature-sensors.md
 nid: 21556
 uid: 578478
-
 cids: 26980
-
 ---
 
 # Any experience with knockoff temperature sensors?
 
-by [wln215](../../../profile/wln215) | November 22, 2019 16:29
+by [wln215](/profile/wln215) | November 22, 2019 16:29
 
-November 22, 2019 16:29 | Tags: [temperature](../tag/temperature), [kits](../tag/kits), [sensors](../tag/sensors), [question:general](../tag/question:general), [general](../tag/general), [question:water-sensors](../tag/question:water-sensors), [water-sensors](../tag/water-sensors)
+November 22, 2019 16:29 | Tags: [temperature](/tag/temperature), [kits](/tag/kits), [sensors](/tag/sensors), [question:general](/tag/question:general), [general](/tag/general), [question:water-sensors](/tag/question:water-sensors), [water-sensors](/tag/water-sensors)
 
 ----
 

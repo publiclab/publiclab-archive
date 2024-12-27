@@ -6,18 +6,16 @@ author: sid2111995
 path: /notes/sid2111995/02-25-2018/soc-proposal-pollution-analysis-on-google-maps.md
 nid: 15813
 uid: 526051
-
 cids: 18701,19037
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/706/original/airpol.png)
 
 # SoC proposal: Pollution analysis on google maps
 
-by [sid2111995](../../../profile/sid2111995) | February 25, 2018 10:04
+by [sid2111995](/profile/sid2111995) | February 25, 2018 10:04
 
-February 25, 2018 10:04 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [first-time-poster](../tag/first-time-poster)
+February 25, 2018 10:04 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [soc](/tag/soc), [response:13975](/tag/response:13975), [gsoc-2018](/tag/gsoc-2018), [soc-2018](/tag/soc-2018), [soc-2018-proposals](/tag/soc-2018-proposals), [first-time-poster](/tag/first-time-poster)
 
 ----
 

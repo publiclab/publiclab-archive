@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/12-02-2018/crystalline-silica-from-tile-grout-at-as220-microscope-workshop.md
 nid: 17785
 uid: 1
-
 cids: 21416,21417,21418,21419,21421,21422,21423,21435,21436,24963,25990
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/980/original/2018-12-02T16_49_17.827Z.jpg)
 
 # Crystalline silica from tile grout at AS220 microscope workshop
 
-by [warren](../../../profile/warren) | December 02, 2018 17:58
+by [warren](/profile/warren) | December 02, 2018 17:58
 
-December 02, 2018 17:58 | Tags: [as220](../tag/as220), [silica](../tag/silica), [polarizer](../tag/polarizer), [polarized-light](../tag/polarized-light), [polarized-light-microscopy](../tag/polarized-light-microscopy), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [microscope](../tag/microscope), [hardware](../tag/hardware), [location:blurred](../tag/location:blurred), [crystalline-silica](../tag/crystalline-silica), [community-microscope](../tag/community-microscope), [replication:15819](../tag/replication:15819), [microbrews](../tag/microbrews), [grout](../tag/grout), [lat:41.823](../tag/lat:41.823), [lon:-71.415](../tag/lon:-71.415), [microscope-workshop](../tag/microscope-workshop), [polarizing-filter](../tag/polarizing-filter)
+December 02, 2018 17:58 | Tags: [as220](/tag/as220), [silica](/tag/silica), [polarizer](/tag/polarizer), [polarized-light](/tag/polarized-light), [polarized-light-microscopy](/tag/polarized-light-microscopy), [barnstar:photo-documentation](/tag/barnstar:photo-documentation), [microscope](/tag/microscope), [hardware](/tag/hardware), [location:blurred](/tag/location:blurred), [crystalline-silica](/tag/crystalline-silica), [community-microscope](/tag/community-microscope), [replication:15819](/tag/replication:15819), [microbrews](/tag/microbrews), [grout](/tag/grout), [lat:41.823](/tag/lat:41.823), [lon:-71.415](/tag/lon:-71.415), [microscope-workshop](/tag/microscope-workshop), [polarizing-filter](/tag/polarizing-filter)
 
 ----
 

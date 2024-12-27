@@ -6,18 +6,16 @@ author: ddileona
 path: /notes/ddileona/01-08-2016/oil-testing-kit-beta-test.md
 nid: 12572
 uid: 436738
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/559/original/undefined)
 
 # Oil Testing Kit Beta Test
 
-by [ddileona](../../../profile/ddileona) | January 08, 2016 03:56
+by [ddileona](/profile/ddileona) | January 08, 2016 03:56
 
-January 08, 2016 03:56 | Tags: [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta)
+January 08, 2016 03:56 | Tags: [oil-testing-kit](/tag/oil-testing-kit), [oil-testing-kit-beta](/tag/oil-testing-kit-beta)
 
 ----
 

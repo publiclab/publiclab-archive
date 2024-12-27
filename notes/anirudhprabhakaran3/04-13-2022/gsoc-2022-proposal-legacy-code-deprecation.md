@@ -6,18 +6,16 @@ author: anirudhprabhakaran3
 path: /notes/anirudhprabhakaran3/04-13-2022/gsoc-2022-proposal-legacy-code-deprecation.md
 nid: 30330
 uid: 751144
-
 cids: 30035,30078
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/675/original/GSoC-icon-192.png)
 
 # GSoC 2022 Proposal - Legacy Code Deprecation
 
-by [anirudhprabhakaran3](../../../profile/anirudhprabhakaran3) | April 13, 2022 16:15
+by [anirudhprabhakaran3](/profile/anirudhprabhakaran3) | April 13, 2022 16:15
 
-April 13, 2022 16:15 | Tags: [gsoc](../tag/gsoc), [lon:77.1](../tag/lon:77.1), [zoom:10](../tag/zoom:10), [lat:28.6](../tag/lat:28.6), [gsoc-2022](../tag/gsoc-2022), [gsoc-2022-proposals](../tag/gsoc-2022-proposals), [soc-2022](../tag/soc-2022), [soc-2022-proposal](../tag/soc-2022-proposal), [soc-2022-proposals](../tag/soc-2022-proposals), [gsoc-2022-proposal](../tag/gsoc-2022-proposal)
+April 13, 2022 16:15 | Tags: [gsoc](/tag/gsoc), [lon:77.1](/tag/lon:77.1), [zoom:10](/tag/zoom:10), [lat:28.6](/tag/lat:28.6), [gsoc-2022](/tag/gsoc-2022), [gsoc-2022-proposals](/tag/gsoc-2022-proposals), [soc-2022](/tag/soc-2022), [soc-2022-proposal](/tag/soc-2022-proposal), [soc-2022-proposals](/tag/soc-2022-proposals), [gsoc-2022-proposal](/tag/gsoc-2022-proposal)
 
 ----
 

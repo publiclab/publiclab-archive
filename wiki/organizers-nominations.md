@@ -6,14 +6,14 @@ author: warren
 path: /wiki/organizers-nominations.md
 nid: 2299
 uid: 1
-
+cids: 
 ---
 
 # Organizers nominations
 
-by [stevie](../profile/stevie), [liz](../profile/liz), [eustatic](../profile/eustatic), [warren](../profile/warren), [Shannon](../profile/Shannon)
+by [stevie](/profile/stevie), [liz](/profile/liz), [eustatic](/profile/eustatic), [warren](/profile/warren), [Shannon](/profile/Shannon)
 
-June 01, 2012 17:13 | Tags: [community](../tag/community), [organizers](../tag/organizers), [parent:organizers](../tag/parent:organizers)
+June 01, 2012 17:13 | Tags: [community](/tag/community), [organizers](/tag/organizers), [parent:organizers](/tag/parent:organizers)
 
 ----
 

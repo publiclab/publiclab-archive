@@ -6,18 +6,16 @@ author: FireLogCollective
 path: /notes/FireLogCollective/12-18-2014/finding-hotspots-with-our-thermal-flashlight.md
 nid: 11482
 uid: 432903
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/494/original/graph1.jpg)
 
 # Finding Hotspots With Our Thermal Flashlight
 
-by [FireLogCollective](../../../profile/FireLogCollective) | December 18, 2014 12:46
+by [FireLogCollective](/profile/FireLogCollective) | December 18, 2014 12:46
 
-December 18, 2014 12:46 | Tags: [arduino](../tag/arduino), [thermal-flashlight](../tag/thermal-flashlight), [diy](../tag/diy), [replication:625](../tag/replication:625)
+December 18, 2014 12:46 | Tags: [arduino](/tag/arduino), [thermal-flashlight](/tag/thermal-flashlight), [diy](/tag/diy), [replication:625](/tag/replication:625)
 
 ----
 

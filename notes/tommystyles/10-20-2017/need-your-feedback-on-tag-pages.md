@@ -6,16 +6,14 @@ author: tommystyles
 path: /notes/tommystyles/10-20-2017/need-your-feedback-on-tag-pages.md
 nid: 15072
 uid: 516670
-
 cids: 17552,17553,17700,17702,17703,17704,17705,17706,17707,17708,17709,17710,18160,18240,18266,18290,18293,18294,18295,22723,22724,22863
-
 ---
 
 # Need your feedback on Tag pages
 
-by [tommystyles](../../../profile/tommystyles) | October 20, 2017 00:32
+by [tommystyles](/profile/tommystyles) | October 20, 2017 00:32
 
-October 20, 2017 00:32 | Tags: [website](../tag/website), [design](../tag/design), [tags](../tag/tags), [ux](../tag/ux), [ui](../tag/ui), [question:ui](../tag/question:ui), [usability](../tag/usability)
+October 20, 2017 00:32 | Tags: [website](/tag/website), [design](/tag/design), [tags](/tag/tags), [ux](/tag/ux), [ui](/tag/ui), [question:ui](/tag/question:ui), [usability](/tag/usability)
 
 ----
 

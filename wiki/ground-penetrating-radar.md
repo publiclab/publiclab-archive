@@ -6,14 +6,14 @@ author: bodacea
 path: /wiki/ground-penetrating-radar.md
 nid: 9812
 uid: 648
-
+cids: 
 ---
 
 # Ground Penetrating Radar
 
-by [marlokeno](../profile/marlokeno), [KPed](../profile/KPed), [bodacea](../profile/bodacea)
+by [marlokeno](/profile/marlokeno), [KPed](/profile/KPed), [bodacea](/profile/bodacea)
 
-November 20, 2013 22:45 | Tags: [radar](../tag/radar), [ground-penetrating-radar](../tag/ground-penetrating-radar)
+November 20, 2013 22:45 | Tags: [radar](/tag/radar), [ground-penetrating-radar](/tag/ground-penetrating-radar)
 
 ----
 

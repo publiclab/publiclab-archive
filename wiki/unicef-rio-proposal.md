@@ -6,14 +6,14 @@ author: warren
 path: /wiki/unicef-rio-proposal.md
 nid: 189
 uid: 1
-
+cids: 
 ---
 
 # UNICEF Rio Proposal
 
-by [liz](../profile/liz), [warren](../profile/warren)
+by [liz](/profile/liz), [warren](/profile/warren)
 
-April 21, 2011 14:11 | Tags: [rio](../tag/rio)
+April 21, 2011 14:11 | Tags: [rio](/tag/rio)
 
 ----
 

@@ -6,16 +6,14 @@ author: sagarpreet
 path: /notes/sagarpreet/06-06-2018/what-should-be-appropriate-marker-for-each-environmental-layer.md
 nid: 16438
 uid: 516343
-
 cids: 19778,20852,21827,23113
-
 ---
 
 # What should be appropriate marker for each environmental layer ?
 
-by [sagarpreet](../../../profile/sagarpreet) | June 06, 2018 11:23
+by [sagarpreet](/profile/sagarpreet) | June 06, 2018 11:23
 
-June 06, 2018 11:23 | Tags: [question:general](../tag/question:general), [general](../tag/general)
+June 06, 2018 11:23 | Tags: [question:general](/tag/question:general), [general](/tag/general)
 
 ----
 

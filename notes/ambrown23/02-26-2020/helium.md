@@ -6,18 +6,16 @@ author: ambrown23
 path: /notes/ambrown23/02-26-2020/helium.md
 nid: 22934
 uid: 668550
-
 cids: 26405
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/246/original/chem)
 
 # Helium
 
-by [ambrown23](../../../profile/ambrown23) | February 26, 2020 02:40
+by [ambrown23](/profile/ambrown23) | February 26, 2020 02:40
 
-February 26, 2020 02:40 | Tags: [first-time-poster](../tag/first-time-poster)
+February 26, 2020 02:40 | Tags: [first-time-poster](/tag/first-time-poster)
 
 ----
 

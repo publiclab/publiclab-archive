@@ -6,14 +6,14 @@ author: aryan
 path: /wiki/moshaver-iso.md
 nid: 14491
 uid: 508276
-
+cids: 
 ---
 
 # moshaver iso
 
-by [aryan](../profile/aryan)
+by [aryan](/profile/aryan)
 
-May 31, 2017 06:13 | Tags: [first-time-poster](../tag/first-time-poster)
+May 31, 2017 06:13 | Tags: [first-time-poster](/tag/first-time-poster)
 
 ----
 

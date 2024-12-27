@@ -6,14 +6,14 @@ author: gonzoearth
 path: /wiki/camera-selection.md
 nid: 799
 uid: 12
-
+cids: 
 ---
 
 # Camera Selection
 
-by [warren](../profile/warren), [hagitkeysar](../profile/hagitkeysar), [Arnaud](../profile/Arnaud), [gonzoearth](../profile/gonzoearth), [mathew](../profile/mathew)
+by [warren](/profile/warren), [hagitkeysar](/profile/hagitkeysar), [Arnaud](/profile/Arnaud), [gonzoearth](/profile/gonzoearth), [mathew](/profile/mathew)
 
-February 17, 2012 23:42 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [parent:balloon-mapping](../tag/parent:balloon-mapping)
+February 17, 2012 23:42 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [parent:balloon-mapping](/tag/parent:balloon-mapping)
 
 ----
 
@@ -45,4 +45,4 @@ For timelapse apps on smartphones, see [Timelapse Apps](/timelapse-apps).
 
 ## Questions
 
-[camera-selection](../../tag/question:camera-selection)
+[camera-selection](/tag/question:camera-selection)

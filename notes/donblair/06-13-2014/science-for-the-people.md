@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/06-13-2014/science-for-the-people.md
 nid: 10569
 uid: 43651
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/709/original/science.png)
 
 # Science for the People
 
-by [donblair](../../../profile/donblair) | June 13, 2014 15:49
+by [donblair](/profile/donblair) | June 13, 2014 15:49
 
-June 13, 2014 15:49 | Tags: [conferences](../tag/conferences), [massachusetts](../tag/massachusetts), [umass-amherst](../tag/umass-amherst), [northeast](../tag/northeast), [science-for-the-people](../tag/science-for-the-people)
+June 13, 2014 15:49 | Tags: [conferences](/tag/conferences), [massachusetts](/tag/massachusetts), [umass-amherst](/tag/umass-amherst), [northeast](/tag/northeast), [science-for-the-people](/tag/science-for-the-people)
 
 ----
 

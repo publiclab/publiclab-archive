@@ -6,18 +6,16 @@ author: eustatic
 path: /09-05-2020/sweep-and-pan-vs-scoop-and-sift-methods-for-nurdle-retrieval.md
 nid: 24528
 uid: 379
-
 cids: 27332,27333,27337,27338,27349,27354,27410
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/794/original/IMAG6284.jpg)
 
 # Sweep and Pan vs Scoop and Sift:  Methods for Nurdle Retrieval
 
-by [eustatic](../../../profile/eustatic) | September 05, 2020 21:17
+by [eustatic](/profile/eustatic) | September 05, 2020 21:17
 
-September 05, 2020 21:17 | Tags: [gulf-coast](../tag/gulf-coast), [industrial-monitoring](../tag/industrial-monitoring), [water-quality](../tag/water-quality), [mississippi-river](../tag/mississippi-river), [micro-plastics](../tag/micro-plastics), [oil-and-gas](../tag/oil-and-gas), [microplastics](../tag/microplastics), [plastics](../tag/plastics), [healthygulf](../tag/healthygulf), [zoom:16](../tag/zoom:16), [plastic-pollution](../tag/plastic-pollution), [nurdles](../tag/nurdles), [formosa](../tag/formosa), [dow](../tag/dow), [lat:29.953736](../tag/lat:29.953736), [lon:-90.073637](../tag/lon:-90.073637), [beach-cleanup](../tag/beach-cleanup), [filter-microplastics-from-sand](../tag/filter-microplastics-from-sand), [activity:filter-microplastics-from-sand](../tag/activity:filter-microplastics-from-sand)
+September 05, 2020 21:17 | Tags: [gulf-coast](/tag/gulf-coast), [industrial-monitoring](/tag/industrial-monitoring), [water-quality](/tag/water-quality), [mississippi-river](/tag/mississippi-river), [micro-plastics](/tag/micro-plastics), [oil-and-gas](/tag/oil-and-gas), [microplastics](/tag/microplastics), [plastics](/tag/plastics), [healthygulf](/tag/healthygulf), [zoom:16](/tag/zoom:16), [plastic-pollution](/tag/plastic-pollution), [nurdles](/tag/nurdles), [formosa](/tag/formosa), [dow](/tag/dow), [lat:29.953736](/tag/lat:29.953736), [lon:-90.073637](/tag/lon:-90.073637), [beach-cleanup](/tag/beach-cleanup), [filter-microplastics-from-sand](/tag/filter-microplastics-from-sand), [activity:filter-microplastics-from-sand](/tag/activity:filter-microplastics-from-sand)
 
 ----
 

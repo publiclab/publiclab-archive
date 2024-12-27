@@ -6,16 +6,14 @@ author: ekpeterman
 path: /notes/ekpeterman/03-29-2022/air-common-permit-violations.md
 nid: 30208
 uid: 641166
-
 cids: 
-
 ---
 
 # Air: Common Permit Violations
 
-by [ekpeterman](../../../profile/ekpeterman) | March 29, 2022 16:58
+by [ekpeterman](/profile/ekpeterman) | March 29, 2022 16:58
 
-March 29, 2022 16:58 | Tags: [coal-mining](../tag/coal-mining), [air-quality](../tag/air-quality), [mining](../tag/mining), [advocacy](../tag/advocacy), [permit-violation](../tag/permit-violation), [with:junior_walk1337](../tag/with:junior_walk1337), [mmmp](../tag/mmmp)
+March 29, 2022 16:58 | Tags: [coal-mining](/tag/coal-mining), [air-quality](/tag/air-quality), [mining](/tag/mining), [advocacy](/tag/advocacy), [permit-violation](/tag/permit-violation), [with:junior_walk1337](/tag/with:junior_walk1337), [mmmp](/tag/mmmp)
 
 ----
 

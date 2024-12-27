@@ -6,14 +6,14 @@ author: liz
 path: /wiki/affiliates.md
 nid: 7747
 uid: 7
-
+cids: 
 ---
 
 # affiliates
 
-by [warren](../profile/warren), [liz](../profile/liz)
+by [warren](/profile/warren), [liz](/profile/liz)
 
-May 20, 2013 19:00 | Tags: [retail](../tag/retail)
+May 20, 2013 19:00 | Tags: [retail](/tag/retail)
 
 ----
 

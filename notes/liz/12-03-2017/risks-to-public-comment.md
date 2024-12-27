@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/12-03-2017/risks-to-public-comment.md
 nid: 15290
 uid: 7
-
 cids: 17853,17854,17864
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/760/original/FCC-FINAL.jpg)
 
 # Risks to public comment
 
-by [liz](../../../profile/liz) | December 03, 2017 18:52
+by [liz](/profile/liz) | December 03, 2017 18:52
 
-December 03, 2017 18:52 | Tags: [advocacy](../tag/advocacy), [public-comment](../tag/public-comment), [bots](../tag/bots)
+December 03, 2017 18:52 | Tags: [advocacy](/tag/advocacy), [public-comment](/tag/public-comment), [bots](/tag/bots)
 
 ----
 

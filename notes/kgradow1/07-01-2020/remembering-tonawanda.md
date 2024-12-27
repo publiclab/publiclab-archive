@@ -6,18 +6,16 @@ author: kgradow1
 path: /notes/kgradow1/07-01-2020/remembering-tonawanda.md
 nid: 24074
 uid: 297929
-
 cids: 27082,27143,27764,27765
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/030/original/TTC_pic_from_Paulv2_%281%29.jpeg)
 
 # Remembering Tonawanda
 
-by [kgradow1](../../../profile/kgradow1) | July 01, 2020 04:17
+by [kgradow1](/profile/kgradow1) | July 01, 2020 04:17
 
-July 01, 2020 04:17 | Tags: [epa](../tag/epa), [air-quality](../tag/air-quality), [history](../tag/history), [blog](../tag/blog), [northeast](../tag/northeast), [bucket-brigade](../tag/bucket-brigade), [tonawanda](../tag/tonawanda), [storytelling](../tag/storytelling), [lon:-71](../tag/lon:-71), [with:jjcreedon](../tag/with:jjcreedon), [lat:42](../tag/lat:42), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor), [lat:43.020334](../tag/lat:43.020334), [lon:-78.880315](../tag/lon:-78.880315), [lat:43.020713](../tag/lat:43.020713), [lon:-78.881835](../tag/lon:-78.881835)
+July 01, 2020 04:17 | Tags: [epa](/tag/epa), [air-quality](/tag/air-quality), [history](/tag/history), [blog](/tag/blog), [northeast](/tag/northeast), [bucket-brigade](/tag/bucket-brigade), [tonawanda](/tag/tonawanda), [storytelling](/tag/storytelling), [lon:-71](/tag/lon:-71), [with:jjcreedon](/tag/with:jjcreedon), [lat:42](/tag/lat:42), [zoom:6](/tag/zoom:6), [bucket-monitor](/tag/bucket-monitor), [lat:43.020334](/tag/lat:43.020334), [lon:-78.880315](/tag/lon:-78.880315), [lat:43.020713](/tag/lat:43.020713), [lon:-78.881835](/tag/lon:-78.881835)
 
 ----
 

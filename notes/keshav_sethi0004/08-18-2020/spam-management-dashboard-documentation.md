@@ -6,18 +6,16 @@ author: keshav_sethi0004
 path: /notes/keshav_sethi0004/08-18-2020/spam-management-dashboard-documentation.md
 nid: 24349
 uid: 653396
-
 cids: 27247,27249,27253,27266,27399,27542
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/553/original/1.png)
 
 # Spam Management Dashboard (Documentation)
 
-by [keshav_sethi0004](../../../profile/keshav_sethi0004) | August 18, 2020 20:17
+by [keshav_sethi0004](/profile/keshav_sethi0004) | August 18, 2020 20:17
 
-August 18, 2020 20:17 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [spam](../tag/spam), [publiclab](../tag/publiclab), [management](../tag/management), [dashboard](../tag/dashboard), [soc](../tag/soc), [summer-of-code](../tag/summer-of-code), [jeff](../tag/jeff), [soc-2020](../tag/soc-2020), [keshav](../tag/keshav), [smd](../tag/smd), [gsoc2020](../tag/gsoc2020), [moderator](../tag/moderator), [ebary](../tag/ebary), [dashbaord](../tag/dashbaord), [soc-2020-final](../tag/soc-2020-final)
+August 18, 2020 20:17 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [spam](/tag/spam), [publiclab](/tag/publiclab), [management](/tag/management), [dashboard](/tag/dashboard), [soc](/tag/soc), [summer-of-code](/tag/summer-of-code), [jeff](/tag/jeff), [soc-2020](/tag/soc-2020), [keshav](/tag/keshav), [smd](/tag/smd), [gsoc2020](/tag/gsoc2020), [moderator](/tag/moderator), [ebary](/tag/ebary), [dashbaord](/tag/dashbaord), [soc-2020-final](/tag/soc-2020-final)
 
 ----
 

@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/03-17-2020/covid-19-shared-resources.md
 nid: 23163
 uid: 9
-
 cids: 26551,26624,26801,26802,26994
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/595/original/office-phone-coffee-table-preview.jpg)
 
 # COVID-19: Tips for working remotely
 
-by [Shannon](../../../profile/Shannon) | March 17, 2020 20:25
+by [Shannon](/profile/Shannon) | March 17, 2020 20:25
 
-March 17, 2020 20:25 | Tags: [blog](../tag/blog), [with:stevie](../tag/with:stevie), [with:liz](../tag/with:liz), [with:joyofsoy](../tag/with:joyofsoy), [with:mimiss](../tag/with:mimiss), [morninghello](../tag/morninghello), [covid-19](../tag/covid-19)
+March 17, 2020 20:25 | Tags: [blog](/tag/blog), [with:stevie](/tag/with:stevie), [with:liz](/tag/with:liz), [with:joyofsoy](/tag/with:joyofsoy), [with:mimiss](/tag/with:mimiss), [morninghello](/tag/morninghello), [covid-19](/tag/covid-19)
 
 ----
 

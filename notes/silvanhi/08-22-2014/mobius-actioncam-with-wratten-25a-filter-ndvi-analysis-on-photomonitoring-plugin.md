@@ -6,18 +6,16 @@ author: silvanhi
 path: /notes/silvanhi/08-22-2014/mobius-actioncam-with-wratten-25a-filter-ndvi-analysis-on-photomonitoring-plugin.md
 nid: 11072
 uid: 427351
-
 cids: 10107,10108,10109,10110,10111,10112,10113,10125,10500,11544
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/380/original/42.jpeg)
 
 # Mobius Actioncam with WRATTEN 25a filter NDVI analysis on PhotoMonitoring Plugin
 
-by [silvanhi](../../../profile/silvanhi) | August 22, 2014 12:07
+by [silvanhi](/profile/silvanhi) | August 22, 2014 12:07
 
-August 22, 2014 12:07 | Tags: [ndvi](../tag/ndvi), [infrared-photography](../tag/infrared-photography), [aerial-mapping](../tag/aerial-mapping), [fiji](../tag/fiji), [mobius-actioncam](../tag/mobius-actioncam), [wratten25a](../tag/wratten25a), [photomonitoring](../tag/photomonitoring), [hsv](../tag/hsv), [first-time-poster](../tag/first-time-poster)
+August 22, 2014 12:07 | Tags: [ndvi](/tag/ndvi), [infrared-photography](/tag/infrared-photography), [aerial-mapping](/tag/aerial-mapping), [fiji](/tag/fiji), [mobius-actioncam](/tag/mobius-actioncam), [wratten25a](/tag/wratten25a), [photomonitoring](/tag/photomonitoring), [hsv](/tag/hsv), [first-time-poster](/tag/first-time-poster)
 
 ----
 

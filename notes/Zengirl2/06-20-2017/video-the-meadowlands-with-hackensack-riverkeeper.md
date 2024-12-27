@@ -6,18 +6,16 @@ author: zengirl2
 path: /notes/Zengirl2/06-20-2017/video-the-meadowlands-with-hackensack-riverkeeper.md
 nid: 14558
 uid: 423961
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/827/original/Riverkeeper1.jpg)
 
 # Video: The Meadowlands With Hackensack Riverkeeper
 
-by [zengirl2](../../../profile/zengirl2) | June 20, 2017 01:23
+by [zengirl2](/profile/zengirl2) | June 20, 2017 01:23
 
-June 20, 2017 01:23 | Tags: [wetlands](../tag/wetlands), [citizen-science](../tag/citizen-science), [new-jersey](../tag/new-jersey), [water-quality](../tag/water-quality), [water](../tag/water)
+June 20, 2017 01:23 | Tags: [wetlands](/tag/wetlands), [citizen-science](/tag/citizen-science), [new-jersey](/tag/new-jersey), [water-quality](/tag/water-quality), [water](/tag/water)
 
 ----
 

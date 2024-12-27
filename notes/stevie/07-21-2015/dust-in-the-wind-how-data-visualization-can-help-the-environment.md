@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/07-21-2015/dust-in-the-wind-how-data-visualization-can-help-the-environment.md
 nid: 12085
 uid: 422561
-
 cids: 12279
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/746/original/dustduino_proto_2_desk.jpg)
 
 # "Dust in the Wind: How Data Visualization Can Help the Environment" 
 
-by [stevie](../../../profile/stevie) | July 21, 2015 14:36
+by [stevie](/profile/stevie) | July 21, 2015 14:36
 
-July 21, 2015 14:36 | Tags: [air-quality](../tag/air-quality), [blog](../tag/blog), [dustduino](../tag/dustduino), [dust](../tag/dust), [open-air](../tag/open-air), [data-visualization](../tag/data-visualization)
+July 21, 2015 14:36 | Tags: [air-quality](/tag/air-quality), [blog](/tag/blog), [dustduino](/tag/dustduino), [dust](/tag/dust), [open-air](/tag/open-air), [data-visualization](/tag/data-visualization)
 
 ----
 

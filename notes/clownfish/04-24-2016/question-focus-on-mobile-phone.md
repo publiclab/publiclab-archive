@@ -6,16 +6,14 @@ author: clownfish
 path: /notes/clownfish/04-24-2016/question-focus-on-mobile-phone.md
 nid: 13025
 uid: 471261
-
 cids: 14428
-
 ---
 
 # Question: Focus on mobile phone
 
-by [clownfish](../../../profile/clownfish) | April 24, 2016 21:51
+by [clownfish](/profile/clownfish) | April 24, 2016 21:51
 
-April 24, 2016 21:51 | Tags: [question:spectrometry](../tag/question:spectrometry), [question:spectral-workbench](../tag/question:spectral-workbench)
+April 24, 2016 21:51 | Tags: [question:spectrometry](/tag/question:spectrometry), [question:spectral-workbench](/tag/question:spectral-workbench)
 
 ----
 

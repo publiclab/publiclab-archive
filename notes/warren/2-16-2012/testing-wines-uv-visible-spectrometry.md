@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/2-16-2012/testing-wines-uv-visible-spectrometry.md
 nid: 796
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Picture 7.png)
 
 # Testing wines with UV-visible spectrometry
 
-by [warren](../../../profile/warren) | February 16, 2012 17:54
+by [warren](/profile/warren) | February 16, 2012 17:54
 
 February 16, 2012 17:54 | Tags: 
 

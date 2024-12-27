@@ -6,18 +6,16 @@ author: partsandcrafts
 path: /notes/partsandcrafts/01-22-2018/building-the-microscope-stage.md
 nid: 15585
 uid: 66014
-
 cids: 18298,18663,18752
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/284/original/image5.jpg)
 
 # Building a Basic Microscope Stage
 
-by [partsandcrafts](../../../profile/partsandcrafts) | January 22, 2018 19:26
+by [partsandcrafts](/profile/partsandcrafts) | January 22, 2018 19:26
 
-January 22, 2018 19:26 | Tags: [raspberry-pi](../tag/raspberry-pi), [with:kgradow1](../tag/with:kgradow1), [with:warren](../tag/with:warren), [microscope](../tag/microscope), [pi-camera](../tag/pi-camera), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes), [with:wmacfarl](../tag/with:wmacfarl), [activity:pi-camera](../tag/activity:pi-camera), [with:bmela](../tag/with:bmela), [activity:basic-microscope](../tag/activity:basic-microscope), [basic-microscope](../tag/basic-microscope), [series:basic-microscope](../tag/series:basic-microscope)
+January 22, 2018 19:26 | Tags: [raspberry-pi](/tag/raspberry-pi), [with:kgradow1](/tag/with:kgradow1), [with:warren](/tag/with:warren), [microscope](/tag/microscope), [pi-camera](/tag/pi-camera), [microscopes](/tag/microscopes), [activity:microscopes](/tag/activity:microscopes), [with:wmacfarl](/tag/with:wmacfarl), [activity:pi-camera](/tag/activity:pi-camera), [with:bmela](/tag/with:bmela), [activity:basic-microscope](/tag/activity:basic-microscope), [basic-microscope](/tag/basic-microscope), [series:basic-microscope](/tag/series:basic-microscope)
 
 ----
 

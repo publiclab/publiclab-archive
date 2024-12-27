@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/10-25-2018/building-a-plant-based-air-purifier-kit-at-barnraising.md
 nid: 17395
 uid: 1
-
 cids: 20980,20981,20982,20983,20987,21046,21439,26248,26576,27490,27816,27817,27818,27819,27820,27923,28085,28234,28235,28272,29584,29629,31040,31048
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/267/original/PA150357.JPG)
 
 # Building a plant-based air purifier kit at Barnraising
 
-by [warren](../../../profile/warren) | October 25, 2018 20:54
+by [warren](/profile/warren) | October 25, 2018 20:54
 
-October 25, 2018 20:54 | Tags: [remediation](../tag/remediation), [air-quality](../tag/air-quality), [formaldehyde](../tag/formaldehyde), [open-air](../tag/open-air), [filters](../tag/filters), [with:liz](../tag/with:liz), [indoor-air-quality](../tag/indoor-air-quality), [indoor-air](../tag/indoor-air), [pick](../tag/pick), [current](../tag/current), [vocs](../tag/vocs), [replication:13480](../tag/replication:13480), [with:zengirl2](../tag/with:zengirl2), [activity:indoor-air-quality](../tag/activity:indoor-air-quality)
+October 25, 2018 20:54 | Tags: [remediation](/tag/remediation), [air-quality](/tag/air-quality), [formaldehyde](/tag/formaldehyde), [open-air](/tag/open-air), [filters](/tag/filters), [with:liz](/tag/with:liz), [indoor-air-quality](/tag/indoor-air-quality), [indoor-air](/tag/indoor-air), [pick](/tag/pick), [current](/tag/current), [vocs](/tag/vocs), [replication:13480](/tag/replication:13480), [with:zengirl2](/tag/with:zengirl2), [activity:indoor-air-quality](/tag/activity:indoor-air-quality)
 
 ----
 

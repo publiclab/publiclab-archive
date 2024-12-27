@@ -6,18 +6,16 @@ author: Bronwen
 path: /notes/bronwen/11-29-2018/assembling-the-raspberry-pi-microscope.md
 nid: 17775
 uid: 237313
-
 cids: 21406,21408,21429,21437,21438,21440
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/940/original/IMG_20181127_191333.jpg)
 
 # Assembling the Raspberry Pi Microscope
 
-by [Bronwen](../../../profile/Bronwen) | November 29, 2018 15:15
+by [Bronwen](/profile/Bronwen) | November 29, 2018 15:15
 
-November 29, 2018 15:15 | Tags: [kits](../tag/kits), [with:warren](../tag/with:warren), [microscope](../tag/microscope), [hardware](../tag/hardware), [activity:raspberry-pi](../tag/activity:raspberry-pi), [activity:microscope](../tag/activity:microscope), [community-kits](../tag/community-kits), [community-microscope](../tag/community-microscope), [activity:community-microscope-assembly](../tag/activity:community-microscope-assembly), [raspberry-pi-microscope](../tag/raspberry-pi-microscope), [raspberrypi-microscope](../tag/raspberrypi-microscope)
+November 29, 2018 15:15 | Tags: [kits](/tag/kits), [with:warren](/tag/with:warren), [microscope](/tag/microscope), [hardware](/tag/hardware), [activity:raspberry-pi](/tag/activity:raspberry-pi), [activity:microscope](/tag/activity:microscope), [community-kits](/tag/community-kits), [community-microscope](/tag/community-microscope), [activity:community-microscope-assembly](/tag/activity:community-microscope-assembly), [raspberry-pi-microscope](/tag/raspberry-pi-microscope), [raspberrypi-microscope](/tag/raspberrypi-microscope)
 
 ----
 

@@ -6,18 +6,16 @@ author: DustinBlock
 path: /notes/DustinBlock/02-09-2015/photosynq-in-detroit.md
 nid: 11569
 uid: 435046
-
 cids: 11148
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/878/original/IMG_4168.JPG)
 
 # PhotosynQ in Detroit 
 
-by [DustinBlock](../../../profile/DustinBlock) | February 09, 2015 20:19
+by [DustinBlock](/profile/DustinBlock) | February 09, 2015 20:19
 
-February 09, 2015 20:19 | Tags: [urban-ag](../tag/urban-ag), [photosynq](../tag/photosynq), [journalism](../tag/journalism), [midwest](../tag/midwest), [detroit](../tag/detroit), [first-time-poster](../tag/first-time-poster)
+February 09, 2015 20:19 | Tags: [urban-ag](/tag/urban-ag), [photosynq](/tag/photosynq), [journalism](/tag/journalism), [midwest](/tag/midwest), [detroit](/tag/detroit), [first-time-poster](/tag/first-time-poster)
 
 ----
 

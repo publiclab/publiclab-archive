@@ -6,18 +6,16 @@ author: bhamster
 path: /notes/bhamster/07-23-2021/reviewing-and-refreshing-the-topic-of-wastewater.md
 nid: 27265
 uid: 664477
-
 cids: 29057
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/470/original/Wastewater_effluent_copy.jpg)
 
 # Reviewing and refreshing the topic of wastewater
 
-by [bhamster](../../../profile/bhamster) | July 23, 2021 17:14
+by [bhamster](/profile/bhamster) | July 23, 2021 17:14
 
-July 23, 2021 17:14 | Tags: [sewage](../tag/sewage), [research](../tag/research), [water-quality](../tag/water-quality), [stormwater](../tag/stormwater), [wastewater](../tag/wastewater), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review), [with:alejobonifacio](../tag/with:alejobonifacio)
+July 23, 2021 17:14 | Tags: [sewage](/tag/sewage), [research](/tag/research), [water-quality](/tag/water-quality), [stormwater](/tag/stormwater), [wastewater](/tag/wastewater), [reviews](/tag/reviews), [research-area-review](/tag/research-area-review), [with:alejobonifacio](/tag/with:alejobonifacio)
 
 ----
 

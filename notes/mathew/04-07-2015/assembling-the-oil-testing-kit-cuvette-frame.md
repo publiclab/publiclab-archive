@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/04-07-2015/assembling-the-oil-testing-kit-cuvette-frame.md
 nid: 11751
 uid: 4
-
 cids: 11483,12295,12297,12298,12300,12704,13085
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/620/original/IMG_20150407_150745.jpg)
 
 # Assembling the Oil Testing Kit Cuvette Frame
 
-by [mathew](../../../profile/mathew) | April 07, 2015 23:46
+by [mathew](/profile/mathew) | April 07, 2015 23:46
 
-April 07, 2015 23:46 | Tags: [spectrometry](../tag/spectrometry), [laser](../tag/laser), [fluorescence](../tag/fluorescence), [desktop-spectrometer](../tag/desktop-spectrometer), [dsk](../tag/dsk), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [oil-testing-kit](../tag/oil-testing-kit), [parent:oil-testing-kit](../tag/parent:oil-testing-kit), [405nm](../tag/405nm), [otk](../tag/otk)
+April 07, 2015 23:46 | Tags: [spectrometry](/tag/spectrometry), [laser](/tag/laser), [fluorescence](/tag/fluorescence), [desktop-spectrometer](/tag/desktop-spectrometer), [dsk](/tag/dsk), [desktop-spectrometry-kit](/tag/desktop-spectrometry-kit), [oil-testing-kit](/tag/oil-testing-kit), [parent:oil-testing-kit](/tag/parent:oil-testing-kit), [405nm](/tag/405nm), [otk](/tag/otk)
 
 ----
 

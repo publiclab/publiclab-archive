@@ -6,16 +6,14 @@ author: permaculturegardener
 path: /notes/permaculturegardener/09-26-2019/what-do-you-do-with-charcoal-from-a-water-filter.md
 nid: 21011
 uid: 623002
-
 cids: 25614,25622,25632,25646,25653,25708
-
 ---
 
 # What do you do with charcoal from a water filter?
 
-by [permaculturegardener](../../../profile/permaculturegardener) | September 26, 2019 18:43
+by [permaculturegardener](/profile/permaculturegardener) | September 26, 2019 18:43
 
-September 26, 2019 18:43 | Tags: [question:general](../tag/question:general), [question:waste](../tag/question:waste), [first-time-poster](../tag/first-time-poster), [question:hazardous-waste](../tag/question:hazardous-waste), [question:charcoal](../tag/question:charcoal)
+September 26, 2019 18:43 | Tags: [question:general](/tag/question:general), [question:waste](/tag/question:waste), [first-time-poster](/tag/first-time-poster), [question:hazardous-waste](/tag/question:hazardous-waste), [question:charcoal](/tag/question:charcoal)
 
 ----
 

@@ -6,16 +6,14 @@ author: DrC
 path: /notes/DrC/08-10-2018/best-low-cost-camera-for-indoor-plants.md
 nid: 16904
 uid: 545979
-
 cids: 20375,20378,23201
-
 ---
 
 # Best low cost camera for indoor plants?
 
-by [DrC](../../../profile/DrC) | August 10, 2018 04:27
+by [DrC](/profile/DrC) | August 10, 2018 04:27
 
-August 10, 2018 04:27 | Tags: [infragram](../tag/infragram), [question:infragram](../tag/question:infragram), [infrared-camera-conversion](../tag/infrared-camera-conversion), [question:infrared-camera-conversion](../tag/question:infrared-camera-conversion), [pin:question:infragram-challenges](../tag/pin:question:infragram-challenges)
+August 10, 2018 04:27 | Tags: [infragram](/tag/infragram), [question:infragram](/tag/question:infragram), [infrared-camera-conversion](/tag/infrared-camera-conversion), [question:infrared-camera-conversion](/tag/question:infrared-camera-conversion), [pin:question:infragram-challenges](/tag/pin:question:infragram-challenges)
 
 ----
 

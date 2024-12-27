@@ -6,16 +6,16 @@ author: liz
 path: /wiki/stereo-camera.md
 nid: 47
 uid: 7
-
+cids: 
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0585.JPG)
 
 # Stereo Camera
 
-by [mathew](../profile/mathew), [Shannon](../profile/Shannon), [warren](../profile/warren), [sara](../profile/sara), [liz](../profile/liz)
+by [mathew](/profile/mathew), [Shannon](/profile/Shannon), [warren](/profile/warren), [sara](/profile/sara), [liz](/profile/liz)
 
-January 10, 2011 19:23 | Tags: [dual-camera](../tag/dual-camera), [agriculture](../tag/agriculture), [photo-rig](../tag/photo-rig), [urban-planning](../tag/urban-planning), [tool](../tag/tool), [stereo](../tag/stereo), [land-use](../tag/land-use), [method](../tag/method), [land-change](../tag/land-change)
+January 10, 2011 19:23 | Tags: [dual-camera](/tag/dual-camera), [agriculture](/tag/agriculture), [photo-rig](/tag/photo-rig), [urban-planning](/tag/urban-planning), [tool](/tag/tool), [stereo](/tag/stereo), [land-use](/tag/land-use), [method](/tag/method), [land-change](/tag/land-change)
 
 ----
 

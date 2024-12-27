@@ -6,16 +6,16 @@ author: liz
 path: /wiki/wetlands-toolkit.md
 nid: 11776
 uid: 7
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/733/original/IMG_1232.JPG)
 
 # Wetlands Toolkit
 
-by [gretchengehrke](../profile/gretchengehrke), [liz](../profile/liz), [Shannon](../profile/Shannon), [stevie](../profile/stevie)
+by [gretchengehrke](/profile/gretchengehrke), [liz](/profile/liz), [Shannon](/profile/Shannon), [stevie](/profile/stevie)
 
-April 30, 2015 18:49 | Tags: [wetlands](../tag/wetlands), [epa](../tag/epa), [pole-mapping](../tag/pole-mapping), [urbanwaters](../tag/urbanwaters), [wetlands-toolkit](../tag/wetlands-toolkit), [toolkit](../tag/toolkit), [workshop-series](../tag/workshop-series)
+April 30, 2015 18:49 | Tags: [wetlands](/tag/wetlands), [epa](/tag/epa), [pole-mapping](/tag/pole-mapping), [urbanwaters](/tag/urbanwaters), [wetlands-toolkit](/tag/wetlands-toolkit), [toolkit](/tag/toolkit), [workshop-series](/tag/workshop-series)
 
 ----
 

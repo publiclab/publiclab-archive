@@ -6,18 +6,16 @@ author: lilybui
 path: /notes/lilybui/10-16-2014/visualizing-riffle-ito-data.md
 nid: 11271
 uid: 420662
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/454/original/20141015_132222.jpg)
 
 # Visualizing Riffle-ito data
 
-by [lilybui](../../../profile/lilybui) | October 16, 2014 20:45
+by [lilybui](/profile/lilybui) | October 16, 2014 20:45
 
-October 16, 2014 20:45 | Tags: [riffle](../tag/riffle), [openwater](../tag/openwater), [sensor](../tag/sensor), [coqui](../tag/coqui), [sensor-journalism](../tag/sensor-journalism), [dataviz](../tag/dataviz), [data-visualization](../tag/data-visualization), [presenting-data](../tag/presenting-data)
+October 16, 2014 20:45 | Tags: [riffle](/tag/riffle), [openwater](/tag/openwater), [sensor](/tag/sensor), [coqui](/tag/coqui), [sensor-journalism](/tag/sensor-journalism), [dataviz](/tag/dataviz), [data-visualization](/tag/data-visualization), [presenting-data](/tag/presenting-data)
 
 ----
 

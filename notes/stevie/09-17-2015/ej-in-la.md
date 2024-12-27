@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/09-17-2015/ej-in-la.md
 nid: 12220
 uid: 422561
-
 cids: 12586
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/591/original/Baton_Rouge.png)
 
 # EJ in LA
 
-by [stevie](../../../profile/stevie) | September 17, 2015 20:21
+by [stevie](/profile/stevie) | September 17, 2015 20:21
 
-September 17, 2015 20:21 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [blog](../tag/blog), [gulfcoast](../tag/gulfcoast), [environmental-justice](../tag/environmental-justice)
+September 17, 2015 20:21 | Tags: [gulf-coast](/tag/gulf-coast), [louisiana](/tag/louisiana), [blog](/tag/blog), [gulfcoast](/tag/gulfcoast), [environmental-justice](/tag/environmental-justice)
 
 ----
 

@@ -6,18 +6,16 @@ author: abcieslik
 path: /notes/abcieslik/09-29-2014/emerson-college-jr-368-water-sample-data.md
 nid: 11206
 uid: 428083
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/094/original/IMG_4978.JPG)
 
 # Emerson College JR-368 Water Sample Data
 
-by [abcieslik](../../../profile/abcieslik) | September 29, 2014 20:44
+by [abcieslik](/profile/abcieslik) | September 29, 2014 20:44
 
-September 29, 2014 20:44 | Tags: [first-time-poster](../tag/first-time-poster)
+September 29, 2014 20:44 | Tags: [first-time-poster](/tag/first-time-poster)
 
 ----
 

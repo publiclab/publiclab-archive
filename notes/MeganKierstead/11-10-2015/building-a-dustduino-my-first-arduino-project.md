@@ -6,18 +6,16 @@ author: MeganKierstead
 path: /notes/MeganKierstead/11-10-2015/building-a-dustduino-my-first-arduino-project.md
 nid: 12400
 uid: 457273
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/722/original/DustDuinoSupplies.jpg)
 
 # Building a DustDuino -- My first Arduino project
 
-by [MeganKierstead](../../../profile/MeganKierstead) | November 10, 2015 23:37
+by [MeganKierstead](/profile/MeganKierstead) | November 10, 2015 23:37
 
-November 10, 2015 23:37 | Tags: [arduino](../tag/arduino), [diy](../tag/diy), [air-quality](../tag/air-quality), [sensors](../tag/sensors), [dustduino](../tag/dustduino), [shinyei](../tag/shinyei), [activity:shinyei](../tag/activity:shinyei), [activity:dustduino](../tag/activity:dustduino), [activity:pm](../tag/activity:pm), [activity:particulate-monitoring](../tag/activity:particulate-monitoring), [activity:arduino](../tag/activity:arduino), [replication:9818](../tag/replication:9818), [air-sensors](../tag/air-sensors)
+November 10, 2015 23:37 | Tags: [arduino](/tag/arduino), [diy](/tag/diy), [air-quality](/tag/air-quality), [sensors](/tag/sensors), [dustduino](/tag/dustduino), [shinyei](/tag/shinyei), [activity:shinyei](/tag/activity:shinyei), [activity:dustduino](/tag/activity:dustduino), [activity:pm](/tag/activity:pm), [activity:particulate-monitoring](/tag/activity:particulate-monitoring), [activity:arduino](/tag/activity:arduino), [replication:9818](/tag/replication:9818), [air-sensors](/tag/air-sensors)
 
 ----
 

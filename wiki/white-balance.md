@@ -6,14 +6,14 @@ author: warren
 path: /wiki/white-balance.md
 nid: 15088
 uid: 1
-
+cids: 
 ---
 
 # white-balance
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-October 23, 2017 23:03 | Tags: [redirect:8882](../tag/redirect:8882)
+October 23, 2017 23:03 | Tags: [redirect:8882](/tag/redirect:8882)
 
 ----
 

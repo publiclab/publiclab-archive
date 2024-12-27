@@ -6,16 +6,16 @@ author: mollydanielsson
 path: /wiki/protest-mapping-by-oscar-brett.md
 nid: 11689
 uid: 1259
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/314/original/229_MayDay2012_IMG_8403.jpg)
 
 # Protest Mapping by Oscar Brett
 
-by [mollydanielsson](../profile/mollydanielsson)
+by [mollydanielsson](/profile/mollydanielsson)
 
-March 19, 2015 01:02 | Tags: [balloon-mapping](../tag/balloon-mapping), [protest-mapping](../tag/protest-mapping), [photo-rig](../tag/photo-rig), [grassrootsmappingforum](../tag/grassrootsmappingforum), [style:fancy](../tag/style:fancy), [gmf-3](../tag/gmf-3), [with:oscarbrett](../tag/with:oscarbrett)
+March 19, 2015 01:02 | Tags: [balloon-mapping](/tag/balloon-mapping), [protest-mapping](/tag/protest-mapping), [photo-rig](/tag/photo-rig), [grassrootsmappingforum](/tag/grassrootsmappingforum), [style:fancy](/tag/style:fancy), [gmf-3](/tag/gmf-3), [with:oscarbrett](/tag/with:oscarbrett)
 
 ----
 

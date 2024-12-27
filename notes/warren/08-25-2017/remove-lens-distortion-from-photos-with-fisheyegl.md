@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/08-25-2017/remove-lens-distortion-from-photos-with-fisheyegl.md
 nid: 14792
 uid: 1
-
 cids: 17237,17238,17241,17281,17282,17328,19633,25055,31397
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/423/original/PublicLab_copy.png)
 
 # Remove lens distortion from photos with FisheyeGL
 
-by [warren](../../../profile/warren) | August 25, 2017 16:04
+by [warren](/profile/warren) | August 25, 2017 16:04
 
-August 25, 2017 16:04 | Tags: [nasa](../tag/nasa), [infragram](../tag/infragram), [fisheye](../tag/fisheye), [gopro](../tag/gopro), [mobius](../tag/mobius), [mobius-action-cam](../tag/mobius-action-cam), [javascript](../tag/javascript), [lens-distortion](../tag/lens-distortion), [web-based](../tag/web-based), [browser](../tag/browser), [activity:mobius](../tag/activity:mobius), [activity:mini-balloon-kit](../tag/activity:mini-balloon-kit), [activity:mini-kite-kit](../tag/activity:mini-kite-kit), [activity:aerial-mapping](../tag/activity:aerial-mapping), [response:13826](../tag/response:13826), [activity:lens-distortion](../tag/activity:lens-distortion), [aren](../tag/aren), [lens-swapping](../tag/lens-swapping), [lens-correction](../tag/lens-correction), [activity:lens-correction](../tag/activity:lens-correction), [activity:mobius-action-cam](../tag/activity:mobius-action-cam), [activity:infragram-point-shoot](../tag/activity:infragram-point-shoot), [mini-camera](../tag/mini-camera), [activity:mini-camera](../tag/activity:mini-camera)
+August 25, 2017 16:04 | Tags: [nasa](/tag/nasa), [infragram](/tag/infragram), [fisheye](/tag/fisheye), [gopro](/tag/gopro), [mobius](/tag/mobius), [mobius-action-cam](/tag/mobius-action-cam), [javascript](/tag/javascript), [lens-distortion](/tag/lens-distortion), [web-based](/tag/web-based), [browser](/tag/browser), [activity:mobius](/tag/activity:mobius), [activity:mini-balloon-kit](/tag/activity:mini-balloon-kit), [activity:mini-kite-kit](/tag/activity:mini-kite-kit), [activity:aerial-mapping](/tag/activity:aerial-mapping), [response:13826](/tag/response:13826), [activity:lens-distortion](/tag/activity:lens-distortion), [aren](/tag/aren), [lens-swapping](/tag/lens-swapping), [lens-correction](/tag/lens-correction), [activity:lens-correction](/tag/activity:lens-correction), [activity:mobius-action-cam](/tag/activity:mobius-action-cam), [activity:infragram-point-shoot](/tag/activity:infragram-point-shoot), [mini-camera](/tag/mini-camera), [activity:mini-camera](/tag/activity:mini-camera)
 
 ----
 

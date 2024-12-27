@@ -6,16 +6,14 @@ author: gretchengehrke
 path: /notes/gretchengehrke/02-04-2015/hydrocarbon-standard-samples-for-kits.md
 nid: 11553
 uid: 430549
-
 cids: 11131,11140,11155,12726
-
 ---
 
 # Hydrocarbon standard samples for kits
 
-by [gretchengehrke](../../../profile/gretchengehrke) | February 04, 2015 22:15
+by [gretchengehrke](/profile/gretchengehrke) | February 04, 2015 22:15
 
-February 04, 2015 22:15 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [oil-testing-kit](../tag/oil-testing-kit), [samples](../tag/samples), [first-time-poster](../tag/first-time-poster)
+February 04, 2015 22:15 | Tags: [spectrometer](/tag/spectrometer), [oil](/tag/oil), [oil-testing-kit](/tag/oil-testing-kit), [samples](/tag/samples), [first-time-poster](/tag/first-time-poster)
 
 ----
 

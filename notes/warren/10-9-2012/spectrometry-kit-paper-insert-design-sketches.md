@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/10-9-2012/spectrometry-kit-paper-insert-design-sketches.md
 nid: 4286
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/spec-insert-design.jpg)
 
 # Spectrometry kit paper insert design sketches
 
-by [warren](../../../profile/warren) | October 09, 2012 16:59
+by [warren](/profile/warren) | October 09, 2012 16:59
 
-October 09, 2012 16:59 | Tags: [spectrometer](../tag/spectrometer)
+October 09, 2012 16:59 | Tags: [spectrometer](/tag/spectrometer)
 
 ----
 

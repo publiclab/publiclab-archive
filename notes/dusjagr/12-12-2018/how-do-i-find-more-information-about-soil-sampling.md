@@ -6,16 +6,14 @@ author: dusjagr
 path: /notes/dusjagr/12-12-2018/how-do-i-find-more-information-about-soil-sampling.md
 nid: 17880
 uid: 46795
-
 cids: 21499,21515,21516,23665,26766
-
 ---
 
 # How do I... find more information about soil sampling
 
-by [dusjagr](../../../profile/dusjagr) | December 12, 2018 19:31
+by [dusjagr](/profile/dusjagr) | December 12, 2018 19:31
 
-December 12, 2018 19:31 | Tags: [soil-sampling](../tag/soil-sampling), [question:soil-sampling](../tag/question:soil-sampling), [question:soil](../tag/question:soil)
+December 12, 2018 19:31 | Tags: [soil-sampling](/tag/soil-sampling), [question:soil-sampling](/tag/question:soil-sampling), [question:soil](/tag/question:soil)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/2-19-2013/ircam-compact-wiring-prototype.md
 nid: 6057
 uid: 1
-
 cids: 3479
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20130218_181651_0.jpg)
 
 # IRCam compact wiring prototype
 
-by [warren](../../../profile/warren) | February 19, 2013 14:44
+by [warren](/profile/warren) | February 19, 2013 14:44
 
-February 19, 2013 14:44 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ircam](../tag/ircam)
+February 19, 2013 14:44 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ircam](/tag/ircam)
 
 ----
 

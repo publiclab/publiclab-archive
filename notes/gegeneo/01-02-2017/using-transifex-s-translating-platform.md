@@ -6,18 +6,16 @@ author: gegeneo
 path: /notes/gegeneo/01-02-2017/using-transifex-s-translating-platform.md
 nid: 13831
 uid: 501144
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/180/original/transifex.png)
 
 # Using Transifex's Translating Platform
 
-by [gegeneo](../../../profile/gegeneo) | January 02, 2017 20:49
+by [gegeneo](/profile/gegeneo) | January 02, 2017 20:49
 
-January 02, 2017 20:49 | Tags: [internationalization](../tag/internationalization), [translation](../tag/translation), [transifex](../tag/transifex), [first-time-poster](../tag/first-time-poster)
+January 02, 2017 20:49 | Tags: [internationalization](/tag/internationalization), [translation](/tag/translation), [transifex](/tag/transifex), [first-time-poster](/tag/first-time-poster)
 
 ----
 

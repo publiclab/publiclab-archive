@@ -6,18 +6,16 @@ author: shivangi019717
 path: /notes/shivangi019717/04-21-2022/outreachy-proposal-designing-a-whole-new-user-interface-for-infragram-website.md
 nid: 30549
 uid: 796011
-
 cids: 30113
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/357/original/my_wrireframe.png)
 
 # Outreachy proposal:  Designing a whole new user-interface for Infragram website
 
-by [shivangi019717](../../../profile/shivangi019717) | April 21, 2022 18:51
+by [shivangi019717](/profile/shivangi019717) | April 21, 2022 18:51
 
-April 21, 2022 18:51 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
+April 21, 2022 18:51 | Tags: [software](/tag/software), [outreachy](/tag/outreachy), [first-time-poster](/tag/first-time-poster), [outreachy-2022](/tag/outreachy-2022), [outreachy-summer-2022](/tag/outreachy-summer-2022)
 
 ----
 

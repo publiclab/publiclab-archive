@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/12-28-2013/live-webcam-infragramming-webgl-option.md
 nid: 9917
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/459/original/webcam.png)
 
 # Live webcam Infragramming, WebGL option
 
-by [warren](../../../profile/warren) | December 28, 2013 20:03
+by [warren](/profile/warren) | December 28, 2013 20:03
 
-December 28, 2013 20:03 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [infragram-sandbox](../tag/infragram-sandbox), [infragrammar](../tag/infragrammar), [webgl](../tag/webgl)
+December 28, 2013 20:03 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [infragram](/tag/infragram), [infragram-sandbox](/tag/infragram-sandbox), [infragrammar](/tag/infragrammar), [webgl](/tag/webgl)
 
 ----
 

@@ -6,18 +6,16 @@ author: alejobonifacio
 path: /notes/alejobonifacio/12-09-2021/como-mido-el-ph-de-una-solucion-con-un-repollo-morado-su-relacion-con-la-calidad-de-agua.md
 nid: 28413
 uid: 639376
-
 cids: 29510,29511
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/196/original/Actividad_repollo.png)
 
 # ¿Cómo mido el pH de una solución con un repollo morado? Su relación con la calidad de agua
 
-by [alejobonifacio](../../../profile/alejobonifacio) | December 09, 2021 20:33
+by [alejobonifacio](/profile/alejobonifacio) | December 09, 2021 20:33
 
-December 09, 2021 20:33 | Tags: [water-quality](../tag/water-quality), [lang:es](../tag/lang:es), [ph](../tag/ph), [activity:water-quality](../tag/activity:water-quality), [activity:ph](../tag/activity:ph), [zoom:6](../tag/zoom:6), [lon:-64](../tag/lon:-64), [lat:-31](../tag/lat:-31), [research-curation-fellows](../tag/research-curation-fellows)
+December 09, 2021 20:33 | Tags: [water-quality](/tag/water-quality), [lang:es](/tag/lang:es), [ph](/tag/ph), [activity:water-quality](/tag/activity:water-quality), [activity:ph](/tag/activity:ph), [zoom:6](/tag/zoom:6), [lon:-64](/tag/lon:-64), [lat:-31](/tag/lat:-31), [research-curation-fellows](/tag/research-curation-fellows)
 
 ----
 

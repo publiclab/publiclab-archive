@@ -6,18 +6,16 @@ author: tonyc
 path: /notes/tonyc/11-03-2015/pole-mapping-kit-ideas.md
 nid: 12360
 uid: 447491
-
 cids: 12843,12844,12923,13102,13103
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/376/original/IMG_3546.JPG)
 
 # pole mapping kit ideas
 
-by [tonyc](../../../profile/tonyc) | November 03, 2015 23:40
+by [tonyc](/profile/tonyc) | November 03, 2015 23:40
 
-November 03, 2015 23:40 | Tags: [polemapping](../tag/polemapping), [pole-photography](../tag/pole-photography), [pole-mapping](../tag/pole-mapping)
+November 03, 2015 23:40 | Tags: [polemapping](/tag/polemapping), [pole-photography](/tag/pole-photography), [pole-mapping](/tag/pole-mapping)
 
 ----
 

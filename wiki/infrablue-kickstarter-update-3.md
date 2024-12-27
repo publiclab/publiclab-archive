@@ -6,14 +6,14 @@ author: cfastie
 path: /wiki/infrablue-kickstarter-update-3.md
 nid: 7981
 uid: 554
-
+cids: 
 ---
 
 # Infrablue Kickstarter Update 3
 
-by [cfastie](../profile/cfastie)
+by [cfastie](/profile/cfastie)
 
-May 30, 2013 19:37 | Tags: [nrg](../tag/nrg), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [gigapan](../tag/gigapan)
+May 30, 2013 19:37 | Tags: [nrg](/tag/nrg), [ndvi](/tag/ndvi), [infrared](/tag/infrared), [gigapan](/tag/gigapan)
 
 ----
 

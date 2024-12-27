@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/7-19-2012/easy-cut-delta-kite-plans.md
 nid: 2874
 uid: 4
-
 cids: 6124,11452,19374,23995
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_5209_crop.jpg)
 
 # easy cut delta kite plans
 
-by [mathew](../../../profile/mathew) | July 19, 2012 07:26
+by [mathew](/profile/mathew) | July 19, 2012 07:26
 
-July 19, 2012 07:26 | Tags: [kite-mapping](../tag/kite-mapping), [easy-cut-delta](../tag/easy-cut-delta), [diy-kite](../tag/diy-kite), [difficulty:easy](../tag/difficulty:easy), [time:3h](../tag/time:3h), [category:build](../tag/category:build), [activity:aerial-photography](../tag/activity:aerial-photography), [activity:kite-mapping](../tag/activity:kite-mapping), [kite-making](../tag/kite-making), [activity:kite-making](../tag/activity:kite-making)
+July 19, 2012 07:26 | Tags: [kite-mapping](/tag/kite-mapping), [easy-cut-delta](/tag/easy-cut-delta), [diy-kite](/tag/diy-kite), [difficulty:easy](/tag/difficulty:easy), [time:3h](/tag/time:3h), [category:build](/tag/category:build), [activity:aerial-photography](/tag/activity:aerial-photography), [activity:kite-mapping](/tag/activity:kite-mapping), [kite-making](/tag/kite-making), [activity:kite-making](/tag/activity:kite-making)
 
 ----
 

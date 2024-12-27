@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/03-27-2016/ph-adjustments-and-their-effects-when-taking-sample-spectra.md
 nid: 12895
 uid: 461120
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/246/original/rhd_b_methyl_b_samples_mar25.JPG)
 
 # Ph adjustments and their effects when taking sample spectra
 
-by [dhaffnersr](../../../profile/dhaffnersr) | March 27, 2016 15:39
+by [dhaffnersr](/profile/dhaffnersr) | March 27, 2016 15:39
 
 March 27, 2016 15:39 | Tags: 
 

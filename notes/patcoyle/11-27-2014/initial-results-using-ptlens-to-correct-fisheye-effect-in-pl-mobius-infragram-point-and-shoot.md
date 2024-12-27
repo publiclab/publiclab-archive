@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/11-27-2014/initial-results-using-ptlens-to-correct-fisheye-effect-in-pl-mobius-infragram-point-and-shoot.md
 nid: 11407
 uid: 77
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/124/original/Color_Index.jpg)
 
 # Initial results: Using PTLens to correct fisheye effect in PL Mobius Infragram Point and Shoot
 
-by [patcoyle](../../../profile/patcoyle) | November 27, 2014 02:04
+by [patcoyle](/profile/patcoyle) | November 27, 2014 02:04
 
-November 27, 2014 02:04 | Tags: [ndvi](../tag/ndvi), [infragram](../tag/infragram), [fisheye](../tag/fisheye), [fiji](../tag/fiji), [photomonitoring](../tag/photomonitoring), [lens-distortion](../tag/lens-distortion)
+November 27, 2014 02:04 | Tags: [ndvi](/tag/ndvi), [infragram](/tag/infragram), [fisheye](/tag/fisheye), [fiji](/tag/fiji), [photomonitoring](/tag/photomonitoring), [lens-distortion](/tag/lens-distortion)
 
 ----
 

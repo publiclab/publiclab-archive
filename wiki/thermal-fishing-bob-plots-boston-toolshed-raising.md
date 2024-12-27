@@ -6,16 +6,16 @@ author: sara
 path: /wiki/thermal-fishing-bob-plots-boston-toolshed-raising.md
 nid: 9820
 uid: 8
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/308/original/Screen_Shot_2013-11-24_at_5.39.56_PM.png)
 
 # Thermal Fishing Bob: PLOTS Boston Toolshed Raising
 
-by [sara](../profile/sara)
+by [sara](/profile/sara)
 
-November 24, 2013 22:32 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-imaging](../tag/thermal-imaging), [thermal-fishing-bob](../tag/thermal-fishing-bob), [glowdoodle](../tag/glowdoodle), [northeast](../tag/northeast)
+November 24, 2013 22:32 | Tags: [thermal-photography](/tag/thermal-photography), [thermal-imaging](/tag/thermal-imaging), [thermal-fishing-bob](/tag/thermal-fishing-bob), [glowdoodle](/tag/glowdoodle), [northeast](/tag/northeast)
 
 ----
 

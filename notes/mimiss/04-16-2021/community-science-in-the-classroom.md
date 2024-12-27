@@ -6,18 +6,16 @@ author: mimiss
 path: /notes/mimiss/04-16-2021/community-science-in-the-classroom.md
 nid: 26254
 uid: 579821
-
 cids: 28574,28575,28664,29577
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/320/original/Image_from_iOS_%283%29.jpg)
 
 # Community Science in the Classroom
 
-by [mimiss](../../../profile/mimiss) | April 16, 2021 02:52
+by [mimiss](/profile/mimiss) | April 16, 2021 02:52
 
-April 16, 2021 02:52 | Tags: [education](../tag/education), [classroom](../tag/classroom), [blog](../tag/blog), [community-science](../tag/community-science), [classroom-community-science](../tag/classroom-community-science), [with:purl](../tag/with:purl), [eeweek2021](../tag/eeweek2021)
+April 16, 2021 02:52 | Tags: [education](/tag/education), [classroom](/tag/classroom), [blog](/tag/blog), [community-science](/tag/community-science), [classroom-community-science](/tag/classroom-community-science), [with:purl](/tag/with:purl), [eeweek2021](/tag/eeweek2021)
 
 ----
 

@@ -6,14 +6,14 @@ author: amocorro
 path: /wiki/polycyclic-aromatic-hydrocarbons.md
 nid: 26804
 uid: 700923
-
+cids: 
 ---
 
 # polycyclic-aromatic-hydrocarbons
 
-by [amocorro](../profile/amocorro)
+by [amocorro](/profile/amocorro)
 
-June 09, 2021 19:02 | Tags: [polycyclic-aromatic-hydrocarbons](../tag/polycyclic-aromatic-hydrocarbons), [pahs](../tag/pahs)
+June 09, 2021 19:02 | Tags: [polycyclic-aromatic-hydrocarbons](/tag/polycyclic-aromatic-hydrocarbons), [pahs](/tag/pahs)
 
 ----
 

@@ -6,16 +6,14 @@ author: shakebameen
 path: /notes/shakebameen/04-04-2019/soc-proposal-sensor-data-upload-and-display-library.md
 nid: 18953
 uid: 581996
-
 cids: 
-
 ---
 
 # SoC proposal: Sensor data upload and display library
 
-by [shakebameen](../../../profile/shakebameen) | April 04, 2019 06:10
+by [shakebameen](/profile/shakebameen) | April 04, 2019 06:10
 
-April 04, 2019 06:10 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [first-time-poster](../tag/first-time-poster), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals)
+April 04, 2019 06:10 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [soc](/tag/soc), [response:13975](/tag/response:13975), [first-time-poster](/tag/first-time-poster), [rgsoc-2019](/tag/rgsoc-2019), [gsoc-2019](/tag/gsoc-2019), [soc-2019](/tag/soc-2019), [soc-2019-proposals](/tag/soc-2019-proposals)
 
 ----
 

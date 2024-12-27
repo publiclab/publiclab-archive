@@ -6,16 +6,14 @@ author: dgidon
 path: /notes/dgidon/02-22-2018/can-i-get-spatial-resolution-by-making-multiple-parallel-slits.md
 nid: 15799
 uid: 525802
-
 cids: 18593,18608,22949
-
 ---
 
 # Can I get spatial resolution by making multiple parallel slits?
 
-by [dgidon](../../../profile/dgidon) | February 22, 2018 04:39
+by [dgidon](/profile/dgidon) | February 22, 2018 04:39
 
-February 22, 2018 04:39 | Tags: [question:spectrometer](../tag/question:spectrometer)
+February 22, 2018 04:39 | Tags: [question:spectrometer](/tag/question:spectrometer)
 
 ----
 

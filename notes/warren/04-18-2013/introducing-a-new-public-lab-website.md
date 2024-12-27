@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/04-18-2013/introducing-a-new-public-lab-website.md
 nid: 6896
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/085/original/front.png)
 
 # Introducing a new Public Lab website
 
-by [warren](../../../profile/warren) | April 18, 2013 23:18
+by [warren](/profile/warren) | April 18, 2013 23:18
 
-April 18, 2013 23:18 | Tags: [website](../tag/website), [plots2](../tag/plots2), [beta-site](../tag/beta-site)
+April 18, 2013 23:18 | Tags: [website](/tag/website), [plots2](/tag/plots2), [beta-site](/tag/beta-site)
 
 ----
 

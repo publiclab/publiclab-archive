@@ -6,16 +6,14 @@ author: stefannibrasil
 path: /notes/stefannibrasil/03-09-2018/ideas-for-call-for-papers-page-what-would-be-important.md
 nid: 15908
 uid: 525300
-
 cids: 18846,18847,18848,18852,19139,22989,23000
-
 ---
 
 # Ideas for Call for papers page: What would be important?
 
-by [stefannibrasil](../../../profile/stefannibrasil) | March 09, 2018 22:20
+by [stefannibrasil](/profile/stefannibrasil) | March 09, 2018 22:20
 
-March 09, 2018 22:20 | Tags: [writing](../tag/writing), [writing-group](../tag/writing-group), [question:general](../tag/question:general), [collaborative-writing](../tag/collaborative-writing), [question:events](../tag/question:events), [question:papers](../tag/question:papers), [first-time-poster](../tag/first-time-poster)
+March 09, 2018 22:20 | Tags: [writing](/tag/writing), [writing-group](/tag/writing-group), [question:general](/tag/question:general), [collaborative-writing](/tag/collaborative-writing), [question:events](/tag/question:events), [question:papers](/tag/question:papers), [first-time-poster](/tag/first-time-poster)
 
 ----
 

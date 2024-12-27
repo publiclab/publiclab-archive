@@ -6,16 +6,16 @@ author: mathew
 path: /wiki/foldable-spec.md
 nid: 5215
 uid: 4
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/361/original/8272501815_cd43a2b9be_o.jpg)
 
 # Foldable Spectrometry Starter Kit
 
-by [warren](../profile/warren), [abdul](../profile/abdul), [gretchengehrke](../profile/gretchengehrke), [liz](../profile/liz), [mathew](../profile/mathew)
+by [warren](/profile/warren), [abdul](/profile/abdul), [gretchengehrke](/profile/gretchengehrke), [liz](/profile/liz), [mathew](/profile/mathew)
 
-December 16, 2012 07:24 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter), [spectrometry](../tag/spectrometry), [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer), [how-to](../tag/how-to), [kit](../tag/kit), [fold-up](../tag/fold-up), [guide](../tag/guide), [foldable](../tag/foldable), [papercraft](../tag/papercraft), [parent:papercraft-spectrometer](../tag/parent:papercraft-spectrometer)
+December 16, 2012 07:24 | Tags: [spectrometer](/tag/spectrometer), [kickstarter](/tag/kickstarter), [spectrometry](/tag/spectrometry), [fold-up-mini-spectrometer](/tag/fold-up-mini-spectrometer), [how-to](/tag/how-to), [kit](/tag/kit), [fold-up](/tag/fold-up), [guide](/tag/guide), [foldable](/tag/foldable), [papercraft](/tag/papercraft), [parent:papercraft-spectrometer](/tag/parent:papercraft-spectrometer)
 
 ----
 
@@ -43,7 +43,7 @@ Most digital cameras can record light in the visible range, ~400-700 nanometers,
 
 ## Activities
 
-[foldable-spec](../../tag/activity:foldable-spec)
+[foldable-spec](/tag/activity:foldable-spec)
 
 ****
 
@@ -72,7 +72,7 @@ For questions about spectrometry in general, [see this FAQ](/wiki/spectrometry#F
 
 <a class="btn btn-primary" href="/post?tags=question:foldable-spec,question:spectrometry&template=question">Ask a question about the foldable spectrometer</a>
 
-[question:foldable-spec](../../tag/question:foldable-spec)
+[question:foldable-spec](/tag/question:foldable-spec)
 
 ****
 

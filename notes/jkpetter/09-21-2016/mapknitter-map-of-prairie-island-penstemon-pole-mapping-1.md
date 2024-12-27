@@ -6,18 +6,16 @@ author: jkpetter
 path: /notes/jkpetter/09-21-2016/mapknitter-map-of-prairie-island-penstemon-pole-mapping-1.md
 nid: 13469
 uid: 489340
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/117/original/IMG_0001.JPG)
 
 # MapKnitter map of Prairie Island Penstemon Pole Mapping 1
 
-by [jkpetter](../../../profile/jkpetter) | September 21, 2016 22:04
+by [jkpetter](/profile/jkpetter) | September 21, 2016 22:04
 
-September 21, 2016 22:04 | Tags: [mapknitter](../tag/mapknitter), [north-carolina](../tag/north-carolina), [southeast](../tag/southeast), [durham](../tag/durham), [lat:35.9894642657](../tag/lat:35.9894642657), [lon:-78.9068877697](../tag/lon:-78.9068877697)
+September 21, 2016 22:04 | Tags: [mapknitter](/tag/mapknitter), [north-carolina](/tag/north-carolina), [southeast](/tag/southeast), [durham](/tag/durham), [lat:35.9894642657](/tag/lat:35.9894642657), [lon:-78.9068877697](/tag/lon:-78.9068877697)
 
 ----
 

@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/08-19-2021/announcing-our-newest-fellowship-team-project.md
 nid: 27602
 uid: 422561
-
 cids: 29180,29188
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/683/original/middleridge_%281%29.jpg)
 
 # Announcing our newest Fellowship Team project! 
 
-by [stevie](../../../profile/stevie) | August 19, 2021 17:19
+by [stevie](/profile/stevie) | August 19, 2021 17:19
 
-August 19, 2021 17:19 | Tags: [drones](../tag/drones), [coal-mining](../tag/coal-mining), [documentation](../tag/documentation), [aerial-photography](../tag/aerial-photography), [west-virginia](../tag/west-virginia), [organizing](../tag/organizing), [mountaintop-removal](../tag/mountaintop-removal), [blog](../tag/blog), [coal](../tag/coal), [legal](../tag/legal), [jobs](../tag/jobs), [fellows](../tag/fellows), [permits](../tag/permits), [oil-and-gas](../tag/oil-and-gas), [permitting](../tag/permitting), [policy](../tag/policy), [law](../tag/law), [felllowship-team](../tag/felllowship-team), [with:junior_walk1337](../tag/with:junior_walk1337)
+August 19, 2021 17:19 | Tags: [drones](/tag/drones), [coal-mining](/tag/coal-mining), [documentation](/tag/documentation), [aerial-photography](/tag/aerial-photography), [west-virginia](/tag/west-virginia), [organizing](/tag/organizing), [mountaintop-removal](/tag/mountaintop-removal), [blog](/tag/blog), [coal](/tag/coal), [legal](/tag/legal), [jobs](/tag/jobs), [fellows](/tag/fellows), [permits](/tag/permits), [oil-and-gas](/tag/oil-and-gas), [permitting](/tag/permitting), [policy](/tag/policy), [law](/tag/law), [felllowship-team](/tag/felllowship-team), [with:junior_walk1337](/tag/with:junior_walk1337)
 
 ----
 

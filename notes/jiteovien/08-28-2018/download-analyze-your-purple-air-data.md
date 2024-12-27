@@ -6,18 +6,16 @@ author: jiteovien
 path: /notes/jiteovien/08-28-2018/download-analyze-your-purple-air-data.md
 nid: 17007
 uid: 540008
-
 cids: 21785,21804,21808,21809,21810,21815,25623,25624,25924,25927,26419,26420,26421,26423,26424,28071,28103,28104,28111
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/367/original/Screen_Shot_2018-08-28_at_12.19.30_PM.png)
 
 # Download & Analyze Purple Air data
 
-by [jiteovien](../../../profile/jiteovien) | August 28, 2018 16:27
+by [jiteovien](/profile/jiteovien) | August 28, 2018 16:27
 
-August 28, 2018 16:27 | Tags: [analysis](../tag/analysis), [air-quality](../tag/air-quality), [maps](../tag/maps), [dust](../tag/dust), [pm](../tag/pm), [seeks:replications](../tag/seeks:replications), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [activity:purpleair](../tag/activity:purpleair)
+August 28, 2018 16:27 | Tags: [analysis](/tag/analysis), [air-quality](/tag/air-quality), [maps](/tag/maps), [dust](/tag/dust), [pm](/tag/pm), [seeks:replications](/tag/seeks:replications), [air-sensors](/tag/air-sensors), [purpleair](/tag/purpleair), [activity:purpleair](/tag/activity:purpleair)
 
 ----
 

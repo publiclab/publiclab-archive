@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/07-01-2016/ideal-mechanisms-silly-putty-camera-rig.md
 nid: 13255
 uid: 4
-
 cids: 14848,14854
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/831/original/C01-01.gif)
 
 # ideal mechanisms & silly putty camera rig
 
-by [mathew](../../../profile/mathew) | July 01, 2016 23:25
+by [mathew](/profile/mathew) | July 01, 2016 23:25
 
-July 01, 2016 23:25 | Tags: [kite-mapping](../tag/kite-mapping), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [autokap](../tag/autokap), [kap-rigs](../tag/kap-rigs), [silly-putty](../tag/silly-putty), [reconfigurable-rig](../tag/reconfigurable-rig)
+July 01, 2016 23:25 | Tags: [kite-mapping](/tag/kite-mapping), [kap](/tag/kap), [photo-rig](/tag/photo-rig), [autokap](/tag/autokap), [kap-rigs](/tag/kap-rigs), [silly-putty](/tag/silly-putty), [reconfigurable-rig](/tag/reconfigurable-rig)
 
 ----
 

@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/11-22-2014/spherical-kap-over-cocodrie.md
 nid: 11385
 uid: 554
-
 cids: 10827,10896
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/070/original/Barn2014_1580.jpg)
 
 # Spherical KAP over Cocodrie
 
-by [cfastie](../../../profile/cfastie) | November 22, 2014 17:44
+by [cfastie](/profile/cfastie) | November 22, 2014 17:44
 
-November 22, 2014 17:44 | Tags: [kite-mapping](../tag/kite-mapping), [image-stitching](../tag/image-stitching), [kap](../tag/kap), [cocodrie](../tag/cocodrie), [barnraising](../tag/barnraising), [lumcon](../tag/lumcon), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [barnraising2014](../tag/barnraising2014)
+November 22, 2014 17:44 | Tags: [kite-mapping](/tag/kite-mapping), [image-stitching](/tag/image-stitching), [kap](/tag/kap), [cocodrie](/tag/cocodrie), [barnraising](/tag/barnraising), [lumcon](/tag/lumcon), [barnstar:photo-documentation](/tag/barnstar:photo-documentation), [barnraising2014](/tag/barnraising2014)
 
 ----
 

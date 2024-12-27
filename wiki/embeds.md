@@ -6,14 +6,14 @@ author: warren
 path: /wiki/embeds.md
 nid: 14169
 uid: 1
-
+cids: 
 ---
 
 # Embeds
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-May 09, 2017 16:19 | Tags: [maps](../tag/maps), [activities](../tag/activities), [embeds](../tag/embeds)
+May 09, 2017 16:19 | Tags: [maps](/tag/maps), [activities](/tag/activities), [embeds](/tag/embeds)
 
 ----
 

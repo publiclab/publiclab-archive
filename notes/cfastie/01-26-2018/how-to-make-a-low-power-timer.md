@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/01-26-2018/how-to-make-a-low-power-timer.md
 nid: 15616
 uid: 554
-
 cids: 18312
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/349/original/TPL_20180124-2578.JPG)
 
 # How to make a low power timer
 
-by [cfastie](../../../profile/cfastie) | January 26, 2018 03:51
+by [cfastie](/profile/cfastie) | January 26, 2018 03:51
 
-January 26, 2018 03:51 | Tags: [data-logging](../tag/data-logging), [activity:datalogger](../tag/activity:datalogger), [datalogging](../tag/datalogging), [mini-pearl-logger](../tag/mini-pearl-logger), [activity:mini-pearl-logger](../tag/activity:mini-pearl-logger), [tpl5110](../tag/tpl5110), [low-power-logging](../tag/low-power-logging), [log-a-long-timer](../tag/log-a-long-timer), [activity:log-a-long-timer](../tag/activity:log-a-long-timer)
+January 26, 2018 03:51 | Tags: [data-logging](/tag/data-logging), [activity:datalogger](/tag/activity:datalogger), [datalogging](/tag/datalogging), [mini-pearl-logger](/tag/mini-pearl-logger), [activity:mini-pearl-logger](/tag/activity:mini-pearl-logger), [tpl5110](/tag/tpl5110), [low-power-logging](/tag/low-power-logging), [log-a-long-timer](/tag/log-a-long-timer), [activity:log-a-long-timer](/tag/activity:log-a-long-timer)
 
 ----
 

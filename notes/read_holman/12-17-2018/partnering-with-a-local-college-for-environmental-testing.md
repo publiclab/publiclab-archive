@@ -6,16 +6,14 @@ author: read_holman
 path: /notes/read_holman/12-17-2018/partnering-with-a-local-college-for-environmental-testing.md
 nid: 17915
 uid: 540243
-
 cids: 
-
 ---
 
 # Partnering with a Local College for Environmental Testing
 
-by [read_holman](../../../profile/read_holman) | December 17, 2018 02:06
+by [read_holman](/profile/read_holman) | December 17, 2018 02:06
 
-December 17, 2018 02:06 | Tags: [education](../tag/education), [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [partnerships](../tag/partnerships), [lead](../tag/lead), [bucket-brigade](../tag/bucket-brigade), [soil-testing](../tag/soil-testing), [soil-quality](../tag/soil-quality), [parent:water-quality](../tag/parent:water-quality), [community-engagement](../tag/community-engagement), [bucket-monitor](../tag/bucket-monitor)
+December 17, 2018 02:06 | Tags: [education](/tag/education), [air-quality](/tag/air-quality), [water-quality](/tag/water-quality), [partnerships](/tag/partnerships), [lead](/tag/lead), [bucket-brigade](/tag/bucket-brigade), [soil-testing](/tag/soil-testing), [soil-quality](/tag/soil-quality), [parent:water-quality](/tag/parent:water-quality), [community-engagement](/tag/community-engagement), [bucket-monitor](/tag/bucket-monitor)
 
 ----
 

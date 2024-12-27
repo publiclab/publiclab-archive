@@ -6,16 +6,14 @@ author: amocorro
 path: /notes/amocorro/12-07-2020/are-you-sure-all-these-labs-have-the-special-apparatus-on-their-gc-ms-to-connect-the-tedlar-bag-for-bucket-tool-sampling.md
 nid: 25182
 uid: 700923
-
 cids: 27788
-
 ---
 
 # Do all these labs have the special apparatus on their GC/MS to connect the tedlar bag for Bucket tool sampling?
 
-by [amocorro](../../../profile/amocorro) | December 07, 2020 21:06
+by [amocorro](/profile/amocorro) | December 07, 2020 21:06
 
-December 07, 2020 21:06 | Tags: [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [bucket-monitor](../tag/bucket-monitor), [tedlar-bag](../tag/tedlar-bag), [bucket-monitoring](../tag/bucket-monitoring)
+December 07, 2020 21:06 | Tags: [air-quality](/tag/air-quality), [bucket-brigade](/tag/bucket-brigade), [bucket-monitor](/tag/bucket-monitor), [tedlar-bag](/tag/tedlar-bag), [bucket-monitoring](/tag/bucket-monitoring)
 
 ----
 

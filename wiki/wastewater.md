@@ -6,16 +6,16 @@ author: bhamster
 path: /wiki/wastewater.md
 nid: 27776
 uid: 664477
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/859/original/Suquia_storm_drain_copy.jpg)
 
 # Wastewater
 
-by [bhamster](../profile/bhamster)
+by [bhamster](/profile/bhamster)
 
-September 22, 2021 17:45 | Tags: [sewage](../tag/sewage), [water-quality](../tag/water-quality), [stormwater](../tag/stormwater), [wastewater](../tag/wastewater), [parent:water-quality](../tag/parent:water-quality)
+September 22, 2021 17:45 | Tags: [sewage](/tag/sewage), [water-quality](/tag/water-quality), [stormwater](/tag/stormwater), [wastewater](/tag/wastewater), [parent:water-quality](/tag/parent:water-quality)
 
 ----
 
@@ -90,7 +90,7 @@ You can also find stormwater-related projects here: [https://publiclab.org/wiki/
 
 Questions tagged with `question:wastewater` will appear here
 
-[wastewater](../../tag/question:wastewater)
+[wastewater](/tag/question:wastewater)
 
 <br>
 
@@ -116,7 +116,7 @@ The Public Lab community is here to support people as they plan and carry out in
 
 Here are some activities you might want to try when starting to research wastewater pollution.
 
-[grid:getting-started-wastewater](../../tag/grid:getting-started-wastewater)
+[grid:getting-started-wastewater](/tag/grid:getting-started-wastewater)
 
 <br>
 
@@ -192,7 +192,7 @@ On that page, you’ll find information on monitoring some water quality charact
 
 Activities on Public Lab that have been tagged with `activity:wastewater` will appear here
 
-[wastewater](../../tag/activity:wastewater)
+[wastewater](/tag/activity:wastewater)
 
 <br>
 

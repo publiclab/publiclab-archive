@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/04-25-2017/kite-mapping-barcelona.md
 nid: 14137
 uid: 495038
-
 cids: 16605,16608,16609,16665,16666,16667
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/184/original/forum.png)
 
 # Kite mapping Barcelona
 
-by [imvec](../../../profile/imvec) | April 25, 2017 08:37
+by [imvec](/profile/imvec) | April 25, 2017 08:37
 
-April 25, 2017 08:37 | Tags: [spain](../tag/spain), [event](../tag/event), [parent:kite-mapping](../tag/parent:kite-mapping), [activity:kite-mapping](../tag/activity:kite-mapping)
+April 25, 2017 08:37 | Tags: [spain](/tag/spain), [event](/tag/event), [parent:kite-mapping](/tag/parent:kite-mapping), [activity:kite-mapping](/tag/activity:kite-mapping)
 
 ----
 

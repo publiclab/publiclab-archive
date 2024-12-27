@@ -6,18 +6,16 @@ author: eymund
 path: /notes/eymund/05-14-2014/the-most-radioactive-place-in-new-york-city.md
 nid: 10472
 uid: 1016
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/278/original/Gowanus_Mutant_Ninja_Turtles_Nickolodeon.jpg)
 
 # The Most Radioactive Place in New York City
 
-by [eymund](../../../profile/eymund) | May 14, 2014 21:25
+by [eymund](/profile/eymund) | May 14, 2014 21:25
 
-May 14, 2014 21:25 | Tags: [gowanus](../tag/gowanus), [superfund-site](../tag/superfund-site), [queens](../tag/queens), [research](../tag/research), [superfund](../tag/superfund), [radiation](../tag/radiation), [water](../tag/water), [barnstar:basic](../tag/barnstar:basic), [ridgewood](../tag/ridgewood), [radioactive](../tag/radioactive)
+May 14, 2014 21:25 | Tags: [gowanus](/tag/gowanus), [superfund-site](/tag/superfund-site), [queens](/tag/queens), [research](/tag/research), [superfund](/tag/superfund), [radiation](/tag/radiation), [water](/tag/water), [barnstar:basic](/tag/barnstar:basic), [ridgewood](/tag/ridgewood), [radioactive](/tag/radioactive)
 
 ----
 

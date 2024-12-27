@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/07-29-2013/waterchestnut-nrg.md
 nid: 8937
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/944/original/IMG_7344_NRGenh1800.jpg)
 
 # Water chestnut NRG
 
-by [cfastie](../../../profile/cfastie) | July 29, 2013 04:30
+by [cfastie](/profile/cfastie) | July 29, 2013 04:30
 
-July 29, 2013 04:30 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [nrg](../tag/nrg), [vermont](../tag/vermont), [lake](../tag/lake), [gps](../tag/gps), [pvos](../tag/pvos), [event](../tag/event), [massachusetts](../tag/massachusetts), [google-earth](../tag/google-earth), [invasive](../tag/invasive), [umass-amherst](../tag/umass-amherst), [aquatic](../tag/aquatic), [usfws](../tag/usfws), [classification](../tag/classification), [response:8926](../tag/response:8926), [georeferencing](../tag/georeferencing), [h2onutz](../tag/h2onutz), [response:8928](../tag/response:8928), [gigapan](../tag/gigapan), [invasives](../tag/invasives), [waterchestnuts](../tag/waterchestnuts), [invasive-species](../tag/invasive-species)
+July 29, 2013 04:30 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [nrg](/tag/nrg), [vermont](/tag/vermont), [lake](/tag/lake), [gps](/tag/gps), [pvos](/tag/pvos), [event](/tag/event), [massachusetts](/tag/massachusetts), [google-earth](/tag/google-earth), [invasive](/tag/invasive), [umass-amherst](/tag/umass-amherst), [aquatic](/tag/aquatic), [usfws](/tag/usfws), [classification](/tag/classification), [response:8926](/tag/response:8926), [georeferencing](/tag/georeferencing), [h2onutz](/tag/h2onutz), [response:8928](/tag/response:8928), [gigapan](/tag/gigapan), [invasives](/tag/invasives), [waterchestnuts](/tag/waterchestnuts), [invasive-species](/tag/invasive-species)
 
 ----
 

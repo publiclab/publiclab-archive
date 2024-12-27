@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/10-06-2017/scenes-from-a-leaffest.md
 nid: 15004
 uid: 554
-
 cids: 17499,17500
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/889/original/leaf2017_20171001-1188.JPG)
 
 # Scenes from a LEAFFEST
 
-by [cfastie](../../../profile/cfastie) | October 06, 2017 03:34
+by [cfastie](/profile/cfastie) | October 06, 2017 03:34
 
-October 06, 2017 03:34 | Tags: [vermont](../tag/vermont), [leaffest](../tag/leaffest), [leaffest2017](../tag/leaffest2017)
+October 06, 2017 03:34 | Tags: [vermont](/tag/vermont), [leaffest](/tag/leaffest), [leaffest2017](/tag/leaffest2017)
 
 ----
 
@@ -60,4 +58,4 @@ Thanks to Public Lab for sponsoring another LEAFFEST. It makes a really big diff
 
 Below are research notes and questions posted about LEAFFEST 2017\. Some of the questions have been answered, but some are mostly for organizing the agenda and some are more or less rhetorical.
 
-\[leaffest2017\](../../tag/leaffest2017\)
+\[leaffest2017\](/tag/leaffest2017\)

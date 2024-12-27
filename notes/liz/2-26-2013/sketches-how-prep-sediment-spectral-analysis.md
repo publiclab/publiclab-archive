@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/2-26-2013/sketches-how-prep-sediment-spectral-analysis.md
 nid: 6125
 uid: 7
-
 cids: 3561,3562
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20130226_101133.jpg)
 
 # Sketches for how-to-prep sediment for spectral analysis
 
-by [liz](../../../profile/liz) | February 26, 2013 15:18
+by [liz](/profile/liz) | February 26, 2013 15:18
 
-February 26, 2013 15:18 | Tags: [spectroscopy](../tag/spectroscopy), [illustrated-guides](../tag/illustrated-guides)
+February 26, 2013 15:18 | Tags: [spectroscopy](/tag/spectroscopy), [illustrated-guides](/tag/illustrated-guides)
 
 ----
 

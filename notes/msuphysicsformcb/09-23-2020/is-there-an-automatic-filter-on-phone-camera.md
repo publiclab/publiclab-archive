@@ -6,16 +6,14 @@ author: msuphysicsformcb
 path: /notes/msuphysicsformcb/09-23-2020/is-there-an-automatic-filter-on-phone-camera.md
 nid: 24637
 uid: 720360
-
 cids: 27402,27575
-
 ---
 
 # Is there an automatic filter on phone camera?
 
-by [msuphysicsformcb](../../../profile/msuphysicsformcb) | September 23, 2020 23:09
+by [msuphysicsformcb](/profile/msuphysicsformcb) | September 23, 2020 23:09
 
-September 23, 2020 23:09 | Tags: [spectrometer](../tag/spectrometer), [question:spectrometer](../tag/question:spectrometer), [dvd](../tag/dvd), [question:general](../tag/question:general), [general](../tag/general), [question:dvd](../tag/question:dvd)
+September 23, 2020 23:09 | Tags: [spectrometer](/tag/spectrometer), [question:spectrometer](/tag/question:spectrometer), [dvd](/tag/dvd), [question:general](/tag/question:general), [general](/tag/general), [question:dvd](/tag/question:dvd)
 
 ----
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/soda-bottle-rig.md
 nid: 314
 uid: 1
-
+cids: 
 ---
 
 # Soda Bottle Rig
 
-by [warren](../profile/warren), [mathew](../profile/mathew)
+by [warren](/profile/warren), [mathew](/profile/mathew)
 
-June 01, 2011 19:50 | Tags: [photo-rig](../tag/photo-rig), [soda-bottle](../tag/soda-bottle), [camera-housing](../tag/camera-housing)
+June 01, 2011 19:50 | Tags: [photo-rig](/tag/photo-rig), [soda-bottle](/tag/soda-bottle), [camera-housing](/tag/camera-housing)
 
 ----
 

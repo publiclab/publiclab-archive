@@ -6,16 +6,14 @@ author: jjroper
 path: /notes/jjroper/06-15-2018/will-this-gadget-work-for-spectrophotometry.md
 nid: 16510
 uid: 538367
-
 cids: 19825,23122
-
 ---
 
 # Will this gadget work for spectrophotometry?
 
-by [jjroper](../../../profile/jjroper) | June 15, 2018 21:01
+by [jjroper](/profile/jjroper) | June 15, 2018 21:01
 
-June 15, 2018 21:01 | Tags: [spectrometry](../tag/spectrometry), [tool](../tag/tool), [question:general](../tag/question:general), [method](../tag/method), [chemicals](../tag/chemicals), [oil-and-gas](../tag/oil-and-gas), [solid](../tag/solid)
+June 15, 2018 21:01 | Tags: [spectrometry](/tag/spectrometry), [tool](/tag/tool), [question:general](/tag/question:general), [method](/tag/method), [chemicals](/tag/chemicals), [oil-and-gas](/tag/oil-and-gas), [solid](/tag/solid)
 
 ----
 

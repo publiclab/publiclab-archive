@@ -6,14 +6,14 @@ author: warren
 path: /wiki/thermal-fishing-bob.md
 nid: 632
 uid: 1
-
+cids: 
 ---
 
 # Thermal fishing bob
 
-by [warren](../profile/warren), [donblair](../profile/donblair), [liz](../profile/liz)
+by [warren](/profile/warren), [donblair](/profile/donblair), [liz](/profile/liz)
 
-December 13, 2011 17:23 | Tags: [thermal-fishing-bob](../tag/thermal-fishing-bob), [parent:thermal-photography](../tag/parent:thermal-photography)
+December 13, 2011 17:23 | Tags: [thermal-fishing-bob](/tag/thermal-fishing-bob), [parent:thermal-photography](/tag/parent:thermal-photography)
 
 ----
 
@@ -21,12 +21,12 @@ This variation on the [thermal flashlight](/tool/thermal-camera) uses a cheaper 
 
 ## Questions
 
-[thermal-fishing-bob](../../tag/question:thermal-fishing-bob)
+[thermal-fishing-bob](/tag/question:thermal-fishing-bob)
 
 
 ## Activities
 
-[thermal-fishing-bob](../../tag/activity:thermal-fishing-bob)
+[thermal-fishing-bob](/tag/activity:thermal-fishing-bob)
 
 ****
 

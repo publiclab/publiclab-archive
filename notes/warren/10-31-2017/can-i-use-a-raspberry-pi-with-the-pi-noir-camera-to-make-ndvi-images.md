@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/10-31-2017/can-i-use-a-raspberry-pi-with-the-pi-noir-camera-to-make-ndvi-images.md
 nid: 15135
 uid: 1
-
 cids: 22702,23283
-
 ---
 
 # Can I use a Raspberry Pi with the Pi Noir camera to make NDVI images?
 
-by [warren](../../../profile/warren) | October 31, 2017 17:00
+by [warren](/profile/warren) | October 31, 2017 17:00
 
-October 31, 2017 17:00 | Tags: [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [infragram-filters](../tag/infragram-filters), [question:infragram](../tag/question:infragram), [pi-camera](../tag/pi-camera), [pi-noir](../tag/pi-noir), [multispectral-imaging](../tag/multispectral-imaging), [question:raspberry-pi](../tag/question:raspberry-pi), [question:pi-camera](../tag/question:pi-camera), [question:infragram-challenges](../tag/question:infragram-challenges), [raspberry-pi-infragram](../tag/raspberry-pi-infragram), [question:raspberry-pi-infragram](../tag/question:raspberry-pi-infragram)
+October 31, 2017 17:00 | Tags: [raspberry-pi](/tag/raspberry-pi), [infragram](/tag/infragram), [infragram-filters](/tag/infragram-filters), [question:infragram](/tag/question:infragram), [pi-camera](/tag/pi-camera), [pi-noir](/tag/pi-noir), [multispectral-imaging](/tag/multispectral-imaging), [question:raspberry-pi](/tag/question:raspberry-pi), [question:pi-camera](/tag/question:pi-camera), [question:infragram-challenges](/tag/question:infragram-challenges), [raspberry-pi-infragram](/tag/raspberry-pi-infragram), [question:raspberry-pi-infragram](/tag/question:raspberry-pi-infragram)
 
 ----
 

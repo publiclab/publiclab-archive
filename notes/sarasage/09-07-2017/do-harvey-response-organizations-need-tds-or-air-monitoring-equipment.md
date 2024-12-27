@@ -6,16 +6,14 @@ author: sarasage
 path: /notes/sarasage/09-07-2017/do-harvey-response-organizations-need-tds-or-air-monitoring-equipment.md
 nid: 14848
 uid: 451398
-
 cids: 
-
 ---
 
 # Do Harvey response organizations need TDS or air monitoring equipment?
 
-by [sarasage](../../../profile/sarasage) | September 07, 2017 21:53
+by [sarasage](/profile/sarasage) | September 07, 2017 21:53
 
-September 07, 2017 21:53 | Tags: [water-quality-monitoring](../tag/water-quality-monitoring), [air-quality](../tag/air-quality), [harvey](../tag/harvey), [question:harvey](../tag/question:harvey)
+September 07, 2017 21:53 | Tags: [water-quality-monitoring](/tag/water-quality-monitoring), [air-quality](/tag/air-quality), [harvey](/tag/harvey), [question:harvey](/tag/question:harvey)
 
 ----
 

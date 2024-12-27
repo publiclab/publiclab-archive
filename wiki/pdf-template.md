@@ -6,12 +6,12 @@ author: warren
 path: /wiki/pdf-template.md
 nid: 17362
 uid: 1
-
+cids: 
 ---
 
 # PDF template
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 October 23, 2018 17:23 | Tags: 
 

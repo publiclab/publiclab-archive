@@ -6,18 +6,16 @@ author: Juan
 path: /notes/juan/7-16-2012/fabanorth-arrow.md
 nid: 2824
 uid: 1310
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/FABAnorth.png)
 
 # FABAnorth arrow
 
-by [Juan](../../../profile/Juan) | July 16, 2012 18:08
+by [Juan](/profile/Juan) | July 16, 2012 18:08
 
-July 16, 2012 18:08 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [ground-control-points](../tag/ground-control-points), [svg](../tag/svg), [faba](../tag/faba)
+July 16, 2012 18:08 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [ground-control-points](/tag/ground-control-points), [svg](/tag/svg), [faba](/tag/faba)
 
 ----
 

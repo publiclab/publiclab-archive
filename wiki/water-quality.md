@@ -6,16 +6,16 @@ author: donblair
 path: /wiki/water-quality.md
 nid: 9937
 uid: 43651
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/698/original/KnowFlow_by_the_River_crop.jpg)
 
 # Water quality
 
-by [warren](../profile/warren), [liz](../profile/liz), [stevie](../profile/stevie), [vjpixel](../profile/vjpixel), [donblair](../profile/donblair)
+by [warren](/profile/warren), [liz](/profile/liz), [stevie](/profile/stevie), [vjpixel](/profile/vjpixel), [donblair](/profile/donblair)
 
-January 11, 2014 04:58 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [reagents](../tag/reagents)
+January 11, 2014 04:58 | Tags: [water-quality](/tag/water-quality), [water](/tag/water), [reagents](/tag/reagents)
 
 ----
 
@@ -23,7 +23,7 @@ Rivers, oceans, lakes, aquifers, groundwater, stormwater, urban canals, undergro
 
 ### Questions on Water Quality: 
 
-[water-quality](../../tag/question:water-quality)
+[water-quality](/tag/question:water-quality)
 
 ****
 
@@ -61,4 +61,4 @@ Also see this overview of 7 ways to monitorn water quality:
 
 ## Activities
 
-[water-quality](../../tag/activity:water-quality)
+[water-quality](/tag/activity:water-quality)

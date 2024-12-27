@@ -6,18 +6,16 @@ author: singhav
 path: /notes/singhav/04-07-2019/gsoc-proposal-mapknitter-upgrade-to-rails-6.md
 nid: 18992
 uid: 552080
-
 cids: 23741,23791
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/223/original/Upgrade.jpeg)
 
 # GSoC proposal: Mapknitter Upgrade to Rails 6
 
-by [singhav](../../../profile/singhav) | April 07, 2019 10:53
+by [singhav](/profile/singhav) | April 07, 2019 10:53
 
-April 07, 2019 10:53 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [lat:23.241346](../tag/lat:23.241346), [lon:72.421875](../tag/lon:72.421875)
+April 07, 2019 10:53 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [soc](/tag/soc), [response:13975](/tag/response:13975), [rgsoc-2019](/tag/rgsoc-2019), [gsoc-2019](/tag/gsoc-2019), [soc-2019](/tag/soc-2019), [soc-2019-proposals](/tag/soc-2019-proposals), [lat:23.241346](/tag/lat:23.241346), [lon:72.421875](/tag/lon:72.421875)
 
 ----
 

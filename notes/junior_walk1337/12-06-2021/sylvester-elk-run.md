@@ -6,18 +6,16 @@ author: junior_walk1337
 path: /notes/junior_walk1337/12-06-2021/sylvester-elk-run.md
 nid: 28335
 uid: 756318
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/299/original/Screen_Shot_2022-01-04_at_11.38.18_AM.png)
 
 # Sylvester/Elk Run
 
-by [junior_walk1337](../../../profile/junior_walk1337) | December 06, 2021 14:31
+by [junior_walk1337](/profile/junior_walk1337) | December 06, 2021 14:31
 
-December 06, 2021 14:31 | Tags: [drones](../tag/drones), [west-virginia](../tag/west-virginia), [water-quality](../tag/water-quality), [coal](../tag/coal), [zoom:7](../tag/zoom:7), [lat:38.010383](../tag/lat:38.010383), [lon:-81.557613](../tag/lon:-81.557613)
+December 06, 2021 14:31 | Tags: [drones](/tag/drones), [west-virginia](/tag/west-virginia), [water-quality](/tag/water-quality), [coal](/tag/coal), [zoom:7](/tag/zoom:7), [lat:38.010383](/tag/lat:38.010383), [lon:-81.557613](/tag/lon:-81.557613)
 
 ----
 

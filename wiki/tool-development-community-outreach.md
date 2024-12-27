@@ -6,16 +6,16 @@ author: stevie
 path: /wiki/tool-development-community-outreach.md
 nid: 12756
 uid: 422561
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/600/original/20150613_115418.jpg)
 
 # tool development community outreach 
 
-by [danbeavers](../profile/danbeavers), [stevie](../profile/stevie)
+by [danbeavers](/profile/danbeavers), [stevie](/profile/stevie)
 
-February 26, 2016 21:09 | Tags: [tool-focused](../tag/tool-focused), [tool-development](../tag/tool-development)
+February 26, 2016 21:09 | Tags: [tool-focused](/tag/tool-focused), [tool-development](/tag/tool-development)
 
 ----
 

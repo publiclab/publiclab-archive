@@ -6,16 +6,16 @@ author: warren
 path: /wiki/requests.md
 nid: 14956
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/829/original/IMG_20171206_145312.jpg)
 
 # Requests
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-September 26, 2017 14:45 | Tags: [community](../tag/community), [requests](../tag/requests)
+September 26, 2017 14:45 | Tags: [community](/tag/community), [requests](/tag/requests)
 
 ----
 
@@ -31,18 +31,18 @@ There are many different ways you can pitch in! We've compiled some below -- tak
 
 Here are some higher-priority requests we'd like to highlight:
 
-[featured-request](../../tag/featured-request)
+[featured-request](/tag/featured-request)
 
 ## Recent requests
 
-[requests](../../tag/activity:requests)
+[requests](/tag/activity:requests)
 
 
 ****
 
 ## Questions
 
-[requests](../../tag/question:requests)
+[requests](/tag/question:requests)
 
 ****
 

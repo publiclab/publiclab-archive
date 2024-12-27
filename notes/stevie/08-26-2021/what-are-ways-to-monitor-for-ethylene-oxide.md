@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/08-26-2021/what-are-ways-to-monitor-for-ethylene-oxide.md
 nid: 27625
 uid: 422561
-
 cids: 29200
-
 ---
 
 # What are ways to monitor for ethylene oxide?
 
-by [stevie](../../../profile/stevie) | August 26, 2021 18:53
+by [stevie](/profile/stevie) | August 26, 2021 18:53
 
-August 26, 2021 18:53 | Tags: [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [gas-monitoring](../tag/gas-monitoring), [question:general](../tag/question:general), [general](../tag/general), [question:gas-monitoring](../tag/question:gas-monitoring)
+August 26, 2021 18:53 | Tags: [air-quality](/tag/air-quality), [question:air-quality](/tag/question:air-quality), [gas-monitoring](/tag/gas-monitoring), [question:general](/tag/question:general), [general](/tag/general), [question:gas-monitoring](/tag/question:gas-monitoring)
 
 ----
 

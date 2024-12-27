@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/08-18-2013/windmeter-options-for-iphone-shaka-and-wind-meter.md
 nid: 9032
 uid: 77
-
 cids: 6677,6682,6684,6737
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/183/original/P1080566_crpd.jpg)
 
 # Windmeter options for iPhone - Shaka and Wind Meter
 
-by [patcoyle](../../../profile/patcoyle) | August 18, 2013 05:01
+by [patcoyle](/profile/patcoyle) | August 18, 2013 05:01
 
-August 18, 2013 05:01 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [iphone](../tag/iphone), [anemometer](../tag/anemometer), [wind-speed-meter](../tag/wind-speed-meter), [wind](../tag/wind), [wind-speed](../tag/wind-speed)
+August 18, 2013 05:01 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [iphone](/tag/iphone), [anemometer](/tag/anemometer), [wind-speed-meter](/tag/wind-speed-meter), [wind](/tag/wind), [wind-speed](/tag/wind-speed)
 
 ----
 

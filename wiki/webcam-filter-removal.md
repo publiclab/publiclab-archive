@@ -6,14 +6,14 @@ author: warren
 path: /wiki/webcam-filter-removal.md
 nid: 741
 uid: 1
-
+cids: 
 ---
 
 # Webcam filter removal
 
-by [warren](../profile/warren), [Shannon](../profile/Shannon), [saritawebcam](../profile/saritawebcam)
+by [warren](/profile/warren), [Shannon](/profile/Shannon), [saritawebcam](/profile/saritawebcam)
 
-February 02, 2012 14:56 | Tags: [spectrometer](../tag/spectrometer), [infrared](../tag/infrared), [webcam](../tag/webcam), [filter](../tag/filter), [ir-block](../tag/ir-block)
+February 02, 2012 14:56 | Tags: [spectrometer](/tag/spectrometer), [infrared](/tag/infrared), [webcam](/tag/webcam), [filter](/tag/filter), [ir-block](/tag/ir-block)
 
 ----
 

@@ -6,18 +6,16 @@ author: JSummers
 path: /notes/JSummers/01-28-2016/pencil-lead-works-well-as-an-electrode-material-in-lead-analysis.md
 nid: 12633
 uid: 304279
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/928/original/Pb-ASV-pencil.png)
 
 # Pencil lead works well as an electrode material in lead analysis
 
-by [JSummers](../../../profile/JSummers) | January 28, 2016 22:20
+by [JSummers](/profile/JSummers) | January 28, 2016 22:20
 
-January 28, 2016 22:20 | Tags: [potentiostat](../tag/potentiostat), [cheapstat](../tag/cheapstat), [tool](../tag/tool), [open-water](../tag/open-water), [lead](../tag/lead), [response:9932](../tag/response:9932), [pencil](../tag/pencil), [activity:potentiostat](../tag/activity:potentiostat), [lead-testing](../tag/lead-testing)
+January 28, 2016 22:20 | Tags: [potentiostat](/tag/potentiostat), [cheapstat](/tag/cheapstat), [tool](/tag/tool), [open-water](/tag/open-water), [lead](/tag/lead), [response:9932](/tag/response:9932), [pencil](/tag/pencil), [activity:potentiostat](/tag/activity:potentiostat), [lead-testing](/tag/lead-testing)
 
 ----
 

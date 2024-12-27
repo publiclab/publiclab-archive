@@ -6,18 +6,16 @@ author: ajawitz
 path: /notes/code4maine/10-07-2013/diy-time-machine.md
 nid: 9417
 uid: 294634
-
 cids: 7148,7346
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/798/original/PortableScanner.jpg)
 
 # DIY Time Machine
 
-by [ajawitz](../../../profile/ajawitz) | October 07, 2013 16:29
+by [ajawitz](/profile/ajawitz) | October 07, 2013 16:29
 
-October 07, 2013 16:29 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [archival](../tag/archival), [historic-imagery](../tag/historic-imagery), [maine](../tag/maine), [harpswell](../tag/harpswell), [first-time-poster](../tag/first-time-poster)
+October 07, 2013 16:29 | Tags: [balloon-mapping](/tag/balloon-mapping), [mapknitter](/tag/mapknitter), [archival](/tag/archival), [historic-imagery](/tag/historic-imagery), [maine](/tag/maine), [harpswell](/tag/harpswell), [first-time-poster](/tag/first-time-poster)
 
 ----
 

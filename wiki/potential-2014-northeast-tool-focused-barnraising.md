@@ -6,16 +6,16 @@ author: Hudonnoodles
 path: /wiki/potential-2014-northeast-tool-focused-barnraising.md
 nid: 10325
 uid: 102
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/979/original/coverimage-banner-01.png)
 
 # Potential 2014 Northeast Tool-focused Barnraising 
 
-by [Hudonnoodles](../profile/Hudonnoodles)
+by [Hudonnoodles](/profile/Hudonnoodles)
 
-April 17, 2014 20:41 | Tags: [barnraising](../tag/barnraising), [event](../tag/event), [massachusetts](../tag/massachusetts), [plymouth](../tag/plymouth), [tidmarsh](../tag/tidmarsh), [list:plots-barnraising](../tag/list:plots-barnraising), [northeast](../tag/northeast)
+April 17, 2014 20:41 | Tags: [barnraising](/tag/barnraising), [event](/tag/event), [massachusetts](/tag/massachusetts), [plymouth](/tag/plymouth), [tidmarsh](/tag/tidmarsh), [list:plots-barnraising](/tag/list:plots-barnraising), [northeast](/tag/northeast)
 
 ----
 

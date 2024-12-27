@@ -6,18 +6,16 @@ author: nedhorning
 path: /notes/nedhorning/06-30-2015/automating-ndvi-calibration.md
 nid: 12021
 uid: 133
-
 cids: 12053,12062,12063,12111,12112,12127,12135,12143,16210,16211,16216
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/483/original/iFarm2015-621-4.jpg)
 
 # Automating NDVI calibration
 
-by [nedhorning](../../../profile/nedhorning) | June 30, 2015 12:57
+by [nedhorning](/profile/nedhorning) | June 30, 2015 12:57
 
-June 30, 2015 12:57 | Tags: [ndvi](../tag/ndvi), [calibration](../tag/calibration), [infrared](../tag/infrared), [infragram](../tag/infragram), [response:10389](../tag/response:10389), [response:10607](../tag/response:10607), [ndvi-calibrate](../tag/ndvi-calibrate), [midopt](../tag/midopt)
+June 30, 2015 12:57 | Tags: [ndvi](/tag/ndvi), [calibration](/tag/calibration), [infrared](/tag/infrared), [infragram](/tag/infragram), [response:10389](/tag/response:10389), [response:10607](/tag/response:10607), [ndvi-calibrate](/tag/ndvi-calibrate), [midopt](/tag/midopt)
 
 ----
 

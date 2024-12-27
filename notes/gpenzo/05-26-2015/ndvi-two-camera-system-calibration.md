@@ -6,16 +6,14 @@ author: gpenzo
 path: /notes/gpenzo/05-26-2015/ndvi-two-camera-system-calibration.md
 nid: 11840
 uid: 420719
-
 cids: 11767,11769,20162,20168
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/013/original/pic)
 
 # NDVI two camera system calibration
 
-by [gpenzo](../../../profile/gpenzo) | May 26, 2015 21:25
+by [gpenzo](/profile/gpenzo) | May 26, 2015 21:25
 
 May 26, 2015 21:25 | Tags: 
 

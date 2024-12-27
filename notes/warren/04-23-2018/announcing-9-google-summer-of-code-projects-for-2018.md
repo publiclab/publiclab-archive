@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/04-23-2018/announcing-9-google-summer-of-code-projects-for-2018.md
 nid: 16197
 uid: 1
-
 cids: 19470,19471,19472,19473,19476,19477,19479,19480,19507,19576,19588,19643,19646,19662
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/695/original/Screenshot_2018-04-23_at_12.09.57_PM.png)
 
 # Announcing 10 Summer of Code projects for 2018
 
-by [warren](../../../profile/warren) | April 23, 2018 16:24
+by [warren](/profile/warren) | April 23, 2018 16:24
 
-April 23, 2018 16:24 | Tags: [gsoc](../tag/gsoc), [google](../tag/google), [blog](../tag/blog), [developers](../tag/developers), [code](../tag/code), [wwg](../tag/wwg), [soc](../tag/soc), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [software-](../tag/software-), [summer](../tag/summer)
+April 23, 2018 16:24 | Tags: [gsoc](/tag/gsoc), [google](/tag/google), [blog](/tag/blog), [developers](/tag/developers), [code](/tag/code), [wwg](/tag/wwg), [soc](/tag/soc), [gsoc-2018](/tag/gsoc-2018), [soc-2018](/tag/soc-2018), [software-](/tag/software-), [summer](/tag/summer)
 
 ----
 
@@ -34,7 +32,7 @@ Congratulations and thanks: @MaggPi, @Gauravano @namangupta @Vidit @tech4GT @mri
 
 See all the proposals here: [https://publiclab.org/notes/warren/02-15-2018/call-for-summer-of-code-2018-proposals](https://publiclab.org/notes/warren/02-15-2018/call-for-summer-of-code-2018-proposals)
 
-[gsoc-2018-final](../../tag/gsoc-2018-final)
+[gsoc-2018-final](/tag/gsoc-2018-final)
 
 We'd also like to thank those who have made it possible, through their supportive mentoring, for our community to see such successes -- including those who help (beyond coding) to shape the course of our software projects by proposing new features, and those who help to set the positive, welcoming tone that makes our project one which people want to join.
 

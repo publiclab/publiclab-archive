@@ -6,14 +6,14 @@ author: Shannon
 path: /wiki/public-lab-nonprofit-values.md
 nid: 14093
 uid: 9
-
+cids: 25014
 ---
 
 # Public Lab nonprofit values
 
-by [Shannon](../profile/Shannon)
+by [Shannon](/profile/Shannon)
 
-April 05, 2017 20:32 | Tags: [nonprofit](../tag/nonprofit), [values-statement](../tag/values-statement)
+April 05, 2017 20:32 | Tags: [nonprofit](/tag/nonprofit), [values-statement](/tag/values-statement)
 
 ----
 

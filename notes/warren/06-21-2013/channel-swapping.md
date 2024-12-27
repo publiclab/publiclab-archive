@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/06-21-2013/channel-swapping.md
 nid: 8353
 uid: 1
-
 cids: 5594
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/557/original/Screen_Shot_2013-06-21_at_11.00.36_AM.png)
 
 # Channel swapping
 
-by [warren](../../../profile/warren) | June 21, 2013 15:15
+by [warren](/profile/warren) | June 21, 2013 15:15
 
-June 21, 2013 15:15 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [response:8190](../tag/response:8190), [tests](../tag/tests), [response:8261](../tag/response:8261), [infragram-conversion](../tag/infragram-conversion)
+June 21, 2013 15:15 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [infrared](/tag/infrared), [infragram](/tag/infragram), [infrablue](/tag/infrablue), [response:8190](/tag/response:8190), [tests](/tag/tests), [response:8261](/tag/response:8261), [infragram-conversion](/tag/infragram-conversion)
 
 ----
 

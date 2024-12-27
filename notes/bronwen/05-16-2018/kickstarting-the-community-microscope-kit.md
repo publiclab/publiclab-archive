@@ -6,18 +6,16 @@ author: Bronwen
 path: /notes/bronwen/05-16-2018/kickstarting-the-community-microscope-kit.md
 nid: 16353
 uid: 237313
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/962/original/final.png)
 
 # Kickstarting the Community Microscope Kit!
 
-by [Bronwen](../../../profile/Bronwen) | May 16, 2018 12:13
+by [Bronwen](/profile/Bronwen) | May 16, 2018 12:13
 
-May 16, 2018 12:13 | Tags: [kickstarter](../tag/kickstarter), [microscope](../tag/microscope), [microscopes](../tag/microscopes), [community-kits](../tag/community-kits)
+May 16, 2018 12:13 | Tags: [kickstarter](/tag/kickstarter), [microscope](/tag/microscope), [microscopes](/tag/microscopes), [community-kits](/tag/community-kits)
 
 ----
 

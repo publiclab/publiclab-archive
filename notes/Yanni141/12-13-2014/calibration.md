@@ -6,14 +6,12 @@ author: Yanni141
 path: /notes/Yanni141/12-13-2014/calibration.md
 nid: 11454
 uid: 432520
-
 cids: 
-
 ---
 
 # Calibration
 
-by [Yanni141](../../../profile/Yanni141) | December 13, 2014 22:30
+by [Yanni141](/profile/Yanni141) | December 13, 2014 22:30
 
 December 13, 2014 22:30 | Tags: 
 

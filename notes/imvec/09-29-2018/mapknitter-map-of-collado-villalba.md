@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/09-29-2018/mapknitter-map-of-collado-villalba.md
 nid: 17189
 uid: 495038
-
 cids: 20761,20764,30297,30298
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/714/original/photo_2018-09-29_22-46-25.jpg)
 
 # MapKnitter map of Collado Villalba 
 
-by [imvec](../../../profile/imvec) | September 29, 2018 20:54
+by [imvec](/profile/imvec) | September 29, 2018 20:54
 
-September 29, 2018 20:54 | Tags: [mapknitter](../tag/mapknitter), [spain](../tag/spain), [river](../tag/river), [eu](../tag/eu), [ballon-mapping](../tag/ballon-mapping), [with:arturunderwater](../tag/with:arturunderwater), [with:xose](../tag/with:xose), [lat:40.6224872239](../tag/lat:40.6224872239), [lon:-3.9988517761](../tag/lon:-3.9988517761)
+September 29, 2018 20:54 | Tags: [mapknitter](/tag/mapknitter), [spain](/tag/spain), [river](/tag/river), [eu](/tag/eu), [ballon-mapping](/tag/ballon-mapping), [with:arturunderwater](/tag/with:arturunderwater), [with:xose](/tag/with:xose), [lat:40.6224872239](/tag/lat:40.6224872239), [lon:-3.9988517761](/tag/lon:-3.9988517761)
 
 ----
 

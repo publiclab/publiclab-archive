@@ -6,18 +6,16 @@ author: alejobonifacio
 path: /notes/alejobonifacio/02-01-2022/did-you-see-gray-hair-in-the-bottom-of-freshwater-bodies.md
 nid: 29038
 uid: 639376
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/333/original/PeloGrisActPortada.jpeg)
 
 # Did you see gray “hair” in the bottom of freshwater bodies?
 
-by [alejobonifacio](../../../profile/alejobonifacio) | February 01, 2022 15:39
+by [alejobonifacio](/profile/alejobonifacio) | February 01, 2022 15:39
 
-February 01, 2022 15:39 | Tags: [sewage](../tag/sewage), [water-quality](../tag/water-quality), [bacteria](../tag/bacteria), [new](../tag/new), [wastewater](../tag/wastewater), [activity:new](../tag/activity:new), [zoom:6](../tag/zoom:6), [lon:-64](../tag/lon:-64), [lat:-31](../tag/lat:-31), [research-curation-fellows](../tag/research-curation-fellows), [activity:wastewater](../tag/activity:wastewater)
+February 01, 2022 15:39 | Tags: [sewage](/tag/sewage), [water-quality](/tag/water-quality), [bacteria](/tag/bacteria), [new](/tag/new), [wastewater](/tag/wastewater), [activity:new](/tag/activity:new), [zoom:6](/tag/zoom:6), [lon:-64](/tag/lon:-64), [lat:-31](/tag/lat:-31), [research-curation-fellows](/tag/research-curation-fellows), [activity:wastewater](/tag/activity:wastewater)
 
 ----
 

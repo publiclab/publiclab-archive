@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/09-07-2017/wrapping-up-google-summer-of-code-2017-at-public-lab.md
 nid: 14847
 uid: 1
-
 cids: 17344
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/582/original/gsoc.jpg)
 
 # Wrapping up Google Summer of Code 2017 at Public Lab
 
-by [warren](../../../profile/warren) | September 07, 2017 21:51
+by [warren](/profile/warren) | September 07, 2017 21:51
 
-September 07, 2017 21:51 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [google](../tag/google), [google-summer-of-code](../tag/google-summer-of-code), [blog](../tag/blog), [code](../tag/code), [wwg](../tag/wwg), [response:13397](../tag/response:13397), [first-timers-only](../tag/first-timers-only), [software-outreach](../tag/software-outreach), [gsoc-2017](../tag/gsoc-2017), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [rgsoc-2017](../tag/rgsoc-2017), [response:13975](../tag/response:13975), [response:14788](../tag/response:14788), [response:14162](../tag/response:14162), [response:13910](../tag/response:13910), [summer-of-code](../tag/summer-of-code)
+September 07, 2017 21:51 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [google](/tag/google), [google-summer-of-code](/tag/google-summer-of-code), [blog](/tag/blog), [code](/tag/code), [wwg](/tag/wwg), [response:13397](/tag/response:13397), [first-timers-only](/tag/first-timers-only), [software-outreach](/tag/software-outreach), [gsoc-2017](/tag/gsoc-2017), [rgsoc](/tag/rgsoc), [soc](/tag/soc), [soc-2017](/tag/soc-2017), [rgsoc-2017](/tag/rgsoc-2017), [response:13975](/tag/response:13975), [response:14788](/tag/response:14788), [response:14162](/tag/response:14162), [response:13910](/tag/response:13910), [summer-of-code](/tag/summer-of-code)
 
 ----
 

@@ -6,16 +6,14 @@ author: J_tanna
 path: /notes/J_tanna/02-27-2017/image-calibration-for-ndvi.md
 nid: 13966
 uid: 502448
-
 cids: 
-
 ---
 
 # Image Calibration For NDVI 
 
-by [J_tanna](../../../profile/J_tanna) | February 27, 2017 09:56
+by [J_tanna](/profile/J_tanna) | February 27, 2017 09:56
 
-February 27, 2017 09:56 | Tags: [question:calibrate-ndvi](../tag/question:calibrate-ndvi)
+February 27, 2017 09:56 | Tags: [question:calibrate-ndvi](/tag/question:calibrate-ndvi)
 
 ----
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/new-orleans-stormwater-photo-upload.md
 nid: 14918
 uid: 1
-
+cids: 
 ---
 
 # New Orleans Stormwater Photo Upload
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-September 20, 2017 15:16 | Tags: [stormwater](../tag/stormwater), [parent:new-orleans-stormwater-project-data](../tag/parent:new-orleans-stormwater-project-data)
+September 20, 2017 15:16 | Tags: [stormwater](/tag/stormwater), [parent:new-orleans-stormwater-project-data](/tag/parent:new-orleans-stormwater-project-data)
 
 ----
 

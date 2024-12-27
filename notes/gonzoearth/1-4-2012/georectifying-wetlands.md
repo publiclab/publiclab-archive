@@ -6,18 +6,16 @@ author: gonzoearth
 path: /notes/gonzoearth/1-4-2012/georectifying-wetlands.md
 nid: 679
 uid: 12
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Capture_40.JPG)
 
 # Georectifying in the Wetlands
 
-by [gonzoearth](../../../profile/gonzoearth) | January 04, 2012 23:25
+by [gonzoearth](/profile/gonzoearth) | January 04, 2012 23:25
 
-January 04, 2012 23:25 | Tags: [wetlands](../tag/wetlands), [idealab](../tag/idealab), [barataria](../tag/barataria), [rectifying](../tag/rectifying), [lat:29.476067](../tag/lat:29.476067), [lon:-89.921722](../tag/lon:-89.921722), [place:wilkinson-bay-louisiana-usa](../tag/place:wilkinson-bay-louisiana-usa)
+January 04, 2012 23:25 | Tags: [wetlands](/tag/wetlands), [idealab](/tag/idealab), [barataria](/tag/barataria), [rectifying](/tag/rectifying), [lat:29.476067](/tag/lat:29.476067), [lon:-89.921722](/tag/lon:-89.921722), [place:wilkinson-bay-louisiana-usa](/tag/place:wilkinson-bay-louisiana-usa)
 
 ----
 

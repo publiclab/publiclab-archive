@@ -6,16 +6,14 @@ author: Dr_Z
 path: /notes/Dr_Z/12-27-2017/csv-files-from-spectra.md
 nid: 15436
 uid: 513355
-
 cids: 18069,18099,22813
-
 ---
 
 # CSV files from spectra
 
-by [Dr_Z](../../../profile/Dr_Z) | December 27, 2017 03:52
+by [Dr_Z](/profile/Dr_Z) | December 27, 2017 03:52
 
-December 27, 2017 03:52 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [cd](../tag/cd), [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered), [first-time-poster](../tag/first-time-poster)
+December 27, 2017 03:52 | Tags: [spectrometer](/tag/spectrometer), [spectralworkbench](/tag/spectralworkbench), [cd](/tag/cd), [question:spectral-workbench](/tag/question:spectral-workbench), [answered](/tag/answered), [first-time-poster](/tag/first-time-poster)
 
 ----
 

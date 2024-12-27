@@ -6,18 +6,16 @@ author: fongvania
 path: /notes/fongvania/02-17-2022/activity-air-pollution-gardens.md
 nid: 30033
 uid: 754846
-
 cids: 29677
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/400/original/mesa-lab-ozone-garden.jpg)
 
 # Activity: Air Pollution Gardens
 
-by [fongvania](../../../profile/fongvania) | February 17, 2022 19:54
+by [fongvania](/profile/fongvania) | February 17, 2022 19:54
 
-February 17, 2022 19:54 | Tags: [air-quality](../tag/air-quality), [plants](../tag/plants), [ozone](../tag/ozone), [activity:ozone](../tag/activity:ozone), [gardens](../tag/gardens), [research-curation-fellows](../tag/research-curation-fellows), [with:alejobonifacio](../tag/with:alejobonifacio), [bioindicators](../tag/bioindicators), [activity:bioindicators](../tag/activity:bioindicators)
+February 17, 2022 19:54 | Tags: [air-quality](/tag/air-quality), [plants](/tag/plants), [ozone](/tag/ozone), [activity:ozone](/tag/activity:ozone), [gardens](/tag/gardens), [research-curation-fellows](/tag/research-curation-fellows), [with:alejobonifacio](/tag/with:alejobonifacio), [bioindicators](/tag/bioindicators), [activity:bioindicators](/tag/activity:bioindicators)
 
 ----
 

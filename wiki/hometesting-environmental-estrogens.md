@@ -6,12 +6,12 @@ author: sara
 path: /wiki/hometesting-environmental-estrogens.md
 nid: 507
 uid: 8
-
+cids: 
 ---
 
 # Hometesting for Environmental Estrogens Bibliography
 
-by [holstius](../profile/holstius), [warren](../profile/warren), [sara](../profile/sara)
+by [holstius](/profile/holstius), [warren](/profile/warren), [sara](/profile/sara)
 
 October 13, 2011 18:19 | Tags: 
 

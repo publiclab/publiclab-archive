@@ -6,16 +6,14 @@ author: shahdharam7
 path: /notes/shahdharam7/12-17-2021/can-noir-camera-distinguise-different-types-of-leaf.md
 nid: 28501
 uid: 772303
-
 cids: 29543,29546,29548
-
 ---
 
 # Can NOIR camera distinguise different types of leaf?
 
-by [shahdharam7](../../../profile/shahdharam7) | December 17, 2021 06:29
+by [shahdharam7](/profile/shahdharam7) | December 17, 2021 06:29
 
-December 17, 2021 06:29 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [question:infrared](../tag/question:infrared), [question:multispectral-imaging](../tag/question:multispectral-imaging), [multispectral-imaging](../tag/multispectral-imaging), [first-time-poster](../tag/first-time-poster)
+December 17, 2021 06:29 | Tags: [ndvi](/tag/ndvi), [infrared](/tag/infrared), [infragram](/tag/infragram), [question:ndvi](/tag/question:ndvi), [question:infragram](/tag/question:infragram), [question:infrared](/tag/question:infrared), [question:multispectral-imaging](/tag/question:multispectral-imaging), [multispectral-imaging](/tag/multispectral-imaging), [first-time-poster](/tag/first-time-poster)
 
 ----
 

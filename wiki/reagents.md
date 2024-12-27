@@ -6,14 +6,14 @@ author: warren
 path: /wiki/reagents.md
 nid: 15211
 uid: 1
-
+cids: 
 ---
 
 # Reagents
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-November 20, 2017 21:38 | Tags: [reagents](../tag/reagents), [method](../tag/method)
+November 20, 2017 21:38 | Tags: [reagents](/tag/reagents), [method](/tag/method)
 
 ----
 
@@ -21,16 +21,16 @@ Reagents are a type of chemical which react to a specific compound, typically ch
 
 ## Questions
 
-[reagents](../../tag/question:reagents)
+[reagents](/tag/question:reagents)
 
 ## Activities
 
 Reagents are a really broad category, but some techniques related to them may be usable for various target chemicals. 
 
-[reagents](../../tag/activity:reagents)
+[reagents](/tag/activity:reagents)
 
 ****
 
 ## Additional work
 
-[reagents](../../tag/reagents)
+[reagents](/tag/reagents)

@@ -6,16 +6,14 @@ author: Ag8n
 path: /notes/Ag8n/10-05-2021/a-quick-question-on-the-gx-6000-monitor.md
 nid: 27833
 uid: 520994
-
 cids: 29368
-
 ---
 
 # A quick question on the GX 6000 monitor 
 
-by [Ag8n](../../../profile/Ag8n) | October 05, 2021 15:03
+by [Ag8n](/profile/Ag8n) | October 05, 2021 15:03
 
-October 05, 2021 15:03 | Tags: [VVAMP](../tag/VVAMP), [question:vvamp](../tag/question:vvamp)
+October 05, 2021 15:03 | Tags: [VVAMP](/tag/VVAMP), [question:vvamp](/tag/question:vvamp)
 
 ----
 

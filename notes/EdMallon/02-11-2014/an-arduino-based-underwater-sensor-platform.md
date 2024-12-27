@@ -6,18 +6,16 @@ author: EdMallon
 path: /notes/EdMallon/02-11-2014/an-arduino-based-underwater-sensor-platform.md
 nid: 10026
 uid: 420750
-
 cids: 8213,8217,8221,8222,8225,8402,8575,9389,10514,11139,12292,12466,12872,13238,13244,13246,13250,13253,13259,15096,16142,16245,16246,16249,16656,16797,16904,16905,16906,16908,16914,16916,16923,16924,16933,17626,17996,18082,18401,18425,18427,19668,19846,20153,20477,20490,20521,20919,21447,21450,21724,21725,21731,21813,21930,21954,23845,23849,25412,25818,27517,27567,28188,28553,28573,29794,29806,29808,29812,29813,29885,30884,30938,31163,31197,31199,31237,31272,31303,31379,31441,31456
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/790/original/HydrolabVisitsCavePearlwithTrishBeddows.jpg)
 
 # An Arduino Based UnderWater Sensor Platform
 
-by [EdMallon](../../../profile/EdMallon) | February 11, 2014 16:20
+by [EdMallon](/profile/EdMallon) | February 11, 2014 16:20
 
-February 11, 2014 16:20 | Tags: [arduino](../tag/arduino), [education](../tag/education), [temperature](../tag/temperature), [pvc](../tag/pvc), [water-quality](../tag/water-quality), [water](../tag/water), [water-monitoring](../tag/water-monitoring), [water-quality-sensor](../tag/water-quality-sensor), [underwater](../tag/underwater), [datalogger](../tag/datalogger), [conductivity](../tag/conductivity), [pressure](../tag/pressure), [logger](../tag/logger), [barnstar:basic](../tag/barnstar:basic), [activity:water-sensors](../tag/activity:water-sensors), [datalogger-option](../tag/datalogger-option)
+February 11, 2014 16:20 | Tags: [arduino](/tag/arduino), [education](/tag/education), [temperature](/tag/temperature), [pvc](/tag/pvc), [water-quality](/tag/water-quality), [water](/tag/water), [water-monitoring](/tag/water-monitoring), [water-quality-sensor](/tag/water-quality-sensor), [underwater](/tag/underwater), [datalogger](/tag/datalogger), [conductivity](/tag/conductivity), [pressure](/tag/pressure), [logger](/tag/logger), [barnstar:basic](/tag/barnstar:basic), [activity:water-sensors](/tag/activity:water-sensors), [datalogger-option](/tag/datalogger-option)
 
 ----
 

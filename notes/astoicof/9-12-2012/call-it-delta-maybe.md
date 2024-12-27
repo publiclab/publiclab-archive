@@ -6,18 +6,16 @@ author: astoicof
 path: /notes/astoicof/9-12-2012/call-it-delta-maybe.md
 nid: 3767
 uid: 256
-
 cids: 1339,1340
-
 ---
 
 ![](https://publiclab.org/sites/default/files/photo 3.JPG)
 
 # call it Delta, maybe
 
-by [astoicof](../../../profile/astoicof) | September 12, 2012 19:22
+by [astoicof](/profile/astoicof) | September 12, 2012 19:22
 
-September 12, 2012 19:22 | Tags: [kite-mapping](../tag/kite-mapping), [kite](../tag/kite), [diy-kite](../tag/diy-kite), [delta](../tag/delta), [california](../tag/california), [notam](../tag/notam), [bamboo](../tag/bamboo), [diy-kites](../tag/diy-kites), [difficulty:easy](../tag/difficulty:easy), [category:build](../tag/category:build), [time:1h](../tag/time:1h), [kite-making](../tag/kite-making), [activity:kite-making](../tag/activity:kite-making)
+September 12, 2012 19:22 | Tags: [kite-mapping](/tag/kite-mapping), [kite](/tag/kite), [diy-kite](/tag/diy-kite), [delta](/tag/delta), [california](/tag/california), [notam](/tag/notam), [bamboo](/tag/bamboo), [diy-kites](/tag/diy-kites), [difficulty:easy](/tag/difficulty:easy), [category:build](/tag/category:build), [time:1h](/tag/time:1h), [kite-making](/tag/kite-making), [activity:kite-making](/tag/activity:kite-making)
 
 ----
 

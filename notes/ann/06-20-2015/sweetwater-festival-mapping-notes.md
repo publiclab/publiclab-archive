@@ -6,18 +6,16 @@ author: ann
 path: /notes/ann/06-20-2015/sweetwater-festival-mapping-notes.md
 nid: 11992
 uid: 421543
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/404/original/sweetwater-festival-rolla-bc.jpg)
 
 # Mapping the Sweetwater Festival in Rolla, British Columbia
 
-by [ann](../../../profile/ann) | June 20, 2015 20:33
+by [ann](/profile/ann) | June 20, 2015 20:33
 
-June 20, 2015 20:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [canada](../tag/canada), [northwest](../tag/northwest)
+June 20, 2015 20:33 | Tags: [balloon-mapping](/tag/balloon-mapping), [canada](/tag/canada), [northwest](/tag/northwest)
 
 ----
 

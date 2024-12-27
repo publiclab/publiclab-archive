@@ -6,16 +6,16 @@ author: warren
 path: /wiki/infragram-filters.md
 nid: 15087
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/007/original/red-filter.jpg)
 
 # Infragram Filters
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-October 23, 2017 22:17 | Tags: [infragram-filters](../tag/infragram-filters), [parent:infragram](../tag/parent:infragram)
+October 23, 2017 22:17 | Tags: [infragram-filters](/tag/infragram-filters), [parent:infragram](/tag/parent:infragram)
 
 ----
 
@@ -37,7 +37,7 @@ _Left: pale blue from a RED filter; Right: pale yellow from a BLUE filter. Image
 
 There's a lot of research about this choice here:
 
-[red-vs-blue](../../tag/red-vs-blue)
+[red-vs-blue](/tag/red-vs-blue)
 
 ****
 
@@ -57,7 +57,7 @@ Blue filters include:
 
 Also see this research on various Rosco filters:
 
-[rosco](../../tag/rosco)
+[rosco](/tag/rosco)
 
 And the Rosco website: http://us.rosco.com/en
 

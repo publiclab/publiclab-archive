@@ -6,18 +6,16 @@ author: Delaney
 path: /notes/Delaney/06-25-2018/africatown-connections-blueway-celebration.md
 nid: 16571
 uid: 517173
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/329/original/IMG_5411.jpg)
 
 # Africatown Connections Blueway Celebration
 
-by [Delaney](../../../profile/Delaney) | June 25, 2018 20:19
+by [Delaney](/profile/Delaney) | June 25, 2018 20:19
 
-June 25, 2018 20:19 | Tags: [balloon-mapping](../tag/balloon-mapping), [mobile](../tag/mobile), [water-quality](../tag/water-quality), [mejac](../tag/mejac), [africatown](../tag/africatown), [blueway](../tag/blueway), [chickasaw-creek](../tag/chickasaw-creek), [national-park-service](../tag/national-park-service), [map-knitting](../tag/map-knitting), [c.h.e.s.s.](../tag/c.h.e.s.s.), [hogbayou](../tag/hogbayou), [africatown_connections](../tag/africatown_connections)
+June 25, 2018 20:19 | Tags: [balloon-mapping](/tag/balloon-mapping), [mobile](/tag/mobile), [water-quality](/tag/water-quality), [mejac](/tag/mejac), [africatown](/tag/africatown), [blueway](/tag/blueway), [chickasaw-creek](/tag/chickasaw-creek), [national-park-service](/tag/national-park-service), [map-knitting](/tag/map-knitting), [c.h.e.s.s.](/tag/c.h.e.s.s.), [hogbayou](/tag/hogbayou), [africatown_connections](/tag/africatown_connections)
 
 ----
 

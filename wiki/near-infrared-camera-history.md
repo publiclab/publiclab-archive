@@ -6,14 +6,14 @@ author: liz
 path: /wiki/near-infrared-camera-history.md
 nid: 7660
 uid: 7
-
+cids: 
 ---
 
 # Near Infrared Camera history
 
-by [warren](../profile/warren), [liz](../profile/liz)
+by [warren](/profile/warren), [liz](/profile/liz)
 
-May 17, 2013 19:01 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram)
+May 17, 2013 19:01 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [infragram](/tag/infragram)
 
 ----
 

@@ -6,18 +6,16 @@ author: victoria_o_ajala
 path: /notes/victoria_o_ajala/04-22-2022/outreachy-proposal.md
 nid: 30553
 uid: 792805
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/416/original/Untitled%283%29.png)
 
 # Outreachy proposal: Design a new full-screen User Interface for Infragram.org 
 
-by [victoria_o_ajala](../../../profile/victoria_o_ajala) | April 22, 2022 08:53
+by [victoria_o_ajala](/profile/victoria_o_ajala) | April 22, 2022 08:53
 
-April 22, 2022 08:53 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
+April 22, 2022 08:53 | Tags: [software](/tag/software), [outreachy](/tag/outreachy), [first-time-poster](/tag/first-time-poster), [outreachy-2022](/tag/outreachy-2022), [outreachy-summer-2022](/tag/outreachy-summer-2022)
 
 ----
 

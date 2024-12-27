@@ -6,18 +6,16 @@ author: roberts_ecofarm
 path: /notes/roberts_ecofarm/11-13-2018/water-monitoring-network.md
 nid: 17507
 uid: 556121
-
 cids: 21481
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/587/original/pexels-photo-67184.jpeg)
 
 # Water Monitoring Network
 
-by [roberts_ecofarm](../../../profile/roberts_ecofarm) | November 10, 2018 16:11
+by [roberts_ecofarm](/profile/roberts_ecofarm) | November 10, 2018 16:11
 
-November 10, 2018 16:11 | Tags: [sensors](../tag/sensors), [water-quality](../tag/water-quality), [soil-moisture](../tag/soil-moisture), [mid-west](../tag/mid-west), [issue-brief](../tag/issue-brief), [ohio](../tag/ohio), [water-monitoring-network](../tag/water-monitoring-network), [data-loggers](../tag/data-loggers), [project:water-quality](../tag/project:water-quality)
+November 10, 2018 16:11 | Tags: [sensors](/tag/sensors), [water-quality](/tag/water-quality), [soil-moisture](/tag/soil-moisture), [mid-west](/tag/mid-west), [issue-brief](/tag/issue-brief), [ohio](/tag/ohio), [water-monitoring-network](/tag/water-monitoring-network), [data-loggers](/tag/data-loggers), [project:water-quality](/tag/project:water-quality)
 
 ----
 

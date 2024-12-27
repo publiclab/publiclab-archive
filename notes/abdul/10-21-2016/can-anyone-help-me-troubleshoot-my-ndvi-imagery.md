@@ -6,16 +6,14 @@ author: abdul
 path: /notes/abdul/10-21-2016/can-anyone-help-me-troubleshoot-my-ndvi-imagery.md
 nid: 13638
 uid: 479194
-
 cids: 15748,15749,22334,22335,22338,22339
-
 ---
 
 # Can anyone help me troubleshoot my NDVI imagery?
 
-by [abdul](../../../profile/abdul) | October 21, 2016 22:28
+by [abdul](/profile/abdul) | October 21, 2016 22:28
 
-October 21, 2016 22:28 | Tags: [ndvi](../tag/ndvi), [calibration](../tag/calibration), [infrared](../tag/infrared), [infragram](../tag/infragram), [question:infragram](../tag/question:infragram), [answered](../tag/answered), [question:multispectral-imaging](../tag/question:multispectral-imaging), [question:infragram-point-shoot](../tag/question:infragram-point-shoot)
+October 21, 2016 22:28 | Tags: [ndvi](/tag/ndvi), [calibration](/tag/calibration), [infrared](/tag/infrared), [infragram](/tag/infragram), [question:infragram](/tag/question:infragram), [answered](/tag/answered), [question:multispectral-imaging](/tag/question:multispectral-imaging), [question:infragram-point-shoot](/tag/question:infragram-point-shoot)
 
 ----
 

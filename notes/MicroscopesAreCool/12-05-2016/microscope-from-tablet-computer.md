@@ -6,18 +6,16 @@ author: MicroscopesAreCool
 path: /notes/MicroscopesAreCool/12-05-2016/microscope-from-tablet-computer.md
 nid: 13743
 uid: 471803
-
 cids: 18908
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/968/original/20161202_135228.jpg)
 
 # Microscope from Tablet Computer
 
-by [MicroscopesAreCool](../../../profile/MicroscopesAreCool) | December 05, 2016 00:06
+by [MicroscopesAreCool](/profile/MicroscopesAreCool) | December 05, 2016 00:06
 
-December 05, 2016 00:06 | Tags: [dust](../tag/dust), [smartphone](../tag/smartphone), [pm](../tag/pm), [biology](../tag/biology), [microscope](../tag/microscope), [microscopy](../tag/microscopy), [time:3h](../tag/time:3h), [status:complete](../tag/status:complete), [tablet](../tag/tablet), [activity:microscopy](../tag/activity:microscopy), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes), [lat:42.38](../tag/lat:42.38), [location:blurred](../tag/location:blurred), [make-magazine](../tag/make-magazine), [artisans-asylum](../tag/artisans-asylum), [lon:-71.1](../tag/lon:-71.1), [place:artisans-asylum](../tag/place:artisans-asylum)
+December 05, 2016 00:06 | Tags: [dust](/tag/dust), [smartphone](/tag/smartphone), [pm](/tag/pm), [biology](/tag/biology), [microscope](/tag/microscope), [microscopy](/tag/microscopy), [time:3h](/tag/time:3h), [status:complete](/tag/status:complete), [tablet](/tag/tablet), [activity:microscopy](/tag/activity:microscopy), [microscopes](/tag/microscopes), [activity:microscopes](/tag/activity:microscopes), [lat:42.38](/tag/lat:42.38), [location:blurred](/tag/location:blurred), [make-magazine](/tag/make-magazine), [artisans-asylum](/tag/artisans-asylum), [lon:-71.1](/tag/lon:-71.1), [place:artisans-asylum](/tag/place:artisans-asylum)
 
 ----
 

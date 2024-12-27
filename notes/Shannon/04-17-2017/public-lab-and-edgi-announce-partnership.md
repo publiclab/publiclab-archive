@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/04-17-2017/public-lab-and-edgi-announce-partnership.md
 nid: 14119
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/160/original/plots-logo-transparent.jpg)
 
 # Public Lab and EDGI announce partnership
 
-by [Shannon](../../../profile/Shannon) | April 17, 2017 12:38
+by [Shannon](/profile/Shannon) | April 17, 2017 12:38
 
-April 17, 2017 12:38 | Tags: [nonprofit](../tag/nonprofit), [edgi](../tag/edgi)
+April 17, 2017 12:38 | Tags: [nonprofit](/tag/nonprofit), [edgi](/tag/edgi)
 
 ----
 

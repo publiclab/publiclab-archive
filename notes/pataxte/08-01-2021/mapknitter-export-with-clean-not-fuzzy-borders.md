@@ -6,18 +6,16 @@ author: pataxte
 path: /notes/pataxte/08-01-2021/mapknitter-export-with-clean-not-fuzzy-borders.md
 nid: 27398
 uid: 559561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/537/original/2021_garden_AUG_1.pdf)
 
 # mapknitter export with clean not fuzzy borders
 
-by [pataxte](../../../profile/pataxte) | August 01, 2021 05:23
+by [pataxte](/profile/pataxte) | August 01, 2021 05:23
 
-August 01, 2021 05:23 | Tags: [mapknitter](../tag/mapknitter), [export](../tag/export), [question:general](../tag/question:general), [general](../tag/general), [map](../tag/map)
+August 01, 2021 05:23 | Tags: [mapknitter](/tag/mapknitter), [export](/tag/export), [question:general](/tag/question:general), [general](/tag/general), [map](/tag/map)
 
 ----
 

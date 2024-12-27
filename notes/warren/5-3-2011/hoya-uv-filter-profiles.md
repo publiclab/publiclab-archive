@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/5-3-2011/hoya-uv-filter-profiles.md
 nid: 212
 uid: 1
-
 cids: 259
-
 ---
 
 ![](https://publiclab.org/sites/default/files/hoya-spectra.gif)
 
 # Hoya UV filter profiles
 
-by [warren](../../../profile/warren) | May 03, 2011 16:17
+by [warren](/profile/warren) | May 03, 2011 16:17
 
 May 03, 2011 16:17 | Tags: 
 

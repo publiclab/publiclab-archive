@@ -6,14 +6,14 @@ author: warren
 path: /wiki/infragram-sandbox.md
 nid: 9029
 uid: 1
-
+cids: 
 ---
 
 # Infragram Sandbox
 
-by [liz](../profile/liz), [mathew](../profile/mathew), [warren](../profile/warren), [cfastie](../profile/cfastie)
+by [liz](/profile/liz), [mathew](/profile/mathew), [warren](/profile/warren), [cfastie](/profile/cfastie)
 
-August 17, 2013 18:56 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [infragram-sandbox](../tag/infragram-sandbox), [parent:infragram](../tag/parent:infragram)
+August 17, 2013 18:56 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [infrared](/tag/infrared), [infragram](/tag/infragram), [infragram-sandbox](/tag/infragram-sandbox), [parent:infragram](/tag/parent:infragram)
 
 ----
 

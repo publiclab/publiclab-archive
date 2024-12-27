@@ -6,18 +6,16 @@ author: wward1400
 path: /notes/wward1400/06-05-2013/infragram-panoramas-on-nasa-picture-post.md
 nid: 8074
 uid: 46742
-
 cids: 4986
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/473/original/picturePost_8directional.jpg)
 
 # Infragram Panoramas on Picture Post
 
-by [wward1400](../../../profile/wward1400) | June 05, 2013 16:08
+by [wward1400](/profile/wward1400) | June 05, 2013 16:08
 
-June 05, 2013 16:08 | Tags: [new-york-city](../tag/new-york-city), [nrg](../tag/nrg), [nir](../tag/nir), [nasa](../tag/nasa), [community-garden](../tag/community-garden), [infragram](../tag/infragram), [new-orleans](../tag/new-orleans), [picturepost](../tag/picturepost)
+June 05, 2013 16:08 | Tags: [new-york-city](/tag/new-york-city), [nrg](/tag/nrg), [nir](/tag/nir), [nasa](/tag/nasa), [community-garden](/tag/community-garden), [infragram](/tag/infragram), [new-orleans](/tag/new-orleans), [picturepost](/tag/picturepost)
 
 ----
 

@@ -6,16 +6,16 @@ author: stevie
 path: /wiki/stitching-images-into-maps.md
 nid: 11801
 uid: 422561
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/849/original/City_Park.png)
 
 # Stitching Images into Maps
 
-by [warren](../profile/warren), [liz](../profile/liz), [stevie](../profile/stevie), [Shannon](../profile/Shannon)
+by [warren](/profile/warren), [liz](/profile/liz), [stevie](/profile/stevie), [Shannon](/profile/Shannon)
 
-May 08, 2015 19:38 | Tags: [mapknitter](../tag/mapknitter), [image-stitching](../tag/image-stitching), [stitch](../tag/stitch), [wetlands](../tag/wetlands), [mapping](../tag/mapping), [sorting](../tag/sorting), [stitching](../tag/stitching), [parent:wetlands-toolkit](../tag/parent:wetlands-toolkit), [lat:41](../tag/lat:41), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [activity:wetlands](../tag/activity:wetlands), [lon:-74](../tag/lon:-74), [activity:mapping](../tag/activity:mapping), [zoom:6](../tag/zoom:6)
+May 08, 2015 19:38 | Tags: [mapknitter](/tag/mapknitter), [image-stitching](/tag/image-stitching), [stitch](/tag/stitch), [wetlands](/tag/wetlands), [mapping](/tag/mapping), [sorting](/tag/sorting), [stitching](/tag/stitching), [parent:wetlands-toolkit](/tag/parent:wetlands-toolkit), [lat:41](/tag/lat:41), [location:blurred](/tag/location:blurred), [place:united-states](/tag/place:united-states), [activity:wetlands](/tag/activity:wetlands), [lon:-74](/tag/lon:-74), [activity:mapping](/tag/activity:mapping), [zoom:6](/tag/zoom:6)
 
 ----
 

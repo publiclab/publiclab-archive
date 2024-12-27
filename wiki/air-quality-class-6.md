@@ -6,14 +6,14 @@ author: liz
 path: /wiki/air-quality-class-6.md
 nid: 6440
 uid: 7
-
+cids: 
 ---
 
 # air quality class 6
 
-by [liz](../profile/liz), [jmsaavedra](../profile/jmsaavedra)
+by [liz](/profile/liz), [jmsaavedra](/profile/jmsaavedra)
 
-March 19, 2013 23:43 | Tags: [chaq](../tag/chaq)
+March 19, 2013 23:43 | Tags: [chaq](/tag/chaq)
 
 ----
 

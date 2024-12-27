@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/12-04-2019/what-are-the-health-impacts-of-the-aluf-plastics-plant-from-air-pollution.md
 nid: 21664
 uid: 422561
-
 cids: 25963,25992,26000,26133,26148
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/859/original/c10a146a466abaac6dcb5efff47f7a8.jpg)
 
 # What are the health impacts of the Aluf Plastics Plant from air pollution? 
 
-by [stevie](../../../profile/stevie) | December 04, 2019 15:34
+by [stevie](/profile/stevie) | December 04, 2019 15:34
 
-December 04, 2019 15:34 | Tags: [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [odor](../tag/odor), [question:plastic](../tag/question:plastic), [question:odor](../tag/question:odor), [plastics](../tag/plastics), [question:plastics](../tag/question:plastics), [plastic](../tag/plastic), [orangetown-aluf](../tag/orangetown-aluf), [question:orangetown-aluf](../tag/question:orangetown-aluf)
+December 04, 2019 15:34 | Tags: [air-quality](/tag/air-quality), [question:air-quality](/tag/question:air-quality), [odor](/tag/odor), [question:plastic](/tag/question:plastic), [question:odor](/tag/question:odor), [plastics](/tag/plastics), [question:plastics](/tag/question:plastics), [plastic](/tag/plastic), [orangetown-aluf](/tag/orangetown-aluf), [question:orangetown-aluf](/tag/question:orangetown-aluf)
 
 ----
 

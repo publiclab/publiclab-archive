@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/07-05-2016/the-aerobee-rig.md
 nid: 13261
 uid: 554
-
 cids: 14880,14881,14884,14887,27345,27378
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/871/original/Aerobee_20160517-5500-2.jpg)
 
 # The Aerobee Rig
 
-by [cfastie](../../../profile/cfastie) | July 05, 2016 17:43
+by [cfastie](/profile/cfastie) | July 05, 2016 17:43
 
-July 05, 2016 17:43 | Tags: [vermont](../tag/vermont), [kite-aerial-photography](../tag/kite-aerial-photography), [camera-rig-tests](../tag/camera-rig-tests), [aerial-photography](../tag/aerial-photography), [photo-rig](../tag/photo-rig), [kaptery](../tag/kaptery), [aerobee](../tag/aerobee), [jerkpan](../tag/jerkpan), [response:12624](../tag/response:12624), [category:field-test](../tag/category:field-test), [activity:photo-rig](../tag/activity:photo-rig)
+July 05, 2016 17:43 | Tags: [vermont](/tag/vermont), [kite-aerial-photography](/tag/kite-aerial-photography), [camera-rig-tests](/tag/camera-rig-tests), [aerial-photography](/tag/aerial-photography), [photo-rig](/tag/photo-rig), [kaptery](/tag/kaptery), [aerobee](/tag/aerobee), [jerkpan](/tag/jerkpan), [response:12624](/tag/response:12624), [category:field-test](/tag/category:field-test), [activity:photo-rig](/tag/activity:photo-rig)
 
 ----
 

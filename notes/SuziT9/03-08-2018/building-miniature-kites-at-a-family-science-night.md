@@ -6,18 +6,16 @@ author: SuziT9
 path: /notes/SuziT9/03-08-2018/building-miniature-kites-at-a-family-science-night.md
 nid: 15900
 uid: 477814
-
 cids: 18833,18834,18855,19442,26700,30572
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/916/original/IMG_7452.jpg)
 
 # Building miniature kites at a family science night
 
-by [SuziT9](../../../profile/SuziT9) | March 08, 2018 22:00
+by [SuziT9](/profile/SuziT9) | March 08, 2018 22:00
 
-March 08, 2018 22:00 | Tags: [kite-mapping](../tag/kite-mapping), [education](../tag/education), [nasa](../tag/nasa), [k-12](../tag/k-12), [outreach](../tag/outreach), [kites](../tag/kites), [family](../tag/family), [workshops](../tag/workshops), [blog](../tag/blog), [diy-kites](../tag/diy-kites), [barnstar:basic](../tag/barnstar:basic), [category:build](../tag/category:build), [activity:kite-mapping](../tag/activity:kite-mapping), [kite-making](../tag/kite-making), [activity:kite-making](../tag/activity:kite-making), [activity:education](../tag/activity:education), [activity:workshop](../tag/activity:workshop), [aren](../tag/aren), [kids](../tag/kids), [activity:classroom](../tag/activity:classroom), [kidcom](../tag/kidcom), [miniature](../tag/miniature), [stem](../tag/stem), [kite-building](../tag/kite-building), [activity:k-12](../tag/activity:k-12), [activity:kidcom](../tag/activity:kidcom), [activity:aren](../tag/activity:aren), [activity:session-ideas](../tag/activity:session-ideas), [first-time-poster](../tag/first-time-poster), [mini-kite-build](../tag/mini-kite-build), [activity:mini-kite-build](../tag/activity:mini-kite-build)
+March 08, 2018 22:00 | Tags: [kite-mapping](/tag/kite-mapping), [education](/tag/education), [nasa](/tag/nasa), [k-12](/tag/k-12), [outreach](/tag/outreach), [kites](/tag/kites), [family](/tag/family), [workshops](/tag/workshops), [blog](/tag/blog), [diy-kites](/tag/diy-kites), [barnstar:basic](/tag/barnstar:basic), [category:build](/tag/category:build), [activity:kite-mapping](/tag/activity:kite-mapping), [kite-making](/tag/kite-making), [activity:kite-making](/tag/activity:kite-making), [activity:education](/tag/activity:education), [activity:workshop](/tag/activity:workshop), [aren](/tag/aren), [kids](/tag/kids), [activity:classroom](/tag/activity:classroom), [kidcom](/tag/kidcom), [miniature](/tag/miniature), [stem](/tag/stem), [kite-building](/tag/kite-building), [activity:k-12](/tag/activity:k-12), [activity:kidcom](/tag/activity:kidcom), [activity:aren](/tag/activity:aren), [activity:session-ideas](/tag/activity:session-ideas), [first-time-poster](/tag/first-time-poster), [mini-kite-build](/tag/mini-kite-build), [activity:mini-kite-build](/tag/activity:mini-kite-build)
 
 ----
 

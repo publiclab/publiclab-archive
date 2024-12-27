@@ -6,14 +6,14 @@ author: gonzoearth
 path: /wiki/mapping-curriculum-first-flight.md
 nid: 390
 uid: 12
-
+cids: 
 ---
 
 # mapping curriculum: first flight
 
-by [warren](../profile/warren), [gonzoearth](../profile/gonzoearth)
+by [warren](/profile/warren), [gonzoearth](/profile/gonzoearth)
 
-July 19, 2011 18:41 | Tags: [curriculum](../tag/curriculum), [parent:mapping-curriculum](../tag/parent:mapping-curriculum), [mapping-curriculum](../tag/mapping-curriculum)
+July 19, 2011 18:41 | Tags: [curriculum](/tag/curriculum), [parent:mapping-curriculum](/tag/parent:mapping-curriculum), [mapping-curriculum](/tag/mapping-curriculum)
 
 ----
 

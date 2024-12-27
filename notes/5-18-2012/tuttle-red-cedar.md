@@ -6,16 +6,14 @@ author:
 path: /notes/5-18-2012/tuttle-red-cedar.md
 nid: 2134
 uid: 0
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_4639_medium.JPG)
 
 # tuttle-red-cedar
 
-by [](../../../profile/) | May 18, 2012 18:27
+by [](/profile/) | May 18, 2012 18:27
 
 May 18, 2012 18:27 | Tags: 
 

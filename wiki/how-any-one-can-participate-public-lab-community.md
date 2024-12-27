@@ -6,14 +6,14 @@ author: mollydanielsson
 path: /wiki/how-any-one-can-participate-public-lab-community.md
 nid: 5612
 uid: 1259
-
+cids: 
 ---
 
 # How any one can participate in the Public Lab community
 
-by [liz](../profile/liz), [mollydanielsson](../profile/mollydanielsson)
+by [liz](/profile/liz), [mollydanielsson](/profile/mollydanielsson)
 
-January 16, 2013 19:52 | Tags: [website](../tag/website), [plots2](../tag/plots2), [wintercamp](../tag/wintercamp), [newcomers](../tag/newcomers), [onboarding](../tag/onboarding), [out-of-date](../tag/out-of-date)
+January 16, 2013 19:52 | Tags: [website](/tag/website), [plots2](/tag/plots2), [wintercamp](/tag/wintercamp), [newcomers](/tag/newcomers), [onboarding](/tag/onboarding), [out-of-date](/tag/out-of-date)
 
 ----
 

@@ -6,18 +6,16 @@ author: TheChessGym
 path: /notes/TheChessGym/04-25-2022/increasing-microplastic-pollutants-diminishing-drinkable-water-sources-and-people-with-no-access.md
 nid: 30589
 uid: 788868
-
 cids: 31184
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/521/original/lakeclark.jpg)
 
 # Increasing Microplastic Pollutants, Diminishing Drinkable Water Sources, and People With No Access 
 
-by [TheChessGym](../../../profile/TheChessGym) | April 25, 2022 15:24
+by [TheChessGym](/profile/TheChessGym) | April 25, 2022 15:24
 
-April 25, 2022 15:24 | Tags: [microplastics](../tag/microplastics), [lat:22](../tag/lat:22), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
+April 25, 2022 15:24 | Tags: [microplastics](/tag/microplastics), [lat:22](/tag/lat:22), [lon:76](/tag/lon:76), [zoom:6](/tag/zoom:6)
 
 ----
 

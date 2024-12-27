@@ -6,16 +6,14 @@ author: rexagod
 path: /notes/rexagod/07-21-2019/google-summer-of-code-second-evaluations.md
 nid: 20223
 uid: 564358
-
 cids: 25089,25135,25160,25171,25194,31410
-
 ---
 
 # Google Summer of Code: Second Evaluations
 
-by [rexagod](../../../profile/rexagod) | July 21, 2019 18:23
+by [rexagod](/profile/rexagod) | July 21, 2019 18:23
 
-July 21, 2019 18:23 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-eval](../tag/soc-2019-eval)
+July 21, 2019 18:23 | Tags: [gsoc](/tag/gsoc), [soc](/tag/soc), [gsoc-2019](/tag/gsoc-2019), [soc-2019](/tag/soc-2019), [soc-2019-eval](/tag/soc-2019-eval)
 
 ----
 

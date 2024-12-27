@@ -6,14 +6,14 @@ author: Fernando
 path: /wiki/uv-spectrometry.md
 nid: 3837
 uid: 43374
-
+cids: 
 ---
 
 # Ultraviolet spectrometry
 
-by [warren](../profile/warren), [Fernando](../profile/Fernando)
+by [warren](/profile/warren), [Fernando](/profile/Fernando)
 
-September 17, 2012 13:20 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [ultraviolet](../tag/ultraviolet), [uv/visible](../tag/uv/visible), [spectrometry](../tag/spectrometry), [grating](../tag/grating), [holographic](../tag/holographic), [reflective](../tag/reflective)
+September 17, 2012 13:20 | Tags: [spectrometer](/tag/spectrometer), [uv](/tag/uv), [ultraviolet](/tag/ultraviolet), [uv/visible](/tag/uv/visible), [spectrometry](/tag/spectrometry), [grating](/tag/grating), [holographic](/tag/holographic), [reflective](/tag/reflective)
 
 ----
 

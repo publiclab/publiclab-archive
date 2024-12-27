@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/08-06-2019/seeking-community-fellow-for-oil-gas-water-fellowship-trio.md
 nid: 20445
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/382/original/Sadie_Prego_IMG_3844.jpeg)
 
 # Seeking Community Fellow for Oil & Gas Water Fellowship Trio
 
-by [stevie](../../../profile/stevie) | August 06, 2019 16:44
+by [stevie](/profile/stevie) | August 06, 2019 16:44
 
-August 06, 2019 16:44 | Tags: [gulf-coast](../tag/gulf-coast), [community](../tag/community), [organizers](../tag/organizers), [water-quality](../tag/water-quality), [water](../tag/water), [jobs](../tag/jobs), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
+August 06, 2019 16:44 | Tags: [gulf-coast](/tag/gulf-coast), [community](/tag/community), [organizers](/tag/organizers), [water-quality](/tag/water-quality), [water](/tag/water), [jobs](/tag/jobs), [fellows](/tag/fellows), [fellowship](/tag/fellowship), [oil-and-gas-water-trio](/tag/oil-and-gas-water-trio)
 
 ----
 

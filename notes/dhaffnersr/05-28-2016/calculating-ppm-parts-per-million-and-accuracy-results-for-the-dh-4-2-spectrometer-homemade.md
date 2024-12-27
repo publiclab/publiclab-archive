@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/05-28-2016/calculating-ppm-parts-per-million-and-accuracy-results-for-the-dh-4-2-spectrometer-homemade.md
 nid: 13152
 uid: 461120
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/395/original/rhod_b_pic_small_may28.png)
 
 # Calculating PPM (parts per million) and Accuracy results for The DH 4.2 spectrometer (homemade) 
 
-by [dhaffnersr](../../../profile/dhaffnersr) | May 28, 2016 13:11
+by [dhaffnersr](/profile/dhaffnersr) | May 28, 2016 13:11
 
 May 28, 2016 13:11 | Tags: 
 

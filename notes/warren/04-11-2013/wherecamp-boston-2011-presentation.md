@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/04-11-2013/wherecamp-boston-2011-presentation.md
 nid: 6784
 uid: 1
-
 cids: 
-
 ---
 
 # WhereCamp Boston 2011 presentation
 
-by [warren](../../../profile/warren) | April 11, 2013 18:41
+by [warren](/profile/warren) | April 11, 2013 18:41
 
-April 11, 2013 18:41 | Tags: [boston](../tag/boston), [presentation](../tag/presentation), [wherecamp](../tag/wherecamp)
+April 11, 2013 18:41 | Tags: [boston](/tag/boston), [presentation](/tag/presentation), [wherecamp](/tag/wherecamp)
 
 ----
 

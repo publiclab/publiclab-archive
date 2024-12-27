@@ -6,18 +6,16 @@ author: gangrin
 path: /notes/gangrin/09-28-2015/bluelight-spectrometry-kit.md
 nid: 12248
 uid: 452627
-
 cids: 12579,12580,12581,12587
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/690/original/bluelight.jpg)
 
 # Bluelight Spectrometry Kit 
 
-by [gangrin](../../../profile/gangrin) | September 28, 2015 07:24
+by [gangrin](/profile/gangrin) | September 28, 2015 07:24
 
-September 28, 2015 07:24 | Tags: [spectrometry](../tag/spectrometry), [korea](../tag/korea)
+September 28, 2015 07:24 | Tags: [spectrometry](/tag/spectrometry), [korea](/tag/korea)
 
 ----
 

@@ -6,18 +6,16 @@ author: pagyebo
 path: /notes/pagyebo/11-13-2015/imagej-exporting-data-into-excel-used-for-analysing-images-of-particulate-matter.md
 nid: 12407
 uid: 451158
-
 cids: 12908
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/746/original/image_J_4.jpg)
 
 # ImageJ exporting data into Excel:  Used for Analysing Images of particulate matter
 
-by [pagyebo](../../../profile/pagyebo) | November 13, 2015 19:06
+by [pagyebo](/profile/pagyebo) | November 13, 2015 19:06
 
-November 13, 2015 19:06 | Tags: [chicago](../tag/chicago), [barnstar:basic](../tag/barnstar:basic), [midwest](../tag/midwest), [passive-pm](../tag/passive-pm), [data-management](../tag/data-management)
+November 13, 2015 19:06 | Tags: [chicago](/tag/chicago), [barnstar:basic](/tag/barnstar:basic), [midwest](/tag/midwest), [passive-pm](/tag/passive-pm), [data-management](/tag/data-management)
 
 ----
 

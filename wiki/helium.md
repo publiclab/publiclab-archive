@@ -6,14 +6,14 @@ author: gonzoearth
 path: /wiki/helium.md
 nid: 2501
 uid: 12
-
+cids: 
 ---
 
 # Helium
 
-by [Bronwen](../profile/Bronwen), [mathew](../profile/mathew), [warren](../profile/warren), [eustatic](../profile/eustatic), [wward1400](../profile/wward1400), [Juan](../profile/Juan), [Shannon](../profile/Shannon), [gonzoearth](../profile/gonzoearth)
+by [Bronwen](/profile/Bronwen), [mathew](/profile/mathew), [warren](/profile/warren), [eustatic](/profile/eustatic), [wward1400](/profile/wward1400), [Juan](/profile/Juan), [Shannon](/profile/Shannon), [gonzoearth](/profile/gonzoearth)
 
-June 15, 2012 19:59 | Tags: [balloon-mapping](../tag/balloon-mapping), [helium](../tag/helium), [table-lamp](../tag/table-lamp)
+June 15, 2012 19:59 | Tags: [balloon-mapping](/tag/balloon-mapping), [helium](/tag/helium), [table-lamp](/tag/table-lamp)
 
 ----
 

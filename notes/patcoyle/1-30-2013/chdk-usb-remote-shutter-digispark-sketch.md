@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/1-30-2013/chdk-usb-remote-shutter-digispark-sketch.md
 nid: 5811
 uid: 77
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Untitled 1.jpg)
 
 # CHDK usb remote shutter Digispark sketch
 
-by [patcoyle](../../../profile/patcoyle) | January 31, 2013 04:36
+by [patcoyle](/profile/patcoyle) | January 31, 2013 04:36
 
-January 31, 2013 04:36 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [triggering](../tag/triggering), [chdk](../tag/chdk), [camera-triggering](../tag/camera-triggering)
+January 31, 2013 04:36 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [triggering](/tag/triggering), [chdk](/tag/chdk), [camera-triggering](/tag/camera-triggering)
 
 ----
 

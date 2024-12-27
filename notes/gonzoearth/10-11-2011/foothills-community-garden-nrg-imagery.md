@@ -6,16 +6,14 @@ author: gonzoearth
 path: /notes/gonzoearth/10-11-2011/foothills-community-garden-nrg-imagery.md
 nid: 506
 uid: 12
-
 cids: 4728
-
 ---
 
 ![](https://publiclab.org/sites/default/files/nrg.JPG)
 
 # Foothills Community Garden NRG Imagery
 
-by [gonzoearth](../../../profile/gonzoearth) | October 11, 2011 23:38
+by [gonzoearth](/profile/gonzoearth) | October 11, 2011 23:38
 
 October 11, 2011 23:38 | Tags: 
 

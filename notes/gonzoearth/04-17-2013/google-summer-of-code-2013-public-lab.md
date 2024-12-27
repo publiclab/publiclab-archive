@@ -6,18 +6,16 @@ author: gonzoearth
 path: /notes/gonzoearth/04-17-2013/google-summer-of-code-2013-public-lab.md
 nid: 6877
 uid: 12
-
 cids: 4468
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/073/original/GSoC_2013_logo.jpg)
 
 # Google Summer of Code 2013 & Public Lab
 
-by [gonzoearth](../../../profile/gonzoearth) | April 17, 2013 18:22
+by [gonzoearth](/profile/gonzoearth) | April 17, 2013 18:22
 
-April 17, 2013 18:22 | Tags: [mapknitter](../tag/mapknitter), [spectralworkbench](../tag/spectralworkbench), [gsoc](../tag/gsoc), [gsoc-2013](../tag/gsoc-2013), [google](../tag/google), [google-summer-of-code](../tag/google-summer-of-code)
+April 17, 2013 18:22 | Tags: [mapknitter](/tag/mapknitter), [spectralworkbench](/tag/spectralworkbench), [gsoc](/tag/gsoc), [gsoc-2013](/tag/gsoc-2013), [google](/tag/google), [google-summer-of-code](/tag/google-summer-of-code)
 
 ----
 

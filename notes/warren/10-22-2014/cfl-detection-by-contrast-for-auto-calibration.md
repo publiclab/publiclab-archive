@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/10-22-2014/cfl-detection-by-contrast-for-auto-calibration.md
 nid: 11296
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/605/original/cfl.png)
 
 # CFL detection by contrast, for auto-calibration
 
-by [warren](../../../profile/warren) | October 22, 2014 21:56
+by [warren](/profile/warren) | October 22, 2014 21:56
 
-October 22, 2014 21:56 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [cfl](../tag/cfl), [spectrometer-calibration](../tag/spectrometer-calibration), [spectral-workbench](../tag/spectral-workbench), [gsoc](../tag/gsoc), [spectral-workbench-api](../tag/spectral-workbench-api), [oil-testing-kit](../tag/oil-testing-kit)
+October 22, 2014 21:56 | Tags: [spectrometer](/tag/spectrometer), [calibration](/tag/calibration), [cfl](/tag/cfl), [spectrometer-calibration](/tag/spectrometer-calibration), [spectral-workbench](/tag/spectral-workbench), [gsoc](/tag/gsoc), [spectral-workbench-api](/tag/spectral-workbench-api), [oil-testing-kit](/tag/oil-testing-kit)
 
 ----
 

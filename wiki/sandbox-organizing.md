@@ -6,12 +6,12 @@ author: stevie
 path: /wiki/sandbox-organizing.md
 nid: 25500
 uid: 422561
-
+cids: 
 ---
 
 # sandbox-organizing 
 
-by [liz](../profile/liz), [bhamster](../profile/bhamster), [stevie](../profile/stevie)
+by [liz](/profile/liz), [bhamster](/profile/bhamster), [stevie](/profile/stevie)
 
 January 19, 2021 21:16 | Tags: 
 
@@ -143,7 +143,7 @@ Methods published on Public Lab and tagged with `organizing` will appear on the 
 
 Activities on Public Lab that have been tagged with `activity:organizing` will appear here
 
-[organizing](../../tag/activity:organizing)
+[organizing](/tag/activity:organizing)
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
 
@@ -157,7 +157,7 @@ Activities on Public Lab that have been tagged with `activity:organizing` will a
 
 Questions tagged with `question:organizing` will appear here
 
-[organizing](../../tag/question:organizing)
+[organizing](/tag/question:organizing)
 
 <hr>
 

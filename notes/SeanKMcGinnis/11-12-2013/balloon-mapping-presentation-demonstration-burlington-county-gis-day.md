@@ -6,18 +6,16 @@ author: seankmcginnis
 path: /notes/SeanKMcGinnis/11-12-2013/balloon-mapping-presentation-demonstration-burlington-county-gis-day.md
 nid: 9771
 uid: 552
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/208/original/twoballoons.jpg)
 
 # Balloon Mapping Presentation & Demonstration - Burlington County GIS Day
 
-by [seankmcginnis](../../../profile/seankmcginnis) | November 12, 2013 18:07
+by [seankmcginnis](/profile/seankmcginnis) | November 12, 2013 18:07
 
-November 12, 2013 18:07 | Tags: [philadelphia](../tag/philadelphia), [event](../tag/event), [replication:14022](../tag/replication:14022)
+November 12, 2013 18:07 | Tags: [philadelphia](/tag/philadelphia), [event](/tag/event), [replication:14022](/tag/replication:14022)
 
 ----
 

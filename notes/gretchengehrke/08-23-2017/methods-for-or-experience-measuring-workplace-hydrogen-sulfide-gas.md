@@ -6,16 +6,14 @@ author: gretchengehrke
 path: /notes/gretchengehrke/08-23-2017/methods-for-or-experience-measuring-workplace-hydrogen-sulfide-gas.md
 nid: 14786
 uid: 430549
-
 cids: 17218,22566
-
 ---
 
 # Methods for or experience measuring workplace hydrogen sulfide gas?
 
-by [gretchengehrke](../../../profile/gretchengehrke) | August 23, 2017 22:32
+by [gretchengehrke](/profile/gretchengehrke) | August 23, 2017 22:32
 
-August 23, 2017 22:32 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [air-quality](../tag/air-quality), [h2s](../tag/h2s), [question:air-quality](../tag/question:air-quality), [indoor-air-quality](../tag/indoor-air-quality), [question:question](../tag/question:question), [indoor-air](../tag/indoor-air), [question:h2s](../tag/question:h2s), [question:indoor-air-quality](../tag/question:indoor-air-quality)
+August 23, 2017 22:32 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](/tag/hydrogen-sulfide), [air-quality](/tag/air-quality), [h2s](/tag/h2s), [question:air-quality](/tag/question:air-quality), [indoor-air-quality](/tag/indoor-air-quality), [question:question](/tag/question:question), [indoor-air](/tag/indoor-air), [question:h2s](/tag/question:h2s), [question:indoor-air-quality](/tag/question:indoor-air-quality)
 
 ----
 

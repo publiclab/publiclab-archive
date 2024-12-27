@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/12-06-2017/help-collect-environmental-sensors-probes-on-a-shared-list.md
 nid: 15319
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/823/original/Screenshot_2017-12-06_at_10.55.44_AM.png)
 
 # Help collect environmental sensors + probes on a shared list
 
-by [warren](../../../profile/warren) | December 06, 2017 16:02
+by [warren](/profile/warren) | December 06, 2017 16:02
 
-December 06, 2017 16:02 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [data-logging](../tag/data-logging), [activity:data-logging](../tag/activity:data-logging), [activity:sensors](../tag/activity:sensors), [requests](../tag/requests), [activity:requests](../tag/activity:requests), [response:15308](../tag/response:15308), [activity:water-sensors](../tag/activity:water-sensors)
+December 06, 2017 16:02 | Tags: [hydrogen-sulfide](/tag/hydrogen-sulfide), [data-logging](/tag/data-logging), [activity:data-logging](/tag/activity:data-logging), [activity:sensors](/tag/activity:sensors), [requests](/tag/requests), [activity:requests](/tag/activity:requests), [response:15308](/tag/response:15308), [activity:water-sensors](/tag/activity:water-sensors)
 
 ----
 

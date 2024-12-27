@@ -6,12 +6,12 @@ author: liz
 path: /wiki/test.md
 nid: 24852
 uid: 7
-
+cids: 
 ---
 
 # test
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
 October 28, 2020 21:01 | Tags: 
 

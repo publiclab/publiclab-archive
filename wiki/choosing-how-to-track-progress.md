@@ -6,14 +6,14 @@ author: liz
 path: /wiki/choosing-how-to-track-progress.md
 nid: 11508
 uid: 7
-
+cids: 
 ---
 
 # choosing-how-to-track-progress
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-January 04, 2015 21:07 | Tags: [parent:gardening-toolkit](../tag/parent:gardening-toolkit), [gardening-toolkit](../tag/gardening-toolkit)
+January 04, 2015 21:07 | Tags: [parent:gardening-toolkit](/tag/parent:gardening-toolkit), [gardening-toolkit](/tag/gardening-toolkit)
 
 ----
 

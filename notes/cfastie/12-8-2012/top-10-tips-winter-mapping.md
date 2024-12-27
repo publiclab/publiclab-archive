@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/12-8-2012/top-10-tips-winter-mapping.md
 nid: 5161
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/LincPk-20120310-108-102_1.jpg)
 
 # Top 10 tips for winter mapping
 
-by [cfastie](../../../profile/cfastie) | December 08, 2012 16:03
+by [cfastie](/profile/cfastie) | December 08, 2012 16:03
 
-December 08, 2012 16:03 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [winter](../tag/winter), [tac](../tag/tac), [northeast](../tag/northeast)
+December 08, 2012 16:03 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [vermont](/tag/vermont), [winter](/tag/winter), [tac](/tag/tac), [northeast](/tag/northeast)
 
 ----
 

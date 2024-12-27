@@ -6,14 +6,14 @@ author: joyofsoy
 path: /wiki/simple.md
 nid: 20605
 uid: 540844
-
+cids: 
 ---
 
 # simple
 
-by [joyofsoy](../profile/joyofsoy)
+by [joyofsoy](/profile/joyofsoy)
 
-August 20, 2019 22:40 | Tags: [redirect:18517](../tag/redirect:18517)
+August 20, 2019 22:40 | Tags: [redirect:18517](/tag/redirect:18517)
 
 ----
 

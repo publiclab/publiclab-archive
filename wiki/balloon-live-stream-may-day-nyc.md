@@ -6,12 +6,12 @@ author: sara
 path: /wiki/balloon-live-stream-may-day-nyc.md
 nid: 1782
 uid: 8
-
+cids: 
 ---
 
 # Balloon Live-stream of May Day NYC?
 
-by [oscarbrett](../profile/oscarbrett), [sara](../profile/sara)
+by [oscarbrett](/profile/oscarbrett), [sara](/profile/sara)
 
 April 25, 2012 17:43 | Tags: 
 

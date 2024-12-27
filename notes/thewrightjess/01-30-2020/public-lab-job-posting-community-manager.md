@@ -6,18 +6,16 @@ author: thewrightjess
 path: /notes/thewrightjess/01-30-2020/public-lab-job-posting-community-manager.md
 nid: 22438
 uid: 603909
-
 cids: 26340,26449,27205,27206
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/833/original/Community_Manager.jpg)
 
 # Job Posting: Community Manager
 
-by [thewrightjess](../../../profile/thewrightjess) | January 30, 2020 18:53
+by [thewrightjess](/profile/thewrightjess) | January 30, 2020 18:53
 
-January 30, 2020 18:53 | Tags: [community](../tag/community), [development](../tag/development), [jobs](../tag/jobs)
+January 30, 2020 18:53 | Tags: [community](/tag/community), [development](/tag/development), [jobs](/tag/jobs)
 
 ----
 

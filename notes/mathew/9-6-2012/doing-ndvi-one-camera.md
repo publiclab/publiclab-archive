@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/9-6-2012/doing-ndvi-one-camera.md
 nid: 3668
 uid: 4
-
 cids: 1272
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Canon_T2i_NDVI_MK_II_QE.jpg)
 
 # Doing NDVI in one camera
 
-by [mathew](../../../profile/mathew) | September 06, 2012 16:29
+by [mathew](/profile/mathew) | September 06, 2012 16:29
 
-September 06, 2012 16:29 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [superblue](../tag/superblue)
+September 06, 2012 16:29 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [nrg](/tag/nrg), [ndvi](/tag/ndvi), [superblue](/tag/superblue)
 
 ----
 

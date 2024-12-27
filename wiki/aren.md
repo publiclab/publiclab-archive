@@ -6,16 +6,16 @@ author: warren
 path: /wiki/aren.md
 nid: 15256
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/656/original/Screenshot_2017-11-29_at_4.40.13_PM.png)
 
 # AREN Project
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-November 28, 2017 23:03 | Tags: [as220](../tag/as220), [nasa](../tag/nasa), [infragram](../tag/infragram), [aren](../tag/aren)
+November 28, 2017 23:03 | Tags: [as220](/tag/as220), [nasa](/tag/nasa), [infragram](/tag/infragram), [aren](/tag/aren)
 
 ----
 
@@ -46,7 +46,7 @@ For educators looking to apply these techniques in the classroom, see our [Educa
 
 These activities were developed as part of Public Lab's collaboration with the AREN project:
 
-[grid:activity:aren](../../tag/grid:activity:aren)
+[grid:activity:aren](/tag/grid:activity:aren)
 
 ****
 
@@ -110,10 +110,10 @@ We are also working on comparing low-cost, open source wind sensors like that of
 
 ## Questions
 
-[nasa](../../tag/question:nasa)
+[nasa](/tag/question:nasa)
 
 ****
 
 ## Updates
 
-[nasa](../../tag/nasa)
+[nasa](/tag/nasa)

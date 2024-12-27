@@ -6,14 +6,14 @@ author: warren
 path: /wiki/hydrogen-balloon-mapping.md
 nid: 158
 uid: 1
-
+cids: 
 ---
 
 # Hydrogen Balloon Mapping
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-April 06, 2011 15:47 | Tags: [hydrogen](../tag/hydrogen), [coffee-box](../tag/coffee-box), [dunkin-donuts](../tag/dunkin-donuts), [lye](../tag/lye), [aluminum](../tag/aluminum)
+April 06, 2011 15:47 | Tags: [hydrogen](/tag/hydrogen), [coffee-box](/tag/coffee-box), [dunkin-donuts](/tag/dunkin-donuts), [lye](/tag/lye), [aluminum](/tag/aluminum)
 
 ----
 

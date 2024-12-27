@@ -6,16 +6,14 @@ author: gilbert
 path: /notes/gilbert/10-11-2017/water-quality-improvement.md
 nid: 15035
 uid: 508551
-
 cids: 
-
 ---
 
 # Water Quality Improvement
 
-by [gilbert](../../../profile/gilbert) | October 11, 2017 21:16
+by [gilbert](/profile/gilbert) | October 11, 2017 21:16
 
-October 11, 2017 21:16 | Tags: [question:question](../tag/question:question)
+October 11, 2017 21:16 | Tags: [question:question](/tag/question:question)
 
 ----
 

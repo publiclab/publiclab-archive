@@ -6,14 +6,14 @@ author: Shannon
 path: /wiki/london-aerial-mapping-meet-tuesday-february-14th.md
 nid: 781
 uid: 9
-
+cids: 
 ---
 
 # London aerial mapping meet-up: Tuesday, February 14th
 
-by [Shannon](../profile/Shannon)
+by [Shannon](/profile/Shannon)
 
-February 12, 2012 14:57 | Tags: [london](../tag/london), [ucl](../tag/ucl), [uk](../tag/uk), [eu](../tag/eu)
+February 12, 2012 14:57 | Tags: [london](/tag/london), [ucl](/tag/ucl), [uk](/tag/uk), [eu](/tag/eu)
 
 ----
 

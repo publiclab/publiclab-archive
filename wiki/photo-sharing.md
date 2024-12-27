@@ -6,16 +6,16 @@ author: warren
 path: /wiki/photo-sharing.md
 nid: 14184
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/429/original/Screen_Shot_2017-05-12_at_3.06.11_PM.png)
 
 # Photo Sharing
 
-by [xose](../profile/xose), [warren](../profile/warren)
+by [xose](/profile/xose), [warren](/profile/warren)
 
-May 12, 2017 19:07 | Tags: [balloon-mapping](../tag/balloon-mapping), [gps](../tag/gps), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [tool](../tag/tool), [geo-tagging](../tag/geo-tagging), [lens-distortion](../tag/lens-distortion), [method](../tag/method)
+May 12, 2017 19:07 | Tags: [balloon-mapping](/tag/balloon-mapping), [gps](/tag/gps), [photo-monitoring](/tag/photo-monitoring), [timelapse](/tag/timelapse), [tool](/tag/tool), [geo-tagging](/tag/geo-tagging), [lens-distortion](/tag/lens-distortion), [method](/tag/method)
 
 ----
 
@@ -44,7 +44,7 @@ For each approach, consider:
 
 Especially since none of the above methods are perfect, please help identify any problems, suggest other possible ways to share photos, or just ask any related questions here:
 
- [photo-sharing](../../tag/question:photo-sharing)
+ [photo-sharing](/tag/question:photo-sharing)
 
 ****
 

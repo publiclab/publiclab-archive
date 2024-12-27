@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/07-10-2015/my-diy-formaldehyde-test-kit.md
 nid: 12045
 uid: 4
-
 cids: 12144,12163,12402,12407,15042,17675
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/599/original/IMG_0477.JPG)
 
 # My DIY Formaldehyde test kit
 
-by [mathew](../../../profile/mathew) | July 10, 2015 00:58
+by [mathew](/profile/mathew) | July 10, 2015 00:58
 
-July 10, 2015 00:58 | Tags: [calibration](../tag/calibration), [air-quality](../tag/air-quality), [air](../tag/air), [h2s](../tag/h2s), [barnstar:basic](../tag/barnstar:basic), [formaldehyde](../tag/formaldehyde), [open-air](../tag/open-air), [openair](../tag/openair), [wwb](../tag/wwb), [indoor-air-quality](../tag/indoor-air-quality), [where-we-breathe](../tag/where-we-breathe), [airpump](../tag/airpump), [replication:11317](../tag/replication:11317)
+July 10, 2015 00:58 | Tags: [calibration](/tag/calibration), [air-quality](/tag/air-quality), [air](/tag/air), [h2s](/tag/h2s), [barnstar:basic](/tag/barnstar:basic), [formaldehyde](/tag/formaldehyde), [open-air](/tag/open-air), [openair](/tag/openair), [wwb](/tag/wwb), [indoor-air-quality](/tag/indoor-air-quality), [where-we-breathe](/tag/where-we-breathe), [airpump](/tag/airpump), [replication:11317](/tag/replication:11317)
 
 ----
 

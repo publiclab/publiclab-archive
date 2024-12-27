@@ -6,18 +6,16 @@ author: ncuddy
 path: /notes/ncuddy/07-15-2015/mapknitter-map-of-uncc.md
 nid: 12070
 uid: 445528
-
 cids: 12212
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/696/original/1.JPG)
 
 # MapKnitter map of UNCC
 
-by [ncuddy](../../../profile/ncuddy) | July 15, 2015 15:44
+by [ncuddy](/profile/ncuddy) | July 15, 2015 15:44
 
-July 15, 2015 15:44 | Tags: [western-north-carolina](../tag/western-north-carolina), [mapknitter](../tag/mapknitter), [north-carolina](../tag/north-carolina), [southeast](../tag/southeast), [lat:35.3075696](../tag/lat:35.3075696), [lon:-80.7285523](../tag/lon:-80.7285523)
+July 15, 2015 15:44 | Tags: [western-north-carolina](/tag/western-north-carolina), [mapknitter](/tag/mapknitter), [north-carolina](/tag/north-carolina), [southeast](/tag/southeast), [lat:35.3075696](/tag/lat:35.3075696), [lon:-80.7285523](/tag/lon:-80.7285523)
 
 ----
 

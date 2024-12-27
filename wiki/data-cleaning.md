@@ -6,14 +6,14 @@ author: bhamster
 path: /wiki/data-cleaning.md
 nid: 28318
 uid: 664477
-
+cids: 
 ---
 
 # Cleaning and Organizing Environmental Data
 
-by [bhamster](../profile/bhamster)
+by [bhamster](/profile/bhamster)
 
-November 30, 2021 23:19 | Tags: [status:under-development](../tag/status:under-development), [method](../tag/method), [environmental-data](../tag/environmental-data), [presenting-data](../tag/presenting-data), [air-quality-data](../tag/air-quality-data), [data-cleaning](../tag/data-cleaning)
+November 30, 2021 23:19 | Tags: [status:under-development](/tag/status:under-development), [method](/tag/method), [environmental-data](/tag/environmental-data), [presenting-data](/tag/presenting-data), [air-quality-data](/tag/air-quality-data), [data-cleaning](/tag/data-cleaning)
 
 ----
 
@@ -66,7 +66,7 @@ _More to come here!_
 
 Questions tagged with `question:data-cleaning` will appear here
 
-[data-cleaning](../../tag/question:data-cleaning)
+[data-cleaning](/tag/question:data-cleaning)
 
 <br>
 
@@ -74,7 +74,7 @@ Questions tagged with `question:data-cleaning` will appear here
 
 Activity posts tagged with `activity:data-cleaning` will appear here
 
-[data-cleaning](../../tag/activity:data-cleaning)
+[data-cleaning](/tag/activity:data-cleaning)
 
 <br>
 

@@ -6,16 +6,14 @@ author: eustatic
 path: /8-6-2012/gas-some-hydrogen-sulfide-escaping-collapsing-salt-dome.md
 nid: 3159
 uid: 379
-
 cids: 
-
 ---
 
 # Gas, some Hydrogen Sulfide escaping from collapsing salt dome
 
-by [eustatic](../../../profile/eustatic) | August 07, 2012 02:19
+by [eustatic](/profile/eustatic) | August 07, 2012 02:19
 
-August 07, 2012 02:19 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-sites](../tag/h2s-sites)
+August 07, 2012 02:19 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [h2s-sites](/tag/h2s-sites)
 
 ----
 

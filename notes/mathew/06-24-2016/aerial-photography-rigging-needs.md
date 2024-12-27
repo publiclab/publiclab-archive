@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/06-24-2016/aerial-photography-rigging-needs.md
 nid: 13243
 uid: 4
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/791/original/P1090338.JPG)
 
 # Aerial Photography Rigging Needs
 
-by [mathew](../../../profile/mathew) | June 24, 2016 23:33
+by [mathew](/profile/mathew) | June 24, 2016 23:33
 
-June 24, 2016 23:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite](../tag/kite), [photo-rig](../tag/photo-rig), [balloon](../tag/balloon), [feedback](../tag/feedback), [reconfigurable-rig](../tag/reconfigurable-rig)
+June 24, 2016 23:33 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [kite](/tag/kite), [photo-rig](/tag/photo-rig), [balloon](/tag/balloon), [feedback](/tag/feedback), [reconfigurable-rig](/tag/reconfigurable-rig)
 
 ----
 

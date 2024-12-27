@@ -6,16 +6,14 @@ author: aayushgupta1
 path: /notes/aayushgupta1/03-21-2017/upgrading-plot-to-rails-5.md
 nid: 14043
 uid: 503612
-
 cids: 16417,16424,16425,16426,16427,16435
-
 ---
 
 # Upgrading Plot to Rails 5
 
-by [aayushgupta1](../../../profile/aayushgupta1) | March 21, 2017 10:18
+by [aayushgupta1](/profile/aayushgupta1) | March 21, 2017 10:18
 
-March 21, 2017 10:18 | Tags: [gsoc](../tag/gsoc), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [rgsoc-2017](../tag/rgsoc-2017), [response:13975](../tag/response:13975), [gsoc-2017-proposals](../tag/gsoc-2017-proposals), [rails-upgrade](../tag/rails-upgrade), [project](../tag/project), [first-time-poster](../tag/first-time-poster)
+March 21, 2017 10:18 | Tags: [gsoc](/tag/gsoc), [gsoc-2017](/tag/gsoc-2017), [soc](/tag/soc), [soc-2017](/tag/soc-2017), [rgsoc-2017](/tag/rgsoc-2017), [response:13975](/tag/response:13975), [gsoc-2017-proposals](/tag/gsoc-2017-proposals), [rails-upgrade](/tag/rails-upgrade), [project](/tag/project), [first-time-poster](/tag/first-time-poster)
 
 ----
 

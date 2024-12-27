@@ -6,18 +6,16 @@ author: amandagomez93
 path: /notes/amandagomez93/02-23-2015/my-two-cents-on-sensor-journalism.md
 nid: 11618
 uid: 428015
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/058/original/Screen_shot_2015-02-23_at_12.39.24_AM.png)
 
 # My Two Cents on Sensor Journalism 
 
-by [amandagomez93](../../../profile/amandagomez93) | February 23, 2015 05:42
+by [amandagomez93](/profile/amandagomez93) | February 23, 2015 05:42
 
-February 23, 2015 05:42 | Tags: [sensors](../tag/sensors), [journalism](../tag/journalism), [sensor-journalism](../tag/sensor-journalism)
+February 23, 2015 05:42 | Tags: [sensors](/tag/sensors), [journalism](/tag/journalism), [sensor-journalism](/tag/sensor-journalism)
 
 ----
 

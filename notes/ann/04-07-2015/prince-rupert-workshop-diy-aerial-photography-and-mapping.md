@@ -6,18 +6,16 @@ author: ann
 path: /notes/ann/04-07-2015/prince-rupert-workshop-diy-aerial-photography-and-mapping.md
 nid: 11748
 uid: 421543
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/560/original/Prince_Rupert_flyer.png)
 
 # Prince Rupert Workshop: DIY Aerial Photography and Mapping
 
-by [ann](../../../profile/ann) | April 07, 2015 02:15
+by [ann](/profile/ann) | April 07, 2015 02:15
 
-April 07, 2015 02:15 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [events:northwest](../tag/events:northwest), [date:04-11-2015](../tag/date:04-11-2015), [replication:14022](../tag/replication:14022)
+April 07, 2015 02:15 | Tags: [event](/tag/event), [event:rsvp](/tag/event:rsvp), [events:northwest](/tag/events:northwest), [date:04-11-2015](/tag/date:04-11-2015), [replication:14022](/tag/replication:14022)
 
 ----
 

@@ -6,18 +6,16 @@ author: nicholas
 path: /notes/nejohnson2/06-17-2013/itp-camp-fresh-kills.md
 nid: 8245
 uid: 53894
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/526/original/Screen_Shot_2013-06-17_at_10.34.15_AM.png)
 
 # ITP Camp @ Fresh Kills
 
-by [nicholas](../../../profile/nicholas) | June 17, 2013 14:34
+by [nicholas](/profile/nicholas) | June 17, 2013 14:34
 
-June 17, 2013 14:34 | Tags: [new-york-city](../tag/new-york-city), [landfill](../tag/landfill), [event](../tag/event), [waste](../tag/waste), [trash](../tag/trash), [fresh-kills](../tag/fresh-kills), [itp](../tag/itp), [nyu](../tag/nyu), [staten-island](../tag/staten-island)
+June 17, 2013 14:34 | Tags: [new-york-city](/tag/new-york-city), [landfill](/tag/landfill), [event](/tag/event), [waste](/tag/waste), [trash](/tag/trash), [fresh-kills](/tag/fresh-kills), [itp](/tag/itp), [nyu](/tag/nyu), [staten-island](/tag/staten-island)
 
 ----
 

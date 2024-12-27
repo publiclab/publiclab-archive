@@ -6,16 +6,16 @@ author: liz
 path: /wiki/organizers-summit-2015-photos-liz.md
 nid: 12423
 uid: 7
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/811/original/VJ-smile.gif)
 
 # organizers-summit-2015-photos-liz
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-November 20, 2015 13:42 | Tags: [barnraising](../tag/barnraising), [barnraising-2015](../tag/barnraising-2015)
+November 20, 2015 13:42 | Tags: [barnraising](/tag/barnraising), [barnraising-2015](/tag/barnraising-2015)
 
 ----
 

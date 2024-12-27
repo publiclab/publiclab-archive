@@ -6,12 +6,12 @@ author: warren
 path: /wiki/silica-detection.md
 nid: 9382
 uid: 1
-
+cids: 
 ---
 
 # Silica detection
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 September 28, 2013 17:06 | Tags: 
 

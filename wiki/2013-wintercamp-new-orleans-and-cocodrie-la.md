@@ -6,14 +6,14 @@ author: Shannon
 path: /wiki/2013-wintercamp-new-orleans-and-cocodrie-la.md
 nid: 5103
 uid: 9
-
+cids: 
 ---
 
 # 2013 WinterCamp: New Orleans and Cocodrie, LA
 
-by [mathew](../profile/mathew), [Shannon](../profile/Shannon)
+by [mathew](/profile/mathew), [Shannon](/profile/Shannon)
 
-December 04, 2012 16:34 | Tags: [gulf-coast](../tag/gulf-coast), [events](../tag/events), [oil-spill-toolkit](../tag/oil-spill-toolkit), [balloon-mapping-kit](../tag/balloon-mapping-kit), [cocodrie--la](../tag/cocodrie--la), [oil-response-toolkit](../tag/oil-response-toolkit), [wintercamp](../tag/wintercamp)
+December 04, 2012 16:34 | Tags: [gulf-coast](/tag/gulf-coast), [events](/tag/events), [oil-spill-toolkit](/tag/oil-spill-toolkit), [balloon-mapping-kit](/tag/balloon-mapping-kit), [cocodrie--la](/tag/cocodrie--la), [oil-response-toolkit](/tag/oil-response-toolkit), [wintercamp](/tag/wintercamp)
 
 ----
 

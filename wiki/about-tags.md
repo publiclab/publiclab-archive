@@ -6,16 +6,16 @@ author: bhamster
 path: /wiki/about-tags.md
 nid: 31052
 uid: 664477
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/765/original/Tags_visualization_2.png)
 
 # About Tags
 
-by [bhamster](../profile/bhamster)
+by [bhamster](/profile/bhamster)
 
-June 14, 2022 16:04 | Tags: [website](../tag/website), [tags](../tag/tags), [topics](../tag/topics), [tagging](../tag/tagging), [parent:website](../tag/parent:website)
+June 14, 2022 16:04 | Tags: [website](/tag/website), [tags](/tag/tags), [topics](/tag/topics), [tagging](/tag/tagging), [parent:website](/tag/parent:website)
 
 ----
 

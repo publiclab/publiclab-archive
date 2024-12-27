@@ -6,14 +6,14 @@ author: warren
 path: /wiki/gsoc-application-template.md
 nid: 899
 uid: 1
-
+cids: 
 ---
 
 # SoC Application Template
 
-by [warren](../profile/warren), [liz](../profile/liz)
+by [warren](/profile/warren), [liz](/profile/liz)
 
-March 07, 2012 21:01 | Tags: [gsoc](../tag/gsoc), [parent:gsoc](../tag/parent:gsoc)
+March 07, 2012 21:01 | Tags: [gsoc](/tag/gsoc), [parent:gsoc](/tag/parent:gsoc)
 
 ----
 

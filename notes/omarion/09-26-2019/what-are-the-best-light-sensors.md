@@ -6,16 +6,14 @@ author: omarion
 path: /notes/omarion/09-26-2019/what-are-the-best-light-sensors.md
 nid: 20997
 uid: 622967
-
 cids: 25596,25597,25699,25712
-
 ---
 
 # what are the best light sensors?
 
-by [omarion](../../../profile/omarion) | September 26, 2019 17:33
+by [omarion](/profile/omarion) | September 26, 2019 17:33
 
-September 26, 2019 17:33 | Tags: [sensing](../tag/sensing), [question:spectrometry](../tag/question:spectrometry), [sensor](../tag/sensor), [question:general](../tag/question:general), [question:sensor](../tag/question:sensor), [wateristic](../tag/wateristic), [question:wateristic](../tag/question:wateristic), [wateristics](../tag/wateristics), [question:led](../tag/question:led), [question:light](../tag/question:light), [with:amallozzi](../tag/with:amallozzi)
+September 26, 2019 17:33 | Tags: [sensing](/tag/sensing), [question:spectrometry](/tag/question:spectrometry), [sensor](/tag/sensor), [question:general](/tag/question:general), [question:sensor](/tag/question:sensor), [wateristic](/tag/wateristic), [question:wateristic](/tag/question:wateristic), [wateristics](/tag/wateristics), [question:led](/tag/question:led), [question:light](/tag/question:light), [with:amallozzi](/tag/with:amallozzi)
 
 ----
 

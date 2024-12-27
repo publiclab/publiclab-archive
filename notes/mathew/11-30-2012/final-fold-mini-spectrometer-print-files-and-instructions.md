@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/11-30-2012/final-fold-mini-spectrometer-print-files-and-instructions.md
 nid: 5071
 uid: 4
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-11-30 at 2.04.45 PM.png)
 
 # Final fold-up mini-spectrometer print files and instructions
 
-by [mathew](../../../profile/mathew) | November 30, 2012 22:19
+by [mathew](/profile/mathew) | November 30, 2012 22:19
 
-November 30, 2012 22:19 | Tags: [spectrometer](../tag/spectrometer), [guides](../tag/guides), [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer)
+November 30, 2012 22:19 | Tags: [spectrometer](/tag/spectrometer), [guides](/tag/guides), [fold-up-mini-spectrometer](/tag/fold-up-mini-spectrometer)
 
 ----
 

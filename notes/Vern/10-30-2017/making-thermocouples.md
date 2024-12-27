@@ -6,16 +6,14 @@ author: Vern
 path: /notes/Vern/10-30-2017/making-thermocouples.md
 nid: 15127
 uid: 517328
-
 cids: 17600
-
 ---
 
 # Making Thermocouples
 
-by [Vern](../../../profile/Vern) | October 30, 2017 09:10
+by [Vern](/profile/Vern) | October 30, 2017 09:10
 
-October 30, 2017 09:10 | Tags: [thermocouple](../tag/thermocouple)
+October 30, 2017 09:10 | Tags: [thermocouple](/tag/thermocouple)
 
 ----
 

@@ -6,18 +6,16 @@ author: alaxallves
 path: /notes/alaxallves/03-06-2020/gsoc-proposal-2020-spectral-workbench-rails-and-devops-upgrades.md
 nid: 23093
 uid: 577447
-
 cids: 26438,26445,26481,26496,26546,26561,26564,26565,26571,26606,26609,26621
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/365/original/upgrade-2.jpg)
 
 # GSoC Proposal 2020: Mapknitter Image Export and Spectral Workbench upgrade
 
-by [alaxallves](../../../profile/alaxallves) | March 06, 2020 14:07
+by [alaxallves](/profile/alaxallves) | March 06, 2020 14:07
 
-March 06, 2020 14:07 | Tags: [soc-2020-proposals](../tag/soc-2020-proposals), [zoom:18](../tag/zoom:18), [lat:-15.890474](../tag/lat:-15.890474), [lon:-48.014493](../tag/lon:-48.014493)
+March 06, 2020 14:07 | Tags: [soc-2020-proposals](/tag/soc-2020-proposals), [zoom:18](/tag/zoom:18), [lat:-15.890474](/tag/lat:-15.890474), [lon:-48.014493](/tag/lon:-48.014493)
 
 ----
 

@@ -6,18 +6,16 @@ author: cversek
 path: /notes/cversek/09-18-2014/air-quality-indoors-and-in-tent-at-leaffest-2014.md
 nid: 11151
 uid: 48275
-
 cids: 10321,10329,10332,10338,10339,10355,11133,11398
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/880/original/IMAG0219.jpg)
 
 # Air Quality Indoors and in Tent at LEAFFEST 2014
 
-by [cversek](../../../profile/cversek) | September 18, 2014 05:33
+by [cversek](/profile/cversek) | September 18, 2014 05:33
 
-September 18, 2014 05:33 | Tags: [indoor-air-quality-mapping](../tag/indoor-air-quality-mapping), [vermont](../tag/vermont), [farming](../tag/farming), [leaffest](../tag/leaffest), [pvos](../tag/pvos), [air-quality](../tag/air-quality), [riffle](../tag/riffle), [northeast](../tag/northeast), [leaffest2014](../tag/leaffest2014), [riffle-examples](../tag/riffle-examples)
+September 18, 2014 05:33 | Tags: [indoor-air-quality-mapping](/tag/indoor-air-quality-mapping), [vermont](/tag/vermont), [farming](/tag/farming), [leaffest](/tag/leaffest), [pvos](/tag/pvos), [air-quality](/tag/air-quality), [riffle](/tag/riffle), [northeast](/tag/northeast), [leaffest2014](/tag/leaffest2014), [riffle-examples](/tag/riffle-examples)
 
 ----
 

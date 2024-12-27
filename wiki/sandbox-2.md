@@ -6,14 +6,14 @@ author: warren
 path: /wiki/sandbox-2.md
 nid: 15029
 uid: 1
-
+cids: 20072,21265
 ---
 
 # sandbox-2
 
-by [warren](../profile/warren), [liz](../profile/liz), [icarito](../profile/icarito)
+by [warren](/profile/warren), [liz](/profile/liz), [icarito](/profile/icarito)
 
-October 11, 2017 19:47 | Tags: [demo](../tag/demo), [14625](../tag/14625)
+October 11, 2017 19:47 | Tags: [demo](/tag/demo), [14625](/tag/14625)
 
 ----
 
@@ -22,11 +22,11 @@ October 11, 2017 19:47 | Tags: [demo](../tag/demo), [14625](../tag/14625)
 Connect with Public Lab projects around the world! 
 
 ## South America
-[south-america](../../tag/south-america)
+[south-america](/tag/south-america)
 [wikis:south-america]
 ****
 ## Asia
-[asia](../../tag/asia)
+[asia](/tag/asia)
 [wikis:asia]
 ****
 ## Africa
@@ -46,7 +46,7 @@ Test:
 
 ## Grid of notes
 
-[grid:peru](../../tag/grid:peru)
+[grid:peru](/tag/grid:peru)
 
 
 

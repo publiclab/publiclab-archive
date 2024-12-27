@@ -6,18 +6,16 @@ author: marlokeno
 path: /notes/marlokeno/12-23-2015/a-proposal-for-a-way-to-remediate-indoor-silica-dust.md
 nid: 12539
 uid: 420760
-
 cids: 13197,13201,13204,13208,13209,13211,13212,13272,13275,13318
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/451/original/OSHA_silica_poster.jpg)
 
 # A proposal for a way to remediate indoor silica dust
 
-by [marlokeno](../../../profile/marlokeno) | December 23, 2015 02:49
+by [marlokeno](/profile/marlokeno) | December 23, 2015 02:49
 
-December 23, 2015 02:49 | Tags: [remediation](../tag/remediation), [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [air](../tag/air), [silica](../tag/silica), [quality](../tag/quality), [frac-sand](../tag/frac-sand), [midwest](../tag/midwest), [wherewebreathe](../tag/wherewebreathe), [indoor-air-quality](../tag/indoor-air-quality), [air-monitoring](../tag/air-monitoring), [parent:frac-sand](../tag/parent:frac-sand)
+December 23, 2015 02:49 | Tags: [remediation](/tag/remediation), [wisconsin](/tag/wisconsin), [air-quality](/tag/air-quality), [air](/tag/air), [silica](/tag/silica), [quality](/tag/quality), [frac-sand](/tag/frac-sand), [midwest](/tag/midwest), [wherewebreathe](/tag/wherewebreathe), [indoor-air-quality](/tag/indoor-air-quality), [air-monitoring](/tag/air-monitoring), [parent:frac-sand](/tag/parent:frac-sand)
 
 ----
 

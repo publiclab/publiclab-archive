@@ -6,18 +6,16 @@ author: eustatic
 path: /3-27-2012/thoughts-water-sensing-needs-non-profits-louisiana.md
 nid: 1547
 uid: 379
-
 cids: 20797
-
 ---
 
 ![](https://publiclab.org/sites/default/files/dream water probe.png)
 
 # Thoughts on water sensing needs of non-profits in Louisiana
 
-by [eustatic](../../../profile/eustatic) | March 27, 2012 20:19
+by [eustatic](/profile/eustatic) | March 27, 2012 20:19
 
-March 27, 2012 20:19 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [water-quality](../tag/water-quality), [water](../tag/water), [water-sensing](../tag/water-sensing), [dissolved-oxygen](../tag/dissolved-oxygen), [oxygen](../tag/oxygen), [probe](../tag/probe), [underwater](../tag/underwater), [usecase](../tag/usecase), [wastewater](../tag/wastewater), [do](../tag/do), [first-time-poster](../tag/first-time-poster)
+March 27, 2012 20:19 | Tags: [gulf-coast](/tag/gulf-coast), [louisiana](/tag/louisiana), [water-quality](/tag/water-quality), [water](/tag/water), [water-sensing](/tag/water-sensing), [dissolved-oxygen](/tag/dissolved-oxygen), [oxygen](/tag/oxygen), [probe](/tag/probe), [underwater](/tag/underwater), [usecase](/tag/usecase), [wastewater](/tag/wastewater), [do](/tag/do), [first-time-poster](/tag/first-time-poster)
 
 ----
 

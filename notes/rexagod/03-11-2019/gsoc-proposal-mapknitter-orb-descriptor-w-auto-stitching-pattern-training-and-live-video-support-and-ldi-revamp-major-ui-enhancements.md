@@ -6,18 +6,16 @@ author: rexagod
 path: /notes/rexagod/03-11-2019/gsoc-proposal-mapknitter-orb-descriptor-w-auto-stitching-pattern-training-and-live-video-support-and-ldi-revamp-major-ui-enhancements.md
 nid: 18515
 uid: 564358
-
 cids: 22114,22118,22140,22141,22146,22147,22148,22149,22163,22169,22183,22195,22204,22226,22242,23337,23342,23344,23361,23368,23688,23689,23691,23771,23773,23778,23805,23814,23824,23993,24000,24013,24100
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/001/original/untitled_%281%29.jpg)
 
 # GSoC proposal: Mapknitter ORB Descriptor (w/ auto-stitching, pattern training, and live video support) and LDI revamp (major UI enhancements)
 
-by [rexagod](../../../profile/rexagod) | March 11, 2019 15:08
+by [rexagod](/profile/rexagod) | March 11, 2019 15:08
 
-March 11, 2019 15:08 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [first-time-poster](../tag/first-time-poster), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [soc-2019-projects](../tag/soc-2019-projects)
+March 11, 2019 15:08 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [soc](/tag/soc), [response:13975](/tag/response:13975), [first-time-poster](/tag/first-time-poster), [rgsoc-2019](/tag/rgsoc-2019), [gsoc-2019](/tag/gsoc-2019), [soc-2019](/tag/soc-2019), [soc-2019-proposals](/tag/soc-2019-proposals), [soc-2019-projects](/tag/soc-2019-projects)
 
 ----
 

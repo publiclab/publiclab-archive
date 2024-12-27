@@ -6,18 +6,16 @@ author: eustatic
 path: /09-09-2021/post-ida-nurdle-spill-from-plastic-rail-car-derailment-lessons-from-raceland.md
 nid: 27716
 uid: 379
-
 cids: 29227,29232,29233,29234,29235,29236,29416,29686
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/790/original/train_derailment_raceland_Ida_nurdles_1315801.jpg)
 
 # Post-Ida Nurdle Spill from Plastic Rail Car derailment: lessons from Raceland
 
-by [eustatic](../../../profile/eustatic) | September 09, 2021 19:09
+by [eustatic](/profile/eustatic) | September 09, 2021 19:09
 
-September 09, 2021 19:09 | Tags: [gulf-coast](../tag/gulf-coast), [aerial-photography](../tag/aerial-photography), [water-quality](../tag/water-quality), [water](../tag/water), [train](../tag/train), [disaster-response](../tag/disaster-response), [aerialphotography](../tag/aerialphotography), [microplastics](../tag/microplastics), [zoom:13](../tag/zoom:13), [nurdle](../tag/nurdle), [lat:29.747288](../tag/lat:29.747288), [lon:-90.608607](../tag/lon:-90.608607)
+September 09, 2021 19:09 | Tags: [gulf-coast](/tag/gulf-coast), [aerial-photography](/tag/aerial-photography), [water-quality](/tag/water-quality), [water](/tag/water), [train](/tag/train), [disaster-response](/tag/disaster-response), [aerialphotography](/tag/aerialphotography), [microplastics](/tag/microplastics), [zoom:13](/tag/zoom:13), [nurdle](/tag/nurdle), [lat:29.747288](/tag/lat:29.747288), [lon:-90.608607](/tag/lon:-90.608607)
 
 ----
 

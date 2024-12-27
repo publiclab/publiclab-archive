@@ -6,16 +6,14 @@ author: mathew
 path: /notes/mathew/11-3-2012/barnraising-stewart-talks-map-making.md
 nid: 4760
 uid: 4
-
 cids: 
-
 ---
 
 # Barnraising: Stewart talks map making
 
-by [mathew](../../../profile/mathew) | November 03, 2012 15:30
+by [mathew](/profile/mathew) | November 03, 2012 15:30
 
-November 03, 2012 15:30 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [photoshop](../tag/photoshop), [balloon-mapping-kit](../tag/balloon-mapping-kit), [barnraising2012](../tag/barnraising2012)
+November 03, 2012 15:30 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [mapknitter](/tag/mapknitter), [photoshop](/tag/photoshop), [balloon-mapping-kit](/tag/balloon-mapping-kit), [barnraising2012](/tag/barnraising2012)
 
 ----
 

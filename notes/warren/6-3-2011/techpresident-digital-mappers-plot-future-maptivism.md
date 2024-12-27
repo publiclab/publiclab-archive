@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/6-3-2011/techpresident-digital-mappers-plot-future-maptivism.md
 nid: 332
 uid: 1
-
 cids: 
-
 ---
 
 # TechPresident: Digital Mappers Plot the Future of Maptivism
 
-by [warren](../../../profile/warren) | June 03, 2011 23:14
+by [warren](/profile/warren) | June 03, 2011 23:14
 
-June 03, 2011 23:14 | Tags: [lima](../tag/lima), [open-source](../tag/open-source), [media](../tag/media), [techpresident](../tag/techpresident), [opensource](../tag/opensource)
+June 03, 2011 23:14 | Tags: [lima](/tag/lima), [open-source](/tag/open-source), [media](/tag/media), [techpresident](/tag/techpresident), [opensource](/tag/opensource)
 
 ----
 

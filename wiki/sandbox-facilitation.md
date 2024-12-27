@@ -6,12 +6,12 @@ author: liz
 path: /wiki/sandbox-facilitation.md
 nid: 27729
 uid: 7
-
+cids: 
 ---
 
 # sandbox-facilitation
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
 September 15, 2021 19:39 | Tags: 
 
@@ -53,11 +53,11 @@ Ground rules are really helpful for meetings. It's important that people buy int
 
 ## Questions
 
-[facilitation](../../tag/question:facilitation)
+[facilitation](/tag/question:facilitation)
 
 ## Activities
 
-[facilitation](../../tag/activity:facilitation)
+[facilitation](/tag/activity:facilitation)
 
 ****
 

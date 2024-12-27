@@ -6,14 +6,14 @@ author: dhaffnersr
 path: /wiki/which-cuvettes-for-spectroscopy-are-optically-the-best-suited-for-the-job.md
 nid: 13159
 uid: 461120
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/456/original/cat_in_a_bottle.jpg)
 
 # Which Cuvettes for Spectroscopy are optically the best suited for the job? 
 
-by [dhaffnersr](../profile/dhaffnersr)
+by [dhaffnersr](/profile/dhaffnersr)
 
 June 02, 2016 19:18 | Tags: 
 

@@ -6,18 +6,16 @@ author: DanielleS
 path: /notes/DanielleS/03-24-2019/soil-testing-at-the-houston-barnraising.md
 nid: 18837
 uid: 569208
-
 cids: 25299,26536,28304,28305
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/618/original/group_pic_barnraising.jpg)
 
 # Soil Testing at the Houston Barnraising 
 
-by [DanielleS](../../../profile/DanielleS) | March 24, 2019 22:05
+by [DanielleS](/profile/DanielleS) | March 24, 2019 22:05
 
-March 24, 2019 22:05 | Tags: [soil](../tag/soil), [climate-change](../tag/climate-change), [soil-testing](../tag/soil-testing), [texas](../tag/texas), [houston](../tag/houston), [txbarnraising](../tag/txbarnraising), [soil-contamination](../tag/soil-contamination), [lat:29.760426](../tag/lat:29.760426), [lon:-95.369802](../tag/lon:-95.369802), [hanby-soil-kit](../tag/hanby-soil-kit)
+March 24, 2019 22:05 | Tags: [soil](/tag/soil), [climate-change](/tag/climate-change), [soil-testing](/tag/soil-testing), [texas](/tag/texas), [houston](/tag/houston), [txbarnraising](/tag/txbarnraising), [soil-contamination](/tag/soil-contamination), [lat:29.760426](/tag/lat:29.760426), [lon:-95.369802](/tag/lon:-95.369802), [hanby-soil-kit](/tag/hanby-soil-kit)
 
 ----
 

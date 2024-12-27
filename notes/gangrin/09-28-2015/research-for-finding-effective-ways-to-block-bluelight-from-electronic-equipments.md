@@ -6,18 +6,16 @@ author: gangrin
 path: /notes/gangrin/09-28-2015/research-for-finding-effective-ways-to-block-bluelight-from-electronic-equipments.md
 nid: 12245
 uid: 452627
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/687/original/%3F%3F%3F.jpg)
 
 # Research for finding effective ways to block bluelight from electronic equipments
 
-by [gangrin](../../../profile/gangrin) | September 28, 2015 06:53
+by [gangrin](/profile/gangrin) | September 28, 2015 06:53
 
-September 28, 2015 06:53 | Tags: [bluelight](../tag/bluelight), [korea](../tag/korea), [first-time-poster](../tag/first-time-poster)
+September 28, 2015 06:53 | Tags: [bluelight](/tag/bluelight), [korea](/tag/korea), [first-time-poster](/tag/first-time-poster)
 
 ----
 

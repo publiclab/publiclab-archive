@@ -6,16 +6,16 @@ author: mathew
 path: /wiki/reconfigurable-rig.md
 nid: 13395
 uid: 4
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/765/original/ReconfigurableRigConfigurationRenders.png)
 
 # Reconfigurable Rig
 
-by [mathew](../profile/mathew)
+by [mathew](/profile/mathew)
 
-August 25, 2016 18:15 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [photography](../tag/photography), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [kites](../tag/kites), [bap](../tag/bap), [pap](../tag/pap), [pole-mapping](../tag/pole-mapping), [diy-kites](../tag/diy-kites), [kaptery](../tag/kaptery), [autodesk](../tag/autodesk), [reconfigurable-rig](../tag/reconfigurable-rig), [activities:aerial-photography](../tag/activities:aerial-photography), [camera-housing](../tag/camera-housing)
+August 25, 2016 18:15 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [photography](/tag/photography), [kap](/tag/kap), [photo-rig](/tag/photo-rig), [kites](/tag/kites), [bap](/tag/bap), [pap](/tag/pap), [pole-mapping](/tag/pole-mapping), [diy-kites](/tag/diy-kites), [kaptery](/tag/kaptery), [autodesk](/tag/autodesk), [reconfigurable-rig](/tag/reconfigurable-rig), [activities:aerial-photography](/tag/activities:aerial-photography), [camera-housing](/tag/camera-housing)
 
 ----
 

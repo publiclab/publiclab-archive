@@ -6,18 +6,16 @@ author: rebeccah
 path: /notes/rebeccah/08-29-2016/riffle-device-water-conductivity-sensor.md
 nid: 13403
 uid: 489342
-
 cids: 15254,15255,15257,15292,15421,15423,15424
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/823/original/Coqui_Schematic_schem.pdf)
 
 # Riffle Device: Water Conductivity Sensor
 
-by [rebeccah](../../../profile/rebeccah) | August 29, 2016 15:07
+by [rebeccah](/profile/rebeccah) | August 29, 2016 15:07
 
-August 29, 2016 15:07 | Tags: [water](../tag/water), [data](../tag/data), [probe](../tag/probe), [conductivity](../tag/conductivity), [riffle](../tag/riffle), [logger](../tag/logger), [quality](../tag/quality), [coqui](../tag/coqui), [open](../tag/open), [rtc](../tag/rtc), [drinking](../tag/drinking), [surface](../tag/surface), [activity:riffle](../tag/activity:riffle), [riffle-examples](../tag/riffle-examples), [activity:conductivity](../tag/activity:conductivity), [activity:coqui-version](../tag/activity:coqui-version)
+August 29, 2016 15:07 | Tags: [water](/tag/water), [data](/tag/data), [probe](/tag/probe), [conductivity](/tag/conductivity), [riffle](/tag/riffle), [logger](/tag/logger), [quality](/tag/quality), [coqui](/tag/coqui), [open](/tag/open), [rtc](/tag/rtc), [drinking](/tag/drinking), [surface](/tag/surface), [activity:riffle](/tag/activity:riffle), [riffle-examples](/tag/riffle-examples), [activity:conductivity](/tag/activity:conductivity), [activity:coqui-version](/tag/activity:coqui-version)
 
 ----
 

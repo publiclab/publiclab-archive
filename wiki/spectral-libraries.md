@@ -6,12 +6,12 @@ author: warren
 path: /wiki/spectral-libraries.md
 nid: 547
 uid: 1
-
+cids: 
 ---
 
 # Spectral libraries
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 November 07, 2011 15:48 | Tags: 
 

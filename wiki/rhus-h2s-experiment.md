@@ -6,14 +6,14 @@ author: sara
 path: /wiki/rhus-h2s-experiment.md
 nid: 2351
 uid: 8
-
+cids: 
 ---
 
 # Rhus H2S experiment
 
-by [deepwinter](../profile/deepwinter), [sara](../profile/sara)
+by [deepwinter](/profile/deepwinter), [sara](/profile/sara)
 
-June 05, 2012 18:40 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s)
+June 05, 2012 18:40 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s)
 
 ----
 

@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/03-16-2014/initial-observations-free-sfm-tools-for-scaled-measurements-and-volume-calculations.md
 nid: 10188
 uid: 77
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/269/original/image_from_123D_model_on_site.jpg)
 
 # initial observations (revised): free SFM tools for scaled measurements and volume calculations
 
-by [patcoyle](../../../profile/patcoyle) | March 16, 2014 00:04
+by [patcoyle](/profile/patcoyle) | March 16, 2014 00:04
 
-March 16, 2014 00:04 | Tags: [sfm](../tag/sfm), [structure-from-motion](../tag/structure-from-motion), [measurement](../tag/measurement), [autostitch](../tag/autostitch), [3dmodeling](../tag/3dmodeling)
+March 16, 2014 00:04 | Tags: [sfm](/tag/sfm), [structure-from-motion](/tag/structure-from-motion), [measurement](/tag/measurement), [autostitch](/tag/autostitch), [3dmodeling](/tag/3dmodeling)
 
 ----
 

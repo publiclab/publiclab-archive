@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/02-07-2017/editable-wiki-sub-sections-prototype-on-publiclab-org.md
 nid: 13906
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/458/original/IMG_20170207_140919_109.jpg)
 
 # Editable wiki sub-sections prototype on PublicLab.org
 
-by [warren](../../../profile/warren) | February 07, 2017 19:15
+by [warren](/profile/warren) | February 07, 2017 19:15
 
-February 07, 2017 19:15 | Tags: [documentation](../tag/documentation), [software](../tag/software), [developers](../tag/developers), [coding](../tag/coding), [wwg](../tag/wwg), [rich-wikis](../tag/rich-wikis)
+February 07, 2017 19:15 | Tags: [documentation](/tag/documentation), [software](/tag/software), [developers](/tag/developers), [coding](/tag/coding), [wwg](/tag/wwg), [rich-wikis](/tag/rich-wikis)
 
 ----
 

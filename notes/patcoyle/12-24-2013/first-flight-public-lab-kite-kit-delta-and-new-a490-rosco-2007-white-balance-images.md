@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/12-24-2013/first-flight-public-lab-kite-kit-delta-and-new-a490-rosco-2007-white-balance-images.md
 nid: 9914
 uid: 77
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/448/original/PL_Delta_crpd.jpg)
 
 # First flight Public Lab Kite kit Delta and new A490 Rosco 2007 white balance  images 
 
-by [patcoyle](../../../profile/patcoyle) | December 24, 2013 00:58
+by [patcoyle](/profile/patcoyle) | December 24, 2013 00:58
 
-December 24, 2013 00:58 | Tags: [kap](../tag/kap), [infragram](../tag/infragram)
+December 24, 2013 00:58 | Tags: [kap](/tag/kap), [infragram](/tag/infragram)
 
 ----
 

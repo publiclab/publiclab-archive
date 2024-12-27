@@ -6,18 +6,16 @@ author: kgradow1
 path: /notes/kgradow1/10-30-2020/statistics-for-action-air-quality-guide.md
 nid: 24878
 uid: 297929
-
 cids: 27914
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/424/original/Screen_Shot_2020-10-30_at_4.08.54_PM.png)
 
 # Statistics for Action Air Quality Guide
 
-by [kgradow1](../../../profile/kgradow1) | October 30, 2020 20:38
+by [kgradow1](/profile/kgradow1) | October 30, 2020 20:38
 
-October 30, 2020 20:38 | Tags: [particulate-sensing](../tag/particulate-sensing), [pesticides](../tag/pesticides), [air-quality](../tag/air-quality), [data](../tag/data), [formaldehyde](../tag/formaldehyde), [bucket-brigade](../tag/bucket-brigade), [particulate-monitoring](../tag/particulate-monitoring), [about](../tag/about), [community-organizing](../tag/community-organizing), [air-sampling](../tag/air-sampling), [pesticide-exposure](../tag/pesticide-exposure), [lon:-71](../tag/lon:-71), [lat:42](../tag/lat:42), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor), [statistics-for-action](../tag/statistics-for-action)
+October 30, 2020 20:38 | Tags: [particulate-sensing](/tag/particulate-sensing), [pesticides](/tag/pesticides), [air-quality](/tag/air-quality), [data](/tag/data), [formaldehyde](/tag/formaldehyde), [bucket-brigade](/tag/bucket-brigade), [particulate-monitoring](/tag/particulate-monitoring), [about](/tag/about), [community-organizing](/tag/community-organizing), [air-sampling](/tag/air-sampling), [pesticide-exposure](/tag/pesticide-exposure), [lon:-71](/tag/lon:-71), [lat:42](/tag/lat:42), [zoom:6](/tag/zoom:6), [bucket-monitor](/tag/bucket-monitor), [statistics-for-action](/tag/statistics-for-action)
 
 ----
 

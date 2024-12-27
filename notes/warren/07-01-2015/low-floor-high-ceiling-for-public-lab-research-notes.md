@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/07-01-2015/low-floor-high-ceiling-for-public-lab-research-notes.md
 nid: 12027
 uid: 1
-
 cids: 12067,12068,12069,12070,12073,12074,12076,12077,12079,12080,12082,12083,12084,12133,12138,12211,12215
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/498/original/research-writers.png)
 
 # Low floor, high ceiling for Public Lab research notes
 
-by [warren](../../../profile/warren) | July 01, 2015 15:41
+by [warren](/profile/warren) | July 01, 2015 15:41
 
-July 01, 2015 15:41 | Tags: [collaboration](../tag/collaboration), [community](../tag/community), [website](../tag/website), [research](../tag/research), [blog](../tag/blog), [authoring](../tag/authoring), [research-notes](../tag/research-notes), [growth](../tag/growth), [ui](../tag/ui)
+July 01, 2015 15:41 | Tags: [collaboration](/tag/collaboration), [community](/tag/community), [website](/tag/website), [research](/tag/research), [blog](/tag/blog), [authoring](/tag/authoring), [research-notes](/tag/research-notes), [growth](/tag/growth), [ui](/tag/ui)
 
 ----
 

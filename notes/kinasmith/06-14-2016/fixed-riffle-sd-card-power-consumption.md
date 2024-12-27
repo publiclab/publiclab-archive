@@ -6,18 +6,16 @@ author: kinasmith
 path: /notes/kinasmith/06-14-2016/fixed-riffle-sd-card-power-consumption.md
 nid: 13195
 uid: 445906
-
 cids: 14761,14766,14768,15098
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/611/original/IMG_20160611_122918.jpg)
 
 # *FIXED* Riffle SD card Power Consumption
 
-by [kinasmith](../../../profile/kinasmith) | June 14, 2016 00:17
+by [kinasmith](/profile/kinasmith) | June 14, 2016 00:17
 
-June 14, 2016 00:17 | Tags: [riffle](../tag/riffle)
+June 14, 2016 00:17 | Tags: [riffle](/tag/riffle)
 
 ----
 

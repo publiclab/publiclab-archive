@@ -6,18 +6,16 @@ author: lilybui
 path: /notes/lilybui/11-27-2014/riffle-ito-rhapsody-more-data-auralization-sonification.md
 nid: 11412
 uid: 420662
-
 cids: 10868,10877,10881
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/138/original/20141126_213113.jpg)
 
 # Riffle-ito Rhapsody: More Data Auralization/Sonification
 
-by [lilybui](../../../profile/lilybui) | November 27, 2014 17:38
+by [lilybui](/profile/lilybui) | November 27, 2014 17:38
 
-November 27, 2014 17:38 | Tags: [water](../tag/water), [data](../tag/data), [riffle](../tag/riffle), [quality](../tag/quality), [openwater](../tag/openwater), [coqui](../tag/coqui), [riffle-examples](../tag/riffle-examples), [sound](../tag/sound)
+November 27, 2014 17:38 | Tags: [water](/tag/water), [data](/tag/data), [riffle](/tag/riffle), [quality](/tag/quality), [openwater](/tag/openwater), [coqui](/tag/coqui), [riffle-examples](/tag/riffle-examples), [sound](/tag/sound)
 
 ----
 

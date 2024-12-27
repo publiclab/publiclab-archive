@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/3-14-2012/14-ways-contribute-open-source-without-being-programming-genius-or-rock-star.md
 nid: 925
 uid: 1
-
 cids: 
-
 ---
 
 # 14 Ways to Contribute to Open Source without Being a Programming Genius or a Rock Star
 
-by [warren](../../../profile/warren) | March 15, 2012 03:07
+by [warren](/profile/warren) | March 15, 2012 03:07
 
-March 15, 2012 03:07 | Tags: [collaboration](../tag/collaboration), [process](../tag/process), [open-source](../tag/open-source)
+March 15, 2012 03:07 | Tags: [collaboration](/tag/collaboration), [process](/tag/process), [open-source](/tag/open-source)
 
 ----
 

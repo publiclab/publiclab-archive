@@ -6,18 +6,16 @@ author: eustatic
 path: /6-28-2012/h2s-retrieval-bayou-sauvage.md
 nid: 2663
 uid: 379
-
 cids: 960,972,990,991,992,993,994,995,998,999
-
 ---
 
 ![](https://publiclab.org/sites/default/files/H2S retrieval.jpg)
 
 # H2S retrieval from Bayou Sauvage
 
-by [eustatic](../../../profile/eustatic) | June 28, 2012 17:38
+by [eustatic](/profile/eustatic) | June 28, 2012 17:38
 
-June 28, 2012 17:38 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [field-test](../tag/field-test)
+June 28, 2012 17:38 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [field-test](/tag/field-test)
 
 ----
 

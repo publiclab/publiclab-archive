@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/08-08-2014/canon-sd4000is-as-infragram.md
 nid: 11023
 uid: 1
-
 cids: 9827,9829,9830,9831,9832,9833,9835,9837,9841
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/141/original/2014-08-08T18_41_00.327Z.jpg)
 
 # Canon SD4000IS as Infragram
 
-by [warren](../../../profile/warren) | August 08, 2014 18:50
+by [warren](/profile/warren) | August 08, 2014 18:50
 
-August 08, 2014 18:50 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [rosco](../tag/rosco), [red-filter](../tag/red-filter)
+August 08, 2014 18:50 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [infragram](/tag/infragram), [rosco](/tag/rosco), [red-filter](/tag/red-filter)
 
 ----
 

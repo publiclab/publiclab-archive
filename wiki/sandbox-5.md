@@ -6,14 +6,14 @@ author: warren
 path: /wiki/sandbox-5.md
 nid: 21650
 uid: 1
-
+cids: 
 ---
 
 # sandbox-5
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-December 03, 2019 17:16 | Tags: [content](../tag/content)
+December 03, 2019 17:16 | Tags: [content](/tag/content)
 
 ----
 

@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/08-14-2015/mapping-in-crawford-county-wi.md
 nid: 12143
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/118/original/20150807_120415.jpg)
 
 # Mapping in Crawford County, WI
 
-by [stevie](../../../profile/stevie) | August 14, 2015 19:23
+by [stevie](/profile/stevie) | August 14, 2015 19:23
 
-August 14, 2015 19:23 | Tags: [kite](../tag/kite), [mapping](../tag/mapping), [wisconsin](../tag/wisconsin), [frac-sand](../tag/frac-sand), [mid-west](../tag/mid-west), [fracsand](../tag/fracsand), [wi](../tag/wi), [parent:frac-sand](../tag/parent:frac-sand)
+August 14, 2015 19:23 | Tags: [kite](/tag/kite), [mapping](/tag/mapping), [wisconsin](/tag/wisconsin), [frac-sand](/tag/frac-sand), [mid-west](/tag/mid-west), [fracsand](/tag/fracsand), [wi](/tag/wi), [parent:frac-sand](/tag/parent:frac-sand)
 
 ----
 

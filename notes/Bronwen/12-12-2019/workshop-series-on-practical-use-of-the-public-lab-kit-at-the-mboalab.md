@@ -6,18 +6,16 @@ author: Bronwen
 path: /notes/Bronwen/12-12-2019/workshop-series-on-practical-use-of-the-public-lab-kit-at-the-mboalab.md
 nid: 21741
 uid: 237313
-
 cids: 26006,26044,26059
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/041/original/IMG_0555.JPG)
 
 # Workshop Series on Practical use of the Public Lab kit at the MboaLab
 
-by [Bronwen](../../../profile/Bronwen) | December 12, 2019 15:46
+by [Bronwen](/profile/Bronwen) | December 12, 2019 15:46
 
-December 12, 2019 15:46 | Tags: [spectrometer](../tag/spectrometer), [education](../tag/education), [kits](../tag/kits), [workshops](../tag/workshops), [water-quality](../tag/water-quality), [kenya](../tag/kenya), [africa](../tag/africa), [hardware](../tag/hardware), [community-microscope](../tag/community-microscope), [make](../tag/make), [cameroon](../tag/cameroon), [with:thomasmboa](../tag/with:thomasmboa), [mboalab](../tag/mboalab)
+December 12, 2019 15:46 | Tags: [spectrometer](/tag/spectrometer), [education](/tag/education), [kits](/tag/kits), [workshops](/tag/workshops), [water-quality](/tag/water-quality), [kenya](/tag/kenya), [africa](/tag/africa), [hardware](/tag/hardware), [community-microscope](/tag/community-microscope), [make](/tag/make), [cameroon](/tag/cameroon), [with:thomasmboa](/tag/with:thomasmboa), [mboalab](/tag/mboalab)
 
 ----
 

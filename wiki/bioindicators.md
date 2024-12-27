@@ -6,14 +6,14 @@ author: alejobonifacio
 path: /wiki/bioindicators.md
 nid: 27476
 uid: 639376
-
+cids: 
 ---
 
 # Bioindicators
 
-by [fongvania](../profile/fongvania), [alejobonifacio](../profile/alejobonifacio)
+by [fongvania](/profile/fongvania), [alejobonifacio](/profile/alejobonifacio)
 
-August 11, 2021 23:20 | Tags: [bioassay](../tag/bioassay), [method](../tag/method), [bioindicators](../tag/bioindicators)
+August 11, 2021 23:20 | Tags: [bioassay](/tag/bioassay), [method](/tag/method), [bioindicators](/tag/bioindicators)
 
 ----
 
@@ -61,13 +61,13 @@ For study of soil quality, one important group used is the plants. Between the m
 
 ## Questions
 
-[bioindicators](../../tag/question:bioindicators)
+[bioindicators](/tag/question:bioindicators)
 
 <br>
 
 ## Research notes
 
-[bioindicators](../../tag/bioindicators)
+[bioindicators](/tag/bioindicators)
 
 <br>
 
@@ -79,7 +79,7 @@ For study of soil quality, one important group used is the plants. Between the m
 
 ## Activities
 
-[bioindicators](../../tag/activity:bioindicators)
+[bioindicators](/tag/activity:bioindicators)
 
 <br>
 <br>

@@ -6,16 +6,14 @@ author: joyofsoy
 path: /notes/joyofsoy/06-27-2019/how-to-use-a-transect-illustration-by-sara-sage.md
 nid: 19901
 uid: 540844
-
 cids: 24924,24933
-
 ---
 
 # How to Use a Transect, illustrated by Sara Sage
 
-by [joyofsoy](../../../profile/joyofsoy) | June 27, 2019 22:00
+by [joyofsoy](/profile/joyofsoy) | June 27, 2019 22:00
 
-June 27, 2019 22:00 | Tags: [blog](../tag/blog), [transect](../tag/transect), [graphic](../tag/graphic), [odor](../tag/odor), [odor-logging](../tag/odor-logging), [csf](../tag/csf), [csf16](../tag/csf16), [with:sarasage](../tag/with:sarasage)
+June 27, 2019 22:00 | Tags: [blog](/tag/blog), [transect](/tag/transect), [graphic](/tag/graphic), [odor](/tag/odor), [odor-logging](/tag/odor-logging), [csf](/tag/csf), [csf16](/tag/csf16), [with:sarasage](/tag/with:sarasage)
 
 ----
 

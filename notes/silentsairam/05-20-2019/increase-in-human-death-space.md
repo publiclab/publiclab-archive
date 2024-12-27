@@ -6,16 +6,14 @@ author: silentsairam
 path: /notes/silentsairam/05-20-2019/increase-in-human-death-space.md
 nid: 19463
 uid: 553044
-
 cids: 24207,24208,24228,24238,24326
-
 ---
 
 # Increase in Human Death space
 
-by [silentsairam](../../../profile/silentsairam) | May 20, 2019 17:35
+by [silentsairam](/profile/silentsairam) | May 20, 2019 17:35
 
-May 20, 2019 17:35 | Tags: [cemetery](../tag/cemetery), [compost](../tag/compost), [issue-brief](../tag/issue-brief), [community-atlas](../tag/community-atlas), [urbandeath](../tag/urbandeath), [lat:10.758918](../tag/lat:10.758918), [lon:78.813218](../tag/lon:78.813218)
+May 20, 2019 17:35 | Tags: [cemetery](/tag/cemetery), [compost](/tag/compost), [issue-brief](/tag/issue-brief), [community-atlas](/tag/community-atlas), [urbandeath](/tag/urbandeath), [lat:10.758918](/tag/lat:10.758918), [lon:78.813218](/tag/lon:78.813218)
 
 ----
 
@@ -43,4 +41,4 @@ People and the Government.
 
 I happened to read Recompose, startup in the UK trying to address this issue.
 
-[urbandeath](../../tag/question:urbandeath)
+[urbandeath](/tag/question:urbandeath)

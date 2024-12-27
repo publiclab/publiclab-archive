@@ -6,18 +6,16 @@ author: ranon
 path: /notes/ranon/06-14-2016/cardboard-foldable-kap-rig.md
 nid: 13196
 uid: 477060
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/641/original/IMG_1071.JPG)
 
 # Cardboard Foldable KAP Rig
 
-by [ranon](../../../profile/ranon) | June 14, 2016 19:17
+by [ranon](/profile/ranon) | June 14, 2016 19:17
 
-June 14, 2016 19:17 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [kap](../tag/kap), [fold-up](../tag/fold-up), [packaging](../tag/packaging), [foldable](../tag/foldable), [diy-mount-kit](../tag/diy-mount-kit), [cardboard](../tag/cardboard)
+June 14, 2016 19:17 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-aerial-photography](/tag/kite-aerial-photography), [kap](/tag/kap), [fold-up](/tag/fold-up), [packaging](/tag/packaging), [foldable](/tag/foldable), [diy-mount-kit](/tag/diy-mount-kit), [cardboard](/tag/cardboard)
 
 ----
 

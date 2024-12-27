@@ -6,16 +6,14 @@ author:
 path: /notes/5-15-2012/denver-whittier-neighborhood.md
 nid: 2085
 uid: 0
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/10-5_medium_2.JPG)
 
 # denver--whittier-neighborhood
 
-by [](../../../profile/) | May 15, 2012 15:02
+by [](/profile/) | May 15, 2012 15:02
 
 May 15, 2012 15:02 | Tags: 
 

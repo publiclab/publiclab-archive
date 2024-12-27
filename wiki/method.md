@@ -6,14 +6,14 @@ author: warren
 path: /wiki/method.md
 nid: 14860
 uid: 1
-
+cids: 
 ---
 
 # Method
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-September 08, 2017 15:44 | Tags: [redirect:14859](../tag/redirect:14859)
+September 08, 2017 15:44 | Tags: [redirect:14859](/tag/redirect:14859)
 
 ----
 

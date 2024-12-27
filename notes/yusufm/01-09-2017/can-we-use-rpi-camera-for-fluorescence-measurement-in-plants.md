@@ -6,16 +6,14 @@ author: yusufm
 path: /notes/yusufm/01-09-2017/can-we-use-rpi-camera-for-fluorescence-measurement-in-plants.md
 nid: 13846
 uid: 501474
-
 cids: 16056,16089,22397
-
 ---
 
 # Can we use rPi camera for fluorescence measurement in plants
 
-by [yusufm](../../../profile/yusufm) | January 09, 2017 15:26
+by [yusufm](/profile/yusufm) | January 09, 2017 15:26
 
-January 09, 2017 15:26 | Tags: [fluorescence](../tag/fluorescence), [plant](../tag/plant), [raspberrypi](../tag/raspberrypi), [picamera](../tag/picamera), [question:webcam](../tag/question:webcam)
+January 09, 2017 15:26 | Tags: [fluorescence](/tag/fluorescence), [plant](/tag/plant), [raspberrypi](/tag/raspberrypi), [picamera](/tag/picamera), [question:webcam](/tag/question:webcam)
 
 ----
 

@@ -6,18 +6,16 @@ author: aashnaaashna
 path: /notes/aashnaaashna/04-03-2019/soc-proposal-image-sequencer.md
 nid: 18943
 uid: 553271
-
 cids: 23714,23719,23720,23727,23739,23776,23794,23836,23837,24878
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/186/original/ip.jpg)
 
 # GSoC proposal:  Image Sequencer
 
-by [aashnaaashna](../../../profile/aashnaaashna) | April 03, 2019 09:52
+by [aashnaaashna](/profile/aashnaaashna) | April 03, 2019 09:52
 
-April 03, 2019 09:52 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [first-time-poster](../tag/first-time-poster), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [soc-2019-projects](../tag/soc-2019-projects)
+April 03, 2019 09:52 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [soc](/tag/soc), [response:13975](/tag/response:13975), [first-time-poster](/tag/first-time-poster), [rgsoc-2019](/tag/rgsoc-2019), [gsoc-2019](/tag/gsoc-2019), [soc-2019](/tag/soc-2019), [soc-2019-proposals](/tag/soc-2019-proposals), [soc-2019-projects](/tag/soc-2019-projects)
 
 ----
 

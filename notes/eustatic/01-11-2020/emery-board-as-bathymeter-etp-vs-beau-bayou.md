@@ -6,18 +6,16 @@ author: eustatic
 path: /01-11-2020/emery-board-as-bathymeter-etp-vs-beau-bayou.md
 nid: 22292
 uid: 379
-
 cids: 26146
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/606/original/image.png)
 
 # Emery Board as Bathymeter: ETP vs Beau Bayou
 
-by [eustatic](../../../profile/eustatic) | January 11, 2020 21:54
+by [eustatic](/profile/eustatic) | January 11, 2020 21:54
 
-January 11, 2020 21:54 | Tags: [oil](../tag/oil), [pipeline](../tag/pipeline), [survey](../tag/survey), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [new](../tag/new), [industry](../tag/industry), [hardware](../tag/hardware), [oil-and-gas](../tag/oil-and-gas), [site-survey](../tag/site-survey), [activity:site-survey](../tag/activity:site-survey), [topography](../tag/topography), [activity:new](../tag/activity:new), [pipelines](../tag/pipelines), [elevation](../tag/elevation), [emery-board](../tag/emery-board), [replication:17856](../tag/replication:17856), [lat:30.141942](../tag/lat:30.141942), [lon:-91.618053](../tag/lon:-91.618053)
+January 11, 2020 21:54 | Tags: [oil](/tag/oil), [pipeline](/tag/pipeline), [survey](/tag/survey), [barnstar:photo-documentation](/tag/barnstar:photo-documentation), [new](/tag/new), [industry](/tag/industry), [hardware](/tag/hardware), [oil-and-gas](/tag/oil-and-gas), [site-survey](/tag/site-survey), [activity:site-survey](/tag/activity:site-survey), [topography](/tag/topography), [activity:new](/tag/activity:new), [pipelines](/tag/pipelines), [elevation](/tag/elevation), [emery-board](/tag/emery-board), [replication:17856](/tag/replication:17856), [lat:30.141942](/tag/lat:30.141942), [lon:-91.618053](/tag/lon:-91.618053)
 
 ----
 

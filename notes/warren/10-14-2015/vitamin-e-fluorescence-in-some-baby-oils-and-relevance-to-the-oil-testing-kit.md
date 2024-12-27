@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/10-14-2015/vitamin-e-fluorescence-in-some-baby-oils-and-relevance-to-the-oil-testing-kit.md
 nid: 12301
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/949/original/IMG_20151010_224435.jpg)
 
 # Vitamin E fluorescence in some baby oils -- and relevance to the Oil Testing Kit
 
-by [warren](../../../profile/warren) | October 14, 2015 17:31
+by [warren](/profile/warren) | October 14, 2015 17:31
 
-October 14, 2015 17:31 | Tags: [spectrometer](../tag/spectrometer), [leaffest](../tag/leaffest), [fluorescence](../tag/fluorescence), [solvent](../tag/solvent), [oil-testing-kit](../tag/oil-testing-kit), [leaffest2015](../tag/leaffest2015), [baby-oil](../tag/baby-oil), [false-positive](../tag/false-positive), [response:9826](../tag/response:9826), [spectrometry-sampling](../tag/spectrometry-sampling)
+October 14, 2015 17:31 | Tags: [spectrometer](/tag/spectrometer), [leaffest](/tag/leaffest), [fluorescence](/tag/fluorescence), [solvent](/tag/solvent), [oil-testing-kit](/tag/oil-testing-kit), [leaffest2015](/tag/leaffest2015), [baby-oil](/tag/baby-oil), [false-positive](/tag/false-positive), [response:9826](/tag/response:9826), [spectrometry-sampling](/tag/spectrometry-sampling)
 
 ----
 

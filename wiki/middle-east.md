@@ -6,14 +6,14 @@ author: liz
 path: /wiki/middle-east.md
 nid: 12352
 uid: 7
-
+cids: 
 ---
 
 # middle-east
 
-by [hagitkeysar](../profile/hagitkeysar), [clauds](../profile/clauds), [liz](../profile/liz)
+by [hagitkeysar](/profile/hagitkeysar), [clauds](/profile/clauds), [liz](/profile/liz)
 
-November 01, 2015 20:10 | Tags: [region](../tag/region), [middle-east](../tag/middle-east)
+November 01, 2015 20:10 | Tags: [region](/tag/region), [middle-east](/tag/middle-east)
 
 ----
 

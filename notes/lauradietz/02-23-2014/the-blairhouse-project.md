@@ -6,18 +6,16 @@ author: lauradietz
 path: /notes/lauradietz/02-23-2014/the-blairhouse-project.md
 nid: 10058
 uid: 420993
-
 cids: 8329,8330,8334,8337,8338,12705
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/999/original/blair-house-temperature.png)
 
 # The Blair House Project
 
-by [lauradietz](../../../profile/lauradietz) | February 23, 2014 20:22
+by [lauradietz](/profile/lauradietz) | February 23, 2014 20:22
 
-February 23, 2014 20:22 | Tags: [vermont](../tag/vermont), [events:vermont](../tag/events:vermont), [riffle](../tag/riffle), [snowfest](../tag/snowfest), [blair-house](../tag/blair-house), [quinzee](../tag/quinzee), [snowfest2014](../tag/snowfest2014), [riffle-examples](../tag/riffle-examples)
+February 23, 2014 20:22 | Tags: [vermont](/tag/vermont), [events:vermont](/tag/events:vermont), [riffle](/tag/riffle), [snowfest](/tag/snowfest), [blair-house](/tag/blair-house), [quinzee](/tag/quinzee), [snowfest2014](/tag/snowfest2014), [riffle-examples](/tag/riffle-examples)
 
 ----
 

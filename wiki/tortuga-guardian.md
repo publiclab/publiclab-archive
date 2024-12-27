@@ -6,16 +6,16 @@ author: GSan
 path: /wiki/tortuga-guardian.md
 nid: 20881
 uid: 426547
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/021/original/tortuga_logotipo.jpg)
 
 # Tortuga Guardian
 
-by [GSan](../profile/GSan)
+by [GSan](/profile/GSan)
 
-September 16, 2019 11:15 | Tags: [water-quality](../tag/water-quality), [lang:es](../tag/lang:es), [microplastics](../tag/microplastics)
+September 16, 2019 11:15 | Tags: [water-quality](/tag/water-quality), [lang:es](/tag/lang:es), [microplastics](/tag/microplastics)
 
 ----
 

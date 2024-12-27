@@ -6,18 +6,16 @@ author: mimiss
 path: /notes/mimiss/06-18-2019/creating-a-boxplot-to-identify-outliers-using-codap.md
 nid: 19730
 uid: 579821
-
 cids: 24827,24828,24829,24832,24833
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/980/original/Screen_Shot_2019-06-18_at_10.27.45_AM.png)
 
 # Creating a Box Plot to Identify Potential Outliers Using CODAP
 
-by [mimiss](../../../profile/mimiss) | June 18, 2019 16:29
+by [mimiss](/profile/mimiss) | June 18, 2019 16:29
 
-June 18, 2019 16:29 | Tags: [data](../tag/data), [activity:education](../tag/activity:education), [environmental-data](../tag/environmental-data), [data-analysis](../tag/data-analysis), [data-logging-visualization](../tag/data-logging-visualization), [data-visualization](../tag/data-visualization), [activity:data-analysis](../tag/activity:data-analysis), [codap](../tag/codap), [presenting-data](../tag/presenting-data), [activity:presenting-data](../tag/activity:presenting-data)
+June 18, 2019 16:29 | Tags: [data](/tag/data), [activity:education](/tag/activity:education), [environmental-data](/tag/environmental-data), [data-analysis](/tag/data-analysis), [data-logging-visualization](/tag/data-logging-visualization), [data-visualization](/tag/data-visualization), [activity:data-analysis](/tag/activity:data-analysis), [codap](/tag/codap), [presenting-data](/tag/presenting-data), [activity:presenting-data](/tag/activity:presenting-data)
 
 ----
 

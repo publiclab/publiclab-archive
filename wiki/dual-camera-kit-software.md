@@ -6,14 +6,14 @@ author: warren
 path: /wiki/dual-camera-kit-software.md
 nid: 1764
 uid: 1
-
+cids: 
 ---
 
 # Dual Camera Kit Software
 
-by [cfastie](../profile/cfastie), [warren](../profile/warren)
+by [cfastie](/profile/cfastie), [warren](/profile/warren)
 
-April 24, 2012 17:47 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
+April 24, 2012 17:47 | Tags: [near-infrared-camera](/tag/near-infrared-camera)
 
 ----
 

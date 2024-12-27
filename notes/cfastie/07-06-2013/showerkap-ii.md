@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/07-06-2013/showerkap-ii.md
 nid: 8727
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/676/original/ShowerKAP_Jul04-2013_11_55_17nrg1500.jpg)
 
 # ShowerKAP II
 
-by [cfastie](../../../profile/cfastie) | July 06, 2013 23:11
+by [cfastie](/profile/cfastie) | July 06, 2013 23:11
 
-July 06, 2013 23:11 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [infrared](../tag/infrared), [alaska](../tag/alaska), [tundra](../tag/tundra), [infragram](../tag/infragram), [akrange](../tag/akrange)
+July 06, 2013 23:11 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [infrared](/tag/infrared), [alaska](/tag/alaska), [tundra](/tag/tundra), [infragram](/tag/infragram), [akrange](/tag/akrange)
 
 ----
 

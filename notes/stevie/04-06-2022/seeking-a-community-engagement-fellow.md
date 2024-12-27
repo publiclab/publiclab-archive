@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/04-06-2022/seeking-a-community-engagement-fellow.md
 nid: 30240
 uid: 422561
-
 cids: 29930
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/631/original/Screen_Shot_2022-04-05_at_2.17.10_PM.png)
 
 # Seeking a Community Engagement Fellow 
 
-by [stevie](../../../profile/stevie) | April 06, 2022 14:18
+by [stevie](/profile/stevie) | April 06, 2022 14:18
 
-April 06, 2022 14:18 | Tags: [heavy-metals](../tag/heavy-metals), [pipeline](../tag/pipeline), [mining](../tag/mining), [minnesota](../tag/minnesota), [fracking](../tag/fracking), [jobs](../tag/jobs), [midwest](../tag/midwest), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [community-organizing](../tag/community-organizing), [fellow](../tag/fellow), [community-engagement](../tag/community-engagement), [mill](../tag/mill), [fellowship-team](../tag/fellowship-team), [fellowship-teams](../tag/fellowship-teams), [lumber](../tag/lumber), [particle-board](../tag/particle-board), [with:bee](../tag/with:bee)
+April 06, 2022 14:18 | Tags: [heavy-metals](/tag/heavy-metals), [pipeline](/tag/pipeline), [mining](/tag/mining), [minnesota](/tag/minnesota), [fracking](/tag/fracking), [jobs](/tag/jobs), [midwest](/tag/midwest), [fellows](/tag/fellows), [fellowship](/tag/fellowship), [community-organizing](/tag/community-organizing), [fellow](/tag/fellow), [community-engagement](/tag/community-engagement), [mill](/tag/mill), [fellowship-team](/tag/fellowship-team), [fellowship-teams](/tag/fellowship-teams), [lumber](/tag/lumber), [particle-board](/tag/particle-board), [with:bee](/tag/with:bee)
 
 ----
 

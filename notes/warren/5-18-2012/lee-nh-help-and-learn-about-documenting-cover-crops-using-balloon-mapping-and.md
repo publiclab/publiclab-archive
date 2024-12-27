@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/5-18-2012/lee-nh-help-and-learn-about-documenting-cover-crops-using-balloon-mapping-and.md
 nid: 2138
 uid: 1
-
 cids: 
-
 ---
 
 # Lee, NH – Help and learn about documenting cover crops using balloon mapping and spectral analysis
 
-by [warren](../../../profile/warren) | May 18, 2012 21:36
+by [warren](/profile/warren) | May 18, 2012 21:36
 
-May 18, 2012 21:36 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [kite-mapping](../tag/kite-mapping), [events](../tag/events), [meetup](../tag/meetup), [field-test](../tag/field-test), [ifarm](../tag/ifarm)
+May 18, 2012 21:36 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [spectrometer](/tag/spectrometer), [kite-mapping](/tag/kite-mapping), [events](/tag/events), [meetup](/tag/meetup), [field-test](/tag/field-test), [ifarm](/tag/ifarm)
 
 ----
 

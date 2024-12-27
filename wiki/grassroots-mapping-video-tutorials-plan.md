@@ -6,12 +6,12 @@ author: mathew
 path: /wiki/grassroots-mapping-video-tutorials-plan.md
 nid: 429
 uid: 4
-
+cids: 311
 ---
 
 # Grassroots Mapping Video Tutorials Plan
 
-by [mathew](../profile/mathew), [gonzoearth](../profile/gonzoearth)
+by [mathew](/profile/mathew), [gonzoearth](/profile/gonzoearth)
 
 August 05, 2011 18:05 | Tags: 
 

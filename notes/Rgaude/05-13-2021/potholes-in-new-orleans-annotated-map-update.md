@@ -6,18 +6,16 @@ author: Rgaude
 path: /notes/Rgaude/05-13-2021/potholes-in-new-orleans-annotated-map-update.md
 nid: 26573
 uid: 749812
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/782/original/Stem_1_1.PNG)
 
 # Potholes in New Orleans Annotated Map Update
 
-by [Rgaude](../../../profile/Rgaude) | May 13, 2021 14:52
+by [Rgaude](/profile/Rgaude) | May 13, 2021 14:52
 
-May 13, 2021 14:52 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [laplace](../tag/laplace), [annotated-maps](../tag/annotated-maps), [louisiana](../tag/louisiana), [transportation](../tag/transportation), [new-orleans](../tag/new-orleans), [stormwater](../tag/stormwater), [potholes](../tag/potholes), [roads](../tag/roads), [stem](../tag/stem), [zoom:6](../tag/zoom:6), [asphalt](../tag/asphalt), [lat:30.050076](../tag/lat:30.050076), [lon:-90.571289](../tag/lon:-90.571289)
+May 13, 2021 14:52 | Tags: [gulf-coast](/tag/gulf-coast), [balloon-mapping](/tag/balloon-mapping), [laplace](/tag/laplace), [annotated-maps](/tag/annotated-maps), [louisiana](/tag/louisiana), [transportation](/tag/transportation), [new-orleans](/tag/new-orleans), [stormwater](/tag/stormwater), [potholes](/tag/potholes), [roads](/tag/roads), [stem](/tag/stem), [zoom:6](/tag/zoom:6), [asphalt](/tag/asphalt), [lat:30.050076](/tag/lat:30.050076), [lon:-90.571289](/tag/lon:-90.571289)
 
 ----
 

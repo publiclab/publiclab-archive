@@ -6,16 +6,14 @@ author: mathew
 path: /notes/mathew/8-5-2011/adjustable-555-based-shutter-trigger-circuit.md
 nid: 431
 uid: 4
-
 cids: 
-
 ---
 
 # Adjustable 555-based shutter trigger circuit  
 
-by [mathew](../../../profile/mathew) | August 05, 2011 18:19
+by [mathew](/profile/mathew) | August 05, 2011 18:19
 
-August 05, 2011 18:19 | Tags: [camera-triggering](../tag/camera-triggering), [timelapse](../tag/timelapse), [intervalometer](../tag/intervalometer), [555](../tag/555), [activity:camera-triggering](../tag/activity:camera-triggering)
+August 05, 2011 18:19 | Tags: [camera-triggering](/tag/camera-triggering), [timelapse](/tag/timelapse), [intervalometer](/tag/intervalometer), [555](/tag/555), [activity:camera-triggering](/tag/activity:camera-triggering)
 
 ----
 

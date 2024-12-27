@@ -6,16 +6,16 @@ author: bhamster
 path: /wiki/soil-remediation.md
 nid: 25949
 uid: 664477
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/968/original/Soil_remediation_Cleveland.jpg)
 
 # Soil remediation
 
-by [laurel_mire](../profile/laurel_mire), [fongvania](../profile/fongvania), [alejobonifacio](../profile/alejobonifacio), [bhamster](../profile/bhamster)
+by [laurel_mire](/profile/laurel_mire), [fongvania](/profile/fongvania), [alejobonifacio](/profile/alejobonifacio), [bhamster](/profile/bhamster)
 
-March 16, 2021 23:00 | Tags: [remediation](../tag/remediation), [soil](../tag/soil), [plants](../tag/plants), [bioassay](../tag/bioassay), [bioremediation](../tag/bioremediation), [method](../tag/method), [phytoremediation](../tag/phytoremediation), [soil-contamination](../tag/soil-contamination), [mycoremediation](../tag/mycoremediation), [parent:soil](../tag/parent:soil), [soil-remediation](../tag/soil-remediation)
+March 16, 2021 23:00 | Tags: [remediation](/tag/remediation), [soil](/tag/soil), [plants](/tag/plants), [bioassay](/tag/bioassay), [bioremediation](/tag/bioremediation), [method](/tag/method), [phytoremediation](/tag/phytoremediation), [soil-contamination](/tag/soil-contamination), [mycoremediation](/tag/mycoremediation), [parent:soil](/tag/parent:soil), [soil-remediation](/tag/soil-remediation)
 
 ----
 
@@ -52,7 +52,7 @@ _Please contribute to the resources and discussion by [editing this wiki page](h
 
 Questions from the Public Lab community tagged with `soil-remediation` will appear here
 
-[soil-remediation](../../tag/question:soil-remediation)
+[soil-remediation](/tag/question:soil-remediation)
 
 <br>
 
@@ -60,7 +60,7 @@ Questions from the Public Lab community tagged with `soil-remediation` will appe
 
 Activities on Public Lab tagged with `soil-remediation` will appear here
 
-[soil-remediation](../../tag/activity:soil-remediation)
+[soil-remediation](/tag/activity:soil-remediation)
 
 <br>
 

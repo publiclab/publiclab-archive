@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/08-22-2016/special-scan-sweet-wyoming-crude-oil-2d-eem-analysis-of-0-11mm-slit-width.md
 nid: 13378
 uid: 461120
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/719/original/special_sample_scan_crude_oil_new_slit_011_aug_21_polarized.png)
 
 # Special Scan - Sweet Wyoming Crude Oil 2D EEM Analysis of 0.11mm Slit Width
 
-by [dhaffnersr](../../../profile/dhaffnersr) | August 22, 2016 12:13
+by [dhaffnersr](/profile/dhaffnersr) | August 22, 2016 12:13
 
 August 22, 2016 12:13 | Tags: 
 

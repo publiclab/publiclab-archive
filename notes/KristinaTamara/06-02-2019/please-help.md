@@ -6,16 +6,14 @@ author: KristinaTamara
 path: /notes/KristinaTamara/06-02-2019/please-help.md
 nid: 19600
 uid: 592485
-
 cids: 24350,24749,24774
-
 ---
 
 # please help! 
 
-by [KristinaTamara](../../../profile/KristinaTamara) | June 02, 2019 20:28
+by [KristinaTamara](/profile/KristinaTamara) | June 02, 2019 20:28
 
-June 02, 2019 20:28 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [question:general](../tag/question:general), [calibrating](../tag/calibrating)
+June 02, 2019 20:28 | Tags: [spectrometer](/tag/spectrometer), [calibration](/tag/calibration), [question:general](/tag/question:general), [calibrating](/tag/calibrating)
 
 ----
 

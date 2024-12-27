@@ -6,14 +6,14 @@ author: warren
 path: /wiki/barnstar-brainstorm.md
 nid: 10275
 uid: 1
-
+cids: 
 ---
 
 # barnstar-brainstorm
 
-by [liz](../profile/liz), [cfastie](../profile/cfastie), [warren](../profile/warren)
+by [liz](/profile/liz), [cfastie](/profile/cfastie), [warren](/profile/warren)
 
-April 07, 2014 18:30 | Tags: [barnstars](../tag/barnstars)
+April 07, 2014 18:30 | Tags: [barnstars](/tag/barnstars)
 
 ----
 

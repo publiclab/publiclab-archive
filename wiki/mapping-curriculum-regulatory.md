@@ -6,14 +6,14 @@ author: warren
 path: /wiki/mapping-curriculum-regulatory.md
 nid: 79
 uid: 1
-
+cids: 
 ---
 
 # Mapping Curriculum: Regulatory Situation
 
-by [mathew](../profile/mathew), [gonzoearth](../profile/gonzoearth), [warren](../profile/warren)
+by [mathew](/profile/mathew), [gonzoearth](/profile/gonzoearth), [warren](/profile/warren)
 
-February 08, 2011 18:43 | Tags: [balloon-mapping](../tag/balloon-mapping), [curriculum](../tag/curriculum), [regulations](../tag/regulations), [parent:balloon-mapping](../tag/parent:balloon-mapping)
+February 08, 2011 18:43 | Tags: [balloon-mapping](/tag/balloon-mapping), [curriculum](/tag/curriculum), [regulations](/tag/regulations), [parent:balloon-mapping](/tag/parent:balloon-mapping)
 
 ----
 

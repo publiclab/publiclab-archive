@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/shannon/8-2-2012/homemade-pole-photography-rig-0.md
 nid: 3098
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/J. Mehta 1.jpg)
 
 # Homemade pole photography rig
 
-by [Shannon](../../../profile/Shannon) | August 02, 2012 20:57
+by [Shannon](/profile/Shannon) | August 02, 2012 20:57
 
-August 02, 2012 20:57 | Tags: [polemapping](../tag/polemapping), [archaeology](../tag/archaeology), [photo-rig](../tag/photo-rig), [pole-photography](../tag/pole-photography), [pole-mapping](../tag/pole-mapping), [activity:photo-rig](../tag/activity:photo-rig)
+August 02, 2012 20:57 | Tags: [polemapping](/tag/polemapping), [archaeology](/tag/archaeology), [photo-rig](/tag/photo-rig), [pole-photography](/tag/pole-photography), [pole-mapping](/tag/pole-mapping), [activity:photo-rig](/tag/activity:photo-rig)
 
 ----
 

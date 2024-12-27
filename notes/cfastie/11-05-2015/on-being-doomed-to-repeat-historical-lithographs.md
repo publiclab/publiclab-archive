@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/11-05-2015/on-being-doomed-to-repeat-historical-lithographs.md
 nid: 12370
 uid: 554
-
 cids: 13225,13229,13231
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/485/original/Mary351_LP100ps2k.jpg)
 
 # On being doomed to repeat historical lithographs
 
-by [cfastie](../../../profile/cfastie) | November 05, 2015 03:28
+by [cfastie](/profile/cfastie) | November 05, 2015 03:28
 
-November 05, 2015 03:28 | Tags: [kite-mapping](../tag/kite-mapping), [middlebury](../tag/middlebury), [vermont](../tag/vermont), [kite](../tag/kite), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [littleplanet](../tag/littleplanet), [response:12355](../tag/response:12355), [birdseye](../tag/birdseye), [s100-gps](../tag/s100-gps)
+November 05, 2015 03:28 | Tags: [kite-mapping](/tag/kite-mapping), [middlebury](/tag/middlebury), [vermont](/tag/vermont), [kite](/tag/kite), [saturnv](/tag/saturnv), [skyshield](/tag/skyshield), [half-spherical](/tag/half-spherical), [littleplanet](/tag/littleplanet), [response:12355](/tag/response:12355), [birdseye](/tag/birdseye), [s100-gps](/tag/s100-gps)
 
 ----
 

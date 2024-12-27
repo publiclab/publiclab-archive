@@ -6,16 +6,14 @@ author: Jtaw
 path: /notes/Jtaw/03-15-2017/can-someone-give-me-the-latest-fastie-colormap-lut.md
 nid: 14021
 uid: 504063
-
 cids: 
-
 ---
 
 # Can someone give me the latest fastie colormap LUT? 
 
-by [Jtaw](../../../profile/Jtaw) | March 15, 2017 12:52
+by [Jtaw](/profile/Jtaw) | March 15, 2017 12:52
 
-March 15, 2017 12:52 | Tags: [question:question](../tag/question:question)
+March 15, 2017 12:52 | Tags: [question:question](/tag/question:question)
 
 ----
 

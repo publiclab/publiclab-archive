@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/01-27-2017/diagramming-knowledge-production-on-publiclab-org.md
 nid: 13886
 uid: 1
-
 cids: 17505,17509,19109
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/390/original/diagramming.png)
 
 # Diagramming knowledge production on PublicLab.org
 
-by [warren](../../../profile/warren) | January 27, 2017 22:03
+by [warren](/profile/warren) | January 27, 2017 22:03
 
-January 27, 2017 22:03 | Tags: [organizers](../tag/organizers), [organizing](../tag/organizing), [newcomers](../tag/newcomers), [research-culture](../tag/research-culture), [site](../tag/site), [diagramming](../tag/diagramming), [mental-model](../tag/mental-model), [knowledge-production](../tag/knowledge-production), [knowledge](../tag/knowledge), [flow-chart](../tag/flow-chart), [ui](../tag/ui), [diagram](../tag/diagram), [diagrams](../tag/diagrams), [contribute](../tag/contribute), [research-questions](../tag/research-questions)
+January 27, 2017 22:03 | Tags: [organizers](/tag/organizers), [organizing](/tag/organizing), [newcomers](/tag/newcomers), [research-culture](/tag/research-culture), [site](/tag/site), [diagramming](/tag/diagramming), [mental-model](/tag/mental-model), [knowledge-production](/tag/knowledge-production), [knowledge](/tag/knowledge), [flow-chart](/tag/flow-chart), [ui](/tag/ui), [diagram](/tag/diagram), [diagrams](/tag/diagrams), [contribute](/tag/contribute), [research-questions](/tag/research-questions)
 
 ----
 

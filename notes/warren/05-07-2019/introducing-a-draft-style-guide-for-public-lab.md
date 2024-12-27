@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/05-07-2019/introducing-a-draft-style-guide-for-public-lab.md
 nid: 19270
 uid: 1
-
 cids: 24051,24066,24068,24079,24087,24088,24092,24093,24094,24898,25778,25779,25780,25781,25782,25783,26721,31349
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/836/original/Screen_Shot_2019-05-07_at_3.25.14_PM.png)
 
 # Introducing a (draft) Style Guide for Public Lab
 
-by [warren](../../../profile/warren) | May 07, 2019 20:07
+by [warren](/profile/warren) | May 07, 2019 20:07
 
-May 07, 2019 20:07 | Tags: [website](../tag/website), [design](../tag/design), [blog](../tag/blog), [code](../tag/code), [interface](../tag/interface), [style-guide](../tag/style-guide), [ui](../tag/ui), [with:sylvan](../tag/with:sylvan), [pin:ui](../tag/pin:ui)
+May 07, 2019 20:07 | Tags: [website](/tag/website), [design](/tag/design), [blog](/tag/blog), [code](/tag/code), [interface](/tag/interface), [style-guide](/tag/style-guide), [ui](/tag/ui), [with:sylvan](/tag/with:sylvan), [pin:ui](/tag/pin:ui)
 
 ----
 

@@ -6,16 +6,14 @@ author: jgualtie
 path: /notes/jgualtie/02-24-2016/the-opportunities-and-pitfalls-of-sensor-journalism.md
 nid: 12741
 uid: 461488
-
 cids: 
-
 ---
 
 # The Opportunities and Pitfalls of Sensor Journalism
 
-by [jgualtie](../../../profile/jgualtie) | February 24, 2016 17:27
+by [jgualtie](/profile/jgualtie) | February 24, 2016 17:27
 
-February 24, 2016 17:27 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
+February 24, 2016 17:27 | Tags: [sensor-journalism](/tag/sensor-journalism), [response:12748](/tag/response:12748), [hidden:response](/tag/hidden:response)
 
 ----
 

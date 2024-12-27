@@ -6,18 +6,16 @@ author: bhamster
 path: /notes/bhamster/09-29-2020/summary-public-lab-s-microplastics-research-area-review.md
 nid: 24675
 uid: 664477
-
 cids: 27428,27472,27868,27880
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/016/original/Microplastics_5Gyres.jpg)
 
 # Summary: Public Lab’s microplastics research area review
 
-by [bhamster](../../../profile/bhamster) | September 29, 2020 22:16
+by [bhamster](/profile/bhamster) | September 29, 2020 22:16
 
-September 29, 2020 22:16 | Tags: [research](../tag/research), [blog](../tag/blog), [reviews](../tag/reviews), [micro-plastics](../tag/micro-plastics), [microplastics](../tag/microplastics), [plastic](../tag/plastic), [research-area-review](../tag/research-area-review), [plastic-pollution](../tag/plastic-pollution)
+September 29, 2020 22:16 | Tags: [research](/tag/research), [blog](/tag/blog), [reviews](/tag/reviews), [micro-plastics](/tag/micro-plastics), [microplastics](/tag/microplastics), [plastic](/tag/plastic), [research-area-review](/tag/research-area-review), [plastic-pollution](/tag/plastic-pollution)
 
 ----
 

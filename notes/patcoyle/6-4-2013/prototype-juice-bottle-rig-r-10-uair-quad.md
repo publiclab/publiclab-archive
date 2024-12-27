@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/6-4-2013/prototype-juice-bottle-rig-r-10-uair-quad.md
 nid: 8050
 uid: 77
-
 cids: 4942
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_3432.JPG)
 
 # Prototype juice bottle rig on R-10 UAir quad
 
-by [patcoyle](../../../profile/patcoyle) | June 04, 2013 20:21
+by [patcoyle](/profile/patcoyle) | June 04, 2013 20:21
 
-June 04, 2013 20:21 | Tags: [drones](../tag/drones), [uav](../tag/uav), [bottle-rig](../tag/bottle-rig)
+June 04, 2013 20:21 | Tags: [drones](/tag/drones), [uav](/tag/uav), [bottle-rig](/tag/bottle-rig)
 
 ----
 

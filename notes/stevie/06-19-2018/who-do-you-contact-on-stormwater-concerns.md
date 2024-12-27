@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/06-19-2018/who-do-you-contact-on-stormwater-concerns.md
 nid: 16531
 uid: 422561
-
 cids: 23144,29222
-
 ---
 
 # Who do you contact on stormwater concerns? 
 
-by [stevie](../../../profile/stevie) | June 19, 2018 18:57
+by [stevie](/profile/stevie) | June 19, 2018 18:57
 
-June 19, 2018 18:57 | Tags: [answered](../tag/answered), [wastewater](../tag/wastewater), [question:question](../tag/question:question), [question:stormwater](../tag/question:stormwater), [question:pensacola-stormwater](../tag/question:pensacola-stormwater), [question:wastewater](../tag/question:wastewater)
+June 19, 2018 18:57 | Tags: [answered](/tag/answered), [wastewater](/tag/wastewater), [question:question](/tag/question:question), [question:stormwater](/tag/question:stormwater), [question:pensacola-stormwater](/tag/question:pensacola-stormwater), [question:wastewater](/tag/question:wastewater)
 
 ----
 

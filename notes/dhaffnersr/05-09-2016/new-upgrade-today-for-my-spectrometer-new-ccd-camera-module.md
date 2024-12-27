@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/05-09-2016/new-upgrade-today-for-my-spectrometer-new-ccd-camera-module.md
 nid: 13094
 uid: 461120
-
 cids: 14577,14578,14579,14580,14581,14582,14583,14584,14585
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/062/original/smaller_camera_pic3.png)
 
 # New upgrade today for my spectrometer/New CCD camera module
 
-by [dhaffnersr](../../../profile/dhaffnersr) | May 09, 2016 19:22
+by [dhaffnersr](/profile/dhaffnersr) | May 09, 2016 19:22
 
 May 09, 2016 19:22 | Tags: 
 

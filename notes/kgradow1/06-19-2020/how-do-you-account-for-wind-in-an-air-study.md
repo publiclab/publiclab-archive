@@ -6,16 +6,14 @@ author: kgradow1
 path: /notes/kgradow1/06-19-2020/how-do-you-account-for-wind-in-an-air-study.md
 nid: 23888
 uid: 297929
-
 cids: 27037,27084
-
 ---
 
 # How do you account for wind in an air study?
 
-by [kgradow1](../../../profile/kgradow1) | June 19, 2020 15:04
+by [kgradow1](/profile/kgradow1) | June 19, 2020 15:04
 
-June 19, 2020 15:04 | Tags: [air-quality](../tag/air-quality), [wind](../tag/wind), [methods](../tag/methods), [question:air-quality](../tag/question:air-quality), [question:general](../tag/question:general), [general](../tag/general), [question:wind](../tag/question:wind), [bucket-monitor](../tag/bucket-monitor), [question:bucket-monitor](../tag/question:bucket-monitor)
+June 19, 2020 15:04 | Tags: [air-quality](/tag/air-quality), [wind](/tag/wind), [methods](/tag/methods), [question:air-quality](/tag/question:air-quality), [question:general](/tag/question:general), [general](/tag/general), [question:wind](/tag/question:wind), [bucket-monitor](/tag/bucket-monitor), [question:bucket-monitor](/tag/question:bucket-monitor)
 
 ----
 

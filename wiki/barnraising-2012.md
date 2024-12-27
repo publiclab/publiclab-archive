@@ -6,14 +6,14 @@ author: warren
 path: /wiki/barnraising-2012.md
 nid: 8806
 uid: 1
-
+cids: 
 ---
 
 # barnraising-2012
 
-by [liz](../profile/liz), [warren](../profile/warren)
+by [liz](/profile/liz), [warren](/profile/warren)
 
-July 10, 2013 12:16 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [barnraising](../tag/barnraising), [lumcon](../tag/lumcon), [list:plots-barnraising](../tag/list:plots-barnraising)
+July 10, 2013 12:16 | Tags: [gulf-coast](/tag/gulf-coast), [louisiana](/tag/louisiana), [barnraising](/tag/barnraising), [lumcon](/tag/lumcon), [list:plots-barnraising](/tag/list:plots-barnraising)
 
 ----
 

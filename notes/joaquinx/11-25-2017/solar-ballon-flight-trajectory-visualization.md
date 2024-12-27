@@ -6,18 +6,16 @@ author: joaquinx
 path: /notes/joaquinx/11-25-2017/solar-ballon-flight-trajectory-visualization.md
 nid: 15237
 uid: 518981
-
 cids: 17799,17800,17801,17850,17855,27932
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/559/original/DIFF4-web.jpg)
 
 # Solar ballon flight trajectory visualization
 
-by [joaquinx](../../../profile/joaquinx) | November 25, 2017 11:30
+by [joaquinx](/profile/joaquinx) | November 25, 2017 11:30
 
-November 25, 2017 11:30 | Tags: [solar-balloon](../tag/solar-balloon), [google-earth](../tag/google-earth), [data-collection](../tag/data-collection), [dataviz](../tag/dataviz), [aerocene](../tag/aerocene), [activity:solar-balloon](../tag/activity:solar-balloon), [activity:hot-air-balloon](../tag/activity:hot-air-balloon), [data-visualization](../tag/data-visualization)
+November 25, 2017 11:30 | Tags: [solar-balloon](/tag/solar-balloon), [google-earth](/tag/google-earth), [data-collection](/tag/data-collection), [dataviz](/tag/dataviz), [aerocene](/tag/aerocene), [activity:solar-balloon](/tag/activity:solar-balloon), [activity:hot-air-balloon](/tag/activity:hot-air-balloon), [data-visualization](/tag/data-visualization)
 
 ----
 

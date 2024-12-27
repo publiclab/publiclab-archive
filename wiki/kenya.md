@@ -6,14 +6,14 @@ author: liz
 path: /wiki/kenya.md
 nid: 11156
 uid: 7
-
+cids: 
 ---
 
 # kenya
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-September 18, 2014 13:57 | Tags: [africa](../tag/africa), [parent:africa](../tag/parent:africa)
+September 18, 2014 13:57 | Tags: [africa](/tag/africa), [parent:africa](/tag/parent:africa)
 
 ----
 

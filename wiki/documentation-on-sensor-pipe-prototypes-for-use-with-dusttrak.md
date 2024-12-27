@@ -6,14 +6,14 @@ author: rjstatic
 path: /wiki/documentation-on-sensor-pipe-prototypes-for-use-with-dusttrak.md
 nid: 11333
 uid: 174
-
+cids: 
 ---
 
 # Documentation on Sensor Pipe prototypes for use with DustTrak
 
-by [rjstatic](../profile/rjstatic)
+by [rjstatic](/profile/rjstatic)
 
-November 11, 2014 01:52 | Tags: [open-pipe-kit](../tag/open-pipe-kit), [sensor-pipe](../tag/sensor-pipe)
+November 11, 2014 01:52 | Tags: [open-pipe-kit](/tag/open-pipe-kit), [sensor-pipe](/tag/sensor-pipe)
 
 ----
 

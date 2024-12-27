@@ -6,18 +6,16 @@ author: flatCat
 path: /notes/flatCat/08-29-2014/ramanpi-the-3d-printable-raspberry-pi-raman-spectrometer.md
 nid: 11087
 uid: 427636
-
 cids: 10143,10146,10149,10173,10176,10177,10181,10182,10307,10309,10319,10325,10490,10497,10498,10503,10743,10744,10745,10746,10747,10748,10749,10750,10919,10920,10941,11015,11054,12014,12015,12347,12368,16988,17047
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/504/original/cuvetteAssembly_progress3.png)
 
 # ramanPi - The 3D Printable Raspberry Pi Raman Spectrometer
 
-by [flatCat](../../../profile/flatCat) | August 29, 2014 18:35
+by [flatCat](/profile/flatCat) | August 29, 2014 18:35
 
-August 29, 2014 18:35 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [raman](../tag/raman), [cuvette](../tag/cuvette), [3d-printing](../tag/3d-printing), [barnstar:basic](../tag/barnstar:basic), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [response:11079](../tag/response:11079), [hackaday](../tag/hackaday)
+August 29, 2014 18:35 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [raman](/tag/raman), [cuvette](/tag/cuvette), [3d-printing](/tag/3d-printing), [barnstar:basic](/tag/barnstar:basic), [barnstar:excessive-enthusiasm](/tag/barnstar:excessive-enthusiasm), [response:11079](/tag/response:11079), [hackaday](/tag/hackaday)
 
 ----
 

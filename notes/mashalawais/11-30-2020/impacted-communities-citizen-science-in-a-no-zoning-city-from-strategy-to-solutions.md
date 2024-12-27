@@ -6,16 +6,14 @@ author: mashalawais
 path: /notes/mashalawais/11-30-2020/impacted-communities-citizen-science-in-a-no-zoning-city-from-strategy-to-solutions.md
 nid: 25143
 uid: 727097
-
 cids: 27738,27748,27767
-
 ---
 
 # Impacted Communities - Citizen Science in a "No Zoning" City from Strategy to Solutions
 
-by [mashalawais](../../../profile/mashalawais) | November 30, 2020 21:25
+by [mashalawais](/profile/mashalawais) | November 30, 2020 21:25
 
-November 30, 2020 21:25 | Tags: [industrial-monitoring](../tag/industrial-monitoring), [mapping](../tag/mapping), [reporting](../tag/reporting), [epa](../tag/epa), [contamination](../tag/contamination), [air-quality](../tag/air-quality), [public-health](../tag/public-health), [airquality](../tag/airquality), [exposure](../tag/exposure), [waterquality](../tag/waterquality), [texas](../tag/texas), [oil-and-gas](../tag/oil-and-gas), [houston](../tag/houston), [issue-brief](../tag/issue-brief), [fenceline](../tag/fenceline), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [resourceguide](../tag/resourceguide), [environmentalracism](../tag/environmentalracism), [environmentalcontamination](../tag/environmentalcontamination), [nozoning](../tag/nozoning), [lat:29.764377](../tag/lat:29.764377), [lon:-95.361328](../tag/lon:-95.361328), [envirofacts](../tag/envirofacts)
+November 30, 2020 21:25 | Tags: [industrial-monitoring](/tag/industrial-monitoring), [mapping](/tag/mapping), [reporting](/tag/reporting), [epa](/tag/epa), [contamination](/tag/contamination), [air-quality](/tag/air-quality), [public-health](/tag/public-health), [airquality](/tag/airquality), [exposure](/tag/exposure), [waterquality](/tag/waterquality), [texas](/tag/texas), [oil-and-gas](/tag/oil-and-gas), [houston](/tag/houston), [issue-brief](/tag/issue-brief), [fenceline](/tag/fenceline), [first-time-poster](/tag/first-time-poster), [zoom:6](/tag/zoom:6), [resourceguide](/tag/resourceguide), [environmentalracism](/tag/environmentalracism), [environmentalcontamination](/tag/environmentalcontamination), [nozoning](/tag/nozoning), [lat:29.764377](/tag/lat:29.764377), [lon:-95.361328](/tag/lon:-95.361328), [envirofacts](/tag/envirofacts)
 
 ----
 
@@ -47,4 +45,4 @@ How do you draw connections from environmental contamination to human health?
 
 What are the industries nearby that are polluting our region?
 
-[tagname](../../tag/question:tagname)
+[tagname](/tag/question:tagname)

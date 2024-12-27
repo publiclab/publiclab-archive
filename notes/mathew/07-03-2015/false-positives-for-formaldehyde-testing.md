@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/07-03-2015/false-positives-for-formaldehyde-testing.md
 nid: 12031
 uid: 4
-
 cids: 12090,12091
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/527/original/exposed.png)
 
 # False positives for Formaldehyde testing
 
-by [mathew](../../../profile/mathew) | July 03, 2015 23:47
+by [mathew](/profile/mathew) | July 03, 2015 23:47
 
-July 03, 2015 23:47 | Tags: [air-quality](../tag/air-quality), [formaldehyde](../tag/formaldehyde), [wherewebreathe](../tag/wherewebreathe), [wwb](../tag/wwb), [indoor-air-quality](../tag/indoor-air-quality)
+July 03, 2015 23:47 | Tags: [air-quality](/tag/air-quality), [formaldehyde](/tag/formaldehyde), [wherewebreathe](/tag/wherewebreathe), [wwb](/tag/wwb), [indoor-air-quality](/tag/indoor-air-quality)
 
 ----
 

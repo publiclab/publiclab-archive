@@ -6,16 +6,14 @@ author: Jacques
 path: /notes/Jacques/10-06-2016/spectrum-of-a-star.md
 nid: 13525
 uid: 492851
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/266/original/Capture_d'%C3%A9cran_2016-10-05_%C3%A0_22.37.15.png)
 
 # Spectrum of a star
 
-by [Jacques](../../../profile/Jacques) | October 06, 2016 03:22
+by [Jacques](/profile/Jacques) | October 06, 2016 03:22
 
 October 06, 2016 03:22 | Tags: 
 

@@ -6,18 +6,16 @@ author: Sidney_AstroPlant
 path: /notes/Sidney_AstroPlant/07-03-2017/astroplant-rpi-sensory-system.md
 nid: 14609
 uid: 509744
-
 cids: 16959,16965,16967,16968,16969,16970,16972,16977,16987,22512
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/987/original/IMG_4158.JPG)
 
 # AstroPlant RPi sensory system
 
-by [Sidney_AstroPlant](../../../profile/Sidney_AstroPlant) | July 03, 2017 14:13
+by [Sidney_AstroPlant](/profile/Sidney_AstroPlant) | July 03, 2017 14:13
 
-July 03, 2017 14:13 | Tags: [water-sensing](../tag/water-sensing), [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [water-quality](../tag/water-quality), [hyperspectral](../tag/hyperspectral), [conductivity](../tag/conductivity), [hydroponics](../tag/hydroponics), [open-water](../tag/open-water), [pi](../tag/pi), [question:infragram](../tag/question:infragram), [rpi](../tag/rpi), [initiative-area](../tag/initiative-area), [raspberry](../tag/raspberry), [images](../tag/images), [pi-noir](../tag/pi-noir), [multispectral-imaging](../tag/multispectral-imaging), [question:general](../tag/question:general), [question:raspberry-pi](../tag/question:raspberry-pi), [question:hydroponics](../tag/question:hydroponics)
+July 03, 2017 14:13 | Tags: [water-sensing](/tag/water-sensing), [raspberry-pi](/tag/raspberry-pi), [infragram](/tag/infragram), [water-quality](/tag/water-quality), [hyperspectral](/tag/hyperspectral), [conductivity](/tag/conductivity), [hydroponics](/tag/hydroponics), [open-water](/tag/open-water), [pi](/tag/pi), [question:infragram](/tag/question:infragram), [rpi](/tag/rpi), [initiative-area](/tag/initiative-area), [raspberry](/tag/raspberry), [images](/tag/images), [pi-noir](/tag/pi-noir), [multispectral-imaging](/tag/multispectral-imaging), [question:general](/tag/question:general), [question:raspberry-pi](/tag/question:raspberry-pi), [question:hydroponics](/tag/question:hydroponics)
 
 ----
 

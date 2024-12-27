@@ -6,14 +6,14 @@ author: jmsaavedra
 path: /wiki/nasa-space-apps-challenge-cool-it.md
 nid: 10287
 uid: 46929
-
+cids: 
 ---
 
 # NASA Space Apps Challenge: Cool It!
 
-by [dippind](../profile/dippind), [jmsaavedra](../profile/jmsaavedra)
+by [dippind](/profile/dippind), [jmsaavedra](/profile/jmsaavedra)
 
-April 09, 2014 14:46 | Tags: [nasa](../tag/nasa), [epa](../tag/epa), [space-apps-challenge](../tag/space-apps-challenge)
+April 09, 2014 14:46 | Tags: [nasa](/tag/nasa), [epa](/tag/epa), [space-apps-challenge](/tag/space-apps-challenge)
 
 ----
 

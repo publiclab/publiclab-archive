@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/11-26-2012/new-spectral-workbench-analysis-interface.md
 nid: 5020
 uid: 1
-
 cids: 2647,2648
-
 ---
 
 ![](https://publiclab.org/sites/default/files/spectral-workbench-analyze.png)
 
 # New Spectral Workbench analysis interface
 
-by [warren](../../../profile/warren) | November 26, 2012 19:31
+by [warren](/profile/warren) | November 26, 2012 19:31
 
-November 26, 2012 19:31 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench)
+November 26, 2012 19:31 | Tags: [spectrometer](/tag/spectrometer), [spectralworkbench](/tag/spectralworkbench)
 
 ----
 

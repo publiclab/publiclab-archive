@@ -6,18 +6,16 @@ author: tonyc
 path: /notes/tonyc/08-20-2015/tracking-oil-trains-using-rfids.md
 nid: 12159
 uid: 447491
-
 cids: 12430,12452,13190
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/221/original/800px-BNSF_eastbound_oil_train_in_Bad_Rock_Canyon.jpg)
 
 # Tracking Oil Trains Using RFIDs
 
-by [tonyc](../../../profile/tonyc) | August 20, 2015 23:16
+by [tonyc](/profile/tonyc) | August 20, 2015 23:16
 
-August 20, 2015 23:16 | Tags: [oil](../tag/oil), [transportation](../tag/transportation), [crude](../tag/crude), [traffic](../tag/traffic), [ail](../tag/ail), [rfid](../tag/rfid), [oil-train](../tag/oil-train), [rail](../tag/rail), [traffic-analysis](../tag/traffic-analysis), [first-time-poster](../tag/first-time-poster)
+August 20, 2015 23:16 | Tags: [oil](/tag/oil), [transportation](/tag/transportation), [crude](/tag/crude), [traffic](/tag/traffic), [ail](/tag/ail), [rfid](/tag/rfid), [oil-train](/tag/oil-train), [rail](/tag/rail), [traffic-analysis](/tag/traffic-analysis), [first-time-poster](/tag/first-time-poster)
 
 ----
 

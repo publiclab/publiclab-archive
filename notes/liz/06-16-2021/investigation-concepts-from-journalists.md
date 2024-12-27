@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/06-16-2021/investigation-concepts-from-journalists.md
 nid: 26835
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/192/original/Screen_Shot_2021-06-16_at_2.51.22_PM.png)
 
 # investigation concepts from journalists
 
-by [liz](../../../profile/liz) | June 16, 2021 18:51
+by [liz](/profile/liz) | June 16, 2021 18:51
 
-June 16, 2021 18:51 | Tags: [evidence](../tag/evidence), [journalism](../tag/journalism), [lat:35](../tag/lat:35), [zoom:13](../tag/zoom:13), [lon:-78.99](../tag/lon:-78.99), [investigation](../tag/investigation), [osint](../tag/osint)
+June 16, 2021 18:51 | Tags: [evidence](/tag/evidence), [journalism](/tag/journalism), [lat:35](/tag/lat:35), [zoom:13](/tag/zoom:13), [lon:-78.99](/tag/lon:-78.99), [investigation](/tag/investigation), [osint](/tag/osint)
 
 ----
 

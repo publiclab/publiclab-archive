@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/09-19-2015/using-imagej-to-process-passive-particle-monitor-samples.md
 nid: 12229
 uid: 4
-
 cids: 14074
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/635/original/imagejsteps.jpg)
 
 # Using ImageJ to process passive particle monitor samples
 
-by [mathew](../../../profile/mathew) | September 19, 2015 01:41
+by [mathew](/profile/mathew) | September 19, 2015 01:41
 
-September 19, 2015 01:41 | Tags: [image-processing](../tag/image-processing), [air-quality](../tag/air-quality), [petcoke](../tag/petcoke), [particulates](../tag/particulates), [silica](../tag/silica), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [particle-monitoring](../tag/particle-monitoring), [image-analysis](../tag/image-analysis), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm)
+September 19, 2015 01:41 | Tags: [image-processing](/tag/image-processing), [air-quality](/tag/air-quality), [petcoke](/tag/petcoke), [particulates](/tag/particulates), [silica](/tag/silica), [pm](/tag/pm), [particle-sensing](/tag/particle-sensing), [particle-monitoring](/tag/particle-monitoring), [image-analysis](/tag/image-analysis), [passive-particle-monitors](/tag/passive-particle-monitors), [passive-pm](/tag/passive-pm)
 
 ----
 

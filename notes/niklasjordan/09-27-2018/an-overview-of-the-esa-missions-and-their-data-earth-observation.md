@@ -6,18 +6,16 @@ author: niklasjordan
 path: /notes/niklasjordan/09-27-2018/an-overview-of-the-esa-missions-and-their-data-earth-observation.md
 nid: 17183
 uid: 531062
-
 cids: 20735,20770,21111,21115
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/694/original/Aeolus_separation.jpg)
 
 # An overview of the ESA missions and their data (Earth observation)
 
-by [niklasjordan](../../../profile/niklasjordan) | September 27, 2018 19:48
+by [niklasjordan](/profile/niklasjordan) | September 27, 2018 19:48
 
-September 27, 2018 19:48 | Tags: [imagery](../tag/imagery), [satellite-imagery](../tag/satellite-imagery), [esa](../tag/esa), [satelite](../tag/satelite), [earth](../tag/earth), [observation](../tag/observation), [european-space-agency](../tag/european-space-agency)
+September 27, 2018 19:48 | Tags: [imagery](/tag/imagery), [satellite-imagery](/tag/satellite-imagery), [esa](/tag/esa), [satelite](/tag/satelite), [earth](/tag/earth), [observation](/tag/observation), [european-space-agency](/tag/european-space-agency)
 
 ----
 

@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/12-01-2017/what-are-sources-for-existing-environmental-data.md
 nid: 15284
 uid: 422561
-
 cids: 17857,22809
-
 ---
 
 # What are sources for existing environmental data? 
 
-by [stevie](../../../profile/stevie) | December 01, 2017 21:32
+by [stevie](/profile/stevie) | December 01, 2017 21:32
 
-December 01, 2017 21:32 | Tags: [epa](../tag/epa), [database](../tag/database), [data](../tag/data), [question:general](../tag/question:general), [government](../tag/government), [existing-data](../tag/existing-data), [echo](../tag/echo)
+December 01, 2017 21:32 | Tags: [epa](/tag/epa), [database](/tag/database), [data](/tag/data), [question:general](/tag/question:general), [government](/tag/government), [existing-data](/tag/existing-data), [echo](/tag/echo)
 
 ----
 

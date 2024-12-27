@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/03-23-2015/public-lab-talk-at-libreplanet-2015-two-public-labs-and-a-call-for-developers.md
 nid: 11715
 uid: 1
-
 cids: 11392,11409
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/397/original/libreplanet-talk.png)
 
 # Public Lab talk at LibrePlanet 2015: Two Public Labs, and a call for developers
 
-by [warren](../../../profile/warren) | March 23, 2015 14:31
+by [warren](/profile/warren) | March 23, 2015 14:31
 
-March 23, 2015 14:31 | Tags: [boston](../tag/boston), [open-source](../tag/open-source), [community](../tag/community), [web-development](../tag/web-development), [presentations](../tag/presentations), [software](../tag/software), [talk](../tag/talk), [presentation](../tag/presentation), [developers](../tag/developers), [libreplanet](../tag/libreplanet), [free-software](../tag/free-software)
+March 23, 2015 14:31 | Tags: [boston](/tag/boston), [open-source](/tag/open-source), [community](/tag/community), [web-development](/tag/web-development), [presentations](/tag/presentations), [software](/tag/software), [talk](/tag/talk), [presentation](/tag/presentation), [developers](/tag/developers), [libreplanet](/tag/libreplanet), [free-software](/tag/free-software)
 
 ----
 

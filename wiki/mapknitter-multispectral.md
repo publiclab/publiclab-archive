@@ -6,12 +6,12 @@ author: warren
 path: /wiki/mapknitter-multispectral.md
 nid: 683
 uid: 1
-
+cids: 
 ---
 
 # MapKnitter Multispectral
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 January 07, 2012 15:34 | Tags: 
 

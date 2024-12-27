@@ -6,16 +6,14 @@ author: walkerjeffd
 path: /notes/walkerjeffd/08-11-2014/kayak-deployment-on-8-7-2014.md
 nid: 11034
 uid: 422528
-
 cids: 10016
-
 ---
 
 # Kayak Deployment on 8/7/2014
 
-by [walkerjeffd](../../../profile/walkerjeffd) | August 11, 2014 18:17
+by [walkerjeffd](/profile/walkerjeffd) | August 11, 2014 18:17
 
-August 11, 2014 18:17 | Tags: [riffle](../tag/riffle), [barnstar:empiricism](../tag/barnstar:empiricism), [riffle-examples](../tag/riffle-examples), [first-time-poster](../tag/first-time-poster)
+August 11, 2014 18:17 | Tags: [riffle](/tag/riffle), [barnstar:empiricism](/tag/barnstar:empiricism), [riffle-examples](/tag/riffle-examples), [first-time-poster](/tag/first-time-poster)
 
 ----
 

@@ -6,14 +6,12 @@ author: warren
 path: /notes/warren/05-01-2018/taller-diy-de-turbinas-y-luces-solares.md
 nid: 52
 uid: 1
-
 cids: 36
-
 ---
 
 # Taller DIY de turbinas y luces solares
 
-by [warren](../../../profile/warren) | January 22, 2011 00:04
+by [warren](/profile/warren) | January 22, 2011 00:04
 
 January 22, 2011 00:04 | Tags: 
 

@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/10-24-2013/mentor-summit.md
 nid: 9542
 uid: 554
-
 cids: 7340,25191
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/031/original/GSOCgroup.gif)
 
 # Mentor Summit
 
-by [cfastie](../../../profile/cfastie) | October 24, 2013 04:38
+by [cfastie](/profile/cfastie) | October 24, 2013 04:38
 
-October 24, 2013 04:38 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [gsoc](../tag/gsoc), [google](../tag/google), [google-summer-of-code](../tag/google-summer-of-code), [gsoc2013](../tag/gsoc2013), [blog](../tag/blog), [infrablue](../tag/infrablue), [response:9540](../tag/response:9540), [mentorsummit](../tag/mentorsummit), [mentorsummit13](../tag/mentorsummit13)
+October 24, 2013 04:38 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [infragram](/tag/infragram), [gsoc](/tag/gsoc), [google](/tag/google), [google-summer-of-code](/tag/google-summer-of-code), [gsoc2013](/tag/gsoc2013), [blog](/tag/blog), [infrablue](/tag/infrablue), [response:9540](/tag/response:9540), [mentorsummit](/tag/mentorsummit), [mentorsummit13](/tag/mentorsummit13)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/2-13-2012/tracking-contributions-open-source-projects.md
 nid: 783
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Picture 3_1.png)
 
 # Tracking contributions to open source projects
 
-by [warren](../../../profile/warren) | February 13, 2012 23:54
+by [warren](/profile/warren) | February 13, 2012 23:54
 
-February 13, 2012 23:54 | Tags: [community](../tag/community)
+February 13, 2012 23:54 | Tags: [community](/tag/community)
 
 ----
 

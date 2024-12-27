@@ -6,16 +6,16 @@ author: warren
 path: /wiki/ui.md
 nid: 15043
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/347/original/Screenshot_2018-04-07_at_3.36.25_PM.png)
 
 # User interface design
 
-by [liz](../profile/liz), [warren](../profile/warren)
+by [liz](/profile/liz), [warren](/profile/warren)
 
-October 12, 2017 01:07 | Tags: [website](../tag/website), [design](../tag/design), [autodesk](../tag/autodesk), [ux](../tag/ux), [ui](../tag/ui), [user-interface](../tag/user-interface), [parent:website](../tag/parent:website)
+October 12, 2017 01:07 | Tags: [website](/tag/website), [design](/tag/design), [autodesk](/tag/autodesk), [ux](/tag/ux), [ui](/tag/ui), [user-interface](/tag/user-interface), [parent:website](/tag/parent:website)
 
 ----
 
@@ -27,7 +27,7 @@ A number of projects are in progress; we work to make sure they are broken into 
 
 ### Updates
 
-[grid:pin:ui](../../tag/grid:pin:ui)
+[grid:pin:ui](/tag/grid:pin:ui)
 
 
 ****
@@ -40,7 +40,7 @@ We are using this shared [Google Presentation](https://docs.google.com/presentat
 
 ## Questions
 
-[ui](../../tag/question:ui)
+[ui](/tag/question:ui)
 
 
 ****

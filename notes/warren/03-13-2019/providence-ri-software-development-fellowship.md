@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/03-13-2019/providence-ri-software-development-fellowship.md
 nid: 18542
 uid: 1
-
 cids: 23394
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/062/original/Screen_Shot_2019-03-13_at_2.22.52_PM.png)
 
 # Providence, RI software development fellowship
 
-by [warren](../../../profile/warren) | March 13, 2019 18:24
+by [warren](/profile/warren) | March 13, 2019 18:24
 
-March 13, 2019 18:24 | Tags: [providence](../tag/providence), [software](../tag/software), [blog](../tag/blog), [code](../tag/code), [jobs](../tag/jobs), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [job](../tag/job), [pvd](../tag/pvd), [lat:41.809129](../tag/lat:41.809129), [lon:-71.426611](../tag/lon:-71.426611)
+March 13, 2019 18:24 | Tags: [providence](/tag/providence), [software](/tag/software), [blog](/tag/blog), [code](/tag/code), [jobs](/tag/jobs), [fellows](/tag/fellows), [fellowship](/tag/fellowship), [job](/tag/job), [pvd](/tag/pvd), [lat:41.809129](/tag/lat:41.809129), [lon:-71.426611](/tag/lon:-71.426611)
 
 ----
 

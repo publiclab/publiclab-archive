@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/03-09-2015/public-lab-systems-administrator.md
 nid: 11668
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/240/original/plots-logo-transparent.jpg)
 
 # Public Lab: Systems Administrator
 
-by [Shannon](../../../profile/Shannon) | March 09, 2015 20:22
+by [Shannon](/profile/Shannon) | March 09, 2015 20:22
 
-March 09, 2015 20:22 | Tags: [nonprofit](../tag/nonprofit), [jobs](../tag/jobs)
+March 09, 2015 20:22 | Tags: [nonprofit](/tag/nonprofit), [jobs](/tag/jobs)
 
 ----
 

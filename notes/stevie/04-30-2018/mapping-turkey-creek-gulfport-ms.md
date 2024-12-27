@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/04-30-2018/mapping-turkey-creek-gulfport-ms.md
 nid: 16273
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/786/original/20180314_163423.jpg)
 
 # Mapping Turkey Creek, Gulfport, MS
 
-by [stevie](../../../profile/stevie) | April 30, 2018 18:54
+by [stevie](/profile/stevie) | April 30, 2018 18:54
 
-April 30, 2018 18:54 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [mississippi](../tag/mississippi), [mapping](../tag/mapping), [steps](../tag/steps), [nas](../tag/nas), [gulfport](../tag/gulfport), [lat:30.4150828](../tag/lat:30.4150828), [lon:-89.0983345](../tag/lon:-89.0983345), [turkey-creek](../tag/turkey-creek), [boys-and-girls-club](../tag/boys-and-girls-club)
+April 30, 2018 18:54 | Tags: [balloon-mapping](/tag/balloon-mapping), [mapknitter](/tag/mapknitter), [mississippi](/tag/mississippi), [mapping](/tag/mapping), [steps](/tag/steps), [nas](/tag/nas), [gulfport](/tag/gulfport), [lat:30.4150828](/tag/lat:30.4150828), [lon:-89.0983345](/tag/lon:-89.0983345), [turkey-creek](/tag/turkey-creek), [boys-and-girls-club](/tag/boys-and-girls-club)
 
 ----
 

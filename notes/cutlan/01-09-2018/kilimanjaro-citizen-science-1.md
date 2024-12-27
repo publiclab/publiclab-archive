@@ -6,18 +6,16 @@ author: cutlan
 path: /notes/cutlan/01-09-2018/kilimanjaro-citizen-science-1.md
 nid: 15493
 uid: 522144
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/136/original/MLIMA.jpg)
 
 # Kilimanjaro Citizen Science - KCS-1
 
-by [cutlan](../../../profile/cutlan) | January 09, 2018 17:28
+by [cutlan](/profile/cutlan) | January 09, 2018 17:28
 
-January 09, 2018 17:28 | Tags: [modis](../tag/modis), [africa](../tag/africa), [kilimanjaro](../tag/kilimanjaro), [tanzania](../tag/tanzania)
+January 09, 2018 17:28 | Tags: [modis](/tag/modis), [africa](/tag/africa), [kilimanjaro](/tag/kilimanjaro), [tanzania](/tag/tanzania)
 
 ----
 

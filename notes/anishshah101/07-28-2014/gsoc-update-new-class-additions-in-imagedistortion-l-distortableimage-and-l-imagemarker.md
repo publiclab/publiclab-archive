@@ -6,18 +6,16 @@ author: anishshah101
 path: /notes/anishshah101/07-28-2014/gsoc-update-new-class-additions-in-imagedistortion-l-distortableimage-and-l-imagemarker.md
 nid: 10985
 uid: 421046
-
 cids: 9670,9671,9672,9673,9685
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/603/original/1.PNG)
 
 # GSoC Update- New class additions in ImageDistortion (L.DistortableImage and L.ImageMarker)
 
-by [anishshah101](../../../profile/anishshah101) | July 28, 2014 07:36
+by [anishshah101](/profile/anishshah101) | July 28, 2014 07:36
 
-July 28, 2014 07:36 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [developers](../tag/developers), [gsoc-2014](../tag/gsoc-2014)
+July 28, 2014 07:36 | Tags: [mapknitter](/tag/mapknitter), [gsoc](/tag/gsoc), [developers](/tag/developers), [gsoc-2014](/tag/gsoc-2014)
 
 ----
 

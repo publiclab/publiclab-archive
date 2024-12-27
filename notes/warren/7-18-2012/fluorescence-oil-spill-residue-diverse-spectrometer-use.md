@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/7-18-2012/fluorescence-oil-spill-residue-diverse-spectrometer-use.md
 nid: 2862
 uid: 1
-
 cids: 1042,1043,1054,1403,22229,22231
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0175.JPG)
 
 # Fluorescence from oil spill residue & diverse spectrometer use
 
-by [warren](../../../profile/warren) | July 18, 2012 12:45
+by [warren](/profile/warren) | July 18, 2012 12:45
 
-July 18, 2012 12:45 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [fluorescence](../tag/fluorescence)
+July 18, 2012 12:45 | Tags: [spectrometer](/tag/spectrometer), [uv](/tag/uv), [fluorescence](/tag/fluorescence)
 
 ----
 

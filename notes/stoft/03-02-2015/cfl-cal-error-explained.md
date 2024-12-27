@@ -6,18 +6,16 @@ author: stoft
 path: /notes/stoft/03-02-2015/cfl-cal-error-explained.md
 nid: 11647
 uid: 54025
-
 cids: 11357,11362,11700
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/137/original/CFL-DispursionCal.gif)
 
 # CFL Cal Error Explained
 
-by [stoft](../../../profile/stoft) | March 02, 2015 00:18
+by [stoft](/profile/stoft) | March 02, 2015 00:18
 
-March 02, 2015 00:18 | Tags: [spectrometer](../tag/spectrometer), [cfl](../tag/cfl)
+March 02, 2015 00:18 | Tags: [spectrometer](/tag/spectrometer), [cfl](/tag/cfl)
 
 ----
 

@@ -6,16 +6,16 @@ author: liz
 path: /wiki/nairobi.md
 nid: 11149
 uid: 7
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/166/original/Screen_Shot_2016-02-09_at_10.49.52_AM.png)
 
 # nairobi
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-September 17, 2014 20:58 | Tags: [kenya](../tag/kenya), [africa](../tag/africa), [parent:kenya](../tag/parent:kenya)
+September 17, 2014 20:58 | Tags: [kenya](/tag/kenya), [africa](/tag/africa), [parent:kenya](/tag/parent:kenya)
 
 ----
 

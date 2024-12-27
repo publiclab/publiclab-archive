@@ -6,14 +6,14 @@ author: mathew
 path: /wiki/desktop-spectrometer-2.md
 nid: 11532
 uid: 4
-
+cids: 
 ---
 
 # desktop spectrometer 2
 
-by [mathew](../profile/mathew)
+by [mathew](/profile/mathew)
 
-January 20, 2015 02:39 | Tags: [prompt:spectrometry](../tag/prompt:spectrometry)
+January 20, 2015 02:39 | Tags: [prompt:spectrometry](/tag/prompt:spectrometry)
 
 ----
 

@@ -6,18 +6,16 @@ author: amocorro
 path: /notes/amocorro/11-04-2020/how-can-i-identify-where-plastic-manufacturing-or-processing-industries-and-companies-are-located-in-my-1-region-2-state-and-or-3-county-levels.md
 nid: 24923
 uid: 700923
-
 cids: 27627,27629,27684,27685,27688,27689,27719,27720,29419
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/504/original/CityofTacoma.jpg)
 
 # How can I identify where plastic manufacturing or processing industries and companies are located in my (1) region, (2) state, and/or (3) at county levels?
 
-by [amocorro](../../../profile/amocorro) | November 04, 2020 18:32
+by [amocorro](/profile/amocorro) | November 04, 2020 18:32
 
-November 04, 2020 18:32 | Tags: [epa](../tag/epa), [question:general](../tag/question:general), [general](../tag/general), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [microplastics](../tag/microplastics), [lon:-122](../tag/lon:-122), [lat:47](../tag/lat:47), [zoom:6](../tag/zoom:6), [zoom:9](../tag/zoom:9), [zoom:8](../tag/zoom:8), [plastic-pollution](../tag/plastic-pollution), [nurdles](../tag/nurdles), [lat:47.25744](../tag/lat:47.25744), [lon:-122.388858](../tag/lon:-122.388858), [washington](../tag/washington), [pacific-northwest](../tag/pacific-northwest), [tacoma](../tag/tacoma), [enviro-mapper](../tag/enviro-mapper), [naics-codes](../tag/naics-codes)
+November 04, 2020 18:32 | Tags: [epa](/tag/epa), [question:general](/tag/question:general), [general](/tag/general), [location:blurred](/tag/location:blurred), [place:united-states](/tag/place:united-states), [microplastics](/tag/microplastics), [lon:-122](/tag/lon:-122), [lat:47](/tag/lat:47), [zoom:6](/tag/zoom:6), [zoom:9](/tag/zoom:9), [zoom:8](/tag/zoom:8), [plastic-pollution](/tag/plastic-pollution), [nurdles](/tag/nurdles), [lat:47.25744](/tag/lat:47.25744), [lon:-122.388858](/tag/lon:-122.388858), [washington](/tag/washington), [pacific-northwest](/tag/pacific-northwest), [tacoma](/tag/tacoma), [enviro-mapper](/tag/enviro-mapper), [naics-codes](/tag/naics-codes)
 
 ----
 

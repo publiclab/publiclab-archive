@@ -6,16 +6,14 @@ author: mathew
 path: /notes/mathew/5-10-2012/grassroots-mapping-forum-notes-process-and-automation-pt1.md
 nid: 1953
 uid: 4
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-05-10 at 2.45.38 PM.png)
 
 # Grassroots Mapping Forum: Notes on process and automation  pt.1
 
-by [mathew](../../../profile/mathew) | May 10, 2012 23:05
+by [mathew](/profile/mathew) | May 10, 2012 23:05
 
 May 10, 2012 23:05 | Tags: 
 

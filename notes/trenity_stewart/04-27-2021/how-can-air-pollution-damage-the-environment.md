@@ -6,16 +6,14 @@ author: trenity_stewart
 path: /notes/trenity_stewart/04-27-2021/how-can-air-pollution-damage-the-environment.md
 nid: 26369
 uid: 754373
-
 cids: 28642,28645,28680
-
 ---
 
 # how can Air pollution damage the environment?
 
-by [trenity_stewart](../../../profile/trenity_stewart) | April 27, 2021 19:06
+by [trenity_stewart](/profile/trenity_stewart) | April 27, 2021 19:06
 
-April 27, 2021 19:06 | Tags: [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
+April 27, 2021 19:06 | Tags: [question:general](/tag/question:general), [general](/tag/general), [first-time-poster](/tag/first-time-poster)
 
 ----
 

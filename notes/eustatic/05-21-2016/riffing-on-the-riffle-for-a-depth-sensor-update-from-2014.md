@@ -6,18 +6,16 @@ author: eustatic
 path: /05-21-2016/riffing-on-the-riffle-for-a-depth-sensor-update-from-2014.md
 nid: 13135
 uid: 379
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/240/original/screen_cap_depth_sensor.png)
 
 # Riffing on the riffle for a depth sensor, update from 2014 
 
-by [eustatic](../../../profile/eustatic) | May 21, 2016 20:21
+by [eustatic](/profile/eustatic) | May 21, 2016 20:21
 
-May 21, 2016 20:21 | Tags: [gulf-coast](../tag/gulf-coast), [arduino](../tag/arduino), [water-quality](../tag/water-quality), [water](../tag/water), [555](../tag/555)
+May 21, 2016 20:21 | Tags: [gulf-coast](/tag/gulf-coast), [arduino](/tag/arduino), [water-quality](/tag/water-quality), [water](/tag/water), [555](/tag/555)
 
 ----
 

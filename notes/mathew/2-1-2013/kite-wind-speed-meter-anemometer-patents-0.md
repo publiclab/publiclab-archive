@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/2-1-2013/kite-wind-speed-meter-anemometer-patents-0.md
 nid: 5837
 uid: 4
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2013-01-31 at 9.08.22 PM.png)
 
 # Kite Wind Speed Meter (Anemometer) Patents
 
-by [mathew](../../../profile/mathew) | February 01, 2013 05:10
+by [mathew](/profile/mathew) | February 01, 2013 05:10
 
-February 01, 2013 05:10 | Tags: [kite](../tag/kite), [diy-kite](../tag/diy-kite), [anemometer](../tag/anemometer), [wind-speed-meter](../tag/wind-speed-meter), [kite-anemometer](../tag/kite-anemometer)
+February 01, 2013 05:10 | Tags: [kite](/tag/kite), [diy-kite](/tag/diy-kite), [anemometer](/tag/anemometer), [wind-speed-meter](/tag/wind-speed-meter), [kite-anemometer](/tag/kite-anemometer)
 
 ----
 

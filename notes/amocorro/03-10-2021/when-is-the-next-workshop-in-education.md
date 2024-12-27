@@ -6,16 +6,14 @@ author: amocorro
 path: /notes/amocorro/03-10-2021/when-is-the-next-workshop-in-education.md
 nid: 25890
 uid: 700923
-
 cids: 28320,31517
-
 ---
 
 # When is the next workshop in education?
 
-by [amocorro](../../../profile/amocorro) | March 10, 2021 16:25
+by [amocorro](/profile/amocorro) | March 10, 2021 16:25
 
-March 10, 2021 16:25 | Tags: [education](../tag/education), [workshop](../tag/workshop), [question:general](../tag/question:general), [general](../tag/general)
+March 10, 2021 16:25 | Tags: [education](/tag/education), [workshop](/tag/workshop), [question:general](/tag/question:general), [general](/tag/general)
 
 ----
 

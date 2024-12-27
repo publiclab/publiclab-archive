@@ -6,18 +6,16 @@ author: mlamadrid
 path: /notes/mlamadrid/12-06-2017/washington-is-one-of-many-paths-to-sustainability-progress-green-buildings-can-help.md
 nid: 15316
 uid: 45586
-
 cids: 21834
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/815/original/usgbc_29582871.jpg)
 
 # Washington is one of many paths to sustainability progress. Green buildings can help.
 
-by [mlamadrid](../../../profile/mlamadrid) | December 06, 2017 01:11
+by [mlamadrid](/profile/mlamadrid) | December 06, 2017 01:11
 
-December 06, 2017 01:11 | Tags: [landscape](../tag/landscape), [climate-change](../tag/climate-change), [climate](../tag/climate), [governance](../tag/governance), [leed](../tag/leed), [usbgc](../tag/usbgc), [environmental-policy](../tag/environmental-policy)
+December 06, 2017 01:11 | Tags: [landscape](/tag/landscape), [climate-change](/tag/climate-change), [climate](/tag/climate), [governance](/tag/governance), [leed](/tag/leed), [usbgc](/tag/usbgc), [environmental-policy](/tag/environmental-policy)
 
 ----
 

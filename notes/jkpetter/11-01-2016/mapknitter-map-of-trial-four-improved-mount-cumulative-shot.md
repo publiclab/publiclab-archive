@@ -6,18 +6,16 @@ author: jkpetter
 path: /notes/jkpetter/11-01-2016/mapknitter-map-of-trial-four-improved-mount-cumulative-shot.md
 nid: 13668
 uid: 489340
-
 cids: 15759
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/674/original/P1070904.JPG)
 
 # MapKnitter map of Trial Four: Improved Mount Cumulative Shot
 
-by [jkpetter](../../../profile/jkpetter) | November 01, 2016 01:38
+by [jkpetter](/profile/jkpetter) | November 01, 2016 01:38
 
-November 01, 2016 01:38 | Tags: [mapknitter](../tag/mapknitter), [lat:35.989525575](../tag/lat:35.989525575), [lon:-78.9067362249](../tag/lon:-78.9067362249)
+November 01, 2016 01:38 | Tags: [mapknitter](/tag/mapknitter), [lat:35.989525575](/tag/lat:35.989525575), [lon:-78.9067362249](/tag/lon:-78.9067362249)
 
 ----
 

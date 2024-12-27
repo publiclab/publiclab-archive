@@ -6,16 +6,14 @@ author: julsmill
 path: /notes/julsmill/12-20-2017/i-want-to-know-a-method-to-quantify-milk-proteins-cow-milk-almond-milk-coconut-milk-oat-milk-using-the-foldable-mini-spectrometer-is-this-possible.md
 nid: 15403
 uid: 518294
-
 cids: 
-
 ---
 
 # I want to know a method to quantify milk proteins (cow milk, almond milk, coconut milk, oat milk) using the foldable mini spectrometer, Is this possible?
 
-by [julsmill](../../../profile/julsmill) | December 20, 2017 13:01
+by [julsmill](/profile/julsmill) | December 20, 2017 13:01
 
-December 20, 2017 13:01 | Tags: [help](../tag/help), [question:spectral-workbench](../tag/question:spectral-workbench), [quantified](../tag/quantified), [milk:protein](../tag/milk:protein), [first-time-poster](../tag/first-time-poster)
+December 20, 2017 13:01 | Tags: [help](/tag/help), [question:spectral-workbench](/tag/question:spectral-workbench), [quantified](/tag/quantified), [milk:protein](/tag/milk:protein), [first-time-poster](/tag/first-time-poster)
 
 ----
 

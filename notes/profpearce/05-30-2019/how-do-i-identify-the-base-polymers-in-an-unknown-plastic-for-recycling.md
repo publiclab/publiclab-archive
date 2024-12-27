@@ -6,16 +6,14 @@ author: profpearce
 path: /notes/profpearce/05-30-2019/how-do-i-identify-the-base-polymers-in-an-unknown-plastic-for-recycling.md
 nid: 19564
 uid: 594354
-
 cids: 24301,24319,24320,24321,24325,24337,24339
-
 ---
 
 # How do I  identify the base polymers in an unknown plastic for recycling? 
 
-by [profpearce](../../../profile/profpearce) | May 30, 2019 04:47
+by [profpearce](/profile/profpearce) | May 30, 2019 04:47
 
-May 30, 2019 04:47 | Tags: [spectrometry](../tag/spectrometry), [question:spectrometry](../tag/question:spectrometry), [polymer](../tag/polymer), [plastic](../tag/plastic), [first-time-poster](../tag/first-time-poster), [ftir](../tag/ftir)
+May 30, 2019 04:47 | Tags: [spectrometry](/tag/spectrometry), [question:spectrometry](/tag/question:spectrometry), [polymer](/tag/polymer), [plastic](/tag/plastic), [first-time-poster](/tag/first-time-poster), [ftir](/tag/ftir)
 
 ----
 

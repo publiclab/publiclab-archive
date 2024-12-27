@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/10-20-2014/the-blitz-report.md
 nid: 11280
 uid: 422561
-
 cids: 10583,10585,10586,11025
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/548/original/IMG_1154.JPG)
 
 # The Blitz Report! 
 
-by [stevie](../../../profile/stevie) | October 20, 2014 19:00
+by [stevie](/profile/stevie) | October 20, 2014 19:00
 
-October 20, 2014 19:00 | Tags: [balloon-mapping](../tag/balloon-mapping), [infragram](../tag/infragram), [gulfcoast](../tag/gulfcoast), [urbanwater](../tag/urbanwater), [urbanwaters](../tag/urbanwaters), [parent:urban-waters-mapping-nola](../tag/parent:urban-waters-mapping-nola)
+October 20, 2014 19:00 | Tags: [balloon-mapping](/tag/balloon-mapping), [infragram](/tag/infragram), [gulfcoast](/tag/gulfcoast), [urbanwater](/tag/urbanwater), [urbanwaters](/tag/urbanwaters), [parent:urban-waters-mapping-nola](/tag/parent:urban-waters-mapping-nola)
 
 ----
 

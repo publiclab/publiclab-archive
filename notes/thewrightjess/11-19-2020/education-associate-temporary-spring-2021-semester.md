@@ -6,18 +6,16 @@ author: thewrightjess
 path: /notes/thewrightjess/11-19-2020/education-associate-temporary-spring-2021-semester.md
 nid: 25072
 uid: 603909
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/775/original/Building_community_microscopes_for_environmental_investigation_at_Public_Lab's_2019_Texas_Barnraising_CC-BY-SA_2019_Public_Lab_contributor__SadiePrego.jpg)
 
 # Education Associate - Temporary - Spring 2021 Semester
 
-by [thewrightjess](../../../profile/thewrightjess) | November 19, 2020 17:52
+by [thewrightjess](/profile/thewrightjess) | November 19, 2020 17:52
 
-November 19, 2020 17:52 | Tags: [education](../tag/education), [nonprofit](../tag/nonprofit), [jobs](../tag/jobs), [lat:29.954934](../tag/lat:29.954934), [lon:-90.065917](../tag/lon:-90.065917), [lat:29.951065](../tag/lat:29.951065), [lon:-90.071532](../tag/lon:-90.071532), [zoom:6](../tag/zoom:6)
+November 19, 2020 17:52 | Tags: [education](/tag/education), [nonprofit](/tag/nonprofit), [jobs](/tag/jobs), [lat:29.954934](/tag/lat:29.954934), [lon:-90.065917](/tag/lon:-90.065917), [lat:29.951065](/tag/lat:29.951065), [lon:-90.071532](/tag/lon:-90.071532), [zoom:6](/tag/zoom:6)
 
 ----
 

@@ -6,18 +6,16 @@ author: sebasvanegasb
 path: /notes/sebasvanegasb/11-04-2015/mapping-experiment-llactalab-cuenca-ecuador-day-1.md
 nid: 12367
 uid: 456585
-
 cids: 12847,12848,12851
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/476/original/IMG_5981.JPG)
 
 # Mapping Experiment Llactalab Cuenca Ecuador day 1
 
-by [sebasvanegasb](../../../profile/sebasvanegasb) | November 04, 2015 22:40
+by [sebasvanegasb](/profile/sebasvanegasb) | November 04, 2015 22:40
 
-November 04, 2015 22:40 | Tags: [kite-mapping](../tag/kite-mapping), [lang:es](../tag/lang:es), [ecuador](../tag/ecuador), [llactalab](../tag/llactalab)
+November 04, 2015 22:40 | Tags: [kite-mapping](/tag/kite-mapping), [lang:es](/tag/lang:es), [ecuador](/tag/ecuador), [llactalab](/tag/llactalab)
 
 ----
 

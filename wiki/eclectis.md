@@ -6,14 +6,14 @@ author: warren
 path: /wiki/eclectis.md
 nid: 9346
 uid: 1
-
+cids: 
 ---
 
 # Eclectis
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-September 19, 2013 11:49 | Tags: [waagsociety](../tag/waagsociety), [amsterdam](../tag/amsterdam), [event](../tag/event), [infragram](../tag/infragram), [waag](../tag/waag)
+September 19, 2013 11:49 | Tags: [waagsociety](/tag/waagsociety), [amsterdam](/tag/amsterdam), [event](/tag/event), [infragram](/tag/infragram), [waag](/tag/waag)
 
 ----
 

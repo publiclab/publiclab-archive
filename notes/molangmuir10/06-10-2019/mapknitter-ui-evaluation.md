@@ -6,18 +6,16 @@ author: molangmuir10
 path: /notes/molangmuir10/06-10-2019/mapknitter-ui-evaluation.md
 nid: 19650
 uid: 589023
-
 cids: 24746,24756,24767,24777,24782
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/776/original/Screenshot_2019-06-10_at_11.01.36.png)
 
 # Mapknitter: UI evaluation
 
-by [molangmuir10](../../../profile/molangmuir10) | June 10, 2019 10:09
+by [molangmuir10](/profile/molangmuir10) | June 10, 2019 10:09
 
-June 10, 2019 10:09 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [barnstar:basic](../tag/barnstar:basic), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [ui](../tag/ui), [community-atlas](../tag/community-atlas), [lat:52.908902](../tag/lat:52.908902), [lon:-1.054687](../tag/lon:-1.054687), [community-atlas-ui](../tag/community-atlas-ui)
+June 10, 2019 10:09 | Tags: [balloon-mapping](/tag/balloon-mapping), [mapknitter](/tag/mapknitter), [barnstar:basic](/tag/barnstar:basic), [barnstar:photo-documentation](/tag/barnstar:photo-documentation), [ui](/tag/ui), [community-atlas](/tag/community-atlas), [lat:52.908902](/tag/lat:52.908902), [lon:-1.054687](/tag/lon:-1.054687), [community-atlas-ui](/tag/community-atlas-ui)
 
 ----
 

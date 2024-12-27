@@ -6,16 +6,14 @@ author: keshavgarg234156
 path: /notes/keshavgarg234156/03-06-2020/gsoc-proposal-editor-repair-and-fortification.md
 nid: 23092
 uid: 613595
-
 cids: 26437,26453,26456,26460,26461,26468,26478,26543,26552,26553,26554,26569,26579,26580,26581,26591,26617,26618,26667
-
 ---
 
 # GSoC Proposal:Editor repair and fortification
 
-by [keshavgarg234156](../../../profile/keshavgarg234156) | March 06, 2020 13:41
+by [keshavgarg234156](/profile/keshavgarg234156) | March 06, 2020 13:41
 
-March 06, 2020 13:41 | Tags: [markdown](../tag/markdown), [first-time-poster](../tag/first-time-poster), [soc-2020](../tag/soc-2020), [soc-2020-proposals](../tag/soc-2020-proposals)
+March 06, 2020 13:41 | Tags: [markdown](/tag/markdown), [first-time-poster](/tag/first-time-poster), [soc-2020](/tag/soc-2020), [soc-2020-proposals](/tag/soc-2020-proposals)
 
 ----
 
@@ -64,7 +62,7 @@ This should be changed to
 
 ### Part 2: Interface and General Improvements
 1. **Adding new Custom Insert Modules.**
- Inline Power tags are used to insert a list of notes for a given tag eg. [<tagname>](../../tag/<tagname>). But it’s difficult for a non-programmer to know the syntax for inserting it in Markdown. So we can start with making separate modules for this, which will insert the required syntax in Markdown.
+ Inline Power tags are used to insert a list of notes for a given tag eg. [<tagname>](/tag/<tagname>). But it’s difficult for a non-programmer to know the syntax for inserting it in Markdown. So we can start with making separate modules for this, which will insert the required syntax in Markdown.
 <br>
 **Wikis, Notes, Nodes, Activity, Question** :
 

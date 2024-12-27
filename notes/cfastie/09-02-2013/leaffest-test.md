@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/09-02-2013/leaffest-test.md
 nid: 9088
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/369/original/Marzano.jpg)
 
 # LEAFFEST project
 
-by [cfastie](../../../profile/cfastie) | September 02, 2013 00:21
+by [cfastie](/profile/cfastie) | September 02, 2013 00:21
 
-September 02, 2013 00:21 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [leaffest](../tag/leaffest), [infragram](../tag/infragram), [garden](../tag/garden), [events:vermont](../tag/events:vermont), [leaffest2013](../tag/leaffest2013)
+September 02, 2013 00:21 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [vermont](/tag/vermont), [leaffest](/tag/leaffest), [infragram](/tag/infragram), [garden](/tag/garden), [events:vermont](/tag/events:vermont), [leaffest2013](/tag/leaffest2013)
 
 ----
 

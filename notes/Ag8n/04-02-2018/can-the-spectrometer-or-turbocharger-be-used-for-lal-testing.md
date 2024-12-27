@@ -6,16 +6,14 @@ author: Ag8n
 path: /notes/Ag8n/04-02-2018/can-the-spectrometer-or-turbocharger-be-used-for-lal-testing.md
 nid: 16048
 uid: 520994
-
 cids: 19403,19423,23051
-
 ---
 
 # Can the spectrometer or turbocharger be used for lal testing?
 
-by [Ag8n](../../../profile/Ag8n) | April 02, 2018 00:32
+by [Ag8n](/profile/Ag8n) | April 02, 2018 00:32
 
-April 02, 2018 00:32 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [microbes](../tag/microbes), [turbidity](../tag/turbidity), [question:spectrometry-challenge](../tag/question:spectrometry-challenge), [spectrometry-challenge](../tag/spectrometry-challenge), [horseshoe-crab](../tag/horseshoe-crab), [lysate](../tag/lysate), [pyrogens](../tag/pyrogens)
+April 02, 2018 00:32 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [microbes](/tag/microbes), [turbidity](/tag/turbidity), [question:spectrometry-challenge](/tag/question:spectrometry-challenge), [spectrometry-challenge](/tag/spectrometry-challenge), [horseshoe-crab](/tag/horseshoe-crab), [lysate](/tag/lysate), [pyrogens](/tag/pyrogens)
 
 ----
 

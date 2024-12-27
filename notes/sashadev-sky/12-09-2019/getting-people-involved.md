@@ -6,18 +6,16 @@ author: sashadev-sky
 path: /notes/sashadev-sky/12-09-2019/getting-people-involved.md
 nid: 21699
 uid: 555321
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/933/original/workflow.jpg)
 
 # Getting people involved in OSS
 
-by [sashadev-sky](../../../profile/sashadev-sky) | December 09, 2019 05:40
+by [sashadev-sky](/profile/sashadev-sky) | December 09, 2019 05:40
 
-December 09, 2019 05:40 | Tags: [foss](../tag/foss), [software-outreach](../tag/software-outreach), [welcoming](../tag/welcoming), [oss](../tag/oss)
+December 09, 2019 05:40 | Tags: [foss](/tag/foss), [software-outreach](/tag/software-outreach), [welcoming](/tag/welcoming), [oss](/tag/oss)
 
 ----
 

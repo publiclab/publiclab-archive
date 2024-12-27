@@ -6,18 +6,16 @@ author: MicheleTobias
 path: /notes/micheletobias/2-20-2012/kap-flight-over-pacifica-state-beach-ca.md
 nid: 814
 uid: 149
-
 cids: 481,483,484
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Pacifica_Try4_2012.jpg)
 
 # KAP Flight over Pacifica State Beach, CA
 
-by [MicheleTobias](../../../profile/MicheleTobias) | February 20, 2012 17:41
+by [MicheleTobias](/profile/MicheleTobias) | February 20, 2012 17:41
 
-February 20, 2012 17:41 | Tags: [kite-mapping](../tag/kite-mapping)
+February 20, 2012 17:41 | Tags: [kite-mapping](/tag/kite-mapping)
 
 ----
 

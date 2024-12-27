@@ -6,16 +6,14 @@ author: wmacfarl
 path: /notes/wmacfarl/09-18-2019/how-can-diy-community-collected-environmental-data-be-used.md
 nid: 20918
 uid: 424597
-
 cids: 25543,25576,25616,25617
-
 ---
 
 # How can DIY/community-collected environmental data be used?
 
-by [wmacfarl](../../../profile/wmacfarl) | September 18, 2019 20:13
+by [wmacfarl](/profile/wmacfarl) | September 18, 2019 20:13
 
-September 18, 2019 20:13 | Tags: [water-quality](../tag/water-quality), [data](../tag/data), [advocacy](../tag/advocacy), [question:water-quality](../tag/question:water-quality), [question:general](../tag/question:general), [oil-and-gas](../tag/oil-and-gas), [question:advocacy](../tag/question:advocacy), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [question:oil-and-gas-water-trio](../tag/question:oil-and-gas-water-trio)
+September 18, 2019 20:13 | Tags: [water-quality](/tag/water-quality), [data](/tag/data), [advocacy](/tag/advocacy), [question:water-quality](/tag/question:water-quality), [question:general](/tag/question:general), [oil-and-gas](/tag/oil-and-gas), [question:advocacy](/tag/question:advocacy), [oil-and-gas-water-trio](/tag/oil-and-gas-water-trio), [question:oil-and-gas-water-trio](/tag/question:oil-and-gas-water-trio)
 
 ----
 

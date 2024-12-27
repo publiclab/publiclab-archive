@@ -6,16 +6,14 @@ author: kgradow1
 path: /notes/kgradow1/04-30-2020/using-survey-info-to-inform-open-hardware-development.md
 nid: 23522
 uid: 297929
-
 cids: 26747
-
 ---
 
 # Have you used surveys to inform open hardware development?  
 
-by [kgradow1](../../../profile/kgradow1) | April 30, 2020 15:39
+by [kgradow1](/profile/kgradow1) | April 30, 2020 15:39
 
-April 30, 2020 15:39 | Tags: [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [question:general](../tag/question:general), [general](../tag/general), [question:air-sensors](../tag/question:air-sensors), [air-sensors](../tag/air-sensors), [response:15589](../tag/response:15589)
+April 30, 2020 15:39 | Tags: [air-quality](/tag/air-quality), [question:air-quality](/tag/question:air-quality), [question:general](/tag/question:general), [general](/tag/general), [question:air-sensors](/tag/question:air-sensors), [air-sensors](/tag/air-sensors), [response:15589](/tag/response:15589)
 
 ----
 

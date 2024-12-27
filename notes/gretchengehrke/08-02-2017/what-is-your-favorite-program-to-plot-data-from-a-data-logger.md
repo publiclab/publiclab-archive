@@ -6,16 +6,14 @@ author: gretchengehrke
 path: /notes/gretchengehrke/08-02-2017/what-is-your-favorite-program-to-plot-data-from-a-data-logger.md
 nid: 14710
 uid: 430549
-
 cids: 22547,22556,22557,22564,24230
-
 ---
 
 # What is your favorite program to plot data from a data logger? 
 
-by [gretchengehrke](../../../profile/gretchengehrke) | August 02, 2017 20:39
+by [gretchengehrke](/profile/gretchengehrke) | August 02, 2017 20:39
 
-August 02, 2017 20:39 | Tags: [question:general](../tag/question:general), [question:data-logging](../tag/question:data-logging), [question:data-logger](../tag/question:data-logger)
+August 02, 2017 20:39 | Tags: [question:general](/tag/question:general), [question:data-logging](/tag/question:data-logging), [question:data-logger](/tag/question:data-logger)
 
 ----
 

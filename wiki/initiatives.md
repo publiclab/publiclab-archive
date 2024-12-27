@@ -6,14 +6,14 @@ author: Shannon
 path: /wiki/initiatives.md
 nid: 11082
 uid: 9
-
+cids: 
 ---
 
 # Initiatives
 
-by [liz](../profile/liz), [Shannon](../profile/Shannon)
+by [liz](/profile/liz), [Shannon](/profile/Shannon)
 
-August 27, 2014 14:50 | Tags: [style:presentation](../tag/style:presentation)
+August 27, 2014 14:50 | Tags: [style:presentation](/tag/style:presentation)
 
 ----
 

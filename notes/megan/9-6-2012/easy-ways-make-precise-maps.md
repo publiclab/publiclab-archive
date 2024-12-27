@@ -6,18 +6,16 @@ author: megan
 path: /notes/megan/9-6-2012/easy-ways-make-precise-maps.md
 nid: 3676
 uid: 775
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/SR1 (2).JPG)
 
 # Easy ways to make precise maps
 
-by [megan](../../../profile/megan) | September 07, 2012 02:47
+by [megan](/profile/megan) | September 07, 2012 02:47
 
-September 07, 2012 02:47 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [activity:mapping](../tag/activity:mapping)
+September 07, 2012 02:47 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [activity:mapping](/tag/activity:mapping)
 
 ----
 

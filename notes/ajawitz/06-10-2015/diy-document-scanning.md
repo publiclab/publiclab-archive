@@ -6,18 +6,16 @@ author: ajawitz
 path: /notes/ajawitz/06-10-2015/diy-document-scanning.md
 nid: 11966
 uid: 294634
-
 cids: 30835
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/288/original/LobsterScanner.jpg)
 
 # DIY Document Scanning
 
-by [ajawitz](../../../profile/ajawitz) | June 10, 2015 18:56
+by [ajawitz](/profile/ajawitz) | June 10, 2015 18:56
 
-June 10, 2015 18:56 | Tags: [archival](../tag/archival), [tool](../tag/tool), [open_source_hardware](../tag/open_source_hardware), [diybookscanner](../tag/diybookscanner), [book-scanning](../tag/book-scanning)
+June 10, 2015 18:56 | Tags: [archival](/tag/archival), [tool](/tag/tool), [open_source_hardware](/tag/open_source_hardware), [diybookscanner](/tag/diybookscanner), [book-scanning](/tag/book-scanning)
 
 ----
 

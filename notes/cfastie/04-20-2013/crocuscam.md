@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/04-20-2013/crocuscam.md
 nid: 6924
 uid: 554
-
 cids: 4559,11169,11171
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/096/original/Rosco-201335583.jpg)
 
 # CrocusCam
 
-by [cfastie](../../../profile/cfastie) | April 20, 2013 04:50
+by [cfastie](/profile/cfastie) | April 20, 2013 04:50
 
-April 20, 2013 04:50 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [nir](../tag/nir), [vermont](../tag/vermont), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [timelapse](../tag/timelapse), [category:observe](../tag/category:observe), [activity:timelapse](../tag/activity:timelapse), [difficulty:hard](../tag/difficulty:hard), [time:10h](../tag/time:10h)
+April 20, 2013 04:50 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [nrg](/tag/nrg), [ndvi](/tag/ndvi), [nir](/tag/nir), [vermont](/tag/vermont), [infragram](/tag/infragram), [plant-health](/tag/plant-health), [timelapse](/tag/timelapse), [category:observe](/tag/category:observe), [activity:timelapse](/tag/activity:timelapse), [difficulty:hard](/tag/difficulty:hard), [time:10h](/tag/time:10h)
 
 ----
 

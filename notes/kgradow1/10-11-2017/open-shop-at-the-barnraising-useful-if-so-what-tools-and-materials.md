@@ -6,16 +6,14 @@ author: kgradow1
 path: /notes/kgradow1/10-11-2017/open-shop-at-the-barnraising-useful-if-so-what-tools-and-materials.md
 nid: 15022
 uid: 297929
-
 cids: 17561,22664,22666,22676
-
 ---
 
 # Open shop at the Barnraising:  Useful?  If so, what tools and materials?
 
-by [kgradow1](../../../profile/kgradow1) | October 11, 2017 02:36
+by [kgradow1](/profile/kgradow1) | October 11, 2017 02:36
 
-October 11, 2017 02:36 | Tags: [barnraising](../tag/barnraising), [question:barnraising](../tag/question:barnraising)
+October 11, 2017 02:36 | Tags: [barnraising](/tag/barnraising), [question:barnraising](/tag/question:barnraising)
 
 ----
 

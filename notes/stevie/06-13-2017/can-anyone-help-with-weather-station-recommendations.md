@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/06-13-2017/can-anyone-help-with-weather-station-recommendations.md
 nid: 14530
 uid: 422561
-
 cids: 22486,22487,22490,22507
-
 ---
 
 # Can anyone help with weather station recommendations?
 
-by [stevie](../../../profile/stevie) | June 13, 2017 16:32
+by [stevie](/profile/stevie) | June 13, 2017 16:32
 
-June 13, 2017 16:32 | Tags: [gulf-coast](../tag/gulf-coast), [neworleans](../tag/neworleans), [wind](../tag/wind), [gulfcoast](../tag/gulfcoast), [weather](../tag/weather), [weather-station](../tag/weather-station), [climate-change](../tag/climate-change), [solar](../tag/solar), [answered](../tag/answered), [question:wind](../tag/question:wind), [question:weather](../tag/question:weather), [weatherstation](../tag/weatherstation), [question:solar](../tag/question:solar), [solar-powered](../tag/solar-powered), [question:climate-change](../tag/question:climate-change)
+June 13, 2017 16:32 | Tags: [gulf-coast](/tag/gulf-coast), [neworleans](/tag/neworleans), [wind](/tag/wind), [gulfcoast](/tag/gulfcoast), [weather](/tag/weather), [weather-station](/tag/weather-station), [climate-change](/tag/climate-change), [solar](/tag/solar), [answered](/tag/answered), [question:wind](/tag/question:wind), [question:weather](/tag/question:weather), [weatherstation](/tag/weatherstation), [question:solar](/tag/question:solar), [solar-powered](/tag/solar-powered), [question:climate-change](/tag/question:climate-change)
 
 ----
 

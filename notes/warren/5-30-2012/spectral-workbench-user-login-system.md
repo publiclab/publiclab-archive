@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/5-30-2012/spectral-workbench-user-login-system.md
 nid: 2258
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/spectral-workbench-login.png)
 
 # Spectral Workbench user login system
 
-by [warren](../../../profile/warren) | May 30, 2012 20:08
+by [warren](/profile/warren) | May 30, 2012 20:08
 
-May 30, 2012 20:08 | Tags: [spectrometer](../tag/spectrometer), [spectral-workbench](../tag/spectral-workbench)
+May 30, 2012 20:08 | Tags: [spectrometer](/tag/spectrometer), [spectral-workbench](/tag/spectral-workbench)
 
 ----
 

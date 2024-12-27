@@ -6,14 +6,14 @@ author: joyofsoy
 path: /wiki/remote.md
 nid: 23175
 uid: 540844
-
+cids: 
 ---
 
 # remote
 
-by [joyofsoy](../profile/joyofsoy)
+by [joyofsoy](/profile/joyofsoy)
 
-March 18, 2020 14:39 | Tags: [redirect:23163](../tag/redirect:23163)
+March 18, 2020 14:39 | Tags: [redirect:23163](/tag/redirect:23163)
 
 ----
 

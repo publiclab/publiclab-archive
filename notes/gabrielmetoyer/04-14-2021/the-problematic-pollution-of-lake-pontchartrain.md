@@ -6,18 +6,16 @@ author: gabrielmetoyer
 path: /notes/gabrielmetoyer/04-14-2021/the-problematic-pollution-of-lake-pontchartrain.md
 nid: 26233
 uid: 750416
-
 cids: 28563,28564,28806,28807
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/298/original/Screenshot_%28124%29.png)
 
 # The Problematic Pollution of Lake Pontchartrain
 
-by [gabrielmetoyer](../../../profile/gabrielmetoyer) | April 14, 2021 12:02
+by [gabrielmetoyer](/profile/gabrielmetoyer) | April 14, 2021 12:02
 
-April 14, 2021 12:02 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [lake-pontchartrain](../tag/lake-pontchartrain), [pollution](../tag/pollution), [issue-brief](../tag/issue-brief), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:30.205062](../tag/lat:30.205062), [lon:-90.112069](../tag/lon:-90.112069), [with:williammckevitt](../tag/with:williammckevitt), [with:aidenbridevaux](../tag/with:aidenbridevaux)
+April 14, 2021 12:02 | Tags: [gulf-coast](/tag/gulf-coast), [louisiana](/tag/louisiana), [lake-pontchartrain](/tag/lake-pontchartrain), [pollution](/tag/pollution), [issue-brief](/tag/issue-brief), [first-time-poster](/tag/first-time-poster), [zoom:6](/tag/zoom:6), [lat:30.205062](/tag/lat:30.205062), [lon:-90.112069](/tag/lon:-90.112069), [with:williammckevitt](/tag/with:williammckevitt), [with:aidenbridevaux](/tag/with:aidenbridevaux)
 
 ----
 

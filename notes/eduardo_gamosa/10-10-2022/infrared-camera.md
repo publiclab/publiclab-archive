@@ -6,16 +6,14 @@ author: eduardo_gamosa
 path: /notes/eduardo_gamosa/10-10-2022/infrared-camera.md
 nid: 35042
 uid: 814593
-
 cids: 30690,30708,30796,30802,30809,30810,30923,30924,31156
-
 ---
 
 # Infrared camera
 
-by [eduardo_gamosa](../../../profile/eduardo_gamosa) | October 10, 2022 17:29
+by [eduardo_gamosa](/profile/eduardo_gamosa) | October 10, 2022 17:29
 
-October 10, 2022 17:29 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [question:infrared](../tag/question:infrared), [question:multispectral-imaging](../tag/question:multispectral-imaging), [multispectral-imaging](../tag/multispectral-imaging), [first-time-poster](../tag/first-time-poster)
+October 10, 2022 17:29 | Tags: [ndvi](/tag/ndvi), [infrared](/tag/infrared), [infragram](/tag/infragram), [question:ndvi](/tag/question:ndvi), [question:infragram](/tag/question:infragram), [question:infrared](/tag/question:infrared), [question:multispectral-imaging](/tag/question:multispectral-imaging), [multispectral-imaging](/tag/multispectral-imaging), [first-time-poster](/tag/first-time-poster)
 
 ----
 

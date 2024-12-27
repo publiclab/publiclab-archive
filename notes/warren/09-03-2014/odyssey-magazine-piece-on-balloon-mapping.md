@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/09-03-2014/odyssey-magazine-piece-on-balloon-mapping.md
 nid: 11100
 uid: 1
-
 cids: 10184
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/576/original/IMG_20140903_120308.jpg)
 
 # Odyssey magazine piece on Balloon Mapping
 
-by [warren](../../../profile/warren) | September 03, 2014 18:34
+by [warren](/profile/warren) | September 03, 2014 18:34
 
-September 03, 2014 18:34 | Tags: [balloon-mapping](../tag/balloon-mapping), [media](../tag/media), [press](../tag/press), [odyssey](../tag/odyssey), [magazine](../tag/magazine)
+September 03, 2014 18:34 | Tags: [balloon-mapping](/tag/balloon-mapping), [media](/tag/media), [press](/tag/press), [odyssey](/tag/odyssey), [magazine](/tag/magazine)
 
 ----
 

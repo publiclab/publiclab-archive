@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/04-29-2016/uv-laser-pointer-405nm-5mw-2-stroke-motor-oil-related-testing-apr-29-2016.md
 nid: 13049
 uid: 461120
-
 cids: 14478,14479,14562,14563
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/855/original/UV_laser_pointer_apr29.JPG)
 
 # Uv laser pointer (405nm <5mW) 2 stroke motor oil related testing Apr/29/2016
 
-by [dhaffnersr](../../../profile/dhaffnersr) | April 29, 2016 18:08
+by [dhaffnersr](/profile/dhaffnersr) | April 29, 2016 18:08
 
 April 29, 2016 18:08 | Tags: 
 

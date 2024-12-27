@@ -6,16 +6,14 @@ author: cnobles
 path: /notes/cnobles/10-06-2014/sensor-journalism-a-reflection.md
 nid: 11236
 uid: 427857
-
 cids: 
-
 ---
 
 # Sensor Journalism - A reflection
 
-by [cnobles](../../../profile/cnobles) | October 06, 2014 04:24
+by [cnobles](/profile/cnobles) | October 06, 2014 04:24
 
-October 06, 2014 04:24 | Tags: [sensor-journalism](../tag/sensor-journalism)
+October 06, 2014 04:24 | Tags: [sensor-journalism](/tag/sensor-journalism)
 
 ----
 

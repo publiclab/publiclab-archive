@@ -6,14 +6,14 @@ author: liz
 path: /wiki/pole-mapping-guide.md
 nid: 11511
 uid: 7
-
+cids: 
 ---
 
 # pole-mapping-guide
 
-by [liz](../profile/liz), [natalie](../profile/natalie)
+by [liz](/profile/liz), [natalie](/profile/natalie)
 
-January 07, 2015 21:34 | Tags: [workshop](../tag/workshop), [polemapping](../tag/polemapping), [pole-mapping](../tag/pole-mapping), [parent:gardening-toolkit](../tag/parent:gardening-toolkit), [gardening-toolkit](../tag/gardening-toolkit)
+January 07, 2015 21:34 | Tags: [workshop](/tag/workshop), [polemapping](/tag/polemapping), [pole-mapping](/tag/pole-mapping), [parent:gardening-toolkit](/tag/parent:gardening-toolkit), [gardening-toolkit](/tag/gardening-toolkit)
 
 ----
 

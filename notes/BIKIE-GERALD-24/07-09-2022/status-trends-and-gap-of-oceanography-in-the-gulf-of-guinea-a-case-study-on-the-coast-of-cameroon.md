@@ -6,18 +6,16 @@ author: BIKIE-GERALD-24
 path: /notes/BIKIE-GERALD-24/07-09-2022/status-trends-and-gap-of-oceanography-in-the-gulf-of-guinea-a-case-study-on-the-coast-of-cameroon.md
 nid: 31268
 uid: 799821
-
 cids: 30314,30336,30738
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/877/original/Cameroon.JPG)
 
 # Status ,Trends and Gap of Oceanography in the Gulf of Guinea a case study on the Coast of Cameroon
 
-by [BIKIE-GERALD-24](../../../profile/BIKIE-GERALD-24) | July 09, 2022 13:56
+by [BIKIE-GERALD-24](/profile/BIKIE-GERALD-24) | July 09, 2022 13:56
 
-July 09, 2022 13:56 | Tags: [lang:fr](../tag/lang:fr), [climate-change](../tag/climate-change), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:3.864254](../tag/lat:3.864254), [lon:11.469726](../tag/lon:11.469726)
+July 09, 2022 13:56 | Tags: [lang:fr](/tag/lang:fr), [climate-change](/tag/climate-change), [first-time-poster](/tag/first-time-poster), [zoom:6](/tag/zoom:6), [lat:3.864254](/tag/lat:3.864254), [lon:11.469726](/tag/lon:11.469726)
 
 ----
 

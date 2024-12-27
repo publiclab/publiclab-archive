@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/11-03-2017/what-s-happening-at-the-2017-barnraising.md
 nid: 15144
 uid: 1
-
 cids: 22706
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/196/original/OI000055.jpg)
 
 # What's happening at the 2017 Barnraising?
 
-by [warren](../../../profile/warren) | November 03, 2017 17:45
+by [warren](/profile/warren) | November 03, 2017 17:45
 
-November 03, 2017 17:45 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [documentation](../tag/documentation), [cocodrie](../tag/cocodrie), [barnraising](../tag/barnraising), [great-photos](../tag/great-photos), [doccom](../tag/doccom), [barnraiser](../tag/barnraiser), [question:barnraising](../tag/question:barnraising), [barnraising-2017](../tag/barnraising-2017), [question:barnraiser](../tag/question:barnraiser)
+November 03, 2017 17:45 | Tags: [gulf-coast](/tag/gulf-coast), [louisiana](/tag/louisiana), [documentation](/tag/documentation), [cocodrie](/tag/cocodrie), [barnraising](/tag/barnraising), [great-photos](/tag/great-photos), [doccom](/tag/doccom), [barnraiser](/tag/barnraiser), [question:barnraising](/tag/question:barnraising), [barnraising-2017](/tag/barnraising-2017), [question:barnraiser](/tag/question:barnraiser)
 
 ----
 

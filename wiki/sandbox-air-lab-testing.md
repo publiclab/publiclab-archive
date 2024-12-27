@@ -6,12 +6,12 @@ author: bhamster
 path: /wiki/sandbox-air-lab-testing.md
 nid: 25034
 uid: 664477
-
+cids: 
 ---
 
 # sandbox-air-lab-testing
 
-by [bhamster](../profile/bhamster)
+by [bhamster](/profile/bhamster)
 
 November 10, 2020 23:15 | Tags: 
 
@@ -165,7 +165,7 @@ The lab will send you a report stating the name and amount of chemicals found in
 
 Have others in the Public Lab community asked a question similar to yours? Do you have a question to ask or answer to offer? Check out and post questions below.
 
-[air-lab-testing](../../tag/question:air-lab-testing)
+[air-lab-testing](/tag/question:air-lab-testing)
 
 <br>
 

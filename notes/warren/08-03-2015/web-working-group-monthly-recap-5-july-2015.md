@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/08-03-2015/web-working-group-monthly-recap-5-july-2015.md
 nid: 12117
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/028/original/Screenshot_2015-08-03_at_4.46.07_PM.png)
 
 # Web Working Group Monthly Recap 5: July 2015
 
-by [warren](../../../profile/warren) | August 03, 2015 20:49
+by [warren](/profile/warren) | August 03, 2015 20:49
 
-August 03, 2015 20:49 | Tags: [mapknitter](../tag/mapknitter), [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [spectral-workbench](../tag/spectral-workbench), [wwg](../tag/wwg), [webwg](../tag/webwg), [response:12028](../tag/response:12028)
+August 03, 2015 20:49 | Tags: [mapknitter](/tag/mapknitter), [web-development](/tag/web-development), [software](/tag/software), [plots2](/tag/plots2), [spectral-workbench](/tag/spectral-workbench), [wwg](/tag/wwg), [webwg](/tag/webwg), [response:12028](/tag/response:12028)
 
 ----
 

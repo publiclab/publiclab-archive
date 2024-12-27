@@ -6,16 +6,16 @@ author: gonzoearth
 path: /wiki/davis.md
 nid: 778
 uid: 12
-
+cids: 
 ---
 
 ![](https://publiclab.org/sites/default/files/photo-2_0.jpg)
 
 # Davis
 
-by [MicheleTobias](../profile/MicheleTobias), [gonzoearth](../profile/gonzoearth)
+by [MicheleTobias](/profile/MicheleTobias), [gonzoearth](/profile/gonzoearth)
 
-February 11, 2012 00:22 | Tags: [chapter](../tag/chapter)
+February 11, 2012 00:22 | Tags: [chapter](/tag/chapter)
 
 ----
 

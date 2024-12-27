@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/09-10-2016/comparing-the-ebert-cfl-spectral-image-to-the-dh-4-0-v4-cfl-spectral-image.md
 nid: 13440
 uid: 461120
-
 cids: 15354
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/009/original/CFL_cal_PLAB_fit_of_7_sept_10_test002.png)
 
 # Comparing The Ebert CFL Spectral Image To the DH 4.0 v4 CFL Spectral Image
 
-by [dhaffnersr](../../../profile/dhaffnersr) | September 10, 2016 12:46
+by [dhaffnersr](/profile/dhaffnersr) | September 10, 2016 12:46
 
 September 10, 2016 12:46 | Tags: 
 

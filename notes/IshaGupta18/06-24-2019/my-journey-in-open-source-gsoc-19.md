@@ -6,18 +6,16 @@ author: IshaGupta18
 path: /notes/IshaGupta18/06-24-2019/my-journey-in-open-source-gsoc-19.md
 nid: 19839
 uid: 568043
-
 cids: 24875,24936
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/168/original/0_GXeaiRPePMjHuuHZ.jpeg)
 
 # My Journey in Open Source (GSoC’19)
 
-by [IshaGupta18](../../../profile/IshaGupta18) | June 24, 2019 16:01
+by [IshaGupta18](/profile/IshaGupta18) | June 24, 2019 16:01
 
-June 24, 2019 16:01 | Tags: [open-source](../tag/open-source), [open-source-communities](../tag/open-source-communities), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [gsoc-19](../tag/gsoc-19)
+June 24, 2019 16:01 | Tags: [open-source](/tag/open-source), [open-source-communities](/tag/open-source-communities), [soc](/tag/soc), [gsoc-2019](/tag/gsoc-2019), [soc-2019](/tag/soc-2019), [gsoc-19](/tag/gsoc-19)
 
 ----
 

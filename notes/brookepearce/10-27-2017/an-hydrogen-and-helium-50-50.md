@@ -6,18 +6,16 @@ author: brookepearce
 path: /notes/brookepearce/10-27-2017/an-hydrogen-and-helium-50-50.md
 nid: 15118
 uid: 517046
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/117/original/image.jpeg)
 
 # An Hydrogen and helium 50/50 
 
-by [brookepearce](../../../profile/brookepearce) | October 27, 2017 15:21
+by [brookepearce](/profile/brookepearce) | October 27, 2017 15:21
 
-October 27, 2017 15:21 | Tags: [hydrogen](../tag/hydrogen), [spectrometry](../tag/spectrometry), [helium](../tag/helium), [hidden:response](../tag/hidden:response), [foldable-spec](../tag/foldable-spec), [replication:15121](../tag/replication:15121)
+October 27, 2017 15:21 | Tags: [hydrogen](/tag/hydrogen), [spectrometry](/tag/spectrometry), [helium](/tag/helium), [hidden:response](/tag/hidden:response), [foldable-spec](/tag/foldable-spec), [replication:15121](/tag/replication:15121)
 
 ----
 

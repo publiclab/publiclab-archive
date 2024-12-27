@@ -6,18 +6,16 @@ author: ad
 path: /notes/ad/11-28-2011/thermal-camera-arduino-uno-mlx90614-ir-thermometer.md
 nid: 593
 uid: 373
-
 cids: 372,375,376,6228,6284,17442,19272,19273,19274
-
 ---
 
 ![](https://publiclab.org/sites/default/files/ThermCam pic.jpg)
 
 # Thermal Camera: Arduino UNO + MLX90614 IR Thermometer
 
-by [ad](../../../profile/ad) | November 28, 2011 22:19
+by [ad](/profile/ad) | November 28, 2011 22:19
 
-November 28, 2011 22:19 | Tags: [thermal-photography](../tag/thermal-photography), [arduino](../tag/arduino), [thermal-flashlight](../tag/thermal-flashlight)
+November 28, 2011 22:19 | Tags: [thermal-photography](/tag/thermal-photography), [arduino](/tag/arduino), [thermal-flashlight](/tag/thermal-flashlight)
 
 ----
 

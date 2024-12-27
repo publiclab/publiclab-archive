@@ -6,12 +6,12 @@ author: Shannon
 path: /wiki/le-monde-science-techno-section-coverage.md
 nid: 906
 uid: 9
-
+cids: 
 ---
 
 # Le Monde Science & Techno Section Coverage
 
-by [warren](../profile/warren), [Shannon](../profile/Shannon)
+by [warren](/profile/warren), [Shannon](/profile/Shannon)
 
 March 08, 2012 20:53 | Tags: 
 

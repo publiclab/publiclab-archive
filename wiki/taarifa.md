@@ -6,12 +6,12 @@ author: donblair
 path: /wiki/taarifa.md
 nid: 10470
 uid: 43651
-
+cids: 
 ---
 
 # taarifa
 
-by [drew](../profile/drew), [donblair](../profile/donblair)
+by [drew](/profile/drew), [donblair](/profile/donblair)
 
 May 13, 2014 21:23 | Tags: 
 

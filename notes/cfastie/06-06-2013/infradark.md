@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/06-06-2013/infradark.md
 nid: 8089
 uid: 554
-
 cids: 4987,4988,4989
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/489/original/WillsTwo.jpg)
 
 # Infradark
 
-by [cfastie](../../../profile/cfastie) | June 06, 2013 23:02
+by [cfastie](/profile/cfastie) | June 06, 2013 23:02
 
-June 06, 2013 23:02 | Tags: [ndvi](../tag/ndvi), [infragram](../tag/infragram), [night](../tag/night)
+June 06, 2013 23:02 | Tags: [ndvi](/tag/ndvi), [infragram](/tag/infragram), [night](/tag/night)
 
 ----
 

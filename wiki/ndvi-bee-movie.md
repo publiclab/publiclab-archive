@@ -6,12 +6,12 @@ author: donblair
 path: /wiki/ndvi-bee-movie.md
 nid: 8005
 uid: 43651
-
+cids: 24235
 ---
 
 # NDVI Bee Movie
 
-by [donblair](../profile/donblair)
+by [donblair](/profile/donblair)
 
 June 01, 2013 04:48 | Tags: 
 

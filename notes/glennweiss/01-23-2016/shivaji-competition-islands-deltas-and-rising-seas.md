@@ -6,18 +6,16 @@ author: glennweiss
 path: /notes/glennweiss/01-23-2016/shivaji-competition-islands-deltas-and-rising-seas.md
 nid: 12604
 uid: 462163
-
 cids: 26125,27270
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/773/original/Sindhudurg_1.jpg)
 
 # Shivaji Competition: Islands, Deltas and Rising Seas
 
-by [glennweiss](../../../profile/glennweiss) | January 23, 2016 14:43
+by [glennweiss](/profile/glennweiss) | January 23, 2016 14:43
 
-January 23, 2016 14:43 | Tags: [sea-level-rise](../tag/sea-level-rise), [climate-change](../tag/climate-change), [global-climate-change](../tag/global-climate-change), [community-driven](../tag/community-driven), [competition](../tag/competition)
+January 23, 2016 14:43 | Tags: [sea-level-rise](/tag/sea-level-rise), [climate-change](/tag/climate-change), [global-climate-change](/tag/global-climate-change), [community-driven](/tag/community-driven), [competition](/tag/competition)
 
 ----
 

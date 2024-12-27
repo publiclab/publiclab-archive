@@ -6,14 +6,14 @@ author: sara
 path: /wiki/march-mapping-madness-asheville.md
 nid: 889
 uid: 8
-
+cids: 
 ---
 
 # March Mapping Madness-Asheville
 
-by [adam-griffith](../profile/adam-griffith), [jbreen](../profile/jbreen), [sara](../profile/sara)
+by [adam-griffith](/profile/adam-griffith), [jbreen](/profile/jbreen), [sara](/profile/sara)
 
-March 06, 2012 00:50 | Tags: [lunalillian](../tag/lunalillian)
+March 06, 2012 00:50 | Tags: [lunalillian](/tag/lunalillian)
 
 ----
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/new-town-creek.md
 nid: 648
 uid: 1
-
+cids: 
 ---
 
 # Newtown Creek
 
-by [liz](../profile/liz), [warren](../profile/warren)
+by [liz](/profile/liz), [warren](/profile/warren)
 
-December 19, 2011 16:58 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [newtown-creek](../tag/newtown-creek), [brooklyn](../tag/brooklyn), [plume](../tag/plume), [cement](../tag/cement), [concrete](../tag/concrete), [northeast](../tag/northeast)
+December 19, 2011 16:58 | Tags: [new-york-city](/tag/new-york-city), [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [newtown-creek](/tag/newtown-creek), [brooklyn](/tag/brooklyn), [plume](/tag/plume), [cement](/tag/cement), [concrete](/tag/concrete), [northeast](/tag/northeast)
 
 ----
 

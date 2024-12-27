@@ -6,18 +6,16 @@ author: maxliboiron
 path: /notes/maxliboiron/07-19-2018/how-to-process-microplastic-samples-from-a-trawl.md
 nid: 16750
 uid: 310707
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/805/original/Screen_Shot_2018-07-19_at_3.33.54_PM_copy.png)
 
 # How to process microplastic samples from a trawl
 
-by [maxliboiron](../../../profile/maxliboiron) | July 19, 2018 11:38
+by [maxliboiron](/profile/maxliboiron) | July 19, 2018 11:38
 
-July 19, 2018 11:38 | Tags: [water-quality](../tag/water-quality), [seeks:replications](../tag/seeks:replications), [ocean](../tag/ocean), [micro-plastics](../tag/micro-plastics), [question:microplastics](../tag/question:microplastics), [microplastics](../tag/microplastics), [plastics](../tag/plastics), [babylegs](../tag/babylegs), [activity:babylegs](../tag/activity:babylegs), [activity:microplastics](../tag/activity:microplastics)
+July 19, 2018 11:38 | Tags: [water-quality](/tag/water-quality), [seeks:replications](/tag/seeks:replications), [ocean](/tag/ocean), [micro-plastics](/tag/micro-plastics), [question:microplastics](/tag/question:microplastics), [microplastics](/tag/microplastics), [plastics](/tag/plastics), [babylegs](/tag/babylegs), [activity:babylegs](/tag/activity:babylegs), [activity:microplastics](/tag/activity:microplastics)
 
 ----
 

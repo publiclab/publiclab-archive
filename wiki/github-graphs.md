@@ -6,12 +6,12 @@ author: warren
 path: /wiki/github-graphs.md
 nid: 647
 uid: 1
-
+cids: 
 ---
 
 # GitHub graphs
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 December 18, 2011 20:25 | Tags: 
 

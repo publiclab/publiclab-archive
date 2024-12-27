@@ -6,18 +6,16 @@ author: wward1400
 path: /notes/wward1400/02-12-2015/north-nashville-rezoning-a-concrete-batch-plant-vs-supporting-a-50-year-old-community.md
 nid: 11577
 uid: 46742
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/915/original/%E2%80%A2_NXNE_Aerial_02.06.14_-_NxNE_Hawkins_Development_Company.jpg)
 
 # North Nashville: Concrete Batch Plant Rezoning Adjacent to a +50 Year Old Community
 
-by [wward1400](../../../profile/wward1400) | February 12, 2015 00:25
+by [wward1400](/profile/wward1400) | February 12, 2015 00:25
 
-February 12, 2015 00:25 | Tags: [balloon-mapping](../tag/balloon-mapping), [water-sensing](../tag/water-sensing), [air-column-monitor](../tag/air-column-monitor), [water-quality-mapping](../tag/water-quality-mapping), [air-quality](../tag/air-quality), [transportation](../tag/transportation), [water-quality](../tag/water-quality), [southeast](../tag/southeast), [traffic](../tag/traffic), [land-use](../tag/land-use), [zoning](../tag/zoning), [tennessee](../tag/tennessee), [lulu](../tag/lulu)
+February 12, 2015 00:25 | Tags: [balloon-mapping](/tag/balloon-mapping), [water-sensing](/tag/water-sensing), [air-column-monitor](/tag/air-column-monitor), [water-quality-mapping](/tag/water-quality-mapping), [air-quality](/tag/air-quality), [transportation](/tag/transportation), [water-quality](/tag/water-quality), [southeast](/tag/southeast), [traffic](/tag/traffic), [land-use](/tag/land-use), [zoning](/tag/zoning), [tennessee](/tag/tennessee), [lulu](/tag/lulu)
 
 ----
 

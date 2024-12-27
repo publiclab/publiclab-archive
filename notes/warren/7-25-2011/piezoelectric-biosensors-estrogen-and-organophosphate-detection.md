@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/7-25-2011/piezoelectric-biosensors-estrogen-and-organophosphate-detection.md
 nid: 410
 uid: 1
-
 cids: 
-
 ---
 
 # Piezoelectric biosensors for estrogen and organophosphate detection
 
-by [warren](../../../profile/warren) | July 25, 2011 17:35
+by [warren](/profile/warren) | July 25, 2011 17:35
 
-July 25, 2011 17:35 | Tags: [estrogen](../tag/estrogen), [organophosphates](../tag/organophosphates), [biosensors](../tag/biosensors), [piezoelectric](../tag/piezoelectric)
+July 25, 2011 17:35 | Tags: [estrogen](/tag/estrogen), [organophosphates](/tag/organophosphates), [biosensors](/tag/biosensors), [piezoelectric](/tag/piezoelectric)
 
 ----
 

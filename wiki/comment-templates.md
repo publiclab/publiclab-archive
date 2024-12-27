@@ -6,16 +6,16 @@ author: warren
 path: /wiki/comment-templates.md
 nid: 17494
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/556/original/image.png)
 
 # Comment templates
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-November 08, 2018 22:11 | Tags: [location:blurred](../tag/location:blurred), [templates](../tag/templates), [lat:28](../tag/lat:28), [lon:77](../tag/lon:77), [place:india](../tag/place:india), [parent:templates](../tag/parent:templates), [zoom:6](../tag/zoom:6)
+November 08, 2018 22:11 | Tags: [location:blurred](/tag/location:blurred), [templates](/tag/templates), [lat:28](/tag/lat:28), [lon:77](/tag/lon:77), [place:india](/tag/place:india), [parent:templates](/tag/parent:templates), [zoom:6](/tag/zoom:6)
 
 ----
 
@@ -57,5 +57,5 @@ Here are some examples of templates for various purposes (some for pages, not co
 
 ## Questions
 
-[comment-templates](../../tag/question:comment-templates)
+[comment-templates](/tag/question:comment-templates)
 

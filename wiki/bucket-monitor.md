@@ -6,12 +6,12 @@ author: liz
 path: /wiki/bucket-monitor.md
 nid: 23681
 uid: 7
-
+cids: 
 ---
 
 # bucket-monitor
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
 May 21, 2020 19:43 | Tags: 
 

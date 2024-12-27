@@ -6,16 +6,16 @@ author: warren
 path: /wiki/mapping-requests.md
 nid: 14627
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/062/original/Launching_the_rig-1_ifarm.jpg)
 
 # Mapping Requests
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-July 06, 2017 22:49 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [aerial-photography](../tag/aerial-photography), [ifarm](../tag/ifarm), [pole-mapping](../tag/pole-mapping), [request:aerial-photography](../tag/request:aerial-photography), [parent:requests](../tag/parent:requests)
+July 06, 2017 22:49 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [aerial-photography](/tag/aerial-photography), [ifarm](/tag/ifarm), [pole-mapping](/tag/pole-mapping), [request:aerial-photography](/tag/request:aerial-photography), [parent:requests](/tag/parent:requests)
 
 ----
 
@@ -27,7 +27,7 @@ Do you need aerial photography, or help taking your own? Over the years, Public 
 
 ## Requests
 
-[request:aerial-photography](../../tag/request:aerial-photography)
+[request:aerial-photography](/tag/request:aerial-photography)
 
 <a class="btn btn-primary" href="/post?n=14626&tags=question:aerial-photography,activity:requests,requests,request:aerial-photography,aerial-photography,request,request:general">Post a request for mapping help</a> - _or sign up to [be notified when others post a request](https://publiclab.org/subscribe/tag/request:aerial-photography)_
 

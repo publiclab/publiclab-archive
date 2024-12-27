@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/10-21-2012/r-pi-sky-leaffest.md
 nid: 4545
 uid: 43651
-
 cids: 2616
-
 ---
 
 ![](https://publiclab.org/sites/default/files/LEAFBadel-20120922-8943_0.jpg)
 
 # R-Pi-in-Sky @ LEAFFEST
 
-by [donblair](../../../profile/donblair) | October 21, 2012 19:55
+by [donblair](/profile/donblair) | October 21, 2012 19:55
 
-October 21, 2012 19:55 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [leaffest](../tag/leaffest), [leaffest2012](../tag/leaffest2012), [raspberry-pi](../tag/raspberry-pi), [camera-rig](../tag/camera-rig)
+October 21, 2012 19:55 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [leaffest](/tag/leaffest), [leaffest2012](/tag/leaffest2012), [raspberry-pi](/tag/raspberry-pi), [camera-rig](/tag/camera-rig)
 
 ----
 

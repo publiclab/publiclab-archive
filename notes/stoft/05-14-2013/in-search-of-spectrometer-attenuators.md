@@ -6,18 +6,16 @@ author: stoft
 path: /notes/stoft/05-14-2013/in-search-of-spectrometer-attenuators.md
 nid: 7526
 uid: 54025
-
 cids: 4712,4721,6432,6479,6484,6488,6497,6498,6544,6546,6564,6565,6566,6567
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/267/original/FilterTypes.jpg)
 
 # In Search of Spectrometer Attenuators
 
-by [stoft](../../../profile/stoft) | May 14, 2013 08:33
+by [stoft](/profile/stoft) | May 14, 2013 08:33
 
-May 14, 2013 08:33 | Tags: [spectrometer](../tag/spectrometer), [intensity-calibration](../tag/intensity-calibration), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [slit](../tag/slit), [improvements](../tag/improvements), [focus](../tag/focus), [response:7226](../tag/response:7226), [response:7507](../tag/response:7507), [hdr](../tag/hdr), [attenuation](../tag/attenuation)
+May 14, 2013 08:33 | Tags: [spectrometer](/tag/spectrometer), [intensity-calibration](/tag/intensity-calibration), [desktop-spectrometry-kit](/tag/desktop-spectrometry-kit), [slit](/tag/slit), [improvements](/tag/improvements), [focus](/tag/focus), [response:7226](/tag/response:7226), [response:7507](/tag/response:7507), [hdr](/tag/hdr), [attenuation](/tag/attenuation)
 
 ----
 

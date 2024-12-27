@@ -6,14 +6,14 @@ author: taosubmarines
 path: /wiki/rosco-filters.md
 nid: 10168
 uid: 421416
-
+cids: 
 ---
 
 # Rosco filters
 
-by [taosubmarines](../profile/taosubmarines)
+by [taosubmarines](/profile/taosubmarines)
 
-March 13, 2014 16:46 | Tags: [roco-filter-colour-color-gel](../tag/roco-filter-colour-color-gel)
+March 13, 2014 16:46 | Tags: [roco-filter-colour-color-gel](/tag/roco-filter-colour-color-gel)
 
 ----
 

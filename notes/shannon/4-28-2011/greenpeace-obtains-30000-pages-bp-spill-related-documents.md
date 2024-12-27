@@ -6,16 +6,14 @@ author: Shannon
 path: /notes/shannon/4-28-2011/greenpeace-obtains-30000-pages-bp-spill-related-documents.md
 nid: 200
 uid: 9
-
 cids: 
-
 ---
 
 # Greenpeace obtains 30,000 pages of BP spill related documents
 
-by [Shannon](../../../profile/Shannon) | April 28, 2011 15:59
+by [Shannon](/profile/Shannon) | April 28, 2011 15:59
 
-April 28, 2011 15:59 | Tags: [gulf-coast](../tag/gulf-coast), [bp-spill](../tag/bp-spill), [foil](../tag/foil), [greenpeace](../tag/greenpeace), [foia](../tag/foia)
+April 28, 2011 15:59 | Tags: [gulf-coast](/tag/gulf-coast), [bp-spill](/tag/bp-spill), [foil](/tag/foil), [greenpeace](/tag/greenpeace), [foia](/tag/foia)
 
 ----
 

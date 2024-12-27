@@ -6,16 +6,14 @@ author: GroundworkNola
 path: /notes/groundworknola/5-9-2013/youth-mapping-experiences.md
 nid: 7360
 uid: 41249
-
 cids: 4655,4692,4694
-
 ---
 
 # Youth Mapping Experiences
 
-by [GroundworkNola](../../../profile/GroundworkNola) | May 09, 2013 16:51
+by [GroundworkNola](/profile/GroundworkNola) | May 09, 2013 16:51
 
-May 09, 2013 16:51 | Tags: [education](../tag/education), [youth-mapping](../tag/youth-mapping), [groundworknola](../tag/groundworknola)
+May 09, 2013 16:51 | Tags: [education](/tag/education), [youth-mapping](/tag/youth-mapping), [groundworknola](/tag/groundworknola)
 
 ----
 

@@ -6,16 +6,14 @@ author: bilco1
 path: /notes/bilco1/06-18-2015/drone-work-with-modified-infrablue-canon-a495.md
 nid: 11986
 uid: 138339
-
 cids: 11978
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/362/original/Bradley_Colour_ndvi.jpg)
 
 # Drone work with modified infrablue Canon a495
 
-by [bilco1](../../../profile/bilco1) | June 18, 2015 05:46
+by [bilco1](/profile/bilco1) | June 18, 2015 05:46
 
 June 18, 2015 05:46 | Tags: 
 

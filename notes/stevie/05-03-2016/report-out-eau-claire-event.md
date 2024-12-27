@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/05-03-2016/report-out-eau-claire-event.md
 nid: 13067
 uid: 422561
-
 cids: 14569
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/916/original/20160423_130646_%281%29.jpg)
 
 # Report out: Eau Claire event 
 
-by [stevie](../../../profile/stevie) | May 03, 2016 20:36
+by [stevie](/profile/stevie) | May 03, 2016 20:36
 
-May 03, 2016 20:36 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [frac-sand](../tag/frac-sand), [mid-west](../tag/mid-west), [fracsand](../tag/fracsand), [wi](../tag/wi), [advocacy](../tag/advocacy), [parent:frac-sand](../tag/parent:frac-sand), [parent:frac-sand-advocacy-leverage-points](../tag/parent:frac-sand-advocacy-leverage-points), [advocacy-pathways](../tag/advocacy-pathways), [replication:14048](../tag/replication:14048), [reclamation](../tag/reclamation)
+May 03, 2016 20:36 | Tags: [wisconsin](/tag/wisconsin), [air-quality](/tag/air-quality), [frac-sand](/tag/frac-sand), [mid-west](/tag/mid-west), [fracsand](/tag/fracsand), [wi](/tag/wi), [advocacy](/tag/advocacy), [parent:frac-sand](/tag/parent:frac-sand), [parent:frac-sand-advocacy-leverage-points](/tag/parent:frac-sand-advocacy-leverage-points), [advocacy-pathways](/tag/advocacy-pathways), [replication:14048](/tag/replication:14048), [reclamation](/tag/reclamation)
 
 ----
 

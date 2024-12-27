@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/3-21-2013/capturing-full-resolution-webcam-video-mac.md
 nid: 6464
 uid: 4
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/sun4 2.jpg)
 
 # Capturing full resolution webcam video on a mac
 
-by [mathew](../../../profile/mathew) | March 21, 2013 22:07
+by [mathew](/profile/mathew) | March 21, 2013 22:07
 
-March 21, 2013 22:07 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [desktop-spectrometer](../tag/desktop-spectrometer)
+March 21, 2013 22:07 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [desktop-spectrometer](/tag/desktop-spectrometer)
 
 ----
 

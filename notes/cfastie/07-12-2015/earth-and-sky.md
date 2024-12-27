@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/07-12-2015/earth-and-sky.md
 nid: 12052
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/644/original/Camp_012_2k.jpg)
 
 # Earth and Sky
 
-by [cfastie](../../../profile/cfastie) | July 12, 2015 20:56
+by [cfastie](/profile/cfastie) | July 12, 2015 20:56
 
-July 12, 2015 20:56 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [alaska](../tag/alaska), [kap](../tag/kap), [autokap](../tag/autokap), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [response:12032](../tag/response:12032)
+July 12, 2015 20:56 | Tags: [kite-aerial-photography](/tag/kite-aerial-photography), [alaska](/tag/alaska), [kap](/tag/kap), [autokap](/tag/autokap), [kaptery](/tag/kaptery), [saturnv](/tag/saturnv), [skyshield](/tag/skyshield), [half-spherical](/tag/half-spherical), [response:12032](/tag/response:12032)
 
 ----
 

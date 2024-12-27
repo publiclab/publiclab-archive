@@ -6,16 +6,16 @@ author: warren
 path: /wiki/software-overview.md
 nid: 25104
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/867/original/Screen_Shot_2020-01-03_at_12.45.10_PM.png)
 
 # Software overview
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-November 24, 2020 20:41 | Tags: [mapknitter](../tag/mapknitter), [documentation](../tag/documentation), [software](../tag/software), [infragram](../tag/infragram), [web](../tag/web), [leaflet](../tag/leaflet), [code](../tag/code), [parent:developers](../tag/parent:developers), [wwg](../tag/wwg), [cloud](../tag/cloud), [soc](../tag/soc), [image-sequencer](../tag/image-sequencer), [code-ecosystem](../tag/code-ecosystem), [content-management](../tag/content-management), [technology-design](../tag/technology-design)
+November 24, 2020 20:41 | Tags: [mapknitter](/tag/mapknitter), [documentation](/tag/documentation), [software](/tag/software), [infragram](/tag/infragram), [web](/tag/web), [leaflet](/tag/leaflet), [code](/tag/code), [parent:developers](/tag/parent:developers), [wwg](/tag/wwg), [cloud](/tag/cloud), [soc](/tag/soc), [image-sequencer](/tag/image-sequencer), [code-ecosystem](/tag/code-ecosystem), [content-management](/tag/content-management), [technology-design](/tag/technology-design)
 
 ----
 
@@ -263,4 +263,4 @@ The core library for analyzing and manipulating spectral data has been spun out 
 
 ## Questions
 
-[software-overview](../../tag/question:software-overview)
+[software-overview](/tag/question:software-overview)

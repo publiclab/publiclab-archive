@@ -6,18 +6,16 @@ author: oscarbrett
 path: /notes/oscar-brett/8-1-2012/its-map-beam-camp-nh.md
 nid: 3068
 uid: 409
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/P7312157_0.JPG)
 
 # "IT'S A MAP!" @ Beam Camp, NH
 
-by [oscarbrett](../../../profile/oscarbrett) | August 01, 2012 21:12
+by [oscarbrett](/profile/oscarbrett) | August 01, 2012 21:12
 
-August 01, 2012 21:12 | Tags: [education](../tag/education), [new-hampshire](../tag/new-hampshire), [beam-camp](../tag/beam-camp), [summer-camp](../tag/summer-camp), [teaching](../tag/teaching), [mapping-with-youth](../tag/mapping-with-youth), [campers](../tag/campers), [strafford-new-hampshire](../tag/strafford-new-hampshire), [northeast](../tag/northeast), [strafford](../tag/strafford)
+August 01, 2012 21:12 | Tags: [education](/tag/education), [new-hampshire](/tag/new-hampshire), [beam-camp](/tag/beam-camp), [summer-camp](/tag/summer-camp), [teaching](/tag/teaching), [mapping-with-youth](/tag/mapping-with-youth), [campers](/tag/campers), [strafford-new-hampshire](/tag/strafford-new-hampshire), [northeast](/tag/northeast), [strafford](/tag/strafford)
 
 ----
 

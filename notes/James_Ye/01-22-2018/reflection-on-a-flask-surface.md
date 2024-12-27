@@ -6,16 +6,14 @@ author: James_Ye
 path: /notes/James_Ye/01-22-2018/reflection-on-a-flask-surface.md
 nid: 15579
 uid: 523260
-
 cids: 
-
 ---
 
 # Reflection on a flask surface
 
-by [James_Ye](../../../profile/James_Ye) | January 22, 2018 06:27
+by [James_Ye](/profile/James_Ye) | January 22, 2018 06:27
 
-January 22, 2018 06:27 | Tags: [question:general](../tag/question:general)
+January 22, 2018 06:27 | Tags: [question:general](/tag/question:general)
 
 ----
 

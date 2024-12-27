@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/08-28-2015/riffle-datalogger-quick-development-snapshot.md
 nid: 12178
 uid: 43651
-
 cids: 12899
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/313/original/RiffleInBottle.png)
 
 # Riffle Datalogger: quick development snapshot
 
-by [donblair](../../../profile/donblair) | August 28, 2015 14:43
+by [donblair](/profile/donblair) | August 28, 2015 14:43
 
-August 28, 2015 14:43 | Tags: [arduino](../tag/arduino), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [open-water](../tag/open-water)
+August 28, 2015 14:43 | Tags: [arduino](/tag/arduino), [water-quality](/tag/water-quality), [riffle](/tag/riffle), [open-water](/tag/open-water)
 
 ----
 

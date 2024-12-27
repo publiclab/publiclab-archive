@@ -6,18 +6,16 @@ author: wln215
 path: /notes/wln215/09-16-2020/noir-camera-spectral-response.md
 nid: 24474
 uid: 578478
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/905/original/sidebysidespectra.001.jpeg)
 
 # NoIR Camera Spectral Response
 
-by [wln215](../../../profile/wln215) | September 16, 2020 21:30
+by [wln215](/profile/wln215) | September 16, 2020 21:30
 
-September 16, 2020 21:30 | Tags: [spectralworkbench](../tag/spectralworkbench), [spectrometry](../tag/spectrometry), [raspberrypi](../tag/raspberrypi), [picamera](../tag/picamera), [noir](../tag/noir)
+September 16, 2020 21:30 | Tags: [spectralworkbench](/tag/spectralworkbench), [spectrometry](/tag/spectrometry), [raspberrypi](/tag/raspberrypi), [picamera](/tag/picamera), [noir](/tag/noir)
 
 ----
 

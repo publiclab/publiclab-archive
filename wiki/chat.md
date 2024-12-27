@@ -6,16 +6,16 @@ author: warren
 path: /wiki/chat.md
 nid: 405
 uid: 1
-
+cids: 25671
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/964/original/Screen_Shot_2019-08-27_at_9.34.10_AM.png)
 
 # Chat
 
-by [warren](../profile/warren), [liz](../profile/liz), [letshome](../profile/letshome), [Shish](../profile/Shish), [stevie](../profile/stevie), [gonzoearth](../profile/gonzoearth)
+by [warren](/profile/warren), [liz](/profile/liz), [letshome](/profile/letshome), [Shish](/profile/Shish), [stevie](/profile/stevie), [gonzoearth](/profile/gonzoearth)
 
-July 22, 2011 15:13 | Tags: [community](../tag/community), [chat](../tag/chat), [chatroom](../tag/chatroom), [style:wide](../tag/style:wide), [publiclab](../tag/publiclab), [locked](../tag/locked), [lat:22](../tag/lat:22), [lon:76](../tag/lon:76), [website-utilities](../tag/website-utilities)
+July 22, 2011 15:13 | Tags: [community](/tag/community), [chat](/tag/chat), [chatroom](/tag/chatroom), [style:wide](/tag/style:wide), [publiclab](/tag/publiclab), [locked](/tag/locked), [lat:22](/tag/lat:22), [lon:76](/tag/lon:76), [website-utilities](/tag/website-utilities)
 
 ----
 

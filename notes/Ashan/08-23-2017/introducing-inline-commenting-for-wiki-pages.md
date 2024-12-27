@@ -6,16 +6,14 @@ author: Ashan
 path: /notes/Ashan/08-23-2017/introducing-inline-commenting-for-wiki-pages.md
 nid: 14781
 uid: 502016
-
 cids: 17212,17213,17221,17226,17247
-
 ---
 
 # GSoC 2017: Final Report on Wiki Discussion
 
-by [Ashan](../../../profile/Ashan) | August 23, 2017 16:36
+by [Ashan](/profile/Ashan) | August 23, 2017 16:36
 
-August 23, 2017 16:36 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [google-summer-of-code](../tag/google-summer-of-code), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [response:14788](../tag/response:14788)
+August 23, 2017 16:36 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [google-summer-of-code](/tag/google-summer-of-code), [gsoc-2017](/tag/gsoc-2017), [soc](/tag/soc), [soc-2017](/tag/soc-2017), [response:14788](/tag/response:14788)
 
 ----
 

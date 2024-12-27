@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/03-15-2017/can-the-new-auburn-wi-recreation-area-be-used-to-identify-downwind-dust-from-great-northern-sand.md
 nid: 14018
 uid: 4
-
 cids: 22447,22452
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/811/original/Screen_Shot_2017-03-14_at_5.14.24_PM.png)
 
 # Can the New Auburn, WI Recreation Area be used to identify downwind dust from Great Northern Sand?
 
-by [mathew](../../../profile/mathew) | March 15, 2017 00:17
+by [mathew](/profile/mathew) | March 15, 2017 00:17
 
-March 15, 2017 00:17 | Tags: [wisconsin](../tag/wisconsin), [dust](../tag/dust), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [pm-monitoring](../tag/pm-monitoring), [question:pm-monitoring](../tag/question:pm-monitoring), [pdr-1500](../tag/pdr-1500), [question:frac-sand](../tag/question:frac-sand), [optical-pm](../tag/optical-pm)
+March 15, 2017 00:17 | Tags: [wisconsin](/tag/wisconsin), [dust](/tag/dust), [frac-sand](/tag/frac-sand), [pm](/tag/pm), [pm-monitoring](/tag/pm-monitoring), [question:pm-monitoring](/tag/question:pm-monitoring), [pdr-1500](/tag/pdr-1500), [question:frac-sand](/tag/question:frac-sand), [optical-pm](/tag/optical-pm)
 
 ----
 

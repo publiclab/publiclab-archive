@@ -6,18 +6,16 @@ author: TheChessGym
 path: /notes/TheChessGym/04-01-2022/the-effects-of-microplastics-on-drinking-water.md
 nid: 30243
 uid: 788868
-
 cids: 29902,31185
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/596/original/0214b72b-e8f5-4e29-8831-941ac8941e0e.jpg)
 
 # The Effects Of Microplastics On Drinking Water 
 
-by [TheChessGym](../../../profile/TheChessGym) | April 01, 2022 15:06
+by [TheChessGym](/profile/TheChessGym) | April 01, 2022 15:06
 
-April 01, 2022 15:06 | Tags: [microplastics](../tag/microplastics), [lat:22](../tag/lat:22), [lon:76](../tag/lon:76), [zoom:5](../tag/zoom:5)
+April 01, 2022 15:06 | Tags: [microplastics](/tag/microplastics), [lat:22](/tag/lat:22), [lon:76](/tag/lon:76), [zoom:5](/tag/zoom:5)
 
 ----
 

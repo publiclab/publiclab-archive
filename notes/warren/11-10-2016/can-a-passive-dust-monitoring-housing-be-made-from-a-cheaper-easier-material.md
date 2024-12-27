@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/11-10-2016/can-a-passive-dust-monitoring-housing-be-made-from-a-cheaper-easier-material.md
 nid: 13692
 uid: 1
-
 cids: 15921,22772
-
 ---
 
 # Can a passive dust monitoring housing be made from a cheaper/easier material?
 
-by [warren](../../../profile/warren) | November 10, 2016 17:21
+by [warren](/profile/warren) | November 10, 2016 17:21
 
-November 10, 2016 17:21 | Tags: [diy](../tag/diy), [dust](../tag/dust), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particle-monitoring](../tag/particle-monitoring), [passive-pm](../tag/passive-pm), [question:passive-pm](../tag/question:passive-pm), [question:pm](../tag/question:pm), [question:particulates](../tag/question:particulates), [fabrication](../tag/fabrication), [question:frac-sand](../tag/question:frac-sand), [question:dust](../tag/question:dust), [question:dust-sampling](../tag/question:dust-sampling)
+November 10, 2016 17:21 | Tags: [diy](/tag/diy), [dust](/tag/dust), [frac-sand](/tag/frac-sand), [pm](/tag/pm), [particle-monitoring](/tag/particle-monitoring), [passive-pm](/tag/passive-pm), [question:passive-pm](/tag/question:passive-pm), [question:pm](/tag/question:pm), [question:particulates](/tag/question:particulates), [fabrication](/tag/fabrication), [question:frac-sand](/tag/question:frac-sand), [question:dust](/tag/question:dust), [question:dust-sampling](/tag/question:dust-sampling)
 
 ----
 

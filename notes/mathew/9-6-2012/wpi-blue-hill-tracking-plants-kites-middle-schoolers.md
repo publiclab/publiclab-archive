@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/9-6-2012/wpi-blue-hill-tracking-plants-kites-middle-schoolers.md
 nid: 3670
 uid: 4
-
 cids: 19363
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-09-06 at 5.21.21 PM.png)
 
 # WPI & Blue Hill tracking plants with Kites, Middle schoolers
 
-by [mathew](../../../profile/mathew) | September 07, 2012 00:21
+by [mathew](/profile/mathew) | September 07, 2012 00:21
 
-September 07, 2012 00:21 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [boston](../tag/boston), [education](../tag/education), [curriculum](../tag/curriculum), [massachusetts](../tag/massachusetts), [classroom](../tag/classroom), [northeast](../tag/northeast)
+September 07, 2012 00:21 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [boston](/tag/boston), [education](/tag/education), [curriculum](/tag/curriculum), [massachusetts](/tag/massachusetts), [classroom](/tag/classroom), [northeast](/tag/northeast)
 
 ----
 

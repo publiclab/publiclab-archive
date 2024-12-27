@@ -6,14 +6,14 @@ author: mollydanielsson
 path: /wiki/open-sourcing-jerusalem.md
 nid: 11565
 uid: 1259
-
+cids: 
 ---
 
 # Open Sourcing Jerusalem
 
-by [mollydanielsson](../profile/mollydanielsson)
+by [mollydanielsson](/profile/mollydanielsson)
 
-February 08, 2015 01:26 | Tags: [style:fancy](../tag/style:fancy), [with:hagitkeysar](../tag/with:hagitkeysar)
+February 08, 2015 01:26 | Tags: [style:fancy](/tag/style:fancy), [with:hagitkeysar](/tag/with:hagitkeysar)
 
 ----
 

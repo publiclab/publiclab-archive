@@ -6,16 +6,14 @@ author: gretchengehrke
 path: /notes/gretchengehrke/08-02-2017/how-do-you-account-for-signal-drift-with-sensors-in-the-field.md
 nid: 14711
 uid: 430549
-
 cids: 25073
-
 ---
 
 # How do you account for signal drift with sensors in the field?
 
-by [gretchengehrke](../../../profile/gretchengehrke) | August 02, 2017 21:09
+by [gretchengehrke](/profile/gretchengehrke) | August 02, 2017 21:09
 
-August 02, 2017 21:09 | Tags: [question:air-quality](../tag/question:air-quality), [question:question](../tag/question:question), [question:water-quality](../tag/question:water-quality), [question:sensors](../tag/question:sensors), [question:water-sensors](../tag/question:water-sensors)
+August 02, 2017 21:09 | Tags: [question:air-quality](/tag/question:air-quality), [question:question](/tag/question:question), [question:water-quality](/tag/question:water-quality), [question:sensors](/tag/question:sensors), [question:water-sensors](/tag/question:water-sensors)
 
 ----
 

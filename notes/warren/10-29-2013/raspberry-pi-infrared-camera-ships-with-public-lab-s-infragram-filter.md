@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/10-29-2013/raspberry-pi-infrared-camera-ships-with-public-lab-s-infragram-filter.md
 nid: 9679
 uid: 1
-
 cids: 7422,7434
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/074/original/1567kit_LRG.jpg)
 
 # Raspberry Pi Infrared Camera ships with Public Lab's Infragram filter
 
-by [warren](../../../profile/warren) | October 29, 2013 15:36
+by [warren](/profile/warren) | October 29, 2013 15:36
 
-October 29, 2013 15:36 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram)
+October 29, 2013 15:36 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [raspberry-pi](/tag/raspberry-pi), [infragram](/tag/infragram)
 
 ----
 

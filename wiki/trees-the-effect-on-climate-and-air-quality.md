@@ -6,14 +6,14 @@ author: suget305
 path: /wiki/trees-the-effect-on-climate-and-air-quality.md
 nid: 12487
 uid: 452260
-
+cids: 
 ---
 
 # Trees: The effect on climate and air quality
 
-by [suget305](../profile/suget305)
+by [suget305](/profile/suget305)
 
-December 08, 2015 14:39 | Tags: [trees](../tag/trees), [snow](../tag/snow), [climate-change](../tag/climate-change), [city](../tag/city), [city-vs-rural](../tag/city-vs-rural), [cold](../tag/cold)
+December 08, 2015 14:39 | Tags: [trees](/tag/trees), [snow](/tag/snow), [climate-change](/tag/climate-change), [city](/tag/city), [city-vs-rural](/tag/city-vs-rural), [cold](/tag/cold)
 
 ----
 

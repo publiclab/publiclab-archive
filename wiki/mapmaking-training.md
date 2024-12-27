@@ -6,12 +6,12 @@ author: gonzoearth
 path: /wiki/mapmaking-training.md
 nid: 1514
 uid: 12
-
+cids: 
 ---
 
 # Mapmaking Training
 
-by [gonzoearth](../profile/gonzoearth)
+by [gonzoearth](/profile/gonzoearth)
 
 March 22, 2012 04:12 | Tags: 
 

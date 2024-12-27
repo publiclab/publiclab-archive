@@ -6,18 +6,16 @@ author: JirkaPanek
 path: /notes/JirkaPanek/06-23-2014/balloon-mapping-at-faculty-of-science-olomouc-czech-republic.md
 nid: 10605
 uid: 179
-
 cids: 9248,9260
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/935/original/faculty-of-science.jpg)
 
 # Balloon Mapping at Faculty of Science, Olomouc, Czech Republic
 
-by [JirkaPanek](../../../profile/JirkaPanek) | June 23, 2014 07:53
+by [JirkaPanek](/profile/JirkaPanek) | June 23, 2014 07:53
 
-June 23, 2014 07:53 | Tags: [balloon-mapping](../tag/balloon-mapping), [chdk](../tag/chdk), [field](../tag/field), [test](../tag/test)
+June 23, 2014 07:53 | Tags: [balloon-mapping](/tag/balloon-mapping), [chdk](/tag/chdk), [field](/tag/field), [test](/tag/test)
 
 ----
 

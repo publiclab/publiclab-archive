@@ -6,12 +6,12 @@ author: warren
 path: /wiki/barbara-marcotte-interview.md
 nid: 311
 uid: 1
-
+cids: 
 ---
 
 # Barbara Marcotte Interview
 
-by [Shannon](../profile/Shannon), [warren](../profile/warren)
+by [Shannon](/profile/Shannon), [warren](/profile/warren)
 
 June 01, 2011 15:15 | Tags: 
 

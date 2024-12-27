@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/11-17-2015/harry-collins-and-his-sociologist-stones.md
 nid: 12418
 uid: 554
-
 cids: 12913,12917,12919
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/766/original/BarnRaisins.jpg)
 
 # Harry Collins and his Sociologist Stones
 
-by [cfastie](../../../profile/cfastie) | November 17, 2015 00:15
+by [cfastie](/profile/cfastie) | November 17, 2015 00:15
 
-November 17, 2015 00:15 | Tags: [leaffest](../tag/leaffest), [barnraising](../tag/barnraising), [philosophy](../tag/philosophy), [leaffest2015](../tag/leaffest2015), [barnrising2015](../tag/barnrising2015), [expertise](../tag/expertise)
+November 17, 2015 00:15 | Tags: [leaffest](/tag/leaffest), [barnraising](/tag/barnraising), [philosophy](/tag/philosophy), [leaffest2015](/tag/leaffest2015), [barnrising2015](/tag/barnrising2015), [expertise](/tag/expertise)
 
 ----
 

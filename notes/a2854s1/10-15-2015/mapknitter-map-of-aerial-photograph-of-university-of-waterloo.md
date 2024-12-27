@@ -6,16 +6,14 @@ author: a2854s1
 path: /notes/a2854s1/10-15-2015/mapknitter-map-of-aerial-photograph-of-university-of-waterloo.md
 nid: 12305
 uid: 453202
-
 cids: 
-
 ---
 
 # MapKnitter map of Aerial Photograph of University of Waterloo
 
-by [a2854s1](../../../profile/a2854s1) | October 15, 2015 17:53
+by [a2854s1](/profile/a2854s1) | October 15, 2015 17:53
 
-October 15, 2015 17:53 | Tags: [mapknitter](../tag/mapknitter), [lat:45.6447682178](../tag/lat:45.6447682178), [lon:-94.1528320313](../tag/lon:-94.1528320313)
+October 15, 2015 17:53 | Tags: [mapknitter](/tag/mapknitter), [lat:45.6447682178](/tag/lat:45.6447682178), [lon:-94.1528320313](/tag/lon:-94.1528320313)
 
 ----
 

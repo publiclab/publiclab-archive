@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/01-19-2018/how-do-i-dye-kombucha-leather.md
 nid: 15566
 uid: 7
-
 cids: 18219,19600,19648
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/277/original/KombuchaArt.jpg)
 
 # How do I dye kombucha leather?
 
-by [liz](../../../profile/liz) | January 19, 2018 20:37
+by [liz](/profile/liz) | January 19, 2018 20:37
 
-January 19, 2018 20:37 | Tags: [kombucha](../tag/kombucha), [kombucha-leather](../tag/kombucha-leather), [question:kombucha-leather](../tag/question:kombucha-leather)
+January 19, 2018 20:37 | Tags: [kombucha](/tag/kombucha), [kombucha-leather](/tag/kombucha-leather), [question:kombucha-leather](/tag/question:kombucha-leather)
 
 ----
 

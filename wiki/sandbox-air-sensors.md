@@ -6,12 +6,12 @@ author: bhamster
 path: /wiki/sandbox-air-sensors.md
 nid: 25213
 uid: 664477
-
+cids: 
 ---
 
 # sandbox-air-sensors
 
-by [bhamster](../profile/bhamster)
+by [bhamster](/profile/bhamster)
 
 December 10, 2020 23:31 | Tags: 
 
@@ -31,7 +31,7 @@ Can you afford a sensor? Can it detect what you're looking for? Where can you le
 
 ### Posts about choosing and evaluating an air sensor
 
-[grid:air-sensor-eval](../../tag/grid:air-sensor-eval)
+[grid:air-sensor-eval](/tag/grid:air-sensor-eval)
 
 <br>
 
@@ -59,7 +59,7 @@ Public Lab pages and posts tagged `air-sensor-projects` will appear here
 
 ## Questions
 
-[air-sensors](../../tag/question:air-sensors)
+[air-sensors](/tag/question:air-sensors)
 
 <br>
 <hr>

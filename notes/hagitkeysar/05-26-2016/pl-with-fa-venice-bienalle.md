@@ -6,18 +6,16 @@ author: hagitkeysar
 path: /notes/hagitkeysar/05-26-2016/pl-with-fa-venice-bienalle.md
 nid: 13143
 uid: 152
-
 cids: 14727,14732
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/314/original/Left03-cropped.png)
 
 # PL with FA @ Venice Bienalle
 
-by [hagitkeysar](../../../profile/hagitkeysar) | May 26, 2016 20:08
+by [hagitkeysar](/profile/hagitkeysar) | May 26, 2016 20:08
 
-May 26, 2016 20:08 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [3d](../tag/3d), [brazil](../tag/brazil), [blog](../tag/blog), [barnstar:basic](../tag/barnstar:basic), [israel-palestine](../tag/israel-palestine), [forensic-architecture](../tag/forensic-architecture), [venice-biennale](../tag/venice-biennale)
+May 26, 2016 20:08 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [3d](/tag/3d), [brazil](/tag/brazil), [blog](/tag/blog), [barnstar:basic](/tag/barnstar:basic), [israel-palestine](/tag/israel-palestine), [forensic-architecture](/tag/forensic-architecture), [venice-biennale](/tag/venice-biennale)
 
 ----
 

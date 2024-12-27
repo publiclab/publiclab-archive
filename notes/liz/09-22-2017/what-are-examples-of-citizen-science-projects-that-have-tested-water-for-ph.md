@@ -6,16 +6,14 @@ author: liz
 path: /notes/liz/09-22-2017/what-are-examples-of-citizen-science-projects-that-have-tested-water-for-ph.md
 nid: 14942
 uid: 7
-
 cids: 22627,22628,22629,22630
-
 ---
 
 # What are examples of citizen science projects that have tested water for pH?
 
-by [liz](../../../profile/liz) | September 22, 2017 17:34
+by [liz](/profile/liz) | September 22, 2017 17:34
 
-September 22, 2017 17:34 | Tags: [answered](../tag/answered), [question:ph](../tag/question:ph), [question:ph-testing](../tag/question:ph-testing)
+September 22, 2017 17:34 | Tags: [answered](/tag/answered), [question:ph](/tag/question:ph), [question:ph-testing](/tag/question:ph-testing)
 
 ----
 

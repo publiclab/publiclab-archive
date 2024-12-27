@@ -6,14 +6,14 @@ author: warren
 path: /wiki/infrapi.md
 nid: 17454
 uid: 1
-
+cids: 
 ---
 
 # infrapi
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-November 01, 2018 15:29 | Tags: [redirect:raspberry-pi-infragram](../tag/redirect:raspberry-pi-infragram)
+November 01, 2018 15:29 | Tags: [redirect:raspberry-pi-infragram](/tag/redirect:raspberry-pi-infragram)
 
 ----
 

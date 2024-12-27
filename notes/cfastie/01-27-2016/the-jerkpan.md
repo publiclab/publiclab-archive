@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/01-27-2016/the-jerkpan.md
 nid: 12624
 uid: 554
-
 cids: 13419,13420,13421,13422,13426
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/889/original/JP_LS_41o41_2kHorz.jpg)
 
 # The JerkPan
 
-by [cfastie](../../../profile/cfastie) | January 27, 2016 05:23
+by [cfastie](/profile/cfastie) | January 27, 2016 05:23
 
-January 27, 2016 05:23 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [camera-rig-tests](../tag/camera-rig-tests), [aerial-photography](../tag/aerial-photography), [photo-rig](../tag/photo-rig), [kaptery](../tag/kaptery), [response:12601](../tag/response:12601), [aerobee](../tag/aerobee), [jerkpan](../tag/jerkpan), [activity:photo-rig](../tag/activity:photo-rig), [category:design](../tag/category:design)
+January 27, 2016 05:23 | Tags: [kite-aerial-photography](/tag/kite-aerial-photography), [camera-rig-tests](/tag/camera-rig-tests), [aerial-photography](/tag/aerial-photography), [photo-rig](/tag/photo-rig), [kaptery](/tag/kaptery), [response:12601](/tag/response:12601), [aerobee](/tag/aerobee), [jerkpan](/tag/jerkpan), [activity:photo-rig](/tag/activity:photo-rig), [category:design](/tag/category:design)
 
 ----
 

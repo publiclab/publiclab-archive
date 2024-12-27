@@ -6,16 +6,14 @@ author: B.Williams
 path: /notes/bwilliams/10-12-2012/carbon-arc-electrode-prep.md
 nid: 4356
 uid: 42631
-
 cids: 
-
 ---
 
 # Carbon Arc Electrode Prep
 
-by [B.Williams](../../../profile/B.Williams) | October 12, 2012 06:34
+by [B.Williams](/profile/B.Williams) | October 12, 2012 06:34
 
-October 12, 2012 06:34 | Tags: [spectrometer](../tag/spectrometer), [carbon-arc](../tag/carbon-arc), [emission-spectroscopy](../tag/emission-spectroscopy), [spectroscopy](../tag/spectroscopy)
+October 12, 2012 06:34 | Tags: [spectrometer](/tag/spectrometer), [carbon-arc](/tag/carbon-arc), [emission-spectroscopy](/tag/emission-spectroscopy), [spectroscopy](/tag/spectroscopy)
 
 ----
 

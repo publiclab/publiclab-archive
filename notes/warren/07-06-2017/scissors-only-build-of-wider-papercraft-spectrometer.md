@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/07-06-2017/scissors-only-build-of-wider-papercraft-spectrometer.md
 nid: 14625
 uid: 1
-
 cids: 17579
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/060/original/P7060003.JPG)
 
 # Scissors-only build of wider papercraft spectrometer
 
-by [warren](../../../profile/warren) | July 06, 2017 16:42
+by [warren](/profile/warren) | July 06, 2017 16:42
 
-July 06, 2017 16:42 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer), [instructions](../tag/instructions), [foldable](../tag/foldable), [papercraft](../tag/papercraft), [foldable-spectrometer](../tag/foldable-spectrometer), [printability](../tag/printability), [glue](../tag/glue), [foldable-spec](../tag/foldable-spec), [build:13076](../tag/build:13076)
+July 06, 2017 16:42 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [fold-up-mini-spectrometer](/tag/fold-up-mini-spectrometer), [instructions](/tag/instructions), [foldable](/tag/foldable), [papercraft](/tag/papercraft), [foldable-spectrometer](/tag/foldable-spectrometer), [printability](/tag/printability), [glue](/tag/glue), [foldable-spec](/tag/foldable-spec), [build:13076](/tag/build:13076)
 
 ----
 

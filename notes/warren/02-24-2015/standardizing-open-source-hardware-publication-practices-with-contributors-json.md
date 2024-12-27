@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/02-24-2015/standardizing-open-source-hardware-publication-practices-with-contributors-json.md
 nid: 11636
 uid: 1
-
 cids: 11206,11207,11208,11209,11210,11211,11212,11213,11214,11215,11224
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/077/original/contributors-json.png)
 
 # Standardizing open source hardware publication practices with contributors.json
 
-by [warren](../../../profile/warren) | February 24, 2015 21:49
+by [warren](/profile/warren) | February 24, 2015 21:49
 
-February 24, 2015 21:49 | Tags: [open-hardware](../tag/open-hardware), [attribution](../tag/attribution), [contributing](../tag/contributing), [oshwa](../tag/oshwa)
+February 24, 2015 21:49 | Tags: [open-hardware](/tag/open-hardware), [attribution](/tag/attribution), [contributing](/tag/contributing), [oshwa](/tag/oshwa)
 
 ----
 

@@ -6,18 +6,16 @@ author: bruno
 path: /notes/bruno/07-09-2015/do-the-work-exactly.md
 nid: 12043
 uid: 445183
-
 cids: 12157
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/589/original/2015-07-09T13_19_39.948Z.jpg)
 
 # do the work exactly
 
-by [bruno](../../../profile/bruno) | July 09, 2015 15:56
+by [bruno](/profile/bruno) | July 09, 2015 15:56
 
-July 09, 2015 15:56 | Tags: [ndvi](../tag/ndvi), [white-balance](../tag/white-balance), [question:ndvi](../tag/question:ndvi)
+July 09, 2015 15:56 | Tags: [ndvi](/tag/ndvi), [white-balance](/tag/white-balance), [question:ndvi](/tag/question:ndvi)
 
 ----
 

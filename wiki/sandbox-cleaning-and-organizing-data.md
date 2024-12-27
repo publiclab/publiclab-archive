@@ -6,12 +6,12 @@ author: bhamster
 path: /wiki/sandbox-cleaning-and-organizing-data.md
 nid: 28262
 uid: 664477
-
+cids: 
 ---
 
 # sandbox-cleaning-and-organizing-data
 
-by [bhamster](../profile/bhamster)
+by [bhamster](/profile/bhamster)
 
 November 23, 2021 23:51 | Tags: 
 

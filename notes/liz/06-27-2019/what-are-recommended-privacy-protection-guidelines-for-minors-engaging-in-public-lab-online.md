@@ -6,16 +6,14 @@ author: liz
 path: /notes/liz/06-27-2019/what-are-recommended-privacy-protection-guidelines-for-minors-engaging-in-public-lab-online.md
 nid: 19897
 uid: 7
-
 cids: 24940,24951,24982,25012,25013
-
 ---
 
 # What are recommended privacy protection guidelines for minors engaging in Public Lab online?
 
-by [liz](../../../profile/liz) | June 27, 2019 14:27
+by [liz](/profile/liz) | June 27, 2019 14:27
 
-June 27, 2019 14:27 | Tags: [question:privacy](../tag/question:privacy), [question:conduct](../tag/question:conduct)
+June 27, 2019 14:27 | Tags: [question:privacy](/tag/question:privacy), [question:conduct](/tag/question:conduct)
 
 ----
 

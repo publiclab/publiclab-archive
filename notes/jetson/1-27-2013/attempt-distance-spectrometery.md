@@ -6,18 +6,16 @@ author: jetson
 path: /notes/jetson/1-27-2013/attempt-distance-spectrometery.md
 nid: 5741
 uid: 47133
-
 cids: 3262,3284,3285,3287,3299,3300,3308,3333,3336,3342,6950
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Scope Spcetrometer_3.jpg)
 
 # Attempt at Distance Spectrometery
 
-by [jetson](../../../profile/jetson) | January 28, 2013 04:23
+by [jetson](/profile/jetson) | January 28, 2013 04:23
 
-January 28, 2013 04:23 | Tags: [spectrometer](../tag/spectrometer), [flare](../tag/flare)
+January 28, 2013 04:23 | Tags: [spectrometer](/tag/spectrometer), [flare](/tag/flare)
 
 ----
 

@@ -6,18 +6,16 @@ author: bhamster
 path: /notes/bhamster/09-14-2021/event-wondering-about-wastewater-join-us-for-a-series-of-events-to-wrap-up-public-lab-s-latest-research-area-review.md
 nid: 27723
 uid: 664477
-
 cids: 29240,29241,29246,29247,29248,29254,29274,29289
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/813/original/River_Alejo_copy.jpeg)
 
 # EVENT: Wondering about Wastewater? Join us for a series of events to wrap up Public Lab’s latest research area review!
 
-by [bhamster](../../../profile/bhamster) | September 14, 2021 15:06
+by [bhamster](/profile/bhamster) | September 14, 2021 15:06
 
-September 14, 2021 15:06 | Tags: [event](../tag/event), [sewage](../tag/sewage), [water-quality](../tag/water-quality), [stormwater](../tag/stormwater), [event:rsvp](../tag/event:rsvp), [wastewater](../tag/wastewater), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review), [research-curation-fellows-event](../tag/research-curation-fellows-event), [rsvp:denissebn_06](../tag/rsvp:denissebn_06), [with:alejobonifacio](../tag/with:alejobonifacio), [date:09-29-2021](../tag/date:09-29-2021), [rsvp:amirberagain](../tag/rsvp:amirberagain), [rsvp:jordanyjackson](../tag/rsvp:jordanyjackson)
+September 14, 2021 15:06 | Tags: [event](/tag/event), [sewage](/tag/sewage), [water-quality](/tag/water-quality), [stormwater](/tag/stormwater), [event:rsvp](/tag/event:rsvp), [wastewater](/tag/wastewater), [reviews](/tag/reviews), [research-area-review](/tag/research-area-review), [research-curation-fellows-event](/tag/research-curation-fellows-event), [rsvp:denissebn_06](/tag/rsvp:denissebn_06), [with:alejobonifacio](/tag/with:alejobonifacio), [date:09-29-2021](/tag/date:09-29-2021), [rsvp:amirberagain](/tag/rsvp:amirberagain), [rsvp:jordanyjackson](/tag/rsvp:jordanyjackson)
 
 ----
 

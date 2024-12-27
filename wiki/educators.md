@@ -6,14 +6,14 @@ author: warren
 path: /wiki/educators.md
 nid: 20271
 uid: 1
-
+cids: 
 ---
 
 # educators
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-July 24, 2019 17:46 | Tags: [redirect:education](../tag/redirect:education)
+July 24, 2019 17:46 | Tags: [redirect:education](/tag/redirect:education)
 
 ----
 

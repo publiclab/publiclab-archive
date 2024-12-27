@@ -6,18 +6,16 @@ author: cindy_excites
 path: /notes/Cindy_ExCites/02-03-2017/maps-without-borders-stories-of-civic-science-in-action.md
 nid: 13904
 uid: 1083
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/428/original/images001.jpeg)
 
 # Maps without borders: Stories of civic science in action
 
-by [cindy_excites](../../../profile/cindy_excites) | February 03, 2017 11:13
+by [cindy_excites](/profile/cindy_excites) | February 03, 2017 11:13
 
-February 03, 2017 11:13 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [storytelling](../tag/storytelling), [civicscience](../tag/civicscience), [diyscience](../tag/diyscience), [publiclabineu](../tag/publiclabineu)
+February 03, 2017 11:13 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [storytelling](/tag/storytelling), [civicscience](/tag/civicscience), [diyscience](/tag/diyscience), [publiclabineu](/tag/publiclabineu)
 
 ----
 

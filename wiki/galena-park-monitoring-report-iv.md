@@ -6,14 +6,14 @@ author: liz
 path: /wiki/galena-park-monitoring-report-iv.md
 nid: 12183
 uid: 7
-
+cids: 
 ---
 
 # galena-park-monitoring-report-IV
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-August 28, 2015 21:05 | Tags: [parent:texas](../tag/parent:texas), [texas](../tag/texas)
+August 28, 2015 21:05 | Tags: [parent:texas](/tag/parent:texas), [texas](/tag/texas)
 
 ----
 

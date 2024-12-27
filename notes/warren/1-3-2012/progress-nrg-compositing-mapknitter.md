@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/1-3-2012/progress-nrg-compositing-mapknitter.md
 nid: 676
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/nrg-merc.png)
 
 # Progress on NRG compositing from MapKnitter
 
-by [warren](../../../profile/warren) | January 04, 2012 01:21
+by [warren](/profile/warren) | January 04, 2012 01:21
 
-January 04, 2012 01:21 | Tags: [saugus](../tag/saugus), [landfill](../tag/landfill), [waste](../tag/waste)
+January 04, 2012 01:21 | Tags: [saugus](/tag/saugus), [landfill](/tag/landfill), [waste](/tag/waste)
 
 ----
 

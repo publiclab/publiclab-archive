@@ -6,16 +6,14 @@ author: jnakos
 path: /notes/jnakos/10-04-2018/spectralworkbench-fails-to-recognize-camera.md
 nid: 17216
 uid: 553473
-
 cids: 20831,20884
-
 ---
 
 # spectralworkbench fails to recognize camera
 
-by [jnakos](../../../profile/jnakos) | October 04, 2018 04:03
+by [jnakos](/profile/jnakos) | October 04, 2018 04:03
 
-October 04, 2018 04:03 | Tags: [question:general](../tag/question:general)
+October 04, 2018 04:03 | Tags: [question:general](/tag/question:general)
 
 ----
 

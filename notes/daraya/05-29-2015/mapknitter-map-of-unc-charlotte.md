@@ -6,16 +6,14 @@ author: daraya
 path: /notes/daraya/05-29-2015/mapknitter-map-of-unc-charlotte.md
 nid: 11894
 uid: 442682
-
 cids: 
-
 ---
 
 # MapKnitter map of unc charlotte
 
-by [daraya](../../../profile/daraya) | May 29, 2015 16:33
+by [daraya](/profile/daraya) | May 29, 2015 16:33
 
-May 29, 2015 16:33 | Tags: [mapknitter](../tag/mapknitter), [lat:35.3068954766](../tag/lat:35.3068954766), [lon:-80.7390403748](../tag/lon:-80.7390403748)
+May 29, 2015 16:33 | Tags: [mapknitter](/tag/mapknitter), [lat:35.3068954766](/tag/lat:35.3068954766), [lon:-80.7390403748](/tag/lon:-80.7390403748)
 
 ----
 

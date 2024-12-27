@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/09-20-2017/is-there-an-offline-version-of-mapknitter.md
 nid: 14917
 uid: 422561
-
 cids: 22616
-
 ---
 
 # Is there an offline version of Mapknitter? 
 
-by [stevie](../../../profile/stevie) | September 20, 2017 15:07
+by [stevie](/profile/stevie) | September 20, 2017 15:07
 
-September 20, 2017 15:07 | Tags: [mapknitter](../tag/mapknitter), [answered](../tag/answered), [question:mapknitter](../tag/question:mapknitter)
+September 20, 2017 15:07 | Tags: [mapknitter](/tag/mapknitter), [answered](/tag/answered), [question:mapknitter](/tag/question:mapknitter)
 
 ----
 

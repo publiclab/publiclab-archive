@@ -6,12 +6,12 @@ author: warren
 path: /wiki/project-planning.md
 nid: 378
 uid: 1
-
+cids: 
 ---
 
 # Project Planning
 
-by [Shannon](../profile/Shannon), [warren](../profile/warren)
+by [Shannon](/profile/Shannon), [warren](/profile/warren)
 
 July 11, 2011 20:08 | Tags: 
 

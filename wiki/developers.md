@@ -6,16 +6,16 @@ author: warren
 path: /wiki/developers.md
 nid: 9491
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/962/original/Screen_Shot_2019-05-22_at_5.37.11_PM.png)
 
 # Developers
 
-by [ruthnwaiganjo](../profile/ruthnwaiganjo), [warren](../profile/warren), [gauravano](../profile/gauravano), [liz](../profile/liz), [Gaurav](../profile/Gaurav)
+by [ruthnwaiganjo](/profile/ruthnwaiganjo), [warren](/profile/warren), [gauravano](/profile/gauravano), [liz](/profile/liz), [Gaurav](/profile/Gaurav)
 
-October 15, 2013 21:58 | Tags: [community](../tag/community), [software](../tag/software), [programmers](../tag/programmers), [developers](../tag/developers), [code](../tag/code), [mapknitter2](../tag/mapknitter2), [soc](../tag/soc)
+October 15, 2013 21:58 | Tags: [community](/tag/community), [software](/tag/software), [programmers](/tag/programmers), [developers](/tag/developers), [code](/tag/code), [mapknitter2](/tag/mapknitter2), [soc](/tag/soc)
 
 ----
 
@@ -49,13 +49,13 @@ Read more about our [software outreach work here](/software-outreach)!
 
 ## Activities
 
-[software](../../tag/activity:software)
+[software](/tag/activity:software)
 
 ****
 
 ## Questions
 
-[software](../../tag/question:software)
+[software](/tag/question:software)
 
 ****
 
@@ -203,7 +203,7 @@ Here are some guides to different ways to help others contribute:
 
 ## Summer of Code Activities
 
-[soc](../../tag/activity:soc)
+[soc](/tag/activity:soc)
 
 
 ****

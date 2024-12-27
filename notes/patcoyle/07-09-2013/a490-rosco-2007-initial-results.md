@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/07-09-2013/a490-rosco-2007-initial-results.md
 nid: 8785
 uid: 77
-
 cids: 6570
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/696/original/IMG_3387.JPG)
 
 # A490 Rosco 2007 initial results
 
-by [patcoyle](../../../profile/patcoyle) | July 09, 2013 22:57
+by [patcoyle](/profile/patcoyle) | July 09, 2013 22:57
 
-July 09, 2013 22:57 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [rosco](../tag/rosco)
+July 09, 2013 22:57 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [infragram](/tag/infragram), [rosco](/tag/rosco)
 
 ----
 

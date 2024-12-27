@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/05-14-2013/artichoke-filter-search.md
 nid: 7543
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/270/original/rosco4260.jpg)
 
 # Artichoke filter search
 
-by [cfastie](../../../profile/cfastie) | May 14, 2013 15:26
+by [cfastie](/profile/cfastie) | May 14, 2013 15:26
 
-May 14, 2013 15:26 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [rosco](../tag/rosco), [infrablue](../tag/infrablue), [infragram-filters](../tag/infragram-filters), [gigapan](../tag/gigapan)
+May 14, 2013 15:26 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [infragram](/tag/infragram), [rosco](/tag/rosco), [infrablue](/tag/infrablue), [infragram-filters](/tag/infragram-filters), [gigapan](/tag/gigapan)
 
 ----
 

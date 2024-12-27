@@ -6,18 +6,16 @@ author: maxliboiron
 path: /notes/maxliboiron/02-11-2014/underwater-plume-sampling-methods.md
 nid: 10027
 uid: 310707
-
 cids: 8223,8224,8241,8252
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/874/original/fig01.jpg)
 
 # Underwater Plume Sampling Methods
 
-by [maxliboiron](../../../profile/maxliboiron) | February 11, 2014 19:35
+by [maxliboiron](/profile/maxliboiron) | February 11, 2014 19:35
 
-February 11, 2014 19:35 | Tags: [plume](../tag/plume), [water-quality](../tag/water-quality), [water-monitoring](../tag/water-monitoring), [sampling](../tag/sampling), [underwater](../tag/underwater), [methodology](../tag/methodology), [thermal-plumes](../tag/thermal-plumes), [hydrothermal](../tag/hydrothermal), [method](../tag/method), [effluent](../tag/effluent), [first-time-poster](../tag/first-time-poster), [effluent-plume](../tag/effluent-plume)
+February 11, 2014 19:35 | Tags: [plume](/tag/plume), [water-quality](/tag/water-quality), [water-monitoring](/tag/water-monitoring), [sampling](/tag/sampling), [underwater](/tag/underwater), [methodology](/tag/methodology), [thermal-plumes](/tag/thermal-plumes), [hydrothermal](/tag/hydrothermal), [method](/tag/method), [effluent](/tag/effluent), [first-time-poster](/tag/first-time-poster), [effluent-plume](/tag/effluent-plume)
 
 ----
 

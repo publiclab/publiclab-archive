@@ -6,18 +6,16 @@ author: Sreyanth
 path: /notes/Sreyanth/06-24-2013/find-closest-match-spectra-from-database-gsoc-project.md
 nid: 8410
 uid: 96713
-
 cids: 5984,6403,6408,6417
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/573/original/logo_%283%29.png)
 
 # Find closest match spectra from database - GSoC project
 
-by [Sreyanth](../../../profile/Sreyanth) | June 24, 2013 07:46
+by [Sreyanth](/profile/Sreyanth) | June 24, 2013 07:46
 
-June 24, 2013 07:46 | Tags: [spectrometer](../tag/spectrometer), [spectral-workbench](../tag/spectral-workbench), [gsoc](../tag/gsoc), [spectral-matching](../tag/spectral-matching), [first-time-poster](../tag/first-time-poster)
+June 24, 2013 07:46 | Tags: [spectrometer](/tag/spectrometer), [spectral-workbench](/tag/spectral-workbench), [gsoc](/tag/gsoc), [spectral-matching](/tag/spectral-matching), [first-time-poster](/tag/first-time-poster)
 
 ----
 

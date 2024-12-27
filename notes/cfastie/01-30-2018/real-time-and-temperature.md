@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/01-30-2018/real-time-and-temperature.md
 nid: 15638
 uid: 554
-
 cids: 18319,18320,23520,23550,23551,24163,26914,26924,26972
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/399/original/MiniPearl_20170606-9521-3.JPG)
 
 # Real time and temperature
 
-by [cfastie](../../../profile/cfastie) | January 30, 2018 04:03
+by [cfastie](/profile/cfastie) | January 30, 2018 04:03
 
-January 30, 2018 04:03 | Tags: [arduino](../tag/arduino), [barnstar:empiricism](../tag/barnstar:empiricism), [data-logging](../tag/data-logging), [mini-pearl-logger](../tag/mini-pearl-logger), [real-time-clock](../tag/real-time-clock), [ds3231](../tag/ds3231), [pro-mini](../tag/pro-mini)
+January 30, 2018 04:03 | Tags: [arduino](/tag/arduino), [barnstar:empiricism](/tag/barnstar:empiricism), [data-logging](/tag/data-logging), [mini-pearl-logger](/tag/mini-pearl-logger), [real-time-clock](/tag/real-time-clock), [ds3231](/tag/ds3231), [pro-mini](/tag/pro-mini)
 
 ----
 

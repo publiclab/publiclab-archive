@@ -6,18 +6,16 @@ author: latrecejohnson59
 path: /notes/latrecejohnson59/07-01-2020/coal-ash-you-dig.md
 nid: 24080
 uid: 703047
-
 cids: 27562
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/051/original/12615735424_11e92db467_b.jpg)
 
 # Coal Ash! You Dig?
 
-by [latrecejohnson59](../../../profile/latrecejohnson59) | July 01, 2020 20:37
+by [latrecejohnson59](/profile/latrecejohnson59) | July 01, 2020 20:37
 
-July 01, 2020 20:37 | Tags: [delta](../tag/delta), [mobile](../tag/mobile), [water-quality](../tag/water-quality), [groundwater](../tag/groundwater), [southeast](../tag/southeast), [environmental-justice](../tag/environmental-justice), [coal-ash](../tag/coal-ash), [oil-and-gas](../tag/oil-and-gas), [alabama](../tag/alabama), [chemical-pollution](../tag/chemical-pollution), [issue-brief](../tag/issue-brief), [first-time-poster](../tag/first-time-poster), [freshwater](../tag/freshwater), [zoom:3](../tag/zoom:3), [lat:30.661479](../tag/lat:30.661479), [lon:-88.072121](../tag/lon:-88.072121), [alambama-power](../tag/alambama-power)
+July 01, 2020 20:37 | Tags: [delta](/tag/delta), [mobile](/tag/mobile), [water-quality](/tag/water-quality), [groundwater](/tag/groundwater), [southeast](/tag/southeast), [environmental-justice](/tag/environmental-justice), [coal-ash](/tag/coal-ash), [oil-and-gas](/tag/oil-and-gas), [alabama](/tag/alabama), [chemical-pollution](/tag/chemical-pollution), [issue-brief](/tag/issue-brief), [first-time-poster](/tag/first-time-poster), [freshwater](/tag/freshwater), [zoom:3](/tag/zoom:3), [lat:30.661479](/tag/lat:30.661479), [lon:-88.072121](/tag/lon:-88.072121), [alambama-power](/tag/alambama-power)
 
 ----
 

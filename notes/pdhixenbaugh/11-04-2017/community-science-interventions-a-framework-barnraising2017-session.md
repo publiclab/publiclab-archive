@@ -6,16 +6,14 @@ author: pdhixenbaugh
 path: /notes/pdhixenbaugh/11-04-2017/community-science-interventions-a-framework-barnraising2017-session.md
 nid: 15149
 uid: 459085
-
 cids: 
-
 ---
 
 # Community Science Interventions: A Framework (Barnraising2017 Session)
 
-by [pdhixenbaugh](../../../profile/pdhixenbaugh) | November 04, 2017 15:35
+by [pdhixenbaugh](/profile/pdhixenbaugh) | November 04, 2017 15:35
 
-November 04, 2017 15:35 | Tags: [community](../tag/community), [gardening](../tag/gardening), [barnraising-2017](../tag/barnraising-2017), [barnraising2017](../tag/barnraising2017), [response:15142](../tag/response:15142), [response:14762](../tag/response:14762), [response:13862](../tag/response:13862)
+November 04, 2017 15:35 | Tags: [community](/tag/community), [gardening](/tag/gardening), [barnraising-2017](/tag/barnraising-2017), [barnraising2017](/tag/barnraising2017), [response:15142](/tag/response:15142), [response:14762](/tag/response:14762), [response:13862](/tag/response:13862)
 
 ----
 

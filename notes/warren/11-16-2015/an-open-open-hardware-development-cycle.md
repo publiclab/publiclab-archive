@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/11-16-2015/an-open-open-hardware-development-cycle.md
 nid: 12416
 uid: 1
-
 cids: 12909,12932,15005,15052
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/764/original/Screenshot_2015-11-13_at_3.30.23_PM.png)
 
 # An "open open hardware" development cycle
 
-by [warren](../../../profile/warren) | November 16, 2015 19:12
+by [warren](/profile/warren) | November 16, 2015 19:12
 
-November 16, 2015 19:12 | Tags: [spectrometer](../tag/spectrometer), [collaboration](../tag/collaboration), [community](../tag/community), [open-hardware](../tag/open-hardware), [kits](../tag/kits), [dsk](../tag/dsk), [kits-initiative](../tag/kits-initiative), [with:mathew](../tag/with:mathew), [with:liz](../tag/with:liz), [open-open-hardware](../tag/open-open-hardware), [transparency](../tag/transparency), [with:tonyc](../tag/with:tonyc)
+November 16, 2015 19:12 | Tags: [spectrometer](/tag/spectrometer), [collaboration](/tag/collaboration), [community](/tag/community), [open-hardware](/tag/open-hardware), [kits](/tag/kits), [dsk](/tag/dsk), [kits-initiative](/tag/kits-initiative), [with:mathew](/tag/with:mathew), [with:liz](/tag/with:liz), [open-open-hardware](/tag/open-open-hardware), [transparency](/tag/transparency), [with:tonyc](/tag/with:tonyc)
 
 ----
 

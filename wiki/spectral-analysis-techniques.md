@@ -6,14 +6,14 @@ author: liz
 path: /wiki/spectral-analysis-techniques.md
 nid: 4440
 uid: 7
-
+cids: 
 ---
 
 # Spectral Analysis Techniques
 
-by [Markos](../profile/Markos), [warren](../profile/warren), [liz](../profile/liz)
+by [Markos](/profile/Markos), [warren](/profile/warren), [liz](/profile/liz)
 
-October 16, 2012 19:59 | Tags: [spectrometer](../tag/spectrometer)
+October 16, 2012 19:59 | Tags: [spectrometer](/tag/spectrometer)
 
 ----
 

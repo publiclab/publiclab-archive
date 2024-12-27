@@ -6,14 +6,14 @@ author: willie
 path: /wiki/indonesia.md
 nid: 11098
 uid: 235174
-
+cids: 
 ---
 
 # indonesia
 
-by [willie](../profile/willie)
+by [willie](/profile/willie)
 
-September 02, 2014 22:16 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [dustduino](../tag/dustduino), [indonesia](../tag/indonesia), [jakarta](../tag/jakarta)
+September 02, 2014 22:16 | Tags: [kite-aerial-photography](/tag/kite-aerial-photography), [dustduino](/tag/dustduino), [indonesia](/tag/indonesia), [jakarta](/tag/jakarta)
 
 ----
 

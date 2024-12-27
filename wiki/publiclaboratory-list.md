@@ -6,14 +6,14 @@ author: warren
 path: /wiki/publiclaboratory-list.md
 nid: 5852
 uid: 1
-
+cids: 
 ---
 
 # publiclaboratory list
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-February 01, 2013 14:43 | Tags: [mailing-lists](../tag/mailing-lists)
+February 01, 2013 14:43 | Tags: [mailing-lists](/tag/mailing-lists)
 
 ----
 

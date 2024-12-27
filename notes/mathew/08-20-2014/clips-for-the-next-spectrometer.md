@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/08-20-2014/clips-for-the-next-spectrometer.md
 nid: 11068
 uid: 4
-
 cids: 10092,10097,10098,10103
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/358/original/Screen_Shot_2014-08-20_at_4.53.35_PM.png)
 
 # Clips for the next spectrometer
 
-by [mathew](../../../profile/mathew) | August 20, 2014 23:54
+by [mathew](/profile/mathew) | August 20, 2014 23:54
 
-August 20, 2014 23:54 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit)
+August 20, 2014 23:54 | Tags: [spectrometer](/tag/spectrometer), [oil-testing-kit](/tag/oil-testing-kit)
 
 ----
 

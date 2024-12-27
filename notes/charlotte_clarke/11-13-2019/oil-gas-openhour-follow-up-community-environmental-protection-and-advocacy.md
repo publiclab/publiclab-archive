@@ -6,16 +6,14 @@ author: charlotte_clarke
 path: /notes/charlotte_clarke/11-13-2019/oil-gas-openhour-follow-up-community-environmental-protection-and-advocacy.md
 nid: 21477
 uid: 510781
-
 cids: 
-
 ---
 
 # Oil & Gas OpenHour Follow Up: Community Environmental Protection and Advocacy
 
-by [charlotte_clarke](../../../profile/charlotte_clarke) | November 13, 2019 16:35
+by [charlotte_clarke](/profile/charlotte_clarke) | November 13, 2019 16:35
 
-November 13, 2019 16:35 | Tags: [water-quality](../tag/water-quality), [legal](../tag/legal), [advocacy](../tag/advocacy), [oil-and-gas](../tag/oil-and-gas), [community-organizing](../tag/community-organizing), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [oil-and-gas-water-quality](../tag/oil-and-gas-water-quality), [activity:oil-and-gas-water-quality](../tag/activity:oil-and-gas-water-quality), [law-and-policy](../tag/law-and-policy)
+November 13, 2019 16:35 | Tags: [water-quality](/tag/water-quality), [legal](/tag/legal), [advocacy](/tag/advocacy), [oil-and-gas](/tag/oil-and-gas), [community-organizing](/tag/community-organizing), [oil-and-gas-water-trio](/tag/oil-and-gas-water-trio), [oil-and-gas-water-quality](/tag/oil-and-gas-water-quality), [activity:oil-and-gas-water-quality](/tag/activity:oil-and-gas-water-quality), [law-and-policy](/tag/law-and-policy)
 
 ----
 

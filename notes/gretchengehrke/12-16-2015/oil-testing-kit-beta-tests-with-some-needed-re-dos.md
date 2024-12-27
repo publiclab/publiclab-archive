@@ -6,18 +6,16 @@ author: gretchengehrke
 path: /notes/gretchengehrke/12-16-2015/oil-testing-kit-beta-tests-with-some-needed-re-dos.md
 nid: 12523
 uid: 430549
-
 cids: 13144,13158,13162
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/362/original/OTK_NDCrude_20151215.png)
 
 # Oil Testing Kit -- Beta tests (with some needed re-dos)
 
-by [gretchengehrke](../../../profile/gretchengehrke) | December 16, 2015 22:13
+by [gretchengehrke](/profile/gretchengehrke) | December 16, 2015 22:13
 
-December 16, 2015 22:13 | Tags: [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta)
+December 16, 2015 22:13 | Tags: [oil-testing-kit](/tag/oil-testing-kit), [oil-testing-kit-beta](/tag/oil-testing-kit-beta)
 
 ----
 

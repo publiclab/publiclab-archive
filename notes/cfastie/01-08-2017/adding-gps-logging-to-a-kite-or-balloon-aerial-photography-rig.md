@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/01-08-2017/adding-gps-logging-to-a-kite-or-balloon-aerial-photography-rig.md
 nid: 13845
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/232/original/GPS_20170107-7463.JPG)
 
 # Adding GPS logging to a kite or balloon aerial photography rig
 
-by [cfastie](../../../profile/cfastie) | January 08, 2017 04:46
+by [cfastie](/profile/cfastie) | January 08, 2017 04:46
 
-January 08, 2017 04:46 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [arduino](../tag/arduino), [kap](../tag/kap), [gps](../tag/gps), [kite-photography](../tag/kite-photography), [skyshield](../tag/skyshield), [difficulty:medium](../tag/difficulty:medium), [category:verify](../tag/category:verify), [activity:aerial-photography](../tag/activity:aerial-photography), [skypod](../tag/skypod)
+January 08, 2017 04:46 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [arduino](/tag/arduino), [kap](/tag/kap), [gps](/tag/gps), [kite-photography](/tag/kite-photography), [skyshield](/tag/skyshield), [difficulty:medium](/tag/difficulty:medium), [category:verify](/tag/category:verify), [activity:aerial-photography](/tag/activity:aerial-photography), [skypod](/tag/skypod)
 
 ----
 

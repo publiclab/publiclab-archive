@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/05-20-2014/frac-sand-frisbee-maps-against-mines.md
 nid: 10484
 uid: 4
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/309/original/map3.3-1024x890.jpg)
 
 # Frac Sand Frisbee- Maps against Mines
 
-by [mathew](../../../profile/mathew) | May 20, 2014 01:30
+by [mathew](/profile/mathew) | May 20, 2014 01:30
 
-May 20, 2014 01:30 | Tags: [community-mapping](../tag/community-mapping), [mapping](../tag/mapping), [blog](../tag/blog), [fracking](../tag/fracking), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [powerpoint](../tag/powerpoint), [parent:frac-sand](../tag/parent:frac-sand), [story:frac-sand](../tag/story:frac-sand)
+May 20, 2014 01:30 | Tags: [community-mapping](/tag/community-mapping), [mapping](/tag/mapping), [blog](/tag/blog), [fracking](/tag/fracking), [silica](/tag/silica), [frac-sand](/tag/frac-sand), [powerpoint](/tag/powerpoint), [parent:frac-sand](/tag/parent:frac-sand), [story:frac-sand](/tag/story:frac-sand)
 
 ----
 

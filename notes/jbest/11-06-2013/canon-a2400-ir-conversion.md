@@ -6,16 +6,14 @@ author: jbest
 path: /notes/jbest/11-06-2013/canon-a2400-ir-conversion.md
 nid: 9740
 uid: 194322
-
 cids: 7453,7455,7456,7457,8630,8641,8645,8660,8682
-
 ---
 
 # Canon A2400 IR conversion
 
-by [jbest](../../../profile/jbest) | November 06, 2013 18:15
+by [jbest](/profile/jbest) | November 06, 2013 18:15
 
-November 06, 2013 18:15 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [conversion](../tag/conversion), [filter](../tag/filter), [infragram](../tag/infragram), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion), [first-time-poster](../tag/first-time-poster)
+November 06, 2013 18:15 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [conversion](/tag/conversion), [filter](/tag/filter), [infragram](/tag/infragram), [activity:infrared-camera-conversion](/tag/activity:infrared-camera-conversion), [first-time-poster](/tag/first-time-poster)
 
 ----
 

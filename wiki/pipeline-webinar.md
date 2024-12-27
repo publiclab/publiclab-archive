@@ -6,14 +6,14 @@ author: warren
 path: /wiki/pipeline-webinar.md
 nid: 19112
 uid: 1
-
+cids: 
 ---
 
 # Pipeline Webinar
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-April 18, 2019 20:31 | Tags: [monitoring](../tag/monitoring), [webinar](../tag/webinar), [oil-and-gas](../tag/oil-and-gas), [pipelines](../tag/pipelines), [pipeline-monitoring](../tag/pipeline-monitoring), [parent:pipeline](../tag/parent:pipeline)
+April 18, 2019 20:31 | Tags: [monitoring](/tag/monitoring), [webinar](/tag/webinar), [oil-and-gas](/tag/oil-and-gas), [pipelines](/tag/pipelines), [pipeline-monitoring](/tag/pipeline-monitoring), [parent:pipeline](/tag/parent:pipeline)
 
 ----
 
@@ -37,5 +37,5 @@ While these videos are specifically catered to the situation in Louisiana, the t
 
 These videos are part one of the webinar series "Civilian Monitoring of Pipelines in Louisiana," hosted by Public Lab. 
 
-[grid:pipeline-monitoring-webinar](../../tag/grid:pipeline-monitoring-webinar)
+[grid:pipeline-monitoring-webinar](/tag/grid:pipeline-monitoring-webinar)
 

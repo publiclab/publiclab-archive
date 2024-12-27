@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/03-19-2014/exchange-of-the-cags-gowanus-newtown.md
 nid: 10202
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/319/original/1-IMG_20140226_193546139.jpg)
 
 # Exchange of the CAGs: Gowanus <--> Newtown
 
-by [liz](../../../profile/liz) | March 19, 2014 13:47
+by [liz](/profile/liz) | March 19, 2014 13:47
 
-March 19, 2014 13:47 | Tags: [new-york-city](../tag/new-york-city), [epa](../tag/epa), [events:new-york-city](../tag/events:new-york-city), [glam](../tag/glam), [cag](../tag/cag)
+March 19, 2014 13:47 | Tags: [new-york-city](/tag/new-york-city), [epa](/tag/epa), [events:new-york-city](/tag/events:new-york-city), [glam](/tag/glam), [cag](/tag/cag)
 
 ----
 

@@ -6,18 +6,16 @@ author: sara
 path: /notes/sara/5-2-2012/materials-copper-pipe-work.md
 nid: 1887
 uid: 8
-
 cids: 725
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Copperpipe cutting materials.jpg)
 
 # Materials for Copper Pipe work
 
-by [sara](../../../profile/sara) | May 02, 2012 14:35
+by [sara](/profile/sara) | May 02, 2012 14:35
 
-May 02, 2012 14:35 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-copper-pipe](../tag/h2s-copper-pipe), [h2s-detection-method](../tag/h2s-detection-method), [h2s-copper-pipe-background](../tag/h2s-copper-pipe-background)
+May 02, 2012 14:35 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [h2s-copper-pipe](/tag/h2s-copper-pipe), [h2s-detection-method](/tag/h2s-detection-method), [h2s-copper-pipe-background](/tag/h2s-copper-pipe-background)
 
 ----
 

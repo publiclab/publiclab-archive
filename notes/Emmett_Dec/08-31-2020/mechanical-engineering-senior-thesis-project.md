@@ -6,18 +6,16 @@ author: Emmett_Dec
 path: /notes/Emmett_Dec/08-31-2020/mechanical-engineering-senior-thesis-project.md
 nid: 24484
 uid: 716411
-
 cids: 27326
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/749/original/Raspberry-Pi-4-8b.jpg)
 
 # Update #1: OSIDC Senior Thesis Project
 
-by [Emmett_Dec](../../../profile/Emmett_Dec) | August 31, 2020 14:59
+by [Emmett_Dec](/profile/Emmett_Dec) | August 31, 2020 14:59
 
-August 31, 2020 14:59 | Tags: [raspberry-pi](../tag/raspberry-pi), [umass-amherst](../tag/umass-amherst), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:42.386759](../tag/lat:42.386759), [lon:-72.530051](../tag/lon:-72.530051)
+August 31, 2020 14:59 | Tags: [raspberry-pi](/tag/raspberry-pi), [umass-amherst](/tag/umass-amherst), [first-time-poster](/tag/first-time-poster), [zoom:6](/tag/zoom:6), [lat:42.386759](/tag/lat:42.386759), [lon:-72.530051](/tag/lon:-72.530051)
 
 ----
 

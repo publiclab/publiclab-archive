@@ -6,14 +6,14 @@ author: warren
 path: /wiki/photo-comment-template.md
 nid: 17408
 uid: 1
-
+cids: 
 ---
 
 # Photo comment template
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-October 26, 2018 22:16 | Tags: [template](../tag/template)
+October 26, 2018 22:16 | Tags: [template](/tag/template)
 
 ----
 

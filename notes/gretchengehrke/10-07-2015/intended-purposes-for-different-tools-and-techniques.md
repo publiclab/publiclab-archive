@@ -6,18 +6,16 @@ author: gretchengehrke
 path: /notes/gretchengehrke/10-07-2015/intended-purposes-for-different-tools-and-techniques.md
 nid: 12275
 uid: 430549
-
 cids: 12667,12668,12669,12677,12682,16566
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/807/original/undefined)
 
 # Intended Purposes for Different Tools and Techniques
 
-by [gretchengehrke](../../../profile/gretchengehrke) | October 07, 2015 13:30
+by [gretchengehrke](/profile/gretchengehrke) | October 07, 2015 13:30
 
-October 07, 2015 13:30 | Tags: [evidence](../tag/evidence), [standards](../tag/standards), [data](../tag/data), [evaluation](../tag/evaluation), [barnstar:basic](../tag/barnstar:basic), [with:shannon](../tag/with:shannon), [with:warren](../tag/with:warren), [with:donblair](../tag/with:donblair), [certification](../tag/certification)
+October 07, 2015 13:30 | Tags: [evidence](/tag/evidence), [standards](/tag/standards), [data](/tag/data), [evaluation](/tag/evaluation), [barnstar:basic](/tag/barnstar:basic), [with:shannon](/tag/with:shannon), [with:warren](/tag/with:warren), [with:donblair](/tag/with:donblair), [certification](/tag/certification)
 
 ----
 

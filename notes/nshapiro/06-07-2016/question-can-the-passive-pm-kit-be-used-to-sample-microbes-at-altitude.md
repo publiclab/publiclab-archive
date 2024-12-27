@@ -6,18 +6,16 @@ author: nshapiro
 path: /notes/nshapiro/06-07-2016/question-can-the-passive-pm-kit-be-used-to-sample-microbes-at-altitude.md
 nid: 13172
 uid: 380298
-
 cids: 14754,14764,14822,14829
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/518/original/hqdefault.jpg)
 
 # Question: Can the passive PM kit be used to sample microbes at altitude? 
 
-by [nshapiro](../../../profile/nshapiro) | June 07, 2016 17:17
+by [nshapiro](/profile/nshapiro) | June 07, 2016 17:17
 
-June 07, 2016 17:17 | Tags: [microbes](../tag/microbes), [balloon](../tag/balloon), [bacteria](../tag/bacteria), [solar](../tag/solar), [wwb](../tag/wwb), [question:passive-pm](../tag/question:passive-pm)
+June 07, 2016 17:17 | Tags: [microbes](/tag/microbes), [balloon](/tag/balloon), [bacteria](/tag/bacteria), [solar](/tag/solar), [wwb](/tag/wwb), [question:passive-pm](/tag/question:passive-pm)
 
 ----
 

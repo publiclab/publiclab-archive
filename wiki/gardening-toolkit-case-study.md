@@ -6,14 +6,14 @@ author: Shannon
 path: /wiki/gardening-toolkit-case-study.md
 nid: 11606
 uid: 9
-
+cids: 
 ---
 
 # Gardening Toolkit Case Study
 
-by [liz](../profile/liz), [Shannon](../profile/Shannon), [warren](../profile/warren)
+by [liz](/profile/liz), [Shannon](/profile/Shannon), [warren](/profile/warren)
 
-February 19, 2015 18:15 | Tags: [aerial-photography](../tag/aerial-photography), [new-jersey](../tag/new-jersey), [infragram](../tag/infragram), [grassrootsmappingforum](../tag/grassrootsmappingforum), [gardening](../tag/gardening), [gardening-toolkit](../tag/gardening-toolkit), [gmf-9](../tag/gmf-9)
+February 19, 2015 18:15 | Tags: [aerial-photography](/tag/aerial-photography), [new-jersey](/tag/new-jersey), [infragram](/tag/infragram), [grassrootsmappingforum](/tag/grassrootsmappingforum), [gardening](/tag/gardening), [gardening-toolkit](/tag/gardening-toolkit), [gmf-9](/tag/gmf-9)
 
 ----
 

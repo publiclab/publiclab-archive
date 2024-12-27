@@ -6,16 +6,14 @@ author: sara
 path: /notes/sara/7-27-2011/wiki-pages-youll-be-needing.md
 nid: 412
 uid: 8
-
 cids: 
-
 ---
 
 # Wiki pages you'll be needing:
 
-by [sara](../../../profile/sara) | July 27, 2011 19:50
+by [sara](/profile/sara) | July 27, 2011 19:50
 
-July 27, 2011 19:50 | Tags: [first-time-poster](../tag/first-time-poster)
+July 27, 2011 19:50 | Tags: [first-time-poster](/tag/first-time-poster)
 
 ----
 

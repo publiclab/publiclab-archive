@@ -6,18 +6,16 @@ author: abdul
 path: /notes/abdul/10-19-2016/foldable-paper-spectrometer-instructions.md
 nid: 13577
 uid: 479194
-
 cids: 16003,17560
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/428/original/Foldable_Main.jpg)
 
 # Assemble a DIY Papercraft Spectrometer
 
-by [abdul](../../../profile/abdul) | October 19, 2016 00:22
+by [abdul](/profile/abdul) | October 19, 2016 00:22
 
-October 19, 2016 00:22 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [assembly](../tag/assembly), [kit](../tag/kit), [instructions](../tag/instructions), [smartphone](../tag/smartphone), [foldable](../tag/foldable), [papercraft](../tag/papercraft), [with:warren](../tag/with:warren), [spectral](../tag/spectral), [smart](../tag/smart), [beginner](../tag/beginner), [activity:spectrometry](../tag/activity:spectrometry), [activity:foldable-spec](../tag/activity:foldable-spec), [category:build](../tag/category:build), [status:complete](../tag/status:complete), [difficulty:introductory](../tag/difficulty:introductory), [time:10min](../tag/time:10min), [starter](../tag/starter), [starterkit](../tag/starterkit), [phone](../tag/phone), [printable](../tag/printable)
+October 19, 2016 00:22 | Tags: [spectrometer](/tag/spectrometer), [spectralworkbench](/tag/spectralworkbench), [assembly](/tag/assembly), [kit](/tag/kit), [instructions](/tag/instructions), [smartphone](/tag/smartphone), [foldable](/tag/foldable), [papercraft](/tag/papercraft), [with:warren](/tag/with:warren), [spectral](/tag/spectral), [smart](/tag/smart), [beginner](/tag/beginner), [activity:spectrometry](/tag/activity:spectrometry), [activity:foldable-spec](/tag/activity:foldable-spec), [category:build](/tag/category:build), [status:complete](/tag/status:complete), [difficulty:introductory](/tag/difficulty:introductory), [time:10min](/tag/time:10min), [starter](/tag/starter), [starterkit](/tag/starterkit), [phone](/tag/phone), [printable](/tag/printable)
 
 ----
 

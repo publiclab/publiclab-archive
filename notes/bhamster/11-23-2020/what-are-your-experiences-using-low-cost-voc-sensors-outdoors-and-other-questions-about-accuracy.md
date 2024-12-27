@@ -6,16 +6,14 @@ author: bhamster
 path: /notes/bhamster/11-23-2020/what-are-your-experiences-using-low-cost-voc-sensors-outdoors-and-other-questions-about-accuracy.md
 nid: 25098
 uid: 664477
-
 cids: 27724,27737,27741,27768,27783
-
 ---
 
 # What are your experiences using low-cost VOC sensors outdoors? And other questions about accuracy.
 
-by [bhamster](../../../profile/bhamster) | November 23, 2020 22:06
+by [bhamster](/profile/bhamster) | November 23, 2020 22:06
 
-November 23, 2020 22:06 | Tags: [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [voc](../tag/voc), [vocs](../tag/vocs), [question:general](../tag/question:general), [general](../tag/general), [question:air-sensors](../tag/question:air-sensors), [air-sensors](../tag/air-sensors), [question:vocs](../tag/question:vocs)
+November 23, 2020 22:06 | Tags: [air-quality](/tag/air-quality), [question:air-quality](/tag/question:air-quality), [voc](/tag/voc), [vocs](/tag/vocs), [question:general](/tag/question:general), [general](/tag/general), [question:air-sensors](/tag/question:air-sensors), [air-sensors](/tag/air-sensors), [question:vocs](/tag/question:vocs)
 
 ----
 

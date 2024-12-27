@@ -6,18 +6,16 @@ author: bkleist
 path: /notes/bkleist/08-30-2016/silica-frac-sand-research.md
 nid: 13406
 uid: 489504
-
 cids: 15288,15294,15323,15599,16072
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/861/original/IMAG1814.JPG)
 
 # Silica (frac) Sand Research
 
-by [bkleist](../../../profile/bkleist) | August 30, 2016 17:20
+by [bkleist](/profile/bkleist) | August 30, 2016 17:20
 
-August 30, 2016 17:20 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [timelapse](../tag/timelapse), [transportation](../tag/transportation), [fracking](../tag/fracking), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [particle-monitoring](../tag/particle-monitoring), [traffic](../tag/traffic), [fracsand](../tag/fracsand), [parent:frac-sand](../tag/parent:frac-sand), [trapcam](../tag/trapcam), [first-time-poster](../tag/first-time-poster)
+August 30, 2016 17:20 | Tags: [wisconsin](/tag/wisconsin), [air-quality](/tag/air-quality), [timelapse](/tag/timelapse), [transportation](/tag/transportation), [fracking](/tag/fracking), [silica](/tag/silica), [frac-sand](/tag/frac-sand), [particle-monitoring](/tag/particle-monitoring), [traffic](/tag/traffic), [fracsand](/tag/fracsand), [parent:frac-sand](/tag/parent:frac-sand), [trapcam](/tag/trapcam), [first-time-poster](/tag/first-time-poster)
 
 ----
 

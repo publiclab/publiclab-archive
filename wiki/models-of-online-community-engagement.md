@@ -6,16 +6,16 @@ author: stevie
 path: /wiki/models-of-online-community-engagement.md
 nid: 10487
 uid: 422561
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/328/original/Hats.jpeg)
 
 # Models of Online Community Engagement 
 
-by [stevie](../profile/stevie)
+by [stevie](/profile/stevie)
 
-May 20, 2014 15:43 | Tags: [community](../tag/community)
+May 20, 2014 15:43 | Tags: [community](/tag/community)
 
 ----
 

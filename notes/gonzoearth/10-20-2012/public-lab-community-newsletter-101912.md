@@ -6,16 +6,14 @@ author: gonzoearth
 path: /notes/gonzoearth/10-20-2012/public-lab-community-newsletter-101912.md
 nid: 4536
 uid: 12
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen Shot 2012-10-19 at 11.35.19 PM.png)
 
 # Public Lab Community Newsletter 10.19.12
 
-by [gonzoearth](../../../profile/gonzoearth) | October 20, 2012 06:48
+by [gonzoearth](/profile/gonzoearth) | October 20, 2012 06:48
 
 October 20, 2012 06:48 | Tags: 
 

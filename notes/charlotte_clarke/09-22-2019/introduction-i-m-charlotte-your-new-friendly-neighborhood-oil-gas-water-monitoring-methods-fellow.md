@@ -6,16 +6,14 @@ author: charlotte_clarke
 path: /notes/charlotte_clarke/09-22-2019/introduction-i-m-charlotte-your-new-friendly-neighborhood-oil-gas-water-monitoring-methods-fellow.md
 nid: 20961
 uid: 510781
-
 cids: 25568
-
 ---
 
 # Introduction: I'm Charlotte, your new friendly neighborhood oil & gas water monitoring methods fellow!
 
-by [charlotte_clarke](../../../profile/charlotte_clarke) | September 22, 2019 19:39
+by [charlotte_clarke](/profile/charlotte_clarke) | September 22, 2019 19:39
 
-September 22, 2019 19:39 | Tags: [water-quality](../tag/water-quality), [fellowship](../tag/fellowship), [oil-and-gas](../tag/oil-and-gas), [first-time-poster](../tag/first-time-poster), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
+September 22, 2019 19:39 | Tags: [water-quality](/tag/water-quality), [fellowship](/tag/fellowship), [oil-and-gas](/tag/oil-and-gas), [first-time-poster](/tag/first-time-poster), [oil-and-gas-water-trio](/tag/oil-and-gas-water-trio)
 
 ----
 

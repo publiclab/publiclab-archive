@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/01-12-2018/an-amazing-week-of-software-contributing-at-public-lab.md
 nid: 15518
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/176/original/Screen_Shot_2018-01-12_at_5.09.14_PM.png)
 
 # An amazing week of software contributing at Public Lab
 
-by [warren](../../../profile/warren) | January 12, 2018 22:20
+by [warren](/profile/warren) | January 12, 2018 22:20
 
-January 12, 2018 22:20 | Tags: [software](../tag/software), [developers](../tag/developers), [code](../tag/code), [first-timers-only](../tag/first-timers-only), [contributors](../tag/contributors), [software-outreach](../tag/software-outreach)
+January 12, 2018 22:20 | Tags: [software](/tag/software), [developers](/tag/developers), [code](/tag/code), [first-timers-only](/tag/first-timers-only), [contributors](/tag/contributors), [software-outreach](/tag/software-outreach)
 
 ----
 

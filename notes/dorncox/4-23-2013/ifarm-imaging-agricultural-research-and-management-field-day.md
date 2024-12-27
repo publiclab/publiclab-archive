@@ -6,18 +6,16 @@ author: dorncox
 path: /notes/dorncox/4-23-2013/ifarm-imaging-agricultural-research-and-management-field-day.md
 nid: 7013
 uid: 1205
-
 cids: 4629,4738
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/115/original/Launching_the_rig.jpg)
 
 #  iFarm (Imaging For Agricultural Research and Management) field day
 
-by [dorncox](../../../profile/dorncox) | April 24, 2013 02:04
+by [dorncox](/profile/dorncox) | April 24, 2013 02:04
 
-April 24, 2013 02:04 | Tags: [vermont](../tag/vermont), [boston](../tag/boston), [new-hampshire](../tag/new-hampshire), [farmhack](../tag/farmhack), [event](../tag/event), [greenstart](../tag/greenstart), [ifarm](../tag/ifarm), [northeast](../tag/northeast), [first-time-poster](../tag/first-time-poster)
+April 24, 2013 02:04 | Tags: [vermont](/tag/vermont), [boston](/tag/boston), [new-hampshire](/tag/new-hampshire), [farmhack](/tag/farmhack), [event](/tag/event), [greenstart](/tag/greenstart), [ifarm](/tag/ifarm), [northeast](/tag/northeast), [first-time-poster](/tag/first-time-poster)
 
 ----
 

@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/07-23-2018/setting-up-barnraising-registration.md
 nid: 16774
 uid: 422561
-
 cids: 20213
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/857/original/Screen_Shot_2018-07-23_at_3.38.52_PM.png)
 
 # Setting up Barnraising registration 
 
-by [stevie](../../../profile/stevie) | July 23, 2018 19:39
+by [stevie](/profile/stevie) | July 23, 2018 19:39
 
-July 23, 2018 19:39 | Tags: [events](../tag/events), [registration](../tag/registration), [with:liz](../tag/with:liz), [seeks:replications](../tag/seeks:replications), [preparations-logistics](../tag/preparations-logistics), [activity:preparations-logistics](../tag/activity:preparations-logistics), [barnraising-registration](../tag/barnraising-registration), [logistics](../tag/logistics)
+July 23, 2018 19:39 | Tags: [events](/tag/events), [registration](/tag/registration), [with:liz](/tag/with:liz), [seeks:replications](/tag/seeks:replications), [preparations-logistics](/tag/preparations-logistics), [activity:preparations-logistics](/tag/activity:preparations-logistics), [barnraising-registration](/tag/barnraising-registration), [logistics](/tag/logistics)
 
 ----
 

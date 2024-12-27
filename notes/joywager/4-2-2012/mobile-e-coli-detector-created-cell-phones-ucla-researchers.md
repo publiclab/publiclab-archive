@@ -6,16 +6,14 @@ author: joywager
 path: /notes/joywager/4-2-2012/mobile-e-coli-detector-created-cell-phones-ucla-researchers.md
 nid: 1596
 uid: 774
-
 cids: 690
-
 ---
 
 #  Mobile E coli detector created for cell phones by UCLA researchers
 
-by [joywager](../../../profile/joywager) | April 02, 2012 07:59
+by [joywager](/profile/joywager) | April 02, 2012 07:59
 
-April 02, 2012 07:59 | Tags: [e-coli](../tag/e-coli), [e-coli-detector](../tag/e-coli-detector), [mobile-phone-camera](../tag/mobile-phone-camera), [ucla](../tag/ucla)
+April 02, 2012 07:59 | Tags: [e-coli](/tag/e-coli), [e-coli-detector](/tag/e-coli-detector), [mobile-phone-camera](/tag/mobile-phone-camera), [ucla](/tag/ucla)
 
 ----
 

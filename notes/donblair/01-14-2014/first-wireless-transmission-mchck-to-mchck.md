@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/01-14-2014/first-wireless-transmission-mchck-to-mchck.md
 nid: 9940
 uid: 43651
-
 cids: 8037,8038,8039,8042
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/530/original/wireless1.png)
 
 # First wireless transmission, mchck to mchck!
 
-by [donblair](../../../profile/donblair) | January 14, 2014 04:40
+by [donblair](/profile/donblair) | January 14, 2014 04:40
 
-January 14, 2014 04:40 | Tags: [temperature](../tag/temperature), [wireless](../tag/wireless), [pvos](../tag/pvos), [water-quality](../tag/water-quality), [water-monitoring](../tag/water-monitoring), [water-quality-sensor](../tag/water-quality-sensor), [ioby](../tag/ioby), [mystic-river](../tag/mystic-river), [mchck](../tag/mchck)
+January 14, 2014 04:40 | Tags: [temperature](/tag/temperature), [wireless](/tag/wireless), [pvos](/tag/pvos), [water-quality](/tag/water-quality), [water-monitoring](/tag/water-monitoring), [water-quality-sensor](/tag/water-quality-sensor), [ioby](/tag/ioby), [mystic-river](/tag/mystic-river), [mchck](/tag/mchck)
 
 ----
 

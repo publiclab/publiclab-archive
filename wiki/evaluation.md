@@ -6,16 +6,16 @@ author: warren
 path: /wiki/evaluation.md
 nid: 85
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/879/original/plots_tag_graph_256_filtered_copy_crop.png)
 
 # Evaluation
 
-by [liz](../profile/liz), [warren](../profile/warren)
+by [liz](/profile/liz), [warren](/profile/warren)
 
-February 15, 2011 21:47 | Tags: [community-metrics](../tag/community-metrics), [evaluation](../tag/evaluation), [outcomes](../tag/outcomes)
+February 15, 2011 21:47 | Tags: [community-metrics](/tag/community-metrics), [evaluation](/tag/evaluation), [outcomes](/tag/outcomes)
 
 ----
 
@@ -63,7 +63,7 @@ Formerly, a one-size-fits-all [Annual Community Survey](/notes/liz/06-13-2017/yo
 
 **A series of stakeholder interviews was done in 2017! You can read them here:**
 
-[series:community-interviews](../../tag/series:community-interviews)
+[series:community-interviews](/tag/series:community-interviews)
 
 ****
 
@@ -98,13 +98,13 @@ Formerly, a one-size-fits-all [Annual Community Survey](/notes/liz/06-13-2017/yo
 
 ## Questions
 
-[evaluation](../../tag/question:evaluation)
+[evaluation](/tag/question:evaluation)
 
 ****
 
 ## Related work
 
-[evaluation](../../tag/evaluation)
+[evaluation](/tag/evaluation)
 
 ****
 

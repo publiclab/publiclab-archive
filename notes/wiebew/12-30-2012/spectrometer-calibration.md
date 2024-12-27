@@ -6,16 +6,14 @@ author: wiebew
 path: /notes/wiebew/12-30-2012/spectrometer-calibration.md
 nid: 5381
 uid: 44887
-
 cids: 2861,4163
-
 ---
 
 # Spectrometer calibration
 
-by [wiebew](../../../profile/wiebew) | December 30, 2012 20:39
+by [wiebew](/profile/wiebew) | December 30, 2012 20:39
 
-December 30, 2012 20:39 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [spectrometer-calibration](../tag/spectrometer-calibration), [intensity-calibration](../tag/intensity-calibration), [wavelength](../tag/wavelength)
+December 30, 2012 20:39 | Tags: [spectrometer](/tag/spectrometer), [calibration](/tag/calibration), [spectrometer-calibration](/tag/spectrometer-calibration), [intensity-calibration](/tag/intensity-calibration), [wavelength](/tag/wavelength)
 
 ----
 

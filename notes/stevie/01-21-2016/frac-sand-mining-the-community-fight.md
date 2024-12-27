@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/01-21-2016/frac-sand-mining-the-community-fight.md
 nid: 12597
 uid: 422561
-
 cids: 13368,16160
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/741/original/IMG_7729.JPG)
 
 # Frac Sand Mining: The community fight 
 
-by [stevie](../../../profile/stevie) | January 21, 2016 17:52
+by [stevie](/profile/stevie) | January 21, 2016 17:52
 
-January 21, 2016 17:52 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [blog](../tag/blog), [frac-sand](../tag/frac-sand), [barnstar:basic](../tag/barnstar:basic), [stories](../tag/stories), [fracsand](../tag/fracsand), [parent:frac-sand](../tag/parent:frac-sand), [story](../tag/story), [with:pat](../tag/with:pat), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program), [reclamation](../tag/reclamation)
+January 21, 2016 17:52 | Tags: [wisconsin](/tag/wisconsin), [air-quality](/tag/air-quality), [blog](/tag/blog), [frac-sand](/tag/frac-sand), [barnstar:basic](/tag/barnstar:basic), [stories](/tag/stories), [fracsand](/tag/fracsand), [parent:frac-sand](/tag/parent:frac-sand), [story](/tag/story), [with:pat](/tag/with:pat), [parent:the-sand-sentinel-program](/tag/parent:the-sand-sentinel-program), [reclamation](/tag/reclamation)
 
 ----
 

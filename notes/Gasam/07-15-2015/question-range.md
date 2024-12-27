@@ -6,16 +6,14 @@ author: Gasam
 path: /notes/Gasam/07-15-2015/question-range.md
 nid: 12068
 uid: 444988
-
 cids: 12194
-
 ---
 
 # Question: Range
 
-by [Gasam](../../../profile/Gasam) | July 15, 2015 07:23
+by [Gasam](/profile/Gasam) | July 15, 2015 07:23
 
-July 15, 2015 07:23 | Tags: [question:spectrometry](../tag/question:spectrometry)
+July 15, 2015 07:23 | Tags: [question:spectrometry](/tag/question:spectrometry)
 
 ----
 

@@ -6,16 +6,14 @@ author: liz
 path: /notes/liz/11-12-2019/anyone-had-experience-with-the-ptrak-8525-for-ultrafine-particles.md
 nid: 21464
 uid: 7
-
 cids: 
-
 ---
 
 # Anyone had experience with the PTrak 8525 for ultrafine particles? 
 
-by [liz](../../../profile/liz) | November 12, 2019 14:44
+by [liz](/profile/liz) | November 12, 2019 14:44
 
-November 12, 2019 14:44 | Tags: [indoor-air](../tag/indoor-air), [question:general](../tag/question:general), [general](../tag/general), [question:indoor-air](../tag/question:indoor-air)
+November 12, 2019 14:44 | Tags: [indoor-air](/tag/indoor-air), [question:general](/tag/question:general), [general](/tag/general), [question:indoor-air](/tag/question:indoor-air)
 
 ----
 

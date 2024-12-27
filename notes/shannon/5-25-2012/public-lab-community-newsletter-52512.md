@@ -6,16 +6,14 @@ author: Shannon
 path: /notes/shannon/5-25-2012/public-lab-community-newsletter-52512.md
 nid: 2203
 uid: 9
-
 cids: 
-
 ---
 
 # Public Lab community newsletter 5.25.12
 
-by [Shannon](../../../profile/Shannon) | May 25, 2012 17:41
+by [Shannon](/profile/Shannon) | May 25, 2012 17:41
 
-May 25, 2012 17:41 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+May 25, 2012 17:41 | Tags: [newsletter](/tag/newsletter), [newsletter-archive](/tag/newsletter-archive)
 
 ----
 

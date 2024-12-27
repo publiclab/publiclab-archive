@@ -6,12 +6,12 @@ author: warren
 path: /wiki/barnraising-travel.md
 nid: 479
 uid: 1
-
+cids: 
 ---
 
 # Barnraising Travel
 
-by [Shannon](../profile/Shannon), [liz](../profile/liz), [adam-griffith](../profile/adam-griffith), [warren](../profile/warren)
+by [Shannon](/profile/Shannon), [liz](/profile/liz), [adam-griffith](/profile/adam-griffith), [warren](/profile/warren)
 
 September 26, 2011 15:34 | Tags: 
 

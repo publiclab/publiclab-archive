@@ -6,16 +6,14 @@ author: read_holman
 path: /notes/read_holman/04-11-2019/how-to-test-for-lead-in-your-environment.md
 nid: 18978
 uid: 540243
-
 cids: 23919,23937,25587
-
 ---
 
 # How to Test For Lead in your Environment
 
-by [read_holman](../../../profile/read_holman) | April 06, 2019 18:09
+by [read_holman](/profile/read_holman) | April 06, 2019 18:09
 
-April 06, 2019 18:09 | Tags: [heavy-metals](../tag/heavy-metals), [soil](../tag/soil), [testing](../tag/testing), [lead](../tag/lead), [colorimetry](../tag/colorimetry), [lead-testing](../tag/lead-testing), [mine-soil-health](../tag/mine-soil-health)
+April 06, 2019 18:09 | Tags: [heavy-metals](/tag/heavy-metals), [soil](/tag/soil), [testing](/tag/testing), [lead](/tag/lead), [colorimetry](/tag/colorimetry), [lead-testing](/tag/lead-testing), [mine-soil-health](/tag/mine-soil-health)
 
 ----
 

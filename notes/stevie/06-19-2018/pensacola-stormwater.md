@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/06-19-2018/pensacola-stormwater.md
 nid: 16532
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/244/original/20180611_114136.jpg)
 
 # Pensacola Stormwater 
 
-by [stevie](../../../profile/stevie) | June 19, 2018 19:08
+by [stevie](/profile/stevie) | June 19, 2018 19:08
 
-June 19, 2018 19:08 | Tags: [superfund](../tag/superfund), [stormwater](../tag/stormwater), [flooding](../tag/flooding), [npdes](../tag/npdes), [permits](../tag/permits), [nas](../tag/nas), [issue-brief](../tag/issue-brief), [pensacola-stormwater](../tag/pensacola-stormwater), [pensacola](../tag/pensacola), [naacp](../tag/naacp)
+June 19, 2018 19:08 | Tags: [superfund](/tag/superfund), [stormwater](/tag/stormwater), [flooding](/tag/flooding), [npdes](/tag/npdes), [permits](/tag/permits), [nas](/tag/nas), [issue-brief](/tag/issue-brief), [pensacola-stormwater](/tag/pensacola-stormwater), [pensacola](/tag/pensacola), [naacp](/tag/naacp)
 
 ----
 
@@ -51,4 +49,4 @@ The city/county deals with the stormwater, but ECUA deals with sewer, things end
 
 ### What are the initial questions?
 
-[pensacola-stormwater](../../tag/question:pensacola-stormwater)
+[pensacola-stormwater](/tag/question:pensacola-stormwater)

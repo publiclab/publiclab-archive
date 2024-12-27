@@ -6,16 +6,16 @@ author: aferland
 path: /wiki/balloon-mapping-of-local-invasive-species-and-town-mapping.md
 nid: 11184
 uid: 428191
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/603/original/photo_4.JPG)
 
 # Balloon mapping of local invasive species and town mapping 
 
-by [abdul](../profile/abdul), [aferland](../profile/aferland)
+by [abdul](/profile/abdul), [aferland](/profile/aferland)
 
-September 24, 2014 21:32 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [kite](../tag/kite), [amherst](../tag/amherst), [mapping](../tag/mapping), [balloon-mapping-kit](../tag/balloon-mapping-kit), [massachusetts](../tag/massachusetts), [umass-amherst](../tag/umass-amherst), [helium](../tag/helium), [invasives](../tag/invasives), [invasive-species](../tag/invasive-species), [amherst-media](../tag/amherst-media), [publiclab-at-amherst-media](../tag/publiclab-at-amherst-media), [makers-and-amherst-media](../tag/makers-and-amherst-media), [mtholyoke](../tag/mtholyoke), [amherstcollege](../tag/amherstcollege), [helium-balloon](../tag/helium-balloon), [city-planning](../tag/city-planning), [westfield](../tag/westfield), [makers-massachusetts](../tag/makers-massachusetts)
+September 24, 2014 21:32 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [kite-aerial-photography](/tag/kite-aerial-photography), [kite](/tag/kite), [amherst](/tag/amherst), [mapping](/tag/mapping), [balloon-mapping-kit](/tag/balloon-mapping-kit), [massachusetts](/tag/massachusetts), [umass-amherst](/tag/umass-amherst), [helium](/tag/helium), [invasives](/tag/invasives), [invasive-species](/tag/invasive-species), [amherst-media](/tag/amherst-media), [publiclab-at-amherst-media](/tag/publiclab-at-amherst-media), [makers-and-amherst-media](/tag/makers-and-amherst-media), [mtholyoke](/tag/mtholyoke), [amherstcollege](/tag/amherstcollege), [helium-balloon](/tag/helium-balloon), [city-planning](/tag/city-planning), [westfield](/tag/westfield), [makers-massachusetts](/tag/makers-massachusetts)
 
 ----
 

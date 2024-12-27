@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/09-20-2016/building-the-stoft-stability-upgrade-for-desktop-spectrometry-starter-kit-3-0.md
 nid: 13463
 uid: 1
-
 cids: 15441
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/083/original/build-spec.jpg)
 
 # Building the @stoft stability upgrade for Desktop Spectrometry Starter Kit 3.0
 
-by [warren](../../../profile/warren) | September 20, 2016 01:59
+by [warren](/profile/warren) | September 20, 2016 01:59
 
-September 20, 2016 01:59 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [replication](../tag/replication), [leaffest-2016](../tag/leaffest-2016), [build:13455](../tag/build:13455), [dssk](../tag/dssk)
+September 20, 2016 01:59 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [replication](/tag/replication), [leaffest-2016](/tag/leaffest-2016), [build:13455](/tag/build:13455), [dssk](/tag/dssk)
 
 ----
 

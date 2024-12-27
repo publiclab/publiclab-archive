@@ -6,16 +6,14 @@ author: mathew
 path: /notes/mathew/11-15-2012/barnraising-liz-barry-talks-gowanus-canal.md
 nid: 4925
 uid: 4
-
 cids: 
-
 ---
 
 # Barnraising: Liz Barry talks Gowanus Canal
 
-by [mathew](../../../profile/mathew) | November 16, 2012 03:19
+by [mathew](/profile/mathew) | November 16, 2012 03:19
 
-November 16, 2012 03:19 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [barnraising](../tag/barnraising), [barnraising2012](../tag/barnraising2012), [epa](../tag/epa)
+November 16, 2012 03:19 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [barnraising](/tag/barnraising), [barnraising2012](/tag/barnraising2012), [epa](/tag/epa)
 
 ----
 

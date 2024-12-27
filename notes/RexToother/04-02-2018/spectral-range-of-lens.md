@@ -6,16 +6,14 @@ author: RexToother
 path: /notes/RexToother/04-02-2018/spectral-range-of-lens.md
 nid: 16051
 uid: 529435
-
 cids: 19290,19291,23055
-
 ---
 
 # Spectral Range of Lens? 
 
-by [RexToother](../../../profile/RexToother) | April 02, 2018 15:02
+by [RexToother](/profile/RexToother) | April 02, 2018 15:02
 
-April 02, 2018 15:02 | Tags: [nir](../tag/nir), [infrared](../tag/infrared), [lens](../tag/lens), [question:near-infrared-camera](../tag/question:near-infrared-camera), [answered](../tag/answered), [question:infrared](../tag/question:infrared), [question:multispectral-imaging](../tag/question:multispectral-imaging), [question:nir](../tag/question:nir), [multispectral-imaging](../tag/multispectral-imaging)
+April 02, 2018 15:02 | Tags: [nir](/tag/nir), [infrared](/tag/infrared), [lens](/tag/lens), [question:near-infrared-camera](/tag/question:near-infrared-camera), [answered](/tag/answered), [question:infrared](/tag/question:infrared), [question:multispectral-imaging](/tag/question:multispectral-imaging), [question:nir](/tag/question:nir), [multispectral-imaging](/tag/multispectral-imaging)
 
 ----
 

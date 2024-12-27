@@ -6,14 +6,14 @@ author: liz
 path: /wiki/bronx.md
 nid: 12216
 uid: 7
-
+cids: 
 ---
 
 # bronx
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-September 15, 2015 12:53 | Tags: [new-york-city](../tag/new-york-city), [bronx](../tag/bronx), [parent:new-york-city](../tag/parent:new-york-city)
+September 15, 2015 12:53 | Tags: [new-york-city](/tag/new-york-city), [bronx](/tag/bronx), [parent:new-york-city](/tag/parent:new-york-city)
 
 ----
 

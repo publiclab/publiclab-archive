@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/04-07-2014/open-lux.md
 nid: 10274
 uid: 43651
-
 cids: 8693,8698
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/535/original/open-lux-design.png)
 
 # Open-Lux
 
-by [donblair](../../../profile/donblair) | April 07, 2014 17:53
+by [donblair](/profile/donblair) | April 07, 2014 17:53
 
-April 07, 2014 17:53 | Tags: [thermal-photography](../tag/thermal-photography), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [thermal-flashlight](../tag/thermal-flashlight), [thermal-imaging](../tag/thermal-imaging), [thermal-technology](../tag/thermal-technology), [infragram](../tag/infragram), [mercury](../tag/mercury), [test-strips](../tag/test-strips)
+April 07, 2014 17:53 | Tags: [thermal-photography](/tag/thermal-photography), [ndvi](/tag/ndvi), [infrared](/tag/infrared), [thermal-flashlight](/tag/thermal-flashlight), [thermal-imaging](/tag/thermal-imaging), [thermal-technology](/tag/thermal-technology), [infragram](/tag/infragram), [mercury](/tag/mercury), [test-strips](/tag/test-strips)
 
 ----
 

@@ -6,18 +6,16 @@ author: gilbert
 path: /notes/gilbert/10-13-2017/hurricane-harvey-industrial-impact-image-sorting.md
 nid: 15047
 uid: 508551
-
 cids: 17521,17524,17536,17547
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/934/original/1012172009b.jpg)
 
 # Hurricane Harvey Industrial Impact Image Sorting
 
-by [gilbert](../../../profile/gilbert) | October 13, 2017 15:15
+by [gilbert](/profile/gilbert) | October 13, 2017 15:15
 
-October 13, 2017 15:15 | Tags: [gulf-coast](../tag/gulf-coast), [image-sorting](../tag/image-sorting), [hurricane](../tag/hurricane), [nas](../tag/nas), [disaster-response](../tag/disaster-response), [harvey](../tag/harvey), [hurricanes](../tag/hurricanes), [replication:14916](../tag/replication:14916)
+October 13, 2017 15:15 | Tags: [gulf-coast](/tag/gulf-coast), [image-sorting](/tag/image-sorting), [hurricane](/tag/hurricane), [nas](/tag/nas), [disaster-response](/tag/disaster-response), [harvey](/tag/harvey), [hurricanes](/tag/hurricanes), [replication:14916](/tag/replication:14916)
 
 ----
 

@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/05-03-2014/how-do-we-measure-particulate-stuff-in-the-air.md
 nid: 10406
 uid: 43651
-
 cids: 8950,8951,8952,8953,8954,8955,8956,8959,8965,8969
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/021/original/figD1.png)
 
 # How do we measure particulate stuff in the air?
 
-by [donblair](../../../profile/donblair) | May 03, 2014 12:53
+by [donblair](/profile/donblair) | May 03, 2014 12:53
 
-May 03, 2014 12:53 | Tags: [particulate-sensing](../tag/particulate-sensing), [dust](../tag/dust), [particulate](../tag/particulate), [pm](../tag/pm), [optical-pm](../tag/optical-pm), [wind-sensor](../tag/wind-sensor), [as220-wind-sensors](../tag/as220-wind-sensors)
+May 03, 2014 12:53 | Tags: [particulate-sensing](/tag/particulate-sensing), [dust](/tag/dust), [particulate](/tag/particulate), [pm](/tag/pm), [optical-pm](/tag/optical-pm), [wind-sensor](/tag/wind-sensor), [as220-wind-sensors](/tag/as220-wind-sensors)
 
 ----
 

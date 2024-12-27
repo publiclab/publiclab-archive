@@ -6,18 +6,16 @@ author: partsandcrafts
 path: /notes/partsandcrafts/11-26-2017/building-a-raspberry-pi-microscope.md
 nid: 15241
 uid: 66014
-
 cids: 17791,17794,17873,19670,19685,19687,19774,19780,19783,19785,19786,19861,19877,31384
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/576/original/IMG_20171125_221612.jpg)
 
 # Overview: Hackteria Remix: Building a Basic Microscope with Raspberry Pi
 
-by [partsandcrafts](../../../profile/partsandcrafts) | November 26, 2017 22:16
+by [partsandcrafts](/profile/partsandcrafts) | November 26, 2017 22:16
 
-November 26, 2017 22:16 | Tags: [raspberry-pi](../tag/raspberry-pi), [dust](../tag/dust), [pm](../tag/pm), [barnstar:basic](../tag/barnstar:basic), [hackteria](../tag/hackteria), [with:kgradow1](../tag/with:kgradow1), [with:warren](../tag/with:warren), [microscope](../tag/microscope), [passive-particle-monitors](../tag/passive-particle-monitors), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes), [with:wmacfarl](../tag/with:wmacfarl), [with:bmela](../tag/with:bmela), [activity:basic-microscope](../tag/activity:basic-microscope), [series:basic-microscope](../tag/series:basic-microscope)
+November 26, 2017 22:16 | Tags: [raspberry-pi](/tag/raspberry-pi), [dust](/tag/dust), [pm](/tag/pm), [barnstar:basic](/tag/barnstar:basic), [hackteria](/tag/hackteria), [with:kgradow1](/tag/with:kgradow1), [with:warren](/tag/with:warren), [microscope](/tag/microscope), [passive-particle-monitors](/tag/passive-particle-monitors), [microscopes](/tag/microscopes), [activity:microscopes](/tag/activity:microscopes), [with:wmacfarl](/tag/with:wmacfarl), [with:bmela](/tag/with:bmela), [activity:basic-microscope](/tag/activity:basic-microscope), [series:basic-microscope](/tag/series:basic-microscope)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/6-20-2012/keeping-it-easy-making-it-awesome-open-source-documentation.md
 nid: 2588
 uid: 1
-
 cids: 926
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0130.JPG)
 
 # Keeping it easy, making it awesome: open source documentation
 
-by [warren](../../../profile/warren) | June 20, 2012 19:34
+by [warren](/profile/warren) | June 20, 2012 19:34
 
-June 20, 2012 19:34 | Tags: [open-source](../tag/open-source), [documentation](../tag/documentation), [guides](../tag/guides)
+June 20, 2012 19:34 | Tags: [open-source](/tag/open-source), [documentation](/tag/documentation), [guides](/tag/guides)
 
 ----
 

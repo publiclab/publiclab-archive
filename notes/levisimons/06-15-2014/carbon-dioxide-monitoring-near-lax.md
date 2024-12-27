@@ -6,18 +6,16 @@ author: levisimons
 path: /notes/levisimons/06-15-2014/carbon-dioxide-monitoring-near-lax.md
 nid: 10573
 uid: 1087
-
 cids: 9259
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/741/original/MapAverage.png)
 
 # Carbon dioxide monitoring near LAX
 
-by [levisimons](../../../profile/levisimons) | June 15, 2014 20:13
+by [levisimons](/profile/levisimons) | June 15, 2014 20:13
 
-June 15, 2014 20:13 | Tags: [air-quality](../tag/air-quality), [los-angeles](../tag/los-angeles)
+June 15, 2014 20:13 | Tags: [air-quality](/tag/air-quality), [los-angeles](/tag/los-angeles)
 
 ----
 

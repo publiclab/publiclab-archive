@@ -6,18 +6,16 @@ author: joyofsoy
 path: /notes/joyofsoy/11-09-2018/the-importance-of-community-based-responders.md
 nid: 17502
 uid: 540844
-
 cids: 21195
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/576/original/OI000012.jpg)
 
 # The Importance of Community-based Responders
 
-by [joyofsoy](../../../profile/joyofsoy) | November 09, 2018 20:18
+by [joyofsoy](/profile/joyofsoy) | November 09, 2018 20:18
 
-November 09, 2018 20:18 | Tags: [disaster-preparedness](../tag/disaster-preparedness), [hurricane](../tag/hurricane), [climate-change](../tag/climate-change), [with:liz](../tag/with:liz), [puerto-rico](../tag/puerto-rico), [disaster-response](../tag/disaster-response), [disaster-resilience](../tag/disaster-resilience), [disaster-recovery](../tag/disaster-recovery), [hurricane-preparedness](../tag/hurricane-preparedness), [crisis-convening](../tag/crisis-convening), [series:crisis-convening](../tag/series:crisis-convening), [hurricane-maria](../tag/hurricane-maria)
+November 09, 2018 20:18 | Tags: [disaster-preparedness](/tag/disaster-preparedness), [hurricane](/tag/hurricane), [climate-change](/tag/climate-change), [with:liz](/tag/with:liz), [puerto-rico](/tag/puerto-rico), [disaster-response](/tag/disaster-response), [disaster-resilience](/tag/disaster-resilience), [disaster-recovery](/tag/disaster-recovery), [hurricane-preparedness](/tag/hurricane-preparedness), [crisis-convening](/tag/crisis-convening), [series:crisis-convening](/tag/series:crisis-convening), [hurricane-maria](/tag/hurricane-maria)
 
 ----
 

@@ -6,18 +6,16 @@ author: eustatic
 path: /11-11-2013/restore-the-earth-foundation-planting-south-pass-crevasse-with-willow-and-cypress.md
 nid: 9765
 uid: 379
-
 cids: 8012,8013
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/193/original/10782827585_0cf4538c5e_z_1_.jpg)
 
 # Restore the Earth Foundation Planting South Pass Crevasse with Willow and Cypress
 
-by [eustatic](../../../profile/eustatic) | November 11, 2013 05:11
+by [eustatic](/profile/eustatic) | November 11, 2013 05:11
 
-November 11, 2013 05:11 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [restoration](../tag/restoration), [dredgefestla](../tag/dredgefestla), [lat:28.994674](../tag/lat:28.994674), [lon:-89.142824](../tag/lon:-89.142824), [place:south-pass-la](../tag/place:south-pass-la)
+November 11, 2013 05:11 | Tags: [gulf-coast](/tag/gulf-coast), [kite-mapping](/tag/kite-mapping), [wetlands](/tag/wetlands), [restoration](/tag/restoration), [dredgefestla](/tag/dredgefestla), [lat:28.994674](/tag/lat:28.994674), [lon:-89.142824](/tag/lon:-89.142824), [place:south-pass-la](/tag/place:south-pass-la)
 
 ----
 

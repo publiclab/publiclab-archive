@@ -6,16 +6,14 @@ author: ngocthuyluu
 path: /notes/ngocthuyluu/11-19-2020/testing-for-contaminants-in-garden-soil.md
 nid: 25075
 uid: 727477
-
 cids: 27694,27699,27713,28017,28067,28168,28182
-
 ---
 
 # Testing for Contaminants in Garden Soil
 
-by [ngocthuyluu](../../../profile/ngocthuyluu) | November 19, 2020 01:35
+by [ngocthuyluu](/profile/ngocthuyluu) | November 19, 2020 01:35
 
-November 19, 2020 01:35 | Tags: [soil](../tag/soil), [waste-management](../tag/waste-management), [trash](../tag/trash), [public-health](../tag/public-health), [advocacy](../tag/advocacy), [soil-sampling](../tag/soil-sampling), [question:soil-sampling](../tag/question:soil-sampling), [issue-brief](../tag/issue-brief), [seattle](../tag/seattle), [first-time-poster](../tag/first-time-poster), [soil-contamination](../tag/soil-contamination), [litter](../tag/litter), [dumping](../tag/dumping), [washington](../tag/washington), [pacific-northwest](../tag/pacific-northwest)
+November 19, 2020 01:35 | Tags: [soil](/tag/soil), [waste-management](/tag/waste-management), [trash](/tag/trash), [public-health](/tag/public-health), [advocacy](/tag/advocacy), [soil-sampling](/tag/soil-sampling), [question:soil-sampling](/tag/question:soil-sampling), [issue-brief](/tag/issue-brief), [seattle](/tag/seattle), [first-time-poster](/tag/first-time-poster), [soil-contamination](/tag/soil-contamination), [litter](/tag/litter), [dumping](/tag/dumping), [washington](/tag/washington), [pacific-northwest](/tag/pacific-northwest)
 
 ----
 
@@ -40,4 +38,4 @@ Littering and furniture dumping is common to see in my neighborhood, but with pi
 - Are there ways to test for contaminants in the fruits and veggies we grow if not the soil? 
 
   
-[seattle-garden-soil](../../tag/question:seattle-garden-soil)
+[seattle-garden-soil](/tag/question:seattle-garden-soil)

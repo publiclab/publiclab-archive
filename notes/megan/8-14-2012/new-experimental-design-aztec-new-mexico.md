@@ -6,16 +6,14 @@ author: megan
 path: /notes/megan/8-14-2012/new-experimental-design-aztec-new-mexico.md
 nid: 3285
 uid: 775
-
 cids: 
-
 ---
 
 # New Experimental Design, Aztec, New Mexico
 
-by [megan](../../../profile/megan) | August 14, 2012 13:24
+by [megan](/profile/megan) | August 14, 2012 13:24
 
-August 14, 2012 13:24 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [study-design](../tag/study-design), [h2s-study-design](../tag/h2s-study-design)
+August 14, 2012 13:24 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [study-design](/tag/study-design), [h2s-study-design](/tag/h2s-study-design)
 
 ----
 

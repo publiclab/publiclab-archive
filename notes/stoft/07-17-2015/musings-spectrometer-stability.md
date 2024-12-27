@@ -6,18 +6,16 @@ author: stoft
 path: /notes/stoft/07-17-2015/musings-spectrometer-stability.md
 nid: 12074
 uid: 54025
-
 cids: 12214,12216,12217,12224,12239,12240,12245,12253,12261,12334,12335
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/707/original/P3U-3.jpg)
 
 # Musings: Spectrometer Stability
 
-by [stoft](../../../profile/stoft) | July 17, 2015 05:46
+by [stoft](/profile/stoft) | July 17, 2015 05:46
 
-July 17, 2015 05:46 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [kit](../tag/kit), [test](../tag/test), [response:11649](../tag/response:11649)
+July 17, 2015 05:46 | Tags: [spectrometer](/tag/spectrometer), [oil](/tag/oil), [kit](/tag/kit), [test](/tag/test), [response:11649](/tag/response:11649)
 
 ----
 

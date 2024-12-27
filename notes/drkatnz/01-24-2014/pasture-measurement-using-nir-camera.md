@@ -6,18 +6,16 @@ author: drkatnz
 path: /notes/drkatnz/01-24-2014/pasture-measurement-using-nir-camera.md
 nid: 9971
 uid: 420159
-
 cids: 8068,8069,8071,8091
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/634/original/IMG_0116.JPG)
 
 # Pasture measurement using NIR camera
 
-by [drkatnz](../../../profile/drkatnz) | January 24, 2014 02:01
+by [drkatnz](/profile/drkatnz) | January 24, 2014 02:01
 
-January 24, 2014 02:01 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nir](../tag/nir), [infrared](../tag/infrared), [filter](../tag/filter), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [canon](../tag/canon), [grass](../tag/grass), [pasture](../tag/pasture), [measurement](../tag/measurement), [crops](../tag/crops), [activity:infragram](../tag/activity:infragram)
+January 24, 2014 02:01 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [nir](/tag/nir), [infrared](/tag/infrared), [filter](/tag/filter), [infragram](/tag/infragram), [infrablue](/tag/infrablue), [canon](/tag/canon), [grass](/tag/grass), [pasture](/tag/pasture), [measurement](/tag/measurement), [crops](/tag/crops), [activity:infragram](/tag/activity:infragram)
 
 ----
 

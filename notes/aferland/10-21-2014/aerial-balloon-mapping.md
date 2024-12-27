@@ -6,18 +6,16 @@ author: aferland
 path: /notes/aferland/10-21-2014/aerial-balloon-mapping.md
 nid: 11287
 uid: 428191
-
 cids: 10601,10614,10650,10651,10664,10665,10666,10667
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/600/original/photo_1ff.JPG)
 
 # Aerial Balloon Mapping in Amherst, MA
 
-by [aferland](../../../profile/aferland) | October 21, 2014 18:35
+by [aferland](/profile/aferland) | October 21, 2014 18:35
 
-October 21, 2014 18:35 | Tags: [amherst](../tag/amherst), [balloon-mapping-kit](../tag/balloon-mapping-kit), [massachusetts](../tag/massachusetts), [urban-planning](../tag/urban-planning), [umass-amherst](../tag/umass-amherst), [helium](../tag/helium), [northeast](../tag/northeast), [amherst-media](../tag/amherst-media), [publiclab-at-umass](../tag/publiclab-at-umass), [makers-and-amherst-media](../tag/makers-and-amherst-media), [amherstcollege](../tag/amherstcollege), [helium-balloon](../tag/helium-balloon), [city-planning](../tag/city-planning), [first-time-poster](../tag/first-time-poster)
+October 21, 2014 18:35 | Tags: [amherst](/tag/amherst), [balloon-mapping-kit](/tag/balloon-mapping-kit), [massachusetts](/tag/massachusetts), [urban-planning](/tag/urban-planning), [umass-amherst](/tag/umass-amherst), [helium](/tag/helium), [northeast](/tag/northeast), [amherst-media](/tag/amherst-media), [publiclab-at-umass](/tag/publiclab-at-umass), [makers-and-amherst-media](/tag/makers-and-amherst-media), [amherstcollege](/tag/amherstcollege), [helium-balloon](/tag/helium-balloon), [city-planning](/tag/city-planning), [first-time-poster](/tag/first-time-poster)
 
 ----
 

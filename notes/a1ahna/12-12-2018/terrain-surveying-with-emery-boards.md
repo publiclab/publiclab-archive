@@ -6,18 +6,16 @@ author: a1ahna
 path: /notes/a1ahna/12-12-2018/terrain-surveying-with-emery-boards.md
 nid: 17856
 uid: 518193
-
 cids: 21535,26126,26142,26143,26161
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/267/original/emerycover_resized.png)
 
 # Terrain Surveying with Emery Boards
 
-by [a1ahna](../../../profile/a1ahna) | December 10, 2018 20:25
+by [a1ahna](/profile/a1ahna) | December 10, 2018 20:25
 
-December 10, 2018 20:25 | Tags: [oil](../tag/oil), [pipeline](../tag/pipeline), [survey](../tag/survey), [industry](../tag/industry), [hardware](../tag/hardware), [oil-and-gas](../tag/oil-and-gas), [activity:site-survey](../tag/activity:site-survey), [topography](../tag/topography), [activity:new](../tag/activity:new), [pipelines](../tag/pipelines), [elevation](../tag/elevation), [emery-board](../tag/emery-board)
+December 10, 2018 20:25 | Tags: [oil](/tag/oil), [pipeline](/tag/pipeline), [survey](/tag/survey), [industry](/tag/industry), [hardware](/tag/hardware), [oil-and-gas](/tag/oil-and-gas), [activity:site-survey](/tag/activity:site-survey), [topography](/tag/topography), [activity:new](/tag/activity:new), [pipelines](/tag/pipelines), [elevation](/tag/elevation), [emery-board](/tag/emery-board)
 
 ----
 

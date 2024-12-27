@@ -6,18 +6,16 @@ author: sashadev-sky
 path: /notes/sashadev-sky/08-11-2019/a-day-in-the-life-of-ldi.md
 nid: 20498
 uid: 555321
-
 cids: 25222,25223,25243,25254
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/472/original/aaaaaa.jpg)
 
 # A Day in the Life of LDI
 
-by [sashadev-sky](../../../profile/sashadev-sky) | August 11, 2019 01:17
+by [sashadev-sky](/profile/sashadev-sky) | August 11, 2019 01:17
 
-August 11, 2019 01:17 | Tags: [mapknitter](../tag/mapknitter), [software](../tag/software), [development](../tag/development), [leaflet](../tag/leaflet)
+August 11, 2019 01:17 | Tags: [mapknitter](/tag/mapknitter), [software](/tag/software), [development](/tag/development), [leaflet](/tag/leaflet)
 
 ----
 

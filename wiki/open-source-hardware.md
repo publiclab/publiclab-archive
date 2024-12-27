@@ -6,12 +6,12 @@ author: warren
 path: /wiki/open-source-hardware.md
 nid: 86
 uid: 1
-
+cids: 
 ---
 
 # Open Source Hardware
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 February 16, 2011 12:45 | Tags: 
 

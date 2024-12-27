@@ -6,18 +6,16 @@ author: gilbert
 path: /notes/gilbert/08-23-2017/mapping-workshop-at-docville-farm-in-violet-la-st-bernard-parish.md
 nid: 14785
 uid: 508551
-
 cids: 17217
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/402/original/0819171116a.jpg)
 
 # MAPPING WORKSHOP AT DOCVILLE FARM IN VIOLET, LA – ST. BERNARD PARISH
 
-by [gilbert](../../../profile/gilbert) | August 23, 2017 20:39
+by [gilbert](/profile/gilbert) | August 23, 2017 20:39
 
-August 23, 2017 20:39 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [wetlands](../tag/wetlands), [lousiana](../tag/lousiana), [with:stevie](../tag/with:stevie), [nas](../tag/nas), [lat:29.913215](../tag/lat:29.913215), [lon:-89.911418](../tag/lon:-89.911418), [place:docville-farm](../tag/place:docville-farm)
+August 23, 2017 20:39 | Tags: [gulf-coast](/tag/gulf-coast), [balloon-mapping](/tag/balloon-mapping), [wetlands](/tag/wetlands), [lousiana](/tag/lousiana), [with:stevie](/tag/with:stevie), [nas](/tag/nas), [lat:29.913215](/tag/lat:29.913215), [lon:-89.911418](/tag/lon:-89.911418), [place:docville-farm](/tag/place:docville-farm)
 
 ----
 

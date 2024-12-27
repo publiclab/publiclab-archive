@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/08-27-2016/ranon-reconfigures-the-rig.md
 nid: 13400
 uid: 554
-
 cids: 15249,15251,15259,15260,15269,15274
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/776/original/RecoRig_20o20_2k.jpg)
 
 # Ranon reconfigures the rig
 
-by [cfastie](../../../profile/cfastie) | August 27, 2016 03:30
+by [cfastie](/profile/cfastie) | August 27, 2016 03:30
 
-August 27, 2016 03:30 | Tags: [balloon-mapping](../tag/balloon-mapping), [vermont](../tag/vermont), [kite-aerial-photography](../tag/kite-aerial-photography), [polemapping](../tag/polemapping), [kap](../tag/kap), [autokap](../tag/autokap), [landscape](../tag/landscape), [kap-rigs](../tag/kap-rigs), [reconfigurable-rig](../tag/reconfigurable-rig), [response:13267](../tag/response:13267), [category:test-limits](../tag/category:test-limits), [activity:camera-rigs](../tag/activity:camera-rigs)
+August 27, 2016 03:30 | Tags: [balloon-mapping](/tag/balloon-mapping), [vermont](/tag/vermont), [kite-aerial-photography](/tag/kite-aerial-photography), [polemapping](/tag/polemapping), [kap](/tag/kap), [autokap](/tag/autokap), [landscape](/tag/landscape), [kap-rigs](/tag/kap-rigs), [reconfigurable-rig](/tag/reconfigurable-rig), [response:13267](/tag/response:13267), [category:test-limits](/tag/category:test-limits), [activity:camera-rigs](/tag/activity:camera-rigs)
 
 ----
 

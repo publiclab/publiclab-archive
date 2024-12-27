@@ -6,16 +6,14 @@ author: bsugar
 path: /notes/bsugar/09-08-2017/what-is-the-best-way-to-formalize-connecting-needs-with-offers.md
 nid: 14849
 uid: 217812
-
 cids: 17458,17907,22591,22592
-
 ---
 
 # What is the best way to formalize connecting needs with offers?
 
-by [bsugar](../../../profile/bsugar) | September 08, 2017 01:21
+by [bsugar](/profile/bsugar) | September 08, 2017 01:21
 
-September 08, 2017 01:21 | Tags: [hurricane](../tag/hurricane), [coordinating](../tag/coordinating), [harvey](../tag/harvey), [hurricanes](../tag/hurricanes), [storms](../tag/storms), [harvey-response](../tag/harvey-response), [question:harvey](../tag/question:harvey), [irma](../tag/irma), [ajustharveyrecovery](../tag/ajustharveyrecovery), [harvey-needs](../tag/harvey-needs), [question:matchmaking](../tag/question:matchmaking), [question:coordination](../tag/question:coordination), [question:organizers](../tag/question:organizers), [question:requests](../tag/question:requests)
+September 08, 2017 01:21 | Tags: [hurricane](/tag/hurricane), [coordinating](/tag/coordinating), [harvey](/tag/harvey), [hurricanes](/tag/hurricanes), [storms](/tag/storms), [harvey-response](/tag/harvey-response), [question:harvey](/tag/question:harvey), [irma](/tag/irma), [ajustharveyrecovery](/tag/ajustharveyrecovery), [harvey-needs](/tag/harvey-needs), [question:matchmaking](/tag/question:matchmaking), [question:coordination](/tag/question:coordination), [question:organizers](/tag/question:organizers), [question:requests](/tag/question:requests)
 
 ----
 

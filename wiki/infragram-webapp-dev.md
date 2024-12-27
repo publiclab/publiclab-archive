@@ -6,14 +6,14 @@ author: donblair
 path: /wiki/infragram-webapp-dev.md
 nid: 7790
 uid: 43651
-
+cids: 
 ---
 
 # infragram-webapp-dev
 
-by [NickJemis](../profile/NickJemis), [warren](../profile/warren), [donblair](../profile/donblair), [cversek](../profile/cversek)
+by [NickJemis](/profile/NickJemis), [warren](/profile/warren), [donblair](/profile/donblair), [cversek](/profile/cversek)
 
-May 21, 2013 19:24 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [app](../tag/app)
+May 21, 2013 19:24 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [infragram](/tag/infragram), [app](/tag/app)
 
 ----
 

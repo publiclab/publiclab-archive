@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/09-23-2019/slidedeck-for-environmental-lawyers.md
 nid: 20972
 uid: 7
-
 cids: 25569,31468
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/408/original/Screen_Shot_2019-09-23_at_12.30.13_PM.png)
 
 # Slidedeck for environmental lawyers
 
-by [liz](../../../profile/liz) | September 23, 2019 16:30
+by [liz](/profile/liz) | September 23, 2019 16:30
 
-September 23, 2019 16:30 | Tags: [evidence](../tag/evidence), [presentation](../tag/presentation), [legal](../tag/legal), [evidence-project](../tag/evidence-project), [law-and-policy](../tag/law-and-policy)
+September 23, 2019 16:30 | Tags: [evidence](/tag/evidence), [presentation](/tag/presentation), [legal](/tag/legal), [evidence-project](/tag/evidence-project), [law-and-policy](/tag/law-and-policy)
 
 ----
 

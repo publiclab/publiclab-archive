@@ -6,18 +6,16 @@ author: ewilder
 path: /notes/ewilder/06-16-2014/hydrogen-sulfide-photopaper-sensing-tool-development-notes.md
 nid: 10576
 uid: 421152
-
 cids: 16752,16753
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/765/original/undefined)
 
 # Hydrogen Sulfide Photopaper Sensing Tool - Development Notes
 
-by [ewilder](../../../profile/ewilder) | June 16, 2014 20:20
+by [ewilder](/profile/ewilder) | June 16, 2014 20:20
 
-June 16, 2014 20:20 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen](../tag/hydrogen), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [wyoming](../tag/wyoming), [sulfide](../tag/sulfide), [h2s-photopaper](../tag/h2s-photopaper), [replication:509](../tag/replication:509), [first-time-poster](../tag/first-time-poster)
+June 16, 2014 20:20 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen](/tag/hydrogen), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [wyoming](/tag/wyoming), [sulfide](/tag/sulfide), [h2s-photopaper](/tag/h2s-photopaper), [replication:509](/tag/replication:509), [first-time-poster](/tag/first-time-poster)
 
 ----
 

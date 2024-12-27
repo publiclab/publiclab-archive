@@ -6,18 +6,16 @@ author: eustatic
 path: /04-20-2014/barataria-2014-february-27th.md
 nid: 10335
 uid: 379
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/729/original/27_feb_barataria_public_lab.png)
 
 # Barataria 2014: III February 27th
 
-by [eustatic](../../../profile/eustatic) | April 20, 2014 22:29
+by [eustatic](/profile/eustatic) | April 20, 2014 22:29
 
-April 20, 2014 22:29 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [barataria-bay](../tag/barataria-bay), [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [louisiana](../tag/louisiana), [wetland](../tag/wetland), [kite](../tag/kite), [barataria](../tag/barataria), [bp](../tag/bp), [boat](../tag/boat), [patagonia](../tag/patagonia), [response:10045](../tag/response:10045), [powered](../tag/powered)
+April 20, 2014 22:29 | Tags: [gulf-coast](/tag/gulf-coast), [balloon-mapping](/tag/balloon-mapping), [barataria-bay](/tag/barataria-bay), [kite-mapping](/tag/kite-mapping), [wetlands](/tag/wetlands), [louisiana](/tag/louisiana), [wetland](/tag/wetland), [kite](/tag/kite), [barataria](/tag/barataria), [bp](/tag/bp), [boat](/tag/boat), [patagonia](/tag/patagonia), [response:10045](/tag/response:10045), [powered](/tag/powered)
 
 ----
 

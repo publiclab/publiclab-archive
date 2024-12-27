@@ -6,18 +6,16 @@ author: lperovich
 path: /notes/lperovich/06-10-2015/thermal-fishing-bob-multiple-inputs-outputs.md
 nid: 11964
 uid: 443410
-
 cids: 12103
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/270/original/multiInputThermalFishing_bb.jpg)
 
 # Thermal Fishing Bob: multiple inputs/outputs 
 
-by [lperovich](../../../profile/lperovich) | June 10, 2015 15:28
+by [lperovich](/profile/lperovich) | June 10, 2015 15:28
 
-June 10, 2015 15:28 | Tags: [thermal-fishing-bob](../tag/thermal-fishing-bob), [activity:thermal-fishing-bob](../tag/activity:thermal-fishing-bob), [first-time-poster](../tag/first-time-poster)
+June 10, 2015 15:28 | Tags: [thermal-fishing-bob](/tag/thermal-fishing-bob), [activity:thermal-fishing-bob](/tag/activity:thermal-fishing-bob), [first-time-poster](/tag/first-time-poster)
 
 ----
 

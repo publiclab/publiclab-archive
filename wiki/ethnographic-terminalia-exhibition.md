@@ -6,12 +6,12 @@ author: warren
 path: /wiki/ethnographic-terminalia-exhibition.md
 nid: 541
 uid: 1
-
+cids: 
 ---
 
 # Ethnographic terminalia exhibition
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 November 03, 2011 21:35 | Tags: 
 

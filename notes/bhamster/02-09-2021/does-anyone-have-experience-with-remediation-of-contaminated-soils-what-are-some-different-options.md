@@ -6,16 +6,14 @@ author: bhamster
 path: /notes/bhamster/02-09-2021/does-anyone-have-experience-with-remediation-of-contaminated-soils-what-are-some-different-options.md
 nid: 25638
 uid: 664477
-
 cids: 28164,28165,28166,28167,28173,28208,28215,28221
-
 ---
 
 # Does anyone have experience with remediation of contaminated soils? What are some different options?
 
-by [bhamster](../../../profile/bhamster) | February 09, 2021 18:27
+by [bhamster](/profile/bhamster) | February 09, 2021 18:27
 
-February 09, 2021 18:27 | Tags: [remediation](../tag/remediation), [heavy-metals](../tag/heavy-metals), [soil](../tag/soil), [bioremediation](../tag/bioremediation), [phytoremediation](../tag/phytoremediation), [question:soil](../tag/question:soil), [soil-contamination](../tag/soil-contamination), [mycoremediation](../tag/mycoremediation), [organic-compounds](../tag/organic-compounds), [soil-remediation](../tag/soil-remediation), [question:soil-remediation](../tag/question:soil-remediation)
+February 09, 2021 18:27 | Tags: [remediation](/tag/remediation), [heavy-metals](/tag/heavy-metals), [soil](/tag/soil), [bioremediation](/tag/bioremediation), [phytoremediation](/tag/phytoremediation), [question:soil](/tag/question:soil), [soil-contamination](/tag/soil-contamination), [mycoremediation](/tag/mycoremediation), [organic-compounds](/tag/organic-compounds), [soil-remediation](/tag/soil-remediation), [question:soil-remediation](/tag/question:soil-remediation)
 
 ----
 

@@ -6,16 +6,16 @@ author: stevie
 path: /wiki/site-survey.md
 nid: 14045
 uid: 422561
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/901/original/IMG_7711.JPG)
 
 # Survey your site
 
-by [liz](../profile/liz), [stevie](../profile/stevie)
+by [liz](/profile/liz), [stevie](/profile/stevie)
 
-March 22, 2017 16:55 | Tags: [research](../tag/research), [tool](../tag/tool), [methods](../tag/methods), [visual-monitoring](../tag/visual-monitoring), [method](../tag/method), [site-survey](../tag/site-survey)
+March 22, 2017 16:55 | Tags: [research](/tag/research), [tool](/tag/tool), [methods](/tag/methods), [visual-monitoring](/tag/visual-monitoring), [method](/tag/method), [site-survey](/tag/site-survey)
 
 ----
 
@@ -36,8 +36,8 @@ Site surveys are a great way to help you scope out a new project location. It ca
 
 ###Site Surveying Activities 
 
-[site-survey](../../tag/activity:site-survey)
+[site-survey](/tag/activity:site-survey)
 
 ###Frequently Asked Questions
 
-[site-survey](../../tag/question:site-survey)
+[site-survey](/tag/question:site-survey)

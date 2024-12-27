@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/6-7-2011/refractometer-measuring-nutrient-density.md
 nid: 339
 uid: 7
-
 cids: 268,269,292,294,26683
-
 ---
 
 ![](https://publiclab.org/sites/default/files/kale.jpg)
 
 # Refractometer for measuring nutrient density in food
 
-by [liz](../../../profile/liz) | June 07, 2011 15:52
+by [liz](/profile/liz) | June 07, 2011 15:52
 
-June 07, 2011 15:52 | Tags: [refractometer](../tag/refractometer), [food](../tag/food), [nutrient-density](../tag/nutrient-density), [first-time-poster](../tag/first-time-poster)
+June 07, 2011 15:52 | Tags: [refractometer](/tag/refractometer), [food](/tag/food), [nutrient-density](/tag/nutrient-density), [first-time-poster](/tag/first-time-poster)
 
 ----
 

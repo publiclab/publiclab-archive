@@ -6,16 +6,14 @@ author: pdhixenbaugh
 path: /notes/pdhixenbaugh/10-04-2016/activity-grids-formatting-what-will-be-their-final-form.md
 nid: 13517
 uid: 459085
-
 cids: 15594,15596,15608,15612,15617,21409,21411,21413,22330,22553
-
 ---
 
 # Activity Grids formatting - what will be their final form? 
 
-by [pdhixenbaugh](../../../profile/pdhixenbaugh) | October 04, 2016 01:40
+by [pdhixenbaugh](/profile/pdhixenbaugh) | October 04, 2016 01:40
 
-October 04, 2016 01:40 | Tags: [activity-grids](../tag/activity-grids), [question:website](../tag/question:website), [question:website-structure](../tag/question:website-structure)
+October 04, 2016 01:40 | Tags: [activity-grids](/tag/activity-grids), [question:website](/tag/question:website), [question:website-structure](/tag/question:website-structure)
 
 ----
 

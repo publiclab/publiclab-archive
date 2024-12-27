@@ -6,14 +6,12 @@ author: knygaard
 path: /notes/knygaard/12-21-2012/kukuiula-resort.md
 nid: 5287
 uid: 46987
-
 cids: 2807,2812
-
 ---
 
 # Kukui'ula Resort
 
-by [knygaard](../../../profile/knygaard) | December 21, 2012 22:12
+by [knygaard](/profile/knygaard) | December 21, 2012 22:12
 
 December 21, 2012 22:12 | Tags: 
 

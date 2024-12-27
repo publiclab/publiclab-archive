@@ -6,18 +6,16 @@ author: yvv
 path: /notes/yvv/08-19-2014/goal-setting-for-upcoming-glam-event.md
 nid: 11066
 uid: 427257
-
 cids: 10117
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/345/original/13765453483_e6e1132d76_b.jpg)
 
 # Goal-Setting for Upcoming GLAM Event
 
-by [yvv](../../../profile/yvv) | August 19, 2014 21:06
+by [yvv](/profile/yvv) | August 19, 2014 21:06
 
-August 19, 2014 21:06 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [gowanus-canal](../tag/gowanus-canal), [brooklyn](../tag/brooklyn), [gowanus-canal-conservancy](../tag/gowanus-canal-conservancy), [event](../tag/event), [glam](../tag/glam), [northeast](../tag/northeast), [goal-setting](../tag/goal-setting), [first-time-poster](../tag/first-time-poster)
+August 19, 2014 21:06 | Tags: [new-york-city](/tag/new-york-city), [gowanus](/tag/gowanus), [gowanus-canal](/tag/gowanus-canal), [brooklyn](/tag/brooklyn), [gowanus-canal-conservancy](/tag/gowanus-canal-conservancy), [event](/tag/event), [glam](/tag/glam), [northeast](/tag/northeast), [goal-setting](/tag/goal-setting), [first-time-poster](/tag/first-time-poster)
 
 ----
 

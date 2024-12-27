@@ -6,18 +6,16 @@ author: amitsin6h
 path: /notes/amitsin6h/03-03-2018/gsoc-proposal-card-ui-ux-implementation.md
 nid: 15856
 uid: 515111
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/816/original/Screenshot_from_2018-03-04_14-30-37.png)
 
 # GSoC Proposal: Card UI/UX Implementation
 
-by [amitsin6h](../../../profile/amitsin6h) | March 03, 2018 21:44
+by [amitsin6h](/profile/amitsin6h) | March 03, 2018 21:44
 
-March 03, 2018 21:44 | Tags: [design](../tag/design), [gsoc](../tag/gsoc), [rgsoc](../tag/rgsoc), [ui](../tag/ui), [gsoc-2018](../tag/gsoc-2018), [ui-ux](../tag/ui-ux), [card-ui](../tag/card-ui), [frontend](../tag/frontend), [first-time-poster](../tag/first-time-poster)
+March 03, 2018 21:44 | Tags: [design](/tag/design), [gsoc](/tag/gsoc), [rgsoc](/tag/rgsoc), [ui](/tag/ui), [gsoc-2018](/tag/gsoc-2018), [ui-ux](/tag/ui-ux), [card-ui](/tag/card-ui), [frontend](/tag/frontend), [first-time-poster](/tag/first-time-poster)
 
 ----
 

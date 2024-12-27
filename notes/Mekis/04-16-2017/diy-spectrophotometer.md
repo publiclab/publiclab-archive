@@ -6,18 +6,16 @@ author: Mekis
 path: /notes/Mekis/04-16-2017/diy-spectrophotometer.md
 nid: 14115
 uid: 505614
-
 cids: 16589,18681
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/141/original/refraction-150853_1280.png)
 
 # DIY spectrophotometer?
 
-by [Mekis](../../../profile/Mekis) | April 16, 2017 10:54
+by [Mekis](/profile/Mekis) | April 16, 2017 10:54
 
-April 16, 2017 10:54 | Tags: [spectrometer](../tag/spectrometer), [spectrophotometer](../tag/spectrophotometer), [diy](../tag/diy), [lens](../tag/lens), [detector](../tag/detector), [absorbance](../tag/absorbance), [diopter](../tag/diopter), [focal](../tag/focal)
+April 16, 2017 10:54 | Tags: [spectrometer](/tag/spectrometer), [spectrophotometer](/tag/spectrophotometer), [diy](/tag/diy), [lens](/tag/lens), [detector](/tag/detector), [absorbance](/tag/absorbance), [diopter](/tag/diopter), [focal](/tag/focal)
 
 ----
 

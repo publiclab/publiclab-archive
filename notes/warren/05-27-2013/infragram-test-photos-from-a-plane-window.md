@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/05-27-2013/infragram-test-photos-from-a-plane-window.md
 nid: 7932
 uid: 1
-
 cids: 4860,4862
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/406/original/IMG_0019_copy.JPG)
 
 # Infragram test photos from a plane window
 
-by [warren](../../../profile/warren) | May 27, 2013 18:32
+by [warren](/profile/warren) | May 27, 2013 18:32
 
-May 27, 2013 18:32 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [passenger-pigeon](../tag/passenger-pigeon), [philadelphia](../tag/philadelphia), [infragram](../tag/infragram), [colormap](../tag/colormap), [plane](../tag/plane), [infrabluephoto](../tag/infrabluephoto), [activity:passenger-pigeon](../tag/activity:passenger-pigeon)
+May 27, 2013 18:32 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [passenger-pigeon](/tag/passenger-pigeon), [philadelphia](/tag/philadelphia), [infragram](/tag/infragram), [colormap](/tag/colormap), [plane](/tag/plane), [infrabluephoto](/tag/infrabluephoto), [activity:passenger-pigeon](/tag/activity:passenger-pigeon)
 
 ----
 

@@ -6,18 +6,16 @@ author: mjain26
 path: /notes/mjain26/07-29-2014/exposure-settings-to-balloon-mapping.md
 nid: 10994
 uid: 424870
-
 cids: 9702,9707
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/652/original/IMG_2086.JPG)
 
 # exposure settings to balloon mapping
 
-by [mjain26](../../../profile/mjain26) | July 29, 2014 19:51
+by [mjain26](/profile/mjain26) | July 29, 2014 19:51
 
-July 29, 2014 19:51 | Tags: [balloon-mapping](../tag/balloon-mapping), [troubleshooting](../tag/troubleshooting), [chicago](../tag/chicago), [civiclab](../tag/civiclab), [civic-lab](../tag/civic-lab), [exposure](../tag/exposure)
+July 29, 2014 19:51 | Tags: [balloon-mapping](/tag/balloon-mapping), [troubleshooting](/tag/troubleshooting), [chicago](/tag/chicago), [civiclab](/tag/civiclab), [civic-lab](/tag/civic-lab), [exposure](/tag/exposure)
 
 ----
 

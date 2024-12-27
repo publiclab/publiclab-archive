@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/12-24-2010/very-clear-spectrum-through-pineapple.md
 nid: 34
 uid: 1
-
 cids: 12894,12921,12954,12955,12957,14850,20426,20639,28811
-
 ---
 
 ![](https://publiclab.org/sites/default/files/pineapple-center-spectrum.png)
 
 # Very clear spectrum through pineapple
 
-by [warren](../../../profile/warren) | December 24, 2010 14:34
+by [warren](/profile/warren) | December 24, 2010 14:34
 
-December 24, 2010 14:34 | Tags: [lima](../tag/lima), [spectrometer](../tag/spectrometer), [workshop](../tag/workshop), [escuelab](../tag/escuelab)
+December 24, 2010 14:34 | Tags: [lima](/tag/lima), [spectrometer](/tag/spectrometer), [workshop](/tag/workshop), [escuelab](/tag/escuelab)
 
 ----
 

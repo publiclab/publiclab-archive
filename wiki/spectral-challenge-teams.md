@@ -6,14 +6,14 @@ author: warren
 path: /wiki/spectral-challenge-teams.md
 nid: 6397
 uid: 1
-
+cids: 
 ---
 
 # Spectral Challenge Teams
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-March 18, 2013 16:57 | Tags: [spectrometer](../tag/spectrometer), [spectralchallenge](../tag/spectralchallenge)
+March 18, 2013 16:57 | Tags: [spectrometer](/tag/spectrometer), [spectralchallenge](/tag/spectralchallenge)
 
 ----
 

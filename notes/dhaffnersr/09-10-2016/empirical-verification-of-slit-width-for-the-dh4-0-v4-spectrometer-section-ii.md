@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/09-10-2016/empirical-verification-of-slit-width-for-the-dh4-0-v4-spectrometer-section-ii.md
 nid: 13437
 uid: 461120
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/000/original/horizontal_view_sept_9.png)
 
 # Empirical Verification Of Slit Width For The DH4.0 v4 Spectrometer Section II
 
-by [dhaffnersr](../../../profile/dhaffnersr) | September 10, 2016 06:51
+by [dhaffnersr](/profile/dhaffnersr) | September 10, 2016 06:51
 
 September 10, 2016 06:51 | Tags: 
 

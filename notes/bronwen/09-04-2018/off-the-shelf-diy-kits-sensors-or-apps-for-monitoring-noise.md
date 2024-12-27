@@ -6,16 +6,14 @@ author: Bronwen
 path: /notes/bronwen/09-04-2018/off-the-shelf-diy-kits-sensors-or-apps-for-monitoring-noise.md
 nid: 17057
 uid: 237313
-
 cids: 23222
-
 ---
 
 # Off the shelf, DIY kits, sensors or apps for monitoring noise.
 
-by [Bronwen](../../../profile/Bronwen) | September 04, 2018 15:56
+by [Bronwen](/profile/Bronwen) | September 04, 2018 15:56
 
-September 04, 2018 15:56 | Tags: [kits](../tag/kits), [noise](../tag/noise), [question:noise](../tag/question:noise), [noise-monitoring](../tag/noise-monitoring), [question:noise-monitoring](../tag/question:noise-monitoring)
+September 04, 2018 15:56 | Tags: [kits](/tag/kits), [noise](/tag/noise), [question:noise](/tag/question:noise), [noise-monitoring](/tag/noise-monitoring), [question:noise-monitoring](/tag/question:noise-monitoring)
 
 ----
 

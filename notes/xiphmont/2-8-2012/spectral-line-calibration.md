@@ -6,14 +6,12 @@ author: xiphmont
 path: /notes/xiphmont/2-8-2012/spectral-line-calibration.md
 nid: 766
 uid: 470
-
 cids: 439,440,441,442,443,444
-
 ---
 
 # SPECTRAL LINE CALIBRATION
 
-by [xiphmont](../../../profile/xiphmont) | February 08, 2012 23:59
+by [xiphmont](/profile/xiphmont) | February 08, 2012 23:59
 
 February 08, 2012 23:59 | Tags: 
 

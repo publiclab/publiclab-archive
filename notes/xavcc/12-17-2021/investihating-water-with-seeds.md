@@ -6,18 +6,16 @@ author: xavcc
 path: /notes/xavcc/12-17-2021/investihating-water-with-seeds.md
 nid: 28507
 uid: 630823
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/249/original/63cb0f05f4e8a119.png)
 
 # Investigating Water with Seeds
 
-by [xavcc](../../../profile/xavcc) | December 17, 2021 15:07
+by [xavcc](/profile/xavcc) | December 17, 2021 15:07
 
-December 17, 2021 15:07 | Tags: [water-quality](../tag/water-quality), [bioassay](../tag/bioassay), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:48.117266](../tag/lat:48.117266), [lon:-1.677792](../tag/lon:-1.677792)
+December 17, 2021 15:07 | Tags: [water-quality](/tag/water-quality), [bioassay](/tag/bioassay), [first-time-poster](/tag/first-time-poster), [zoom:6](/tag/zoom:6), [lat:48.117266](/tag/lat:48.117266), [lon:-1.677792](/tag/lon:-1.677792)
 
 ----
 

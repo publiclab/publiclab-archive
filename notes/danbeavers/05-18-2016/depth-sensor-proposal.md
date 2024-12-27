@@ -6,18 +6,16 @@ author: danbeavers
 path: /notes/danbeavers/05-18-2016/depth-sensor-proposal.md
 nid: 13126
 uid: 51
-
 cids: 14639,14644,17660
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/212/original/manometerLevelSensor.svg)
 
 # Depth Sensor Proposal
 
-by [danbeavers](../../../profile/danbeavers) | May 18, 2016 18:20
+by [danbeavers](/profile/danbeavers) | May 18, 2016 18:20
 
-May 18, 2016 18:20 | Tags: [water-quality](../tag/water-quality), [stormwater](../tag/stormwater), [depth](../tag/depth), [water-depth](../tag/water-depth), [activity:stormwater](../tag/activity:stormwater), [activity:water-depth](../tag/activity:water-depth)
+May 18, 2016 18:20 | Tags: [water-quality](/tag/water-quality), [stormwater](/tag/stormwater), [depth](/tag/depth), [water-depth](/tag/water-depth), [activity:stormwater](/tag/activity:stormwater), [activity:water-depth](/tag/activity:water-depth)
 
 ----
 

@@ -6,16 +6,14 @@ author: liz
 path: /notes/liz/7-20-2012/report-back-nyc-kite-workshop.md
 nid: 2919
 uid: 7
-
 cids: 
-
 ---
 
 # Report back on NYC Kite Workshop
 
-by [liz](../../../profile/liz) | July 20, 2012 18:41
+by [liz](/profile/liz) | July 20, 2012 18:41
 
-July 20, 2012 18:41 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [ilab](../tag/ilab)
+July 20, 2012 18:41 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [ilab](/tag/ilab)
 
 ----
 

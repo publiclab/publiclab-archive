@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/11-24-2015/dual-band-pass-filters.md
 nid: 12442
 uid: 554
-
 cids: 13279,13280,21824,21826,21856,21859,21877,21880,21898
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/016/original/interferencefiltersfigure8.jpg)
 
 # Dual bandpass filters
 
-by [cfastie](../../../profile/cfastie) | November 24, 2015 04:01
+by [cfastie](/profile/cfastie) | November 24, 2015 04:01
 
-November 24, 2015 04:01 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [filter](../tag/filter), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [response:12134](../tag/response:12134), [dualband](../tag/dualband), [midopt](../tag/midopt)
+November 24, 2015 04:01 | Tags: [ndvi](/tag/ndvi), [infrared](/tag/infrared), [filter](/tag/filter), [infragram](/tag/infragram), [plant-health](/tag/plant-health), [response:12134](/tag/response:12134), [dualband](/tag/dualband), [midopt](/tag/midopt)
 
 ----
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/mapping-curriculum.md
 nid: 72
 uid: 1
-
+cids: 
 ---
 
 # Grassroots Mapping Curriculum
 
-by [gonzoearth](../profile/gonzoearth), [pablo](../profile/pablo), [warren](../profile/warren), [mathew](../profile/mathew), [MicheleTobias](../profile/MicheleTobias)
+by [gonzoearth](/profile/gonzoearth), [pablo](/profile/pablo), [warren](/profile/warren), [mathew](/profile/mathew), [MicheleTobias](/profile/MicheleTobias)
 
-February 01, 2011 20:13 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [curriculum](../tag/curriculum), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lat:30](../tag/lat:30), [lon:-90](../tag/lon:-90), [zoom:6](../tag/zoom:6)
+February 01, 2011 20:13 | Tags: [balloon-mapping](/tag/balloon-mapping), [education](/tag/education), [curriculum](/tag/curriculum), [location:blurred](/tag/location:blurred), [place:united-states](/tag/place:united-states), [lat:30](/tag/lat:30), [lon:-90](/tag/lon:-90), [zoom:6](/tag/zoom:6)
 
 ----
 

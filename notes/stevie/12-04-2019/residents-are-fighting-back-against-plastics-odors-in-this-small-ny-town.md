@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/12-04-2019/residents-are-fighting-back-against-plastics-odors-in-this-small-ny-town.md
 nid: 21416
 uid: 422561
-
 cids: 25859,25957,25967,25993,26050,26051,26052,26065,26070,26073,26338
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/857/original/IMG_4318.JPG)
 
 # Residents are fighting back against plastics odors in this small NY town
 
-by [stevie](../../../profile/stevie) | December 04, 2019 16:50
+by [stevie](/profile/stevie) | December 04, 2019 16:50
 
-December 04, 2019 16:50 | Tags: [air-quality](../tag/air-quality), [blog](../tag/blog), [odor](../tag/odor), [oil-and-gas](../tag/oil-and-gas), [plastics](../tag/plastics), [with:joyofsoy](../tag/with:joyofsoy), [with:michaelwma](../tag/with:michaelwma), [with:hara214](../tag/with:hara214), [with:ca4o](../tag/with:ca4o), [orangetown-aluf](../tag/orangetown-aluf), [lat:41.074021](../tag/lat:41.074021), [lon:-73.97621](../tag/lon:-73.97621)
+December 04, 2019 16:50 | Tags: [air-quality](/tag/air-quality), [blog](/tag/blog), [odor](/tag/odor), [oil-and-gas](/tag/oil-and-gas), [plastics](/tag/plastics), [with:joyofsoy](/tag/with:joyofsoy), [with:michaelwma](/tag/with:michaelwma), [with:hara214](/tag/with:hara214), [with:ca4o](/tag/with:ca4o), [orangetown-aluf](/tag/orangetown-aluf), [lat:41.074021](/tag/lat:41.074021), [lon:-73.97621](/tag/lon:-73.97621)
 
 ----
 

@@ -6,12 +6,12 @@ author: warren
 path: /wiki/map-stitching.md
 nid: 63
 uid: 1
-
+cids: 
 ---
 
 # Map Stitching
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 January 27, 2011 18:04 | Tags: 
 

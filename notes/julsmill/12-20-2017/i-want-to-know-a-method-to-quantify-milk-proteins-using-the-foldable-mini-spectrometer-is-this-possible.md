@@ -6,16 +6,14 @@ author: julsmill
 path: /notes/julsmill/12-20-2017/i-want-to-know-a-method-to-quantify-milk-proteins-using-the-foldable-mini-spectrometer-is-this-possible.md
 nid: 15404
 uid: 518294
-
 cids: 22839,22840
-
 ---
 
 # I want to know a method to quantify milk proteins using the foldable mini spectrometer, Is this possible?
 
-by [julsmill](../../../profile/julsmill) | December 20, 2017 13:19
+by [julsmill](/profile/julsmill) | December 20, 2017 13:19
 
-December 20, 2017 13:19 | Tags: [help](../tag/help), [milk](../tag/milk), [question:spectrometry](../tag/question:spectrometry), [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered), [question:lego-spectrometer](../tag/question:lego-spectrometer), [quantified](../tag/quantified), [question:milk](../tag/question:milk), [protein](../tag/protein)
+December 20, 2017 13:19 | Tags: [help](/tag/help), [milk](/tag/milk), [question:spectrometry](/tag/question:spectrometry), [question:spectral-workbench](/tag/question:spectral-workbench), [answered](/tag/answered), [question:lego-spectrometer](/tag/question:lego-spectrometer), [quantified](/tag/quantified), [question:milk](/tag/question:milk), [protein](/tag/protein)
 
 ----
 

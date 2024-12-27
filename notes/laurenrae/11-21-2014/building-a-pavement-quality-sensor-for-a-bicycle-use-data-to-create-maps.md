@@ -6,18 +6,16 @@ author: laurenrae
 path: /notes/laurenrae/11-21-2014/building-a-pavement-quality-sensor-for-a-bicycle-use-data-to-create-maps.md
 nid: 11380
 uid: 431676
-
 cids: 10828,10841,12145
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/050/original/IMG_4026.JPG)
 
 # Building a pavement quality sensor for a bicycle, use data to create maps
 
-by [laurenrae](../../../profile/laurenrae) | November 21, 2014 19:15
+by [laurenrae](/profile/laurenrae) | November 21, 2014 19:15
 
-November 21, 2014 19:15 | Tags: [grassrootsmapping](../tag/grassrootsmapping), [remote-sensing](../tag/remote-sensing), [arduino](../tag/arduino), [sensing](../tag/sensing), [sensors](../tag/sensors), [transportation](../tag/transportation), [first-time-poster](../tag/first-time-poster)
+November 21, 2014 19:15 | Tags: [grassrootsmapping](/tag/grassrootsmapping), [remote-sensing](/tag/remote-sensing), [arduino](/tag/arduino), [sensing](/tag/sensing), [sensors](/tag/sensors), [transportation](/tag/transportation), [first-time-poster](/tag/first-time-poster)
 
 ----
 

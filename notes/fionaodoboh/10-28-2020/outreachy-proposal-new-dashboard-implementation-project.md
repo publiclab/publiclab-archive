@@ -6,18 +6,16 @@ author: fionaodoboh
 path: /notes/fionaodoboh/10-28-2020/outreachy-proposal-new-dashboard-implementation-project.md
 nid: 24854
 uid: 726308
-
 cids: 27554,27559,27563,27596,27604
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/341/original/New_dashboard_mockup.png)
 
 # Outreachy proposal: New Dashboard Implementation Project
 
-by [fionaodoboh](../../../profile/fionaodoboh) | October 28, 2020 21:37
+by [fionaodoboh](/profile/fionaodoboh) | October 28, 2020 21:37
 
-October 28, 2020 21:37 | Tags: [software](../tag/software), [first-time-poster](../tag/first-time-poster), [outreachy-winter-2020](../tag/outreachy-winter-2020), [outreachy-2020-winter-proposals](../tag/outreachy-2020-winter-proposals), [response:24687](../tag/response:24687)
+October 28, 2020 21:37 | Tags: [software](/tag/software), [first-time-poster](/tag/first-time-poster), [outreachy-winter-2020](/tag/outreachy-winter-2020), [outreachy-2020-winter-proposals](/tag/outreachy-2020-winter-proposals), [response:24687](/tag/response:24687)
 
 ----
 

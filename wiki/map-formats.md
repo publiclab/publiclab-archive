@@ -6,12 +6,12 @@ author: warren
 path: /wiki/map-formats.md
 nid: 226
 uid: 1
-
+cids: 
 ---
 
 # Map Formats
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 May 06, 2011 19:01 | Tags: 
 

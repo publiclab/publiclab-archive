@@ -6,18 +6,16 @@ author: cindy_excites
 path: /notes/Cindy_ExCites/10-31-2015/oil-testing-kit-beta-programme-calibration-notes.md
 nid: 12349
 uid: 1083
-
 cids: 12805,12806,12856,12857,13072,13082
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/288/original/Spectral_workbench_calibration_success.png)
 
 # Oil testing kit Beta programme - Calibration notes
 
-by [cindy_excites](../../../profile/cindy_excites) | October 31, 2015 22:15
+by [cindy_excites](/profile/cindy_excites) | October 31, 2015 22:15
 
-October 31, 2015 22:15 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [fluorescence](../tag/fluorescence), [spectrometer-calibration](../tag/spectrometer-calibration), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta), [response:12348](../tag/response:12348), [oil-testing-kit-beta-calibration](../tag/oil-testing-kit-beta-calibration), [replication:13410](../tag/replication:13410)
+October 31, 2015 22:15 | Tags: [spectrometer](/tag/spectrometer), [calibration](/tag/calibration), [fluorescence](/tag/fluorescence), [spectrometer-calibration](/tag/spectrometer-calibration), [oil-testing-kit](/tag/oil-testing-kit), [oil-testing-kit-beta](/tag/oil-testing-kit-beta), [response:12348](/tag/response:12348), [oil-testing-kit-beta-calibration](/tag/oil-testing-kit-beta-calibration), [replication:13410](/tag/replication:13410)
 
 ----
 

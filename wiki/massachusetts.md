@@ -6,14 +6,14 @@ author: Hudonnoodles
 path: /wiki/massachusetts.md
 nid: 10539
 uid: 102
-
+cids: 
 ---
 
 # massachusetts
 
-by [Hudonnoodles](../profile/Hudonnoodles)
+by [Hudonnoodles](/profile/Hudonnoodles)
 
-June 08, 2014 16:24 | Tags: [parent:northeast](../tag/parent:northeast)
+June 08, 2014 16:24 | Tags: [parent:northeast](/tag/parent:northeast)
 
 ----
 

@@ -6,18 +6,16 @@ author: vanshika421
 path: /notes/vanshika421/03-26-2019/outreachy-proposal-revamp-the-website-interface-and-add-user-friendly-features.md
 nid: 18852
 uid: 578476
-
 cids: 23442,23443,23456,23470,23484
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/728/original/CTD10112018213019-1.jpg)
 
 # Outreachy proposal: Revamp the website interface and add User friendly features
 
-by [vanshika421](../../../profile/vanshika421) | March 26, 2019 04:14
+by [vanshika421](/profile/vanshika421) | March 26, 2019 04:14
 
-March 26, 2019 04:14 | Tags: [software](../tag/software), [soc](../tag/soc), [outreachy](../tag/outreachy), [response:17359](../tag/response:17359), [first-time-poster](../tag/first-time-poster), [soc-2019](../tag/soc-2019), [outreachy-2019](../tag/outreachy-2019), [outreachy-2019-proposals](../tag/outreachy-2019-proposals), [lat:20.593684](../tag/lat:20.593684), [lon:78.96288](../tag/lon:78.96288)
+March 26, 2019 04:14 | Tags: [software](/tag/software), [soc](/tag/soc), [outreachy](/tag/outreachy), [response:17359](/tag/response:17359), [first-time-poster](/tag/first-time-poster), [soc-2019](/tag/soc-2019), [outreachy-2019](/tag/outreachy-2019), [outreachy-2019-proposals](/tag/outreachy-2019-proposals), [lat:20.593684](/tag/lat:20.593684), [lon:78.96288](/tag/lon:78.96288)
 
 ----
 

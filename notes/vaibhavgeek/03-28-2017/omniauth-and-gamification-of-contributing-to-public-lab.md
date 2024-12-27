@@ -6,16 +6,14 @@ author: vaibhavgeek
 path: /notes/vaibhavgeek/03-28-2017/omniauth-and-gamification-of-contributing-to-public-lab.md
 nid: 14066
 uid: 504058
-
 cids: 16517,16522,16523,16524
-
 ---
 
 # Omniauth and Gamification of contributing to Public Lab
 
-by [vaibhavgeek](../../../profile/vaibhavgeek) | March 28, 2017 19:03
+by [vaibhavgeek](/profile/vaibhavgeek) | March 28, 2017 19:03
 
-March 28, 2017 19:03 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [rgsoc-2017](../tag/rgsoc-2017), [soc-2017-proposals](../tag/soc-2017-proposals), [response:13975](../tag/response:13975), [first-time-poster](../tag/first-time-poster)
+March 28, 2017 19:03 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [gsoc-2017](/tag/gsoc-2017), [soc](/tag/soc), [soc-2017](/tag/soc-2017), [rgsoc-2017](/tag/rgsoc-2017), [soc-2017-proposals](/tag/soc-2017-proposals), [response:13975](/tag/response:13975), [first-time-poster](/tag/first-time-poster)
 
 ----
 

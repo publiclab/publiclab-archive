@@ -6,16 +6,14 @@ author: Abhay7417
 path: /notes/Abhay7417/02-17-2016/question-micro-volume-spectrometer-using-arduino-and-light-detecting-resistor.md
 nid: 12700
 uid: 465695
-
 cids: 13645,13657,13660,13675,14112
-
 ---
 
 # Question: Micro volume spectrometer using arduino and light detecting resistor.
 
-by [Abhay7417](../../../profile/Abhay7417) | February 17, 2016 09:40
+by [Abhay7417](/profile/Abhay7417) | February 17, 2016 09:40
 
-February 17, 2016 09:40 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered), [first-time-poster](../tag/first-time-poster)
+February 17, 2016 09:40 | Tags: [question:spectral-workbench](/tag/question:spectral-workbench), [answered](/tag/answered), [first-time-poster](/tag/first-time-poster)
 
 ----
 

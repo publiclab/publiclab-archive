@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/05-03-2019/what-soil-testing-methods-might-be-good-for-someone-who-lives-by-a-highway-overpass.md
 nid: 19231
 uid: 422561
-
 cids: 24040,24052,24161,24165,24349
-
 ---
 
 #  What soil testing methods might be good for someone who lives by a highway overpass?
 
-by [stevie](../../../profile/stevie) | May 03, 2019 16:29
+by [stevie](/profile/stevie) | May 03, 2019 16:29
 
-May 03, 2019 16:29 | Tags: [question:general](../tag/question:general), [question:soil](../tag/question:soil)
+May 03, 2019 16:29 | Tags: [question:general](/tag/question:general), [question:soil](/tag/question:soil)
 
 ----
 

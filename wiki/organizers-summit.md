@@ -6,16 +6,16 @@ author: liz
 path: /wiki/organizers-summit.md
 nid: 10385
 uid: 7
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/985/original/14390883594_a612953eec_z_%281%29.jpg)
 
 # organizers-summit
 
-by [stevie](../profile/stevie), [warren](../profile/warren), [cfastie](../profile/cfastie), [liz](../profile/liz), [philipsilva](../profile/philipsilva), [Bronwen](../profile/Bronwen)
+by [stevie](/profile/stevie), [warren](/profile/warren), [cfastie](/profile/cfastie), [liz](/profile/liz), [philipsilva](/profile/philipsilva), [Bronwen](/profile/Bronwen)
 
-April 30, 2014 18:09 | Tags: [community](../tag/community), [organizers](../tag/organizers), [parent:organizers](../tag/parent:organizers)
+April 30, 2014 18:09 | Tags: [community](/tag/community), [organizers](/tag/organizers), [parent:organizers](/tag/parent:organizers)
 
 ----
 

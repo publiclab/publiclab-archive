@@ -6,16 +6,14 @@ author: therman
 path: /notes/therman/11-18-2014/thermal-camera-core-cost.md
 nid: 11365
 uid: 431635
-
 cids: 
-
 ---
 
 # thermal camera core cost
 
-by [therman](../../../profile/therman) | November 18, 2014 00:21
+by [therman](/profile/therman) | November 18, 2014 00:21
 
-November 18, 2014 00:21 | Tags: [first-time-poster](../tag/first-time-poster)
+November 18, 2014 00:21 | Tags: [first-time-poster](/tag/first-time-poster)
 
 ----
 

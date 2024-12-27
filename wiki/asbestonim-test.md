@@ -6,16 +6,16 @@ author: hagitkeysar
 path: /wiki/asbestonim-test.md
 nid: 11405
 uid: 152
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/358/original/title-wiki-cropped.jpg)
 
 # Asbestonim-test
 
-by [asbest](../profile/asbest), [ytavb](../profile/ytavb), [hagitkeysar](../profile/hagitkeysar)
+by [asbest](/profile/asbest), [ytavb](/profile/ytavb), [hagitkeysar](/profile/hagitkeysar)
 
-November 26, 2014 18:39 | Tags: [balloon-mapping](../tag/balloon-mapping), [jerusalem](../tag/jerusalem), [israel](../tag/israel), [palestine](../tag/palestine), [urban-planning](../tag/urban-planning), [list:publiclab-jerusalem](../tag/list:publiclab-jerusalem), [maree-makom](../tag/maree-makom), [kiryat-hayovel](../tag/kiryat-hayovel), [public-participation](../tag/public-participation)
+November 26, 2014 18:39 | Tags: [balloon-mapping](/tag/balloon-mapping), [jerusalem](/tag/jerusalem), [israel](/tag/israel), [palestine](/tag/palestine), [urban-planning](/tag/urban-planning), [list:publiclab-jerusalem](/tag/list:publiclab-jerusalem), [maree-makom](/tag/maree-makom), [kiryat-hayovel](/tag/kiryat-hayovel), [public-participation](/tag/public-participation)
 
 ----
 

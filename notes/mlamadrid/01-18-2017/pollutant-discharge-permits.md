@@ -6,18 +6,16 @@ author: mlamadrid
 path: /notes/mlamadrid/01-18-2017/pollutant-discharge-permits.md
 nid: 13858
 uid: 45586
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/294/original/city-of-durham-stormwater-services-sta-member-in-a-drainage-ditch.JPG)
 
 # Pollutant  Discharge Permits
 
-by [mlamadrid](../../../profile/mlamadrid) | January 18, 2017 00:02
+by [mlamadrid](/profile/mlamadrid) | January 18, 2017 00:02
 
-January 18, 2017 00:02 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [stormwater](../tag/stormwater), [with:gretchengehrke](../tag/with:gretchengehrke), [npdes](../tag/npdes), [permits](../tag/permits), [communityscienceforum](../tag/communityscienceforum)
+January 18, 2017 00:02 | Tags: [water-quality](/tag/water-quality), [water](/tag/water), [stormwater](/tag/stormwater), [with:gretchengehrke](/tag/with:gretchengehrke), [npdes](/tag/npdes), [permits](/tag/permits), [communityscienceforum](/tag/communityscienceforum)
 
 ----
 

@@ -6,18 +6,16 @@ author: willie
 path: /notes/Willie/04-01-2014/field-testing-the-shenyei-pm-sensor.md
 nid: 10247
 uid: 235174
-
 cids: 8631,8634,8642,8652,8662,8829,9586,11948
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/471/original/ShinyeiPPD42NS_Insides_Labeled_600.jpg)
 
 # Field Testing the Shenyei PM sensor
 
-by [willie](../../../profile/willie) | April 01, 2014 15:38
+by [willie](/profile/willie) | April 01, 2014 15:38
 
-April 01, 2014 15:38 | Tags: [particulate-sensing](../tag/particulate-sensing), [air-quality](../tag/air-quality), [dustduino](../tag/dustduino), [dust](../tag/dust), [optical-sensor](../tag/optical-sensor), [academic-journal](../tag/academic-journal), [response:9818](../tag/response:9818), [particulate](../tag/particulate), [pm](../tag/pm), [shinyei](../tag/shinyei), [air-sensors](../tag/air-sensors)
+April 01, 2014 15:38 | Tags: [particulate-sensing](/tag/particulate-sensing), [air-quality](/tag/air-quality), [dustduino](/tag/dustduino), [dust](/tag/dust), [optical-sensor](/tag/optical-sensor), [academic-journal](/tag/academic-journal), [response:9818](/tag/response:9818), [particulate](/tag/particulate), [pm](/tag/pm), [shinyei](/tag/shinyei), [air-sensors](/tag/air-sensors)
 
 ----
 

@@ -6,16 +6,16 @@ author: stevie
 path: /wiki/2015-regional-barnraising.md
 nid: 11987
 uid: 422561
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/379/original/20150613_153246.jpg)
 
 # 2015 Regional Barnraising 
 
-by [liz](../profile/liz), [stevie](../profile/stevie), [klie](../profile/klie)
+by [liz](/profile/liz), [stevie](/profile/stevie), [klie](/profile/klie)
 
-June 18, 2015 14:22 | Tags: [barnraising](../tag/barnraising), [chicago](../tag/chicago), [midwest](../tag/midwest), [mid-west](../tag/mid-west), [regionalbarnraising](../tag/regionalbarnraising)
+June 18, 2015 14:22 | Tags: [barnraising](/tag/barnraising), [chicago](/tag/chicago), [midwest](/tag/midwest), [mid-west](/tag/mid-west), [regionalbarnraising](/tag/regionalbarnraising)
 
 ----
 

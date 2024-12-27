@@ -6,12 +6,12 @@ author: gonzoearth
 path: /wiki/map-tools-roadmap.md
 nid: 447
 uid: 12
-
+cids: 
 ---
 
 # PLOTS Map Toolkit
 
-by [warren](../profile/warren), [gonzoearth](../profile/gonzoearth)
+by [warren](/profile/warren), [gonzoearth](/profile/gonzoearth)
 
 August 29, 2011 18:58 | Tags: 
 

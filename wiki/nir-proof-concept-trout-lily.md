@@ -6,14 +6,14 @@ author: cfastie
 path: /wiki/nir-proof-concept-trout-lily.md
 nid: 1815
 uid: 554
-
+cids: 
 ---
 
 # NIR proof of concept: Trout Lily
 
-by [cfastie](../profile/cfastie)
+by [cfastie](/profile/cfastie)
 
-April 27, 2012 16:53 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont)
+April 27, 2012 16:53 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [vermont](/tag/vermont)
 
 ----
 

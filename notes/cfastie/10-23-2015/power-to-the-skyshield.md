@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/10-23-2015/power-to-the-skyshield.md
 nid: 12330
 uid: 554
-
 cids: 12776,12777,12814,12816,12817
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/085/original/notiltsky.JPG)
 
 # Power to the SkyShield
 
-by [cfastie](../../../profile/cfastie) | October 23, 2015 18:43
+by [cfastie](/profile/cfastie) | October 23, 2015 18:43
 
-October 23, 2015 18:43 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kite](../tag/kite), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [response:12323](../tag/response:12323)
+October 23, 2015 18:43 | Tags: [kite-mapping](/tag/kite-mapping), [vermont](/tag/vermont), [kite](/tag/kite), [saturnv](/tag/saturnv), [skyshield](/tag/skyshield), [response:12323](/tag/response:12323)
 
 ----
 

@@ -6,14 +6,14 @@ author: Haripriya
 path: /wiki/ottawa.md
 nid: 10591
 uid: 421299
-
+cids: 
 ---
 
 # ottawa
 
-by [warren](../profile/warren), [Haripriya](../profile/Haripriya)
+by [warren](/profile/warren), [Haripriya](/profile/Haripriya)
 
-June 19, 2014 14:42 | Tags: [spectrometer](../tag/spectrometer), [chapter](../tag/chapter), [water-quality](../tag/water-quality), [water](../tag/water), [canada](../tag/canada), [ottawa](../tag/ottawa), [events:ottawa](../tag/events:ottawa), [parent:region](../tag/parent:region)
+June 19, 2014 14:42 | Tags: [spectrometer](/tag/spectrometer), [chapter](/tag/chapter), [water-quality](/tag/water-quality), [water](/tag/water), [canada](/tag/canada), [ottawa](/tag/ottawa), [events:ottawa](/tag/events:ottawa), [parent:region](/tag/parent:region)
 
 ----
 

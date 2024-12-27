@@ -6,18 +6,16 @@ author: anishshah101
 path: /notes/anishshah101/06-22-2014/gsoc-update-projective-transformations.md
 nid: 10601
 uid: 421046
-
 cids: 9237,9317,9320,9321,9350,9351,9369
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/920/original/4.png)
 
 # GSoC Update- Projective Transformations
 
-by [anishshah101](../../../profile/anishshah101) | June 22, 2014 06:45
+by [anishshah101](/profile/anishshah101) | June 22, 2014 06:45
 
-June 22, 2014 06:45 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [developers](../tag/developers), [gsoc-2014](../tag/gsoc-2014)
+June 22, 2014 06:45 | Tags: [mapknitter](/tag/mapknitter), [gsoc](/tag/gsoc), [developers](/tag/developers), [gsoc-2014](/tag/gsoc-2014)
 
 ----
 

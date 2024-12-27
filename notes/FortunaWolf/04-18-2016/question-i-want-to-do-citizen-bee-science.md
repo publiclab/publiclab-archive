@@ -6,16 +6,14 @@ author: FortunaWolf
 path: /notes/FortunaWolf/04-18-2016/question-i-want-to-do-citizen-bee-science.md
 nid: 13000
 uid: 470770
-
 cids: 14322,14323,14324,14325,14353,14357,14414
-
 ---
 
 # Question: I want to do citizen bee science
 
-by [FortunaWolf](../../../profile/FortunaWolf) | April 18, 2016 15:49
+by [FortunaWolf](/profile/FortunaWolf) | April 18, 2016 15:49
 
-April 18, 2016 15:49 | Tags: [spectrometer](../tag/spectrometer), [question:spectrometry](../tag/question:spectrometry), [bees](../tag/bees), [pollen](../tag/pollen), [resolution](../tag/resolution)
+April 18, 2016 15:49 | Tags: [spectrometer](/tag/spectrometer), [question:spectrometry](/tag/question:spectrometry), [bees](/tag/bees), [pollen](/tag/pollen), [resolution](/tag/resolution)
 
 ----
 

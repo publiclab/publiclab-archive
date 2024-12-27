@@ -6,14 +6,14 @@ author: warren
 path: /wiki/website-projects.md
 nid: 1808
 uid: 1
-
+cids: 
 ---
 
 # Website projects
 
-by [warren](../profile/warren), [liz](../profile/liz), [alicesmith](../profile/alicesmith), [sara](../profile/sara)
+by [warren](/profile/warren), [liz](/profile/liz), [alicesmith](/profile/alicesmith), [sara](/profile/sara)
 
-April 27, 2012 00:08 | Tags: [website](../tag/website), [out-of-date](../tag/out-of-date)
+April 27, 2012 00:08 | Tags: [website](/tag/website), [out-of-date](/tag/out-of-date)
 
 ----
 

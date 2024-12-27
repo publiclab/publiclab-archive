@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/09-28-2016/diy-microscope-resources.md
 nid: 13503
 uid: 7
-
 cids: 18534
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/195/original/10-1371-journal-pone-0098781-g001.png)
 
 # DIY microscope resources
 
-by [liz](../../../profile/liz) | September 28, 2016 23:28
+by [liz](/profile/liz) | September 28, 2016 23:28
 
-September 28, 2016 23:28 | Tags: [pm](../tag/pm), [literature-review](../tag/literature-review), [microscope](../tag/microscope), [with:maxliboiron](../tag/with:maxliboiron), [gosh](../tag/gosh), [microscopes](../tag/microscopes), [microplastics](../tag/microplastics), [background-research](../tag/background-research), [existing-projects](../tag/existing-projects)
+September 28, 2016 23:28 | Tags: [pm](/tag/pm), [literature-review](/tag/literature-review), [microscope](/tag/microscope), [with:maxliboiron](/tag/with:maxliboiron), [gosh](/tag/gosh), [microscopes](/tag/microscopes), [microplastics](/tag/microplastics), [background-research](/tag/background-research), [existing-projects](/tag/existing-projects)
 
 ----
 

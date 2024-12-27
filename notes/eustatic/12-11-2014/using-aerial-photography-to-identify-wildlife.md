@@ -6,18 +6,16 @@ author: eustatic
 path: /12-11-2014/using-aerial-photography-to-identify-wildlife.md
 nid: 11449
 uid: 379
-
 cids: 10930,10931,10933,10939
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/338/original/bird_id_in_BM1_image.png)
 
 # Using Aerial Photography to Identify Wildlife
 
-by [eustatic](../../../profile/eustatic) | December 11, 2014 15:24
+by [eustatic](/profile/eustatic) | December 11, 2014 15:24
 
-December 11, 2014 15:24 | Tags: [gulf-coast](../tag/gulf-coast), [barataria-bay](../tag/barataria-bay), [mapknitter](../tag/mapknitter), [barataria](../tag/barataria), [washustlouis](../tag/washustlouis), [washu-stlouis](../tag/washu-stlouis), [bird](../tag/bird), [response:11129](../tag/response:11129)
+December 11, 2014 15:24 | Tags: [gulf-coast](/tag/gulf-coast), [barataria-bay](/tag/barataria-bay), [mapknitter](/tag/mapknitter), [barataria](/tag/barataria), [washustlouis](/tag/washustlouis), [washu-stlouis](/tag/washu-stlouis), [bird](/tag/bird), [response:11129](/tag/response:11129)
 
 ----
 

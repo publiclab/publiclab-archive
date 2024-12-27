@@ -6,16 +6,14 @@ author: jjcreedon
 path: /notes/jjcreedon/11-16-2017/how-is-technical-advisory-committee-formed-for-a-citizen-science-project.md
 nid: 15197
 uid: 515357
-
 cids: 17718,17767,22729,22741
-
 ---
 
 # How is a Technical Advisory Committee formed (for a Citizen Science Project)?
 
-by [jjcreedon](../../../profile/jjcreedon) | November 16, 2017 20:06
+by [jjcreedon](/profile/jjcreedon) | November 16, 2017 20:06
 
-November 16, 2017 20:06 | Tags: [answered](../tag/answered), [question:question](../tag/question:question), [question:advocacy](../tag/question:advocacy), [question:soil-sampling-toolkit](../tag/question:soil-sampling-toolkit), [first-time-poster](../tag/first-time-poster)
+November 16, 2017 20:06 | Tags: [answered](/tag/answered), [question:question](/tag/question:question), [question:advocacy](/tag/question:advocacy), [question:soil-sampling-toolkit](/tag/question:soil-sampling-toolkit), [first-time-poster](/tag/first-time-poster)
 
 ----
 

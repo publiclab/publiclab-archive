@@ -6,18 +6,16 @@ author: gwirth
 path: /notes/gwirth/06-18-2014/join-us-for-the-raritan-bay-festival-kite-balloon-mapping-saturday-june-28th-staten-island.md
 nid: 10585
 uid: 30539
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/834/original/Raritan_Bay_Festival_2014_FLyer.jpg)
 
 # Join us for the Raritan Bay Festival Kite / Balloon mapping! Saturday June 28th, Staten Island 
 
-by [gwirth](../../../profile/gwirth) | June 18, 2014 15:11
+by [gwirth](/profile/gwirth) | June 18, 2014 15:11
 
-June 18, 2014 15:11 | Tags: [new-york-city](../tag/new-york-city), [kite-mapping](../tag/kite-mapping), [event](../tag/event), [northeast](../tag/northeast), [staten-island](../tag/staten-island), [scape](../tag/scape), [event:kite-mapping](../tag/event:kite-mapping)
+June 18, 2014 15:11 | Tags: [new-york-city](/tag/new-york-city), [kite-mapping](/tag/kite-mapping), [event](/tag/event), [northeast](/tag/northeast), [staten-island](/tag/staten-island), [scape](/tag/scape), [event:kite-mapping](/tag/event:kite-mapping)
 
 ----
 

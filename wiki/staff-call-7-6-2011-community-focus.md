@@ -6,12 +6,12 @@ author: warren
 path: /wiki/staff-call-7-6-2011-community-focus.md
 nid: 393
 uid: 1
-
+cids: 
 ---
 
 # Staff Call 7 6 2011: Community Focus
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 July 19, 2011 22:01 | Tags: 
 

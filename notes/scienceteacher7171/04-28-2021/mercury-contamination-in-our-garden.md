@@ -6,18 +6,16 @@ author: scienceteacher7171
 path: /notes/scienceteacher7171/04-28-2021/mercury-contamination-in-our-garden.md
 nid: 26390
 uid: 739693
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/604/original/alumina.jpg)
 
 # Mercury Contamination in our Garden?
 
-by [scienceteacher7171](../../../profile/scienceteacher7171) | April 28, 2021 20:39
+by [scienceteacher7171](/profile/scienceteacher7171) | April 28, 2021 20:39
 
-April 28, 2021 20:39 | Tags: [soil](../tag/soil), [contamination](../tag/contamination), [pollution](../tag/pollution), [mercury](../tag/mercury), [airborne](../tag/airborne), [lat:30](../tag/lat:30), [issue-brief](../tag/issue-brief), [lon:-90](../tag/lon:-90), [first-time-poster](../tag/first-time-poster), [zoom:5](../tag/zoom:5), [wsjhsoil](../tag/wsjhsoil), [mercuryinsoil](../tag/mercuryinsoil)
+April 28, 2021 20:39 | Tags: [soil](/tag/soil), [contamination](/tag/contamination), [pollution](/tag/pollution), [mercury](/tag/mercury), [airborne](/tag/airborne), [lat:30](/tag/lat:30), [issue-brief](/tag/issue-brief), [lon:-90](/tag/lon:-90), [first-time-poster](/tag/first-time-poster), [zoom:5](/tag/zoom:5), [wsjhsoil](/tag/wsjhsoil), [mercuryinsoil](/tag/mercuryinsoil)
 
 ----
 
@@ -53,4 +51,4 @@ West St. John High 8th graders, WSJH Garden Club, and the community of West St. 
 
 Can there be soil contamination this far from the plant? If we find mercury in the soil how do we know it's from the plant? How much mercury is too much? What can we do with this information? 
 
-[tagname](../../tag/question:tagname)
+[tagname](/tag/question:tagname)

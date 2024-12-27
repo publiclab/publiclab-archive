@@ -6,14 +6,14 @@ author: warren
 path: /wiki/spectral-workbench-offline.md
 nid: 4212
 uid: 1
-
+cids: 
 ---
 
 # Spectral Workbench offline
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-October 05, 2012 20:07 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench)
+October 05, 2012 20:07 | Tags: [spectrometer](/tag/spectrometer), [spectralworkbench](/tag/spectralworkbench)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/02-15-2018/call-for-summer-of-code-2018-proposals.md
 nid: 15743
 uid: 1
-
 cids: 18443,18445,18519,18590,18620,18624,18629,18694,18869,18905,18917,18935,19152,19153,19162,19268,19269
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/575/original/Screen_Shot_2018-02-15_at_4.03.08_PM.png)
 
 # Call for Summer of Code 2018 proposals!
 
-by [warren](../../../profile/warren) | February 15, 2018 21:05
+by [warren](/profile/warren) | February 15, 2018 21:05
 
-February 15, 2018 21:05 | Tags: [website](../tag/website), [software](../tag/software), [gsoc](../tag/gsoc), [blog](../tag/blog), [developers](../tag/developers), [code](../tag/code), [wwg](../tag/wwg), [software-outreach](../tag/software-outreach), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [response:14162](../tag/response:14162), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [rgsoc-2018](../tag/rgsoc-2018), [call-for-proposals](../tag/call-for-proposals)
+February 15, 2018 21:05 | Tags: [website](/tag/website), [software](/tag/software), [gsoc](/tag/gsoc), [blog](/tag/blog), [developers](/tag/developers), [code](/tag/code), [wwg](/tag/wwg), [software-outreach](/tag/software-outreach), [rgsoc](/tag/rgsoc), [soc](/tag/soc), [response:13975](/tag/response:13975), [response:14162](/tag/response:14162), [gsoc-2018](/tag/gsoc-2018), [soc-2018](/tag/soc-2018), [rgsoc-2018](/tag/rgsoc-2018), [call-for-proposals](/tag/call-for-proposals)
 
 ----
 
@@ -74,10 +72,10 @@ Before or after you post your own draft, read through others' listed below. Your
 
 ## Proposals
 
-[soc-2018-proposals](../../tag/soc-2018-proposals)
+[soc-2018-proposals](/tag/soc-2018-proposals)
 
 ---------
 
 ## Questions
 
-[soc](../../tag/question:soc)
+[soc](/tag/question:soc)

@@ -6,18 +6,16 @@ author: Bronwen
 path: /notes/bronwen/02-02-2018/community-kits-prerequisites-checklist.md
 nid: 15665
 uid: 237313
-
 cids: 18351,18353,18354,18355,18357,18367,18368,18452,18484,18485,18492,18520,18653,18657,18723,18825
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/430/original/kitsbanner2.jpg)
 
 # Community Kits Prerequisites Checklist
 
-by [Bronwen](../../../profile/Bronwen) | February 02, 2018 14:57
+by [Bronwen](/profile/Bronwen) | February 02, 2018 14:57
 
-February 02, 2018 14:57 | Tags: [open-source](../tag/open-source), [open-hardware](../tag/open-hardware), [kits](../tag/kits), [hardware](../tag/hardware), [community-kits](../tag/community-kits), [public-lab-store](../tag/public-lab-store)
+February 02, 2018 14:57 | Tags: [open-source](/tag/open-source), [open-hardware](/tag/open-hardware), [kits](/tag/kits), [hardware](/tag/hardware), [community-kits](/tag/community-kits), [public-lab-store](/tag/public-lab-store)
 
 ----
 

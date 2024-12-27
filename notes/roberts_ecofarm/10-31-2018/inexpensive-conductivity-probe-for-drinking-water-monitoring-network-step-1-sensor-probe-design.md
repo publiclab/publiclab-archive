@@ -6,18 +6,16 @@ author: roberts_ecofarm
 path: /notes/roberts_ecofarm/10-31-2018/inexpensive-conductivity-probe-for-drinking-water-monitoring-network-step-1-sensor-probe-design.md
 nid: 17448
 uid: 556121
-
 cids: 21079,21258
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/412/original/water_quality.jpg)
 
 # Inexpensive conductivity probe   Step 1 - Sensor Probe design (revised)
 
-by [roberts_ecofarm](../../../profile/roberts_ecofarm) | October 31, 2018 16:55
+by [roberts_ecofarm](/profile/roberts_ecofarm) | October 31, 2018 16:55
 
-October 31, 2018 16:55 | Tags: [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [sensor](../tag/sensor), [hardware](../tag/hardware)
+October 31, 2018 16:55 | Tags: [water-quality](/tag/water-quality), [conductivity](/tag/conductivity), [sensor](/tag/sensor), [hardware](/tag/hardware)
 
 ----
 

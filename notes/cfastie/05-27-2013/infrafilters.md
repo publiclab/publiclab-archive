@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/05-27-2013/infrafilters.md
 nid: 7933
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/416/original/WheatNBG.jpg)
 
 # Infrafilters
 
-by [cfastie](../../../profile/cfastie) | May 27, 2013 20:03
+by [cfastie](/profile/cfastie) | May 27, 2013 20:03
 
-May 27, 2013 20:03 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nir](../tag/nir), [vermont](../tag/vermont), [photoshop](../tag/photoshop), [infragram](../tag/infragram), [rosco](../tag/rosco), [infrablue](../tag/infrablue), [infragram-filters](../tag/infragram-filters)
+May 27, 2013 20:03 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [nir](/tag/nir), [vermont](/tag/vermont), [photoshop](/tag/photoshop), [infragram](/tag/infragram), [rosco](/tag/rosco), [infrablue](/tag/infrablue), [infragram-filters](/tag/infragram-filters)
 
 ----
 

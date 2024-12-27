@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/03-10-2016/google-summer-of-code-2016-draft-proposals.md
 nid: 12827
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/740/original/Screenshot_2016-03-10_at_2.11.03_PM.png)
 
 # Google Summer of Code 2016: draft proposals
 
-by [warren](../../../profile/warren) | March 10, 2016 19:19
+by [warren](/profile/warren) | March 10, 2016 19:19
 
-March 10, 2016 19:19 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [coding](../tag/coding), [seeks:responses](../tag/seeks:responses), [gsoc-2016](../tag/gsoc-2016), [gsoc-2016-proposals](../tag/gsoc-2016-proposals)
+March 10, 2016 19:19 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [coding](/tag/coding), [seeks:responses](/tag/seeks:responses), [gsoc-2016](/tag/gsoc-2016), [gsoc-2016-proposals](/tag/gsoc-2016-proposals)
 
 ----
 

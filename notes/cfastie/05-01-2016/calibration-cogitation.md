@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/05-01-2016/calibration-cogitation.md
 nid: 13058
 uid: 554
-
 cids: 14510,14524,15211,15213,15216,15218,15658,15708,16586,16588,16594
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/890/original/IRPAP_20160418-0170.jpg)
 
 # Calibration cogitation
 
-by [cfastie](../../../profile/cfastie) | May 01, 2016 19:19
+by [cfastie](/profile/cfastie) | May 01, 2016 19:19
 
-May 01, 2016 19:19 | Tags: [ndvi](../tag/ndvi), [calibration](../tag/calibration), [infrared](../tag/infrared), [filter](../tag/filter), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [targets](../tag/targets), [response:13028](../tag/response:13028), [qgis](../tag/qgis)
+May 01, 2016 19:19 | Tags: [ndvi](/tag/ndvi), [calibration](/tag/calibration), [infrared](/tag/infrared), [filter](/tag/filter), [infragram](/tag/infragram), [plant-health](/tag/plant-health), [targets](/tag/targets), [response:13028](/tag/response:13028), [qgis](/tag/qgis)
 
 ----
 

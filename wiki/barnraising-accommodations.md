@@ -6,12 +6,12 @@ author: adam-griffith
 path: /wiki/barnraising-accommodations.md
 nid: 498
 uid: 3
-
+cids: 
 ---
 
 # barnraising accommodations
 
-by [adam-griffith](../profile/adam-griffith)
+by [adam-griffith](/profile/adam-griffith)
 
 October 04, 2011 20:46 | Tags: 
 

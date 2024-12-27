@@ -6,18 +6,16 @@ author: gautami_gg
 path: /notes/gautami_gg/07-23-2019/gsoc-phase-ll-evaluation.md
 nid: 20250
 uid: 579624
-
 cids: 25133,25154
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/020/original/1_fgo52Z9Bom9I5phIjSAqSA.png)
 
 # GSoC Phase ll evaluation
 
-by [gautami_gg](../../../profile/gautami_gg) | July 23, 2019 15:07
+by [gautami_gg](/profile/gautami_gg) | July 23, 2019 15:07
 
-July 23, 2019 15:07 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-eval](../tag/soc-2019-eval)
+July 23, 2019 15:07 | Tags: [gsoc](/tag/gsoc), [soc](/tag/soc), [gsoc-2019](/tag/gsoc-2019), [soc-2019](/tag/soc-2019), [soc-2019-eval](/tag/soc-2019-eval)
 
 ----
 

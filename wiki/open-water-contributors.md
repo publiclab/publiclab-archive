@@ -6,12 +6,12 @@ author: donblair
 path: /wiki/open-water-contributors.md
 nid: 10942
 uid: 43651
-
+cids: 
 ---
 
 # open-water-contributors
 
-by [donblair](../profile/donblair)
+by [donblair](/profile/donblair)
 
 July 21, 2014 21:34 | Tags: 
 

@@ -6,16 +6,14 @@ author: liz
 path: /notes/liz/09-26-2016/how-can-i-know-if-my-plant-based-air-filter-is-working.md
 nid: 13482
 uid: 7
-
 cids: 15506,15552,15553,22307,22308
-
 ---
 
 # How can i know if my plant-based air filter is working?
 
-by [liz](../../../profile/liz) | September 26, 2016 15:43
+by [liz](/profile/liz) | September 26, 2016 15:43
 
-September 26, 2016 15:43 | Tags: [question:air-quality](../tag/question:air-quality), [answered](../tag/answered), [question:open-air](../tag/question:open-air), [question:indoor-air-remediation](../tag/question:indoor-air-remediation)
+September 26, 2016 15:43 | Tags: [question:air-quality](/tag/question:air-quality), [answered](/tag/answered), [question:open-air](/tag/question:open-air), [question:indoor-air-remediation](/tag/question:indoor-air-remediation)
 
 ----
 

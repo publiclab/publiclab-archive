@@ -6,12 +6,12 @@ author: warren
 path: /wiki/outcomes.md
 nid: 172
 uid: 1
-
+cids: 
 ---
 
 # Outcomes
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 April 12, 2011 19:16 | Tags: 
 

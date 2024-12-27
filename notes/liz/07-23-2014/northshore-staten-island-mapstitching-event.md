@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/07-23-2014/northshore-staten-island-mapstitching-event.md
 nid: 10952
 uid: 7
-
 cids: 9598,9600,9712,9713,9742
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/459/original/002.JPG)
 
 # Northshore Staten Island mapstitching event!
 
-by [liz](../../../profile/liz) | July 23, 2014 16:03
+by [liz](/profile/liz) | July 23, 2014 16:03
 
-July 23, 2014 16:03 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event), [staten-island](../tag/staten-island), [event:rsvp](../tag/event:rsvp), [date:08-01-2014](../tag/date:08-01-2014), [rsvp:bronwen](../tag/rsvp:bronwen), [rsvp:liz](../tag/rsvp:liz), [rsvp:carlosst](../tag/rsvp:carlosst), [with:bronwen](../tag/with:bronwen)
+July 23, 2014 16:03 | Tags: [new-york-city](/tag/new-york-city), [event](/tag/event), [staten-island](/tag/staten-island), [event:rsvp](/tag/event:rsvp), [date:08-01-2014](/tag/date:08-01-2014), [rsvp:bronwen](/tag/rsvp:bronwen), [rsvp:liz](/tag/rsvp:liz), [rsvp:carlosst](/tag/rsvp:carlosst), [with:bronwen](/tag/with:bronwen)
 
 ----
 

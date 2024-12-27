@@ -6,18 +6,16 @@ author: mridulnagpal
 path: /notes/mridulnagpal/08-23-2017/gsoc-submission-for-map-of-projects.md
 nid: 14784
 uid: 497953
-
 cids: 17219,17228,17236,17248,17252,17253,17254,17255,17257,17263,17300
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/401/original/Screenshot_from_2017-08-02_08-34-30.png)
 
 # GSoC Submission for Map of Projects
 
-by [mridulnagpal](../../../profile/mridulnagpal) | August 23, 2017 20:04
+by [mridulnagpal](/profile/mridulnagpal) | August 23, 2017 20:04
 
-August 23, 2017 20:04 | Tags: [gsoc](../tag/gsoc), [google-summer-of-code](../tag/google-summer-of-code), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [response:14788](../tag/response:14788)
+August 23, 2017 20:04 | Tags: [gsoc](/tag/gsoc), [google-summer-of-code](/tag/google-summer-of-code), [gsoc-2017](/tag/gsoc-2017), [soc](/tag/soc), [soc-2017](/tag/soc-2017), [response:14788](/tag/response:14788)
 
 ----
 

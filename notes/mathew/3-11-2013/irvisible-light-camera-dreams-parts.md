@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/3-11-2013/irvisible-light-camera-dreams-parts.md
 nid: 6294
 uid: 4
-
 cids: 4016,4017,4021,4029,4038,4138,4139,4142,4149,4474
-
 ---
 
 ![](https://publiclab.org/sites/default/files/2013-03-11_18-45-18_446.jpg)
 
 # IR/Visible light camera dreams & parts
 
-by [mathew](../../../profile/mathew) | March 12, 2013 02:31
+by [mathew](/profile/mathew) | March 12, 2013 02:31
 
-March 12, 2013 02:31 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ircam](../tag/ircam), [near-ir](../tag/near-ir)
+March 12, 2013 02:31 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ircam](/tag/ircam), [near-ir](/tag/near-ir)
 
 ----
 

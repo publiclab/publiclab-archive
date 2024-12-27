@@ -6,18 +6,16 @@ author: klie
 path: /notes/klie/09-14-2015/homebrew-fellowship-application-diy-oil-testing-narratives.md
 nid: 12213
 uid: 441262
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/564/original/Screen_Shot_2015-09-14_at_11.04.19_AM.png)
 
 # Homebrew Fellowship Application:  DIY Oil Testing Narratives
 
-by [klie](../../../profile/klie) | September 14, 2015 16:41
+by [klie](/profile/klie) | September 14, 2015 16:41
 
-September 14, 2015 16:41 | Tags: [kit](../tag/kit), [oil-testing](../tag/oil-testing), [fellows](../tag/fellows), [advocacy](../tag/advocacy)
+September 14, 2015 16:41 | Tags: [kit](/tag/kit), [oil-testing](/tag/oil-testing), [fellows](/tag/fellows), [advocacy](/tag/advocacy)
 
 ----
 

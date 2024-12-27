@@ -6,18 +6,16 @@ author: Schroyer
 path: /notes/Schroyer/11-23-2013/measure-coarse-and-fine-air-particulates-with-a-dustduino.md
 nid: 9818
 uid: 381809
-
 cids: 7711,7713,7792,8073,8094,8095,8096,8143,8144,8145,8651,8828,8832,8835,8845,8881,8884,9231,10507,11275,11276,11937,11945,13172,16576,20202,20246,20249,20250,20382,20857,20860,20861
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/305/original/dustduino_proto_2_desk.jpg)
 
 # Measure coarse and fine air particulates with a DustDuino
 
-by [Schroyer](../../../profile/Schroyer) | November 23, 2013 18:39
+by [Schroyer](/profile/Schroyer) | November 23, 2013 18:39
 
-November 23, 2013 18:39 | Tags: [arduino](../tag/arduino), [particulate-sensing](../tag/particulate-sensing), [air-quality](../tag/air-quality), [dustduino](../tag/dustduino), [dust](../tag/dust), [particulates](../tag/particulates), [particulate](../tag/particulate), [pm](../tag/pm), [fablab](../tag/fablab), [shinyei](../tag/shinyei), [activity:dustduino](../tag/activity:dustduino), [activity:pm](../tag/activity:pm), [activity:data-logging](../tag/activity:data-logging), [activity:dust](../tag/activity:dust), [air-sensors](../tag/air-sensors), [first-time-poster](../tag/first-time-poster)
+November 23, 2013 18:39 | Tags: [arduino](/tag/arduino), [particulate-sensing](/tag/particulate-sensing), [air-quality](/tag/air-quality), [dustduino](/tag/dustduino), [dust](/tag/dust), [particulates](/tag/particulates), [particulate](/tag/particulate), [pm](/tag/pm), [fablab](/tag/fablab), [shinyei](/tag/shinyei), [activity:dustduino](/tag/activity:dustduino), [activity:pm](/tag/activity:pm), [activity:data-logging](/tag/activity:data-logging), [activity:dust](/tag/activity:dust), [air-sensors](/tag/air-sensors), [first-time-poster](/tag/first-time-poster)
 
 ----
 

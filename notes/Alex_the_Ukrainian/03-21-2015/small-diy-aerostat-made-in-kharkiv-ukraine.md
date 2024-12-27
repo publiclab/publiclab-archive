@@ -6,18 +6,16 @@ author: Alex_the_Ukrainian
 path: /notes/Alex_the_Ukrainian/03-21-2015/small-diy-aerostat-made-in-kharkiv-ukraine.md
 nid: 11708
 uid: 436428
-
 cids: 11410,18084,18090,29777,29783
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/380/original/PICT0724_lw.JPG)
 
 # Small DIY aerostat "Uchbovy" made in Kharkiv, Ukraine
 
-by [Alex_the_Ukrainian](../../../profile/Alex_the_Ukrainian) | March 21, 2015 19:21
+by [Alex_the_Ukrainian](/profile/Alex_the_Ukrainian) | March 21, 2015 19:21
 
-March 21, 2015 19:21 | Tags: [diy](../tag/diy), [balloon](../tag/balloon), [training](../tag/training), [eu](../tag/eu), [ukraine](../tag/ukraine), [lta](../tag/lta), [aerostat](../tag/aerostat), [europe](../tag/europe)
+March 21, 2015 19:21 | Tags: [diy](/tag/diy), [balloon](/tag/balloon), [training](/tag/training), [eu](/tag/eu), [ukraine](/tag/ukraine), [lta](/tag/lta), [aerostat](/tag/aerostat), [europe](/tag/europe)
 
 ----
 

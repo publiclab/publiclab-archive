@@ -6,16 +6,14 @@ author: brandta5
 path: /notes/brandta5/11-04-2015/question.md
 nid: 12365
 uid: 453302
-
 cids: 12854
-
 ---
 
 # Question: 
 
-by [brandta5](../../../profile/brandta5) | November 04, 2015 17:51
+by [brandta5](/profile/brandta5) | November 04, 2015 17:51
 
-November 04, 2015 17:51 | Tags: [question:desktop-spectrometry-kit](../tag/question:desktop-spectrometry-kit)
+November 04, 2015 17:51 | Tags: [question:desktop-spectrometry-kit](/tag/question:desktop-spectrometry-kit)
 
 ----
 

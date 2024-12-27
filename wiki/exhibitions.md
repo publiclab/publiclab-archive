@@ -6,14 +6,14 @@ author: warren
 path: /wiki/exhibitions.md
 nid: 96
 uid: 1
-
+cids: 
 ---
 
 # Exhibitions
 
-by [warren](../profile/warren), [mariakatosvich](../profile/mariakatosvich)
+by [warren](/profile/warren), [mariakatosvich](/profile/mariakatosvich)
 
-February 21, 2011 18:22 | Tags: [database](../tag/database), [data-collection](../tag/data-collection), [data](../tag/data), [local-projects](../tag/local-projects)
+February 21, 2011 18:22 | Tags: [database](/tag/database), [data-collection](/tag/data-collection), [data](/tag/data), [local-projects](/tag/local-projects)
 
 ----
 

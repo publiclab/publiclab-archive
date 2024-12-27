@@ -6,12 +6,12 @@ author: liz
 path: /wiki/gowanus.md
 nid: 10445
 uid: 7
-
+cids: 
 ---
 
 # gowanus
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
 May 07, 2014 21:38 | Tags: 
 

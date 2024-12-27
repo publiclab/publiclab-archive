@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/05-25-2014/improved-configuration-arduino-driven-servo-with-chdk-for-aerial-panoramas.md
 nid: 10512
 uid: 77
-
 cids: 9082,9083,9085
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/460/original/IMG_4545.JPG)
 
 # Improved configuration: Arduino driven servo with CHDK for aerial panoramas
 
-by [patcoyle](../../../profile/patcoyle) | May 25, 2014 07:10
+by [patcoyle](/profile/patcoyle) | May 25, 2014 07:10
 
-May 25, 2014 07:10 | Tags: [arduino](../tag/arduino), [aerial-photography](../tag/aerial-photography), [panorama](../tag/panorama), [autokap](../tag/autokap)
+May 25, 2014 07:10 | Tags: [arduino](/tag/arduino), [aerial-photography](/tag/aerial-photography), [panorama](/tag/panorama), [autokap](/tag/autokap)
 
 ----
 

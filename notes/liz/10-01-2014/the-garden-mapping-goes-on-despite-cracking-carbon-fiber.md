@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/10-01-2014/the-garden-mapping-goes-on-despite-cracking-carbon-fiber.md
 nid: 11219
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/231/original/IMG_3800.JPG)
 
 # The garden mapping goes on despite cracking carbon fiber
 
-by [liz](../../../profile/liz) | October 01, 2014 15:12
+by [liz](/profile/liz) | October 01, 2014 15:12
 
-October 01, 2014 15:12 | Tags: [polemapping](../tag/polemapping), [newark](../tag/newark), [new-jersey](../tag/new-jersey), [urban-ag](../tag/urban-ag), [garden](../tag/garden), [pole](../tag/pole), [pole-mapping](../tag/pole-mapping), [elp](../tag/elp), [northeast](../tag/northeast), [with:thegreencommunitygarden](../tag/with:thegreencommunitygarden)
+October 01, 2014 15:12 | Tags: [polemapping](/tag/polemapping), [newark](/tag/newark), [new-jersey](/tag/new-jersey), [urban-ag](/tag/urban-ag), [garden](/tag/garden), [pole](/tag/pole), [pole-mapping](/tag/pole-mapping), [elp](/tag/elp), [northeast](/tag/northeast), [with:thegreencommunitygarden](/tag/with:thegreencommunitygarden)
 
 ----
 

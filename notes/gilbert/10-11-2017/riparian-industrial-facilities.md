@@ -6,16 +6,14 @@ author: gilbert
 path: /notes/gilbert/10-11-2017/riparian-industrial-facilities.md
 nid: 15037
 uid: 508551
-
 cids: 
-
 ---
 
 # Riparian Industrial Facilities
 
-by [gilbert](../../../profile/gilbert) | October 11, 2017 21:23
+by [gilbert](/profile/gilbert) | October 11, 2017 21:23
 
-October 11, 2017 21:23 | Tags: [water-quality-monitoring](../tag/water-quality-monitoring), [water-quality](../tag/water-quality), [riparian-industry](../tag/riparian-industry), [coastal-industry](../tag/coastal-industry), [shoreline-industry](../tag/shoreline-industry)
+October 11, 2017 21:23 | Tags: [water-quality-monitoring](/tag/water-quality-monitoring), [water-quality](/tag/water-quality), [riparian-industry](/tag/riparian-industry), [coastal-industry](/tag/coastal-industry), [shoreline-industry](/tag/shoreline-industry)
 
 ----
 

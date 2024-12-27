@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/9-14-2012/mapknitterorg-workshop.md
 nid: 3821
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen Shot 2012-09-14 at 2.22.31 PM.png)
 
 # MapKnitter.org workshop
 
-by [liz](../../../profile/liz) | September 14, 2012 18:30
+by [liz](/profile/liz) | September 14, 2012 18:30
 
-September 14, 2012 18:30 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [events](../tag/events), [oyster-reef](../tag/oyster-reef), [event](../tag/event)
+September 14, 2012 18:30 | Tags: [balloon-mapping](/tag/balloon-mapping), [mapknitter](/tag/mapknitter), [events](/tag/events), [oyster-reef](/tag/oyster-reef), [event](/tag/event)
 
 ----
 

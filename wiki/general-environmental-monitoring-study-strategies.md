@@ -6,14 +6,14 @@ author: gretchengehrke
 path: /wiki/general-environmental-monitoring-study-strategies.md
 nid: 14128
 uid: 430549
-
+cids: 
 ---
 
 # General Environmental Monitoring Study Strategies
 
-by [gretchengehrke](../profile/gretchengehrke)
+by [gretchengehrke](/profile/gretchengehrke)
 
-April 21, 2017 19:12 | Tags: [air-quality](../tag/air-quality), [monitoring](../tag/monitoring), [study-design](../tag/study-design)
+April 21, 2017 19:12 | Tags: [air-quality](/tag/air-quality), [monitoring](/tag/monitoring), [study-design](/tag/study-design)
 
 ----
 

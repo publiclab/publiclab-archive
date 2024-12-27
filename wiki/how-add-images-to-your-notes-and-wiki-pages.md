@@ -6,12 +6,12 @@ author: rjstatic-admin
 path: /wiki/how-add-images-to-your-notes-and-wiki-pages.md
 nid: 658
 uid: 391
-
+cids: 
 ---
 
 # Tips for adding images to your Notes and Wiki pages
 
-by [rjstatic](../profile/rjstatic), [rjstatic-authenticated](../profile/rjstatic-authenticated)
+by [rjstatic](/profile/rjstatic), [rjstatic-authenticated](/profile/rjstatic-authenticated)
 
 December 22, 2011 19:29 | Tags: 
 

@@ -6,16 +6,14 @@ author: carpdiem
 path: /notes/carpdiem/09-21-2020/can-the-lego-spectrometer-work-well-for-emission-spectrometry.md
 nid: 24619
 uid: 722219
-
 cids: 27390,27392,27394,27395,27460
-
 ---
 
 # Can the lego spectrometer work well for emission spectrometry?
 
-by [carpdiem](../../../profile/carpdiem) | September 21, 2020 07:33
+by [carpdiem](/profile/carpdiem) | September 21, 2020 07:33
 
-September 21, 2020 07:33 | Tags: [question:lego-spectrometer](../tag/question:lego-spectrometer), [lego-spectrometer](../tag/lego-spectrometer), [first-time-poster](../tag/first-time-poster)
+September 21, 2020 07:33 | Tags: [question:lego-spectrometer](/tag/question:lego-spectrometer), [lego-spectrometer](/tag/lego-spectrometer), [first-time-poster](/tag/first-time-poster)
 
 ----
 

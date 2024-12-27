@@ -6,16 +6,14 @@ author: severin
 path: /notes/severin/08-19-2018/how-to-set-automatic-shoot-in-mini-camera.md
 nid: 16960
 uid: 547235
-
 cids: 20513,23215,24816,24817,24823,24824,24830,24831
-
 ---
 
 # How to set automatic shoot in Mini Camera
 
-by [severin](../../../profile/severin) | August 19, 2018 13:25
+by [severin](/profile/severin) | August 19, 2018 13:25
 
-August 19, 2018 13:25 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapping](../tag/mapping), [camera](../tag/camera), [question:general](../tag/question:general)
+August 19, 2018 13:25 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [mapping](/tag/mapping), [camera](/tag/camera), [question:general](/tag/question:general)
 
 ----
 

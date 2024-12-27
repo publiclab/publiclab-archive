@@ -6,16 +6,16 @@ author: Shannon
 path: /wiki/public-lab-jobs.md
 nid: 10109
 uid: 9
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/853/original/IMG_20190424_135638_094.jpg)
 
 # Public Lab Jobs
 
-by [thewrightjess](../profile/thewrightjess), [amocorro](../profile/amocorro), [joyofsoy](../profile/joyofsoy), [Shannon](../profile/Shannon), [warren](../profile/warren)
+by [thewrightjess](/profile/thewrightjess), [amocorro](/profile/amocorro), [joyofsoy](/profile/joyofsoy), [Shannon](/profile/Shannon), [warren](/profile/warren)
 
-March 05, 2014 18:14 | Tags: [jobs](../tag/jobs), [redirect:27206](../tag/redirect:27206)
+March 05, 2014 18:14 | Tags: [jobs](/tag/jobs), [redirect:27206](/tag/redirect:27206)
 
 ----
 

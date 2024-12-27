@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/06-11-2014/ne-barnraising-2014.md
 nid: 10551
 uid: 554
-
 cids: 9190
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/660/original/JonesGroup8Gifc.gif)
 
 # NE Barnraising 2014
 
-by [cfastie](../../../profile/cfastie) | June 11, 2014 03:54
+by [cfastie](/profile/cfastie) | June 11, 2014 03:54
 
-June 11, 2014 03:54 | Tags: [barnraising](../tag/barnraising), [event](../tag/event), [organizers](../tag/organizers), [massachusetts](../tag/massachusetts), [tidmarsh](../tag/tidmarsh), [northeast](../tag/northeast), [nebarnraising](../tag/nebarnraising), [ma](../tag/ma), [response:10545](../tag/response:10545)
+June 11, 2014 03:54 | Tags: [barnraising](/tag/barnraising), [event](/tag/event), [organizers](/tag/organizers), [massachusetts](/tag/massachusetts), [tidmarsh](/tag/tidmarsh), [northeast](/tag/northeast), [nebarnraising](/tag/nebarnraising), [ma](/tag/ma), [response:10545](/tag/response:10545)
 
 ----
 

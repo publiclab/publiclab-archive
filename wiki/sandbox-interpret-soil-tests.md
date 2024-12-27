@@ -6,12 +6,12 @@ author: bhamster
 path: /wiki/sandbox-interpret-soil-tests.md
 nid: 25850
 uid: 664477
-
+cids: 
 ---
 
 # sandbox-interpret-soil-tests
 
-by [bhamster](../profile/bhamster)
+by [bhamster](/profile/bhamster)
 
 March 05, 2021 19:50 | Tags: 
 
@@ -33,7 +33,7 @@ Here are some resources and activities that can help you understand the kinds of
 
 ### Activities
 
-[grid:activity:interpret-soil-tests](../../tag/grid:activity:interpret-soil-tests)
+[grid:activity:interpret-soil-tests](/tag/grid:activity:interpret-soil-tests)
 
 <br>
 
@@ -77,7 +77,7 @@ Your soil test results or report might already list local standard or screening 
 
 #### More background on technical documents and standard levels
 
-[grid:interpret-results-intro](../../tag/grid:interpret-results-intro)
+[grid:interpret-results-intro](/tag/grid:interpret-results-intro)
 
 <br>
 
@@ -85,7 +85,7 @@ Your soil test results or report might already list local standard or screening 
 
 Questions from the Public Lab community tagged with `interpret-soil-tests` will appear here
 
-[interpret-soil-tests](../../tag/question:interpret-soil-tests)
+[interpret-soil-tests](/tag/question:interpret-soil-tests)
 
 <br>
 

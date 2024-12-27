@@ -6,18 +6,16 @@ author: nedhorning
 path: /notes/nedhorning/07-10-2014/using-a-raw-image-to-calibrate-a-jpeg-image.md
 nid: 10672
 uid: 133
-
 cids: 11969
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/195/original/IMG_1029.JPG)
 
 # Using a RAW image to calibrate a JPEG image
 
-by [nedhorning](../../../profile/nedhorning) | July 10, 2014 13:01
+by [nedhorning](/profile/nedhorning) | July 10, 2014 13:01
 
-July 10, 2014 13:01 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [nir](../tag/nir), [calibration](../tag/calibration), [raw](../tag/raw), [infragram](../tag/infragram), [barnstar:basic](../tag/barnstar:basic), [jpeg](../tag/jpeg), [response:10607](../tag/response:10607), [ndvi-calibrate](../tag/ndvi-calibrate), [multispectral-imaging](../tag/multispectral-imaging)
+July 10, 2014 13:01 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [nir](/tag/nir), [calibration](/tag/calibration), [raw](/tag/raw), [infragram](/tag/infragram), [barnstar:basic](/tag/barnstar:basic), [jpeg](/tag/jpeg), [response:10607](/tag/response:10607), [ndvi-calibrate](/tag/ndvi-calibrate), [multispectral-imaging](/tag/multispectral-imaging)
 
 ----
 

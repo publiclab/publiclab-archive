@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/9-6-2011/steps-towards-diy-spectrometry.md
 nid: 452
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0004.JPG)
 
 # Steps towards DIY Spectrometry
 
-by [warren](../../../profile/warren) | September 06, 2011 16:55
+by [warren](/profile/warren) | September 06, 2011 16:55
 
-September 06, 2011 16:55 | Tags: [lima](../tag/lima), [spectrometer](../tag/spectrometer), [peru](../tag/peru), [boston](../tag/boston), [partsandcrafts](../tag/partsandcrafts), [idealab](../tag/idealab), [parts-and-crafts](../tag/parts-and-crafts), [turntable](../tag/turntable), [escuelab](../tag/escuelab)
+September 06, 2011 16:55 | Tags: [lima](/tag/lima), [spectrometer](/tag/spectrometer), [peru](/tag/peru), [boston](/tag/boston), [partsandcrafts](/tag/partsandcrafts), [idealab](/tag/idealab), [parts-and-crafts](/tag/parts-and-crafts), [turntable](/tag/turntable), [escuelab](/tag/escuelab)
 
 ----
 

@@ -6,12 +6,12 @@ author: bhamster
 path: /wiki/sandbox-law-and-policy.md
 nid: 24110
 uid: 664477
-
+cids: 
 ---
 
 # sandbox-law-and-policy
 
-by [bhamster](../profile/bhamster)
+by [bhamster](/profile/bhamster)
 
 July 07, 2020 15:55 | Tags: 
 
@@ -51,7 +51,7 @@ _**What other resources related to law and policy would be helpful to collect he
 + Ask a question so other community members can offer support
 + Sign up below to be notified when someone asks a question about law and policy
 
-[law-and-policy](../../tag/question:law-and-policy)
+[law-and-policy](/tag/question:law-and-policy)
 
 <br>
 
@@ -59,7 +59,7 @@ _**What other resources related to law and policy would be helpful to collect he
 
 Activities on Public Lab that have been tagged with `law-and-policy` will appear here
 
-[law-and-policy](../../tag/activity:law-and-policy)
+[law-and-policy](/tag/activity:law-and-policy)
 
 <br>
 
@@ -95,7 +95,7 @@ You can find the full posts on “Citizen Science Investigations: aka 'Common Le
 
 ### Evidence
 
-[grid:series:evidence-project](../../tag/grid:series:evidence-project)
+[grid:series:evidence-project](/tag/grid:series:evidence-project)
 
 <br>
 

@@ -6,16 +6,16 @@ author: wmacfarl
 path: /wiki/oil-and-gas-water-quality.md
 nid: 21652
 uid: 424597
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/758/original/oil_rig.jpg)
 
 # Oil and Gas Water Quality
 
-by [stevie](../profile/stevie), [wmacfarl](../profile/wmacfarl)
+by [stevie](/profile/stevie), [wmacfarl](/profile/wmacfarl)
 
-December 04, 2019 01:30 | Tags: [water-quality](../tag/water-quality), [oil-and-gas](../tag/oil-and-gas), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lat:29](../tag/lat:29), [lon:-90](../tag/lon:-90), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [zoom:6](../tag/zoom:6)
+December 04, 2019 01:30 | Tags: [water-quality](/tag/water-quality), [oil-and-gas](/tag/oil-and-gas), [location:blurred](/tag/location:blurred), [place:united-states](/tag/place:united-states), [lat:29](/tag/lat:29), [lon:-90](/tag/lon:-90), [oil-and-gas-water-trio](/tag/oil-and-gas-water-trio), [zoom:6](/tag/zoom:6)
 
 ----
 
@@ -65,10 +65,10 @@ One of the tools for collecting measurements of these water quality parameters i
 We have documented the use of a [set of liquid sensors from DF Robot](https://www.dfrobot.com/blog-1138.html) with our [Simple Water Sensor Platform](https://publiclab.org/wiki/simple-water-sensor-platform).  This platform is a work-in-progress and is an attempt to design an easy-to-use system for taking water quality measurements from a wide variety of low-cost water-quality sensors.  
 
 ## Methods/Activities
-[oil-and-gas-water-quality](../../tag/activity:oil-and-gas-water-quality)
+[oil-and-gas-water-quality](/tag/activity:oil-and-gas-water-quality)
 
 ## Questions
-[oil-and-gas-water-quality](../../tag/question:oil-and-gas-water-quality)
+[oil-and-gas-water-quality](/tag/question:oil-and-gas-water-quality)
 
 ##Further Resources:
 

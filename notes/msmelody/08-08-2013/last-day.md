@@ -6,18 +6,16 @@ author: msmelody
 path: /notes/msmelody/08-08-2013/last-day.md
 nid: 8982
 uid: 163752
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/068/original/nyc_pollution.jpg)
 
 # Last Day!
 
-by [msmelody](../../../profile/msmelody) | August 08, 2013 17:51
+by [msmelody](/profile/msmelody) | August 08, 2013 17:51
 
-August 08, 2013 17:51 | Tags: [new-york-city](../tag/new-york-city), [chaq](../tag/chaq), [air-quality](../tag/air-quality), [air-quality-egg](../tag/air-quality-egg)
+August 08, 2013 17:51 | Tags: [new-york-city](/tag/new-york-city), [chaq](/tag/chaq), [air-quality](/tag/air-quality), [air-quality-egg](/tag/air-quality-egg)
 
 ----
 

@@ -6,16 +6,16 @@ author: warren
 path: /wiki/image-sequencer.md
 nid: 15851
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/785/original/diagram-6-steps.png)
 
 # Image Sequencer
 
-by [liz](../profile/liz), [warren](../profile/warren)
+by [liz](/profile/liz), [warren](/profile/warren)
 
-March 01, 2018 19:36 | Tags: [ndvi](../tag/ndvi), [image-compositing](../tag/image-compositing), [infrared](../tag/infrared), [image-processing](../tag/image-processing), [image-analysis](../tag/image-analysis), [method](../tag/method), [parent:infrared-software](../tag/parent:infrared-software)
+March 01, 2018 19:36 | Tags: [ndvi](/tag/ndvi), [image-compositing](/tag/image-compositing), [infrared](/tag/infrared), [image-processing](/tag/image-processing), [image-analysis](/tag/image-analysis), [method](/tag/method), [parent:infrared-software](/tag/parent:infrared-software)
 
 ----
 
@@ -45,13 +45,13 @@ Check out the Image Sequencer User Manual by @MaggPi: https://github.com/Margare
 
 ## Activities
 
-[image-sequencer](../../tag/activity:image-sequencer)
+[image-sequencer](/tag/activity:image-sequencer)
 
 ****
 
 ## Questions
 
-[image-sequencer](../../tag/question:image-sequencer)
+[image-sequencer](/tag/question:image-sequencer)
 
 ****
 

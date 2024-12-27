@@ -6,16 +6,16 @@ author: warren
 path: /wiki/harvey-images.md
 nid: 14900
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/694/original/HurricaneHarvey.jpg)
 
 # Harvey Images
 
-by [warren](../profile/warren), [zengirl2](../profile/zengirl2)
+by [warren](/profile/warren), [zengirl2](/profile/zengirl2)
 
-September 16, 2017 14:13 | Tags: [oil-spill](../tag/oil-spill), [aerial-photography](../tag/aerial-photography), [oil](../tag/oil), [epa](../tag/epa), [waste](../tag/waste), [toxic-waste](../tag/toxic-waste), [aerial-mapping](../tag/aerial-mapping), [nuclear](../tag/nuclear), [hurricane](../tag/hurricane), [flood](../tag/flood), [hazards](../tag/hazards), [flood-mapping](../tag/flood-mapping), [harvey](../tag/harvey), [harvey-response](../tag/harvey-response), [harvey-needs](../tag/harvey-needs), [parent:harvey](../tag/parent:harvey)
+September 16, 2017 14:13 | Tags: [oil-spill](/tag/oil-spill), [aerial-photography](/tag/aerial-photography), [oil](/tag/oil), [epa](/tag/epa), [waste](/tag/waste), [toxic-waste](/tag/toxic-waste), [aerial-mapping](/tag/aerial-mapping), [nuclear](/tag/nuclear), [hurricane](/tag/hurricane), [flood](/tag/flood), [hazards](/tag/hazards), [flood-mapping](/tag/flood-mapping), [harvey](/tag/harvey), [harvey-response](/tag/harvey-response), [harvey-needs](/tag/harvey-needs), [parent:harvey](/tag/parent:harvey)
 
 ----
 
@@ -103,7 +103,7 @@ https://drive.google.com/file/d/0B7ipKYaoi-eYMFMwZU1qZm94d1U/view?usp=sharing
 
 ### Questions
 
-[harvey](../../tag/question:harvey)
+[harvey](/tag/question:harvey)
 
 ****
 

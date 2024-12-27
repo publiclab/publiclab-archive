@@ -6,16 +6,14 @@ author: tooooopher05
 path: /notes/tooooopher05/02-22-2020/can-i-use-the-infragram-org-for-my-thesis-thanks.md
 nid: 22895
 uid: 667388
-
 cids: 26375,26514,26518,26577
-
 ---
 
 # Can I use the infragram.org for my thesis? Thanks!
 
-by [tooooopher05](../../../profile/tooooopher05) | February 22, 2020 04:44
+by [tooooopher05](/profile/tooooopher05) | February 22, 2020 04:44
 
-February 22, 2020 04:44 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [question:infrared](../tag/question:infrared), [question:multispectral-imaging](../tag/question:multispectral-imaging), [multispectral-imaging](../tag/multispectral-imaging), [first-time-poster](../tag/first-time-poster)
+February 22, 2020 04:44 | Tags: [ndvi](/tag/ndvi), [infrared](/tag/infrared), [infragram](/tag/infragram), [question:ndvi](/tag/question:ndvi), [question:infragram](/tag/question:infragram), [question:infrared](/tag/question:infrared), [question:multispectral-imaging](/tag/question:multispectral-imaging), [multispectral-imaging](/tag/multispectral-imaging), [first-time-poster](/tag/first-time-poster)
 
 ----
 

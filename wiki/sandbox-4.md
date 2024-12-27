@@ -6,14 +6,14 @@ author: warren
 path: /wiki/sandbox-4.md
 nid: 18257
 uid: 1
-
+cids: 
 ---
 
 # Sandbox 4
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-February 04, 2019 23:24 | Tags: [stories-test](../tag/stories-test)
+February 04, 2019 23:24 | Tags: [stories-test](/tag/stories-test)
 
 ----
 

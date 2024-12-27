@@ -6,14 +6,14 @@ author: asoamarachi
 path: /wiki/editor-bug-report-template.md
 nid: 23853
 uid: 671968
-
+cids: 
 ---
 
 # Editor Bug Report Template
 
-by [asoamarachi](../profile/asoamarachi)
+by [asoamarachi](/profile/asoamarachi)
 
-June 15, 2020 11:31 | Tags: [template](../tag/template)
+June 15, 2020 11:31 | Tags: [template](/tag/template)
 
 ----
 
@@ -44,4 +44,4 @@ Many bugs are related to these -- please help us track it down and reproduce wha
 
 ##### Tag:
 
-[editor-bug](../../tag/question:editor-bug)
+[editor-bug](/tag/question:editor-bug)

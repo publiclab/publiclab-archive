@@ -6,12 +6,12 @@ author: warren
 path: /wiki/proposals.md
 nid: 111
 uid: 1
-
+cids: 
 ---
 
 # Proposals
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 March 02, 2011 21:47 | Tags: 
 

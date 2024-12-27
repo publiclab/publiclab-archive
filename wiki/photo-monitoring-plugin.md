@@ -6,14 +6,14 @@ author: warren
 path: /wiki/photo-monitoring-plugin.md
 nid: 8017
 uid: 1
-
+cids: 
 ---
 
 # photo-monitoring-plugin
 
-by [cfastie](../profile/cfastie), [nedhorning](../profile/nedhorning), [warren](../profile/warren)
+by [cfastie](/profile/cfastie), [nedhorning](/profile/nedhorning), [warren](/profile/warren)
 
-June 02, 2013 14:40 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [imagej](../tag/imagej), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [fiji](../tag/fiji), [photo-monitoring-plugin](../tag/photo-monitoring-plugin), [parent:multispectral-imaging](../tag/parent:multispectral-imaging)
+June 02, 2013 14:40 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [imagej](/tag/imagej), [infragram](/tag/infragram), [infrablue](/tag/infrablue), [fiji](/tag/fiji), [photo-monitoring-plugin](/tag/photo-monitoring-plugin), [parent:multispectral-imaging](/tag/parent:multispectral-imaging)
 
 ----
 

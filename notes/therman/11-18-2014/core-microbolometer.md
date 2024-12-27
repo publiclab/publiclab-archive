@@ -6,14 +6,12 @@ author: therman
 path: /notes/therman/11-18-2014/core-microbolometer.md
 nid: 11366
 uid: 431635
-
 cids: 
-
 ---
 
 # core microbolometer
 
-by [therman](../../../profile/therman) | November 18, 2014 00:23
+by [therman](/profile/therman) | November 18, 2014 00:23
 
 November 18, 2014 00:23 | Tags: 
 

@@ -6,18 +6,16 @@ author: nedhorning
 path: /notes/nedhorning/10-21-2013/calibrating-diy-nir-cameras-part-1.md
 nid: 9509
 uid: 133
-
 cids: 7319,7328,7329,11011,11030,11031,11170,11173,11348,11354,11824,11826,11837,11875,16793,16794,16795,16796
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/989/original/ChrisInAction.JPG)
 
 # Calibrating DIY NIR cameras – part 1
 
-by [nedhorning](../../../profile/nedhorning) | October 21, 2013 20:13
+by [nedhorning](/profile/nedhorning) | October 21, 2013 20:13
 
-October 21, 2013 20:13 | Tags: [calibration](../tag/calibration), [calibrate-ndvi](../tag/calibrate-ndvi)
+October 21, 2013 20:13 | Tags: [calibration](/tag/calibration), [calibrate-ndvi](/tag/calibrate-ndvi)
 
 ----
 

@@ -6,14 +6,14 @@ author: stevie
 path: /wiki/openhour-archive.md
 nid: 13761
 uid: 422561
-
+cids: 
 ---
 
 # OpenHour Archive 
 
-by [amocorro](../profile/amocorro), [liz](../profile/liz), [stevie](../profile/stevie), [imvec](../profile/imvec), [joyofsoy](../profile/joyofsoy), [warren](../profile/warren), [LaboratorioSombrero](../profile/LaboratorioSombrero), [kanarinka](../profile/kanarinka), [Becki](../profile/Becki), [pdhixenbaugh](../profile/pdhixenbaugh)
+by [amocorro](/profile/amocorro), [liz](/profile/liz), [stevie](/profile/stevie), [imvec](/profile/imvec), [joyofsoy](/profile/joyofsoy), [warren](/profile/warren), [LaboratorioSombrero](/profile/LaboratorioSombrero), [kanarinka](/profile/kanarinka), [Becki](/profile/Becki), [pdhixenbaugh](/profile/pdhixenbaugh)
 
-December 07, 2016 20:08 | Tags: [events](../tag/events), [archive](../tag/archive), [event](../tag/event), [openhour](../tag/openhour), [seminar](../tag/seminar), [parent:openhour](../tag/parent:openhour), [2-](../tag/2-)
+December 07, 2016 20:08 | Tags: [events](/tag/events), [archive](/tag/archive), [event](/tag/event), [openhour](/tag/openhour), [seminar](/tag/seminar), [parent:openhour](/tag/parent:openhour), [2-](/tag/2-)
 
 ----
 

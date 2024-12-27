@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/9-20-2012/raspberry-pi-sky.md
 nid: 3908
 uid: 43651
-
 cids: 1405,1406,1421,1729,2588,24747
-
 ---
 
 ![](https://publiclab.org/sites/default/files/raspberryPIinthesky2_0.png)
 
 # Raspberry Pi-in-the-sky
 
-by [donblair](../../../profile/donblair) | September 20, 2012 13:54
+by [donblair](/profile/donblair) | September 20, 2012 13:54
 
-September 20, 2012 13:54 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [photo-rig](../tag/photo-rig), [wireless](../tag/wireless), [remote](../tag/remote), [raspberry-pi](../tag/raspberry-pi), [rpi](../tag/rpi), [pi-camera](../tag/pi-camera), [raspberry-pi-cameras](../tag/raspberry-pi-cameras), [activity:pi-camera](../tag/activity:pi-camera), [first-time-poster](../tag/first-time-poster)
+September 20, 2012 13:54 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [photo-rig](/tag/photo-rig), [wireless](/tag/wireless), [remote](/tag/remote), [raspberry-pi](/tag/raspberry-pi), [rpi](/tag/rpi), [pi-camera](/tag/pi-camera), [raspberry-pi-cameras](/tag/raspberry-pi-cameras), [activity:pi-camera](/tag/activity:pi-camera), [first-time-poster](/tag/first-time-poster)
 
 ----
 

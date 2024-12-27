@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/4-17-2011/tms-filter-utility-mirrored-publiclaboratoryorg.md
 nid: 176
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/794/original/IMG_6916.JPG)
 
 # tms-filter utility mirrored at publiclaboratory.org
 
-by [warren](../../../profile/warren) | April 17, 2011 19:14
+by [warren](/profile/warren) | April 17, 2011 19:14
 
 April 17, 2011 19:14 | Tags: 
 

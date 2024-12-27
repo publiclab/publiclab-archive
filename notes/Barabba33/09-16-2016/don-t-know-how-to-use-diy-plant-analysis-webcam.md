@@ -6,18 +6,16 @@ author: Barabba33
 path: /notes/Barabba33/09-16-2016/don-t-know-how-to-use-diy-plant-analysis-webcam.md
 nid: 13452
 uid: 491796
-
 cids: 15403,15429
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/054/original/help.png)
 
 # Don't know how to use DIY Plant Analysis Webcam
 
-by [Barabba33](../../../profile/Barabba33) | September 16, 2016 07:33
+by [Barabba33](/profile/Barabba33) | September 16, 2016 07:33
 
-September 16, 2016 07:33 | Tags: [question:infragram](../tag/question:infragram), [question:infrared](../tag/question:infrared)
+September 16, 2016 07:33 | Tags: [question:infragram](/tag/question:infragram), [question:infrared](/tag/question:infrared)
 
 ----
 

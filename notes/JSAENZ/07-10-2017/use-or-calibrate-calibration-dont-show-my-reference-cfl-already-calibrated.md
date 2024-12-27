@@ -6,16 +6,14 @@ author: JSAENZ
 path: /notes/JSAENZ/07-10-2017/use-or-calibrate-calibration-dont-show-my-reference-cfl-already-calibrated.md
 nid: 14638
 uid: 510701
-
 cids: 17054
-
 ---
 
 # "Use or calibrate calibration" dont show my reference CFL already calibrated
 
-by [JSAENZ](../../../profile/JSAENZ) | July 10, 2017 19:18
+by [JSAENZ](/profile/JSAENZ) | July 10, 2017 19:18
 
-July 10, 2017 19:18 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench)
+July 10, 2017 19:18 | Tags: [question:spectral-workbench](/tag/question:spectral-workbench)
 
 ----
 

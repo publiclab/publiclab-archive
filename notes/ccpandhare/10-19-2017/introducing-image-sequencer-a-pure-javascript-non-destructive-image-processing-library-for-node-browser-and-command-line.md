@@ -6,18 +6,16 @@ author: ccpandhare
 path: /notes/ccpandhare/10-19-2017/introducing-image-sequencer-a-pure-javascript-non-destructive-image-processing-library-for-node-browser-and-command-line.md
 nid: 15066
 uid: 503543
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/979/original/Header.png)
 
 # Introducing Image Sequencer: a pure JavaScript non-destructive image processing library for Node, browser and command line
 
-by [ccpandhare](../../../profile/ccpandhare) | October 19, 2017 19:26
+by [ccpandhare](/profile/ccpandhare) | October 19, 2017 19:26
 
-October 19, 2017 19:26 | Tags: [image-processing](../tag/image-processing), [software](../tag/software), [infragram](../tag/infragram), [gsoc](../tag/gsoc), [web](../tag/web), [with:warren](../tag/with:warren), [image-analysis](../tag/image-analysis), [javascript](../tag/javascript), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [image-sequencer](../tag/image-sequencer)
+October 19, 2017 19:26 | Tags: [image-processing](/tag/image-processing), [software](/tag/software), [infragram](/tag/infragram), [gsoc](/tag/gsoc), [web](/tag/web), [with:warren](/tag/with:warren), [image-analysis](/tag/image-analysis), [javascript](/tag/javascript), [gsoc-2017](/tag/gsoc-2017), [soc](/tag/soc), [soc-2017](/tag/soc-2017), [image-sequencer](/tag/image-sequencer)
 
 ----
 

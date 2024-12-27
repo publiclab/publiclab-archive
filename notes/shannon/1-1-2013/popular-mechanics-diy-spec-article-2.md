@@ -6,16 +6,14 @@ author: Shannon
 path: /notes/shannon/1-1-2013/popular-mechanics-diy-spec-article-2.md
 nid: 5390
 uid: 9
-
 cids: 
-
 ---
 
 # Popular Mechanics DIY Spec. article #2
 
-by [Shannon](../../../profile/Shannon) | January 02, 2013 02:17
+by [Shannon](/profile/Shannon) | January 02, 2013 02:17
 
-January 02, 2013 02:17 | Tags: [spectrometer](../tag/spectrometer)
+January 02, 2013 02:17 | Tags: [spectrometer](/tag/spectrometer)
 
 ----
 

@@ -6,18 +6,16 @@ author: wisegrey
 path: /notes/wisegrey/09-19-2019/new-orleans-lusher-charter-clogged-storm-drains.md
 nid: 20929
 uid: 618896
-
 cids: 25548,25683
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/338/original/download.jpg)
 
 # New Orleans Clogged Storm Drains
 
-by [wisegrey](../../../profile/wisegrey) | September 19, 2019 14:46
+by [wisegrey](/profile/wisegrey) | September 19, 2019 14:46
 
-September 19, 2019 14:46 | Tags: [waste](../tag/waste), [new-orleans](../tag/new-orleans), [neworleans](../tag/neworleans), [stormwater](../tag/stormwater), [flooding](../tag/flooding), [issue-brief](../tag/issue-brief), [storm-drain](../tag/storm-drain), [first-time-poster](../tag/first-time-poster), [lat:29.935167](../tag/lat:29.935167), [lon:-90.114084](../tag/lon:-90.114084), [catch-basin](../tag/catch-basin), [with:jeanell873](../tag/with:jeanell873)
+September 19, 2019 14:46 | Tags: [waste](/tag/waste), [new-orleans](/tag/new-orleans), [neworleans](/tag/neworleans), [stormwater](/tag/stormwater), [flooding](/tag/flooding), [issue-brief](/tag/issue-brief), [storm-drain](/tag/storm-drain), [first-time-poster](/tag/first-time-poster), [lat:29.935167](/tag/lat:29.935167), [lon:-90.114084](/tag/lon:-90.114084), [catch-basin](/tag/catch-basin), [with:jeanell873](/tag/with:jeanell873)
 
 ----
 

@@ -6,16 +6,16 @@ author: warren
 path: /wiki/toolshed-raising-02-02-14.md
 nid: 9927
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/568/original/pic1.png)
 
 # Toolshed Raising 02-02-14
 
-by [kgradow1](../profile/kgradow1), [warren](../profile/warren), [kanarinka](../profile/kanarinka)
+by [kgradow1](/profile/kgradow1), [warren](/profile/warren), [kanarinka](/profile/kanarinka)
 
-January 06, 2014 19:51 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [boston](../tag/boston), [event](../tag/event), [toolshed-raising](../tag/toolshed-raising), [toolshed](../tag/toolshed)
+January 06, 2014 19:51 | Tags: [somerville-massachusetts](/tag/somerville-massachusetts), [boston](/tag/boston), [event](/tag/event), [toolshed-raising](/tag/toolshed-raising), [toolshed](/tag/toolshed)
 
 ----
 

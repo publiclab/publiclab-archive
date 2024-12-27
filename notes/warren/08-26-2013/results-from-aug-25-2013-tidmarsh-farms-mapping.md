@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/08-26-2013/results-from-aug-25-2013-tidmarsh-farms-mapping.md
 nid: 9057
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/308/original/IMG_0209.JPG)
 
 # Results from Aug 25, 2013 Tidmarsh Farms mapping
 
-by [warren](../../../profile/warren) | August 26, 2013 18:52
+by [warren](/profile/warren) | August 26, 2013 18:52
 
-August 26, 2013 18:52 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [boston](../tag/boston), [wetlands](../tag/wetlands), [restoration](../tag/restoration), [massachusetts](../tag/massachusetts), [manomet](../tag/manomet), [tidmarsh](../tag/tidmarsh), [infragram](../tag/infragram), [northeast](../tag/northeast), [lat:41.918373](../tag/lat:41.918373), [lon:-70.573318](../tag/lon:-70.573318), [place:tidmarsh-farm-plymouth-ma](../tag/place:tidmarsh-farm-plymouth-ma)
+August 26, 2013 18:52 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [boston](/tag/boston), [wetlands](/tag/wetlands), [restoration](/tag/restoration), [massachusetts](/tag/massachusetts), [manomet](/tag/manomet), [tidmarsh](/tag/tidmarsh), [infragram](/tag/infragram), [northeast](/tag/northeast), [lat:41.918373](/tag/lat:41.918373), [lon:-70.573318](/tag/lon:-70.573318), [place:tidmarsh-farm-plymouth-ma](/tag/place:tidmarsh-farm-plymouth-ma)
 
 ----
 

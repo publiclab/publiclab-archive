@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/08-06-2013/infragram-org-web-based-ndvi-processor-launched.md
 nid: 8972
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/039/original/Screen_Shot_2013-08-06_at_5.40.11_PM.png)
 
 # Infragram.org web-based NDVI processor launched
 
-by [warren](../../../profile/warren) | August 06, 2013 21:48
+by [warren](/profile/warren) | August 06, 2013 21:48
 
-August 06, 2013 21:48 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram)
+August 06, 2013 21:48 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [infragram](/tag/infragram)
 
 ----
 

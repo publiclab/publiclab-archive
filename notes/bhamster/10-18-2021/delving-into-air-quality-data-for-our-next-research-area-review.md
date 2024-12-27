@@ -6,18 +6,16 @@ author: bhamster
 path: /notes/bhamster/10-18-2021/delving-into-air-quality-data-for-our-next-research-area-review.md
 nid: 27928
 uid: 664477
-
 cids: 29332
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/926/original/AirWatchBayArea.png)
 
 # Delving into Air Quality Data for our next Research Area Review
 
-by [bhamster](../../../profile/bhamster) | October 18, 2021 18:31
+by [bhamster](/profile/bhamster) | October 18, 2021 18:31
 
-October 18, 2021 18:31 | Tags: [air-quality](../tag/air-quality), [reviews](../tag/reviews), [data-visualization](../tag/data-visualization), [research-area-review](../tag/research-area-review), [presenting-data](../tag/presenting-data), [with:fongvania](../tag/with:fongvania), [air-quality-data](../tag/air-quality-data)
+October 18, 2021 18:31 | Tags: [air-quality](/tag/air-quality), [reviews](/tag/reviews), [data-visualization](/tag/data-visualization), [research-area-review](/tag/research-area-review), [presenting-data](/tag/presenting-data), [with:fongvania](/tag/with:fongvania), [air-quality-data](/tag/air-quality-data)
 
 ----
 

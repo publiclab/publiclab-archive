@@ -6,16 +6,14 @@ author: niklasjordan
 path: /notes/niklasjordan/03-25-2019/how-can-i-delete-a-user-account.md
 nid: 18841
 uid: 531062
-
 cids: 23427,23503,23644
-
 ---
 
 # How can I delete a User Account?
 
-by [niklasjordan](../../../profile/niklasjordan) | March 25, 2019 08:42
+by [niklasjordan](/profile/niklasjordan) | March 25, 2019 08:42
 
-March 25, 2019 08:42 | Tags: [question:website](../tag/question:website), [question:website-structure](../tag/question:website-structure)
+March 25, 2019 08:42 | Tags: [question:website](/tag/question:website), [question:website-structure](/tag/question:website-structure)
 
 ----
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/sandbox-3.md
 nid: 15533
 uid: 1
-
+cids: 
 ---
 
 # sandbox-3
 
-by [warren](../profile/warren), [sagarpreet](../profile/sagarpreet)
+by [warren](/profile/warren), [sagarpreet](/profile/sagarpreet)
 
-January 16, 2018 19:14 | Tags: [sandbox](../tag/sandbox)
+January 16, 2018 19:14 | Tags: [sandbox](/tag/sandbox)
 
 ----
 

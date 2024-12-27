@@ -6,18 +6,16 @@ author: clauds
 path: /notes/clauds/08-22-2016/balloon-mapping-in-berlin.md
 nid: 13384
 uid: 43867
-
 cids: 15212,15214,15215
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/731/original/mansell-camp-code-18-768x768.jpg)
 
 # Balloon Mapping in Berlin
 
-by [clauds](../../../profile/clauds) | August 22, 2016 21:08
+by [clauds](/profile/clauds) | August 22, 2016 21:08
 
-August 22, 2016 21:08 | Tags: [event](../tag/event)
+August 22, 2016 21:08 | Tags: [event](/tag/event)
 
 ----
 

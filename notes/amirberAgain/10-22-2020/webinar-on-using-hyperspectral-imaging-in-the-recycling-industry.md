@@ -6,16 +6,14 @@ author: amirberAgain
 path: /notes/amirberAgain/10-22-2020/webinar-on-using-hyperspectral-imaging-in-the-recycling-industry.md
 nid: 24790
 uid: 420776
-
 cids: 27500,27502
-
 ---
 
 # Webinar on using hyperspectral imaging in the recycling industry 
 
-by [amirberAgain](../../../profile/amirberAgain) | October 22, 2020 06:21
+by [amirberAgain](/profile/amirberAgain) | October 22, 2020 06:21
 
-October 22, 2020 06:21 | Tags: [spectrometry](../tag/spectrometry), [question:spectrometry](../tag/question:spectrometry), [general](../tag/general)
+October 22, 2020 06:21 | Tags: [spectrometry](/tag/spectrometry), [question:spectrometry](/tag/question:spectrometry), [general](/tag/general)
 
 ----
 

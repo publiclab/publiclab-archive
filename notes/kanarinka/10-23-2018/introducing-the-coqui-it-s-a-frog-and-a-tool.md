@@ -6,18 +6,16 @@ author: kanarinka
 path: /notes/kanarinka/10-23-2018/introducing-the-coqui-it-s-a-frog-and-a-tool.md
 nid: 17354
 uid: 994
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/096/original/Screenshot_2018-10-22_15.50.27.png)
 
 # Introducing the Coquí – it's a frog and a tool!
 
-by [kanarinka](../../../profile/kanarinka) | October 23, 2018 10:11
+by [kanarinka](/profile/kanarinka) | October 23, 2018 10:11
 
-October 23, 2018 10:11 | Tags: [education](../tag/education), [kits](../tag/kits), [water-quality](../tag/water-quality), [blog](../tag/blog), [sensor](../tag/sensor), [coqui](../tag/coqui), [hardware](../tag/hardware), [community-kits](../tag/community-kits)
+October 23, 2018 10:11 | Tags: [education](/tag/education), [kits](/tag/kits), [water-quality](/tag/water-quality), [blog](/tag/blog), [sensor](/tag/sensor), [coqui](/tag/coqui), [hardware](/tag/hardware), [community-kits](/tag/community-kits)
 
 ----
 

@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/06-09-2018/coqui-wave-audio-recording.md
 nid: 16458
 uid: 495038
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/192/original/bezoya.png)
 
 # Coqui wave audio recording
 
-by [imvec](../../../profile/imvec) | June 09, 2018 17:02
+by [imvec](/profile/imvec) | June 09, 2018 17:02
 
-June 09, 2018 17:02 | Tags: [water](../tag/water), [coqui](../tag/coqui), [gaimec](../tag/gaimec), [water-conductivity](../tag/water-conductivity), [activity:coqui-usage](../tag/activity:coqui-usage)
+June 09, 2018 17:02 | Tags: [water](/tag/water), [coqui](/tag/coqui), [gaimec](/tag/gaimec), [water-conductivity](/tag/water-conductivity), [activity:coqui-usage](/tag/activity:coqui-usage)
 
 ----
 

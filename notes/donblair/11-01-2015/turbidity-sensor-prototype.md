@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/11-01-2015/turbidity-sensor-prototype.md
 nid: 12350
 uid: 43651
-
 cids: 12809,12812,12865,12879,15761,17123,17642
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/320/original/t7.png)
 
 # Turbidity sensor prototype
 
-by [donblair](../../../profile/donblair) | November 01, 2015 05:41
+by [donblair](/profile/donblair) | November 01, 2015 05:41
 
-November 01, 2015 05:41 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [water-quality-sensor](../tag/water-quality-sensor), [turbidity](../tag/turbidity), [riffle](../tag/riffle), [openwater](../tag/openwater), [activity:turbidity](../tag/activity:turbidity), [water-sensors](../tag/water-sensors)
+November 01, 2015 05:41 | Tags: [water-quality](/tag/water-quality), [water](/tag/water), [water-quality-sensor](/tag/water-quality-sensor), [turbidity](/tag/turbidity), [riffle](/tag/riffle), [openwater](/tag/openwater), [activity:turbidity](/tag/activity:turbidity), [water-sensors](/tag/water-sensors)
 
 ----
 

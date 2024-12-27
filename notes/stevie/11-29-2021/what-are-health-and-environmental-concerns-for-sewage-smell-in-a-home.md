@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/11-29-2021/what-are-health-and-environmental-concerns-for-sewage-smell-in-a-home.md
 nid: 28312
 uid: 422561
-
 cids: 29470,29471,29472
-
 ---
 
 # What are health and environmental concerns for sewage smell in a home?
 
-by [stevie](../../../profile/stevie) | November 29, 2021 21:50
+by [stevie](/profile/stevie) | November 29, 2021 21:50
 
-November 29, 2021 21:50 | Tags: [hydrogen](../tag/hydrogen), [sewage](../tag/sewage), [hydrogen-sulfide](../tag/hydrogen-sulfide), [air-quality](../tag/air-quality), [sulfide](../tag/sulfide), [question:air-quality](../tag/question:air-quality), [indoor-air-quality](../tag/indoor-air-quality), [wastewater](../tag/wastewater), [indoor-air](../tag/indoor-air), [odor](../tag/odor), [question:general](../tag/question:general), [general](../tag/general), [question:indoor-air-remediation](../tag/question:indoor-air-remediation), [indoor-air-remediation](../tag/indoor-air-remediation), [question:odor](../tag/question:odor), [question:smell](../tag/question:smell), [question:hydrogen-sulfide](../tag/question:hydrogen-sulfide), [smell](../tag/smell), [question:indoor-air-quality](../tag/question:indoor-air-quality), [question:wastewater](../tag/question:wastewater), [question:sewage](../tag/question:sewage)
+November 29, 2021 21:50 | Tags: [hydrogen](/tag/hydrogen), [sewage](/tag/sewage), [hydrogen-sulfide](/tag/hydrogen-sulfide), [air-quality](/tag/air-quality), [sulfide](/tag/sulfide), [question:air-quality](/tag/question:air-quality), [indoor-air-quality](/tag/indoor-air-quality), [wastewater](/tag/wastewater), [indoor-air](/tag/indoor-air), [odor](/tag/odor), [question:general](/tag/question:general), [general](/tag/general), [question:indoor-air-remediation](/tag/question:indoor-air-remediation), [indoor-air-remediation](/tag/indoor-air-remediation), [question:odor](/tag/question:odor), [question:smell](/tag/question:smell), [question:hydrogen-sulfide](/tag/question:hydrogen-sulfide), [smell](/tag/smell), [question:indoor-air-quality](/tag/question:indoor-air-quality), [question:wastewater](/tag/question:wastewater), [question:sewage](/tag/question:sewage)
 
 ----
 

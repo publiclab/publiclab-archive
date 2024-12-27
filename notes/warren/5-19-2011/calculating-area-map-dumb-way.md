@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/5-19-2011/calculating-area-map-dumb-way.md
 nid: 253
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/lima-morflex-area.png)
 
 # Calculating area of a map, the dumb way
 
-by [warren](../../../profile/warren) | May 19, 2011 18:37
+by [warren](/profile/warren) | May 19, 2011 18:37
 
-May 19, 2011 18:37 | Tags: [balloon-mapping](../tag/balloon-mapping), [area](../tag/area)
+May 19, 2011 18:37 | Tags: [balloon-mapping](/tag/balloon-mapping), [area](/tag/area)
 
 ----
 

@@ -6,18 +6,16 @@ author: Suiris
 path: /notes/Suiris/08-03-2013/new-spectrometer-build-and-cfl-lines-but-why-so-many.md
 nid: 8961
 uid: 170375
-
 cids: 6471,6474,6485,6487,6490,6491,6501,6530,6537,6627,6630,6645,6661
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/011/original/IMG_0003.JPG)
 
 # New spectrometer build and CFL lines
 
-by [Suiris](../../../profile/Suiris) | August 03, 2013 06:56
+by [Suiris](/profile/Suiris) | August 03, 2013 06:56
 
-August 03, 2013 06:56 | Tags: [spectrometer](../tag/spectrometer), [spectroscopy](../tag/spectroscopy), [first-time-poster](../tag/first-time-poster)
+August 03, 2013 06:56 | Tags: [spectrometer](/tag/spectrometer), [spectroscopy](/tag/spectroscopy), [first-time-poster](/tag/first-time-poster)
 
 ----
 

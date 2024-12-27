@@ -6,18 +6,16 @@ author: pdhixenbaugh
 path: /notes/pdhixenbaugh/10-20-2016/blink-an-led-write-a-sketch-and-build-a-breadboard-circuit-for-the-riffle.md
 nid: 13632
 uid: 459085
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/518/original/IMG_20161020_162018.jpg)
 
 # Blink a LED - Write a 'Sketch' and build a breadboard circuit for the Riffle
 
-by [pdhixenbaugh](../../../profile/pdhixenbaugh) | October 20, 2016 20:27
+by [pdhixenbaugh](/profile/pdhixenbaugh) | October 20, 2016 20:27
 
-October 20, 2016 20:27 | Tags: [riffle](../tag/riffle), [riffle-beta](../tag/riffle-beta), [difficulty:medium](../tag/difficulty:medium), [status:review-me](../tag/status:review-me), [category:build](../tag/category:build), [time:1h](../tag/time:1h), [activity:riffle](../tag/activity:riffle), [activity:datalogger](../tag/activity:datalogger), [activity:data-logging](../tag/activity:data-logging)
+October 20, 2016 20:27 | Tags: [riffle](/tag/riffle), [riffle-beta](/tag/riffle-beta), [difficulty:medium](/tag/difficulty:medium), [status:review-me](/tag/status:review-me), [category:build](/tag/category:build), [time:1h](/tag/time:1h), [activity:riffle](/tag/activity:riffle), [activity:datalogger](/tag/activity:datalogger), [activity:data-logging](/tag/activity:data-logging)
 
 ----
 

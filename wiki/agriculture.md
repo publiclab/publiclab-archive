@@ -6,16 +6,16 @@ author: stevie
 path: /wiki/agriculture.md
 nid: 21067
 uid: 422561
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/754/original/Fastie_2013.png)
 
 # Agriculture
 
-by [bhamster](../profile/bhamster), [stevie](../profile/stevie), [liz](../profile/liz)
+by [bhamster](/profile/bhamster), [stevie](/profile/stevie), [liz](/profile/liz)
 
-October 03, 2019 15:22 | Tags: [cafo](../tag/cafo)
+October 03, 2019 15:22 | Tags: [cafo](/tag/cafo)
 
 ----
 
@@ -30,7 +30,7 @@ _Lead image from @cfastie's [work](/notes/cfastie/04-26-2013/middlebury-meetup)_
 
 ###Recent questions
 
-[agriculture](../../tag/question:agriculture)
+[agriculture](/tag/question:agriculture)
 
 ###Monitoring methods and related wiki pages:
 
@@ -38,4 +38,4 @@ _Lead image from @cfastie's [work](/notes/cfastie/04-26-2013/middlebury-meetup)_
 
 ###Recent research and activities: 
 
-[agriculture](../../tag/agriculture)
+[agriculture](/tag/agriculture)

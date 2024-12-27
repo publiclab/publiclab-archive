@@ -6,14 +6,14 @@ author: warren
 path: /wiki/conferences.md
 nid: 386
 uid: 1
-
+cids: 
 ---
 
 # Conferences
 
-by [liz](../profile/liz), [Shannon](../profile/Shannon), [warren](../profile/warren), [gonzoearth](../profile/gonzoearth)
+by [liz](/profile/liz), [Shannon](/profile/Shannon), [warren](/profile/warren), [gonzoearth](/profile/gonzoearth)
 
-July 16, 2011 13:11 | Tags: [community](../tag/community), [conferences](../tag/conferences), [organizers](../tag/organizers)
+July 16, 2011 13:11 | Tags: [community](/tag/community), [conferences](/tag/conferences), [organizers](/tag/organizers)
 
 ----
 

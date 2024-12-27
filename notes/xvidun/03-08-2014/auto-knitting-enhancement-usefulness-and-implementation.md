@@ -6,16 +6,14 @@ author: xvidun
 path: /notes/xvidun/03-08-2014/auto-knitting-enhancement-usefulness-and-implementation.md
 nid: 10145
 uid: 421168
-
 cids: 8459,8636
-
 ---
 
 # Auto Knitting enhancement usefulness and implementation.
 
-by [xvidun](../../../profile/xvidun) | March 08, 2014 20:13
+by [xvidun](/profile/xvidun) | March 08, 2014 20:13
 
-March 08, 2014 20:13 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [auto-knitting](../tag/auto-knitting), [exif](../tag/exif)
+March 08, 2014 20:13 | Tags: [mapknitter](/tag/mapknitter), [gsoc](/tag/gsoc), [auto-knitting](/tag/auto-knitting), [exif](/tag/exif)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/6-2-2011/grassroots-mapping-awarded-honorary-mention-prix-ars-electronica.md
 nid: 317
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/prix-ars.png)
 
 # Grassroots Mapping awarded Honorary Mention at Prix Ars Electronica
 
-by [warren](../../../profile/warren) | June 03, 2011 00:49
+by [warren](/profile/warren) | June 03, 2011 00:49
 
-June 03, 2011 00:49 | Tags: [media](../tag/media), [award](../tag/award)
+June 03, 2011 00:49 | Tags: [media](/tag/media), [award](/tag/award)
 
 ----
 

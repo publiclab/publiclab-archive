@@ -6,18 +6,16 @@ author: Jean-Christophe-DORE
 path: /notes/jean-christophe-dore/10-23-2012/self-adhesive-diffraction-grating-caps-spectrokit-cellular.md
 nid: 4586
 uid: 44865
-
 cids: 1717,1719,1720,2629
-
 ---
 
 ![](https://publiclab.org/sites/default/files/bonnette_adhesive2.jpg)
 
 #  Self-adhesive diffraction grating caps SpectroKit® for cellular
 
-by [Jean-Christophe-DORE](../../../profile/Jean-Christophe-DORE) | October 23, 2012 17:09
+by [Jean-Christophe-DORE](/profile/Jean-Christophe-DORE) | October 23, 2012 17:09
 
-October 23, 2012 17:09 | Tags: [spectrometer](../tag/spectrometer), [first-time-poster](../tag/first-time-poster)
+October 23, 2012 17:09 | Tags: [spectrometer](/tag/spectrometer), [first-time-poster](/tag/first-time-poster)
 
 ----
 

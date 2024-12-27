@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/04-14-2020/a-note-on-my-departure.md
 nid: 23379
 uid: 9
-
 cids: 26673,26679
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/047/original/IMG_0211.JPG)
 
 # A note on my departure
 
-by [Shannon](../../../profile/Shannon) | April 14, 2020 15:55
+by [Shannon](/profile/Shannon) | April 14, 2020 15:55
 
-April 14, 2020 15:55 | Tags: [blog](../tag/blog)
+April 14, 2020 15:55 | Tags: [blog](/tag/blog)
 
 ----
 

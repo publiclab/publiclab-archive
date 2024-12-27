@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/6-24-2012/alaska-range-balloon-mapping.md
 nid: 2623
 uid: 554
-
 cids: 953
-
 ---
 
 ![](https://publiclab.org/sites/default/files/CanyonCk3689_120623.jpg)
 
 # Alaska Range balloon mapping
 
-by [cfastie](../../../profile/cfastie) | June 25, 2012 02:31
+by [cfastie](/profile/cfastie) | June 25, 2012 02:31
 
-June 25, 2012 02:31 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [ground-control-points](../tag/ground-control-points), [alaska](../tag/alaska), [akrange](../tag/akrange)
+June 25, 2012 02:31 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [ground-control-points](/tag/ground-control-points), [alaska](/tag/alaska), [akrange](/tag/akrange)
 
 ----
 

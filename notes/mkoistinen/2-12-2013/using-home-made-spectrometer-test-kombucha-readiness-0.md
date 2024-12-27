@@ -6,18 +6,16 @@ author: mkoistinen
 path: /notes/mkoistinen/2-12-2013/using-home-made-spectrometer-test-kombucha-readiness-0.md
 nid: 5955
 uid: 50322
-
 cids: 3403,3408,3409,3417,3634
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_1475.JPG)
 
 # Using a home-made Spectrometer to test kombucha readiness
 
-by [mkoistinen](../../../profile/mkoistinen) | February 12, 2013 15:25
+by [mkoistinen](/profile/mkoistinen) | February 12, 2013 15:25
 
-February 12, 2013 15:25 | Tags: [spectrometer](../tag/spectrometer), [microbes](../tag/microbes), [desktop-spectrometer](../tag/desktop-spectrometer), [kombucha](../tag/kombucha), [kombucha-leather](../tag/kombucha-leather), [activity:kombucha-leather](../tag/activity:kombucha-leather), [activity:spectrometer](../tag/activity:spectrometer)
+February 12, 2013 15:25 | Tags: [spectrometer](/tag/spectrometer), [microbes](/tag/microbes), [desktop-spectrometer](/tag/desktop-spectrometer), [kombucha](/tag/kombucha), [kombucha-leather](/tag/kombucha-leather), [activity:kombucha-leather](/tag/activity:kombucha-leather), [activity:spectrometer](/tag/activity:spectrometer)
 
 ----
 

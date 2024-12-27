@@ -6,18 +6,16 @@ author: jenjimah
 path: /notes/jenjimah/05-30-2019/horticultural-spectrometer-assembly.md
 nid: 19565
 uid: 505738
-
 cids: 24327,24332,24333,24335,24336,24341,24343,24346,24347
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/528/original/IMG-20190529-WA0001.jpeg)
 
 # Horticultural Spectrometer - Assembly
 
-by [jenjimah](../../../profile/jenjimah) | May 30, 2019 05:57
+by [jenjimah](/profile/jenjimah) | May 30, 2019 05:57
 
-May 30, 2019 05:57 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [lego](../tag/lego), [lego-spectrometer](../tag/lego-spectrometer), [horticulture](../tag/horticulture), [response:18991](../tag/response:18991)
+May 30, 2019 05:57 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [lego](/tag/lego), [lego-spectrometer](/tag/lego-spectrometer), [horticulture](/tag/horticulture), [response:18991](/tag/response:18991)
 
 ----
 

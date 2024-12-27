@@ -6,14 +6,14 @@ author: liz
 path: /wiki/lending-library.md
 nid: 10953
 uid: 7
-
+cids: 
 ---
 
 # Public Lab Lending Library
 
-by [liz](../profile/liz), [bsugar](../profile/bsugar), [dce-f](../profile/dce-f), [mathew](../profile/mathew), [warren](../profile/warren), [Shannon](../profile/Shannon)
+by [liz](/profile/liz), [bsugar](/profile/bsugar), [dce-f](/profile/dce-f), [mathew](/profile/mathew), [warren](/profile/warren), [Shannon](/profile/Shannon)
 
-July 23, 2014 16:19 | Tags: [community](../tag/community), [lending-library](../tag/lending-library)
+July 23, 2014 16:19 | Tags: [community](/tag/community), [lending-library](/tag/lending-library)
 
 ----
 

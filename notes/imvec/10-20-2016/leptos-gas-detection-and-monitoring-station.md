@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/10-20-2016/leptos-gas-detection-and-monitoring-station.md
 nid: 13630
 uid: 495038
-
 cids: 15706,15707
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/493/original/LeptosSteps001.JPG)
 
 # Leptos: gas detection and monitoring station
 
-by [imvec](../../../profile/imvec) | October 20, 2016 13:14
+by [imvec](/profile/imvec) | October 20, 2016 13:14
 
-October 20, 2016 13:14 | Tags: [arduino](../tag/arduino), [barcelona](../tag/barcelona), [spain](../tag/spain), [air-quality](../tag/air-quality), [espana](../tag/espana), [gas-sensor](../tag/gas-sensor), [air-monitoring](../tag/air-monitoring), [activity:open-air](../tag/activity:open-air), [gas-monitoring](../tag/gas-monitoring), [grove](../tag/grove), [first-time-poster](../tag/first-time-poster)
+October 20, 2016 13:14 | Tags: [arduino](/tag/arduino), [barcelona](/tag/barcelona), [spain](/tag/spain), [air-quality](/tag/air-quality), [espana](/tag/espana), [gas-sensor](/tag/gas-sensor), [air-monitoring](/tag/air-monitoring), [activity:open-air](/tag/activity:open-air), [gas-monitoring](/tag/gas-monitoring), [grove](/tag/grove), [first-time-poster](/tag/first-time-poster)
 
 ----
 

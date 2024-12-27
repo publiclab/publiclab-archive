@@ -6,14 +6,14 @@ author: warren
 path: /wiki/cern-ohl-11.md
 nid: 559
 uid: 1
-
+cids: 
 ---
 
 # CERN-OHL-1.1
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-November 13, 2011 17:00 | Tags: [licensing](../tag/licensing), [ohl](../tag/ohl), [open-hardware](../tag/open-hardware), [licenses](../tag/licenses), [cernohl](../tag/cernohl), [parent:licenses](../tag/parent:licenses)
+November 13, 2011 17:00 | Tags: [licensing](/tag/licensing), [ohl](/tag/ohl), [open-hardware](/tag/open-hardware), [licenses](/tag/licenses), [cernohl](/tag/cernohl), [parent:licenses](/tag/parent:licenses)
 
 ----
 

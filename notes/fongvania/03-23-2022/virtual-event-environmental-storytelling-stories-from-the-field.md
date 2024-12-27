@@ -6,18 +6,16 @@ author: fongvania
 path: /notes/fongvania/03-23-2022/virtual-event-environmental-storytelling-stories-from-the-field.md
 nid: 30180
 uid: 754846
-
 cids: 29874,29875,29884,29906,29933,29951,29970,29971,29991,30819,30820,30821
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/653/original/Environmental_Storytelling_-_Stories_from_the_Field_v3.png)
 
 # Virtual Event: Environmental Storytelling - Stories from the Field
 
-by [fongvania](../../../profile/fongvania) | March 23, 2022 19:27
+by [fongvania](/profile/fongvania) | March 23, 2022 19:27
 
-March 23, 2022 19:27 | Tags: [event](../tag/event), [refinery](../tag/refinery), [art](../tag/art), [event:rsvp](../tag/event:rsvp), [rsvp:liz](../tag/rsvp:liz), [advocacy](../tag/advocacy), [storytelling](../tag/storytelling), [virtual](../tag/virtual), [artivism](../tag/artivism), [rsvp:bhamster](../tag/rsvp:bhamster), [research-curation-fellows-event](../tag/research-curation-fellows-event), [bioindicators](../tag/bioindicators), [rsvp:jordanyjackson](../tag/rsvp:jordanyjackson), [date:04-14-2022](../tag/date:04-14-2022), [rsvp:catherine_m_d_booth](../tag/rsvp:catherine_m_d_booth), [rsvp:mjabot](../tag/rsvp:mjabot), [rsvp:ierealy](../tag/rsvp:ierealy), [rsvp:jessicajewell](../tag/rsvp:jessicajewell), [rsvp:lb3124](../tag/rsvp:lb3124), [rsvp:julbusk](../tag/rsvp:julbusk), [rsvp:fongvania](../tag/rsvp:fongvania)
+March 23, 2022 19:27 | Tags: [event](/tag/event), [refinery](/tag/refinery), [art](/tag/art), [event:rsvp](/tag/event:rsvp), [rsvp:liz](/tag/rsvp:liz), [advocacy](/tag/advocacy), [storytelling](/tag/storytelling), [virtual](/tag/virtual), [artivism](/tag/artivism), [rsvp:bhamster](/tag/rsvp:bhamster), [research-curation-fellows-event](/tag/research-curation-fellows-event), [bioindicators](/tag/bioindicators), [rsvp:jordanyjackson](/tag/rsvp:jordanyjackson), [date:04-14-2022](/tag/date:04-14-2022), [rsvp:catherine_m_d_booth](/tag/rsvp:catherine_m_d_booth), [rsvp:mjabot](/tag/rsvp:mjabot), [rsvp:ierealy](/tag/rsvp:ierealy), [rsvp:jessicajewell](/tag/rsvp:jessicajewell), [rsvp:lb3124](/tag/rsvp:lb3124), [rsvp:julbusk](/tag/rsvp:julbusk), [rsvp:fongvania](/tag/rsvp:fongvania)
 
 ----
 

@@ -6,18 +6,16 @@ author: gonzoearth
 path: /notes/gonzoearth/07-02-2013/camera-bench-for-mac.md
 nid: 8614
 uid: 12
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/634/original/Screen_Shot_2013-06-27_at_3.05.31_PM.png)
 
 # Camera Bench for Mac
 
-by [gonzoearth](../../../profile/gonzoearth) | July 02, 2013 22:27
+by [gonzoearth](/profile/gonzoearth) | July 02, 2013 22:27
 
-July 02, 2013 22:27 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [conversion](../tag/conversion), [infragram](../tag/infragram), [response:8285](../tag/response:8285)
+July 02, 2013 22:27 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [conversion](/tag/conversion), [infragram](/tag/infragram), [response:8285](/tag/response:8285)
 
 ----
 

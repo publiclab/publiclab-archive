@@ -6,16 +6,16 @@ author: ananyo2012
 path: /wiki/public-lab-q-and-a.md
 nid: 13357
 uid: 468506
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/787/original/join_conversation.png)
 
 # About Public Lab Questions & Answers
 
-by [bhamster](../profile/bhamster), [souravirus](../profile/souravirus), [liz](../profile/liz), [ananyo2012](../profile/ananyo2012)
+by [bhamster](/profile/bhamster), [souravirus](/profile/souravirus), [liz](/profile/liz), [ananyo2012](/profile/ananyo2012)
 
-August 17, 2016 00:15 | Tags: [help](../tag/help), [research](../tag/research), [q-and-a](../tag/q-and-a), [soc](../tag/soc), [questions](../tag/questions), [parent:website-basics](../tag/parent:website-basics), [asking-questions](../tag/asking-questions)
+August 17, 2016 00:15 | Tags: [help](/tag/help), [research](/tag/research), [q-and-a](/tag/q-and-a), [soc](/tag/soc), [questions](/tag/questions), [parent:website-basics](/tag/parent:website-basics), [asking-questions](/tag/asking-questions)
 
 ----
 

@@ -6,16 +6,14 @@ author:
 path: /notes/5-13-2012/aberdeen.md
 nid: 2086
 uid: 0
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0761_medium.JPG)
 
 # aberdeen
 
-by [](../../../profile/) | May 14, 2012 01:55
+by [](/profile/) | May 14, 2012 01:55
 
 May 14, 2012 01:55 | Tags: 
 

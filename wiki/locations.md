@@ -6,14 +6,14 @@ author: adam-griffith
 path: /wiki/locations.md
 nid: 5585
 uid: 3
-
+cids: 
 ---
 
 # Locations
 
-by [liz](../profile/liz), [joyofsoy](../profile/joyofsoy), [warren](../profile/warren), [adam-griffith](../profile/adam-griffith)
+by [liz](/profile/liz), [joyofsoy](/profile/joyofsoy), [warren](/profile/warren), [adam-griffith](/profile/adam-griffith)
 
-January 14, 2013 15:56 | Tags: [community](../tag/community), [geographic-features](../tag/geographic-features), [location:blurred](../tag/location:blurred), [lat:37](../tag/lat:37), [zoom:6](../tag/zoom:6), [lon:-121](../tag/lon:-121), [place:silicon-valley](../tag/place:silicon-valley)
+January 14, 2013 15:56 | Tags: [community](/tag/community), [geographic-features](/tag/geographic-features), [location:blurred](/tag/location:blurred), [lat:37](/tag/lat:37), [zoom:6](/tag/zoom:6), [lon:-121](/tag/lon:-121), [place:silicon-valley](/tag/place:silicon-valley)
 
 ----
 

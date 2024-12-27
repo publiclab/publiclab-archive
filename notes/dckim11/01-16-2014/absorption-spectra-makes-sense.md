@@ -6,16 +6,14 @@ author: dckim11
 path: /notes/dckim11/01-16-2014/absorption-spectra-makes-sense.md
 nid: 9950
 uid: 300699
-
 cids: 8036,8044,8187
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/566/original/photo.JPG)
 
 # Absorption spectra makes sense?
 
-by [dckim11](../../../profile/dckim11) | January 16, 2014 04:49
+by [dckim11](/profile/dckim11) | January 16, 2014 04:49
 
 January 16, 2014 04:49 | Tags: 
 

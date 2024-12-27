@@ -6,14 +6,14 @@ author: donblair
 path: /wiki/riffle-th.md
 nid: 10647
 uid: 43651
-
+cids: 
 ---
 
 # riffle-th
 
-by [donblair](../profile/donblair)
+by [donblair](/profile/donblair)
 
-July 02, 2014 20:02 | Tags: [water-quality](../tag/water-quality), [riffle](../tag/riffle), [open-water](../tag/open-water), [riffle-th](../tag/riffle-th), [parent:riffle](../tag/parent:riffle)
+July 02, 2014 20:02 | Tags: [water-quality](/tag/water-quality), [riffle](/tag/riffle), [open-water](/tag/open-water), [riffle-th](/tag/riffle-th), [parent:riffle](/tag/parent:riffle)
 
 ----
 

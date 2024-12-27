@@ -6,14 +6,12 @@ author: cindy_excites
 path: /notes/cindyexcites/8-3-2012/update-may-june-july.md
 nid: 3121
 uid: 1083
-
 cids: 
-
 ---
 
 # Update May-June-July
 
-by [cindy_excites](../../../profile/cindy_excites) | August 03, 2012 22:02
+by [cindy_excites](/profile/cindy_excites) | August 03, 2012 22:02
 
 August 03, 2012 22:02 | Tags: 
 

@@ -6,18 +6,16 @@ author: natevw
 path: /notes/natevw/5-3-2012/powered-string-winder-balloons.md
 nid: 1900
 uid: 804
-
 cids: 683,684,700
-
 ---
 
 ![](https://publiclab.org/sites/default/files/string_winder_diagram_bg_0.png)
 
 # Powered string winder for balloons
 
-by [natevw](../../../profile/natevw) | May 03, 2012 17:42
+by [natevw](/profile/natevw) | May 03, 2012 17:42
 
-May 03, 2012 17:42 | Tags: [balloon-mapping](../tag/balloon-mapping), [winders](../tag/winders), [flying](../tag/flying)
+May 03, 2012 17:42 | Tags: [balloon-mapping](/tag/balloon-mapping), [winders](/tag/winders), [flying](/tag/flying)
 
 ----
 

@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/11-24-2014/event38-ndvi-over-cocodrie.md
 nid: 11394
 uid: 554
-
 cids: 10833,10837,10838
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/098/original/KnitterNDVI.JPG)
 
 # Event38 NDVI over Cocodrie
 
-by [cfastie](../../../profile/cfastie) | November 24, 2014 03:01
+by [cfastie](/profile/cfastie) | November 24, 2014 03:01
 
-November 24, 2014 03:01 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [image-stitching](../tag/image-stitching), [louisiana](../tag/louisiana), [barnraising](../tag/barnraising), [lumcon](../tag/lumcon), [infragram](../tag/infragram), [barnraising2014](../tag/barnraising2014)
+November 24, 2014 03:01 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [image-stitching](/tag/image-stitching), [louisiana](/tag/louisiana), [barnraising](/tag/barnraising), [lumcon](/tag/lumcon), [infragram](/tag/infragram), [barnraising2014](/tag/barnraising2014)
 
 ----
 

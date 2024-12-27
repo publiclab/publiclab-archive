@@ -6,16 +6,14 @@ author: Mekis
 path: /notes/Mekis/04-12-2017/how-do-i.md
 nid: 14108
 uid: 505614
-
 cids: 22509
-
 ---
 
 # How do I...
 
-by [Mekis](../../../profile/Mekis) | April 12, 2017 18:45
+by [Mekis](/profile/Mekis) | April 12, 2017 18:45
 
-April 12, 2017 18:45 | Tags: [spectrometry](../tag/spectrometry), [question:spectrometry](../tag/question:spectrometry), [first-time-poster](../tag/first-time-poster)
+April 12, 2017 18:45 | Tags: [spectrometry](/tag/spectrometry), [question:spectrometry](/tag/question:spectrometry), [first-time-poster](/tag/first-time-poster)
 
 ----
 

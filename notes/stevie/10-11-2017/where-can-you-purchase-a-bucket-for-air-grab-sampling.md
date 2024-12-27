@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/10-11-2017/where-can-you-purchase-a-bucket-for-air-grab-sampling.md
 nid: 15027
 uid: 422561
-
 cids: 17511,17514,17934,17958,18959
-
 ---
 
 # Where can you purchase a bucket for air grab sampling? 
 
-by [stevie](../../../profile/stevie) | October 11, 2017 19:12
+by [stevie](/profile/stevie) | October 11, 2017 19:12
 
-October 11, 2017 19:12 | Tags: [air-quality](../tag/air-quality), [air](../tag/air), [sample-containers](../tag/sample-containers), [sample](../tag/sample), [question:sampling](../tag/question:sampling), [grab](../tag/grab), [bucket](../tag/bucket), [question:air-sampling](../tag/question:air-sampling), [bucket-monitor](../tag/bucket-monitor), [question:bucket-monitor](../tag/question:bucket-monitor)
+October 11, 2017 19:12 | Tags: [air-quality](/tag/air-quality), [air](/tag/air), [sample-containers](/tag/sample-containers), [sample](/tag/sample), [question:sampling](/tag/question:sampling), [grab](/tag/grab), [bucket](/tag/bucket), [question:air-sampling](/tag/question:air-sampling), [bucket-monitor](/tag/bucket-monitor), [question:bucket-monitor](/tag/question:bucket-monitor)
 
 ----
 

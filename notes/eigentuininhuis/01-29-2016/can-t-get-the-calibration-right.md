@@ -6,16 +6,14 @@ author: eigentuininhuis
 path: /notes/eigentuininhuis/01-29-2016/can-t-get-the-calibration-right.md
 nid: 12635
 uid: 460522
-
 cids: 13441,13443,13470
-
 ---
 
 # can't get the calibration right
 
-by [eigentuininhuis](../../../profile/eigentuininhuis) | January 29, 2016 08:24
+by [eigentuininhuis](/profile/eigentuininhuis) | January 29, 2016 08:24
 
-January 29, 2016 08:24 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [first-time-poster](../tag/first-time-poster)
+January 29, 2016 08:24 | Tags: [question:spectral-workbench](/tag/question:spectral-workbench), [first-time-poster](/tag/first-time-poster)
 
 ----
 

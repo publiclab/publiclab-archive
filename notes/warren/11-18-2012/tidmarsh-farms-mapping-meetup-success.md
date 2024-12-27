@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/11-18-2012/tidmarsh-farms-mapping-meetup-success.md
 nid: 4939
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_8052.JPG)
 
 # Tidmarsh Farms mapping meetup: success!
 
-by [warren](../../../profile/warren) | November 19, 2012 02:49
+by [warren](/profile/warren) | November 19, 2012 02:49
 
-November 19, 2012 02:49 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [infrared](../tag/infrared), [meetup](../tag/meetup), [tidmarsh](../tag/tidmarsh)
+November 19, 2012 02:49 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [infrared](/tag/infrared), [meetup](/tag/meetup), [tidmarsh](/tag/tidmarsh)
 
 ----
 

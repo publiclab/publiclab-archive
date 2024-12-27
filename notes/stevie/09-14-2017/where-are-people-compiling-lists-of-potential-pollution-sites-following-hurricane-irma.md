@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/09-14-2017/where-are-people-compiling-lists-of-potential-pollution-sites-following-hurricane-irma.md
 nid: 14893
 uid: 422561
-
 cids: 17452,18032,18347,19574,19636,19842,19843,19844,19845,22615
-
 ---
 
 # Where are people compiling lists of potential pollution sites following Hurricane Irma?
 
-by [stevie](../../../profile/stevie) | September 14, 2017 14:14
+by [stevie](/profile/stevie) | September 14, 2017 14:14
 
-September 14, 2017 14:14 | Tags: [hurricane](../tag/hurricane), [question:general](../tag/question:general), [irma](../tag/irma)
+September 14, 2017 14:14 | Tags: [hurricane](/tag/hurricane), [question:general](/tag/question:general), [irma](/tag/irma)
 
 ----
 

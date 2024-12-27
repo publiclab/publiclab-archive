@@ -6,16 +6,14 @@ author: lfamular
 path: /notes/lfamular/7-18-2012/towards-standard-diamond-kite-kit.md
 nid: 2865
 uid: 120
-
 cids: 19372
-
 ---
 
 # Towards a standard diamond kite kit
 
-by [lfamular](../../../profile/lfamular) | July 18, 2012 17:35
+by [lfamular](/profile/lfamular) | July 18, 2012 17:35
 
-July 18, 2012 17:35 | Tags: [kite-mapping](../tag/kite-mapping), [diy-kite](../tag/diy-kite), [tyvek](../tag/tyvek), [diy-kites](../tag/diy-kites), [kite-making](../tag/kite-making), [activity:tyvek](../tag/activity:tyvek), [first-time-poster](../tag/first-time-poster)
+July 18, 2012 17:35 | Tags: [kite-mapping](/tag/kite-mapping), [diy-kite](/tag/diy-kite), [tyvek](/tag/tyvek), [diy-kites](/tag/diy-kites), [kite-making](/tag/kite-making), [activity:tyvek](/tag/activity:tyvek), [first-time-poster](/tag/first-time-poster)
 
 ----
 

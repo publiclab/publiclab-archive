@@ -6,16 +6,14 @@ author: gonzoearth
 path: /notes/gonzoearth/8-24-2012/public-lab-community-newsletter-82412.md
 nid: 3450
 uid: 12
-
 cids: 
-
 ---
 
 # Public Lab community newsletter 8.24.12
 
-by [gonzoearth](../../../profile/gonzoearth) | August 24, 2012 15:42
+by [gonzoearth](/profile/gonzoearth) | August 24, 2012 15:42
 
-August 24, 2012 15:42 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+August 24, 2012 15:42 | Tags: [newsletter](/tag/newsletter), [newsletter-archive](/tag/newsletter-archive)
 
 ----
 

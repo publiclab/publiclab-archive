@@ -6,18 +6,16 @@ author: aerialmapping123
 path: /notes/aerialmapping123/05-30-2017/aerial-observation-of-north-and-south-facing-slope-ecologies.md
 nid: 14240
 uid: 508245
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/574/original/huntington-section-2-group-1.jpg)
 
 # Aerial Observation of North and South Facing Slope Ecologies
 
-by [aerialmapping123](../../../profile/aerialmapping123) | May 30, 2017 16:09
+by [aerialmapping123](/profile/aerialmapping123) | May 30, 2017 16:09
 
-May 30, 2017 16:09 | Tags: [balloon-mapping](../tag/balloon-mapping), [event](../tag/event), [hidden:response](../tag/hidden:response), [response:14179](../tag/response:14179)
+May 30, 2017 16:09 | Tags: [balloon-mapping](/tag/balloon-mapping), [event](/tag/event), [hidden:response](/tag/hidden:response), [response:14179](/tag/response:14179)
 
 ----
 

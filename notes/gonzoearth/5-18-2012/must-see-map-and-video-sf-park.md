@@ -6,18 +6,16 @@ author: gonzoearth
 path: /notes/gonzoearth/5-18-2012/must-see-map-and-video-sf-park.md
 nid: 2121
 uid: 12
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Capture_48.JPG)
 
 # Must see map and video of SF Park
 
-by [gonzoearth](../../../profile/gonzoearth) | May 18, 2012 05:30
+by [gonzoearth](/profile/gonzoearth) | May 18, 2012 05:30
 
-May 18, 2012 05:30 | Tags: [balloon-mapping](../tag/balloon-mapping)
+May 18, 2012 05:30 | Tags: [balloon-mapping](/tag/balloon-mapping)
 
 ----
 

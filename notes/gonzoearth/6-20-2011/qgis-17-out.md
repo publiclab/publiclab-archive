@@ -6,14 +6,12 @@ author: gonzoearth
 path: /notes/gonzoearth/6-20-2011/qgis-17-out.md
 nid: 349
 uid: 12
-
 cids: 
-
 ---
 
 # QGIS 1.7 is out :)
 
-by [gonzoearth](../../../profile/gonzoearth) | June 20, 2011 18:37
+by [gonzoearth](/profile/gonzoearth) | June 20, 2011 18:37
 
 June 20, 2011 18:37 | Tags: 
 

@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/08-23-2019/who-are-the-environmental-organizations-that-do-air-quality-monitoring-in-deer-park-texas.md
 nid: 20640
 uid: 422561
-
 cids: 25461
-
 ---
 
 # Who are the environmental organizations that do air quality monitoring in Deer Park Texas?
 
-by [stevie](../../../profile/stevie) | August 23, 2019 17:09
+by [stevie](/profile/stevie) | August 23, 2019 17:09
 
-August 23, 2019 17:09 | Tags: [question:air-quality](../tag/question:air-quality), [question:deer-park-tank-fire](../tag/question:deer-park-tank-fire)
+August 23, 2019 17:09 | Tags: [question:air-quality](/tag/question:air-quality), [question:deer-park-tank-fire](/tag/question:deer-park-tank-fire)
 
 ----
 

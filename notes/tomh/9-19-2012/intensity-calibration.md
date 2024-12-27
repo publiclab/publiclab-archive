@@ -6,16 +6,14 @@ author: Tom_H
 path: /notes/tomh/9-19-2012/intensity-calibration.md
 nid: 3886
 uid: 43352
-
 cids: 1379,1380,1382,1386,1387,1404,1407,1408,1409,1411,1413,1434,1544,1611,1627,1636,1643,1645,1646,1647,2805,3526,3532,3533,3534,3536,3573,3985,4158
-
 ---
 
 # intensity calibration
 
-by [Tom_H](../../../profile/Tom_H) | September 19, 2012 21:02
+by [Tom_H](/profile/Tom_H) | September 19, 2012 21:02
 
-September 19, 2012 21:02 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [spectralworkbench](../tag/spectralworkbench), [radiometric-calibration](../tag/radiometric-calibration), [first-time-poster](../tag/first-time-poster)
+September 19, 2012 21:02 | Tags: [spectrometer](/tag/spectrometer), [calibration](/tag/calibration), [spectralworkbench](/tag/spectralworkbench), [radiometric-calibration](/tag/radiometric-calibration), [first-time-poster](/tag/first-time-poster)
 
 ----
 

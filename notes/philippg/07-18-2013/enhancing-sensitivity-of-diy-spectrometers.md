@@ -6,18 +6,16 @@ author: philippg
 path: /notes/philippg/07-18-2013/enhancing-sensitivity-of-diy-spectrometers.md
 nid: 8906
 uid: 121462
-
 cids: 6338,6339,6342,6431,7210
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/839/original/averaging.png)
 
 # Enhancing Sensitivity of DIY Spectrometers
 
-by [philippg](../../../profile/philippg) | July 18, 2013 20:41
+by [philippg](/profile/philippg) | July 18, 2013 20:41
 
-July 18, 2013 20:41 | Tags: [spectrometer](../tag/spectrometer), [water-quality](../tag/water-quality), [sensitivity](../tag/sensitivity), [smoothing](../tag/smoothing)
+July 18, 2013 20:41 | Tags: [spectrometer](/tag/spectrometer), [water-quality](/tag/water-quality), [sensitivity](/tag/sensitivity), [smoothing](/tag/smoothing)
 
 ----
 

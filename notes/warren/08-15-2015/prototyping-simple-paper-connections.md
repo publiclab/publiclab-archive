@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/08-15-2015/prototyping-simple-paper-connections.md
 nid: 12146
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/133/original/tmp_31148-IMG_20150815_125249_2-1665396675.jpg)
 
 # Prototyping simple paper connections
 
-by [warren](../../../profile/warren) | August 15, 2015 17:21
+by [warren](/profile/warren) | August 15, 2015 17:21
 
-August 15, 2015 17:21 | Tags: [spectrometer](../tag/spectrometer), [papercraft](../tag/papercraft), [die-cutting](../tag/die-cutting), [silhouette-cameo](../tag/silhouette-cameo), [prototyping](../tag/prototyping)
+August 15, 2015 17:21 | Tags: [spectrometer](/tag/spectrometer), [papercraft](/tag/papercraft), [die-cutting](/tag/die-cutting), [silhouette-cameo](/tag/silhouette-cameo), [prototyping](/tag/prototyping)
 
 ----
 

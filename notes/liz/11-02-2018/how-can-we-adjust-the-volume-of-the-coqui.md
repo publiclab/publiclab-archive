@@ -6,16 +6,14 @@ author: liz
 path: /notes/liz/11-02-2018/how-can-we-adjust-the-volume-of-the-coqui.md
 nid: 17466
 uid: 7
-
 cids: 21103,21104,21107,21109,21110,21119,21994
-
 ---
 
 # How can we adjust the volume of the coqui?
 
-by [liz](../../../profile/liz) | November 02, 2018 17:57
+by [liz](/profile/liz) | November 02, 2018 17:57
 
-November 02, 2018 17:57 | Tags: [water-quality](../tag/water-quality), [coqui](../tag/coqui), [question:coqui](../tag/question:coqui), [pin:question:coqui](../tag/pin:question:coqui)
+November 02, 2018 17:57 | Tags: [water-quality](/tag/water-quality), [coqui](/tag/coqui), [question:coqui](/tag/question:coqui), [pin:question:coqui](/tag/pin:question:coqui)
 
 ----
 

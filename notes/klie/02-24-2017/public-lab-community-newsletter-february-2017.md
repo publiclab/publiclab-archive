@@ -6,18 +6,16 @@ author: klie
 path: /notes/klie/02-24-2017/public-lab-community-newsletter-february-2017.md
 nid: 13961
 uid: 441262
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/633/original/PUBLIC_LAB_NEWS_%281%29.png)
 
 # Public Lab Community Newsletter: February 2017
 
-by [klie](../../../profile/klie) | February 24, 2017 17:33
+by [klie](/profile/klie) | February 24, 2017 17:33
 
-February 24, 2017 17:33 | Tags: [newsletter](../tag/newsletter), [gsoc](../tag/gsoc), [stormwater](../tag/stormwater), [gsoc2017](../tag/gsoc2017)
+February 24, 2017 17:33 | Tags: [newsletter](/tag/newsletter), [gsoc](/tag/gsoc), [stormwater](/tag/stormwater), [gsoc2017](/tag/gsoc2017)
 
 ----
 

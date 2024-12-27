@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/09-30-2015/week-1-recap-from-oil-testing-kit-beta-program-kickoff-chat.md
 nid: 12257
 uid: 1
-
 cids: 12604,12609,12610,12613,12614
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/716/original/otk-m.jpg)
 
 # Week 1: Recap from Oil Testing Kit Beta Program kickoff chat
 
-by [warren](../../../profile/warren) | September 30, 2015 18:38
+by [warren](/profile/warren) | September 30, 2015 18:38
 
-September 30, 2015 18:38 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta)
+September 30, 2015 18:38 | Tags: [spectrometer](/tag/spectrometer), [fluorescence](/tag/fluorescence), [oil-testing-kit](/tag/oil-testing-kit), [oil-testing-kit-beta](/tag/oil-testing-kit-beta)
 
 ----
 

@@ -6,18 +6,16 @@ author: nicholas
 path: /notes/nicholas/12-02-2013/public-mapping-mission-newtown-creek.md
 nid: 9843
 uid: 53894
-
 cids: 7848,7946,16944
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/351/original/publicMapping_Final.png)
 
 # Public Mapping Mission - Newtown Creek
 
-by [nicholas](../../../profile/nicholas) | December 02, 2013 16:53
+by [nicholas](/profile/nicholas) | December 02, 2013 16:53
 
-December 02, 2013 16:53 | Tags: [new-york-city](../tag/new-york-city), [education](../tag/education), [newtown-creek](../tag/newtown-creek), [event](../tag/event), [events:new-york-city](../tag/events:new-york-city), [blog](../tag/blog), [nyu](../tag/nyu), [replication:14022](../tag/replication:14022), [media-lab](../tag/media-lab), [govlab](../tag/govlab), [cusp](../tag/cusp)
+December 02, 2013 16:53 | Tags: [new-york-city](/tag/new-york-city), [education](/tag/education), [newtown-creek](/tag/newtown-creek), [event](/tag/event), [events:new-york-city](/tag/events:new-york-city), [blog](/tag/blog), [nyu](/tag/nyu), [replication:14022](/tag/replication:14022), [media-lab](/tag/media-lab), [govlab](/tag/govlab), [cusp](/tag/cusp)
 
 ----
 

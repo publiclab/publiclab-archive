@@ -6,16 +6,14 @@ author: Engineerjaykumar
 path: /notes/Engineerjaykumar/12-13-2019/what-are-the-adverse-effect-of-concrete-on-human-helth.md
 nid: 21751
 uid: 643226
-
 cids: 26010,26013,26028,26703,26746
-
 ---
 
 # What are the adverse effect of concrete on human helth?
 
-by [Engineerjaykumar](../../../profile/Engineerjaykumar) | December 13, 2019 17:24
+by [Engineerjaykumar](/profile/Engineerjaykumar) | December 13, 2019 17:24
 
-December 13, 2019 17:24 | Tags: [concrete](../tag/concrete), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster), [cementconcrete.org](../tag/cementconcrete.org)
+December 13, 2019 17:24 | Tags: [concrete](/tag/concrete), [question:general](/tag/question:general), [general](/tag/general), [first-time-poster](/tag/first-time-poster), [cementconcrete.org](/tag/cementconcrete.org)
 
 ----
 

@@ -6,18 +6,16 @@ author: dhaffnersr
 path: /notes/dhaffnersr/01-10-2016/raman-spectrometer-using-green-laser-pointer.md
 nid: 12575
 uid: 461120
-
 cids: 13332,13337
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/599/original/good.jpg)
 
 # Raman spectrometer using green laser pointer
 
-by [dhaffnersr](../../../profile/dhaffnersr) | January 10, 2016 20:08
+by [dhaffnersr](/profile/dhaffnersr) | January 10, 2016 20:08
 
-January 10, 2016 20:08 | Tags: [spectrometer](../tag/spectrometer), [raman](../tag/raman), [first-time-poster](../tag/first-time-poster)
+January 10, 2016 20:08 | Tags: [spectrometer](/tag/spectrometer), [raman](/tag/raman), [first-time-poster](/tag/first-time-poster)
 
 ----
 

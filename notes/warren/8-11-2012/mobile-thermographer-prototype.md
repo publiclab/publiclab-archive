@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/8-11-2012/mobile-thermographer-prototype.md
 nid: 3244
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/screenshot-1344714251131.png)
 
 # Mobile thermographer prototype
 
-by [warren](../../../profile/warren) | August 11, 2012 19:45
+by [warren](/profile/warren) | August 11, 2012 19:45
 
-August 11, 2012 19:45 | Tags: [thermal-flashlight](../tag/thermal-flashlight)
+August 11, 2012 19:45 | Tags: [thermal-flashlight](/tag/thermal-flashlight)
 
 ----
 

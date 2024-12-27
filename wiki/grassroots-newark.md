@@ -6,14 +6,14 @@ author: warren
 path: /wiki/grassroots-newark.md
 nid: 142
 uid: 1
-
+cids: 
 ---
 
 # Grassroots Newark
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-March 09, 2011 23:13 | Tags: [newark](../tag/newark), [new-jersey](../tag/new-jersey), [northeast](../tag/northeast)
+March 09, 2011 23:13 | Tags: [newark](/tag/newark), [new-jersey](/tag/new-jersey), [northeast](/tag/northeast)
 
 ----
 

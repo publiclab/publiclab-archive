@@ -6,12 +6,12 @@ author: liz
 path: /wiki/advocacy-initiative.md
 nid: 11537
 uid: 7
-
+cids: 
 ---
 
 # advocacy-initiative
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
 January 23, 2015 18:53 | Tags: 
 

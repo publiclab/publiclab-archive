@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/04-18-2016/cfl-repeatability-study-part-two.md
 nid: 12999
 uid: 461120
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/657/original/20160204_150517.jpg)
 
 # CFL repeatability study part two...
 
-by [dhaffnersr](../../../profile/dhaffnersr) | April 18, 2016 12:35
+by [dhaffnersr](/profile/dhaffnersr) | April 18, 2016 12:35
 
 April 18, 2016 12:35 | Tags: 
 

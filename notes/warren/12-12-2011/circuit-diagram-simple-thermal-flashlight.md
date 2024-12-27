@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/12-12-2011/circuit-diagram-simple-thermal-flashlight.md
 nid: 625
 uid: 1
-
 cids: 374,383,394,535,537,545,546,547,552,1026,7881,10755,23601
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/651/original/IMG_20190419_103107.jpg)
 
 # Build a simple Thermal Flashlight
 
-by [warren](../../../profile/warren) | December 12, 2011 05:40
+by [warren](/profile/warren) | December 12, 2011 05:40
 
-December 12, 2011 05:40 | Tags: [thermal-photography](../tag/thermal-photography), [arduino](../tag/arduino), [thermal-flashlight](../tag/thermal-flashlight), [fritzing](../tag/fritzing), [activity:thermal-flashlight](../tag/activity:thermal-flashlight), [activity:thermal-flashlight-assembly](../tag/activity:thermal-flashlight-assembly)
+December 12, 2011 05:40 | Tags: [thermal-photography](/tag/thermal-photography), [arduino](/tag/arduino), [thermal-flashlight](/tag/thermal-flashlight), [fritzing](/tag/fritzing), [activity:thermal-flashlight](/tag/activity:thermal-flashlight), [activity:thermal-flashlight-assembly](/tag/activity:thermal-flashlight-assembly)
 
 ----
 

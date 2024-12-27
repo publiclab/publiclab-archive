@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/02-26-2018/browser-notifications-for-answers-to-your-questions.md
 nid: 15821
 uid: 1
-
 cids: 19610,23075
-
 ---
 
 # Browser notifications for answers to your questions?
 
-by [warren](../../../profile/warren) | February 26, 2018 22:16
+by [warren](/profile/warren) | February 26, 2018 22:16
 
-February 26, 2018 22:16 | Tags: [answered](../tag/answered), [ui](../tag/ui), [question:ui](../tag/question:ui), [notifications](../tag/notifications)
+February 26, 2018 22:16 | Tags: [answered](/tag/answered), [ui](/tag/ui), [question:ui](/tag/question:ui), [notifications](/tag/notifications)
 
 ----
 

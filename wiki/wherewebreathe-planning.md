@@ -6,14 +6,14 @@ author: warren
 path: /wiki/wherewebreathe-planning.md
 nid: 10555
 uid: 1
-
+cids: 
 ---
 
 # WhereWeBreathe Planning
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-June 12, 2014 14:09 | Tags: [wherewebreathe](../tag/wherewebreathe), [parent:wherewebreathe](../tag/parent:wherewebreathe)
+June 12, 2014 14:09 | Tags: [wherewebreathe](/tag/wherewebreathe), [parent:wherewebreathe](/tag/parent:wherewebreathe)
 
 ----
 

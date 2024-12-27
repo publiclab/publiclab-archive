@@ -6,14 +6,14 @@ author: warren
 path: /wiki/wiki-gardening.md
 nid: 6925
 uid: 1
-
+cids: 
 ---
 
 # Wiki gardening
 
-by [btbonval](../profile/btbonval), [warren](../profile/warren)
+by [btbonval](/profile/btbonval), [warren](/profile/warren)
 
-April 20, 2013 05:45 | Tags: [needs-revision](../tag/needs-revision)
+April 20, 2013 05:45 | Tags: [needs-revision](/tag/needs-revision)
 
 ----
 

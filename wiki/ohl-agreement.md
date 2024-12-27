@@ -6,12 +6,12 @@ author: warren
 path: /wiki/ohl-agreement.md
 nid: 527
 uid: 1
-
+cids: 
 ---
 
 # OHL Agreement
 
-by [liz](../profile/liz), [warren](../profile/warren)
+by [liz](/profile/liz), [warren](/profile/warren)
 
 October 28, 2011 17:39 | Tags: 
 

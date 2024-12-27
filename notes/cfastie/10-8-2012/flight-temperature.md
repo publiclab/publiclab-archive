@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/10-8-2012/flight-temperature.md
 nid: 4260
 uid: 554
-
 cids: 1599,1600,1635
-
 ---
 
 ![](https://publiclab.org/sites/default/files/LEAFBadel-20120922-9192.jpg)
 
 # Flight Temperature
 
-by [cfastie](../../../profile/cfastie) | October 08, 2012 23:26
+by [cfastie](/profile/cfastie) | October 08, 2012 23:26
 
-October 08, 2012 23:26 | Tags: [kite-mapping](../tag/kite-mapping), [arduino](../tag/arduino), [mapknitter](../tag/mapknitter), [leaffest](../tag/leaffest), [leaffest2012](../tag/leaffest2012), [gps](../tag/gps), [jeenode](../tag/jeenode), [qgis](../tag/qgis)
+October 08, 2012 23:26 | Tags: [kite-mapping](/tag/kite-mapping), [arduino](/tag/arduino), [mapknitter](/tag/mapknitter), [leaffest](/tag/leaffest), [leaffest2012](/tag/leaffest2012), [gps](/tag/gps), [jeenode](/tag/jeenode), [qgis](/tag/qgis)
 
 ----
 

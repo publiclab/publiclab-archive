@@ -6,14 +6,14 @@ author: warren
 path: /wiki/spectrometry-activities.md
 nid: 4239
 uid: 1
-
+cids: 
 ---
 
 # Spectrometry activities
 
-by [warren](../profile/warren), [cfastie](../profile/cfastie), [liz](../profile/liz)
+by [warren](/profile/warren), [cfastie](/profile/cfastie), [liz](/profile/liz)
 
-October 06, 2012 15:25 | Tags: [education](../tag/education), [spectrometry](../tag/spectrometry), [curriculum](../tag/curriculum), [classroom](../tag/classroom)
+October 06, 2012 15:25 | Tags: [education](/tag/education), [spectrometry](/tag/spectrometry), [curriculum](/tag/curriculum), [classroom](/tag/classroom)
 
 ----
 

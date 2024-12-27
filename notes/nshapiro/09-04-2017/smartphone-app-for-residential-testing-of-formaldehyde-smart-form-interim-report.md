@@ -6,18 +6,16 @@ author: nshapiro
 path: /notes/nshapiro/09-04-2017/smartphone-app-for-residential-testing-of-formaldehyde-smart-form-interim-report.md
 nid: 14824
 uid: 380298
-
 cids: 17304,17308,17310,17312,17474
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/552/original/IMG_0273.PNG)
 
 # Smartphone App for Residential Testing of Formaldehyde (SMART-FORM) Interim report 
 
-by [nshapiro](../../../profile/nshapiro) | September 04, 2017 15:00
+by [nshapiro](/profile/nshapiro) | September 04, 2017 15:00
 
-September 04, 2017 15:00 | Tags: [smartphone](../tag/smartphone), [formaldehyde](../tag/formaldehyde), [indoor-air-quality](../tag/indoor-air-quality), [with:gretchengehrke](../tag/with:gretchengehrke), [indoor-air](../tag/indoor-air), [nsf](../tag/nsf), [smart-form](../tag/smart-form)
+September 04, 2017 15:00 | Tags: [smartphone](/tag/smartphone), [formaldehyde](/tag/formaldehyde), [indoor-air-quality](/tag/indoor-air-quality), [with:gretchengehrke](/tag/with:gretchengehrke), [indoor-air](/tag/indoor-air), [nsf](/tag/nsf), [smart-form](/tag/smart-form)
 
 ----
 

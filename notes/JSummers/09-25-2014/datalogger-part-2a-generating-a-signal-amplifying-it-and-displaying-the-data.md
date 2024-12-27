@@ -6,18 +6,16 @@ author: JSummers
 path: /notes/JSummers/09-25-2014/datalogger-part-2a-generating-a-signal-amplifying-it-and-displaying-the-data.md
 nid: 11190
 uid: 304279
-
 cids: 10780,10790,10812,10824,10826,10836
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/033/original/DataLog1.png)
 
 # Datalogger part 2a; Generating a signal, amplifying it, and displaying the data.
 
-by [JSummers](../../../profile/JSummers) | September 25, 2014 21:20
+by [JSummers](/profile/JSummers) | September 25, 2014 21:20
 
-September 25, 2014 21:20 | Tags: [datalogger](../tag/datalogger), [response:10288](../tag/response:10288), [activity:data-logging](../tag/activity:data-logging)
+September 25, 2014 21:20 | Tags: [datalogger](/tag/datalogger), [response:10288](/tag/response:10288), [activity:data-logging](/tag/activity:data-logging)
 
 ----
 

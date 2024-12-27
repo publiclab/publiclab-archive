@@ -6,18 +6,16 @@ author: MicheleTobias
 path: /notes/MicheleTobias/08-20-2013/malibu-lagoon-surfrider-beach-malibu-ca.md
 nid: 9037
 uid: 149
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/215/original/IMG_5494.JPG)
 
 # Malibu Lagoon & Surfrider Beach, Malibu, CA
 
-by [MicheleTobias](../../../profile/MicheleTobias) | August 20, 2013 03:16
+by [MicheleTobias](/profile/MicheleTobias) | August 20, 2013 03:16
 
-August 20, 2013 03:16 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [infrared](../tag/infrared), [norcal](../tag/norcal), [california](../tag/california), [gopro](../tag/gopro)
+August 20, 2013 03:16 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [infrared](/tag/infrared), [norcal](/tag/norcal), [california](/tag/california), [gopro](/tag/gopro)
 
 ----
 

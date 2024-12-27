@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/04-26-2016/announcing-a-public-lab-booklet-diy-oil-testing.md
 nid: 13032
 uid: 1
-
 cids: 14534
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/787/original/IMG_20160420_111959-2.jpg)
 
 # Announcing a Public Lab booklet: DIY Oil Testing
 
-by [warren](../../../profile/warren) | April 26, 2016 15:09
+by [warren](/profile/warren) | April 26, 2016 15:09
 
-April 26, 2016 15:09 | Tags: [spectrometer](../tag/spectrometer), [publication](../tag/publication), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:basic](../tag/barnstar:basic), [homebrew-oil-testing-kit](../tag/homebrew-oil-testing-kit), [booklet](../tag/booklet)
+April 26, 2016 15:09 | Tags: [spectrometer](/tag/spectrometer), [publication](/tag/publication), [oil-testing-kit](/tag/oil-testing-kit), [barnstar:basic](/tag/barnstar:basic), [homebrew-oil-testing-kit](/tag/homebrew-oil-testing-kit), [booklet](/tag/booklet)
 
 ----
 

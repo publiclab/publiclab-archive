@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/03-09-2016/effects-on-uv-radiation-of-glass-and-quartz-using-uv-led-and-uv-laser.md
 nid: 12822
 uid: 461120
-
 cids: 13832,13833,13834,13836,13838,13840,13841,13850,13852
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/693/original/photodiodecircuit2_bb.png)
 
 # effects on UV radiation of Glass and Quartz using UV LED and UV laser
 
-by [dhaffnersr](../../../profile/dhaffnersr) | March 09, 2016 21:27
+by [dhaffnersr](/profile/dhaffnersr) | March 09, 2016 21:27
 
 March 09, 2016 21:27 | Tags: 
 

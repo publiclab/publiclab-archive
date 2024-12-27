@@ -6,18 +6,16 @@ author: TheChessGym
 path: /notes/TheChessGym/09-27-2022/aquifers-and-groundwater-sources.md
 nid: 34999
 uid: 788868
-
 cids: 30643,30644,30645,30646,30647
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/195/original/Ogalalla.png)
 
 # Aquifers and Groundwater Sources 
 
-by [TheChessGym](../../../profile/TheChessGym) | September 27, 2022 13:43
+by [TheChessGym](/profile/TheChessGym) | September 27, 2022 13:43
 
-September 27, 2022 13:43 | Tags: [lat:22](../tag/lat:22), [first-time-poster](../tag/first-time-poster), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
+September 27, 2022 13:43 | Tags: [lat:22](/tag/lat:22), [first-time-poster](/tag/first-time-poster), [lon:76](/tag/lon:76), [zoom:6](/tag/zoom:6)
 
 ----
 

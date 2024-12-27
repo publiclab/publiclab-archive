@@ -6,18 +6,16 @@ author: sashadev-sky
 path: /notes/sashadev-sky/05-16-2019/public-lab-s-contribution-framework-deep-dive-2019.md
 nid: 19429
 uid: 555321
-
 cids: 24156,24157,24167,24168,24169,24170,24171,24172,24173,24174,24176,24177,24178,24179,24180,24182,24186,24187,24188,24189,24190,24191,24192,24193,24194,24195,24196,24197,24198,24213,24222,24223,24224,24225,24236,24784,24900,25041
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/366/original/pl2.jpg)
 
 # Public Lab's contribution framework (deep dive 2019)
 
-by [sashadev-sky](../../../profile/sashadev-sky) | May 16, 2019 16:18
+by [sashadev-sky](/profile/sashadev-sky) | May 16, 2019 16:18
 
-May 16, 2019 16:18 | Tags: [software](../tag/software), [blog](../tag/blog), [code](../tag/code), [barnstar:basic](../tag/barnstar:basic), [software-outreach](../tag/software-outreach), [first-time-poster](../tag/first-time-poster)
+May 16, 2019 16:18 | Tags: [software](/tag/software), [blog](/tag/blog), [code](/tag/code), [barnstar:basic](/tag/barnstar:basic), [software-outreach](/tag/software-outreach), [first-time-poster](/tag/first-time-poster)
 
 ----
 

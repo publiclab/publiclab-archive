@@ -6,18 +6,16 @@ author: c329163204
 path: /notes/c329163204/05-22-2019/the-method-of-cleaning-sample-vial.md
 nid: 19490
 uid: 592122
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/403/original/7.jpg)
 
 # The Method Of Cleaning Sample Vial
 
-by [c329163204](../../../profile/c329163204) | May 22, 2019 11:03
+by [c329163204](/profile/c329163204) | May 22, 2019 11:03
 
-May 22, 2019 11:03 | Tags: [sample](../tag/sample), [first-time-poster](../tag/first-time-poster), [lat:34.341574](../tag/lat:34.341574), [lon:108.93977](../tag/lon:108.93977), [vial](../tag/vial)
+May 22, 2019 11:03 | Tags: [sample](/tag/sample), [first-time-poster](/tag/first-time-poster), [lat:34.341574](/tag/lat:34.341574), [lon:108.93977](/tag/lon:108.93977), [vial](/tag/vial)
 
 ----
 

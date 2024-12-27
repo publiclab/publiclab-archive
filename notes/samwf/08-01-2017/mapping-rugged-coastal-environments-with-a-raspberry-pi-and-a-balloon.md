@@ -6,18 +6,16 @@ author: samwf
 path: /notes/samwf/08-01-2017/mapping-rugged-coastal-environments-with-a-raspberry-pi-and-a-balloon.md
 nid: 14703
 uid: 511878
-
 cids: 17125,17129,17131,17133,17134,17135,17136,17156
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/245/original/IMG_1333_%281%29.jpg)
 
 # Mapping rugged coastal environments with a Raspberry Pi and a balloon?
 
-by [samwf](../../../profile/samwf) | August 01, 2017 12:08
+by [samwf](/profile/samwf) | August 01, 2017 12:08
 
-August 01, 2017 12:08 | Tags: [balloon-mapping](../tag/balloon-mapping), [photogrammetry](../tag/photogrammetry), [raspberry-pi](../tag/raspberry-pi), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [coast](../tag/coast), [germany](../tag/germany), [topography](../tag/topography), [high-resolution](../tag/high-resolution)
+August 01, 2017 12:08 | Tags: [balloon-mapping](/tag/balloon-mapping), [photogrammetry](/tag/photogrammetry), [raspberry-pi](/tag/raspberry-pi), [photo-monitoring](/tag/photo-monitoring), [timelapse](/tag/timelapse), [coast](/tag/coast), [germany](/tag/germany), [topography](/tag/topography), [high-resolution](/tag/high-resolution)
 
 ----
 

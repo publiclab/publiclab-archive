@@ -6,18 +6,16 @@ author: gpenzo
 path: /notes/gpenzo/05-29-2015/diy-spectroscope.md
 nid: 11906
 uid: 420719
-
 cids: 12306,12340
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/097/original/usb_spectroscope_small.JPG)
 
 # DIY spectroscope
 
-by [gpenzo](../../../profile/gpenzo) | May 29, 2015 19:33
+by [gpenzo](/profile/gpenzo) | May 29, 2015 19:33
 
-May 29, 2015 19:33 | Tags: [diy](../tag/diy), [spectroscope](../tag/spectroscope)
+May 29, 2015 19:33 | Tags: [diy](/tag/diy), [spectroscope](/tag/spectroscope)
 
 ----
 

@@ -6,16 +6,16 @@ author: warren
 path: /wiki/madeira.md
 nid: 15375
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/950/original/OI000144_2.jpg)
 
 # Madeira
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-December 15, 2017 14:05 | Tags: [wetlands](../tag/wetlands), [event](../tag/event), [soil](../tag/soil), [silica](../tag/silica), [eu](../tag/eu), [challenges](../tag/challenges), [agricultural](../tag/agricultural), [fertilizer](../tag/fertilizer), [microplastics](../tag/microplastics), [madeira](../tag/madeira), [portugal](../tag/portugal)
+December 15, 2017 14:05 | Tags: [wetlands](/tag/wetlands), [event](/tag/event), [soil](/tag/soil), [silica](/tag/silica), [eu](/tag/eu), [challenges](/tag/challenges), [agricultural](/tag/agricultural), [fertilizer](/tag/fertilizer), [microplastics](/tag/microplastics), [madeira](/tag/madeira), [portugal](/tag/portugal)
 
 ----
 
@@ -27,7 +27,7 @@ Also, see @warren's talk here: https://publiclab.org/notes/warren/12-20-2017/ope
 
 ## Questions
 
-[madeira](../../tag/question:madeira)
+[madeira](/tag/question:madeira)
 
 ****
 
@@ -43,7 +43,7 @@ The [Infragram project](/infragram) brings together a range of different efforts
 
 <a href="/w/infragram#Activities" class="btn btn-default">See related activities</a>
 
-[infragram-challenges](../../tag/question:infragram-challenges)
+[infragram-challenges](/tag/question:infragram-challenges)
 
 ****
 
@@ -58,7 +58,7 @@ The Public Lab [spectrometry project](/spectrometry) is an open source community
 
 <a href="/w/lego-spectrometer#Activities" class="btn btn-default">See related activities</a>
 
-[spectrometry-challenge](../../tag/question:spectrometry-challenge)
+[spectrometry-challenge](/tag/question:spectrometry-challenge)
 
 ****
 
@@ -70,7 +70,7 @@ The [Basic Microscope Kit](/basic-microscope) is an introductory Do-It-Yourself 
 
 <a href="/w/basic-microscope#Activities" class="btn btn-default">See related activities</a>
 
-[basic-microscope-challenge](../../tag/question:basic-microscope-challenge)
+[basic-microscope-challenge](/tag/question:basic-microscope-challenge)
 
 ****
 
@@ -80,5 +80,5 @@ The [Hydrogen Sulfide Copper Prototyping Kit](/hydrogen-sulfide-copper-pipe) is 
 
 <a href="/w/hydrogen-sulfide#Activities" class="btn btn-default">See related activities</a>
 
-[h2s-copper-pipe-challenge](../../tag/question:h2s-copper-pipe-challenge)
+[h2s-copper-pipe-challenge](/tag/question:h2s-copper-pipe-challenge)
 

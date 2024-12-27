@@ -6,16 +6,16 @@ author: warren
 path: /wiki/mini-kite-kit.md
 nid: 14514
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/734/original/tmp_27876-IMG_20170609_145820_354_21702353203.jpg)
 
 # Mini Kite Kit
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-June 09, 2017 18:45 | Tags: [prototypingkit](../tag/prototypingkit), [prototyping-kit](../tag/prototyping-kit), [prototyping-](../tag/prototyping-)
+June 09, 2017 18:45 | Tags: [prototypingkit](/tag/prototypingkit), [prototyping-kit](/tag/prototyping-kit), [prototyping-](/tag/prototyping-)
 
 ----
 
@@ -46,10 +46,10 @@ But there are remaining questions and refinements to make on this kit -- that’
 
 ## Questions
 
-[mini-kite-kit](../../tag/question:mini-kite-kit)
+[mini-kite-kit](/tag/question:mini-kite-kit)
 
 ****
 
 ## Activities
 
-[mini-kite-kit](../../tag/activity:mini-kite-kit)
+[mini-kite-kit](/tag/activity:mini-kite-kit)

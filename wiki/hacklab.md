@@ -6,14 +6,14 @@ author: hackLAB
 path: /wiki/hacklab.md
 nid: 15643
 uid: 523951
-
+cids: 
 ---
 
 # hackLAB
 
-by [hackLAB](../profile/hackLAB)
+by [hackLAB](/profile/hackLAB)
 
-January 30, 2018 22:09 | Tags: [location:blurred](../tag/location:blurred), [lat:35](../tag/lat:35), [lon:-78](../tag/lon:-78), [place:raleigh](../tag/place:raleigh), [raleigh](../tag/raleigh)
+January 30, 2018 22:09 | Tags: [location:blurred](/tag/location:blurred), [lat:35](/tag/lat:35), [lon:-78](/tag/lon:-78), [place:raleigh](/tag/place:raleigh), [raleigh](/tag/raleigh)
 
 ----
 

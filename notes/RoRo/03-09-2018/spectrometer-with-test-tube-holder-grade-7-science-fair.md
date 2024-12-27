@@ -6,18 +6,16 @@ author: RoRo
 path: /notes/RoRo/03-09-2018/spectrometer-with-test-tube-holder-grade-7-science-fair.md
 nid: 15901
 uid: 525966
-
 cids: 18814,18815,19276
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/928/original/fair.jpg)
 
 # Spectrometer with Test Tube Holder (Grade 7 Science Fair)
 
-by [RoRo](../../../profile/RoRo) | March 09, 2018 07:43
+by [RoRo](/profile/RoRo) | March 09, 2018 07:43
 
-March 09, 2018 07:43 | Tags: [spectrometer](../tag/spectrometer), [education](../tag/education), [barnstar:basic](../tag/barnstar:basic), [test](../tag/test), [spectrometer-instructions](../tag/spectrometer-instructions), [activity:education](../tag/activity:education), [activity:science-fair](../tag/activity:science-fair), [science-fair](../tag/science-fair), [tube](../tag/tube), [holder](../tag/holder)
+March 09, 2018 07:43 | Tags: [spectrometer](/tag/spectrometer), [education](/tag/education), [barnstar:basic](/tag/barnstar:basic), [test](/tag/test), [spectrometer-instructions](/tag/spectrometer-instructions), [activity:education](/tag/activity:education), [activity:science-fair](/tag/activity:science-fair), [science-fair](/tag/science-fair), [tube](/tag/tube), [holder](/tag/holder)
 
 ----
 

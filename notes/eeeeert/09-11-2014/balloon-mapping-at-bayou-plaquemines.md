@@ -6,18 +6,16 @@ author: eeeeert
 path: /notes/eeeeert/09-11-2014/balloon-mapping-at-bayou-plaquemines.md
 nid: 11126
 uid: 428231
-
 cids: 10262
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/737/original/411-wetland.jpg)
 
 # Balloon Mapping at Bayou Plaquemines
 
-by [eeeeert](../../../profile/eeeeert) | September 11, 2014 18:54
+by [eeeeert](/profile/eeeeert) | September 11, 2014 18:54
 
-September 11, 2014 18:54 | Tags: [gulf-coast](../tag/gulf-coast), [mapping](../tag/mapping), [balloon](../tag/balloon), [washustlouis](../tag/washustlouis), [washu-stlouis](../tag/washu-stlouis)
+September 11, 2014 18:54 | Tags: [gulf-coast](/tag/gulf-coast), [mapping](/tag/mapping), [balloon](/tag/balloon), [washustlouis](/tag/washustlouis), [washu-stlouis](/tag/washu-stlouis)
 
 ----
 

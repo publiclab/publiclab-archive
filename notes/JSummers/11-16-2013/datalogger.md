@@ -6,18 +6,16 @@ author: JSummers
 path: /notes/JSummers/11-16-2013/datalogger.md
 nid: 9790
 uid: 304279
-
 cids: 7650,17751,17761
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/246/original/datalog3.jpg)
 
 # DataLogger
 
-by [JSummers](../../../profile/JSummers) | November 16, 2013 19:05
+by [JSummers](/profile/JSummers) | November 16, 2013 19:05
 
-November 16, 2013 19:05 | Tags: [arduino](../tag/arduino), [potentiostat](../tag/potentiostat), [datalogger](../tag/datalogger), [logging](../tag/logging), [launchpad](../tag/launchpad), [data-logging](../tag/data-logging)
+November 16, 2013 19:05 | Tags: [arduino](/tag/arduino), [potentiostat](/tag/potentiostat), [datalogger](/tag/datalogger), [logging](/tag/logging), [launchpad](/tag/launchpad), [data-logging](/tag/data-logging)
 
 ----
 

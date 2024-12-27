@@ -6,18 +6,16 @@ author: Kaya9804
 path: /notes/kaya9804/3-31-2013/thermal-fishing-bob-research-note-331.md
 nid: 6633
 uid: 45526
-
 cids: 4301
-
 ---
 
 ![](https://publiclab.org/sites/default/files/photo_0.jpg)
 
 # Thermal Fishing Bob Research Note 3/31
 
-by [Kaya9804](../../../profile/Kaya9804) | March 31, 2013 18:09
+by [Kaya9804](/profile/Kaya9804) | March 31, 2013 18:09
 
-March 31, 2013 18:09 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-imaging](../tag/thermal-imaging), [thermal-fishing](../tag/thermal-fishing), [fishing-bob](../tag/fishing-bob), [research-plan](../tag/research-plan), [thermal](../tag/thermal)
+March 31, 2013 18:09 | Tags: [thermal-photography](/tag/thermal-photography), [thermal-flashlight](/tag/thermal-flashlight), [thermal-imaging](/tag/thermal-imaging), [thermal-fishing](/tag/thermal-fishing), [fishing-bob](/tag/fishing-bob), [research-plan](/tag/research-plan), [thermal](/tag/thermal)
 
 ----
 

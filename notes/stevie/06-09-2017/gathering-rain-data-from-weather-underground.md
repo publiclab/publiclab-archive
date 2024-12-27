@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/06-09-2017/gathering-rain-data-from-weather-underground.md
 nid: 14516
 uid: 422561
-
 cids: 16858,27013
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/743/original/Screen_Shot_2017-06-09_at_2.46.59_PM.png)
 
 # Gathering rain data from weather underground
 
-by [stevie](../../../profile/stevie) | June 09, 2017 20:02
+by [stevie](/profile/stevie) | June 09, 2017 20:02
 
-June 09, 2017 20:02 | Tags: [stormwater](../tag/stormwater), [weather](../tag/weather), [activity:stormwater](../tag/activity:stormwater), [rain](../tag/rain), [activity:weather](../tag/activity:weather), [weatherunderground](../tag/weatherunderground)
+June 09, 2017 20:02 | Tags: [stormwater](/tag/stormwater), [weather](/tag/weather), [activity:stormwater](/tag/activity:stormwater), [rain](/tag/rain), [activity:weather](/tag/activity:weather), [weatherunderground](/tag/weatherunderground)
 
 ----
 

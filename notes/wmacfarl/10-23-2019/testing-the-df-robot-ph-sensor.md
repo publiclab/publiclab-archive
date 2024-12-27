@@ -6,18 +6,16 @@ author: wmacfarl
 path: /notes/wmacfarl/10-23-2019/testing-the-df-robot-ph-sensor.md
 nid: 21267
 uid: 424597
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/933/original/ph_sensor_soy_sauce_image.jpg)
 
 # Testing the DF Robot pH Sensor
 
-by [wmacfarl](../../../profile/wmacfarl) | October 23, 2019 01:00
+by [wmacfarl](/profile/wmacfarl) | October 23, 2019 01:00
 
-October 23, 2019 01:00 | Tags: [sensors](../tag/sensors), [water-quality](../tag/water-quality), [new](../tag/new), [ph](../tag/ph), [draft](../tag/draft), [define](../tag/define), [knowflow](../tag/knowflow), [activity:knowflow](../tag/activity:knowflow), [water-sensors](../tag/water-sensors), [activity:sensors](../tag/activity:sensors), [activity:ph](../tag/activity:ph), [activity:water-sensors](../tag/activity:water-sensors), [dfrobot](../tag/dfrobot), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [sensorname](../tag/sensorname)
+October 23, 2019 01:00 | Tags: [sensors](/tag/sensors), [water-quality](/tag/water-quality), [new](/tag/new), [ph](/tag/ph), [draft](/tag/draft), [define](/tag/define), [knowflow](/tag/knowflow), [activity:knowflow](/tag/activity:knowflow), [water-sensors](/tag/water-sensors), [activity:sensors](/tag/activity:sensors), [activity:ph](/tag/activity:ph), [activity:water-sensors](/tag/activity:water-sensors), [dfrobot](/tag/dfrobot), [oil-and-gas-water-trio](/tag/oil-and-gas-water-trio), [sensorname](/tag/sensorname)
 
 ----
 

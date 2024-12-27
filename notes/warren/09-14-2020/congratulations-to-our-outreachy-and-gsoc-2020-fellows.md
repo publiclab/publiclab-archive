@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/09-14-2020/congratulations-to-our-outreachy-and-gsoc-2020-fellows.md
 nid: 24574
 uid: 1
-
 cids: 27348,27358,27360,27482,27497,27551,27668
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/882/original/Screen_Shot_2020-09-14_at_10.52.44_AM.png)
 
 # Congratulations to our Outreachy and GSoC 2020 fellows 👏👏👏
 
-by [warren](../../../profile/warren) | September 14, 2020 14:55
+by [warren](/profile/warren) | September 14, 2020 14:55
 
-September 14, 2020 14:55 | Tags: [gsoc](../tag/gsoc), [blog](../tag/blog), [code](../tag/code), [soc](../tag/soc), [outreachy](../tag/outreachy), [with:sagarpreet](../tag/with:sagarpreet), [soc-2020](../tag/soc-2020), [soc-2020-final](../tag/soc-2020-final)
+September 14, 2020 14:55 | Tags: [gsoc](/tag/gsoc), [blog](/tag/blog), [code](/tag/code), [soc](/tag/soc), [outreachy](/tag/outreachy), [with:sagarpreet](/tag/with:sagarpreet), [soc-2020](/tag/soc-2020), [soc-2020-final](/tag/soc-2020-final)
 
 ----
 
@@ -39,4 +37,4 @@ We would love to have you all connected with us even after this summer, and wish
 
 (if yours does't appear, please add the `soc-2020-final` tag, or add a link in the comments, thanks!)
 
-[soc-2020-final](../../tag/soc-2020-final)
+[soc-2020-final](/tag/soc-2020-final)

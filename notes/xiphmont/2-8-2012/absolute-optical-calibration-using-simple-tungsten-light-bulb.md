@@ -6,16 +6,14 @@ author: xiphmont
 path: /notes/xiphmont/2-8-2012/absolute-optical-calibration-using-simple-tungsten-light-bulb.md
 nid: 765
 uid: 470
-
 cids: 14020,14022
-
 ---
 
 # ABSOLUTE OPTICAL CALIBRATION USING A SIMPLE TUNGSTEN LIGHT BULB
 
-by [xiphmont](../../../profile/xiphmont) | February 08, 2012 23:38
+by [xiphmont](/profile/xiphmont) | February 08, 2012 23:38
 
-February 08, 2012 23:38 | Tags: [desktop-spectrometer](../tag/desktop-spectrometer), [intensity-calibration](../tag/intensity-calibration), [oil-testing-kit](../tag/oil-testing-kit), [first-time-poster](../tag/first-time-poster)
+February 08, 2012 23:38 | Tags: [desktop-spectrometer](/tag/desktop-spectrometer), [intensity-calibration](/tag/intensity-calibration), [oil-testing-kit](/tag/oil-testing-kit), [first-time-poster](/tag/first-time-poster)
 
 ----
 

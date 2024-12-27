@@ -6,16 +6,14 @@ author: Karik
 path: /notes/Karik/07-02-2018/pressure-sensor-for-depth-controller.md
 nid: 16606
 uid: 539823
-
 cids: 20443
-
 ---
 
 # Pressure sensor for depth controller
 
-by [Karik](../../../profile/Karik) | July 02, 2018 11:20
+by [Karik](/profile/Karik) | July 02, 2018 11:20
 
-July 02, 2018 11:20 | Tags: [underwater](../tag/underwater), [asia](../tag/asia), [pressure](../tag/pressure), [sensor](../tag/sensor), [depth](../tag/depth), [depth-sensor](../tag/depth-sensor), [question:general](../tag/question:general), [control](../tag/control), [question:sensors](../tag/question:sensors), [vehicle](../tag/vehicle), [gliders](../tag/gliders), [question:depth-sensor](../tag/question:depth-sensor), [malaysia](../tag/malaysia)
+July 02, 2018 11:20 | Tags: [underwater](/tag/underwater), [asia](/tag/asia), [pressure](/tag/pressure), [sensor](/tag/sensor), [depth](/tag/depth), [depth-sensor](/tag/depth-sensor), [question:general](/tag/question:general), [control](/tag/control), [question:sensors](/tag/question:sensors), [vehicle](/tag/vehicle), [gliders](/tag/gliders), [question:depth-sensor](/tag/question:depth-sensor), [malaysia](/tag/malaysia)
 
 ----
 

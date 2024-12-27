@@ -6,18 +6,16 @@ author: nedhorning
 path: /notes/nedhorning/10-10-2012/software-structure-motion.md
 nid: 4328
 uid: 133
-
 cids: 1634
-
 ---
 
 ![](https://publiclab.org/sites/default/files/TreeSmooth00.png)
 
 # Software for structure from motion
 
-by [nedhorning](../../../profile/nedhorning) | October 10, 2012 14:29
+by [nedhorning](/profile/nedhorning) | October 10, 2012 14:29
 
-October 10, 2012 14:29 | Tags: [sfm](../tag/sfm), [software](../tag/software), [mapping](../tag/mapping), [structure-from-motion](../tag/structure-from-motion)
+October 10, 2012 14:29 | Tags: [sfm](/tag/sfm), [software](/tag/software), [mapping](/tag/mapping), [structure-from-motion](/tag/structure-from-motion)
 
 ----
 

@@ -6,14 +6,14 @@ author: gretchengehrke
 path: /wiki/enviro-guide-resources.md
 nid: 12621
 uid: 430549
-
+cids: 
 ---
 
 # Enviro Guide Resources
 
-by [eustatic](../profile/eustatic), [gretchengehrke](../profile/gretchengehrke)
+by [eustatic](/profile/eustatic), [gretchengehrke](/profile/gretchengehrke)
 
-January 26, 2016 19:20 | Tags: [guides](../tag/guides), [reporting](../tag/reporting), [advocacy](../tag/advocacy), [civic](../tag/civic), [parent:guides](../tag/parent:guides), [studies](../tag/studies), [parent:advocacy](../tag/parent:advocacy), [parent:reporting](../tag/parent:reporting)
+January 26, 2016 19:20 | Tags: [guides](/tag/guides), [reporting](/tag/reporting), [advocacy](/tag/advocacy), [civic](/tag/civic), [parent:guides](/tag/parent:guides), [studies](/tag/studies), [parent:advocacy](/tag/parent:advocacy), [parent:reporting](/tag/parent:reporting)
 
 ----
 

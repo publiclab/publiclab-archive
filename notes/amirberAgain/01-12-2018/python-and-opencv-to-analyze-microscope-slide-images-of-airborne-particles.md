@@ -6,18 +6,16 @@ author: amirberAgain
 path: /notes/amirberAgain/01-12-2018/python-and-opencv-to-analyze-microscope-slide-images-of-airborne-particles.md
 nid: 15519
 uid: 420776
-
 cids: 18167,18169,18196,18198,18199,18227,18349,18856,18857,18859,18867,18906,18926,19053,19054,19149,19191,19222,19232,19238,19251,19258,19466,19485,19486,19487,19488,19489,19536,19539,19540,19541,19542,19543,19545,19546,19570,19571,19573,31360
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/180/original/image.png)
 
 # Python and openCV to analyze microscope slide images of airborne particles
 
-by [amirberAgain](../../../profile/amirberAgain) | January 12, 2018 23:21
+by [amirberAgain](/profile/amirberAgain) | January 12, 2018 23:21
 
-January 12, 2018 23:21 | Tags: [air-quality](../tag/air-quality), [pm](../tag/pm), [python](../tag/python), [microscope](../tag/microscope), [passive-particle-monitors](../tag/passive-particle-monitors), [microscopy](../tag/microscopy), [opencv](../tag/opencv), [particle-imaging](../tag/particle-imaging)
+January 12, 2018 23:21 | Tags: [air-quality](/tag/air-quality), [pm](/tag/pm), [python](/tag/python), [microscope](/tag/microscope), [passive-particle-monitors](/tag/passive-particle-monitors), [microscopy](/tag/microscopy), [opencv](/tag/opencv), [particle-imaging](/tag/particle-imaging)
 
 ----
 

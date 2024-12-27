@@ -6,18 +6,16 @@ author: jbreen
 path: /notes/jbreen/7-18-2012/canon-powershot-sd4000-repairs.md
 nid: 2861
 uid: 326
-
 cids: 1034,1035,5626
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0461.JPG)
 
 # Canon Powershot SD4000 repairs
 
-by [jbreen](../../../profile/jbreen) | July 18, 2012 12:40
+by [jbreen](/profile/jbreen) | July 18, 2012 12:40
 
-July 18, 2012 12:40 | Tags: [repairs](../tag/repairs), [cameras](../tag/cameras), [canon](../tag/canon)
+July 18, 2012 12:40 | Tags: [repairs](/tag/repairs), [cameras](/tag/cameras), [canon](/tag/canon)
 
 ----
 

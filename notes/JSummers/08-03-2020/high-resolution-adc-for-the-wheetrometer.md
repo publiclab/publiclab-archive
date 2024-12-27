@@ -6,18 +6,16 @@ author: JSummers
 path: /notes/JSummers/08-03-2020/high-resolution-adc-for-the-wheetrometer.md
 nid: 24256
 uid: 304279
-
 cids: 27218
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/370/original/24BitADC_Board2.jpg)
 
 # High resolution ADC for the WheeTrometer.
 
-by [JSummers](../../../profile/JSummers) | August 03, 2020 14:29
+by [JSummers](/profile/JSummers) | August 03, 2020 14:29
 
-August 03, 2020 14:29 | Tags: [advancedsearch](../tag/advancedsearch), [response:16427](../tag/response:16427)
+August 03, 2020 14:29 | Tags: [advancedsearch](/tag/advancedsearch), [response:16427](/tag/response:16427)
 
 ----
 

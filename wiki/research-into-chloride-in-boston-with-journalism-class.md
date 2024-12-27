@@ -6,14 +6,14 @@ author: kanarinka
 path: /wiki/research-into-chloride-in-boston-with-journalism-class.md
 nid: 11575
 uid: 994
-
+cids: 
 ---
 
 # Research into Chloride in Boston with Journalism Class
 
-by [mattmullen](../profile/mattmullen), [anthony_mastracci](../profile/anthony_mastracci), [paigesolomon](../profile/paigesolomon), [ryan_smythe](../profile/ryan_smythe), [Kassandra_Ryback](../profile/Kassandra_Ryback), [chelsea_tremblay](../profile/chelsea_tremblay), [sho1624](../profile/sho1624), [Evan_bedell](../profile/Evan_bedell), [JenniferO](../profile/JenniferO), [amandagomez93](../profile/amandagomez93), [kanarinka](../profile/kanarinka), [connorburton123](../profile/connorburton123)
+by [mattmullen](/profile/mattmullen), [anthony_mastracci](/profile/anthony_mastracci), [paigesolomon](/profile/paigesolomon), [ryan_smythe](/profile/ryan_smythe), [Kassandra_Ryback](/profile/Kassandra_Ryback), [chelsea_tremblay](/profile/chelsea_tremblay), [sho1624](/profile/sho1624), [Evan_bedell](/profile/Evan_bedell), [JenniferO](/profile/JenniferO), [amandagomez93](/profile/amandagomez93), [kanarinka](/profile/kanarinka), [connorburton123](/profile/connorburton123)
 
-February 11, 2015 12:38 | Tags: [boston](../tag/boston), [classroom](../tag/classroom), [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [journalism](../tag/journalism), [emerson](../tag/emerson), [sensor-journalism](../tag/sensor-journalism), [myrwa](../tag/myrwa), [replication:11213](../tag/replication:11213), [salinity](../tag/salinity), [chloride](../tag/chloride)
+February 11, 2015 12:38 | Tags: [boston](/tag/boston), [classroom](/tag/classroom), [water-quality](/tag/water-quality), [conductivity](/tag/conductivity), [journalism](/tag/journalism), [emerson](/tag/emerson), [sensor-journalism](/tag/sensor-journalism), [myrwa](/tag/myrwa), [replication:11213](/tag/replication:11213), [salinity](/tag/salinity), [chloride](/tag/chloride)
 
 ----
 

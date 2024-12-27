@@ -6,16 +6,14 @@ author: Babu
 path: /notes/babu/12-19-2012/nir-camera-calibration.md
 nid: 5257
 uid: 46912
-
 cids: 2773,2774,2775,2776,2777,2778,2779,2787,2816,2825,2828,2830,3243
-
 ---
 
 # NIR Camera Calibration
 
-by [Babu](../../../profile/Babu) | December 19, 2012 09:51
+by [Babu](/profile/Babu) | December 19, 2012 09:51
 
-December 19, 2012 09:51 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [calibration](../tag/calibration), [rgb](../tag/rgb), [bayer-filter](../tag/bayer-filter)
+December 19, 2012 09:51 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [calibration](/tag/calibration), [rgb](/tag/rgb), [bayer-filter](/tag/bayer-filter)
 
 ----
 

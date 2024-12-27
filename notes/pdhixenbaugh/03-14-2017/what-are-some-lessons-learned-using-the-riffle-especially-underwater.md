@@ -6,16 +6,14 @@ author: pdhixenbaugh
 path: /notes/pdhixenbaugh/03-14-2017/what-are-some-lessons-learned-using-the-riffle-especially-underwater.md
 nid: 14014
 uid: 459085
-
 cids: 22678,28321,28324,28327
-
 ---
 
 # What are some lessons learned using the Riffle? (Especially Underwater)
 
-by [pdhixenbaugh](../../../profile/pdhixenbaugh) | March 14, 2017 14:06
+by [pdhixenbaugh](/profile/pdhixenbaugh) | March 14, 2017 14:06
 
-March 14, 2017 14:06 | Tags: [riffle](../tag/riffle), [question:riffle](../tag/question:riffle), [question:general](../tag/question:general)
+March 14, 2017 14:06 | Tags: [riffle](/tag/riffle), [question:riffle](/tag/question:riffle), [question:general](/tag/question:general)
 
 ----
 

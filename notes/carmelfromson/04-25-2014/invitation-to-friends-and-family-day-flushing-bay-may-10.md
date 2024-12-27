@@ -6,18 +6,16 @@ author: carmelfromson
 path: /notes/carmelfromson/04-25-2014/invitation-to-friends-and-family-day-flushing-bay-may-10.md
 nid: 10366
 uid: 422680
-
 cids: 8885,8887,8888,8912,8946,8948
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/864/original/Friends_and_family_day_FLYER_%28revised%292014.pdf)
 
 # Invitation to Friends and Family Day-Flushing Bay-May 10
 
-by [carmelfromson](../../../profile/carmelfromson) | April 25, 2014 01:55
+by [carmelfromson](/profile/carmelfromson) | April 25, 2014 01:55
 
-April 25, 2014 01:55 | Tags: [new-york-city](../tag/new-york-city), [queens](../tag/queens), [event](../tag/event), [sewage](../tag/sewage), [bacteria](../tag/bacteria), [flushing-bay](../tag/flushing-bay), [cso](../tag/cso), [empire-dragon-boat](../tag/empire-dragon-boat), [northeast](../tag/northeast), [flushing](../tag/flushing), [response:10206](../tag/response:10206), [dragon-boat](../tag/dragon-boat)
+April 25, 2014 01:55 | Tags: [new-york-city](/tag/new-york-city), [queens](/tag/queens), [event](/tag/event), [sewage](/tag/sewage), [bacteria](/tag/bacteria), [flushing-bay](/tag/flushing-bay), [cso](/tag/cso), [empire-dragon-boat](/tag/empire-dragon-boat), [northeast](/tag/northeast), [flushing](/tag/flushing), [response:10206](/tag/response:10206), [dragon-boat](/tag/dragon-boat)
 
 ----
 

@@ -6,14 +6,14 @@ author: liz
 path: /wiki/scheduling.md
 nid: 11517
 uid: 7
-
+cids: 
 ---
 
 # scheduling
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-January 12, 2015 18:03 | Tags: [parent:gardening-toolkit](../tag/parent:gardening-toolkit), [gardening-toolkit](../tag/gardening-toolkit)
+January 12, 2015 18:03 | Tags: [parent:gardening-toolkit](/tag/parent:gardening-toolkit), [gardening-toolkit](/tag/gardening-toolkit)
 
 ----
 

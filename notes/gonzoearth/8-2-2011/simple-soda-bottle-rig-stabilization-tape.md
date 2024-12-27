@@ -6,18 +6,16 @@ author: gonzoearth
 path: /notes/gonzoearth/8-2-2011/simple-soda-bottle-rig-stabilization-tape.md
 nid: 423
 uid: 12
-
 cids: 308
-
 ---
 
 ![](https://publiclab.org/sites/default/files/soda-bottle-line-tape.jpg)
 
 # simple soda bottle rig stabilization with tape
 
-by [gonzoearth](../../../profile/gonzoearth) | August 02, 2011 05:01
+by [gonzoearth](/profile/gonzoearth) | August 02, 2011 05:01
 
-August 02, 2011 05:01 | Tags: [replication:13948](../tag/replication:13948)
+August 02, 2011 05:01 | Tags: [replication:13948](/tag/replication:13948)
 
 ----
 

@@ -6,18 +6,16 @@ author: bhamster
 path: /notes/bhamster/04-07-2021/wrapping-up-a-research-area-review-on-soil-contamination.md
 nid: 26156
 uid: 664477
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/162/original/screenshot_soilRAR.png)
 
 # Wrapping up a research area review on soil contamination
 
-by [bhamster](../../../profile/bhamster) | April 07, 2021 15:32
+by [bhamster](/profile/bhamster) | April 07, 2021 15:32
 
-April 07, 2021 15:32 | Tags: [soil](../tag/soil), [research](../tag/research), [reviews](../tag/reviews), [soil-contamination](../tag/soil-contamination), [research-area-review](../tag/research-area-review), [pin:soil](../tag/pin:soil)
+April 07, 2021 15:32 | Tags: [soil](/tag/soil), [research](/tag/research), [reviews](/tag/reviews), [soil-contamination](/tag/soil-contamination), [research-area-review](/tag/research-area-review), [pin:soil](/tag/pin:soil)
 
 ----
 

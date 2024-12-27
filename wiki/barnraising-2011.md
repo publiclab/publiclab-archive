@@ -6,14 +6,14 @@ author: warren
 path: /wiki/barnraising-2011.md
 nid: 8807
 uid: 1
-
+cids: 
 ---
 
 # Barnraising 2011
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-July 10, 2013 12:18 | Tags: [western-north-carolina](../tag/western-north-carolina), [asheville](../tag/asheville), [barnraising](../tag/barnraising), [event](../tag/event), [list:plots-barnraising](../tag/list:plots-barnraising), [southeast](../tag/southeast)
+July 10, 2013 12:18 | Tags: [western-north-carolina](/tag/western-north-carolina), [asheville](/tag/asheville), [barnraising](/tag/barnraising), [event](/tag/event), [list:plots-barnraising](/tag/list:plots-barnraising), [southeast](/tag/southeast)
 
 ----
 

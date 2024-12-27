@@ -6,16 +6,14 @@ author: michelleiL
 path: /notes/michelleiL/09-15-2022/how-many-bioblitz-events-should-be-held-when-monitoring-a-site.md
 nid: 34966
 uid: 799004
-
 cids: 30621,30710
-
 ---
 
 # How many Bioblitz events should be held when monitoring a site? 
 
-by [michelleiL](../../../profile/michelleiL) | September 15, 2022 19:42
+by [michelleiL](/profile/michelleiL) | September 15, 2022 19:42
 
-September 15, 2022 19:42 | Tags: [huber-osb-factory](../tag/huber-osb-factory), [talon-rio-tinto-mine](../tag/talon-rio-tinto-mine), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [great-lakes-region](../tag/great-lakes-region), [manoomin](../tag/manoomin), [bioblitz](../tag/bioblitz)
+September 15, 2022 19:42 | Tags: [huber-osb-factory](/tag/huber-osb-factory), [talon-rio-tinto-mine](/tag/talon-rio-tinto-mine), [mn-land-manoomin-protection](/tag/mn-land-manoomin-protection), [great-lakes-region](/tag/great-lakes-region), [manoomin](/tag/manoomin), [bioblitz](/tag/bioblitz)
 
 ----
 

@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/05-18-2016/riffle-test-data.md
 nid: 13127
 uid: 554
-
 cids: 14640,14643,14653,14655
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/218/original/Rifflemanc.jpg)
 
 # Riffle test data
 
-by [cfastie](../../../profile/cfastie) | May 18, 2016 18:32
+by [cfastie](/profile/cfastie) | May 18, 2016 18:32
 
-May 18, 2016 18:32 | Tags: [arduino](../tag/arduino), [temperature](../tag/temperature), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [micro-sd](../tag/micro-sd), [response:13122](../tag/response:13122), [riffle-beta](../tag/riffle-beta), [category:test-limits](../tag/category:test-limits), [data-logging](../tag/data-logging)
+May 18, 2016 18:32 | Tags: [arduino](/tag/arduino), [temperature](/tag/temperature), [water-quality](/tag/water-quality), [riffle](/tag/riffle), [micro-sd](/tag/micro-sd), [response:13122](/tag/response:13122), [riffle-beta](/tag/riffle-beta), [category:test-limits](/tag/category:test-limits), [data-logging](/tag/data-logging)
 
 ----
 

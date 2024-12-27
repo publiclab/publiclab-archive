@@ -6,12 +6,12 @@ author: Shannon
 path: /wiki/plots-bank-account-deposits.md
 nid: 595
 uid: 9
-
+cids: 
 ---
 
 # PLOTS Bank Account Deposits
 
-by [Shannon](../profile/Shannon)
+by [Shannon](/profile/Shannon)
 
 November 28, 2011 23:44 | Tags: 
 

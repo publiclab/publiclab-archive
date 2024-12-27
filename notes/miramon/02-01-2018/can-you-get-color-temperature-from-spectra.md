@@ -6,16 +6,14 @@ author: miramon
 path: /notes/miramon/02-01-2018/can-you-get-color-temperature-from-spectra.md
 nid: 15659
 uid: 523723
-
 cids: 18605,22909
-
 ---
 
 # Can you get color temperature from spectra
 
-by [miramon](../../../profile/miramon) | February 01, 2018 18:00
+by [miramon](/profile/miramon) | February 01, 2018 18:00
 
-February 01, 2018 18:00 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [first-time-poster](../tag/first-time-poster)
+February 01, 2018 18:00 | Tags: [question:spectral-workbench](/tag/question:spectral-workbench), [first-time-poster](/tag/first-time-poster)
 
 ----
 

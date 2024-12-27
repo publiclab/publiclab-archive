@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/03-21-2016/environmental-justice-and-substantive-policies.md
 nid: 12868
 uid: 422561
-
 cids: 14012,14018
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/159/original/NEJAC.jpg)
 
 # Environmental Justice and Substantive Policies
 
-by [stevie](../../../profile/stevie) | March 21, 2016 21:46
+by [stevie](/profile/stevie) | March 21, 2016 21:46
 
-March 21, 2016 21:46 | Tags: [blog](../tag/blog), [environmentaljustice](../tag/environmentaljustice), [ej](../tag/ej), [law-and-policy](../tag/law-and-policy)
+March 21, 2016 21:46 | Tags: [blog](/tag/blog), [environmentaljustice](/tag/environmentaljustice), [ej](/tag/ej), [law-and-policy](/tag/law-and-policy)
 
 ----
 

@@ -6,18 +6,16 @@ author: damarquis
 path: /notes/Damarquis/10-20-2015/using-imagej-to-analyze-threshold-and-saving-results-on-windows-10.md
 nid: 12322
 uid: 450903
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/067/original/Thesholding.PNG)
 
 # Using imageJ to adjust threshold using mode Entropy 
 
-by [damarquis](../../../profile/damarquis) | October 20, 2015 21:26
+by [damarquis](/profile/damarquis) | October 20, 2015 21:26
 
-October 20, 2015 21:26 | Tags: [passive-pm](../tag/passive-pm)
+October 20, 2015 21:26 | Tags: [passive-pm](/tag/passive-pm)
 
 ----
 

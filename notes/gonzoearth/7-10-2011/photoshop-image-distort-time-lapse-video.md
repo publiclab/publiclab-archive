@@ -6,18 +6,16 @@ author: gonzoearth
 path: /notes/gonzoearth/7-10-2011/photoshop-image-distort-time-lapse-video.md
 nid: 376
 uid: 12
-
 cids: 297
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Capture_25.JPG)
 
 # photoshop image distort time lapse video
 
-by [gonzoearth](../../../profile/gonzoearth) | July 10, 2011 19:53
+by [gonzoearth](/profile/gonzoearth) | July 10, 2011 19:53
 
-July 10, 2011 19:53 | Tags: [video](../tag/video), [image-stitching](../tag/image-stitching), [stitching](../tag/stitching)
+July 10, 2011 19:53 | Tags: [video](/tag/video), [image-stitching](/tag/image-stitching), [stitching](/tag/stitching)
 
 ----
 

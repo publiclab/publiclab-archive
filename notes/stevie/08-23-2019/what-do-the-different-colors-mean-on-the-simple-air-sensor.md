@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/08-23-2019/what-do-the-different-colors-mean-on-the-simple-air-sensor.md
 nid: 20645
 uid: 422561
-
 cids: 25316,25317,25318,25321,25323
-
 ---
 
 # What do the different colors mean on the Simple Air Sensor?
 
-by [stevie](../../../profile/stevie) | August 23, 2019 19:33
+by [stevie](/profile/stevie) | August 23, 2019 19:33
 
-August 23, 2019 19:33 | Tags: [question:pm](../tag/question:pm), [question:general](../tag/question:general), [question:frac-sand](../tag/question:frac-sand), [question:air-monitoring](../tag/question:air-monitoring), [question:simple-air-sensor](../tag/question:simple-air-sensor), [simple-air-sensor](../tag/simple-air-sensor), [question:purple-air](../tag/question:purple-air)
+August 23, 2019 19:33 | Tags: [question:pm](/tag/question:pm), [question:general](/tag/question:general), [question:frac-sand](/tag/question:frac-sand), [question:air-monitoring](/tag/question:air-monitoring), [question:simple-air-sensor](/tag/question:simple-air-sensor), [simple-air-sensor](/tag/simple-air-sensor), [question:purple-air](/tag/question:purple-air)
 
 ----
 

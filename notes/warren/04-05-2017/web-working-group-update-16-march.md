@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/04-05-2017/web-working-group-update-16-march.md
 nid: 14091
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/093/original/Screen_Shot_2017-04-05_at_2.55.56_PM.png)
 
 # Web Working Group Update 16: March
 
-by [warren](../../../profile/warren) | April 05, 2017 19:10
+by [warren](/profile/warren) | April 05, 2017 19:10
 
-April 05, 2017 19:10 | Tags: [community](../tag/community), [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [outreach](../tag/outreach), [gsoc](../tag/gsoc), [developers](../tag/developers), [wwg](../tag/wwg), [webwg](../tag/webwg), [first-timers-only](../tag/first-timers-only), [software-outreach](../tag/software-outreach), [rich-wikis](../tag/rich-wikis), [wwg-update](../tag/wwg-update), [response:13985](../tag/response:13985)
+April 05, 2017 19:10 | Tags: [community](/tag/community), [web-development](/tag/web-development), [software](/tag/software), [plots2](/tag/plots2), [outreach](/tag/outreach), [gsoc](/tag/gsoc), [developers](/tag/developers), [wwg](/tag/wwg), [webwg](/tag/webwg), [first-timers-only](/tag/first-timers-only), [software-outreach](/tag/software-outreach), [rich-wikis](/tag/rich-wikis), [wwg-update](/tag/wwg-update), [response:13985](/tag/response:13985)
 
 ----
 

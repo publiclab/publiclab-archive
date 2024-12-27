@@ -6,14 +6,14 @@ author: warren
 path: /wiki/kickstarter.md
 nid: 14568
 uid: 1
-
+cids: 
 ---
 
 # Kickstarter
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-June 22, 2017 13:24 | Tags: [kickstarter](../tag/kickstarter)
+June 22, 2017 13:24 | Tags: [kickstarter](/tag/kickstarter)
 
 ----
 

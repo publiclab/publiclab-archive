@@ -6,18 +6,16 @@ author: davidbanks
 path: /notes/davidbanks/10-13-2013/cheap-thermal-imaging-sensor.md
 nid: 9444
 uid: 308648
-
 cids: 7245
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/925/original/foto_1.JPG)
 
 # Cheap Thermal Imaging Sensor
 
-by [davidbanks](../../../profile/davidbanks) | October 13, 2013 00:18
+by [davidbanks](/profile/davidbanks) | October 13, 2013 00:18
 
-October 13, 2013 00:18 | Tags: [thermal-flashlight](../tag/thermal-flashlight), [thermal-imaging](../tag/thermal-imaging), [replication:625](../tag/replication:625)
+October 13, 2013 00:18 | Tags: [thermal-flashlight](/tag/thermal-flashlight), [thermal-imaging](/tag/thermal-imaging), [replication:625](/tag/replication:625)
 
 ----
 

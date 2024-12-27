@@ -6,16 +6,14 @@ author: iragersh
 path: /notes/iragersh/10-31-2018/kelp.md
 nid: 17438
 uid: 557258
-
 cids: 21063,21073
-
 ---
 
 # Kelp
 
-by [iragersh](../../../profile/iragersh) | October 31, 2018 01:38
+by [iragersh](/profile/iragersh) | October 31, 2018 01:38
 
-October 31, 2018 01:38 | Tags: [new-york-city](../tag/new-york-city), [agriculture](../tag/agriculture), [new-york](../tag/new-york), [water-quality](../tag/water-quality), [permits](../tag/permits), [issue-brief](../tag/issue-brief), [first-time-poster](../tag/first-time-poster), [kelp](../tag/kelp), [aquaculture](../tag/aquaculture), [harlem](../tag/harlem)
+October 31, 2018 01:38 | Tags: [new-york-city](/tag/new-york-city), [agriculture](/tag/agriculture), [new-york](/tag/new-york), [water-quality](/tag/water-quality), [permits](/tag/permits), [issue-brief](/tag/issue-brief), [first-time-poster](/tag/first-time-poster), [kelp](/tag/kelp), [aquaculture](/tag/aquaculture), [harlem](/tag/harlem)
 
 ----
 
@@ -39,4 +37,4 @@ Bren Smith of Greenwave grows kelp.
 
 Will it grow?  If it grows, how fast will it grow?  Will small fish hang out near it?  What other critters will we find next to the kelp?  
 
-[kelp](../../tag/question:kelp)
+[kelp](/tag/question:kelp)

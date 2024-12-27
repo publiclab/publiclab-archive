@@ -6,18 +6,16 @@ author: khufkens
 path: /notes/khufkens/05-03-2015/phenopi-beta-software-installer-release.md
 nid: 11779
 uid: 438931
-
 cids: 11581,11582
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/740/original/Screen_Shot_2015-04-23_at_21.03.23.png)
 
 # PhenoPi: beta software installer release
 
-by [khufkens](../../../profile/khufkens) | May 03, 2015 03:28
+by [khufkens](/profile/khufkens) | May 03, 2015 03:28
 
-May 03, 2015 03:28 | Tags: [webcam](../tag/webcam), [pi](../tag/pi), [phenopi](../tag/phenopi), [phenology](../tag/phenology), [imaging](../tag/imaging), [raspberry](../tag/raspberry)
+May 03, 2015 03:28 | Tags: [webcam](/tag/webcam), [pi](/tag/pi), [phenopi](/tag/phenopi), [phenology](/tag/phenology), [imaging](/tag/imaging), [raspberry](/tag/raspberry)
 
 ----
 

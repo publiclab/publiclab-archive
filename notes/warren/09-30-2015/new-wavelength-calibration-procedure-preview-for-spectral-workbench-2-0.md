@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/09-30-2015/new-wavelength-calibration-procedure-preview-for-spectral-workbench-2-0.md
 nid: 12258
 uid: 1
-
 cids: 12605,12616,12620,12623,12624,12625,12626,12627,12628,12629,12636,12640,12641,12657,12683,12684,12685,12694,12698,12700,12701
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/718/original/Screenshot_2015-09-30_at_3.45.31_PM.png)
 
 # New wavelength calibration procedure preview for Spectral Workbench 2.0
 
-by [warren](../../../profile/warren) | September 30, 2015 20:03
+by [warren](/profile/warren) | September 30, 2015 20:03
 
-September 30, 2015 20:03 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [web-development](../tag/web-development), [spectral-workbench](../tag/spectral-workbench), [development](../tag/development), [coding](../tag/coding)
+September 30, 2015 20:03 | Tags: [spectrometer](/tag/spectrometer), [calibration](/tag/calibration), [web-development](/tag/web-development), [spectral-workbench](/tag/spectral-workbench), [development](/tag/development), [coding](/tag/coding)
 
 ----
 

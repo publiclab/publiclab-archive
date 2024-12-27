@@ -6,12 +6,12 @@ author: warren
 path: /wiki/retail.md
 nid: 535
 uid: 1
-
+cids: 
 ---
 
 # Retail 
 
-by [liz](../profile/liz), [gonzoearth](../profile/gonzoearth), [warren](../profile/warren)
+by [liz](/profile/liz), [gonzoearth](/profile/gonzoearth), [warren](/profile/warren)
 
 November 02, 2011 20:21 | Tags: 
 

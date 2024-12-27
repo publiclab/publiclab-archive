@@ -6,16 +6,14 @@ author: keerthana06
 path: /notes/keerthana06/05-17-2021/digital-image-processing-projects.md
 nid: 26621
 uid: 754722
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/834/original/Digital-Image-Processing-Projects.jpg)
 
 # digital image processing projects
 
-by [keerthana06](../../../profile/keerthana06) | May 17, 2021 12:53
+by [keerthana06](/profile/keerthana06) | May 17, 2021 12:53
 
 May 17, 2021 12:53 | Tags: 
 

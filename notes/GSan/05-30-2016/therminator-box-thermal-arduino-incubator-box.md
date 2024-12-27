@@ -6,18 +6,16 @@ author: GSan
 path: /notes/GSan/05-30-2016/therminator-box-thermal-arduino-incubator-box.md
 nid: 13155
 uid: 426547
-
 cids: 14708,14711
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/436/original/IMG_7433_v1.JPG)
 
 # T-Box
 
-by [GSan](../../../profile/GSan) | May 30, 2016 21:27
+by [GSan](/profile/GSan) | May 30, 2016 21:27
 
-May 30, 2016 21:27 | Tags: [culture](../tag/culture), [water-quality](../tag/water-quality), [box](../tag/box), [thermal](../tag/thermal), [brasil](../tag/brasil), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [redeinfoamazonia](../tag/redeinfoamazonia), [maedagua](../tag/maedagua), [microbiological](../tag/microbiological), [ecoli](../tag/ecoli), [incubator](../tag/incubator), [therminator](../tag/therminator)
+May 30, 2016 21:27 | Tags: [culture](/tag/culture), [water-quality](/tag/water-quality), [box](/tag/box), [thermal](/tag/thermal), [brasil](/tag/brasil), [barnstar:photo-documentation](/tag/barnstar:photo-documentation), [redeinfoamazonia](/tag/redeinfoamazonia), [maedagua](/tag/maedagua), [microbiological](/tag/microbiological), [ecoli](/tag/ecoli), [incubator](/tag/incubator), [therminator](/tag/therminator)
 
 ----
 

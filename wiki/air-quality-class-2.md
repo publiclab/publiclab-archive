@@ -6,14 +6,14 @@ author: liz
 path: /wiki/air-quality-class-2.md
 nid: 5947
 uid: 7
-
+cids: 
 ---
 
 # Air Quality Class 2
 
-by [jmsaavedra](../profile/jmsaavedra), [liz](../profile/liz)
+by [jmsaavedra](/profile/jmsaavedra), [liz](/profile/liz)
 
-February 11, 2013 22:01 | Tags: [epa](../tag/epa), [cypress-hills](../tag/cypress-hills), [chaq](../tag/chaq)
+February 11, 2013 22:01 | Tags: [epa](/tag/epa), [cypress-hills](/tag/cypress-hills), [chaq](/tag/chaq)
 
 ----
 

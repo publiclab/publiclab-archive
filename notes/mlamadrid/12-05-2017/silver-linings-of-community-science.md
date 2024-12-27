@@ -6,18 +6,16 @@ author: mlamadrid
 path: /notes/mlamadrid/12-05-2017/silver-linings-of-community-science.md
 nid: 15311
 uid: 45586
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/805/original/ShanHe_2017-08-19_150714.jpeg)
 
 # Silver Linings of Community Science
 
-by [mlamadrid](../../../profile/mlamadrid) | December 05, 2017 23:41
+by [mlamadrid](/profile/mlamadrid) | December 05, 2017 23:41
 
-December 05, 2017 23:41 | Tags: [water-quality](../tag/water-quality), [environment](../tag/environment), [landscape](../tag/landscape), [with:gretchengehrke](../tag/with:gretchengehrke)
+December 05, 2017 23:41 | Tags: [water-quality](/tag/water-quality), [environment](/tag/environment), [landscape](/tag/landscape), [with:gretchengehrke](/tag/with:gretchengehrke)
 
 ----
 

@@ -6,18 +6,16 @@ author: eustatic
 path: /06-11-2020/previous-use-of-the-minivol-in-preventing-the-spread-of-cancer-alley.md
 nid: 23821
 uid: 379
-
 cids: 27012,27020,27281
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/744/original/10995706123_42f76d462c_b.jpg)
 
 # Previous use of the MiniVol in preventing the spread of Cancer Alley
 
-by [eustatic](../../../profile/eustatic) | June 11, 2020 23:08
+by [eustatic](/profile/eustatic) | June 11, 2020 23:08
 
-June 11, 2020 23:08 | Tags: [air-quality](../tag/air-quality), [barnstar:watchdog](../tag/barnstar:watchdog), [minivol](../tag/minivol), [zoom:16](../tag/zoom:16), [bucket-monitor](../tag/bucket-monitor), [lat:29.622825](../tag/lat:29.622825), [lon:-89.922173](../tag/lon:-89.922173)
+June 11, 2020 23:08 | Tags: [air-quality](/tag/air-quality), [barnstar:watchdog](/tag/barnstar:watchdog), [minivol](/tag/minivol), [zoom:16](/tag/zoom:16), [bucket-monitor](/tag/bucket-monitor), [lat:29.622825](/tag/lat:29.622825), [lon:-89.922173](/tag/lon:-89.922173)
 
 ----
 

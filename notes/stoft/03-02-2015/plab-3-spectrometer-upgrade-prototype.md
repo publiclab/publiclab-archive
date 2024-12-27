@@ -6,18 +6,16 @@ author: stoft
 path: /notes/stoft/03-02-2015/plab-3-spectrometer-upgrade-prototype.md
 nid: 11649
 uid: 54025
-
 cids: 11252,11254,11255,11256,11257,11259,14391,14394,15534,15535,15536,27302,27311,27325
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/106/original/P3U-2.jpg)
 
 # PLab 3 Spectrometer Upgrade Prototype
 
-by [stoft](../../../profile/stoft) | March 02, 2015 09:23
+by [stoft](/profile/stoft) | March 02, 2015 09:23
 
-March 02, 2015 09:23 | Tags: [spectrometer](../tag/spectrometer), [barnstar:basic](../tag/barnstar:basic), [spec-3](../tag/spec-3), [upgrade:spectrometry](../tag/upgrade:spectrometry), [upgrade:dssk](../tag/upgrade:dssk), [www.runsupplies.com](../tag/www.runsupplies.com), [www.bitsnano.com](../tag/www.bitsnano.com)
+March 02, 2015 09:23 | Tags: [spectrometer](/tag/spectrometer), [barnstar:basic](/tag/barnstar:basic), [spec-3](/tag/spec-3), [upgrade:spectrometry](/tag/upgrade:spectrometry), [upgrade:dssk](/tag/upgrade:dssk), [www.runsupplies.com](/tag/www.runsupplies.com), [www.bitsnano.com](/tag/www.bitsnano.com)
 
 ----
 

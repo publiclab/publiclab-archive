@@ -6,16 +6,14 @@ author: k_c_s
 path: /notes/k_c_s/11-01-2019/rain-garden-finding-a-location.md
 nid: 21370
 uid: 619909
-
 cids: 25786
-
 ---
 
 # Rain Garden: Finding a Location
 
-by [k_c_s](../../../profile/k_c_s) | November 01, 2019 19:44
+by [k_c_s](/profile/k_c_s) | November 01, 2019 19:44
 
-November 01, 2019 19:44 | Tags: [stormwater](../tag/stormwater), [flooding](../tag/flooding), [lat:29.93](../tag/lat:29.93), [lon:-90.11](../tag/lon:-90.11)
+November 01, 2019 19:44 | Tags: [stormwater](/tag/stormwater), [flooding](/tag/flooding), [lat:29.93](/tag/lat:29.93), [lon:-90.11](/tag/lon:-90.11)
 
 ----
 

@@ -6,18 +6,16 @@ author: sara
 path: /notes/sara/2-6-2012/hydrogen-sulfide-testing-glove-bag.md
 nid: 755
 uid: 8
-
 cids: 435,436,446
-
 ---
 
 ![](https://publiclab.org/sites/default/files/atmosbag.Par_.0001.Image_.200.jpg)
 
 # Hydrogen Sulfide Testing-glove bag
 
-by [sara](../../../profile/sara) | February 06, 2012 19:06
+by [sara](/profile/sara) | February 06, 2012 19:06
 
-February 06, 2012 19:06 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper)
+February 06, 2012 19:06 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [h2s-photopaper](/tag/h2s-photopaper)
 
 ----
 

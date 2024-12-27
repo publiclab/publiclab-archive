@@ -6,16 +6,14 @@ author: Milos
 path: /notes/Milos/11-08-2016/hi-i-want-a-microscop.md
 nid: 13686
 uid: 496548
-
 cids: 22458
-
 ---
 
 # Hi, I want a microscop
 
-by [Milos](../../../profile/Milos) | November 08, 2016 00:45
+by [Milos](/profile/Milos) | November 08, 2016 00:45
 
-November 08, 2016 00:45 | Tags: [question:generalblog](../tag/question:generalblog)
+November 08, 2016 00:45 | Tags: [question:generalblog](/tag/question:generalblog)
 
 ----
 

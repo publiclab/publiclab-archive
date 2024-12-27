@@ -6,18 +6,16 @@ author: purl
 path: /notes/purl/02-26-2021/messages-from-the-mississippi-lesson-6-building-a-campaign.md
 nid: 25814
 uid: 736598
-
 cids: 28264
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/823/original/EPA_flow_chart.png)
 
 # Messages from the Mississippi Lesson 6: Building a Campaign
 
-by [purl](../../../profile/purl) | February 26, 2021 21:11
+by [purl](/profile/purl) | February 26, 2021 21:11
 
-February 26, 2021 21:11 | Tags: [microplastics](../tag/microplastics), [messagesfromthemississippi](../tag/messagesfromthemississippi)
+February 26, 2021 21:11 | Tags: [microplastics](/tag/microplastics), [messagesfromthemississippi](/tag/messagesfromthemississippi)
 
 ----
 

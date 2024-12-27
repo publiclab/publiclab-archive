@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/02-08-2017/be-a-mentor-for-public-lab-in-google-summer-of-code-2017.md
 nid: 13910
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/489/original/gsoc-orgs.png)
 
 # Be a mentor for Public Lab in Google Summer of Code 2017
 
-by [warren](../../../profile/warren) | February 08, 2017 21:58
+by [warren](/profile/warren) | February 08, 2017 21:58
 
-February 08, 2017 21:58 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [web](../tag/web), [developers](../tag/developers), [wwg](../tag/wwg), [gsoc-2017](../tag/gsoc-2017)
+February 08, 2017 21:58 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [web](/tag/web), [developers](/tag/developers), [wwg](/tag/wwg), [gsoc-2017](/tag/gsoc-2017)
 
 ----
 

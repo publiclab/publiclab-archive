@@ -6,14 +6,14 @@ author: liz
 path: /wiki/southeast.md
 nid: 10497
 uid: 7
-
+cids: 
 ---
 
 # Southeast United States
 
-by [wward1400](../profile/wward1400), [stevie](../profile/stevie), [liz](../profile/liz)
+by [wward1400](/profile/wward1400), [stevie](/profile/stevie), [liz](/profile/liz)
 
-May 21, 2014 15:15 | Tags: [list:plots-southeast](../tag/list:plots-southeast), [tabbed:notes](../tag/tabbed:notes), [tabbed:wikis](../tag/tabbed:wikis), [region](../tag/region)
+May 21, 2014 15:15 | Tags: [list:plots-southeast](/tag/list:plots-southeast), [tabbed:notes](/tag/tabbed:notes), [tabbed:wikis](/tag/tabbed:wikis), [region](/tag/region)
 
 ----
 
@@ -66,4 +66,4 @@ This is a regional page for the Public Lab community in the southeastern United 
 * Beaufort map: http://publiclaboratory.org/notes/adam-griffith/9-10-2011/students-map-campus-univerity-south-carolina-beaufort-south
 
 ###Notes
-[southeast](../../tag/southeast)
+[southeast](/tag/southeast)

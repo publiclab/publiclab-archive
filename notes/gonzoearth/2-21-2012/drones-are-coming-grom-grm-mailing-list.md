@@ -6,16 +6,14 @@ author: gonzoearth
 path: /notes/gonzoearth/2-21-2012/drones-are-coming-grom-grm-mailing-list.md
 nid: 828
 uid: 12
-
 cids: 
-
 ---
 
 # drones are coming, article link from the GRM mailing list
 
-by [gonzoearth](../../../profile/gonzoearth) | February 21, 2012 20:35
+by [gonzoearth](/profile/gonzoearth) | February 21, 2012 20:35
 
-February 21, 2012 20:35 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
+February 21, 2012 20:35 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping)
 
 ----
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/h2s-copper-pipe.md
 nid: 15246
 uid: 1
-
+cids: 
 ---
 
 # h2s-copper-pipe
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-November 28, 2017 17:17 | Tags: [redirect:15067](../tag/redirect:15067)
+November 28, 2017 17:17 | Tags: [redirect:15067](/tag/redirect:15067)
 
 ----
 

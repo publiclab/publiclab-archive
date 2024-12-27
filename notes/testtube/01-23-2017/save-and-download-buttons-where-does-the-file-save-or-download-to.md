@@ -6,16 +6,14 @@ author: testtube
 path: /notes/testtube/01-23-2017/save-and-download-buttons-where-does-the-file-save-or-download-to.md
 nid: 13871
 uid: 484823
-
 cids: 22408,22413
-
 ---
 
 # Save and Download buttons -where does the file save or download to?
 
-by [testtube](../../../profile/testtube) | January 23, 2017 03:06
+by [testtube](/profile/testtube) | January 23, 2017 03:06
 
-January 23, 2017 03:06 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench)
+January 23, 2017 03:06 | Tags: [question:spectral-workbench](/tag/question:spectral-workbench)
 
 ----
 

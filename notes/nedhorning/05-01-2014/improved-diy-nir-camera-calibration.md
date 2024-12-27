@@ -6,18 +6,16 @@ author: nedhorning
 path: /notes/nedhorning/05-01-2014/improved-diy-nir-camera-calibration.md
 nid: 10389
 uid: 133
-
 cids: 8943,8944,8957,8961,8966,8970,8971,8973,8974,9006,9019,9020,9041,9042,9181,9182,11157,11158,12158,12160,12161,12168,12170,15786,15787,15789,15790,16037,16038,16581,16582,16593,16595,16708,16711,16713,16715,18236,18237,18238,18239,18261,18265,18267,21173,21183,21191,21202
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/960/original/IMG_0002.JPG)
 
 # Improved DIY NIR camera calibration
 
-by [nedhorning](../../../profile/nedhorning) | May 01, 2014 18:50
+by [nedhorning](/profile/nedhorning) | May 01, 2014 18:50
 
-May 01, 2014 18:50 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [nir](../tag/nir), [calibration](../tag/calibration), [infragram](../tag/infragram), [response:9509](../tag/response:9509), [ndvi-calibrate](../tag/ndvi-calibrate), [multispectral-imaging](../tag/multispectral-imaging)
+May 01, 2014 18:50 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [nir](/tag/nir), [calibration](/tag/calibration), [infragram](/tag/infragram), [response:9509](/tag/response:9509), [ndvi-calibrate](/tag/ndvi-calibrate), [multispectral-imaging](/tag/multispectral-imaging)
 
 ----
 

@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/3-5-2013/late-night-ircam-hack.md
 nid: 6211
 uid: 43651
-
 cids: 3629,3630,3631,3632,3635,3657,3663,3664,3670,3671,3672,3673,3675,3676,3850,3859,4222
-
 ---
 
 ![](https://publiclab.org/sites/default/files/pic_54_1.png)
 
 # Late-night IRCAM hack
 
-by [donblair](../../../profile/donblair) | March 05, 2013 19:09
+by [donblair](/profile/donblair) | March 05, 2013 19:09
 
-March 05, 2013 19:09 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [near-infrared](../tag/near-infrared), [ircam](../tag/ircam), [near-ir](../tag/near-ir), [irkit](../tag/irkit), [infragram](../tag/infragram)
+March 05, 2013 19:09 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [near-infrared](/tag/near-infrared), [ircam](/tag/ircam), [near-ir](/tag/near-ir), [irkit](/tag/irkit), [infragram](/tag/infragram)
 
 ----
 

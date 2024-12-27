@@ -6,16 +6,14 @@ author: smalam
 path: /notes/smalam/02-17-2017/noise-pollution-measure-meter.md
 nid: 13938
 uid: 503036
-
 cids: 22857
-
 ---
 
 # Noise Pollution measure meter 
 
-by [smalam](../../../profile/smalam) | February 17, 2017 02:42
+by [smalam](/profile/smalam) | February 17, 2017 02:42
 
-February 17, 2017 02:42 | Tags: [staff](../tag/staff), [contact](../tag/contact), [question:general](../tag/question:general)
+February 17, 2017 02:42 | Tags: [staff](/tag/staff), [contact](/tag/contact), [question:general](/tag/question:general)
 
 ----
 

@@ -6,18 +6,16 @@ author: nshapiro
 path: /notes/nshapiro/08-24-2015/where-we-breathe-website-walkthrough.md
 nid: 12163
 uid: 380298
-
 cids: 12426,12428,12431,12435,12439
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/263/original/Screen_Shot_2015-08-24_at_12.37.26_AM.png)
 
 # Where We Breathe Website Walkthrough
 
-by [nshapiro](../../../profile/nshapiro) | August 24, 2015 04:48
+by [nshapiro](/profile/nshapiro) | August 24, 2015 04:48
 
-August 24, 2015 04:48 | Tags: [platform](../tag/platform), [formaldehyde](../tag/formaldehyde), [wherewebreathe](../tag/wherewebreathe), [iaq](../tag/iaq), [indoor-air-quality](../tag/indoor-air-quality), [hcho](../tag/hcho)
+August 24, 2015 04:48 | Tags: [platform](/tag/platform), [formaldehyde](/tag/formaldehyde), [wherewebreathe](/tag/wherewebreathe), [iaq](/tag/iaq), [indoor-air-quality](/tag/indoor-air-quality), [hcho](/tag/hcho)
 
 ----
 

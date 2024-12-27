@@ -6,18 +6,16 @@ author: omarormachea
 path: /notes/omarormachea/10-20-2017/smartphone-spectrometer.md
 nid: 15077
 uid: 426114
-
 cids: 25225,25240,25260
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/991/original/smartphone_spectrometer.png)
 
 # Smartphone Spectrometer
 
-by [omarormachea](../../../profile/omarormachea) | October 20, 2017 20:58
+by [omarormachea](/profile/omarormachea) | October 20, 2017 20:58
 
-October 20, 2017 20:58 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [smartphone-spectrometer](../tag/smartphone-spectrometer)
+October 20, 2017 20:58 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [smartphone-spectrometer](/tag/smartphone-spectrometer)
 
 ----
 

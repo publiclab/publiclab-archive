@@ -6,18 +6,16 @@ author: rollinrenola
 path: /notes/rollinrenola/11-26-2019/use-your-sensors-a-public-lab-water-testing-event.md
 nid: 21597
 uid: 618903
-
 cids: 25936
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/719/original/IMG_0248.JPG)
 
 # ''Use Your Sensors'' a Public Lab water testing event. 
 
-by [rollinrenola](../../../profile/rollinrenola) | November 26, 2019 14:15
+by [rollinrenola](/profile/rollinrenola) | November 26, 2019 14:15
 
-November 26, 2019 14:15 | Tags: [lat:1](../tag/lat:1), [lon:10](../tag/lon:10), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
+November 26, 2019 14:15 | Tags: [lat:1](/tag/lat:1), [lon:10](/tag/lon:10), [oil-and-gas-water-trio](/tag/oil-and-gas-water-trio)
 
 ----
 

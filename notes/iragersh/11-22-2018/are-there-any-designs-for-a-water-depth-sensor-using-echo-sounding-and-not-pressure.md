@@ -6,18 +6,16 @@ author: iragersh
 path: /notes/iragersh/11-22-2018/are-there-any-designs-for-a-water-depth-sensor-using-echo-sounding-and-not-pressure.md
 nid: 17729
 uid: 557258
-
 cids: 21364,21366
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/813/original/20181026_084645.jpg)
 
 # Are there any designs for a water depth sensor using echo sounding and not pressure?
 
-by [iragersh](../../../profile/iragersh) | November 22, 2018 01:20
+by [iragersh](/profile/iragersh) | November 22, 2018 01:20
 
-November 22, 2018 01:20 | Tags: [water](../tag/water), [oyster](../tag/oyster), [depth](../tag/depth), [question:general](../tag/question:general), [reefballs](../tag/reefballs), [sonar](../tag/sonar), [transducer](../tag/transducer), [spat](../tag/spat)
+November 22, 2018 01:20 | Tags: [water](/tag/water), [oyster](/tag/oyster), [depth](/tag/depth), [question:general](/tag/question:general), [reefballs](/tag/reefballs), [sonar](/tag/sonar), [transducer](/tag/transducer), [spat](/tag/spat)
 
 ----
 

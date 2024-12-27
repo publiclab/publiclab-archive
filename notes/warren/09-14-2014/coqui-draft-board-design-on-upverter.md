@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/09-14-2014/coqui-draft-board-design-on-upverter.md
 nid: 11142
 uid: 1
-
 cids: 10283,10285,10292,10303,10304,10320,11770,11771
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/817/original/coqui.png)
 
 # Coqui draft board design on Upverter
 
-by [warren](../../../profile/warren) | September 14, 2014 18:09
+by [warren](/profile/warren) | September 14, 2014 18:09
 
-September 14, 2014 18:09 | Tags: [vermont](../tag/vermont), [leaffest](../tag/leaffest), [conductivity](../tag/conductivity), [pcb](../tag/pcb), [upverter](../tag/upverter), [riffle](../tag/riffle), [open-water](../tag/open-water), [northeast](../tag/northeast), [555](../tag/555), [leaffest2014](../tag/leaffest2014), [coqui](../tag/coqui), [schematic](../tag/schematic), [activity:coqui-version](../tag/activity:coqui-version)
+September 14, 2014 18:09 | Tags: [vermont](/tag/vermont), [leaffest](/tag/leaffest), [conductivity](/tag/conductivity), [pcb](/tag/pcb), [upverter](/tag/upverter), [riffle](/tag/riffle), [open-water](/tag/open-water), [northeast](/tag/northeast), [555](/tag/555), [leaffest2014](/tag/leaffest2014), [coqui](/tag/coqui), [schematic](/tag/schematic), [activity:coqui-version](/tag/activity:coqui-version)
 
 ----
 

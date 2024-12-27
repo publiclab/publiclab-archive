@@ -6,16 +6,14 @@ author: mimiss
 path: /notes/mimiss/06-14-2019/data-collection-resources.md
 nid: 19699
 uid: 579821
-
 cids: 28353
-
 ---
 
 # Data Collection Resources
 
-by [mimiss](../../../profile/mimiss) | June 14, 2019 13:27
+by [mimiss](/profile/mimiss) | June 14, 2019 13:27
 
-June 14, 2019 13:27 | Tags: [education](../tag/education), [data-collection](../tag/data-collection), [study-design](../tag/study-design), [activity:nas-student-community-science](../tag/activity:nas-student-community-science), [series:student-community-science](../tag/series:student-community-science), [activity:student-community-science](../tag/activity:student-community-science), [with:purl](../tag/with:purl)
+June 14, 2019 13:27 | Tags: [education](/tag/education), [data-collection](/tag/data-collection), [study-design](/tag/study-design), [activity:nas-student-community-science](/tag/activity:nas-student-community-science), [series:student-community-science](/tag/series:student-community-science), [activity:student-community-science](/tag/activity:student-community-science), [with:purl](/tag/with:purl)
 
 ----
 
@@ -61,7 +59,7 @@ You can also build this [Nano Data Logger][8], avail for purchase from the [Publ
 
 Need help? Just click "Ask a question" to get help from the Public Lab Community.
 
-[data-collection](../../tag/question:data-collection)
+[data-collection](/tag/question:data-collection)
 
   [1]: https://publiclab.org/wiki/student-led-community-science-in-the-classroom-a-curriculum
   [2]: https://www.teachhub.com/30-ways-arrange-students-group-work

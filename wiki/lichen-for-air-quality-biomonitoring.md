@@ -6,14 +6,14 @@ author: fongvania
 path: /wiki/lichen-for-air-quality-biomonitoring.md
 nid: 31009
 uid: 754846
-
+cids: 
 ---
 
 # Lichen for Air Quality Biomonitoring
 
-by [fongvania](../profile/fongvania)
+by [fongvania](/profile/fongvania)
 
-June 03, 2022 06:07 | Tags: [lichen](../tag/lichen), [resources](../tag/resources), [air-quality-monitoring](../tag/air-quality-monitoring), [bioindicators](../tag/bioindicators), [parent:bioindicators](../tag/parent:bioindicators)
+June 03, 2022 06:07 | Tags: [lichen](/tag/lichen), [resources](/tag/resources), [air-quality-monitoring](/tag/air-quality-monitoring), [bioindicators](/tag/bioindicators), [parent:bioindicators](/tag/parent:bioindicators)
 
 ----
 
@@ -101,13 +101,13 @@ After determining your sampling method, you will want to collect a "pilot" sampl
 
 ## Questions
 
-[lichen](../../tag/question:lichen)
+[lichen](/tag/question:lichen)
 
 <br>
 
 ## Research notes
 
-[lichen](../../tag/lichen)
+[lichen](/tag/lichen)
 
 <br>
 
@@ -119,7 +119,7 @@ After determining your sampling method, you will want to collect a "pilot" sampl
 
 ## Activities
 
-[lichen](../../tag/activity:lichen)
+[lichen](/tag/activity:lichen)
 
 <br>
 <br>

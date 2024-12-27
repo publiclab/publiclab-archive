@@ -6,18 +6,16 @@ author: Chus
 path: /notes/Chus/12-12-2018/nvdi-camino.md
 nid: 17882
 uid: 530977
-
 cids: 21498,21500,21507,21525
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/325/original/camino.JPG)
 
 # NVDI camino
 
-by [Chus](../../../profile/Chus) | December 12, 2018 19:46
+by [Chus](/profile/Chus) | December 12, 2018 19:46
 
-December 12, 2018 19:46 | Tags: [infrared](../tag/infrared), [ir](../tag/ir), [infragram](../tag/infragram), [camera](../tag/camera), [nvdi](../tag/nvdi), [lang:es](../tag/lang:es), [spanish](../tag/spanish), [first-time-poster](../tag/first-time-poster)
+December 12, 2018 19:46 | Tags: [infrared](/tag/infrared), [ir](/tag/ir), [infragram](/tag/infragram), [camera](/tag/camera), [nvdi](/tag/nvdi), [lang:es](/tag/lang:es), [spanish](/tag/spanish), [first-time-poster](/tag/first-time-poster)
 
 ----
 

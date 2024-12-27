@@ -6,16 +6,16 @@ author: Shannon
 path: /wiki/stories.md
 nid: 10698
 uid: 9
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/870/original/barnraising-handraising.JPG)
 
 # stories
 
-by [warren](../profile/warren), [klydefrog](../profile/klydefrog), [gretchengehrke](../profile/gretchengehrke), [Shannon](../profile/Shannon)
+by [warren](/profile/warren), [klydefrog](/profile/klydefrog), [gretchengehrke](/profile/gretchengehrke), [Shannon](/profile/Shannon)
 
-July 16, 2014 14:57 | Tags: [sidebar:featured](../tag/sidebar:featured), [style:wide](../tag/style:wide), [style:presentation](../tag/style:presentation), [style:nobanner](../tag/style:nobanner), [case-studies](../tag/case-studies), [stories](../tag/stories), [outcomes](../tag/outcomes), [style:fancy](../tag/style:fancy), [sidebar:none](../tag/sidebar:none)
+July 16, 2014 14:57 | Tags: [sidebar:featured](/tag/sidebar:featured), [style:wide](/tag/style:wide), [style:presentation](/tag/style:presentation), [style:nobanner](/tag/style:nobanner), [case-studies](/tag/case-studies), [stories](/tag/stories), [outcomes](/tag/outcomes), [style:fancy](/tag/style:fancy), [sidebar:none](/tag/sidebar:none)
 
 ----
 

@@ -6,18 +6,16 @@ author: awoolverton1
 path: /notes/awoolverton1/07-26-2022/what-do-workers-experience-reflections-from-a-coffee-talk-with-a-lifelong-employee-of-the-petrochemical-industry.md
 nid: 34803
 uid: 778039
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/921/original/Worker_pic_1.JPG)
 
 # What do Workers Experience? Reflections from a coffee-talk with a lifelong employee of the petrochemical industry. 
 
-by [awoolverton1](../../../profile/awoolverton1) | July 26, 2022 19:28
+by [awoolverton1](/profile/awoolverton1) | July 26, 2022 19:28
 
-July 26, 2022 19:28 | Tags: [zoom:8](../tag/zoom:8), [formosaplastics](../tag/formosaplastics), [lat:30.035811](../tag/lat:30.035811), [lon:-90.782577](../tag/lon:-90.782577), [stjames](../tag/stjames), [workers-rights](../tag/workers-rights)
+July 26, 2022 19:28 | Tags: [zoom:8](/tag/zoom:8), [formosaplastics](/tag/formosaplastics), [lat:30.035811](/tag/lat:30.035811), [lon:-90.782577](/tag/lon:-90.782577), [stjames](/tag/stjames), [workers-rights](/tag/workers-rights)
 
 ----
 

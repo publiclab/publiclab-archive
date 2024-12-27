@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/01-25-2017/beaufort-wind-scale-comic-1906.md
 nid: 13880
 uid: 4
-
 cids: 16102,16103,16104,17358
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/374/original/george_simpson_beaufort_scale_comic_title.png)
 
 # Beaufort Wind Scale Comic, 1906
 
-by [mathew](../../../profile/mathew) | January 25, 2017 22:42
+by [mathew](/profile/mathew) | January 25, 2017 22:42
 
-January 25, 2017 22:42 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [safety](../tag/safety), [guides](../tag/guides), [anemometer](../tag/anemometer), [wind-speed-meter](../tag/wind-speed-meter), [air-quality](../tag/air-quality), [guide](../tag/guide), [wind](../tag/wind), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [beaufort](../tag/beaufort), [cartoon](../tag/cartoon), [activity:wind-speed](../tag/activity:wind-speed)
+January 25, 2017 22:42 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [safety](/tag/safety), [guides](/tag/guides), [anemometer](/tag/anemometer), [wind-speed-meter](/tag/wind-speed-meter), [air-quality](/tag/air-quality), [guide](/tag/guide), [wind](/tag/wind), [barnstar:excessive-enthusiasm](/tag/barnstar:excessive-enthusiasm), [beaufort](/tag/beaufort), [cartoon](/tag/cartoon), [activity:wind-speed](/tag/activity:wind-speed)
 
 ----
 

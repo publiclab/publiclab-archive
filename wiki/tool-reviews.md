@@ -6,12 +6,12 @@ author: warren
 path: /wiki/tool-reviews.md
 nid: 697
 uid: 1
-
+cids: 
 ---
 
 # Tool reviews
 
-by [warren](../profile/warren), [alicesmith](../profile/alicesmith)
+by [warren](/profile/warren), [alicesmith](/profile/alicesmith)
 
 January 18, 2012 19:30 | Tags: 
 

@@ -6,16 +6,14 @@ author: Shannon
 path: /notes/shannon/12-21-2012/public-lab-community-newsletter-122112.md
 nid: 5286
 uid: 9
-
 cids: 
-
 ---
 
 # Public Lab community newsletter 12.21.12
 
-by [Shannon](../../../profile/Shannon) | December 21, 2012 20:52
+by [Shannon](/profile/Shannon) | December 21, 2012 20:52
 
-December 21, 2012 20:52 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+December 21, 2012 20:52 | Tags: [newsletter](/tag/newsletter), [newsletter-archive](/tag/newsletter-archive)
 
 ----
 

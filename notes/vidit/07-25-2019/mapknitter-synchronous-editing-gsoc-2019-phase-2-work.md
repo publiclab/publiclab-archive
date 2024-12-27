@@ -6,18 +6,16 @@ author: vidit
 path: /notes/vidit/07-25-2019/mapknitter-synchronous-editing-gsoc-2019-phase-2-work.md
 nid: 20313
 uid: 517093
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/125/original/gsoc-phase-2-image.png)
 
 # Mapknitter synchronous editing - GSOC 2019, phase 2 work
 
-by [vidit](../../../profile/vidit) | July 25, 2019 18:05
+by [vidit](/profile/vidit) | July 25, 2019 18:05
 
-July 25, 2019 18:05 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [soc-2019](../tag/soc-2019), [gsoc-19](../tag/gsoc-19), [soc-2019-eval](../tag/soc-2019-eval), [soc-2019-blog](../tag/soc-2019-blog), [synchronous-editing](../tag/synchronous-editing), [action-cable](../tag/action-cable)
+July 25, 2019 18:05 | Tags: [mapknitter](/tag/mapknitter), [gsoc](/tag/gsoc), [soc-2019](/tag/soc-2019), [gsoc-19](/tag/gsoc-19), [soc-2019-eval](/tag/soc-2019-eval), [soc-2019-blog](/tag/soc-2019-blog), [synchronous-editing](/tag/synchronous-editing), [action-cable](/tag/action-cable)
 
 ----
 

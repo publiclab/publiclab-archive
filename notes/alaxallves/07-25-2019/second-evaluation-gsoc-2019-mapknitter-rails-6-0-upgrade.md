@@ -6,18 +6,16 @@ author: alaxallves
 path: /notes/alaxallves/07-25-2019/second-evaluation-gsoc-2019-mapknitter-rails-6-0-upgrade.md
 nid: 20309
 uid: 577447
-
 cids: 25114,25132,25134,25136,25139
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/123/original/ruby-on-rails-6.png)
 
 # Second Evaluation (GSoC 2019): Mapknitter Rails 6.0 upgrade
 
-by [alaxallves](../../../profile/alaxallves) | July 25, 2019 13:33
+by [alaxallves](/profile/alaxallves) | July 25, 2019 13:33
 
-July 25, 2019 13:33 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [rails](../tag/rails), [soc](../tag/soc), [upgrade](../tag/upgrade), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [gsoc-19](../tag/gsoc-19), [soc-2019-eval](../tag/soc-2019-eval)
+July 25, 2019 13:33 | Tags: [mapknitter](/tag/mapknitter), [gsoc](/tag/gsoc), [rails](/tag/rails), [soc](/tag/soc), [upgrade](/tag/upgrade), [gsoc-2019](/tag/gsoc-2019), [soc-2019](/tag/soc-2019), [gsoc-19](/tag/gsoc-19), [soc-2019-eval](/tag/soc-2019-eval)
 
 ----
 

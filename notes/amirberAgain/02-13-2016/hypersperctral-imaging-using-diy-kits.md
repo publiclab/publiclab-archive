@@ -6,18 +6,16 @@ author: amirberAgain
 path: /notes/amirberAgain/02-13-2016/hypersperctral-imaging-using-diy-kits.md
 nid: 12685
 uid: 420776
-
 cids: 13676,13681,15877,15879,15880,15881,15882,15883,15884,15887,16324,16555,16556,16557,16558,16559,16560,16561,17327,17329,17331,17773,17774,17783,17786,21313,25582
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/282/original/HSI_front_screen.png)
 
 # Hypersperctral imaging using DIY kits
 
-by [amirberAgain](../../../profile/amirberAgain) | February 13, 2016 21:52
+by [amirberAgain](/profile/amirberAgain) | February 13, 2016 21:52
 
-February 13, 2016 21:52 | Tags: [spectrometer](../tag/spectrometer), [hyperspectral](../tag/hyperspectral), [first-time-poster](../tag/first-time-poster)
+February 13, 2016 21:52 | Tags: [spectrometer](/tag/spectrometer), [hyperspectral](/tag/hyperspectral), [first-time-poster](/tag/first-time-poster)
 
 ----
 

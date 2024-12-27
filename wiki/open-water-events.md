@@ -6,14 +6,14 @@ author: donblair
 path: /wiki/open-water-events.md
 nid: 10659
 uid: 43651
-
+cids: 
 ---
 
 # open-water-events
 
-by [donblair](../profile/donblair), [warren](../profile/warren)
+by [donblair](/profile/donblair), [warren](/profile/warren)
 
-July 04, 2014 19:10 | Tags: [boston](../tag/boston), [water-sensing](../tag/water-sensing), [events:boston](../tag/events:boston), [water-quality](../tag/water-quality), [parent:open-water](../tag/parent:open-water)
+July 04, 2014 19:10 | Tags: [boston](/tag/boston), [water-sensing](/tag/water-sensing), [events:boston](/tag/events:boston), [water-quality](/tag/water-quality), [parent:open-water](/tag/parent:open-water)
 
 ----
 

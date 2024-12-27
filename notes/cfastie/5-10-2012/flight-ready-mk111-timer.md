@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/5-10-2012/flight-ready-mk111-timer.md
 nid: 1946
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/SwampIR-20120505-147-28.jpg)
 
 # Flight-ready MK111 timer
 
-by [cfastie](../../../profile/cfastie) | May 10, 2012 15:07
+by [cfastie](/profile/cfastie) | May 10, 2012 15:07
 
-May 10, 2012 15:07 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [grassrootsmapping](../tag/grassrootsmapping), [triggering](../tag/triggering)
+May 10, 2012 15:07 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [grassrootsmapping](/tag/grassrootsmapping), [triggering](/tag/triggering)
 
 ----
 

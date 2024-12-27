@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/04-18-2018/lamotte-and-earth-force-low-cost-water-monitoring-kit.md
 nid: 16173
 uid: 422561
-
 cids: 20470,20471
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/640/original/20180418_092808.jpg)
 
 # LaMotte and Earth Force low cost Water Monitoring kit
 
-by [stevie](../../../profile/stevie) | April 18, 2018 15:18
+by [stevie](/profile/stevie) | April 18, 2018 15:18
 
-April 18, 2018 15:18 | Tags: [gulf-coast](../tag/gulf-coast), [education](../tag/education), [temperature](../tag/temperature), [kits](../tag/kits), [mississippi](../tag/mississippi), [water-quality-monitoring](../tag/water-quality-monitoring), [water-quality](../tag/water-quality), [water](../tag/water), [water-monitoring](../tag/water-monitoring), [turbidity](../tag/turbidity), [dissolved-oxygen](../tag/dissolved-oxygen), [reagents](../tag/reagents), [nitrate](../tag/nitrate), [ph](../tag/ph), [water-testing](../tag/water-testing), [nas](../tag/nas), [water-sampling](../tag/water-sampling), [phosphate](../tag/phosphate), [do](../tag/do), [secchi-disk](../tag/secchi-disk), [bod](../tag/bod), [gulfport](../tag/gulfport), [nitrogen](../tag/nitrogen), [activity:nitrogen](../tag/activity:nitrogen)
+April 18, 2018 15:18 | Tags: [gulf-coast](/tag/gulf-coast), [education](/tag/education), [temperature](/tag/temperature), [kits](/tag/kits), [mississippi](/tag/mississippi), [water-quality-monitoring](/tag/water-quality-monitoring), [water-quality](/tag/water-quality), [water](/tag/water), [water-monitoring](/tag/water-monitoring), [turbidity](/tag/turbidity), [dissolved-oxygen](/tag/dissolved-oxygen), [reagents](/tag/reagents), [nitrate](/tag/nitrate), [ph](/tag/ph), [water-testing](/tag/water-testing), [nas](/tag/nas), [water-sampling](/tag/water-sampling), [phosphate](/tag/phosphate), [do](/tag/do), [secchi-disk](/tag/secchi-disk), [bod](/tag/bod), [gulfport](/tag/gulfport), [nitrogen](/tag/nitrogen), [activity:nitrogen](/tag/activity:nitrogen)
 
 ----
 

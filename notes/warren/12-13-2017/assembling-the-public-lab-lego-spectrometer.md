@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/12-13-2017/assembling-the-public-lab-lego-spectrometer.md
 nid: 15360
 uid: 1
-
 cids: 18257,18270,18377,18381,18386,19148,19458,19728,19729,20199,20705,20706,20710,20859,20862,20879,20886,20891,20893,20912,20941,28459,29486
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/928/original/PC051869.JPG)
 
 # Assembling the Public Lab Lego Spectrometer
 
-by [warren](../../../profile/warren) | December 13, 2017 06:27
+by [warren](/profile/warren) | December 13, 2017 06:27
 
-December 13, 2017 06:27 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [fluorescence](../tag/fluorescence), [raspberry-pi](../tag/raspberry-pi), [lego](../tag/lego), [with:bronwen](../tag/with:bronwen), [activity:education](../tag/activity:education), [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer), [activity:raspberry-pi-spectrometer](../tag/activity:raspberry-pi-spectrometer), [activity:lego-spectrometer](../tag/activity:lego-spectrometer), [lego-spectrometer](../tag/lego-spectrometer), [with:asnow](../tag/with:asnow), [lego-quickstart](../tag/lego-quickstart), [pin:spectrometry](../tag/pin:spectrometry)
+December 13, 2017 06:27 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [fluorescence](/tag/fluorescence), [raspberry-pi](/tag/raspberry-pi), [lego](/tag/lego), [with:bronwen](/tag/with:bronwen), [activity:education](/tag/activity:education), [raspberry-pi-spectrometer](/tag/raspberry-pi-spectrometer), [activity:raspberry-pi-spectrometer](/tag/activity:raspberry-pi-spectrometer), [activity:lego-spectrometer](/tag/activity:lego-spectrometer), [lego-spectrometer](/tag/lego-spectrometer), [with:asnow](/tag/with:asnow), [lego-quickstart](/tag/lego-quickstart), [pin:spectrometry](/tag/pin:spectrometry)
 
 ----
 

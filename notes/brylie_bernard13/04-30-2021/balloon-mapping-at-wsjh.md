@@ -6,16 +6,14 @@ author: brylie_bernard13
 path: /notes/brylie_bernard13/04-30-2021/balloon-mapping-at-wsjh.md
 nid: 26432
 uid: 741183
-
 cids: 
-
 ---
 
 # Balloon Mapping at WSJH
 
-by [brylie_bernard13](../../../profile/brylie_bernard13) | April 30, 2021 18:46
+by [brylie_bernard13](/profile/brylie_bernard13) | April 30, 2021 18:46
 
-April 30, 2021 18:46 | Tags: [lat:30](../tag/lat:30), [lon:-90](../tag/lon:-90), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6)
+April 30, 2021 18:46 | Tags: [lat:30](/tag/lat:30), [lon:-90](/tag/lon:-90), [first-time-poster](/tag/first-time-poster), [zoom:6](/tag/zoom:6)
 
 ----
 

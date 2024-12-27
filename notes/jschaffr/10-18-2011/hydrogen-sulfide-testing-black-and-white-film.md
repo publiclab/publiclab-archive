@@ -6,18 +6,16 @@ author: jschaffr
 path: /notes/jschaffr/10-18-2011/hydrogen-sulfide-testing-black-and-white-film.md
 nid: 509
 uid: 315
-
 cids: 345,568,17878
-
 ---
 
 ![](https://publiclab.org/sites/default/files/slvrware-tarnish-280x300.jpg)
 
 # Hydrogen Sulfide Testing With Black and White Film
 
-by [jschaffr](../../../profile/jschaffr) | October 18, 2011 23:01
+by [jschaffr](/profile/jschaffr) | October 18, 2011 23:01
 
-October 18, 2011 23:01 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [activity:h2s-photopaper](../tag/activity:h2s-photopaper), [activity:hydrogen-sulfide](../tag/activity:hydrogen-sulfide), [activity:hydrogen-sulfide-photopaper](../tag/activity:hydrogen-sulfide-photopaper), [first-time-poster](../tag/first-time-poster)
+October 18, 2011 23:01 | Tags: [hydrogen-sulfide](/tag/hydrogen-sulfide), [activity:h2s-photopaper](/tag/activity:h2s-photopaper), [activity:hydrogen-sulfide](/tag/activity:hydrogen-sulfide), [activity:hydrogen-sulfide-photopaper](/tag/activity:hydrogen-sulfide-photopaper), [first-time-poster](/tag/first-time-poster)
 
 ----
 

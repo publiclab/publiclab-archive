@@ -6,18 +6,16 @@ author: sara
 path: /notes/sara/5-21-2012/excellent-geoscience-fieldtest-photostrip-h2s-detection.md
 nid: 2157
 uid: 8
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Picture 6_0.png)
 
 # Excellent Geoscience Fieldtest of Photostrip H2S Detection
 
-by [sara](../../../profile/sara) | May 21, 2012 22:59
+by [sara](/profile/sara) | May 21, 2012 22:59
 
-May 21, 2012 22:59 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [draeger-tubes](../tag/draeger-tubes), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper), [h2s-draeger-tubes](../tag/h2s-draeger-tubes)
+May 21, 2012 22:59 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [draeger-tubes](/tag/draeger-tubes), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [h2s-photopaper](/tag/h2s-photopaper), [h2s-draeger-tubes](/tag/h2s-draeger-tubes)
 
 ----
 

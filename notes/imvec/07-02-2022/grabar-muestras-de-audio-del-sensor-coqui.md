@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/07-02-2022/grabar-muestras-de-audio-del-sensor-coqui.md
 nid: 31176
 uid: 495038
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/842/original/bezoya.png)
 
 # Grabar muestras de audio del sensor Coqui
 
-by [imvec](../../../profile/imvec) | July 02, 2022 17:13
+by [imvec](/profile/imvec) | July 02, 2022 17:13
 
-July 02, 2022 17:13 | Tags: [water-quality-sensor](../tag/water-quality-sensor), [lang:es](../tag/lang:es), [coqui](../tag/coqui), [activity:coqui](../tag/activity:coqui), [with:xose](../tag/with:xose), [water-conductivity](../tag/water-conductivity), [agua](../tag/agua), [calidad-de-agua](../tag/calidad-de-agua), [response:30377](../tag/response:30377)
+July 02, 2022 17:13 | Tags: [water-quality-sensor](/tag/water-quality-sensor), [lang:es](/tag/lang:es), [coqui](/tag/coqui), [activity:coqui](/tag/activity:coqui), [with:xose](/tag/with:xose), [water-conductivity](/tag/water-conductivity), [agua](/tag/agua), [calidad-de-agua](/tag/calidad-de-agua), [response:30377](/tag/response:30377)
 
 ----
 

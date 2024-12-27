@@ -6,18 +6,16 @@ author: Mustapha
 path: /notes/Mustapha/09-27-2016/balloon-mapping-images-as-a-way-to-explain-life-in-a-refugee-camp.md
 nid: 13492
 uid: 493078
-
 cids: 15505,15997
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/177/original/L1250880.jpg)
 
 # Balloon mapping images as a way to explain life in a refugee camp
 
-by [Mustapha](../../../profile/Mustapha) | September 27, 2016 20:35
+by [Mustapha](/profile/Mustapha) | September 27, 2016 20:35
 
-September 27, 2016 20:35 | Tags: [lebanon](../tag/lebanon), [middle-east](../tag/middle-east), [refugees](../tag/refugees), [refugeecamps](../tag/refugeecamps), [exhibition](../tag/exhibition), [berlin](../tag/berlin), [germany](../tag/germany), [bourjalshamali](../tag/bourjalshamali)
+September 27, 2016 20:35 | Tags: [lebanon](/tag/lebanon), [middle-east](/tag/middle-east), [refugees](/tag/refugees), [refugeecamps](/tag/refugeecamps), [exhibition](/tag/exhibition), [berlin](/tag/berlin), [germany](/tag/germany), [bourjalshamali](/tag/bourjalshamali)
 
 ----
 

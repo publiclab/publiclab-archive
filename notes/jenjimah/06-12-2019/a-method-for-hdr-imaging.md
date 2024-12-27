@@ -6,18 +6,16 @@ author: jenjimah
 path: /notes/jenjimah/06-12-2019/a-method-for-hdr-imaging.md
 nid: 19682
 uid: 505738
-
 cids: 24773,24775,24776,24778,24779,24780,24781,24783,24787,24788,24791,24792,24793,24797,25453
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/870/original/hdrDVD.png)
 
 # A Method for HDR Imaging
 
-by [jenjimah](../../../profile/jenjimah) | June 12, 2019 19:15
+by [jenjimah](/profile/jenjimah) | June 12, 2019 19:15
 
-June 12, 2019 19:15 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [raspberry-pi](../tag/raspberry-pi), [cameras](../tag/cameras), [hdr](../tag/hdr), [barnstar:basic](../tag/barnstar:basic)
+June 12, 2019 19:15 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [raspberry-pi](/tag/raspberry-pi), [cameras](/tag/cameras), [hdr](/tag/hdr), [barnstar:basic](/tag/barnstar:basic)
 
 ----
 

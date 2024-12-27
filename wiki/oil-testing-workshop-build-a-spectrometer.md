@@ -6,14 +6,14 @@ author: liz
 path: /wiki/oil-testing-workshop-build-a-spectrometer.md
 nid: 12669
 uid: 7
-
+cids: 
 ---
 
 # oil-testing-workshop-build-a-spectrometer
 
-by [stevie](../profile/stevie), [warren](../profile/warren), [liz](../profile/liz)
+by [stevie](/profile/stevie), [warren](/profile/warren), [liz](/profile/liz)
 
-February 08, 2016 16:51 | Tags: [workshop](../tag/workshop), [oil-testing-kit](../tag/oil-testing-kit), [parent:oil-testing-workshops](../tag/parent:oil-testing-workshops)
+February 08, 2016 16:51 | Tags: [workshop](/tag/workshop), [oil-testing-kit](/tag/oil-testing-kit), [parent:oil-testing-workshops](/tag/parent:oil-testing-workshops)
 
 ----
 

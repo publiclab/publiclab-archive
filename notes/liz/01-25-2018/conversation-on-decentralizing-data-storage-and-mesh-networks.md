@@ -6,16 +6,14 @@ author: liz
 path: /notes/liz/01-25-2018/conversation-on-decentralizing-data-storage-and-mesh-networks.md
 nid: 15606
 uid: 7
-
 cids: 
-
 ---
 
 # Conversation on decentralizing data storage and mesh networks
 
-by [liz](../../../profile/liz) | January 25, 2018 01:17
+by [liz](/profile/liz) | January 25, 2018 01:17
 
-January 25, 2018 01:17 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event), [internet](../tag/internet), [mesh](../tag/mesh), [edgi](../tag/edgi), [data-together](../tag/data-together), [decentralization](../tag/decentralization)
+January 25, 2018 01:17 | Tags: [new-york-city](/tag/new-york-city), [event](/tag/event), [internet](/tag/internet), [mesh](/tag/mesh), [edgi](/tag/edgi), [data-together](/tag/data-together), [decentralization](/tag/decentralization)
 
 ----
 

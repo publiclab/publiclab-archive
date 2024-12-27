@@ -6,14 +6,14 @@ author: stevie
 path: /wiki/public-lab-river-rat-pack.md
 nid: 19430
 uid: 422561
-
+cids: 
 ---
 
 # Public Lab River Rat Pack
 
-by [stevie](../profile/stevie)
+by [stevie](/profile/stevie)
 
-May 16, 2019 18:08 | Tags: [flood](../tag/flood), [mississippi-river](../tag/mississippi-river), [urbanwaters](../tag/urbanwaters), [lat:38](../tag/lat:38), [publiclabriverratpack](../tag/publiclabriverratpack), [project](../tag/project), [location:blurred](../tag/location:blurred), [lon:-90](../tag/lon:-90), [map-knitter](../tag/map-knitter), [fresh-water](../tag/fresh-water), [public-access](../tag/public-access)
+May 16, 2019 18:08 | Tags: [flood](/tag/flood), [mississippi-river](/tag/mississippi-river), [urbanwaters](/tag/urbanwaters), [lat:38](/tag/lat:38), [publiclabriverratpack](/tag/publiclabriverratpack), [project](/tag/project), [location:blurred](/tag/location:blurred), [lon:-90](/tag/lon:-90), [map-knitter](/tag/map-knitter), [fresh-water](/tag/fresh-water), [public-access](/tag/public-access)
 
 ----
 
@@ -42,18 +42,18 @@ This project is wrapped up now! But you can read about how the group took the fi
 
 <a class="btn btn-large btn-primary" href="https://publiclab.org/subscribe/tag/publiclabriverratpack">Subscribe to updates on this project </a>
 
-[PublicLabRiverRatPack](../../tag/PublicLabRiverRatPack) 
+[PublicLabRiverRatPack](/tag/PublicLabRiverRatPack) 
 
 ### Questions
 
-[PublicLabRiverRatPack](../../tag/question:PublicLabRiverRatPack)
+[PublicLabRiverRatPack](/tag/question:PublicLabRiverRatPack)
 
 ****
 
 ### Activities we’ve done in our project
 The team mapped and took over 28,000 photographs of nine sites for this project.
 
-[PublicLabRiverRatPack](../../tag/activity:PublicLabRiverRatPack)
+[PublicLabRiverRatPack](/tag/activity:PublicLabRiverRatPack)
 
 ### Data
 

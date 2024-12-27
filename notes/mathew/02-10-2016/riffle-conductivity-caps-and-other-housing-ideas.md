@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/02-10-2016/riffle-conductivity-caps-and-other-housing-ideas.md
 nid: 12674
 uid: 4
-
 cids: 13538,13541,13543,13544,13551,13562,13564,13566,13567,13568,13569,13579,13580,13581,13582,13583,13584,13586,13587,13588,13589,13605,13606,13638,13642,13651,13992,17674
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/191/original/P_20160209_143505.jpg)
 
 # Riffle conductivity caps and other housing ideas
 
-by [mathew](../../../profile/mathew) | February 10, 2016 01:54
+by [mathew](/profile/mathew) | February 10, 2016 01:54
 
-February 10, 2016 01:54 | Tags: [arduino](../tag/arduino), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [bottle](../tag/bottle), [pet-bottle](../tag/pet-bottle), [data-logger-enclosures](../tag/data-logger-enclosures), [sensor-enclosures](../tag/sensor-enclosures), [activity:sensor-enclosures](../tag/activity:sensor-enclosures), [activity:conductivity](../tag/activity:conductivity)
+February 10, 2016 01:54 | Tags: [arduino](/tag/arduino), [water-quality](/tag/water-quality), [riffle](/tag/riffle), [bottle](/tag/bottle), [pet-bottle](/tag/pet-bottle), [data-logger-enclosures](/tag/data-logger-enclosures), [sensor-enclosures](/tag/sensor-enclosures), [activity:sensor-enclosures](/tag/activity:sensor-enclosures), [activity:conductivity](/tag/activity:conductivity)
 
 ----
 

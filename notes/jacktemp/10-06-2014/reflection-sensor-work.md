@@ -6,16 +6,14 @@ author: jacktemp
 path: /notes/jacktemp/10-06-2014/reflection-sensor-work.md
 nid: 11234
 uid: 428016
-
 cids: 
-
 ---
 
 # Reflection — sensor work
 
-by [jacktemp](../../../profile/jacktemp) | October 06, 2014 02:26
+by [jacktemp](/profile/jacktemp) | October 06, 2014 02:26
 
-October 06, 2014 02:26 | Tags: [sensor-journalism](../tag/sensor-journalism)
+October 06, 2014 02:26 | Tags: [sensor-journalism](/tag/sensor-journalism)
 
 ----
 

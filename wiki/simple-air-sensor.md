@@ -6,16 +6,16 @@ author: warren
 path: /wiki/simple-air-sensor.md
 nid: 18517
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/501/original/IMG_20190305_111130_596.jpg)
 
 # Simple Air Sensor
 
-by [a1ahna](../profile/a1ahna), [warren](../profile/warren), [liz](../profile/liz), [asnow](../profile/asnow)
+by [a1ahna](/profile/a1ahna), [warren](/profile/warren), [liz](/profile/liz), [asnow](/profile/asnow)
 
-March 11, 2019 19:29 | Tags: [air-quality](../tag/air-quality), [air](../tag/air), [sensors](../tag/sensors), [design](../tag/design), [open-air](../tag/open-air), [air-sensing](../tag/air-sensing), [method](../tag/method), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [plantower](../tag/plantower), [purple-air](../tag/purple-air), [particle-sensor](../tag/particle-sensor), [pms5003](../tag/pms5003), [simple-air-sensor](../tag/simple-air-sensor)
+March 11, 2019 19:29 | Tags: [air-quality](/tag/air-quality), [air](/tag/air), [sensors](/tag/sensors), [design](/tag/design), [open-air](/tag/open-air), [air-sensing](/tag/air-sensing), [method](/tag/method), [air-sensors](/tag/air-sensors), [purpleair](/tag/purpleair), [plantower](/tag/plantower), [purple-air](/tag/purple-air), [particle-sensor](/tag/particle-sensor), [pms5003](/tag/pms5003), [simple-air-sensor](/tag/simple-air-sensor)
 
 ----
 
@@ -160,7 +160,7 @@ Quite a few people have built simple open source, Arduino-based devices around t
 
 ## Activities
 
-[grid:activity:simple-air-sensor](../../tag/grid:activity:simple-air-sensor)
+[grid:activity:simple-air-sensor](/tag/grid:activity:simple-air-sensor)
 
 <a class="btn btn-primary" href="/post?tags=activity:simple-air-sensor,air-quality,simple-air-sensor,seeks:replications&title=How%20to%20do%20X">Add an activity</a>  or request an activity guide you don't see listed
 
@@ -168,7 +168,7 @@ Quite a few people have built simple open source, Arduino-based devices around t
 ## Questions
 
 
-[simple-air-sensor](../../tag/question:simple-air-sensor)
+[simple-air-sensor](/tag/question:simple-air-sensor)
 
 
 ****

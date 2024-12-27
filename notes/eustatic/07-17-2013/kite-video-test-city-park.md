@@ -6,18 +6,16 @@ author: eustatic
 path: /07-17-2013/kite-video-test-city-park.md
 nid: 8902
 uid: 379
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/829/original/20_april_city_park_little_bear.png)
 
 # Kite Video test:  City Park
 
-by [eustatic](../../../profile/eustatic) | July 17, 2013 15:32
+by [eustatic](/profile/eustatic) | July 17, 2013 15:32
 
-July 17, 2013 15:32 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [annagrigorjem](../tag/annagrigorjem)
+July 17, 2013 15:32 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [annagrigorjem](/tag/annagrigorjem)
 
 ----
 

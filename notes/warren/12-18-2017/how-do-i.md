@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/12-18-2017/how-do-i.md
 nid: 15393
 uid: 1
-
 cids: 23174
-
 ---
 
 # How can we detect contaminants in water samples with a DIY spectrometer using reagents?
 
-by [warren](../../../profile/warren) | December 18, 2017 12:28
+by [warren](/profile/warren) | December 18, 2017 12:28
 
-December 18, 2017 12:28 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [turbidity](../tag/turbidity), [reagents](../tag/reagents), [question:spectrometry](../tag/question:spectrometry), [colorimeter](../tag/colorimeter), [question:turbidity](../tag/question:turbidity), [question:spectrometry-challenge](../tag/question:spectrometry-challenge)
+December 18, 2017 12:28 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [turbidity](/tag/turbidity), [reagents](/tag/reagents), [question:spectrometry](/tag/question:spectrometry), [colorimeter](/tag/colorimeter), [question:turbidity](/tag/question:turbidity), [question:spectrometry-challenge](/tag/question:spectrometry-challenge)
 
 ----
 

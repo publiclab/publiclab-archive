@@ -6,14 +6,14 @@ author: liz
 path: /wiki/williamsburg.md
 nid: 10444
 uid: 7
-
+cids: 
 ---
 
 # williamsburg
 
-by [warren](../profile/warren), [liz](../profile/liz)
+by [warren](/profile/warren), [liz](/profile/liz)
 
-May 07, 2014 19:54 | Tags: [new-york-city](../tag/new-york-city), [garden](../tag/garden), [northeast](../tag/northeast), [southside](../tag/southside), [williamsburg](../tag/williamsburg), [parent:new-york-city](../tag/parent:new-york-city)
+May 07, 2014 19:54 | Tags: [new-york-city](/tag/new-york-city), [garden](/tag/garden), [northeast](/tag/northeast), [southside](/tag/southside), [williamsburg](/tag/williamsburg), [parent:new-york-city](/tag/parent:new-york-city)
 
 ----
 

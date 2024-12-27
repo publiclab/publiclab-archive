@@ -6,16 +6,14 @@ author: laurel_mire
 path: /notes/laurel_mire/02-22-2022/what-are-plausible-uses-for-reclaimed-mining-land.md
 nid: 30074
 uid: 759178
-
 cids: 29715
-
 ---
 
 # What are plausible uses for reclaimed mining land? 
 
-by [laurel_mire](../../../profile/laurel_mire) | February 22, 2022 18:07
+by [laurel_mire](/profile/laurel_mire) | February 22, 2022 18:07
 
-February 22, 2022 18:07 | Tags: [land-use](../tag/land-use), [research-curation-fellows](../tag/research-curation-fellows), [reclamation](../tag/reclamation), [mine-reclamation](../tag/mine-reclamation), [question:mine-reclamation](../tag/question:mine-reclamation), [question:reclamation](../tag/question:reclamation), [evaluating-reclamation](../tag/evaluating-reclamation), [question:evaluating-reclamation](../tag/question:evaluating-reclamation), [question:land-use](../tag/question:land-use)
+February 22, 2022 18:07 | Tags: [land-use](/tag/land-use), [research-curation-fellows](/tag/research-curation-fellows), [reclamation](/tag/reclamation), [mine-reclamation](/tag/mine-reclamation), [question:mine-reclamation](/tag/question:mine-reclamation), [question:reclamation](/tag/question:reclamation), [evaluating-reclamation](/tag/evaluating-reclamation), [question:evaluating-reclamation](/tag/question:evaluating-reclamation), [question:land-use](/tag/question:land-use)
 
 ----
 

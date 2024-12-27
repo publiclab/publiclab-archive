@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/04-28-2016/announcing-a-new-dashboard-for-publiclab-org.md
 nid: 13045
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/846/original/Screenshot_2016-04-26_at_6.46.19_PM.png)
 
 # Announcing a new dashboard for PublicLab.org
 
-by [warren](../../../profile/warren) | April 28, 2016 19:23
+by [warren](/profile/warren) | April 28, 2016 19:23
 
-April 28, 2016 19:23 | Tags: [website](../tag/website), [design](../tag/design), [web](../tag/web), [posting](../tag/posting), [developers](../tag/developers), [code](../tag/code), [wwg](../tag/wwg), [dashboard](../tag/dashboard), [ui](../tag/ui)
+April 28, 2016 19:23 | Tags: [website](/tag/website), [design](/tag/design), [web](/tag/web), [posting](/tag/posting), [developers](/tag/developers), [code](/tag/code), [wwg](/tag/wwg), [dashboard](/tag/dashboard), [ui](/tag/ui)
 
 ----
 

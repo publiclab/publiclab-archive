@@ -6,18 +6,16 @@ author: partsandcrafts
 path: /notes/partsandcrafts/02-26-2018/4-lighting-your-sample.md
 nid: 15817
 uid: 66014
-
 cids: 18818,20961
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/722/original/image10.jpg)
 
 # Lighting Your Sample
 
-by [partsandcrafts](../../../profile/partsandcrafts) | February 26, 2018 17:46
+by [partsandcrafts](/profile/partsandcrafts) | February 26, 2018 17:46
 
-February 26, 2018 17:46 | Tags: [raspberry-pi](../tag/raspberry-pi), [with:kgradow1](../tag/with:kgradow1), [with:warren](../tag/with:warren), [microscope](../tag/microscope), [activity:microscopy](../tag/activity:microscopy), [raspberry-pi-cameras](../tag/raspberry-pi-cameras), [activity:microscope](../tag/activity:microscope), [with:wmacfarl](../tag/with:wmacfarl), [with:bmela](../tag/with:bmela), [activity:basic-microscope](../tag/activity:basic-microscope), [series:basic-microscope](../tag/series:basic-microscope), [activity:community-microscope-assembly](../tag/activity:community-microscope-assembly)
+February 26, 2018 17:46 | Tags: [raspberry-pi](/tag/raspberry-pi), [with:kgradow1](/tag/with:kgradow1), [with:warren](/tag/with:warren), [microscope](/tag/microscope), [activity:microscopy](/tag/activity:microscopy), [raspberry-pi-cameras](/tag/raspberry-pi-cameras), [activity:microscope](/tag/activity:microscope), [with:wmacfarl](/tag/with:wmacfarl), [with:bmela](/tag/with:bmela), [activity:basic-microscope](/tag/activity:basic-microscope), [series:basic-microscope](/tag/series:basic-microscope), [activity:community-microscope-assembly](/tag/activity:community-microscope-assembly)
 
 ----
 

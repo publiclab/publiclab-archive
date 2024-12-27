@@ -6,18 +6,16 @@ author: thewrightjess
 path: /notes/thewrightjess/05-07-2020/job-posting-executive-director-public-lab.md
 nid: 23559
 uid: 603909
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/311/original/boots_big.png)
 
 # Job Posting: Executive Director, Public Lab
 
-by [thewrightjess](../../../profile/thewrightjess) | May 07, 2020 15:46
+by [thewrightjess](/profile/thewrightjess) | May 07, 2020 15:46
 
-May 07, 2020 15:46 | Tags: [nonprofit](../tag/nonprofit), [jobs](../tag/jobs), [director](../tag/director), [executive](../tag/executive)
+May 07, 2020 15:46 | Tags: [nonprofit](/tag/nonprofit), [jobs](/tag/jobs), [director](/tag/director), [executive](/tag/executive)
 
 ----
 

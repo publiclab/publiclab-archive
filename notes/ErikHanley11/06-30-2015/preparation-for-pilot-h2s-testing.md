@@ -6,18 +6,16 @@ author: ErikHanley11
 path: /notes/ErikHanley11/06-30-2015/preparation-for-pilot-h2s-testing.md
 nid: 12019
 uid: 444638
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/469/original/IMG_3676.JPG)
 
 # Preparation for Pilot H2S Testing
 
-by [ErikHanley11](../../../profile/ErikHanley11) | June 30, 2015 00:50
+by [ErikHanley11](/profile/ErikHanley11) | June 30, 2015 00:50
 
-June 30, 2015 00:50 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [hydrogen-sulfide-testing](../tag/hydrogen-sulfide-testing), [photo-paper](../tag/photo-paper), [h2s-photopaper](../tag/h2s-photopaper), [replication:509](../tag/replication:509), [first-time-poster](../tag/first-time-poster)
+June 30, 2015 00:50 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [hydrogen-sulfide-testing](/tag/hydrogen-sulfide-testing), [photo-paper](/tag/photo-paper), [h2s-photopaper](/tag/h2s-photopaper), [replication:509](/tag/replication:509), [first-time-poster](/tag/first-time-poster)
 
 ----
 

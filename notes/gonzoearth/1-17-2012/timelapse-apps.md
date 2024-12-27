@@ -6,16 +6,14 @@ author: gonzoearth
 path: /notes/gonzoearth/1-17-2012/timelapse-apps.md
 nid: 696
 uid: 12
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/timelapse.jpg)
 
 # Timelapse Apps
 
-by [gonzoearth](../../../profile/gonzoearth) | January 18, 2012 04:12
+by [gonzoearth](/profile/gonzoearth) | January 18, 2012 04:12
 
 January 18, 2012 04:12 | Tags: 
 

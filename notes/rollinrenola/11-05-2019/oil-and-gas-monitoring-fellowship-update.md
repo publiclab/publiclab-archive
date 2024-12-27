@@ -6,16 +6,14 @@ author: rollinrenola
 path: /notes/rollinrenola/11-05-2019/oil-and-gas-monitoring-fellowship-update.md
 nid: 21402
 uid: 618903
-
 cids: 25808
-
 ---
 
 # Oil and Gas Monitoring  Fellowship Update:
 
-by [rollinrenola](../../../profile/rollinrenola) | November 05, 2019 16:55
+by [rollinrenola](/profile/rollinrenola) | November 05, 2019 16:55
 
-November 05, 2019 16:55 | Tags: [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
+November 05, 2019 16:55 | Tags: [oil-and-gas-water-trio](/tag/oil-and-gas-water-trio)
 
 ----
 

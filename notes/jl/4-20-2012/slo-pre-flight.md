@@ -6,18 +6,16 @@ author: jl
 path: /notes/jl/4-20-2012/slo-pre-flight.md
 nid: 1716
 uid: 587
-
 cids: 631,636,660,747,750,751
-
 ---
 
 ![](https://publiclab.org/sites/default/files/2012-03-29_18-47-01_748.jpg)
 
 # SLO pre flight
 
-by [jl](../../../profile/jl) | April 20, 2012 05:18
+by [jl](/profile/jl) | April 20, 2012 05:18
 
-April 20, 2012 05:18 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [vegetation-mapping](../tag/vegetation-mapping), [vineyard](../tag/vineyard)
+April 20, 2012 05:18 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [vegetation-mapping](/tag/vegetation-mapping), [vineyard](/tag/vineyard)
 
 ----
 

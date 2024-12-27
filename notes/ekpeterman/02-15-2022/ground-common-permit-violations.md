@@ -6,18 +6,16 @@ author: ekpeterman
 path: /notes/ekpeterman/02-15-2022/ground-common-permit-violations.md
 nid: 30028
 uid: 641166
-
 cids: 29655
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/443/original/mr4-4-18.00_03_04_19.Still004.jpg)
 
 # Ground: Common Permit Violations
 
-by [ekpeterman](../../../profile/ekpeterman) | February 15, 2022 16:14
+by [ekpeterman](/profile/ekpeterman) | February 15, 2022 16:14
 
-February 15, 2022 16:14 | Tags: [coal-mining](../tag/coal-mining), [mining](../tag/mining), [regulations](../tag/regulations), [with:stevie](../tag/with:stevie), [advocacy](../tag/advocacy), [permit-violation](../tag/permit-violation), [with:junior_walk1337](../tag/with:junior_walk1337), [mmmp](../tag/mmmp), [with:jfreemanfilm](../tag/with:jfreemanfilm)
+February 15, 2022 16:14 | Tags: [coal-mining](/tag/coal-mining), [mining](/tag/mining), [regulations](/tag/regulations), [with:stevie](/tag/with:stevie), [advocacy](/tag/advocacy), [permit-violation](/tag/permit-violation), [with:junior_walk1337](/tag/with:junior_walk1337), [mmmp](/tag/mmmp), [with:jfreemanfilm](/tag/with:jfreemanfilm)
 
 ----
 

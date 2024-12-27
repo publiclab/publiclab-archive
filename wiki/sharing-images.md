@@ -6,14 +6,14 @@ author: warren
 path: /wiki/sharing-images.md
 nid: 7744
 uid: 1
-
+cids: 
 ---
 
 # Sharing Images
 
-by [warren](../profile/warren), [liz](../profile/liz)
+by [warren](/profile/warren), [liz](/profile/liz)
 
-May 20, 2013 17:50 | Tags: [needs-revision](../tag/needs-revision), [bittorrent](../tag/bittorrent), [sharing](../tag/sharing), [image-sorting](../tag/image-sorting), [redirect:14184](../tag/redirect:14184)
+May 20, 2013 17:50 | Tags: [needs-revision](/tag/needs-revision), [bittorrent](/tag/bittorrent), [sharing](/tag/sharing), [image-sorting](/tag/image-sorting), [redirect:14184](/tag/redirect:14184)
 
 ----
 

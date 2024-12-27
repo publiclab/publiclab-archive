@@ -6,18 +6,16 @@ author: wward1400
 path: /notes/wward1400/06-14-2013/infragram-tidepooling.md
 nid: 8196
 uid: 46742
-
 cids: 5262,5270,5275,5277,5288
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/503/original/OdiorneSSC_ir.JPG)
 
 # Infragram Tidepooling
 
-by [wward1400](../../../profile/wward1400) | June 14, 2013 06:09
+by [wward1400](/profile/wward1400) | June 14, 2013 06:09
 
-June 14, 2013 06:09 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [intertidal](../tag/intertidal), [coastalmonitoring](../tag/coastalmonitoring)
+June 14, 2013 06:09 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [infragram](/tag/infragram), [intertidal](/tag/intertidal), [coastalmonitoring](/tag/coastalmonitoring)
 
 ----
 

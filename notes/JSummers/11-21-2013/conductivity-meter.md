@@ -6,18 +6,16 @@ author: JSummers
 path: /notes/JSummers/11-21-2013/conductivity-meter.md
 nid: 9813
 uid: 304279
-
 cids: 7683,7685
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/282/original/ConductivityA.JPG)
 
 # Conductivity meter
 
-by [JSummers](../../../profile/JSummers) | November 21, 2013 22:28
+by [JSummers](/profile/JSummers) | November 21, 2013 22:28
 
-November 21, 2013 22:28 | Tags: [wcu](../tag/wcu), [launchpad](../tag/launchpad), [conductivity](../tag/conductivity), [activity:conductivity](../tag/activity:conductivity)
+November 21, 2013 22:28 | Tags: [wcu](/tag/wcu), [launchpad](/tag/launchpad), [conductivity](/tag/conductivity), [activity:conductivity](/tag/activity:conductivity)
 
 ----
 

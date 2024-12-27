@@ -6,18 +6,16 @@ author: a1ahna
 path: /notes/a1ahna/05-27-2022/event-messages-from-the-mississippi-student-art-exhibition.md
 nid: 30914
 uid: 518193
-
 cids: 30273,30353,30357,31002,31003,31004,31005,31158,31183,31307,31485
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/705/original/Screen_Shot_2022-05-26_at_11.14.18_PM.png)
 
 # Event: Messages from the Mississippi Student Art Exhibition
 
-by [a1ahna](../../../profile/a1ahna) | May 27, 2022 03:59
+by [a1ahna](/profile/a1ahna) | May 27, 2022 03:59
 
-May 27, 2022 03:59 | Tags: [education](../tag/education), [event](../tag/event), [water-quality](../tag/water-quality), [pollution](../tag/pollution), [water](../tag/water), [community-science](../tag/community-science), [microplastics](../tag/microplastics), [community-microscope](../tag/community-microscope), [babylegs](../tag/babylegs), [plastic](../tag/plastic), [zoom:6](../tag/zoom:6), [zoom:16](../tag/zoom:16), [student-work](../tag/student-work), [field-work](../tag/field-work), [lat:29.998428](../tag/lat:29.998428), [lon:-90.152842](../tag/lon:-90.152842), [lat:29.99842](../tag/lat:29.99842), [lon:-90.15285](../tag/lon:-90.15285)
+May 27, 2022 03:59 | Tags: [education](/tag/education), [event](/tag/event), [water-quality](/tag/water-quality), [pollution](/tag/pollution), [water](/tag/water), [community-science](/tag/community-science), [microplastics](/tag/microplastics), [community-microscope](/tag/community-microscope), [babylegs](/tag/babylegs), [plastic](/tag/plastic), [zoom:6](/tag/zoom:6), [zoom:16](/tag/zoom:16), [student-work](/tag/student-work), [field-work](/tag/field-work), [lat:29.998428](/tag/lat:29.998428), [lon:-90.152842](/tag/lon:-90.152842), [lat:29.99842](/tag/lat:29.99842), [lon:-90.15285](/tag/lon:-90.15285)
 
 ----
 

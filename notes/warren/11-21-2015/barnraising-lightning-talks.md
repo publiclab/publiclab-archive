@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/11-21-2015/barnraising-lightning-talks.md
 nid: 12431
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/904/original/cart_for_public_space_interventions_IMG_7554.JPG)
 
 # Barnraising Lightning Talks
 
-by [warren](../../../profile/warren) | November 21, 2015 21:53
+by [warren](/profile/warren) | November 21, 2015 21:53
 
-November 21, 2015 21:53 | Tags: [presentations](../tag/presentations), [barnraising](../tag/barnraising), [presentation](../tag/presentation), [barnraising-2015](../tag/barnraising-2015), [lightning-talks](../tag/lightning-talks)
+November 21, 2015 21:53 | Tags: [presentations](/tag/presentations), [barnraising](/tag/barnraising), [presentation](/tag/presentation), [barnraising-2015](/tag/barnraising-2015), [lightning-talks](/tag/lightning-talks)
 
 ----
 

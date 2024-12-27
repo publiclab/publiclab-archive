@@ -6,7 +6,7 @@ author: warren
 path: /feature/spectral-workbench-sidebar.md
 nid: 12061
 uid: 1
-
+cids: 
 ---
 
 # spectral-workbench-sidebar

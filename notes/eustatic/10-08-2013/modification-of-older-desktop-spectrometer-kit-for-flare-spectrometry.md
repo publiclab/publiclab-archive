@@ -6,18 +6,16 @@ author: eustatic
 path: /10-08-2013/modification-of-older-desktop-spectrometer-kit-for-flare-spectrometry.md
 nid: 9420
 uid: 379
-
 cids: 7157,7158,7200,7201
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/806/original/10148178135_c63ceb413f_m_spectorm.jpg)
 
 # Modification of camera position on older desktop spectrometer kit for flare spectrometry
 
-by [eustatic](../../../profile/eustatic) | October 08, 2013 16:32
+by [eustatic](/profile/eustatic) | October 08, 2013 16:32
 
-October 08, 2013 16:32 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [kits](../tag/kits), [desktop-spectrometer-assembly](../tag/desktop-spectrometer-assembly), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [chapter](../tag/chapter), [flare](../tag/flare), [modifications](../tag/modifications), [barnraising-2013](../tag/barnraising-2013)
+October 08, 2013 16:32 | Tags: [gulf-coast](/tag/gulf-coast), [spectrometer](/tag/spectrometer), [kits](/tag/kits), [desktop-spectrometer-assembly](/tag/desktop-spectrometer-assembly), [desktop-spectrometry-kit](/tag/desktop-spectrometry-kit), [chapter](/tag/chapter), [flare](/tag/flare), [modifications](/tag/modifications), [barnraising-2013](/tag/barnraising-2013)
 
 ----
 

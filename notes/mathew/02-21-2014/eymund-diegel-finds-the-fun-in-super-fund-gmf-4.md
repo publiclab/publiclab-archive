@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/02-21-2014/eymund-diegel-finds-the-fun-in-super-fund-gmf-4.md
 nid: 10052
 uid: 4
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/972/original/SaltLot.jpg)
 
 # Eymund Diegel Finds the Fun in Super Fund (GMF #4)
 
-by [mathew](../../../profile/mathew) | February 21, 2014 00:20
+by [mathew](/profile/mathew) | February 21, 2014 00:20
 
-February 21, 2014 00:20 | Tags: [new-york-city](../tag/new-york-city), [gmf](../tag/gmf), [gowanus-canal](../tag/gowanus-canal), [brooklyn](../tag/brooklyn), [interview](../tag/interview), [northeast](../tag/northeast)
+February 21, 2014 00:20 | Tags: [new-york-city](/tag/new-york-city), [gmf](/tag/gmf), [gowanus-canal](/tag/gowanus-canal), [brooklyn](/tag/brooklyn), [interview](/tag/interview), [northeast](/tag/northeast)
 
 ----
 

@@ -6,18 +6,16 @@ author: ajawitz
 path: /notes/code4maine/05-06-2014/simple-weather-alert-web-app-for-grassroots-mappers.md
 nid: 10427
 uid: 294634
-
 cids: 8989,8990
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/061/original/Forecast_-_Google_Chrome_002.png)
 
 # Simple Weather-Alert Web App for Grassroots Mappers?
 
-by [ajawitz](../../../profile/ajawitz) | May 06, 2014 01:29
+by [ajawitz](/profile/ajawitz) | May 06, 2014 01:29
 
-May 06, 2014 01:29 | Tags: [mapping](../tag/mapping), [grassroots](../tag/grassroots), [weather](../tag/weather), [webapp](../tag/webapp), [forecast](../tag/forecast)
+May 06, 2014 01:29 | Tags: [mapping](/tag/mapping), [grassroots](/tag/grassroots), [weather](/tag/weather), [webapp](/tag/webapp), [forecast](/tag/forecast)
 
 ----
 

@@ -6,18 +6,16 @@ author: nicholas
 path: /notes/nicholas/07-08-2015/measuring-particulate-matter-with-the-girl-scouts.md
 nid: 12041
 uid: 53894
-
 cids: 12132,12140,12146
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/579/original/IMG_0354.jpg)
 
 # Measuring Particulate Matter with the Girl Scouts
 
-by [nicholas](../../../profile/nicholas) | July 08, 2015 20:42
+by [nicholas](/profile/nicholas) | July 08, 2015 20:42
 
-July 08, 2015 20:42 | Tags: [air-quality](../tag/air-quality), [blog](../tag/blog), [dust](../tag/dust), [barnstar:basic](../tag/barnstar:basic), [air-sensors](../tag/air-sensors)
+July 08, 2015 20:42 | Tags: [air-quality](/tag/air-quality), [blog](/tag/blog), [dust](/tag/dust), [barnstar:basic](/tag/barnstar:basic), [air-sensors](/tag/air-sensors)
 
 ----
 

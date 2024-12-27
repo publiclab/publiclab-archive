@@ -6,18 +6,16 @@ author: asac177
 path: /notes/asac177/05-03-2015/ucsb-campus-point.md
 nid: 11781
 uid: 440398
-
 cids: 11678,11681
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/743/original/IMG_1212.JPG)
 
 # UCSB Campus Point
 
-by [asac177](../../../profile/asac177) | May 03, 2015 22:55
+by [asac177](/profile/asac177) | May 03, 2015 22:55
 
-May 03, 2015 22:55 | Tags: [first-time-poster](../tag/first-time-poster)
+May 03, 2015 22:55 | Tags: [first-time-poster](/tag/first-time-poster)
 
 ----
 

@@ -6,14 +6,14 @@ author: mathew
 path: /wiki/pm.md
 nid: 12579
 uid: 4
-
+cids: 
 ---
 
 # Introduction to Particulate Matter
 
-by [stevie](../profile/stevie), [liz](../profile/liz), [gretchengehrke](../profile/gretchengehrke), [mathew](../profile/mathew)
+by [stevie](/profile/stevie), [liz](/profile/liz), [gretchengehrke](/profile/gretchengehrke), [mathew](/profile/mathew)
 
-January 12, 2016 21:44 | Tags: [dust](../tag/dust), [particulates](../tag/particulates), [pm](../tag/pm), [air-sensing](../tag/air-sensing), [particulate-matter](../tag/particulate-matter), [parent:air-quality](../tag/parent:air-quality)
+January 12, 2016 21:44 | Tags: [dust](/tag/dust), [particulates](/tag/particulates), [pm](/tag/pm), [air-sensing](/tag/air-sensing), [particulate-matter](/tag/particulate-matter), [parent:air-quality](/tag/parent:air-quality)
 
 ----
 
@@ -41,10 +41,10 @@ In depth:
  _________________________________
 
 ###Questions
-[pm](../../tag/question:pm)
+[pm](/tag/question:pm)
 
 ###Notes
-[pm](../../tag/pm)
+[pm](/tag/pm)
 
 ###Background Information
 Particulate Matter (PM) is airborne dust and particle pollution that settles onto surfaces and into lungs. As a [regulated pollutant PM](/wiki/pm-monitoring-regulations) is shorthand for inhalable and respirable particulate matter, or [particulate matter that can stick in the lungs.](https://publiclab.org/wiki/pm#Respirable+Particles)

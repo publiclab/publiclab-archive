@@ -6,18 +6,16 @@ author: mlamadrid
 path: /notes/mlamadrid/06-29-2014/la-river-balloon-mapping-for-community-building.md
 nid: 10631
 uid: 45586
-
 cids: 11376,11378
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/025/original/MVI_0124_07512.jpg)
 
 # LA River: balloon mapping for community building
 
-by [mlamadrid](../../../profile/mlamadrid) | June 29, 2014 20:30
+by [mlamadrid](/profile/mlamadrid) | June 29, 2014 20:30
 
-June 29, 2014 20:30 | Tags: [balloon-mapping](../tag/balloon-mapping), [los-angeles](../tag/los-angeles), [la](../tag/la), [nela](../tag/nela), [elysian-valley](../tag/elysian-valley), [community-building](../tag/community-building)
+June 29, 2014 20:30 | Tags: [balloon-mapping](/tag/balloon-mapping), [los-angeles](/tag/los-angeles), [la](/tag/la), [nela](/tag/nela), [elysian-valley](/tag/elysian-valley), [community-building](/tag/community-building)
 
 ----
 

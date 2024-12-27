@@ -6,18 +6,16 @@ author: thalamka
 path: /notes/thalamka/09-11-2014/barataria-low-altitude-balloon-mapping.md
 nid: 11129
 uid: 428238
-
 cids: 10310,10315,10927
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/743/original/bm1-barataria-2014.jpg)
 
 # Barataria Low Altitude Balloon Mapping
 
-by [thalamka](../../../profile/thalamka) | September 11, 2014 19:21
+by [thalamka](/profile/thalamka) | September 11, 2014 19:21
 
-September 11, 2014 19:21 | Tags: [gulf-coast](../tag/gulf-coast), [barataria-bay](../tag/barataria-bay), [mapknitter](../tag/mapknitter), [barataria](../tag/barataria), [washustlouis](../tag/washustlouis), [washu-stlouis](../tag/washu-stlouis), [bird](../tag/bird)
+September 11, 2014 19:21 | Tags: [gulf-coast](/tag/gulf-coast), [barataria-bay](/tag/barataria-bay), [mapknitter](/tag/mapknitter), [barataria](/tag/barataria), [washustlouis](/tag/washustlouis), [washu-stlouis](/tag/washu-stlouis), [bird](/tag/bird)
 
 ----
 

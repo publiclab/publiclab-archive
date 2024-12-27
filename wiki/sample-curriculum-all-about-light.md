@@ -6,12 +6,12 @@ author: kgradow1
 path: /wiki/sample-curriculum-all-about-light.md
 nid: 9411
 uid: 297929
-
+cids: 
 ---
 
 # Sample curriculum:  All about light
 
-by [kgradow1](../profile/kgradow1)
+by [kgradow1](/profile/kgradow1)
 
 October 06, 2013 20:14 | Tags: 
 

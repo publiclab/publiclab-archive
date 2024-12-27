@@ -6,14 +6,14 @@ author: wmacfarl
 path: /wiki/simple-water-sensor-platform.md
 nid: 22362
 uid: 424597
-
+cids: 
 ---
 
 # Simple Water Sensor Platform
 
-by [wmacfarl](../profile/wmacfarl)
+by [wmacfarl](/profile/wmacfarl)
 
-January 21, 2020 17:36 | Tags: [arduino](../tag/arduino), [water-sensing](../tag/water-sensing), [water-quality-mapping](../tag/water-quality-mapping), [water-quality-monitoring](../tag/water-quality-monitoring), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [method](../tag/method), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [simple-water-sensor-platform](../tag/simple-water-sensor-platform)
+January 21, 2020 17:36 | Tags: [arduino](/tag/arduino), [water-sensing](/tag/water-sensing), [water-quality-mapping](/tag/water-quality-mapping), [water-quality-monitoring](/tag/water-quality-monitoring), [sensors](/tag/sensors), [water-quality](/tag/water-quality), [method](/tag/method), [oil-and-gas-water-trio](/tag/oil-and-gas-water-trio), [simple-water-sensor-platform](/tag/simple-water-sensor-platform)
 
 ----
 
@@ -138,7 +138,7 @@ We also want to research and document procedures to help people collect data in 
 - Are any of the sensors a good candidate for long-term, continuous use?  If so, should we create another hardware+software+enclosure design for long-term data-logging?
 
 ### Other Methods/Activities
-[simple-water-sensor-platform](../../tag/activity:simple-water-sensor-platform)
+[simple-water-sensor-platform](/tag/activity:simple-water-sensor-platform)
 
 ### Other Questions
-[simple-water-sensor-platform](../../tag/question:simple-water-sensor-platform)
+[simple-water-sensor-platform](/tag/question:simple-water-sensor-platform)

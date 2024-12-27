@@ -6,14 +6,14 @@ author: liz
 path: /wiki/nasa-connections.md
 nid: 7493
 uid: 7
-
+cids: 
 ---
 
 # NASA connections
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-May 13, 2013 15:38 | Tags: [nasa](../tag/nasa), [partnerships](../tag/partnerships)
+May 13, 2013 15:38 | Tags: [nasa](/tag/nasa), [partnerships](/tag/partnerships)
 
 ----
 

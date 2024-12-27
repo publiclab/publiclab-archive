@@ -6,14 +6,14 @@ author: amandaf
 path: /wiki/infragram-curriculum.md
 nid: 11025
 uid: 426589
-
+cids: 
 ---
 
 # Infragram Curriculum
 
-by [liz](../profile/liz), [mollydanielsson](../profile/mollydanielsson), [amandaf](../profile/amandaf), [mathew](../profile/mathew)
+by [liz](/profile/liz), [mollydanielsson](/profile/mollydanielsson), [amandaf](/profile/amandaf), [mathew](/profile/mathew)
 
-August 09, 2014 00:13 | Tags: [education](../tag/education), [curriculum](../tag/curriculum), [infragram](../tag/infragram)
+August 09, 2014 00:13 | Tags: [education](/tag/education), [curriculum](/tag/curriculum), [infragram](/tag/infragram)
 
 ----
 

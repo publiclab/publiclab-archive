@@ -6,18 +6,16 @@ author: patricktorphy
 path: /notes/patricktorphy/02-24-2016/sensor-journalism-accomplishments-pitfalls-and-the-future.md
 nid: 12745
 uid: 461515
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/565/original/Oliver_Munday_Illustration_for_Foreign_Policy_magazine_article_by_William_T._Vollmann.jpg)
 
 # Sensor Journalism: Accomplishments, Pitfalls, and The Future 
 
-by [patricktorphy](../../../profile/patricktorphy) | February 24, 2016 19:01
+by [patricktorphy](/profile/patricktorphy) | February 24, 2016 19:01
 
-February 24, 2016 19:01 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
+February 24, 2016 19:01 | Tags: [sensor-journalism](/tag/sensor-journalism), [response:12748](/tag/response:12748), [hidden:response](/tag/hidden:response)
 
 ----
 

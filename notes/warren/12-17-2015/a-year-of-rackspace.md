@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/12-17-2015/a-year-of-rackspace.md
 nid: 12529
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/392/original/Screenshot_2015-12-17_at_10.43.53_AM.png)
 
 # A year of Rackspace
 
-by [warren](../../../profile/warren) | December 17, 2015 16:16
+by [warren](/profile/warren) | December 17, 2015 16:16
 
-December 17, 2015 16:16 | Tags: [server](../tag/server), [rackspace](../tag/rackspace), [wwg](../tag/wwg), [hosting](../tag/hosting)
+December 17, 2015 16:16 | Tags: [server](/tag/server), [rackspace](/tag/rackspace), [wwg](/tag/wwg), [hosting](/tag/hosting)
 
 ----
 

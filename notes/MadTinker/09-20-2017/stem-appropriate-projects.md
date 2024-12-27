@@ -6,16 +6,14 @@ author: MadTinker
 path: /notes/MadTinker/09-20-2017/stem-appropriate-projects.md
 nid: 14926
 uid: 461206
-
 cids: 17423,22623
-
 ---
 
 # STEM appropriate projects?
 
-by [MadTinker](../../../profile/MadTinker) | September 20, 2017 22:23
+by [MadTinker](/profile/MadTinker) | September 20, 2017 22:23
 
-September 20, 2017 22:23 | Tags: [question:general](../tag/question:general)
+September 20, 2017 22:23 | Tags: [question:general](/tag/question:general)
 
 ----
 

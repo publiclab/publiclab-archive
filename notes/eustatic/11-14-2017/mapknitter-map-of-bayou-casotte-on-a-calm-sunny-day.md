@@ -6,18 +6,16 @@ author: eustatic
 path: /11-14-2017/mapknitter-map-of-bayou-casotte-on-a-calm-sunny-day.md
 nid: 15182
 uid: 379
-
 cids: 17678,17680,17712,17730
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/408/original/casotte.jpg)
 
 # MapKnitter map of Bayou Casotte on a calm, sunny day
 
-by [eustatic](../../../profile/eustatic) | November 14, 2017 07:25
+by [eustatic](/profile/eustatic) | November 14, 2017 07:25
 
-November 14, 2017 07:25 | Tags: [gulf-coast](../tag/gulf-coast), [mapknitter](../tag/mapknitter), [mississippi](../tag/mississippi), [gulf-restoration-network](../tag/gulf-restoration-network), [water](../tag/water), [lat:30.3548447](../tag/lat:30.3548447), [lon:-88.5125205](../tag/lon:-88.5125205), [pascagoula](../tag/pascagoula)
+November 14, 2017 07:25 | Tags: [gulf-coast](/tag/gulf-coast), [mapknitter](/tag/mapknitter), [mississippi](/tag/mississippi), [gulf-restoration-network](/tag/gulf-restoration-network), [water](/tag/water), [lat:30.3548447](/tag/lat:30.3548447), [lon:-88.5125205](/tag/lon:-88.5125205), [pascagoula](/tag/pascagoula)
 
 ----
 

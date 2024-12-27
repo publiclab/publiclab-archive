@@ -6,14 +6,12 @@ author: Shannon
 path: /notes/shannon/6-24-2012/article-opening-science.md
 nid: 2620
 uid: 9
-
 cids: 
-
 ---
 
 # Article on opening science
 
-by [Shannon](../../../profile/Shannon) | June 24, 2012 13:23
+by [Shannon](/profile/Shannon) | June 24, 2012 13:23
 
 June 24, 2012 13:23 | Tags: 
 

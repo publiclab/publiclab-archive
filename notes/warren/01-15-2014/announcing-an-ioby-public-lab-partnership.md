@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/01-15-2014/announcing-an-ioby-public-lab-partnership.md
 nid: 9945
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/556/original/ioby-publiclab.png)
 
 # Announcing an ioby + Public Lab partnership
 
-by [warren](../../../profile/warren) | January 15, 2014 16:21
+by [warren](/profile/warren) | January 15, 2014 16:21
 
-January 15, 2014 16:21 | Tags: [gulf-coast](../tag/gulf-coast), [refinery](../tag/refinery), [crowdfunding](../tag/crowdfunding), [flare](../tag/flare), [ioby](../tag/ioby), [local-projects](../tag/local-projects)
+January 15, 2014 16:21 | Tags: [gulf-coast](/tag/gulf-coast), [refinery](/tag/refinery), [crowdfunding](/tag/crowdfunding), [flare](/tag/flare), [ioby](/tag/ioby), [local-projects](/tag/local-projects)
 
 ----
 

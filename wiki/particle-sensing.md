@@ -6,16 +6,16 @@ author: mathew
 path: /wiki/particle-sensing.md
 nid: 10319
 uid: 4
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/085/original/image_update_bae2aa1c35154fe2_1371830589_9j-4aaqsk.jpeg)
 
 # Particle Sensing
 
-by [warren](../profile/warren), [liz](../profile/liz), [DavidMack](../profile/DavidMack), [mathew](../profile/mathew), [JSummers](../profile/JSummers), [amysoyka](../profile/amysoyka)
+by [warren](/profile/warren), [liz](/profile/liz), [DavidMack](/profile/DavidMack), [mathew](/profile/mathew), [JSummers](/profile/JSummers), [amysoyka](/profile/amysoyka)
 
-April 16, 2014 02:40 | Tags: [indoor-air-quality-mapping](../tag/indoor-air-quality-mapping), [particulate-sensing](../tag/particulate-sensing), [agriculture](../tag/agriculture), [air-quality](../tag/air-quality), [fracking](../tag/fracking), [tool](../tag/tool), [dust](../tag/dust), [particulates](../tag/particulates), [particulate](../tag/particulate), [pm](../tag/pm), [method](../tag/method), [oil-and-gas](../tag/oil-and-gas), [parent:air-quality](../tag/parent:air-quality), [particulate-sensing-overview](../tag/particulate-sensing-overview), [questions:dust-sampling](../tag/questions:dust-sampling)
+April 16, 2014 02:40 | Tags: [indoor-air-quality-mapping](/tag/indoor-air-quality-mapping), [particulate-sensing](/tag/particulate-sensing), [agriculture](/tag/agriculture), [air-quality](/tag/air-quality), [fracking](/tag/fracking), [tool](/tag/tool), [dust](/tag/dust), [particulates](/tag/particulates), [particulate](/tag/particulate), [pm](/tag/pm), [method](/tag/method), [oil-and-gas](/tag/oil-and-gas), [parent:air-quality](/tag/parent:air-quality), [particulate-sensing-overview](/tag/particulate-sensing-overview), [questions:dust-sampling](/tag/questions:dust-sampling)
 
 ----
 
@@ -75,13 +75,13 @@ Most electronic sensors are essentially a light that gets interrupted by a parti
 
 See more about air quality sensors on the [Air Sensors page](/air-sensors). There are several sensors available for particle sensing; see more in the questions below:
 
-[air-sensors](../../tag/question:air-sensors)
+[air-sensors](/tag/question:air-sensors)
 
 ****
 
 ## Dust sampling
 
-[dust-sampling](../../tag/question:dust-sampling)
+[dust-sampling](/tag/question:dust-sampling)
 
 ### Sticky Pads
 

@@ -6,18 +6,16 @@ author: amandamalone
 path: /notes/amandamalone/05-12-2016/public-lab-river-rat-pack-st-louis-amanda-malone.md
 nid: 13109
 uid: 465991
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/129/original/IMG_1432.JPG)
 
 # Public Lab River Rat Pack -- St. Louis -- Amanda Malone
 
-by [amandamalone](../../../profile/amandamalone) | May 12, 2016 15:24
+by [amandamalone](/profile/amandamalone) | May 12, 2016 15:24
 
-May 12, 2016 15:24 | Tags: [mid-west](../tag/mid-west), [missouri](../tag/missouri), [publiclabriverratpack](../tag/publiclabriverratpack), [stlouis](../tag/stlouis)
+May 12, 2016 15:24 | Tags: [mid-west](/tag/mid-west), [missouri](/tag/missouri), [publiclabriverratpack](/tag/publiclabriverratpack), [stlouis](/tag/stlouis)
 
 ----
 

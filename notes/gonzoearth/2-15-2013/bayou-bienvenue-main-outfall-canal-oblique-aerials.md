@@ -6,18 +6,16 @@ author: gonzoearth
 path: /notes/gonzoearth/2-15-2013/bayou-bienvenue-main-outfall-canal-oblique-aerials.md
 nid: 6003
 uid: 12
-
 cids: 3430,3431
-
 ---
 
 ![](https://publiclab.org/sites/default/files/2013-01-17-louisiana-bayou-bienvenue-oblique-main-outfall-canal-east.jpg)
 
 # Bayou Bienvenue Main Outfall Canal Oblique Aerials
 
-by [gonzoearth](../../../profile/gonzoearth) | February 15, 2013 18:29
+by [gonzoearth](/profile/gonzoearth) | February 15, 2013 18:29
 
-February 15, 2013 18:29 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [bienvenue](../tag/bienvenue)
+February 15, 2013 18:29 | Tags: [gulf-coast](/tag/gulf-coast), [kite-mapping](/tag/kite-mapping), [bienvenue](/tag/bienvenue)
 
 ----
 

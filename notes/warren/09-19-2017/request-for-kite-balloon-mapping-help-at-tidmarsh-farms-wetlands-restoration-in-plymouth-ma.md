@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/09-19-2017/request-for-kite-balloon-mapping-help-at-tidmarsh-farms-wetlands-restoration-in-plymouth-ma.md
 nid: 14909
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/707/original/IMG_0209.JPG)
 
 # Request for kite/balloon mapping help at Tidmarsh Farms wetlands restoration in Plymouth MA
 
-by [warren](../../../profile/warren) | September 19, 2017 17:58
+by [warren](/profile/warren) | September 19, 2017 17:58
 
-September 19, 2017 17:58 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [restoration](../tag/restoration), [event](../tag/event), [massachusetts](../tag/massachusetts), [plymouth](../tag/plymouth), [tidmarsh](../tag/tidmarsh), [request:aerial-photography](../tag/request:aerial-photography), [mapping-requests](../tag/mapping-requests), [wetlands-restoration](../tag/wetlands-restoration), [requests](../tag/requests)
+September 19, 2017 17:58 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [wetlands](/tag/wetlands), [restoration](/tag/restoration), [event](/tag/event), [massachusetts](/tag/massachusetts), [plymouth](/tag/plymouth), [tidmarsh](/tag/tidmarsh), [request:aerial-photography](/tag/request:aerial-photography), [mapping-requests](/tag/mapping-requests), [wetlands-restoration](/tag/wetlands-restoration), [requests](/tag/requests)
 
 ----
 

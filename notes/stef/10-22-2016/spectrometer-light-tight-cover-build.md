@@ -6,18 +6,16 @@ author: stef
 path: /notes/stef/10-22-2016/spectrometer-light-tight-cover-build.md
 nid: 13639
 uid: 482758
-
 cids: 15722,15723,15734
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/538/original/IMGP1626.JPG)
 
 # Spectrometer Light Tight Cover Build
 
-by [stef](../../../profile/stef) | October 22, 2016 15:20
+by [stef](/profile/stef) | October 22, 2016 15:20
 
-October 22, 2016 15:20 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [modification](../tag/modification), [time:30m](../tag/time:30m), [difficulty:easy](../tag/difficulty:easy), [upgrade:spectrometry](../tag/upgrade:spectrometry), [upgrade:dssk](../tag/upgrade:dssk), [category:build](../tag/category:build), [cover](../tag/cover)
+October 22, 2016 15:20 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [modification](/tag/modification), [time:30m](/tag/time:30m), [difficulty:easy](/tag/difficulty:easy), [upgrade:spectrometry](/tag/upgrade:spectrometry), [upgrade:dssk](/tag/upgrade:dssk), [category:build](/tag/category:build), [cover](/tag/cover)
 
 ----
 

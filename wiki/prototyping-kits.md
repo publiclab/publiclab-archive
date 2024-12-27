@@ -6,16 +6,16 @@ author: warren
 path: /wiki/prototyping-kits.md
 nid: 14721
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/826/original/Screen_Shot_2017-11-22_at_2.13.38_PM.png)
 
 # Prototyping Kits
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-August 04, 2017 18:53 | Tags: [kits](../tag/kits), [parent:kits](../tag/parent:kits), [kits-initiative](../tag/kits-initiative), [prototyping](../tag/prototyping), [prototyping-kits](../tag/prototyping-kits)
+August 04, 2017 18:53 | Tags: [kits](/tag/kits), [parent:kits](/tag/parent:kits), [kits-initiative](/tag/kits-initiative), [prototyping](/tag/prototyping), [prototyping-kits](/tag/prototyping-kits)
 
 ----
 
@@ -34,4 +34,4 @@ The [Mini Balloon Kit](/wiki/mini-balloon-kit) and [Mini Kite Kit](/wiki/mini-ki
 
 ## Questions
 
-[prototyping-kits](../../tag/question:prototyping-kits)
+[prototyping-kits](/tag/question:prototyping-kits)

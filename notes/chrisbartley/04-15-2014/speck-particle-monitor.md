@@ -6,18 +6,16 @@ author: chrisbartley
 path: /notes/chrisbartley/04-15-2014/speck-particle-monitor.md
 nid: 10316
 uid: 422225
-
 cids: 8785,8797,8800,8803,8814,8815,8816,8831,8842,8844,9200,9615,11946,12914,12915,16857
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/680/original/speck.jpg)
 
 # Speck particle monitor
 
-by [chrisbartley](../../../profile/chrisbartley) | April 15, 2014 21:23
+by [chrisbartley](/profile/chrisbartley) | April 15, 2014 21:23
 
-April 15, 2014 21:23 | Tags: [indoor-air-quality-mapping](../tag/indoor-air-quality-mapping), [particulate-sensing](../tag/particulate-sensing), [pittsburgh](../tag/pittsburgh), [cmu](../tag/cmu), [air-quality](../tag/air-quality), [visualization](../tag/visualization), [dust](../tag/dust), [optical-sensor](../tag/optical-sensor), [particulate](../tag/particulate), [speck](../tag/speck), [pennsylvania](../tag/pennsylvania), [air-sensors](../tag/air-sensors)
+April 15, 2014 21:23 | Tags: [indoor-air-quality-mapping](/tag/indoor-air-quality-mapping), [particulate-sensing](/tag/particulate-sensing), [pittsburgh](/tag/pittsburgh), [cmu](/tag/cmu), [air-quality](/tag/air-quality), [visualization](/tag/visualization), [dust](/tag/dust), [optical-sensor](/tag/optical-sensor), [particulate](/tag/particulate), [speck](/tag/speck), [pennsylvania](/tag/pennsylvania), [air-sensors](/tag/air-sensors)
 
 ----
 

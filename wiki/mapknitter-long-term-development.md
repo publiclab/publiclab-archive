@@ -6,14 +6,14 @@ author: justinmanley
 path: /wiki/mapknitter-long-term-development.md
 nid: 11164
 uid: 421556
-
+cids: 
 ---
 
 # MapKnitter Long-Term Development
 
-by [justinmanley](../profile/justinmanley)
+by [justinmanley](/profile/justinmanley)
 
-September 19, 2014 19:31 | Tags: [mapknitter](../tag/mapknitter), [developers](../tag/developers), [coding](../tag/coding), [mapknitter-development](../tag/mapknitter-development), [parent:mapknitter](../tag/parent:mapknitter)
+September 19, 2014 19:31 | Tags: [mapknitter](/tag/mapknitter), [developers](/tag/developers), [coding](/tag/coding), [mapknitter-development](/tag/mapknitter-development), [parent:mapknitter](/tag/parent:mapknitter)
 
 ----
 

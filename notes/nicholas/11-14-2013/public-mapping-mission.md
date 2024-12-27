@@ -6,18 +6,16 @@ author: nicholas
 path: /notes/nicholas/11-14-2013/public-mapping-mission.md
 nid: 9779
 uid: 53894
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/210/original/publicMapping_2.png)
 
 # Public Mapping Mission
 
-by [nicholas](../../../profile/nicholas) | November 14, 2013 20:02
+by [nicholas](/profile/nicholas) | November 14, 2013 20:02
 
-November 14, 2013 20:02 | Tags: [new-york-city](../tag/new-york-city), [education](../tag/education), [events](../tag/events), [event](../tag/event), [events:new-york-city](../tag/events:new-york-city), [replication:14022](../tag/replication:14022)
+November 14, 2013 20:02 | Tags: [new-york-city](/tag/new-york-city), [education](/tag/education), [events](/tag/events), [event](/tag/event), [events:new-york-city](/tag/events:new-york-city), [replication:14022](/tag/replication:14022)
 
 ----
 

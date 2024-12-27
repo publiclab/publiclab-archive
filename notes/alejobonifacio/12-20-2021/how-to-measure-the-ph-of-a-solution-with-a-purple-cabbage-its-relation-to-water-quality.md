@@ -6,18 +6,16 @@ author: alejobonifacio
 path: /notes/alejobonifacio/12-20-2021/how-to-measure-the-ph-of-a-solution-with-a-purple-cabbage-its-relation-to-water-quality.md
 nid: 28512
 uid: 639376
-
 cids: 29536,29594,29596,29609,29610,29612,29635,29639,29640,29641,29642,29645,29646,31113,31315,31326
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/269/original/Purple_cabagge_activity.png)
 
 # How to measure the pH of a solution with a purple cabbage? Its relation to water quality
 
-by [alejobonifacio](../../../profile/alejobonifacio) | December 20, 2021 13:50
+by [alejobonifacio](/profile/alejobonifacio) | December 20, 2021 13:50
 
-December 20, 2021 13:50 | Tags: [education](../tag/education), [classroom](../tag/classroom), [water-quality](../tag/water-quality), [open-water](../tag/open-water), [new](../tag/new), [ph](../tag/ph), [activity:education](../tag/activity:education), [activity:water-quality](../tag/activity:water-quality), [activity:classroom](../tag/activity:classroom), [activity:ph](../tag/activity:ph), [activity:new](../tag/activity:new), [lat:-30](../tag/lat:-30), [zoom:6](../tag/zoom:6), [zoom:11](../tag/zoom:11), [research-curation-fellows](../tag/research-curation-fellows), [lon:-63](../tag/lon:-63), [lon:-64.2](../tag/lon:-64.2), [lat:-31.2](../tag/lat:-31.2)
+December 20, 2021 13:50 | Tags: [education](/tag/education), [classroom](/tag/classroom), [water-quality](/tag/water-quality), [open-water](/tag/open-water), [new](/tag/new), [ph](/tag/ph), [activity:education](/tag/activity:education), [activity:water-quality](/tag/activity:water-quality), [activity:classroom](/tag/activity:classroom), [activity:ph](/tag/activity:ph), [activity:new](/tag/activity:new), [lat:-30](/tag/lat:-30), [zoom:6](/tag/zoom:6), [zoom:11](/tag/zoom:11), [research-curation-fellows](/tag/research-curation-fellows), [lon:-63](/tag/lon:-63), [lon:-64.2](/tag/lon:-64.2), [lat:-31.2](/tag/lat:-31.2)
 
 ----
 

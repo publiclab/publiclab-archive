@@ -6,16 +6,14 @@ author: jarrarte
 path: /notes/jarrarte/08-06-2014/using-the-infragram-webcam-in-linux.md
 nid: 11017
 uid: 425714
-
 cids: 9780,9781
-
 ---
 
 # Using the infragram webcam in Linux
 
-by [jarrarte](../../../profile/jarrarte) | August 06, 2014 14:19
+by [jarrarte](/profile/jarrarte) | August 06, 2014 14:19
 
-August 06, 2014 14:19 | Tags: [webcam](../tag/webcam), [infragram](../tag/infragram), [linux](../tag/linux), [v4l2](../tag/v4l2), [uvc](../tag/uvc), [first-time-poster](../tag/first-time-poster)
+August 06, 2014 14:19 | Tags: [webcam](/tag/webcam), [infragram](/tag/infragram), [linux](/tag/linux), [v4l2](/tag/v4l2), [uvc](/tag/uvc), [first-time-poster](/tag/first-time-poster)
 
 ----
 

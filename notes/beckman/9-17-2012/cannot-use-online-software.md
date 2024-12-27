@@ -6,16 +6,14 @@ author: beckman
 path: /notes/beckman/9-17-2012/cannot-use-online-software.md
 nid: 3855
 uid: 42932
-
 cids: 1356
-
 ---
 
 # cannot use online software
 
-by [beckman](../../../profile/beckman) | September 18, 2012 03:48
+by [beckman](/profile/beckman) | September 18, 2012 03:48
 
-September 18, 2012 03:48 | Tags: [bugs](../tag/bugs)
+September 18, 2012 03:48 | Tags: [bugs](/tag/bugs)
 
 ----
 

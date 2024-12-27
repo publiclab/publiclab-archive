@@ -6,18 +6,16 @@ author: jkew
 path: /notes/jkew/01-07-2018/software-for-calibrating-and-reading-spectrometer-from-usb-camera.md
 nid: 15470
 uid: 521009
-
 cids: 18119,18132,18137,18151,18155
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/119/original/spec-example.png)
 
 # Software for Calibrating and Reading Spectrometer from USB Camera
 
-by [jkew](../../../profile/jkew) | January 07, 2018 08:29
+by [jkew](/profile/jkew) | January 07, 2018 08:29
 
-January 07, 2018 08:29 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [spectral-analysis](../tag/spectral-analysis)
+January 07, 2018 08:29 | Tags: [spectrometer](/tag/spectrometer), [calibration](/tag/calibration), [spectral-analysis](/tag/spectral-analysis)
 
 ----
 

@@ -6,16 +6,16 @@ author: rjstatic
 path: /wiki/open-pipe-kit.md
 nid: 11314
 uid: 174
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/042/original/2c6e4117.opk-steps-1.png)
 
 # Open Pipe Kit
 
-by [rjstatic](../profile/rjstatic), [warren](../profile/warren), [mathew](../profile/mathew), [donblair](../profile/donblair), [liz](../profile/liz)
+by [rjstatic](/profile/rjstatic), [warren](/profile/warren), [mathew](/profile/mathew), [donblair](/profile/donblair), [liz](/profile/liz)
 
-November 01, 2014 23:25 | Tags: [fido](../tag/fido), [open-pipe-kit](../tag/open-pipe-kit), [parent:data-logging](../tag/parent:data-logging)
+November 01, 2014 23:25 | Tags: [fido](/tag/fido), [open-pipe-kit](/tag/open-pipe-kit), [parent:data-logging](/tag/parent:data-logging)
 
 ----
 

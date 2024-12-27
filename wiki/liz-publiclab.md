@@ -6,16 +6,16 @@ author: danielrobinson
 path: /wiki/liz-publiclab.md
 nid: 13184
 uid: 478126
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/574/original/fiji_ndvi.jpg)
 
 # liz@publiclab
 
-by [danielrobinson](../profile/danielrobinson)
+by [danielrobinson](/profile/danielrobinson)
 
-June 10, 2016 11:27 | Tags: [liz](../tag/liz)
+June 10, 2016 11:27 | Tags: [liz](/tag/liz)
 
 ----
 

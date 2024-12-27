@@ -6,16 +6,14 @@ author: edie_blues
 path: /notes/edie_blues/01-07-2019/the-new-questions-page-design-is-ready-to-be-reviewed.md
 nid: 18073
 uid: 552521
-
 cids: 21872,21885,21887,21992,23359,23365,24869
-
 ---
 
 # The new Questions page design is ready to be reviewed :) 
 
-by [edie_blues](../../../profile/edie_blues) | January 07, 2019 20:37
+by [edie_blues](/profile/edie_blues) | January 07, 2019 20:37
 
-January 07, 2019 20:37 | Tags: [design](../tag/design), [ui](../tag/ui), [ui-designs](../tag/ui-designs)
+January 07, 2019 20:37 | Tags: [design](/tag/design), [ui](/tag/ui), [ui-designs](/tag/ui-designs)
 
 ----
 

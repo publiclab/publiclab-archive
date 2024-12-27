@@ -6,18 +6,16 @@ author: lperovich
 path: /notes/lperovich/08-25-2015/threshold-single-thermal-fishing-bob.md
 nid: 12170
 uid: 443410
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/276/original/IMAG3705.jpg)
 
 # Threshold single thermal fishing bob
 
-by [lperovich](../../../profile/lperovich) | August 25, 2015 22:13
+by [lperovich](/profile/lperovich) | August 25, 2015 22:13
 
-August 25, 2015 22:13 | Tags: [thermal-fishing](../tag/thermal-fishing), [water-quality](../tag/water-quality), [thermal-fishing-bob](../tag/thermal-fishing-bob), [thermal](../tag/thermal), [thermal-pollution](../tag/thermal-pollution), [heat](../tag/heat), [replication:689](../tag/replication:689)
+August 25, 2015 22:13 | Tags: [thermal-fishing](/tag/thermal-fishing), [water-quality](/tag/water-quality), [thermal-fishing-bob](/tag/thermal-fishing-bob), [thermal](/tag/thermal), [thermal-pollution](/tag/thermal-pollution), [heat](/tag/heat), [replication:689](/tag/replication:689)
 
 ----
 

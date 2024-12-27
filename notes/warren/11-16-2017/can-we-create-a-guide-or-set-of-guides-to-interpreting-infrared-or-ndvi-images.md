@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/11-16-2017/can-we-create-a-guide-or-set-of-guides-to-interpreting-infrared-or-ndvi-images.md
 nid: 15196
 uid: 1
-
 cids: 17721,17727,22730
-
 ---
 
 # Can we create a guide or set of guides to interpreting infrared or NDVI images?
 
-by [warren](../../../profile/warren) | November 16, 2017 01:23
+by [warren](/profile/warren) | November 16, 2017 01:23
 
-November 16, 2017 01:23 | Tags: [infrared](../tag/infrared), [infragram](../tag/infragram), [multispectral-analysis](../tag/multispectral-analysis), [multispectral-imaging](../tag/multispectral-imaging), [question:infragram-challenges](../tag/question:infragram-challenges), [infragram-challenges](../tag/infragram-challenges)
+November 16, 2017 01:23 | Tags: [infrared](/tag/infrared), [infragram](/tag/infragram), [multispectral-analysis](/tag/multispectral-analysis), [multispectral-imaging](/tag/multispectral-imaging), [question:infragram-challenges](/tag/question:infragram-challenges), [infragram-challenges](/tag/infragram-challenges)
 
 ----
 

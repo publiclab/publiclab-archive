@@ -6,16 +6,16 @@ author: cfastie
 path: /wiki/skypod-gps-logger.md
 nid: 14553
 uid: 554
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/823/original/SalCmSch_20170611-9585.JPG)
 
 # SkyPod GPS Logger
 
-by [cfastie](../profile/cfastie)
+by [cfastie](/profile/cfastie)
 
-June 19, 2017 15:40 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [balloon-telemetry-kit](../tag/balloon-telemetry-kit), [kap](../tag/kap), [gps](../tag/gps), [datalogger](../tag/datalogger), [skypod](../tag/skypod), [parent:data-logging](../tag/parent:data-logging), [activities:skypod-gps-logger](../tag/activities:skypod-gps-logger)
+June 19, 2017 15:40 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [kite-aerial-photography](/tag/kite-aerial-photography), [balloon-telemetry-kit](/tag/balloon-telemetry-kit), [kap](/tag/kap), [gps](/tag/gps), [datalogger](/tag/datalogger), [skypod](/tag/skypod), [parent:data-logging](/tag/parent:data-logging), [activities:skypod-gps-logger](/tag/activities:skypod-gps-logger)
 
 ----
 
@@ -55,10 +55,10 @@ A sketch which logs data from the GPS receiver and BME280 sensor is available at
 
 ### Activities
 
-[skypod-gps-logger](../../tag/activity:skypod-gps-logger)
+[skypod-gps-logger](/tag/activity:skypod-gps-logger)
 
 ### Questions
 
-[skypod-gps-logger](../../tag/question:skypod-gps-logger)
+[skypod-gps-logger](/tag/question:skypod-gps-logger)
 
 

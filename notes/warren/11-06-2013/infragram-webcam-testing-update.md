@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/11-06-2013/infragram-webcam-testing-update.md
 nid: 9738
 uid: 1
-
 cids: 7493
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/117/original/with_74_filter.JPG)
 
 # Infragram Webcam testing update
 
-by [warren](../../../profile/warren) | November 06, 2013 17:29
+by [warren](/profile/warren) | November 06, 2013 17:29
 
-November 06, 2013 17:29 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kickstarter](../tag/kickstarter), [infragram](../tag/infragram)
+November 06, 2013 17:29 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [kickstarter](/tag/kickstarter), [infragram](/tag/infragram)
 
 ----
 

@@ -6,16 +6,16 @@ author: mollydanielsson
 path: /wiki/public-lab-lesson-4-environmental-monitoring.md
 nid: 11561
 uid: 1259
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/851/original/image02.png)
 
 # Public Lab Lesson 4: Environmental Monitoring
 
-by [gretchengehrke](../profile/gretchengehrke), [mathew](../profile/mathew), [mollydanielsson](../profile/mollydanielsson)
+by [gretchengehrke](/profile/gretchengehrke), [mathew](/profile/mathew), [mollydanielsson](/profile/mollydanielsson)
 
-February 07, 2015 23:56 | Tags: [ndvi](../tag/ndvi), [photography](../tag/photography), [education](../tag/education), [lesson_plan](../tag/lesson_plan), [biology](../tag/biology), [botany](../tag/botany), [parent:wetlands-lesson-plans](../tag/parent:wetlands-lesson-plans), [activity:ndvi](../tag/activity:ndvi)
+February 07, 2015 23:56 | Tags: [ndvi](/tag/ndvi), [photography](/tag/photography), [education](/tag/education), [lesson_plan](/tag/lesson_plan), [biology](/tag/biology), [botany](/tag/botany), [parent:wetlands-lesson-plans](/tag/parent:wetlands-lesson-plans), [activity:ndvi](/tag/activity:ndvi)
 
 ----
 

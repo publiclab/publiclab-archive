@@ -6,16 +6,14 @@ author: ashwinvasudevan
 path: /notes/ashwinvasudevan/10-12-2016/mobiusactioncam-vs-s100.md
 nid: 13553
 uid: 494213
-
 cids: 15636,15645,15699,15700
-
 ---
 
 # MobiusActionCam vs S100
 
-by [ashwinvasudevan](../../../profile/ashwinvasudevan) | October 12, 2016 03:35
+by [ashwinvasudevan](/profile/ashwinvasudevan) | October 12, 2016 03:35
 
-October 12, 2016 03:35 | Tags: [infra-red](../tag/infra-red), [question:infragram](../tag/question:infragram), [hardware](../tag/hardware), [question:infrared](../tag/question:infrared), [question:multispectral-imaging](../tag/question:multispectral-imaging), [first-time-poster](../tag/first-time-poster)
+October 12, 2016 03:35 | Tags: [infra-red](/tag/infra-red), [question:infragram](/tag/question:infragram), [hardware](/tag/hardware), [question:infrared](/tag/question:infrared), [question:multispectral-imaging](/tag/question:multispectral-imaging), [first-time-poster](/tag/first-time-poster)
 
 ----
 

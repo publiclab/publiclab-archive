@@ -6,18 +6,16 @@ author: gonzoearth
 path: /notes/gonzoearth/11-14-2012/article-bay-area-automated-mapping-association-public-laboratory-map-too.md
 nid: 4907
 uid: 12
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/coverart.png)
 
 # Article: Bay Area Automated Mapping Association: "Public Laboratory Map Tools"
 
-by [gonzoearth](../../../profile/gonzoearth) | November 15, 2012 01:22
+by [gonzoearth](/profile/gonzoearth) | November 15, 2012 01:22
 
-November 15, 2012 01:22 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
+November 15, 2012 01:22 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping)
 
 ----
 

@@ -6,16 +6,16 @@ author: warren
 path: /wiki/spectral-workbench.md
 nid: 534
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/917/original/Screenshot_2015-07-30_at_11.12.17_AM.png)
 
 # Spectral Workbench
 
-by [jmacha](../profile/jmacha), [liz](../profile/liz), [warren](../profile/warren), [joyofsoy](../profile/joyofsoy), [Jaume](../profile/Jaume), [Aleksandra](../profile/Aleksandra)
+by [jmacha](/profile/jmacha), [liz](/profile/liz), [warren](/profile/warren), [joyofsoy](/profile/joyofsoy), [Jaume](/profile/Jaume), [Aleksandra](/profile/Aleksandra)
 
-November 01, 2011 16:16 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [spectrometry](../tag/spectrometry), [software](../tag/software), [spectral-workbench](../tag/spectral-workbench), [led](../tag/led), [tool](../tag/tool), [growth](../tag/growth), [method](../tag/method), [prompt:spectral-workbench](../tag/prompt:spectral-workbench), [problems](../tag/problems), [grow](../tag/grow)
+November 01, 2011 16:16 | Tags: [spectrometer](/tag/spectrometer), [spectralworkbench](/tag/spectralworkbench), [spectrometry](/tag/spectrometry), [software](/tag/software), [spectral-workbench](/tag/spectral-workbench), [led](/tag/led), [tool](/tag/tool), [growth](/tag/growth), [method](/tag/method), [prompt:spectral-workbench](/tag/prompt:spectral-workbench), [problems](/tag/problems), [grow](/tag/grow)
 
 ----
 
@@ -91,7 +91,7 @@ We really need more developers, so if you are interested, please get involved! A
 
 We're collecting and working our way through a range of questions about Spectral Workbench -- if you can contribute your own questions, or answer others', please do!
 
-[spectral-workbench](../../tag/question:spectral-workbench)
+[spectral-workbench](/tag/question:spectral-workbench)
 
 ****
 
@@ -101,4 +101,4 @@ If you feel you've encountered a bug with the software -- very possible! Please 
 
 Thanks for helping improve this open source software!
 
-[spectral-workbench-issues](../../tag/question:spectral-workbench-issues)
+[spectral-workbench-issues](/tag/question:spectral-workbench-issues)

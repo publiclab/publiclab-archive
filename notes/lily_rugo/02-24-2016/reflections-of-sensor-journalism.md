@@ -6,18 +6,16 @@ author: lily_rugo
 path: /notes/lily_rugo/02-24-2016/reflections-of-sensor-journalism.md
 nid: 12733
 uid: 461426
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/554/original/Screen_Shot_2016-02-24_at_1.24.10_AM.png)
 
 # Reflections of Sensor Journalism
 
-by [lily_rugo](../../../profile/lily_rugo) | February 24, 2016 06:28
+by [lily_rugo](/profile/lily_rugo) | February 24, 2016 06:28
 
-February 24, 2016 06:28 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
+February 24, 2016 06:28 | Tags: [sensor-journalism](/tag/sensor-journalism), [response:12748](/tag/response:12748), [hidden:response](/tag/hidden:response)
 
 ----
 

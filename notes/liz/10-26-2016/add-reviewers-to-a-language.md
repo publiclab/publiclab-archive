@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/10-26-2016/add-reviewers-to-a-language.md
 nid: 13656
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/629/original/Screen_Shot_2016-10-26_at_4.26.13_PM.png)
 
 # Add Reviewers to a language (managers)
 
-by [liz](../../../profile/liz) | October 26, 2016 20:26
+by [liz](/profile/liz) | October 26, 2016 20:26
 
-October 26, 2016 20:26 | Tags: [community](../tag/community), [website](../tag/website), [localization](../tag/localization), [translation](../tag/translation), [language](../tag/language), [activity:localization-managers](../tag/activity:localization-managers), [transifex](../tag/transifex)
+October 26, 2016 20:26 | Tags: [community](/tag/community), [website](/tag/website), [localization](/tag/localization), [translation](/tag/translation), [language](/tag/language), [activity:localization-managers](/tag/activity:localization-managers), [transifex](/tag/transifex)
 
 ----
 

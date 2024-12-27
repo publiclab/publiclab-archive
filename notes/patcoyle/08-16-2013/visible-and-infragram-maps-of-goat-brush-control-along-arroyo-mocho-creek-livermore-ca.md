@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/08-16-2013/visible-and-infragram-maps-of-goat-brush-control-along-arroyo-mocho-creek-livermore-ca.md
 nid: 9020
 uid: 77
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/166/original/IMG_7385_NDVI_Color.jpg)
 
 # Visible and Infragram maps of goat brush control along Arroyo Mocho creek, Livermore CA
 
-by [patcoyle](../../../profile/patcoyle) | August 16, 2013 06:35
+by [patcoyle](/profile/patcoyle) | August 16, 2013 06:35
 
-August 16, 2013 06:35 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [livermore](../tag/livermore), [norcal](../tag/norcal), [infragram](../tag/infragram), [goats](../tag/goats)
+August 16, 2013 06:35 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [livermore](/tag/livermore), [norcal](/tag/norcal), [infragram](/tag/infragram), [goats](/tag/goats)
 
 ----
 

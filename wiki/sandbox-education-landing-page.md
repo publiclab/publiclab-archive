@@ -6,12 +6,12 @@ author: mimiss
 path: /wiki/sandbox-education-landing-page.md
 nid: 19493
 uid: 579821
-
+cids: 
 ---
 
 # sandbox-education-landing-page
 
-by [mimiss](../profile/mimiss)
+by [mimiss](/profile/mimiss)
 
 May 22, 2019 18:14 | Tags: 
 

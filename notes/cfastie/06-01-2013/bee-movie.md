@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/06-01-2013/bee-movie.md
 nid: 7997
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/444/original/bee.jpg)
 
 # Bee Movie
 
-by [cfastie](../../../profile/cfastie) | June 01, 2013 01:26
+by [cfastie](/profile/cfastie) | June 01, 2013 01:26
 
-June 01, 2013 01:26 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infragram](../tag/infragram), [nbg](../tag/nbg), [infrablue](../tag/infrablue)
+June 01, 2013 01:26 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [nrg](/tag/nrg), [ndvi](/tag/ndvi), [vermont](/tag/vermont), [infragram](/tag/infragram), [nbg](/tag/nbg), [infrablue](/tag/infrablue)
 
 ----
 

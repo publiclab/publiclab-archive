@@ -6,16 +6,14 @@ author: sara
 path: /notes/sara/4-27-2013/interesting-idea-thermal-pollution-mapping.md
 nid: 7090
 uid: 8
-
 cids: 
-
 ---
 
 # Interesting idea for thermal pollution mapping
 
-by [sara](../../../profile/sara) | April 27, 2013 21:36
+by [sara](/profile/sara) | April 27, 2013 21:36
 
-April 27, 2013 21:36 | Tags: [thermal-imaging](../tag/thermal-imaging), [thermal-fishing](../tag/thermal-fishing)
+April 27, 2013 21:36 | Tags: [thermal-imaging](/tag/thermal-imaging), [thermal-fishing](/tag/thermal-fishing)
 
 ----
 

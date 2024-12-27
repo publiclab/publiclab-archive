@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/2-20-2011/first-thermal-photo.md
 nid: 93
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/demo.jpg)
 
 # First thermal photo
 
-by [warren](../../../profile/warren) | February 20, 2011 16:20
+by [warren](/profile/warren) | February 20, 2011 16:20
 
-February 20, 2011 16:20 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-camera](../tag/thermal-camera), [scanning](../tag/scanning)
+February 20, 2011 16:20 | Tags: [thermal-photography](/tag/thermal-photography), [thermal-camera](/tag/thermal-camera), [scanning](/tag/scanning)
 
 ----
 

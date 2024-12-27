@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/08-02-2016/last-week-in-google-summer-of-code.md
 nid: 13324
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/304/original/Screenshot_2016-08-02_at_11.25.39_AM.png)
 
 # Last week in Google Summer of Code
 
-by [warren](../../../profile/warren) | August 02, 2016 15:26
+by [warren](/profile/warren) | August 02, 2016 15:26
 
-August 02, 2016 15:26 | Tags: [website](../tag/website), [software](../tag/software), [gsoc](../tag/gsoc), [developers](../tag/developers), [coding](../tag/coding), [wwg](../tag/wwg), [gsoc-2016](../tag/gsoc-2016), [webjack](../tag/webjack), [618](../tag/618), [600](../tag/600), [628](../tag/628), [response:13311](../tag/response:13311)
+August 02, 2016 15:26 | Tags: [website](/tag/website), [software](/tag/software), [gsoc](/tag/gsoc), [developers](/tag/developers), [coding](/tag/coding), [wwg](/tag/wwg), [gsoc-2016](/tag/gsoc-2016), [webjack](/tag/webjack), [618](/tag/618), [600](/tag/600), [628](/tag/628), [response:13311](/tag/response:13311)
 
 ----
 

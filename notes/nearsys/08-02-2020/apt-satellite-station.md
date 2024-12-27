@@ -6,16 +6,14 @@ author: nearsys
 path: /notes/nearsys/08-02-2020/apt-satellite-station.md
 nid: 24253
 uid: 506331
-
 cids: 27211,27254,27258,27283,27289,27290,27293,27294,27296,27487,27488
-
 ---
 
 # APT Satellite Station
 
-by [nearsys](../../../profile/nearsys) | August 02, 2020 17:13
+by [nearsys](/profile/nearsys) | August 02, 2020 17:13
 
-August 02, 2020 17:13 | Tags: [satellite-imagery](../tag/satellite-imagery), [antenna](../tag/antenna), [open-weather](../tag/open-weather), [amplifier](../tag/amplifier)
+August 02, 2020 17:13 | Tags: [satellite-imagery](/tag/satellite-imagery), [antenna](/tag/antenna), [open-weather](/tag/open-weather), [amplifier](/tag/amplifier)
 
 ----
 

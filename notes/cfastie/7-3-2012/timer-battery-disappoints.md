@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/7-3-2012/timer-battery-disappoints.md
 nid: 2697
 uid: 554
-
 cids: 981,982
-
 ---
 
 ![](https://publiclab.org/sites/default/files/4LR44.jpg)
 
 # Timer battery disappoints
 
-by [cfastie](../../../profile/cfastie) | July 03, 2012 04:24
+by [cfastie](/profile/cfastie) | July 03, 2012 04:24
 
-July 03, 2012 04:24 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [camera-triggering](../tag/camera-triggering), [mk111](../tag/mk111)
+July 03, 2012 04:24 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [camera-triggering](/tag/camera-triggering), [mk111](/tag/mk111)
 
 ----
 

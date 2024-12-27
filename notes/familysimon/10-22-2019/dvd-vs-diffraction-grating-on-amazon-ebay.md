@@ -6,18 +6,16 @@ author: familysimon
 path: /notes/familysimon/10-22-2019/dvd-vs-diffraction-grating-on-amazon-ebay.md
 nid: 21261
 uid: 630826
-
 cids: 25720,25749,25756,27048,30784
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/925/original/31Su-DcPGjL._AC_UL320_ML3_.jpg)
 
 # DVD vs. Diffraction Grating on Amazon / eBay
 
-by [familysimon](../../../profile/familysimon) | October 22, 2019 15:54
+by [familysimon](/profile/familysimon) | October 22, 2019 15:54
 
-October 22, 2019 15:54 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [first-time-poster](../tag/first-time-poster), [replication:11515](../tag/replication:11515)
+October 22, 2019 15:54 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [first-time-poster](/tag/first-time-poster), [replication:11515](/tag/replication:11515)
 
 ----
 

@@ -6,16 +6,16 @@ author: liz
 path: /wiki/riffle-pics.md
 nid: 13290
 uid: 7
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/052/original/01-IMG_20160504_113900948.jpg)
 
 # Riffle pics
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-July 15, 2016 16:20 | Tags: [riffle](../tag/riffle)
+July 15, 2016 16:20 | Tags: [riffle](/tag/riffle)
 
 ----
 

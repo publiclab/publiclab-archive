@@ -6,18 +6,16 @@ author: ronyu
 path: /notes/ronyu/10-13-2015/university-of-waterloo-v1-woodlot-aerial-imagery.md
 nid: 12295
 uid: 454267
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/943/original/university-of-waterloo-v1-aerial-imagery_%281%29.jpg)
 
 # University of Waterloo V1/Woodlot Aerial Imagery
 
-by [ronyu](../../../profile/ronyu) | October 13, 2015 18:00
+by [ronyu](/profile/ronyu) | October 13, 2015 18:00
 
-October 13, 2015 18:00 | Tags: [mapknitter](../tag/mapknitter), [lat:43.470245798](../tag/lat:43.470245798), [lon:-80.5475735664](../tag/lon:-80.5475735664), [first-time-poster](../tag/first-time-poster)
+October 13, 2015 18:00 | Tags: [mapknitter](/tag/mapknitter), [lat:43.470245798](/tag/lat:43.470245798), [lon:-80.5475735664](/tag/lon:-80.5475735664), [first-time-poster](/tag/first-time-poster)
 
 ----
 

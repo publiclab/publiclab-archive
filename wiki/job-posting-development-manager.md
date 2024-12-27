@@ -6,12 +6,12 @@ author: Shannon
 path: /wiki/job-posting-development-manager.md
 nid: 4259
 uid: 9
-
+cids: 
 ---
 
 # Job Posting: Development Manager
 
-by [Shannon](../profile/Shannon)
+by [Shannon](/profile/Shannon)
 
 October 08, 2012 18:38 | Tags: 
 

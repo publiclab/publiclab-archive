@@ -6,12 +6,12 @@ author: donblair
 path: /wiki/open-water-kickstarter.md
 nid: 11465
 uid: 43651
-
+cids: 
 ---
 
 # open-water-kickstarter
 
-by [donblair](../profile/donblair)
+by [donblair](/profile/donblair)
 
 December 16, 2014 15:32 | Tags: 
 

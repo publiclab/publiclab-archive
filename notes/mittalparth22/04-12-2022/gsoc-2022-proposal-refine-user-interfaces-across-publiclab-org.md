@@ -6,18 +6,16 @@ author: mittalparth22
 path: /notes/mittalparth22/04-12-2022/gsoc-2022-proposal-refine-user-interfaces-across-publiclab-org.md
 nid: 30352
 uid: 785563
-
 cids: 30036,30046,30062
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/717/original/gsoc_img.png)
 
 # GSoC'22 Proposal: Refine User Interfaces across PublicLab.org
 
-by [mittalparth22](../../../profile/mittalparth22) | April 12, 2022 19:28
+by [mittalparth22](/profile/mittalparth22) | April 12, 2022 19:28
 
-April 12, 2022 19:28 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [gsoc-2022](../tag/gsoc-2022), [gsoc-2022-proposals](../tag/gsoc-2022-proposals), [response:30348](../tag/response:30348)
+April 12, 2022 19:28 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [soc](/tag/soc), [first-time-poster](/tag/first-time-poster), [gsoc-2022](/tag/gsoc-2022), [gsoc-2022-proposals](/tag/gsoc-2022-proposals), [response:30348](/tag/response:30348)
 
 ----
 

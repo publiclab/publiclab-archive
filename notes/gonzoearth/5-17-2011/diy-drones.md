@@ -6,14 +6,12 @@ author: gonzoearth
 path: /notes/gonzoearth/5-17-2011/diy-drones.md
 nid: 242
 uid: 12
-
 cids: 
-
 ---
 
 # DIY Drones
 
-by [gonzoearth](../../../profile/gonzoearth) | May 17, 2011 19:46
+by [gonzoearth](/profile/gonzoearth) | May 17, 2011 19:46
 
 May 17, 2011 19:46 | Tags: 
 

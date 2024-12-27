@@ -6,18 +6,16 @@ author: geobduffy
 path: /notes/geobduffy/07-13-2013/i-got-the-cmos-infrablues-decrypting-custom-white-balance-settings.md
 nid: 8869
 uid: 60509
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/773/original/sx230_aerial_RICH.jpg)
 
 # I Got the InfraBlues - CMOS White Balance Work-around
 
-by [geobduffy](../../../profile/geobduffy) | July 13, 2013 16:42
+by [geobduffy](/profile/geobduffy) | July 13, 2013 16:42
 
-July 13, 2013 16:42 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [cmos](../tag/cmos)
+July 13, 2013 16:42 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [white-balance](/tag/white-balance), [infragram](/tag/infragram), [infrablue](/tag/infrablue), [cmos](/tag/cmos)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/11-30-2011/visible-light-spectrometer-2660-4-7nm-bandwidth.md
 nid: 600
 uid: 1
-
 cids: 1248,1261,1262,1264,1268,1283
-
 ---
 
 ![](https://publiclab.org/sites/default/files/spectrometer.jpeg)
 
 # Visible-light spectrometer for $2,660, 4-7nm bandwidth
 
-by [warren](../../../profile/warren) | December 01, 2011 01:38
+by [warren](/profile/warren) | December 01, 2011 01:38
 
-December 01, 2011 01:38 | Tags: [spectrometer](../tag/spectrometer)
+December 01, 2011 01:38 | Tags: [spectrometer](/tag/spectrometer)
 
 ----
 

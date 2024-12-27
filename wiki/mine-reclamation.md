@@ -6,16 +6,16 @@ author: laurel_mire
 path: /wiki/mine-reclamation.md
 nid: 30139
 uid: 759178
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/532/original/ReclaimedMine.jpg)
 
 # Mine Reclamation
 
-by [laurel_mire](../profile/laurel_mire), [bhamster](../profile/bhamster)
+by [laurel_mire](/profile/laurel_mire), [bhamster](/profile/bhamster)
 
-March 17, 2022 19:30 | Tags: [mining](../tag/mining), [reclamation](../tag/reclamation), [mine-reclamation](../tag/mine-reclamation)
+March 17, 2022 19:30 | Tags: [mining](/tag/mining), [reclamation](/tag/reclamation), [mine-reclamation](/tag/mine-reclamation)
 
 ----
 
@@ -69,7 +69,7 @@ Public Lab community projects related to mine reclamation will appear here
 
 Questions tagged with `question:mine-reclamation` will appear here
 
-[mine-reclamation](../../tag/question:mine-reclamation)
+[mine-reclamation](/tag/question:mine-reclamation)
 
 <br>
 
@@ -193,7 +193,7 @@ The soil contamination wiki at [https://publiclab.org/wiki/soil](https://publicl
 
 Activities tagged with `activity:mine-reclamation` will appear here
 
-[activity:mine-reclamation](../../tag/activity:mine-reclamation)
+[activity:mine-reclamation](/tag/activity:mine-reclamation)
 
 <br>
 

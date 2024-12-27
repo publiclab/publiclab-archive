@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/3-19-2013/8th-grade-air-quality-mapping-3.md
 nid: 6425
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/6 - word cloud of place of origin detail.jpg)
 
 # 8th grade audience survey viz
 
-by [liz](../../../profile/liz) | March 19, 2013 17:33
+by [liz](/profile/liz) | March 19, 2013 17:33
 
-March 19, 2013 17:33 | Tags: [new-york-city](../tag/new-york-city), [chaq](../tag/chaq), [air-quality](../tag/air-quality), [air-quality-egg](../tag/air-quality-egg)
+March 19, 2013 17:33 | Tags: [new-york-city](/tag/new-york-city), [chaq](/tag/chaq), [air-quality](/tag/air-quality), [air-quality-egg](/tag/air-quality-egg)
 
 ----
 

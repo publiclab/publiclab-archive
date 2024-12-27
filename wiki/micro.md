@@ -6,16 +6,16 @@ author: warren
 path: /wiki/micro.md
 nid: 16329
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/132/original/a8a6a2585e29b1c8e070d969679ade52_original_%281%29.png)
 
 # Community Microscope Kit
 
-by [bhamster](../profile/bhamster), [warren](../profile/warren), [mimiss](../profile/mimiss), [liz](../profile/liz), [asnow](../profile/asnow), [imvec](../profile/imvec)
+by [bhamster](/profile/bhamster), [warren](/profile/warren), [mimiss](/profile/mimiss), [liz](/profile/liz), [asnow](/profile/asnow), [imvec](/profile/imvec)
 
-May 11, 2018 13:14 | Tags: [dust](../tag/dust), [pm](../tag/pm), [microscope](../tag/microscope), [method](../tag/method), [microscopes](../tag/microscopes), [communityscience](../tag/communityscience), [community-kits](../tag/community-kits), [parent:microscopes](../tag/parent:microscopes), [microplastics](../tag/microplastics), [community-microscope](../tag/community-microscope), [communitymicroscope](../tag/communitymicroscope), [activities:microscope](../tag/activities:microscope), [questions:community-microscope](../tag/questions:community-microscope), [micro](../tag/micro)
+May 11, 2018 13:14 | Tags: [dust](/tag/dust), [pm](/tag/pm), [microscope](/tag/microscope), [method](/tag/method), [microscopes](/tag/microscopes), [communityscience](/tag/communityscience), [community-kits](/tag/community-kits), [parent:microscopes](/tag/parent:microscopes), [microplastics](/tag/microplastics), [community-microscope](/tag/community-microscope), [communitymicroscope](/tag/communitymicroscope), [activities:microscope](/tag/activities:microscope), [questions:community-microscope](/tag/questions:community-microscope), [micro](/tag/micro)
 
 ----
 
@@ -161,7 +161,7 @@ There is so much that you can do with your microscope! Learn more about what the
 
 Check out these activities to get started using your microscope.
 
-[activity:starter-community-microscope](../../tag/activity:starter-community-microscope)
+[activity:starter-community-microscope](/tag/activity:starter-community-microscope)
 
 Our community members have done even more cool stuff, [which you can see here](https://publiclab.org/tag/activity:microscope) 
 
@@ -169,13 +169,13 @@ Our community members have done even more cool stuff, [which you can see here](h
 
 Public Lab tools, like the community microscope, can be used in educational settings. Educators at Public Lab have created these materials to get you started using the Community Microscope Kit. [You can learn more about Public Lab's Education initiative here.](https://publiclab.org/wiki/education)
 
-[lesson-community-microscope](../../tag/lesson-community-microscope)
+[lesson-community-microscope](/tag/lesson-community-microscope)
 
 ### Workshops
 
 Science is better together! Here are some examples of how the community microscope has been used in a workshop setting. Check these out and share your own!
 
-[workshop-community-microscope](../../tag/workshop-community-microscope)
+[workshop-community-microscope](/tag/workshop-community-microscope)
 
 ****
 
@@ -183,7 +183,7 @@ Science is better together! Here are some examples of how the community microsco
 
 Check out these questions and answer's from our community to get you started! 
 
-[FAQ-community-microscope](../../tag/question:FAQ-community-microscope)
+[FAQ-community-microscope](/tag/question:FAQ-community-microscope)
 
 Want to see more questions from our community? [See more questions about the Community Microscope here](https://publiclab.org/questions/tag/community-microscope). 
 

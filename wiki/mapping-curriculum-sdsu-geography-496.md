@@ -6,14 +6,14 @@ author: warren
 path: /wiki/mapping-curriculum-sdsu-geography-496.md
 nid: 73
 uid: 1
-
+cids: 
 ---
 
 # Mapping Curriculum SDSU Geography 496
 
-by [warren](../profile/warren), [mariakat](../profile/mariakat)
+by [warren](/profile/warren), [mariakat](/profile/mariakat)
 
-February 01, 2011 20:14 | Tags: [curriculum](../tag/curriculum), [parent:mapping-curriculum](../tag/parent:mapping-curriculum)
+February 01, 2011 20:14 | Tags: [curriculum](/tag/curriculum), [parent:mapping-curriculum](/tag/parent:mapping-curriculum)
 
 ----
 

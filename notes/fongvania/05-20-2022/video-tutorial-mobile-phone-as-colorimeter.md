@@ -6,16 +6,14 @@ author: fongvania
 path: /notes/fongvania/05-20-2022/video-tutorial-mobile-phone-as-colorimeter.md
 nid: 30829
 uid: 754846
-
 cids: 30222,30223,30227,30265
-
 ---
 
 # Video Tutorial: Mobile Phone as Colorimeter
 
-by [fongvania](../../../profile/fongvania) | May 20, 2022 03:05
+by [fongvania](/profile/fongvania) | May 20, 2022 03:05
 
-May 20, 2022 03:05 | Tags: [video](../tag/video), [colorimeter](../tag/colorimeter)
+May 20, 2022 03:05 | Tags: [video](/tag/video), [colorimeter](/tag/colorimeter)
 
 ----
 

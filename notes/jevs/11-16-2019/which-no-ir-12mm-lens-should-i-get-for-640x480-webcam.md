@@ -6,16 +6,14 @@ author: jevs
 path: /notes/jevs/11-16-2019/which-no-ir-12mm-lens-should-i-get-for-640x480-webcam.md
 nid: 21503
 uid: 635927
-
 cids: 25865,25866,25961
-
 ---
 
 # Which No IR 12mm lens should I get for 640x480 webcam?
 
-by [jevs](../../../profile/jevs) | November 16, 2019 05:03
+by [jevs](/profile/jevs) | November 16, 2019 05:03
 
-November 16, 2019 05:03 | Tags: [spectrometer](../tag/spectrometer), [infrared](../tag/infrared), [spectrometry](../tag/spectrometry), [webcam](../tag/webcam), [ir](../tag/ir), [question:lego-spectrometer](../tag/question:lego-spectrometer), [lego-spectrometer](../tag/lego-spectrometer)
+November 16, 2019 05:03 | Tags: [spectrometer](/tag/spectrometer), [infrared](/tag/infrared), [spectrometry](/tag/spectrometry), [webcam](/tag/webcam), [ir](/tag/ir), [question:lego-spectrometer](/tag/question:lego-spectrometer), [lego-spectrometer](/tag/lego-spectrometer)
 
 ----
 

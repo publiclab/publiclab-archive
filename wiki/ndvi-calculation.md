@@ -6,14 +6,14 @@ author: warren
 path: /wiki/ndvi-calculation.md
 nid: 62
 uid: 1
-
+cids: 
 ---
 
 # NDVI Calculation
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-January 26, 2011 06:39 | Tags: [ndvi](../tag/ndvi), [gdal](../tag/gdal), [python](../tag/python)
+January 26, 2011 06:39 | Tags: [ndvi](/tag/ndvi), [gdal](/tag/gdal), [python](/tag/python)
 
 ----
 

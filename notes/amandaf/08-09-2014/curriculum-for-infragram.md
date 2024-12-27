@@ -6,18 +6,16 @@ author: amandaf
 path: /notes/amandaf/08-09-2014/curriculum-for-infragram.md
 nid: 11026
 uid: 426589
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/156/original/Rosco_19_NDVI.jpg)
 
 # Curriculum for Infragram
 
-by [amandaf](../../../profile/amandaf) | August 09, 2014 00:27
+by [amandaf](/profile/amandaf) | August 09, 2014 00:27
 
-August 09, 2014 00:27 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [curriculum](../tag/curriculum), [near-infrared](../tag/near-infrared), [raspberry-pi](../tag/raspberry-pi), [near-ir](../tag/near-ir), [infragram](../tag/infragram), [rpi](../tag/rpi), [with:mathew](../tag/with:mathew), [first-time-poster](../tag/first-time-poster)
+August 09, 2014 00:27 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [curriculum](/tag/curriculum), [near-infrared](/tag/near-infrared), [raspberry-pi](/tag/raspberry-pi), [near-ir](/tag/near-ir), [infragram](/tag/infragram), [rpi](/tag/rpi), [with:mathew](/tag/with:mathew), [first-time-poster](/tag/first-time-poster)
 
 ----
 

@@ -6,16 +6,16 @@ author: lpercifield
 path: /wiki/balloon-telemetry-kit.md
 nid: 60
 uid: 20
-
+cids: 
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0650 copy.jpg)
 
 # Balloon Telemetry Kit
 
-by [mathew](../profile/mathew), [warren](../profile/warren), [balrog](../profile/balrog), [liz](../profile/liz), [lpercifield](../profile/lpercifield)
+by [mathew](/profile/mathew), [warren](/profile/warren), [balrog](/profile/balrog), [liz](/profile/liz), [lpercifield](/profile/lpercifield)
 
-January 25, 2011 18:35 | Tags: [balloon-mapping](../tag/balloon-mapping), [arduino](../tag/arduino), [balloon-telemetry-kit](../tag/balloon-telemetry-kit), [telemetry](../tag/telemetry), [photo-rig](../tag/photo-rig), [mining](../tag/mining), [urban-planning](../tag/urban-planning), [fracking](../tag/fracking), [tool](../tag/tool), [land-use](../tag/land-use), [industry](../tag/industry), [method](../tag/method), [land-change](../tag/land-change)
+January 25, 2011 18:35 | Tags: [balloon-mapping](/tag/balloon-mapping), [arduino](/tag/arduino), [balloon-telemetry-kit](/tag/balloon-telemetry-kit), [telemetry](/tag/telemetry), [photo-rig](/tag/photo-rig), [mining](/tag/mining), [urban-planning](/tag/urban-planning), [fracking](/tag/fracking), [tool](/tag/tool), [land-use](/tag/land-use), [industry](/tag/industry), [method](/tag/method), [land-change](/tag/land-change)
 
 ----
 

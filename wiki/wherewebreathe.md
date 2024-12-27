@@ -6,16 +6,16 @@ author: warren
 path: /wiki/wherewebreathe.md
 nid: 10473
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/280/original/Screen_Shot_2014-05-07_at_1.42.47_PM.png)
 
 # wherewebreathe
 
-by [liz](../profile/liz), [mathew](../profile/mathew), [gretchengehrke](../profile/gretchengehrke), [nshapiro](../profile/nshapiro), [novakn](../profile/novakn), [Shannon](../profile/Shannon), [warren](../profile/warren)
+by [liz](/profile/liz), [mathew](/profile/mathew), [gretchengehrke](/profile/gretchengehrke), [nshapiro](/profile/nshapiro), [novakn](/profile/novakn), [Shannon](/profile/Shannon), [warren](/profile/warren)
 
-May 15, 2014 20:53 | Tags: [wherewebreathe](../tag/wherewebreathe), [iaq](../tag/iaq), [indoor-air-quality](../tag/indoor-air-quality), [parent:indoor-air-quality-monitoring](../tag/parent:indoor-air-quality-monitoring)
+May 15, 2014 20:53 | Tags: [wherewebreathe](/tag/wherewebreathe), [iaq](/tag/iaq), [indoor-air-quality](/tag/indoor-air-quality), [parent:indoor-air-quality-monitoring](/tag/parent:indoor-air-quality-monitoring)
 
 ----
 

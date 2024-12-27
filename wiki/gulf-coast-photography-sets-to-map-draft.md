@@ -6,14 +6,14 @@ author: eustatic
 path: /wiki/gulf-coast-photography-sets-to-map-draft.md
 nid: 9706
 uid: 379
-
+cids: 
 ---
 
 # Gulf Coast Photography sets to Map [draft]
 
-by [eustatic](../profile/eustatic)
+by [eustatic](/profile/eustatic)
 
-October 31, 2013 23:08 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping)
+October 31, 2013 23:08 | Tags: [gulf-coast](/tag/gulf-coast), [kite-mapping](/tag/kite-mapping)
 
 ----
 

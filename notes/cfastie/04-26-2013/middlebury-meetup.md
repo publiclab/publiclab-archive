@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/04-26-2013/middlebury-meetup.md
 nid: 7073
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/126/original/MiddGard-52_54stitch-3.jpg)
 
 # Middlebury Meetup April 30
 
-by [cfastie](../../../profile/cfastie) | April 26, 2013 19:04
+by [cfastie](/profile/cfastie) | April 26, 2013 19:04
 
-April 26, 2013 19:04 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [farmhack](../tag/farmhack), [agriculture](../tag/agriculture), [event](../tag/event)
+April 26, 2013 19:04 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [vermont](/tag/vermont), [farmhack](/tag/farmhack), [agriculture](/tag/agriculture), [event](/tag/event)
 
 ----
 

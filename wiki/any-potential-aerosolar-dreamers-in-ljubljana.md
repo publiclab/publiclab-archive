@@ -6,16 +6,16 @@ author: AeroceneFoundation
 path: /wiki/any-potential-aerosolar-dreamers-in-ljubljana.md
 nid: 16185
 uid: 519183
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/681/original/14USA_White_Sands_06030.jpg)
 
 # ..... any potential aerosolar dreamers in Ljubljana?
 
-by [AeroceneFoundation](../../../profile/AeroceneFoundation) | April 21, 2018 18:27
+by [AeroceneFoundation](/profile/AeroceneFoundation) | April 21, 2018 18:27
 
-April 21, 2018 18:27 | Tags: [new-mexico](../tag/new-mexico), [solar-balloon](../tag/solar-balloon), [slovenia](../tag/slovenia), [event](../tag/event), [sun](../tag/sun), [event:rsvp](../tag/event:rsvp), [solar](../tag/solar), [aerocene](../tag/aerocene), [ljubljana](../tag/ljubljana), [white-sands](../tag/white-sands), [flight](../tag/flight), [tivoli-park](../tag/tivoli-park), [date:04-24-2018](../tag/date:04-24-2018)
+April 21, 2018 18:27 | Tags: [new-mexico](/tag/new-mexico), [solar-balloon](/tag/solar-balloon), [slovenia](/tag/slovenia), [event](/tag/event), [sun](/tag/sun), [event:rsvp](/tag/event:rsvp), [solar](/tag/solar), [aerocene](/tag/aerocene), [ljubljana](/tag/ljubljana), [white-sands](/tag/white-sands), [flight](/tag/flight), [tivoli-park](/tag/tivoli-park), [date:04-24-2018](/tag/date:04-24-2018)
 
 ----
 

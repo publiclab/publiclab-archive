@@ -6,14 +6,14 @@ author: warren
 path: /wiki/spectrometry-health-applications.md
 nid: 7994
 uid: 1
-
+cids: 
 ---
 
 # Spectrometry health applications
 
-by [warren](../profile/warren), [Charles_Hamilton](../profile/Charles_Hamilton)
+by [warren](/profile/warren), [Charles_Hamilton](/profile/Charles_Hamilton)
 
-May 31, 2013 16:31 | Tags: [spectrometer](../tag/spectrometer), [health](../tag/health), [mhealth](../tag/mhealth)
+May 31, 2013 16:31 | Tags: [spectrometer](/tag/spectrometer), [health](/tag/health), [mhealth](/tag/mhealth)
 
 ----
 

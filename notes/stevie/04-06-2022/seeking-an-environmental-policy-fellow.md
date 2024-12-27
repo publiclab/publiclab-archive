@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/04-06-2022/seeking-an-environmental-policy-fellow.md
 nid: 30238
 uid: 422561
-
 cids: 29929,30255,30344
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/630/original/fracout_2.1.1.jpg)
 
 # Seeking an Environmental Policy Fellow
 
-by [stevie](../../../profile/stevie) | April 06, 2022 14:14
+by [stevie](/profile/stevie) | April 06, 2022 14:14
 
-April 06, 2022 14:14 | Tags: [heavy-metals](../tag/heavy-metals), [pipeline](../tag/pipeline), [mining](../tag/mining), [minnesota](../tag/minnesota), [fracking](../tag/fracking), [jobs](../tag/jobs), [midwest](../tag/midwest), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [policy](../tag/policy), [environmental-policy](../tag/environmental-policy), [fellow](../tag/fellow), [mill](../tag/mill), [fellowship-team](../tag/fellowship-team), [fellowship-teams](../tag/fellowship-teams), [lumber](../tag/lumber), [particle-board](../tag/particle-board), [with:bee](../tag/with:bee)
+April 06, 2022 14:14 | Tags: [heavy-metals](/tag/heavy-metals), [pipeline](/tag/pipeline), [mining](/tag/mining), [minnesota](/tag/minnesota), [fracking](/tag/fracking), [jobs](/tag/jobs), [midwest](/tag/midwest), [fellows](/tag/fellows), [fellowship](/tag/fellowship), [policy](/tag/policy), [environmental-policy](/tag/environmental-policy), [fellow](/tag/fellow), [mill](/tag/mill), [fellowship-team](/tag/fellowship-team), [fellowship-teams](/tag/fellowship-teams), [lumber](/tag/lumber), [particle-board](/tag/particle-board), [with:bee](/tag/with:bee)
 
 ----
 

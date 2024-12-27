@@ -6,16 +6,14 @@ author: Clarke_Brian
 path: /notes/clarkebrian/2-12-2013/nu-darkroom-setup.md
 nid: 5958
 uid: 48632
-
 cids: 
-
 ---
 
 # NU Darkroom Setup
 
-by [Clarke_Brian](../../../profile/Clarke_Brian) | February 12, 2013 20:07
+by [Clarke_Brian](/profile/Clarke_Brian) | February 12, 2013 20:07
 
-February 12, 2013 20:07 | Tags: [boston](../tag/boston), [hydrogen-sulfide](../tag/hydrogen-sulfide), [northeastern-university](../tag/northeastern-university), [h2s](../tag/h2s), [first-time-poster](../tag/first-time-poster)
+February 12, 2013 20:07 | Tags: [boston](/tag/boston), [hydrogen-sulfide](/tag/hydrogen-sulfide), [northeastern-university](/tag/northeastern-university), [h2s](/tag/h2s), [first-time-poster](/tag/first-time-poster)
 
 ----
 

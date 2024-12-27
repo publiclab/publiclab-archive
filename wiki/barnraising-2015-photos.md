@@ -6,14 +6,14 @@ author: Bronwen
 path: /wiki/barnraising-2015-photos.md
 nid: 12422
 uid: 237313
-
+cids: 
 ---
 
 # Barnraising 2015 Photos
 
-by [liz](../profile/liz), [danbeavers](../profile/danbeavers), [Bronwen](../profile/Bronwen)
+by [liz](/profile/liz), [danbeavers](/profile/danbeavers), [Bronwen](/profile/Bronwen)
 
-November 20, 2015 04:32 | Tags: [barnraising](../tag/barnraising), [barnraising-2015](../tag/barnraising-2015), [parent:barnraising-2015](../tag/parent:barnraising-2015)
+November 20, 2015 04:32 | Tags: [barnraising](/tag/barnraising), [barnraising-2015](/tag/barnraising-2015), [parent:barnraising-2015](/tag/parent:barnraising-2015)
 
 ----
 

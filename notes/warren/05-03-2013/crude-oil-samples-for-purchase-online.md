@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/05-03-2013/crude-oil-samples-for-purchase-online.md
 nid: 7222
 uid: 1
-
 cids: 9543,9589,9614,24296,26729
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/161/original/ontas2.JPG.w300h232.jpg)
 
 # Crude oil samples for purchase online
 
-by [warren](../../../profile/warren) | May 03, 2013 16:39
+by [warren](/profile/warren) | May 03, 2013 16:39
 
-May 03, 2013 16:39 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [fluorescence](../tag/fluorescence), [sample](../tag/sample), [comparison](../tag/comparison), [crude](../tag/crude), [crude-oil](../tag/crude-oil)
+May 03, 2013 16:39 | Tags: [spectrometer](/tag/spectrometer), [oil](/tag/oil), [fluorescence](/tag/fluorescence), [sample](/tag/sample), [comparison](/tag/comparison), [crude](/tag/crude), [crude-oil](/tag/crude-oil)
 
 ----
 

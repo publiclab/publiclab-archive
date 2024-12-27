@@ -6,18 +6,16 @@ author: Bronwen
 path: /notes/bronwen/09-26-2018/community-microscopes-at-maker-faire-nyc.md
 nid: 17179
 uid: 237313
-
 cids: 20785
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/687/original/wkshop1.jpg)
 
 # Community Microscopes at Maker Faire NYC
 
-by [Bronwen](../../../profile/Bronwen) | September 26, 2018 22:29
+by [Bronwen](/profile/Bronwen) | September 26, 2018 22:29
 
-September 26, 2018 22:29 | Tags: [new-york-city](../tag/new-york-city), [education](../tag/education), [events](../tag/events), [queens](../tag/queens), [northeast](../tag/northeast), [with:eymund](../tag/with:eymund), [with:liz](../tag/with:liz), [microscope](../tag/microscope), [community-microscope](../tag/community-microscope), [make](../tag/make), [maker-faire](../tag/maker-faire), [with:jholmes5](../tag/with:jholmes5), [workshop-community-microscope](../tag/workshop-community-microscope)
+September 26, 2018 22:29 | Tags: [new-york-city](/tag/new-york-city), [education](/tag/education), [events](/tag/events), [queens](/tag/queens), [northeast](/tag/northeast), [with:eymund](/tag/with:eymund), [with:liz](/tag/with:liz), [microscope](/tag/microscope), [community-microscope](/tag/community-microscope), [make](/tag/make), [maker-faire](/tag/maker-faire), [with:jholmes5](/tag/with:jholmes5), [workshop-community-microscope](/tag/workshop-community-microscope)
 
 ----
 

@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/08-19-2014/2013-public-lab-annual-report.md
 nid: 11065
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/585/original/Screen_Shot_2014-09-04_at_2.28.22_PM.png)
 
 # 2013 Public Lab Annual Report
 
-by [Shannon](../../../profile/Shannon) | August 19, 2014 19:24
+by [Shannon](/profile/Shannon) | August 19, 2014 19:24
 
-August 19, 2014 19:24 | Tags: [nonprofit](../tag/nonprofit), [annual-report](../tag/annual-report)
+August 19, 2014 19:24 | Tags: [nonprofit](/tag/nonprofit), [annual-report](/tag/annual-report)
 
 ----
 

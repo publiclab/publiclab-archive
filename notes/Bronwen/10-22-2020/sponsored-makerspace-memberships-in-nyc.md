@@ -6,18 +6,16 @@ author: Bronwen
 path: /notes/Bronwen/10-22-2020/sponsored-makerspace-memberships-in-nyc.md
 nid: 24792
 uid: 237313
-
 cids: 27499,27503,30910
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/197/original/IMG_20181215_154729.jpg)
 
 # Sponsored Makerspace Memberships in NYC
 
-by [Bronwen](../../../profile/Bronwen) | October 22, 2020 15:00
+by [Bronwen](/profile/Bronwen) | October 22, 2020 15:00
 
-October 22, 2020 15:00 | Tags: [new-york-city](../tag/new-york-city), [makerspaces](../tag/makerspaces), [hardware](../tag/hardware), [lon:-73](../tag/lon:-73), [lat:40](../tag/lat:40), [zoom:6](../tag/zoom:6), [coworking](../tag/coworking), [fatcatfablab](../tag/fatcatfablab), [environmental-tools](../tag/environmental-tools)
+October 22, 2020 15:00 | Tags: [new-york-city](/tag/new-york-city), [makerspaces](/tag/makerspaces), [hardware](/tag/hardware), [lon:-73](/tag/lon:-73), [lat:40](/tag/lat:40), [zoom:6](/tag/zoom:6), [coworking](/tag/coworking), [fatcatfablab](/tag/fatcatfablab), [environmental-tools](/tag/environmental-tools)
 
 ----
 

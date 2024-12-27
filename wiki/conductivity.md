@@ -6,16 +6,16 @@ author: warren
 path: /wiki/conductivity.md
 nid: 14954
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/087/original/Coqui_probe.jpg)
 
 # Water conductivity monitoring
 
-by [warren](../profile/warren), [liz](../profile/liz)
+by [warren](/profile/warren), [liz](/profile/liz)
 
-September 25, 2017 19:49 | Tags: [conductivity](../tag/conductivity), [method](../tag/method), [parent:water-quality](../tag/parent:water-quality)
+September 25, 2017 19:49 | Tags: [conductivity](/tag/conductivity), [method](/tag/method), [parent:water-quality](/tag/parent:water-quality)
 
 ----
 
@@ -32,7 +32,7 @@ Also see resources on this page: https://publiclab.org/wiki/conductivity_sensing
 
 ## Questions
 
-[conductivity](../../tag/question:conductivity)
+[conductivity](/tag/question:conductivity)
 
 ****
 
@@ -50,11 +50,11 @@ Here's a list of different conductivity sensors and measurement systems. Also se
 
 Activities for people to test methods (these develop over time)
 
-[conductivity](../../tag/activity:conductivity)
+[conductivity](/tag/activity:conductivity)
 
 ****
 
 ## Existing work
 
-[conductivity](../../tag/conductivity)
+[conductivity](/tag/conductivity)
 

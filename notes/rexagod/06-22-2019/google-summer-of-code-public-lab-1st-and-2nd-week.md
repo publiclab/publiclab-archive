@@ -6,16 +6,14 @@ author: rexagod
 path: /notes/rexagod/06-22-2019/google-summer-of-code-public-lab-1st-and-2nd-week.md
 nid: 19814
 uid: 564358
-
 cids: 24866,24870,25083,25084
-
 ---
 
 # Google Summer of Code @ Public Lab: 1st and 2nd Week
 
-by [rexagod](../../../profile/rexagod) | June 22, 2019 21:03
+by [rexagod](/profile/rexagod) | June 22, 2019 21:03
 
-June 22, 2019 21:03 | Tags: [gsoc](../tag/gsoc), [progress](../tag/progress), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019)
+June 22, 2019 21:03 | Tags: [gsoc](/tag/gsoc), [progress](/tag/progress), [soc](/tag/soc), [gsoc-2019](/tag/gsoc-2019), [soc-2019](/tag/soc-2019)
 
 ----
 

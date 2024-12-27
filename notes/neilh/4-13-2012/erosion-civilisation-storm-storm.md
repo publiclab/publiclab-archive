@@ -6,18 +6,16 @@ author: neilh
 path: /notes/neilh/4-13-2012/erosion-civilisation-storm-storm.md
 nid: 1671
 uid: 698
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/CotatiCreekConfluenceLaguna120413 (05).JPG)
 
 # Erosion of civilisation, storm by storm
 
-by [neilh](../../../profile/neilh) | April 14, 2012 01:48
+by [neilh](/profile/neilh) | April 14, 2012 01:48
 
-April 14, 2012 01:48 | Tags: [california](../tag/california), [water-quality](../tag/water-quality), [erosion](../tag/erosion)
+April 14, 2012 01:48 | Tags: [california](/tag/california), [water-quality](/tag/water-quality), [erosion](/tag/erosion)
 
 ----
 

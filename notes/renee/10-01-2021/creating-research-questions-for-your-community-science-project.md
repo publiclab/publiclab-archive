@@ -6,18 +6,16 @@ author: renee
 path: /notes/renee/10-01-2021/creating-research-questions-for-your-community-science-project.md
 nid: 27819
 uid: 756320
-
 cids: 30206,31114,31203,31319
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/880/original/thumbnail_Creating_Research_Questions.png)
 
 # Creating Research Questions for Your Community Science Project
 
-by [renee](../../../profile/renee) | October 01, 2021 16:19
+by [renee](/profile/renee) | October 01, 2021 16:19
 
-October 01, 2021 16:19 | Tags: [education](../tag/education), [research](../tag/research), [study-design](../tag/study-design), [first-time-poster](../tag/first-time-poster), [infographic](../tag/infographic), [pin:study-design](../tag/pin:study-design), [research-questions](../tag/research-questions)
+October 01, 2021 16:19 | Tags: [education](/tag/education), [research](/tag/research), [study-design](/tag/study-design), [first-time-poster](/tag/first-time-poster), [infographic](/tag/infographic), [pin:study-design](/tag/pin:study-design), [research-questions](/tag/research-questions)
 
 ----
 

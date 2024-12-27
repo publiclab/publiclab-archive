@@ -6,18 +6,16 @@ author: CanfieldC
 path: /notes/CanfieldC/10-27-2016/is-there-an-iphone-app-for-foldable-spectrometer.md
 nid: 13660
 uid: 495838
-
 cids: 15750,22340,22342,22349,30837,30838
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/638/original/IMG_3215.JPG)
 
 # Is there an iPhone app for foldable spectrometer?
 
-by [CanfieldC](../../../profile/CanfieldC) | October 27, 2016 19:58
+by [CanfieldC](/profile/CanfieldC) | October 27, 2016 19:58
 
-October 27, 2016 19:58 | Tags: [education](../tag/education), [iphone](../tag/iphone), [cd](../tag/cd), [app](../tag/app), [interface](../tag/interface), [foldable](../tag/foldable), [question:spectrometry](../tag/question:spectrometry), [paper](../tag/paper), [spectrum](../tag/spectrum), [spectrometers](../tag/spectrometers), [site](../tag/site)
+October 27, 2016 19:58 | Tags: [education](/tag/education), [iphone](/tag/iphone), [cd](/tag/cd), [app](/tag/app), [interface](/tag/interface), [foldable](/tag/foldable), [question:spectrometry](/tag/question:spectrometry), [paper](/tag/paper), [spectrum](/tag/spectrum), [spectrometers](/tag/spectrometers), [site](/tag/site)
 
 ----
 

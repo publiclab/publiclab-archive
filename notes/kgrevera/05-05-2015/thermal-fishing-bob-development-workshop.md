@@ -6,18 +6,16 @@ author: kgrevera
 path: /notes/kgrevera/05-05-2015/thermal-fishing-bob-development-workshop.md
 nid: 11785
 uid: 432001
-
 cids: 11589,11632
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/780/original/Screen_Shot_2015-05-05_at_9.18.29_AM.png)
 
 # Thermal Fishing Bob Development Workshop
 
-by [kgrevera](../../../profile/kgrevera) | May 05, 2015 13:20
+by [kgrevera](/profile/kgrevera) | May 05, 2015 13:20
 
-May 05, 2015 13:20 | Tags: [boston](../tag/boston), [event](../tag/event), [thermal](../tag/thermal), [northeast](../tag/northeast), [fishing](../tag/fishing), [bob](../tag/bob), [event:rsvp](../tag/event:rsvp), [rsvp:hudonnoodles](../tag/rsvp:hudonnoodles), [date:05-19-2015](../tag/date:05-19-2015), [rsvp:trueface](../tag/rsvp:trueface)
+May 05, 2015 13:20 | Tags: [boston](/tag/boston), [event](/tag/event), [thermal](/tag/thermal), [northeast](/tag/northeast), [fishing](/tag/fishing), [bob](/tag/bob), [event:rsvp](/tag/event:rsvp), [rsvp:hudonnoodles](/tag/rsvp:hudonnoodles), [date:05-19-2015](/tag/date:05-19-2015), [rsvp:trueface](/tag/rsvp:trueface)
 
 ----
 

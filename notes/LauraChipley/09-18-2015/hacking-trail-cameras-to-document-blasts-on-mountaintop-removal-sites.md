@@ -6,18 +6,16 @@ author: LauraChipley
 path: /notes/LauraChipley/09-18-2015/hacking-trail-cameras-to-document-blasts-on-mountaintop-removal-sites.md
 nid: 12225
 uid: 428957
-
 cids: 12561,12656,12665,16177,16224,16225,16226,16227,16230,16231,16232,16233,16250,16261,16262,16267,16779,17789,17790,24909
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/624/original/brushyforkstill.jpg)
 
 # Hacking trail cameras to document blasts on Mountaintop Removal sites
 
-by [LauraChipley](../../../profile/LauraChipley) | September 18, 2015 13:31
+by [LauraChipley](/profile/LauraChipley) | September 18, 2015 13:31
 
-September 18, 2015 13:31 | Tags: [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [mountaintop-removal](../tag/mountaintop-removal), [amp](../tag/amp), [mtr](../tag/mtr), [appalachian-mountaintop-patrol](../tag/appalachian-mountaintop-patrol), [trap-cam](../tag/trap-cam), [activity:timelapse](../tag/activity:timelapse), [trail-camera](../tag/trail-camera), [activity:photo-monitoring](../tag/activity:photo-monitoring), [game-camera](../tag/game-camera), [story:timelapse](../tag/story:timelapse), [flocculants](../tag/flocculants)
+September 18, 2015 13:31 | Tags: [photo-monitoring](/tag/photo-monitoring), [timelapse](/tag/timelapse), [mountaintop-removal](/tag/mountaintop-removal), [amp](/tag/amp), [mtr](/tag/mtr), [appalachian-mountaintop-patrol](/tag/appalachian-mountaintop-patrol), [trap-cam](/tag/trap-cam), [activity:timelapse](/tag/activity:timelapse), [trail-camera](/tag/trail-camera), [activity:photo-monitoring](/tag/activity:photo-monitoring), [game-camera](/tag/game-camera), [story:timelapse](/tag/story:timelapse), [flocculants](/tag/flocculants)
 
 ----
 

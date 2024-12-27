@@ -6,18 +6,16 @@ author: gonzoearth
 path: /notes/gonzoearth/05-09-2013/mapknitter-forcing-layer-order-through-larger-scale-images.md
 nid: 7368
 uid: 12
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/208/original/DSCN0089.JPG)
 
 # MapKnitter: forcing layer order through larger scale images
 
-by [gonzoearth](../../../profile/gonzoearth) | May 09, 2013 23:41
+by [gonzoearth](/profile/gonzoearth) | May 09, 2013 23:41
 
-May 09, 2013 23:41 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [tips](../tag/tips)
+May 09, 2013 23:41 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [mapknitter](/tag/mapknitter), [tips](/tag/tips)
 
 ----
 

@@ -6,18 +6,16 @@ author: gustrow
 path: /notes/gustrow/04-05-2014/mapping-the-nvcc-campus-using-a-flower-pot-as-a-camera-rig.md
 nid: 10267
 uid: 57645
-
 cids: 8679,8688,8703,8704,8707,9391,9417
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/510/original/DSC_0224-XL.jpg)
 
 # Mapping the NVCC campus using a flower pot as a camera rig
 
-by [gustrow](../../../profile/gustrow) | April 05, 2014 00:34
+by [gustrow](/profile/gustrow) | April 05, 2014 00:34
 
-April 05, 2014 00:34 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [triggering](../tag/triggering), [chdk](../tag/chdk), [field-test](../tag/field-test), [photo-rig](../tag/photo-rig), [southeast](../tag/southeast), [virginia](../tag/virginia)
+April 05, 2014 00:34 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [triggering](/tag/triggering), [chdk](/tag/chdk), [field-test](/tag/field-test), [photo-rig](/tag/photo-rig), [southeast](/tag/southeast), [virginia](/tag/virginia)
 
 ----
 

@@ -6,16 +6,14 @@ author: sarasage
 path: /notes/sarasage/05-26-2017/ever-heard-of-battery-eliminators.md
 nid: 14225
 uid: 451398
-
 cids: 22478
-
 ---
 
 # Ever heard of battery eliminators? 
 
-by [sarasage](../../../profile/sarasage) | May 26, 2017 05:42
+by [sarasage](/profile/sarasage) | May 26, 2017 05:42
 
-May 26, 2017 05:42 | Tags: [question:general](../tag/question:general)
+May 26, 2017 05:42 | Tags: [question:general](/tag/question:general)
 
 ----
 

@@ -6,16 +6,16 @@ author: cfastie
 path: /wiki/replacement-parts-for-the-makerbot-replicator-1-dual.md
 nid: 12608
 uid: 554
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/782/original/Zillions-583-8.jpg)
 
 # Replacement Parts for the MakerBot Replicator 1 Dual
 
-by [cfastie](../profile/cfastie), [atea623](../profile/atea623), [atlr](../profile/atlr)
+by [cfastie](/profile/cfastie), [atea623](/profile/atea623), [atlr](/profile/atlr)
 
-January 24, 2016 01:55 | Tags: [makerbot](../tag/makerbot), [maintenance](../tag/maintenance), [3dprinting](../tag/3dprinting)
+January 24, 2016 01:55 | Tags: [makerbot](/tag/makerbot), [maintenance](/tag/maintenance), [3dprinting](/tag/3dprinting)
 
 ----
 

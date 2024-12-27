@@ -6,18 +6,16 @@ author: jarrarte
 path: /notes/jarrarte/08-06-2014/overexposure-using-yuv-format-and-manual-exposure-settings-with-infragram-webcam.md
 nid: 11018
 uid: 425714
-
 cids: 9808
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/083/original/thumb.jpg)
 
 # Overexposure using YUV format and manual exposure settings with Infragram webcam
 
-by [jarrarte](../../../profile/jarrarte) | August 06, 2014 14:35
+by [jarrarte](/profile/jarrarte) | August 06, 2014 14:35
 
-August 06, 2014 14:35 | Tags: [webcam](../tag/webcam), [infragram](../tag/infragram), [overexposure](../tag/overexposure), [barnstar:empiricism](../tag/barnstar:empiricism), [exposure](../tag/exposure), [yuv](../tag/yuv), [manual](../tag/manual)
+August 06, 2014 14:35 | Tags: [webcam](/tag/webcam), [infragram](/tag/infragram), [overexposure](/tag/overexposure), [barnstar:empiricism](/tag/barnstar:empiricism), [exposure](/tag/exposure), [yuv](/tag/yuv), [manual](/tag/manual)
 
 ----
 

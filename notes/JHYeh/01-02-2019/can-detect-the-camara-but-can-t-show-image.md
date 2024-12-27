@@ -6,16 +6,14 @@ author: JHYeh
 path: /notes/JHYeh/01-02-2019/can-detect-the-camara-but-can-t-show-image.md
 nid: 18045
 uid: 516902
-
 cids: 21609
-
 ---
 
 # Can detect the camara,but can't show image
 
-by [JHYeh](../../../profile/JHYeh) | January 02, 2019 11:33
+by [JHYeh](/profile/JHYeh) | January 02, 2019 11:33
 
-January 02, 2019 11:33 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [first-time-poster](../tag/first-time-poster)
+January 02, 2019 11:33 | Tags: [question:spectral-workbench](/tag/question:spectral-workbench), [first-time-poster](/tag/first-time-poster)
 
 ----
 

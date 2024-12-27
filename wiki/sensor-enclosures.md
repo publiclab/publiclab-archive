@@ -6,16 +6,16 @@ author: warren
 path: /wiki/sensor-enclosures.md
 nid: 14615
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/788/original/Screen_Shot_2017-12-04_at_4.56.14_PM.png)
 
 # Sensor enclosures
 
-by [warren](../profile/warren), [stevie](../profile/stevie)
+by [warren](/profile/warren), [stevie](/profile/stevie)
 
-July 03, 2017 21:28 | Tags: [sensing](../tag/sensing), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [tool](../tag/tool), [method](../tag/method), [enclosures](../tag/enclosures)
+July 03, 2017 21:28 | Tags: [sensing](/tag/sensing), [sensors](/tag/sensors), [water-quality](/tag/water-quality), [tool](/tag/tool), [method](/tag/method), [enclosures](/tag/enclosures)
 
 ----
 
@@ -27,7 +27,7 @@ At Public Lab, we emphasize low cost, low complexity tools and techniques, so we
 
 Questions can be either frequently asked questions, or "next step" challenges we're looking to solve.
 
-[sensor-enclosures](../../tag/question:sensor-enclosures)
+[sensor-enclosures](/tag/question:sensor-enclosures)
 
 ****
 
@@ -35,5 +35,5 @@ Questions can be either frequently asked questions, or "next step" challenges we
 
 Activities show how to use this project, step by step.
 
-[sensor-enclosures](../../tag/activity:sensor-enclosures)
+[sensor-enclosures](/tag/activity:sensor-enclosures)
 

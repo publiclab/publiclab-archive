@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/04-29-2016/early-design-ideas-for-the-rich-editor-project.md
 nid: 13050
 uid: 1
-
 cids: 14475,14480,14482,14497,14500,14503,14511,14536,14559
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/864/original/Screenshot_2016-04-29_at_2.36.28_PM.png)
 
 # Early design ideas for the Rich Editor project
 
-by [warren](../../../profile/warren) | April 29, 2016 18:43
+by [warren](/profile/warren) | April 29, 2016 18:43
 
-April 29, 2016 18:43 | Tags: [software](../tag/software), [design](../tag/design), [web](../tag/web), [developers](../tag/developers), [wwg](../tag/wwg), [editor](../tag/editor), [rich-editor](../tag/rich-editor)
+April 29, 2016 18:43 | Tags: [software](/tag/software), [design](/tag/design), [web](/tag/web), [developers](/tag/developers), [wwg](/tag/wwg), [editor](/tag/editor), [rich-editor](/tag/rich-editor)
 
 ----
 

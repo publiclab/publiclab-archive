@@ -6,12 +6,12 @@ author: mathew
 path: /wiki/rubber-bands.md
 nid: 705
 uid: 4
-
+cids: 
 ---
 
 # Rubber Bands
 
-by [mathew](../profile/mathew)
+by [mathew](/profile/mathew)
 
 January 19, 2012 04:08 | Tags: 
 

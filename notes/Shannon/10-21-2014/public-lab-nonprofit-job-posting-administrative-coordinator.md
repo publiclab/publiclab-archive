@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/10-21-2014/public-lab-nonprofit-job-posting-administrative-coordinator.md
 nid: 11288
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/594/original/plots-logo-transparent.jpg)
 
 # Public Lab nonprofit job posting: Administrative Coordinator
 
-by [Shannon](../../../profile/Shannon) | October 21, 2014 18:41
+by [Shannon](/profile/Shannon) | October 21, 2014 18:41
 
-October 21, 2014 18:41 | Tags: [nonprofit](../tag/nonprofit)
+October 21, 2014 18:41 | Tags: [nonprofit](/tag/nonprofit)
 
 ----
 

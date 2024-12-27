@@ -6,18 +6,16 @@ author: hagitkeysar
 path: /notes/hagitkeysar/11-22-2014/vadi-haasbestonim-community-aerial-photography-event.md
 nid: 11391
 uid: 152
-
 cids: 10845,10865,11990
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/071/original/20131201_102447.jpg)
 
 # Vadi HaAsbestonim: Community Aerial Photography Event
 
-by [hagitkeysar](../../../profile/hagitkeysar) | November 22, 2014 20:41
+by [hagitkeysar](/profile/hagitkeysar) | November 22, 2014 20:41
 
-November 22, 2014 20:41 | Tags: [balloon-mapping](../tag/balloon-mapping), [jerusalem](../tag/jerusalem), [event](../tag/event), [israel](../tag/israel), [palestine](../tag/palestine), [urban-planning](../tag/urban-planning), [event:rsvp](../tag/event:rsvp), [middle-east](../tag/middle-east), [replication:14022](../tag/replication:14022)
+November 22, 2014 20:41 | Tags: [balloon-mapping](/tag/balloon-mapping), [jerusalem](/tag/jerusalem), [event](/tag/event), [israel](/tag/israel), [palestine](/tag/palestine), [urban-planning](/tag/urban-planning), [event:rsvp](/tag/event:rsvp), [middle-east](/tag/middle-east), [replication:14022](/tag/replication:14022)
 
 ----
 

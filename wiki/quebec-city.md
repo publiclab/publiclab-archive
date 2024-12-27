@@ -6,14 +6,14 @@ author: bdebaque
 path: /wiki/quebec-city.md
 nid: 10451
 uid: 57052
-
+cids: 
 ---
 
 # quebec-city
 
-by [warren](../profile/warren), [bdebaque](../profile/bdebaque)
+by [warren](/profile/warren), [bdebaque](/profile/bdebaque)
 
-May 08, 2014 13:46 | Tags: [quebec](../tag/quebec), [canada](../tag/canada), [lang:fr](../tag/lang:fr), [parent:northeast](../tag/parent:northeast)
+May 08, 2014 13:46 | Tags: [quebec](/tag/quebec), [canada](/tag/canada), [lang:fr](/tag/lang:fr), [parent:northeast](/tag/parent:northeast)
 
 ----
 

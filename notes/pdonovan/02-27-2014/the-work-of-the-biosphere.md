@@ -6,18 +6,16 @@ author: pdonovan
 path: /notes/pdonovan/02-27-2014/the-work-of-the-biosphere.md
 nid: 10073
 uid: 421114
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/069/original/logo-1.jpg)
 
 # The work of the biosphere
 
-by [pdonovan](../../../profile/pdonovan) | February 27, 2014 19:40
+by [pdonovan](/profile/pdonovan) | February 27, 2014 19:40
 
-February 27, 2014 19:40 | Tags: [water-quality-monitoring](../tag/water-quality-monitoring), [photosynthesis](../tag/photosynthesis), [soilcarbon](../tag/soilcarbon), [soilrespiration](../tag/soilrespiration), [soil-carbon](../tag/soil-carbon), [soil-respiration](../tag/soil-respiration), [water-flow](../tag/water-flow), [soil-carbon-accumulation](../tag/soil-carbon-accumulation), [biosphere](../tag/biosphere)
+February 27, 2014 19:40 | Tags: [water-quality-monitoring](/tag/water-quality-monitoring), [photosynthesis](/tag/photosynthesis), [soilcarbon](/tag/soilcarbon), [soilrespiration](/tag/soilrespiration), [soil-carbon](/tag/soil-carbon), [soil-respiration](/tag/soil-respiration), [water-flow](/tag/water-flow), [soil-carbon-accumulation](/tag/soil-carbon-accumulation), [biosphere](/tag/biosphere)
 
 ----
 

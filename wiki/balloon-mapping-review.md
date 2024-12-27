@@ -6,12 +6,12 @@ author: gonzoearth
 path: /wiki/balloon-mapping-review.md
 nid: 700
 uid: 12
-
+cids: 
 ---
 
 # balloon mapping review
 
-by [gonzoearth](../profile/gonzoearth)
+by [gonzoearth](/profile/gonzoearth)
 
 January 19, 2012 00:42 | Tags: 
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/5-19-2012/fluorescence-olive-oil-green-laser.md
 nid: 2140
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_1416.JPG)
 
 # Fluorescence in olive oil with green laser
 
-by [warren](../../../profile/warren) | May 19, 2012 14:35
+by [warren](/profile/warren) | May 19, 2012 14:35
 
-May 19, 2012 14:35 | Tags: [spectrometer](../tag/spectrometer), [olive-oil](../tag/olive-oil)
+May 19, 2012 14:35 | Tags: [spectrometer](/tag/spectrometer), [olive-oil](/tag/olive-oil)
 
 ----
 

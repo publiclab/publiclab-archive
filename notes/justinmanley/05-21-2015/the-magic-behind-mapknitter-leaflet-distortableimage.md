@@ -6,18 +6,16 @@ author: justinmanley
 path: /notes/justinmanley/05-21-2015/the-magic-behind-mapknitter-leaflet-distortableimage.md
 nid: 11826
 uid: 421556
-
 cids: 11726,11727,11746,14458
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/940/original/Leaflet.DistortableImage.png)
 
 # The Magic Behind MapKnitter: Leaflet.DistortableImage
 
-by [justinmanley](../../../profile/justinmanley) | May 21, 2015 03:24
+by [justinmanley](/profile/justinmanley) | May 21, 2015 03:24
 
-May 21, 2015 03:24 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [software](../tag/software), [tools](../tag/tools), [barnstar:basic](../tag/barnstar:basic)
+May 21, 2015 03:24 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [mapknitter](/tag/mapknitter), [software](/tag/software), [tools](/tag/tools), [barnstar:basic](/tag/barnstar:basic)
 
 ----
 

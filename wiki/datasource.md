@@ -6,14 +6,14 @@ author: liz
 path: /wiki/datasource.md
 nid: 20050
 uid: 7
-
+cids: 
 ---
 
 # Datasource
 
-by [ottinger](../profile/ottinger), [stevie](../profile/stevie), [mimiss](../profile/mimiss), [liz](../profile/liz)
+by [ottinger](/profile/ottinger), [stevie](/profile/stevie), [mimiss](/profile/mimiss), [liz](/profile/liz)
 
-July 09, 2019 21:40 | Tags: [education](../tag/education), [data](../tag/data), [existing-data](../tag/existing-data), [datasource](../tag/datasource), [public-data](../tag/public-data)
+July 09, 2019 21:40 | Tags: [education](/tag/education), [data](/tag/data), [existing-data](/tag/existing-data), [datasource](/tag/datasource), [public-data](/tag/public-data)
 
 ----
 
@@ -104,4 +104,4 @@ US County-level Data|County-by county information on prisons, energy, etc|https:
 ## Questions
 To view other people's questions about datasources, scroll through the table below. To ask whether anyone knows of the availability of a particular type of datasource, click the button and type in your own question:
 
-[datasource](../../tag/question:datasource)
+[datasource](/tag/question:datasource)

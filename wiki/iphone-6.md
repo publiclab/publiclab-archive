@@ -6,12 +6,12 @@ author: s21xt
 path: /wiki/iphone-6.md
 nid: 11981
 uid: 443746
-
+cids: 
 ---
 
 # iphone 6
 
-by [BOCSciences](../profile/BOCSciences), [s21xt](../profile/s21xt)
+by [BOCSciences](/profile/BOCSciences), [s21xt](/profile/s21xt)
 
 June 15, 2015 03:47 | Tags: 
 

@@ -6,18 +6,16 @@ author: jeremy
 path: /notes/jeremy/12-5-2011/balloon-mapping-uk-campus.md
 nid: 612
 uid: 323
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/img_4293.jpg)
 
 # Balloon Mapping the UK Campus
 
-by [jeremy](../../../profile/jeremy) | December 05, 2011 15:34
+by [jeremy](/profile/jeremy) | December 05, 2011 15:34
 
-December 05, 2011 15:34 | Tags: [first-time-poster](../tag/first-time-poster)
+December 05, 2011 15:34 | Tags: [first-time-poster](/tag/first-time-poster)
 
 ----
 

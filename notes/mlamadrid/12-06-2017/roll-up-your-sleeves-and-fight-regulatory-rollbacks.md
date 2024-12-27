@@ -6,18 +6,16 @@ author: mlamadrid
 path: /notes/mlamadrid/12-06-2017/roll-up-your-sleeves-and-fight-regulatory-rollbacks.md
 nid: 15314
 uid: 45586
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/813/original/Stitched_image.jpg)
 
 # Roll up your sleeves and fight regulatory rollbacks
 
-by [mlamadrid](../../../profile/mlamadrid) | December 06, 2017 00:03
+by [mlamadrid](/profile/mlamadrid) | December 06, 2017 00:03
 
-December 06, 2017 00:03 | Tags: [governance](../tag/governance)
+December 06, 2017 00:03 | Tags: [governance](/tag/governance)
 
 ----
 

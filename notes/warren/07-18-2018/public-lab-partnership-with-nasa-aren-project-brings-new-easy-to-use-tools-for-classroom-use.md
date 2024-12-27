@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/07-18-2018/public-lab-partnership-with-nasa-aren-project-brings-new-easy-to-use-tools-for-classroom-use.md
 nid: 16746
 uid: 1
-
 cids: 27570
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/748/original/plant.png)
 
 # Public Lab partnership with NASA AREN project brings new easy-to-use tools for classroom use
 
-by [warren](../../../profile/warren) | July 18, 2018 21:43
+by [warren](/profile/warren) | July 18, 2018 21:43
 
-July 18, 2018 21:43 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [education](../tag/education), [nasa](../tag/nasa), [infragram](../tag/infragram), [classroom](../tag/classroom), [blog](../tag/blog), [blog-submission](../tag/blog-submission), [multispectral-imaging](../tag/multispectral-imaging), [aren](../tag/aren), [image-sequencer](../tag/image-sequencer), [stem](../tag/stem), [globe](../tag/globe)
+July 18, 2018 21:43 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [education](/tag/education), [nasa](/tag/nasa), [infragram](/tag/infragram), [classroom](/tag/classroom), [blog](/tag/blog), [blog-submission](/tag/blog-submission), [multispectral-imaging](/tag/multispectral-imaging), [aren](/tag/aren), [image-sequencer](/tag/image-sequencer), [stem](/tag/stem), [globe](/tag/globe)
 
 ----
 

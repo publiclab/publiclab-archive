@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/12-10-2012/citizen-science-google.md
 nid: 5172
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/googleplus.jpg)
 
 # Citizen Science on Google+
 
-by [cfastie](../../../profile/cfastie) | December 11, 2012 02:01
+by [cfastie](/profile/cfastie) | December 11, 2012 02:01
 
-December 11, 2012 02:01 | Tags: [community](../tag/community), [kap](../tag/kap), [social-media](../tag/social-media), [outreach](../tag/outreach)
+December 11, 2012 02:01 | Tags: [community](/tag/community), [kap](/tag/kap), [social-media](/tag/social-media), [outreach](/tag/outreach)
 
 ----
 

@@ -6,18 +6,16 @@ author: loganw
 path: /notes/loganw/09-29-2016/new-possibilities-for-a-low-cost-gas-camera.md
 nid: 13507
 uid: 493273
-
 cids: 15539,15540,15547,15551,15740,15742,15743,16204,16205
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/204/original/blob)
 
 # New possibilities for a low-cost gas camera
 
-by [loganw](../../../profile/loganw) | September 29, 2016 19:21
+by [loganw](/profile/loganw) | September 29, 2016 19:21
 
-September 29, 2016 19:21 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-imaging](../tag/thermal-imaging), [camera](../tag/camera), [flir](../tag/flir), [methane](../tag/methane), [thermal](../tag/thermal), [gas](../tag/gas), [gas-sensor](../tag/gas-sensor), [heat](../tag/heat), [vocs](../tag/vocs), [thermopile](../tag/thermopile), [response:11377](../tag/response:11377), [gasfinder](../tag/gasfinder)
+September 29, 2016 19:21 | Tags: [thermal-photography](/tag/thermal-photography), [thermal-imaging](/tag/thermal-imaging), [camera](/tag/camera), [flir](/tag/flir), [methane](/tag/methane), [thermal](/tag/thermal), [gas](/tag/gas), [gas-sensor](/tag/gas-sensor), [heat](/tag/heat), [vocs](/tag/vocs), [thermopile](/tag/thermopile), [response:11377](/tag/response:11377), [gasfinder](/tag/gasfinder)
 
 ----
 

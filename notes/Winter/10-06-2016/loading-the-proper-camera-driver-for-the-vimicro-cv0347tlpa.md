@@ -6,16 +6,14 @@ author: Winter
 path: /notes/Winter/10-06-2016/loading-the-proper-camera-driver-for-the-vimicro-cv0347tlpa.md
 nid: 13527
 uid: 488457
-
 cids: 15590,15643,15644
-
 ---
 
 # loading the proper camera driver for the DSK webcam
 
-by [Winter](../../../profile/Winter) | October 06, 2016 13:41
+by [Winter](/profile/Winter) | October 06, 2016 13:41
 
-October 06, 2016 13:41 | Tags: [webcam](../tag/webcam), [dsk](../tag/dsk), [infragram](../tag/infragram), [camera](../tag/camera), [question:infragram](../tag/question:infragram), [question:infrared](../tag/question:infrared), [driver](../tag/driver), [question:infragram-webcam](../tag/question:infragram-webcam)
+October 06, 2016 13:41 | Tags: [webcam](/tag/webcam), [dsk](/tag/dsk), [infragram](/tag/infragram), [camera](/tag/camera), [question:infragram](/tag/question:infragram), [question:infrared](/tag/question:infrared), [driver](/tag/driver), [question:infragram-webcam](/tag/question:infragram-webcam)
 
 ----
 

@@ -6,16 +6,16 @@ author: bhamster
 path: /wiki/filter-microplastics-from-sand.md
 nid: 25081
 uid: 664477
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/783/original/Nurdles_sieve_eustatic.jpg)
 
 # Filtering microplastics from sand
 
-by [bhamster](../profile/bhamster)
+by [bhamster](/profile/bhamster)
 
-November 19, 2020 17:42 | Tags: [remediation](../tag/remediation), [method](../tag/method), [beach](../tag/beach), [microplastics](../tag/microplastics), [marine-debris](../tag/marine-debris), [nurdles](../tag/nurdles), [plastic-pellets](../tag/plastic-pellets), [filter-plastics-sand](../tag/filter-plastics-sand)
+November 19, 2020 17:42 | Tags: [remediation](/tag/remediation), [method](/tag/method), [beach](/tag/beach), [microplastics](/tag/microplastics), [marine-debris](/tag/marine-debris), [nurdles](/tag/nurdles), [plastic-pellets](/tag/plastic-pellets), [filter-plastics-sand](/tag/filter-plastics-sand)
 
 ----
 
@@ -95,7 +95,7 @@ Lead image from [@eustatic](https://publiclab.org/profile/eustatic) [in this pos
 
 Posts written by Public Lab community members and tagged with `activity:filter-microplastics-from-sand` will appear here. You can post your own activity using the button below.
 
-[filter-microplastics-from-sand](../../tag/activity:filter-microplastics-from-sand)
+[filter-microplastics-from-sand](/tag/activity:filter-microplastics-from-sand)
 
 <br>
 
@@ -103,7 +103,7 @@ Posts written by Public Lab community members and tagged with `activity:filter-m
 
 Questions from the Public Lab community tagged with `question:filter-microplastics-from-sand` will appear here. Ask your own question using the button below!
 
-[filter-microplastics-from-sand](../../tag/question:filter-microplastics-from-sand)
+[filter-microplastics-from-sand](/tag/question:filter-microplastics-from-sand)
 
 <br>
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/thermal-camera.md
 nid: 74
 uid: 1
-
+cids: 
 ---
 
 # Thermal camera
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-February 02, 2011 23:15 | Tags: [redirect:3](../tag/redirect:3)
+February 02, 2011 23:15 | Tags: [redirect:3](/tag/redirect:3)
 
 ----
 

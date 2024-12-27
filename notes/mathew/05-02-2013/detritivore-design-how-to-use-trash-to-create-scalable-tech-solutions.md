@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/05-02-2013/detritivore-design-how-to-use-trash-to-create-scalable-tech-solutions.md
 nid: 7208
 uid: 4
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/159/original/cds.jpg)
 
 # 'Detritivore' Design: How to Use Trash to Create Scalable Tech Solutions
 
-by [mathew](../../../profile/mathew) | May 02, 2013 16:43
+by [mathew](/profile/mathew) | May 02, 2013 16:43
 
-May 02, 2013 16:43 | Tags: [spectrometer](../tag/spectrometer), [reuse](../tag/reuse), [idealab](../tag/idealab), [waste](../tag/waste)
+May 02, 2013 16:43 | Tags: [spectrometer](/tag/spectrometer), [reuse](/tag/reuse), [idealab](/tag/idealab), [waste](/tag/waste)
 
 ----
 

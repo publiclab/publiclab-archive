@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/01-11-2016/oil-test-kit-round-2.md
 nid: 12576
 uid: 7
-
 cids: 13308
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/608/original/OTK_Diesel_Round2.png)
 
 # Oil Test Kit Round 2
 
-by [liz](../../../profile/liz) | January 11, 2016 01:28
+by [liz](/profile/liz) | January 11, 2016 01:28
 
-January 11, 2016 01:28 | Tags: [oil-testing-kit](../tag/oil-testing-kit)
+January 11, 2016 01:28 | Tags: [oil-testing-kit](/tag/oil-testing-kit)
 
 ----
 

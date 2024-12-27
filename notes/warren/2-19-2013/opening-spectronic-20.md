@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/2-19-2013/opening-spectronic-20.md
 nid: 6060
 uid: 1
-
 cids: 3488,3490,3507,4186,4187,4189,4199
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0382.JPG)
 
 # Opening up a Spectronic 20
 
-by [warren](../../../profile/warren) | February 20, 2013 00:27
+by [warren](/profile/warren) | February 20, 2013 00:27
 
-February 20, 2013 00:27 | Tags: [spectrometer](../tag/spectrometer), [spectronic20](../tag/spectronic20), [teardown](../tag/teardown)
+February 20, 2013 00:27 | Tags: [spectrometer](/tag/spectrometer), [spectronic20](/tag/spectronic20), [teardown](/tag/teardown)
 
 ----
 

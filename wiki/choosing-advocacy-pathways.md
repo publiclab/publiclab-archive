@@ -6,16 +6,16 @@ author: liz
 path: /wiki/choosing-advocacy-pathways.md
 nid: 12640
 uid: 7
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/759/original/Example.png)
 
 # Choosing advocacy pathways
 
-by [stevie](../profile/stevie), [liz](../profile/liz)
+by [stevie](/profile/stevie), [liz](/profile/liz)
 
-February 01, 2016 17:02 | Tags: [tool](../tag/tool), [tools](../tag/tools), [methods](../tag/methods), [advocacy](../tag/advocacy), [method](../tag/method), [community-organizing](../tag/community-organizing)
+February 01, 2016 17:02 | Tags: [tool](/tag/tool), [tools](/tag/tools), [methods](/tag/methods), [advocacy](/tag/advocacy), [method](/tag/method), [community-organizing](/tag/community-organizing)
 
 ----
 
@@ -24,8 +24,8 @@ Community groups facing an environmental concern often need to choose an advocac
  
 ###Choosing Advocacy Pathways Activities
 
-[advocacy-pathways](../../tag/activity:advocacy-pathways)
+[advocacy-pathways](/tag/activity:advocacy-pathways)
 
 ###Frequently Asked Questions
 
-[advocacy](../../tag/question:advocacy)
+[advocacy](/tag/question:advocacy)

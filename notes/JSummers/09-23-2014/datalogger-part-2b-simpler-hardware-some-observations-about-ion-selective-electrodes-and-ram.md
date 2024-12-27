@@ -6,18 +6,16 @@ author: JSummers
 path: /notes/JSummers/09-23-2014/datalogger-part-2b-simpler-hardware-some-observations-about-ion-selective-electrodes-and-ram.md
 nid: 11177
 uid: 304279
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/987/original/EagleBoardDataLogger4.png)
 
 # Datalogger part 2b, simpler hardware, some observations about ion selective electrodes, and RAM.
 
-by [JSummers](../../../profile/JSummers) | September 23, 2014 20:30
+by [JSummers](/profile/JSummers) | September 23, 2014 20:30
 
-September 23, 2014 20:30 | Tags: [datalogger](../tag/datalogger), [response:10288](../tag/response:10288), [data-logging](../tag/data-logging)
+September 23, 2014 20:30 | Tags: [datalogger](/tag/datalogger), [response:10288](/tag/response:10288), [data-logging](/tag/data-logging)
 
 ----
 

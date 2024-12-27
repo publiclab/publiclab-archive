@@ -6,16 +6,14 @@ author: baxamook
 path: /notes/baxamook/03-01-2018/can-i-use-the-lego-spectrometer-to-measure-enviromental-light-spectrum.md
 nid: 15842
 uid: 526403
-
 cids: 18753,22965
-
 ---
 
 # Can I use the lego spectrometer to measure enviromental light spectrum?
 
-by [baxamook](../../../profile/baxamook) | March 01, 2018 04:36
+by [baxamook](/profile/baxamook) | March 01, 2018 04:36
 
-March 01, 2018 04:36 | Tags: [question:lego-spectrometer](../tag/question:lego-spectrometer), [lego-spectrometer](../tag/lego-spectrometer), [response:15135](../tag/response:15135)
+March 01, 2018 04:36 | Tags: [question:lego-spectrometer](/tag/question:lego-spectrometer), [lego-spectrometer](/tag/lego-spectrometer), [response:15135](/tag/response:15135)
 
 ----
 

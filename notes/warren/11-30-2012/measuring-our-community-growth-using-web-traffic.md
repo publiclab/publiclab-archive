@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/11-30-2012/measuring-our-community-growth-using-web-traffic.md
 nid: 5068
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-11-30 at 2.09.48 PM.png)
 
 # Measuring our community growth using web traffic
 
-by [warren](../../../profile/warren) | November 30, 2012 19:12
+by [warren](/profile/warren) | November 30, 2012 19:12
 
-November 30, 2012 19:12 | Tags: [community-metrics](../tag/community-metrics), [community](../tag/community), [website](../tag/website), [webworkinggroup](../tag/webworkinggroup), [organizers](../tag/organizers), [analytics](../tag/analytics), [quantitative](../tag/quantitative), [evaluation](../tag/evaluation)
+November 30, 2012 19:12 | Tags: [community-metrics](/tag/community-metrics), [community](/tag/community), [website](/tag/website), [webworkinggroup](/tag/webworkinggroup), [organizers](/tag/organizers), [analytics](/tag/analytics), [quantitative](/tag/quantitative), [evaluation](/tag/evaluation)
 
 ----
 

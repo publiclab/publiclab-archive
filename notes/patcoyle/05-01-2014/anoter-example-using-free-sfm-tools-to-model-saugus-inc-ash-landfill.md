@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/05-01-2014/anoter-example-using-free-sfm-tools-to-model-saugus-inc-ash-landfill.md
 nid: 10390
 uid: 77
-
 cids: 8949,10429
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/961/original/Sagus_MA_model_views00.png)
 
 # Another example: using free SFM tools to model Saugus Inc. Ash Landfill
 
-by [patcoyle](../../../profile/patcoyle) | May 01, 2014 22:17
+by [patcoyle](/profile/patcoyle) | May 01, 2014 22:17
 
-May 01, 2014 22:17 | Tags: [kite-mapping](../tag/kite-mapping), [boston](../tag/boston), [saugus](../tag/saugus), [landfill](../tag/landfill), [sfm](../tag/sfm), [structure-from-motion](../tag/structure-from-motion), [waste](../tag/waste), [basurama](../tag/basurama), [response:9977](../tag/response:9977), [northeast](../tag/northeast), [volume](../tag/volume), [midwest](../tag/midwest), [response:10159](../tag/response:10159)
+May 01, 2014 22:17 | Tags: [kite-mapping](/tag/kite-mapping), [boston](/tag/boston), [saugus](/tag/saugus), [landfill](/tag/landfill), [sfm](/tag/sfm), [structure-from-motion](/tag/structure-from-motion), [waste](/tag/waste), [basurama](/tag/basurama), [response:9977](/tag/response:9977), [northeast](/tag/northeast), [volume](/tag/volume), [midwest](/tag/midwest), [response:10159](/tag/response:10159)
 
 ----
 

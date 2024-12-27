@@ -6,16 +6,14 @@ author: tylerknight
 path: /notes/tylerknight/07-08-2022/june-pm-2-5-data.md
 nid: 31265
 uid: 777566
-
 cids: 
-
 ---
 
 # June PM 2.5 Data
 
-by [tylerknight](../../../profile/tylerknight) | July 08, 2022 14:35
+by [tylerknight](/profile/tylerknight) | July 08, 2022 14:35
 
-July 08, 2022 14:35 | Tags: [gulf-coast](../tag/gulf-coast), [air-quality](../tag/air-quality), [pm](../tag/pm), [particulate-matter](../tag/particulate-matter), [purpleair](../tag/purpleair), [st-james](../tag/st-james), [formosaplastics](../tag/formosaplastics)
+July 08, 2022 14:35 | Tags: [gulf-coast](/tag/gulf-coast), [air-quality](/tag/air-quality), [pm](/tag/pm), [particulate-matter](/tag/particulate-matter), [purpleair](/tag/purpleair), [st-james](/tag/st-james), [formosaplastics](/tag/formosaplastics)
 
 ----
 

@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/05-11-2017/public-lab-receives-gulf-coast-support-from-the-national-academies.md
 nid: 14178
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/418/original/PublicLab.png)
 
 # Public Lab receives Gulf Coast support from the National Academies
 
-by [Shannon](../../../profile/Shannon) | May 11, 2017 17:46
+by [Shannon](/profile/Shannon) | May 11, 2017 17:46
 
-May 11, 2017 17:46 | Tags: [gulf-coast](../tag/gulf-coast)
+May 11, 2017 17:46 | Tags: [gulf-coast](/tag/gulf-coast)
 
 ----
 

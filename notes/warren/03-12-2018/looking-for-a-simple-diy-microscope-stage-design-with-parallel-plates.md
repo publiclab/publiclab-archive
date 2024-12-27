@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/03-12-2018/looking-for-a-simple-diy-microscope-stage-design-with-parallel-plates.md
 nid: 15926
 uid: 1
-
 cids: 18893,18902,23077
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/024/original/600px-LifePatchMicroscope.jpg)
 
 # Looking for a simple DIY microscope stage design with parallel plates
 
-by [warren](../../../profile/warren) | March 12, 2018 19:04
+by [warren](/profile/warren) | March 12, 2018 19:04
 
-March 12, 2018 19:04 | Tags: [kits](../tag/kits), [microscopes](../tag/microscopes), [question:microscopes](../tag/question:microscopes), [sourcing](../tag/sourcing), [community-kits](../tag/community-kits), [question:basic-microscope](../tag/question:basic-microscope), [basic-microscope](../tag/basic-microscope), [microscope-stage](../tag/microscope-stage), [question:microscope-stage](../tag/question:microscope-stage)
+March 12, 2018 19:04 | Tags: [kits](/tag/kits), [microscopes](/tag/microscopes), [question:microscopes](/tag/question:microscopes), [sourcing](/tag/sourcing), [community-kits](/tag/community-kits), [question:basic-microscope](/tag/question:basic-microscope), [basic-microscope](/tag/basic-microscope), [microscope-stage](/tag/microscope-stage), [question:microscope-stage](/tag/question:microscope-stage)
 
 ----
 

@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/12-04-2020/regist-ro.md
 nid: 25162
 uid: 495038
-
 cids: 27785
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/884/original/portada.png)
 
 # Regist.ro
 
-by [imvec](../../../profile/imvec) | December 04, 2020 20:27
+by [imvec](/profile/imvec) | December 04, 2020 20:27
 
-December 04, 2020 20:27 | Tags: [lang:es](../tag/lang:es), [odor](../tag/odor), [ballon-mapping](../tag/ballon-mapping), [spanish](../tag/spanish), [herramientas](../tag/herramientas)
+December 04, 2020 20:27 | Tags: [lang:es](/tag/lang:es), [odor](/tag/odor), [ballon-mapping](/tag/ballon-mapping), [spanish](/tag/spanish), [herramientas](/tag/herramientas)
 
 ----
 

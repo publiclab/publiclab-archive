@@ -6,14 +6,14 @@ author: deepwinter
 path: /wiki/suggested-experiment-collapsed-salt-marsh-h2s-test-strip-study.md
 nid: 2757
 uid: 808
-
+cids: 
 ---
 
 # Suggested Experiment for Collapsed Salt Marsh H2S Test Strip Study
 
-by [liz](../profile/liz), [deepwinter](../profile/deepwinter)
+by [liz](/profile/liz), [deepwinter](/profile/deepwinter)
 
-July 11, 2012 18:45 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [parent:hydrogen-sulfide-sensing](../tag/parent:hydrogen-sulfide-sensing)
+July 11, 2012 18:45 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [parent:hydrogen-sulfide-sensing](/tag/parent:hydrogen-sulfide-sensing)
 
 ----
 

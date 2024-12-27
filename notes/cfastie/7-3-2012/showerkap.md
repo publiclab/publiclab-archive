@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/7-3-2012/showerkap.md
 nid: 2696
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Monashot_120627_2452.jpg)
 
 # The ShowerKAP
 
-by [cfastie](../../../profile/cfastie) | July 03, 2012 04:06
+by [cfastie](/profile/cfastie) | July 03, 2012 04:06
 
-July 03, 2012 04:06 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [alaska](../tag/alaska), [photo-rig](../tag/photo-rig), [akrange](../tag/akrange), [activity:photo-rig](../tag/activity:photo-rig)
+July 03, 2012 04:06 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [alaska](/tag/alaska), [photo-rig](/tag/photo-rig), [akrange](/tag/akrange), [activity:photo-rig](/tag/activity:photo-rig)
 
 ----
 

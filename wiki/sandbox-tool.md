@@ -6,12 +6,12 @@ author: liz
 path: /wiki/sandbox-tool.md
 nid: 12958
 uid: 7
-
+cids: 
 ---
 
 # sandbox-tool
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
 April 11, 2016 17:00 | Tags: 
 

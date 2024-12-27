@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/04-07-2014/public-lab-community-newsletter-4-6-14.md
 nid: 10271
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/521/original/logo.png)
 
 # Public Lab community newsletter 4.6.14
 
-by [Shannon](../../../profile/Shannon) | April 07, 2014 01:52
+by [Shannon](/profile/Shannon) | April 07, 2014 01:52
 
-April 07, 2014 01:52 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+April 07, 2014 01:52 | Tags: [newsletter](/tag/newsletter), [newsletter-archive](/tag/newsletter-archive)
 
 ----
 

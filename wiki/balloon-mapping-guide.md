@@ -6,14 +6,14 @@ author: warren
 path: /wiki/balloon-mapping-guide.md
 nid: 10533
 uid: 1
-
+cids: 
 ---
 
 # Balloon Mapping Guide
 
-by [abdul](../profile/abdul), [warren](../profile/warren)
+by [abdul](/profile/abdul), [warren](/profile/warren)
 
-June 06, 2014 20:41 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [guides](../tag/guides), [balloon-mapping-kit](../tag/balloon-mapping-kit), [guide](../tag/guide)
+June 06, 2014 20:41 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [guides](/tag/guides), [balloon-mapping-kit](/tag/balloon-mapping-kit), [guide](/tag/guide)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/2-7-2012/more-tests-hamster-ball-air-quality-monitoring.md
 nid: 761
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/6836250339_4fa8172c29_b.jpg)
 
 # More tests for "hamster ball" air quality monitoring
 
-by [warren](../../../profile/warren) | February 07, 2012 16:31
+by [warren](/profile/warren) | February 07, 2012 16:31
 
-February 07, 2012 16:31 | Tags: [indoor-air-quality-mapping](../tag/indoor-air-quality-mapping), [hamster-ball](../tag/hamster-ball), [air-quality](../tag/air-quality), [air-sensors](../tag/air-sensors)
+February 07, 2012 16:31 | Tags: [indoor-air-quality-mapping](/tag/indoor-air-quality-mapping), [hamster-ball](/tag/hamster-ball), [air-quality](/tag/air-quality), [air-sensors](/tag/air-sensors)
 
 ----
 

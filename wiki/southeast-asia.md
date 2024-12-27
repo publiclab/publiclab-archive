@@ -6,14 +6,14 @@ author: liz
 path: /wiki/southeast-asia.md
 nid: 817
 uid: 7
-
+cids: 
 ---
 
 # Southeast Asia
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-February 20, 2012 18:28 | Tags: [india](../tag/india), [region](../tag/region), [igem](../tag/igem)
+February 20, 2012 18:28 | Tags: [india](/tag/india), [region](/tag/region), [igem](/tag/igem)
 
 ----
 

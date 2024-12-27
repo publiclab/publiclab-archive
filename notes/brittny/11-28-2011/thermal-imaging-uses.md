@@ -6,18 +6,16 @@ author: Brittny
 path: /notes/brittny/11-28-2011/thermal-imaging-uses.md
 nid: 587
 uid: 370
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMAG0350.jpeg)
 
 # Thermal Imaging Uses
 
-by [Brittny](../../../profile/Brittny) | November 28, 2011 18:28
+by [Brittny](/profile/Brittny) | November 28, 2011 18:28
 
-November 28, 2011 18:28 | Tags: [first-time-poster](../tag/first-time-poster)
+November 28, 2011 18:28 | Tags: [first-time-poster](/tag/first-time-poster)
 
 ----
 

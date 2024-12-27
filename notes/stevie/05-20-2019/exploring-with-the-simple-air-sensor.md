@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/05-20-2019/exploring-with-the-simple-air-sensor.md
 nid: 19469
 uid: 422561
-
 cids: 24215,24216,24217,24218,24234,26008,26226,26227
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/367/original/20190520_143403.jpg)
 
 # Exploring with the Simple Air Sensor
 
-by [stevie](../../../profile/stevie) | May 20, 2019 20:44
+by [stevie](/profile/stevie) | May 20, 2019 20:44
 
-May 20, 2019 20:44 | Tags: [sensors](../tag/sensors), [pm](../tag/pm), [barnstar:basic](../tag/barnstar:basic), [sensor](../tag/sensor), [category:test-limits](../tag/category:test-limits), [time:1h](../tag/time:1h), [particulate-matter](../tag/particulate-matter), [simple-air-sensor](../tag/simple-air-sensor), [activity:simple-air-sensor](../tag/activity:simple-air-sensor)
+May 20, 2019 20:44 | Tags: [sensors](/tag/sensors), [pm](/tag/pm), [barnstar:basic](/tag/barnstar:basic), [sensor](/tag/sensor), [category:test-limits](/tag/category:test-limits), [time:1h](/tag/time:1h), [particulate-matter](/tag/particulate-matter), [simple-air-sensor](/tag/simple-air-sensor), [activity:simple-air-sensor](/tag/activity:simple-air-sensor)
 
 ----
 

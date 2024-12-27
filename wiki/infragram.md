@@ -6,16 +6,16 @@ author: donblair
 path: /wiki/infragram.md
 nid: 7558
 uid: 43651
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/974/original/Screenshot_2017-10-18_at_5.42.41_PM.png)
 
 # Infragram
 
-by [warren](../profile/warren), [liz](../profile/liz), [mimiss](../profile/mimiss), [natalie](../profile/natalie), [mathew](../profile/mathew), [paulokemperfilho](../profile/paulokemperfilho), [msfisher](../profile/msfisher), [cfastie](../profile/cfastie), [donblair](../profile/donblair)
+by [warren](/profile/warren), [liz](/profile/liz), [mimiss](/profile/mimiss), [natalie](/profile/natalie), [mathew](/profile/mathew), [paulokemperfilho](/profile/paulokemperfilho), [msfisher](/profile/msfisher), [cfastie](/profile/cfastie), [donblair](/profile/donblair)
 
-May 15, 2013 01:17 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [remote-sensing](../tag/remote-sensing), [ndvi](../tag/ndvi), [wetlands](../tag/wetlands), [agriculture](../tag/agriculture), [software](../tag/software), [near-infrared](../tag/near-infrared), [soil](../tag/soil), [infragram](../tag/infragram), [list:plots-infrared](../tag/list:plots-infrared), [tool](../tag/tool), [19](../tag/19), [parent:multispectral-imaging](../tag/parent:multispectral-imaging), [method](../tag/method), [location:blurred](../tag/location:blurred), [agricultural](../tag/agricultural), [fertilizer](../tag/fertilizer), [remote-](../tag/remote-), [zoom:13](../tag/zoom:13), [lat:32.74](../tag/lat:32.74), [lon:-117.13](../tag/lon:-117.13)
+May 15, 2013 01:17 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [remote-sensing](/tag/remote-sensing), [ndvi](/tag/ndvi), [wetlands](/tag/wetlands), [agriculture](/tag/agriculture), [software](/tag/software), [near-infrared](/tag/near-infrared), [soil](/tag/soil), [infragram](/tag/infragram), [list:plots-infrared](/tag/list:plots-infrared), [tool](/tag/tool), [19](/tag/19), [parent:multispectral-imaging](/tag/parent:multispectral-imaging), [method](/tag/method), [location:blurred](/tag/location:blurred), [agricultural](/tag/agricultural), [fertilizer](/tag/fertilizer), [remote-](/tag/remote-), [zoom:13](/tag/zoom:13), [lat:32.74](/tag/lat:32.74), [lon:-117.13](/tag/lon:-117.13)
 
 ----
 
@@ -54,7 +54,7 @@ To get a kit with this already set up on an SD card and/or Raspberry Pi camera, 
 * [Infragram Pi Camera Kit](https://store.publiclab.org/products/infragram-pi-camera)
 * [Pre-flashed SD cards for Raspberry Pi cameras](https://store.publiclab.org/products/pi-builder-cards)
 
-[grid:activity:pi-camera-setup](../../tag/grid:activity:pi-camera-setup)
+[grid:activity:pi-camera-setup](/tag/grid:activity:pi-camera-setup)
 
 ****
 
@@ -149,7 +149,7 @@ Since these are a hard to keep track of, here's a diagram to show the three main
 
 An important limitation of most DIY techniques is that we are using uncalibrated cameras, and so the analysis works best when we compare two vegetated areas under the same conditions (light, angle, time of day) rather than just take a photo of a single region. That is, the DIY approach is based on relative, or comparative, uses -- you can't learn a lot without a point of comparison. 
 
-[ndvi-comparison](../../tag/question:ndvi-comparison)
+[ndvi-comparison](/tag/question:ndvi-comparison)
 
 An easy way to do a comparison is:
 
@@ -179,14 +179,14 @@ Post questions or troubleshooting requests here, for example about:
 * what to compare against (see study design)
 * different lighting conditions or angles
 
-[infragram](../../tag/question:infragram)
+[infragram](/tag/question:infragram)
 
 
 ****
 
 ## Activities
 
-[infragram](../../tag/activity:infragram)
+[infragram](/tag/activity:infragram)
 
 ****
 
@@ -199,7 +199,7 @@ Be sure to add:
 * constraints: expense, complexity
 * goals: performance, use cases
 
-[infragram-challenges](../../tag/question:infragram-challenges)
+[infragram-challenges](/tag/question:infragram-challenges)
 
 ****
 
@@ -207,7 +207,7 @@ Be sure to add:
 
 Here are some resources to get help converting or using your Infragram camera. Keep in mind that we are a peer driven community and we encourage everyone to give as well as receive assistance and support!
 
-[infragram](../../tag/question:infragram)
+[infragram](/tag/question:infragram)
 
 When describing your question or answer, please include details of the equipment and process you are using [as described here for Infragram photos](http://publiclab.org/notes/cfastie/07-17-2013/infrablue-minutiae) .
 

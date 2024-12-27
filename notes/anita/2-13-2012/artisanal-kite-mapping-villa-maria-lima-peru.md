@@ -6,18 +6,16 @@ author: anita
 path: /notes/anita/2-13-2012/artisanal-kite-mapping-villa-maria-lima-peru.md
 nid: 786
 uid: 481
-
 cids: 460,461,462,463,464,471
-
 ---
 
 ![](https://publiclab.org/sites/default/files/VMT_2.jpg)
 
 # Artisanal Kite Mapping: Villa Maria, Lima, Peru
 
-by [anita](../../../profile/anita) | February 14, 2012 01:19
+by [anita](/profile/anita) | February 14, 2012 01:19
 
-February 14, 2012 01:19 | Tags: [lima](../tag/lima), [kite-mapping](../tag/kite-mapping), [peru](../tag/peru), [tenure-mapping](../tag/tenure-mapping)
+February 14, 2012 01:19 | Tags: [lima](/tag/lima), [kite-mapping](/tag/kite-mapping), [peru](/tag/peru), [tenure-mapping](/tag/tenure-mapping)
 
 ----
 

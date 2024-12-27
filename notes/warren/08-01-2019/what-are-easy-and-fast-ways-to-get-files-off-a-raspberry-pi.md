@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/08-01-2019/what-are-easy-and-fast-ways-to-get-files-off-a-raspberry-pi.md
 nid: 20379
 uid: 1
-
 cids: 25180,25214,25434
-
 ---
 
 # What are easy and fast ways to get files off a Raspberry Pi?
 
-by [warren](../../../profile/warren) | August 01, 2019 10:11
+by [warren](/profile/warren) | August 01, 2019 10:11
 
-August 01, 2019 10:11 | Tags: [pi-camera](../tag/pi-camera), [question:raspberry-pi](../tag/question:raspberry-pi), [question:pi-camera](../tag/question:pi-camera), [question:raspberry-pi-infragram](../tag/question:raspberry-pi-infragram), [question:raspberry-pi-spectrometer](../tag/question:raspberry-pi-spectrometer), [lego-spectrometer](../tag/lego-spectrometer), [pi-builder](../tag/pi-builder), [infragram-pi](../tag/infragram-pi), [question:pi-builder](../tag/question:pi-builder)
+August 01, 2019 10:11 | Tags: [pi-camera](/tag/pi-camera), [question:raspberry-pi](/tag/question:raspberry-pi), [question:pi-camera](/tag/question:pi-camera), [question:raspberry-pi-infragram](/tag/question:raspberry-pi-infragram), [question:raspberry-pi-spectrometer](/tag/question:raspberry-pi-spectrometer), [lego-spectrometer](/tag/lego-spectrometer), [pi-builder](/tag/pi-builder), [infragram-pi](/tag/infragram-pi), [question:pi-builder](/tag/question:pi-builder)
 
 ----
 

@@ -6,18 +6,16 @@ author: sara
 path: /notes/sara/3-30-2012/description-horwell-et-al-2004-experimental-set-testing-photopaper-test-strips.md
 nid: 1585
 uid: 8
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Diagram1HorwellExpSetUp.jpg)
 
 # Description: Horwell et. al. 2004 Experimental Set for Testing Photopaper test strips
 
-by [sara](../../../profile/sara) | March 30, 2012 21:33
+by [sara](/profile/sara) | March 30, 2012 21:33
 
-March 30, 2012 21:33 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [h2s](../tag/h2s), [photo-paper](../tag/photo-paper), [h2s-photopaper](../tag/h2s-photopaper)
+March 30, 2012 21:33 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [h2s](/tag/h2s), [photo-paper](/tag/photo-paper), [h2s-photopaper](/tag/h2s-photopaper)
 
 ----
 

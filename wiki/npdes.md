@@ -6,14 +6,14 @@ author: gretchengehrke
 path: /wiki/npdes.md
 nid: 13835
 uid: 430549
-
+cids: 
 ---
 
 # NPDES
 
-by [warren](../profile/warren), [gretchengehrke](../profile/gretchengehrke)
+by [warren](/profile/warren), [gretchengehrke](/profile/gretchengehrke)
 
-January 03, 2017 22:41 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [regulations](../tag/regulations), [stormwater](../tag/stormwater), [wastewater](../tag/wastewater), [npdes](../tag/npdes), [clean-water-act](../tag/clean-water-act), [parent:water-quality](../tag/parent:water-quality), [law](../tag/law), [wastewater-advocacy](../tag/wastewater-advocacy)
+January 03, 2017 22:41 | Tags: [water-quality](/tag/water-quality), [water](/tag/water), [regulations](/tag/regulations), [stormwater](/tag/stormwater), [wastewater](/tag/wastewater), [npdes](/tag/npdes), [clean-water-act](/tag/clean-water-act), [parent:water-quality](/tag/parent:water-quality), [law](/tag/law), [wastewater-advocacy](/tag/wastewater-advocacy)
 
 ----
 
@@ -116,4 +116,4 @@ We're collecting and working our way through a range of questions about NPDES --
 
 <a class="btn btn-primary" href="/post?tags=stormwater,npdes,question:npdes,question:stormwater,water-quality&template=question">Ask a question about NPDES</a>
 
-[question:npdes](../../tag/question:npdes)
+[question:npdes](/tag/question:npdes)

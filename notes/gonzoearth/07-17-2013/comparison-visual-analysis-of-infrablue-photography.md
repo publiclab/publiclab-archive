@@ -6,16 +6,14 @@ author: gonzoearth
 path: /notes/gonzoearth/07-17-2013/comparison-visual-analysis-of-infrablue-photography.md
 nid: 8904
 uid: 12
-
 cids: 6334
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/833/original/vis-ndvi-fastie.gif)
 
 # comparison visual analysis of infrablue photography 
 
-by [gonzoearth](../../../profile/gonzoearth) | July 17, 2013 19:34
+by [gonzoearth](/profile/gonzoearth) | July 17, 2013 19:34
 
 July 17, 2013 19:34 | Tags: 
 

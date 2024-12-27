@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/6-22-2012/extra-reels-and-balloons-now-sale-plus-t-shirts.md
 nid: 2612
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/store.png)
 
 # Extra reels and balloons now for sale, plus T-shirts!
 
-by [warren](../../../profile/warren) | June 22, 2012 19:57
+by [warren](/profile/warren) | June 22, 2012 19:57
 
-June 22, 2012 19:57 | Tags: [retail](../tag/retail), [shop](../tag/shop), [tshirt](../tag/tshirt), [kits](../tag/kits), [store](../tag/store)
+June 22, 2012 19:57 | Tags: [retail](/tag/retail), [shop](/tag/shop), [tshirt](/tag/tshirt), [kits](/tag/kits), [store](/tag/store)
 
 ----
 

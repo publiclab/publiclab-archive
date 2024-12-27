@@ -6,12 +6,12 @@ author: warren
 path: /wiki/h2s.md
 nid: 20836
 uid: 1
-
+cids: 
 ---
 
 # h2s
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 September 11, 2019 20:33 | Tags: 
 

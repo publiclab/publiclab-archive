@@ -6,18 +6,16 @@ author: klie
 path: /notes/klie/12-21-2016/public-lab-community-newsletter-december-2016.md
 nid: 13802
 uid: 441262
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/100/original/Screen_Shot_2016-12-17_at_9.01.46_AM.png)
 
 # Public Lab Community Newsletter: December 2016
 
-by [klie](../../../profile/klie) | December 21, 2016 18:53
+by [klie](/profile/klie) | December 21, 2016 18:53
 
-December 21, 2016 18:53 | Tags: [balloon-mapping](../tag/balloon-mapping), [newsletter](../tag/newsletter), [barnraising](../tag/barnraising), [lumcon](../tag/lumcon), [urban-planning](../tag/urban-planning), [refugeecamps](../tag/refugeecamps), [bourjalshamali](../tag/bourjalshamali), [barnraising-2016](../tag/barnraising-2016)
+December 21, 2016 18:53 | Tags: [balloon-mapping](/tag/balloon-mapping), [newsletter](/tag/newsletter), [barnraising](/tag/barnraising), [lumcon](/tag/lumcon), [urban-planning](/tag/urban-planning), [refugeecamps](/tag/refugeecamps), [bourjalshamali](/tag/bourjalshamali), [barnraising-2016](/tag/barnraising-2016)
 
 ----
 

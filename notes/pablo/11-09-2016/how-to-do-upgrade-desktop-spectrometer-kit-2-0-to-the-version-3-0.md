@@ -6,18 +6,16 @@ author: pablo
 path: /notes/pablo/11-09-2016/how-to-do-upgrade-desktop-spectrometer-kit-2-0-to-the-version-3-0.md
 nid: 13689
 uid: 160
-
 cids: 16728
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/735/original/Cw0j9cVXEAAfVWV.jpg)
 
 # How to do upgrade Desktop Spectrometer Kit 2.0 to the version 3.0 
 
-by [pablo](../../../profile/pablo) | November 09, 2016 23:46
+by [pablo](/profile/pablo) | November 09, 2016 23:46
 
-November 09, 2016 23:46 | Tags: [spectrometer](../tag/spectrometer), [upgrade:spectrometry](../tag/upgrade:spectrometry), [seeks:builds](../tag/seeks:builds), [status:in-progress](../tag/status:in-progress)
+November 09, 2016 23:46 | Tags: [spectrometer](/tag/spectrometer), [upgrade:spectrometry](/tag/upgrade:spectrometry), [seeks:builds](/tag/seeks:builds), [status:in-progress](/tag/status:in-progress)
 
 ----
 

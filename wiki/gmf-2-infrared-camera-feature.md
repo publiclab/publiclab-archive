@@ -6,14 +6,14 @@ author: warren
 path: /wiki/gmf-2-infrared-camera-feature.md
 nid: 2541
 uid: 1
-
+cids: 
 ---
 
 # GMF 2 infrared camera feature
 
-by [mathew](../profile/mathew), [warren](../profile/warren), [cfastie](../profile/cfastie)
+by [mathew](/profile/mathew), [warren](/profile/warren), [cfastie](/profile/cfastie)
 
-June 18, 2012 18:51 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
+June 18, 2012 18:51 | Tags: [near-infrared-camera](/tag/near-infrared-camera)
 
 ----
 

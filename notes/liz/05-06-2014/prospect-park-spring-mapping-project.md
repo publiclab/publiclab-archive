@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/05-06-2014/prospect-park-spring-mapping-project.md
 nid: 10435
 uid: 7
-
 cids: 8985
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/092/original/IMG_2379.JPG)
 
 # Prospect Park spring mapping project
 
-by [liz](../../../profile/liz) | May 06, 2014 21:25
+by [liz](/profile/liz) | May 06, 2014 21:25
 
-May 06, 2014 21:25 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [event](../tag/event), [prospect-park](../tag/prospect-park), [glam](../tag/glam), [groundwater](../tag/groundwater), [spring](../tag/spring)
+May 06, 2014 21:25 | Tags: [new-york-city](/tag/new-york-city), [gowanus](/tag/gowanus), [event](/tag/event), [prospect-park](/tag/prospect-park), [glam](/tag/glam), [groundwater](/tag/groundwater), [spring](/tag/spring)
 
 ----
 

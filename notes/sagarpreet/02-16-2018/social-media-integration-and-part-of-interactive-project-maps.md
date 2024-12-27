@@ -6,18 +6,16 @@ author: sagarpreet
 path: /notes/sagarpreet/02-16-2018/social-media-integration-and-part-of-interactive-project-maps.md
 nid: 15744
 uid: 516343
-
 cids: 18448,18466,18467,18471,18475,18476,18481,18488,18513,18517,18526,18527,18528,18595,18614,18717,18719,18720,18728,18731,18736,18737,18738,18739,18740,18741,18750,18836,18868,18885,18943,18981,18982,19032,19058,19059,19060,19061,19066,19068,19091,19098,19107,19115,19129,19131,19155,19204
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/007/original/header_gif.gif)
 
 # GSoC proposal: Social Media Integration and Leaflet-Layers Library .
 
-by [sagarpreet](../../../profile/sagarpreet) | February 16, 2018 05:09
+by [sagarpreet](/profile/sagarpreet) | February 16, 2018 05:09
 
-February 16, 2018 05:09 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [gsoc-2018-final](../tag/gsoc-2018-final), [first-time-poster](../tag/first-time-poster)
+February 16, 2018 05:09 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [soc](/tag/soc), [response:13975](/tag/response:13975), [gsoc-2018](/tag/gsoc-2018), [soc-2018](/tag/soc-2018), [soc-2018-proposals](/tag/soc-2018-proposals), [gsoc-2018-final](/tag/gsoc-2018-final), [first-time-poster](/tag/first-time-poster)
 
 ----
 

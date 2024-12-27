@@ -6,14 +6,14 @@ author: Shannon
 path: /wiki/roomba-air-quality-monitoring.md
 nid: 11691
 uid: 9
-
+cids: 
 ---
 
 # Roomba Air Quality Monitoring
 
-by [Shannon](../profile/Shannon)
+by [Shannon](/profile/Shannon)
 
-March 19, 2015 15:06 | Tags: [air-quality](../tag/air-quality), [formaldehyde](../tag/formaldehyde), [roomba](../tag/roomba), [wherewebreathe](../tag/wherewebreathe), [indoor-air-quality](../tag/indoor-air-quality)
+March 19, 2015 15:06 | Tags: [air-quality](/tag/air-quality), [formaldehyde](/tag/formaldehyde), [roomba](/tag/roomba), [wherewebreathe](/tag/wherewebreathe), [indoor-air-quality](/tag/indoor-air-quality)
 
 ----
 

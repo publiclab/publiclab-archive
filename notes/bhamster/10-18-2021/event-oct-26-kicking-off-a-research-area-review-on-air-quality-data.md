@@ -6,18 +6,16 @@ author: bhamster
 path: /notes/bhamster/10-18-2021/event-oct-26-kicking-off-a-research-area-review-on-air-quality-data.md
 nid: 27929
 uid: 664477
-
 cids: 29333,29342,29354,29363
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/927/original/LESBreathe_PM25_July4.png)
 
 # Event Oct. 26: Kicking off a research area review on air quality data
 
-by [bhamster](../../../profile/bhamster) | October 18, 2021 18:50
+by [bhamster](/profile/bhamster) | October 18, 2021 18:50
 
-October 18, 2021 18:50 | Tags: [event](../tag/event), [air-quality](../tag/air-quality), [event:rsvp](../tag/event:rsvp), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review), [research-curation-fellows-event](../tag/research-curation-fellows-event), [with:fongvania](../tag/with:fongvania), [air-quality-data](../tag/air-quality-data)
+October 18, 2021 18:50 | Tags: [event](/tag/event), [air-quality](/tag/air-quality), [event:rsvp](/tag/event:rsvp), [reviews](/tag/reviews), [research-area-review](/tag/research-area-review), [research-curation-fellows-event](/tag/research-curation-fellows-event), [with:fongvania](/tag/with:fongvania), [air-quality-data](/tag/air-quality-data)
 
 ----
 

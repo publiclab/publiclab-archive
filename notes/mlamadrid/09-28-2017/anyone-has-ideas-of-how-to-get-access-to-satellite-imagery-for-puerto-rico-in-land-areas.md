@@ -6,16 +6,14 @@ author: mlamadrid
 path: /notes/mlamadrid/09-28-2017/anyone-has-ideas-of-how-to-get-access-to-satellite-imagery-for-puerto-rico-in-land-areas.md
 nid: 14967
 uid: 45586
-
 cids: 22647
-
 ---
 
 # Anyone has ideas of how to get access to satellite imagery for Puerto Rico? In-land areas?
 
-by [mlamadrid](../../../profile/mlamadrid) | September 28, 2017 19:29
+by [mlamadrid](/profile/mlamadrid) | September 28, 2017 19:29
 
-September 28, 2017 19:29 | Tags: [question:general](../tag/question:general)
+September 28, 2017 19:29 | Tags: [question:general](/tag/question:general)
 
 ----
 

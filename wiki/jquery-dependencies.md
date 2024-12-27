@@ -6,12 +6,12 @@ author: warren
 path: /wiki/jquery-dependencies.md
 nid: 784
 uid: 1
-
+cids: 
 ---
 
 # jQuery dependencies
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 February 14, 2012 00:07 | Tags: 
 

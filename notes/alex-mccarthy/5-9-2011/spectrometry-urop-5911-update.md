@@ -6,18 +6,16 @@ author: Alex-McCarthy
 path: /notes/alex-mccarthy/5-9-2011/spectrometry-urop-5911-update.md
 nid: 232
 uid: 125
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/100_0396.JPG)
 
 # Spectrometry UROP 5/9/11 update
 
-by [Alex-McCarthy](../../../profile/Alex-McCarthy) | May 09, 2011 18:59
+by [Alex-McCarthy](/profile/Alex-McCarthy) | May 09, 2011 18:59
 
-May 09, 2011 18:59 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [ultraviolet](../tag/ultraviolet)
+May 09, 2011 18:59 | Tags: [spectrometer](/tag/spectrometer), [uv](/tag/uv), [ultraviolet](/tag/ultraviolet)
 
 ----
 

@@ -6,16 +6,14 @@ author: Braunlkg
 path: /notes/Braunlkg/07-20-2017/mobius-action-camera-setup-using-motion-detection.md
 nid: 14671
 uid: 510960
-
 cids: 
-
 ---
 
 # Mobius Action Camera Setup using motion detection?
 
-by [Braunlkg](../../../profile/Braunlkg) | July 20, 2017 17:55
+by [Braunlkg](/profile/Braunlkg) | July 20, 2017 17:55
 
-July 20, 2017 17:55 | Tags: [question:question:mobius:action:camera:m.setup](../tag/question:question:mobius:action:camera:m.setup)
+July 20, 2017 17:55 | Tags: [question:question:mobius:action:camera:m.setup](/tag/question:question:mobius:action:camera:m.setup)
 
 ----
 

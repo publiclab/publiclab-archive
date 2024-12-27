@@ -6,16 +6,16 @@ author: maxliboiron
 path: /wiki/babylegs.md
 nid: 16667
 uid: 310707
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/547/original/BabyLegs-meopar_shot-SM.jpg)
 
 # BabyLegs
 
-by [a1ahna](../profile/a1ahna), [mimiss](../profile/mimiss), [warren](../profile/warren), [maxliboiron](../profile/maxliboiron), [cfastie](../profile/cfastie)
+by [a1ahna](/profile/a1ahna), [mimiss](/profile/mimiss), [warren](/profile/warren), [maxliboiron](/profile/maxliboiron), [cfastie](/profile/cfastie)
 
-July 09, 2018 18:44 | Tags: [kits](../tag/kits), [water-quality](../tag/water-quality), [water](../tag/water), [micro-plastics](../tag/micro-plastics), [method](../tag/method), [community-kits](../tag/community-kits), [microplastics](../tag/microplastics), [plastics](../tag/plastics), [babylegs](../tag/babylegs), [trawl](../tag/trawl), [surface-water](../tag/surface-water), [project:water-quality](../tag/project:water-quality)
+July 09, 2018 18:44 | Tags: [kits](/tag/kits), [water-quality](/tag/water-quality), [water](/tag/water), [micro-plastics](/tag/micro-plastics), [method](/tag/method), [community-kits](/tag/community-kits), [microplastics](/tag/microplastics), [plastics](/tag/plastics), [babylegs](/tag/babylegs), [trawl](/tag/trawl), [surface-water](/tag/surface-water), [project:water-quality](/tag/project:water-quality)
 
 ----
 
@@ -133,7 +133,7 @@ The image above shows some of the microplastics BabyLegs captured in the Hudson 
 
 ## Activities
 
-[grid:activity:babylegs](../../tag/grid:activity:babylegs)
+[grid:activity:babylegs](/tag/grid:activity:babylegs)
 
 
 

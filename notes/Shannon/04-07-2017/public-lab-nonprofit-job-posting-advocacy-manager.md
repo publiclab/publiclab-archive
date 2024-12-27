@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/04-07-2017/public-lab-nonprofit-job-posting-advocacy-manager.md
 nid: 14098
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/157/original/plots-logo-transparent.jpg)
 
 # Public Lab nonprofit job posting: Advocacy Manager
 
-by [Shannon](../../../profile/Shannon) | April 07, 2017 12:59
+by [Shannon](/profile/Shannon) | April 07, 2017 12:59
 
-April 07, 2017 12:59 | Tags: [nonprofit](../tag/nonprofit), [jobs](../tag/jobs)
+April 07, 2017 12:59 | Tags: [nonprofit](/tag/nonprofit), [jobs](/tag/jobs)
 
 ----
 

@@ -6,16 +6,16 @@ author: mimiss
 path: /wiki/student-led-community-science-in-the-classroom-a-curriculum.md
 nid: 19264
 uid: 579821
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/765/original/Screen_Shot_2019-07-16_at_1.06.10_PM.png)
 
 # Student-led Community Science: A Curriculum
 
-by [mimiss](../profile/mimiss), [purl](../profile/purl), [stevie](../profile/stevie), [liz](../profile/liz)
+by [mimiss](/profile/mimiss), [purl](/profile/purl), [stevie](/profile/stevie), [liz](/profile/liz)
 
-May 07, 2019 14:57 | Tags: [education](../tag/education), [workshop](../tag/workshop), [curriculum](../tag/curriculum), [lesson_plan](../tag/lesson_plan), [parent:education](../tag/parent:education), [activity:education](../tag/activity:education), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lat:30](../tag/lat:30), [lon:-90](../tag/lon:-90), [lesson](../tag/lesson), [problem-based-learning](../tag/problem-based-learning), [series:student-community-science](../tag/series:student-community-science), [student-community-science](../tag/student-community-science), [zoom:6](../tag/zoom:6)
+May 07, 2019 14:57 | Tags: [education](/tag/education), [workshop](/tag/workshop), [curriculum](/tag/curriculum), [lesson_plan](/tag/lesson_plan), [parent:education](/tag/parent:education), [activity:education](/tag/activity:education), [location:blurred](/tag/location:blurred), [place:united-states](/tag/place:united-states), [lat:30](/tag/lat:30), [lon:-90](/tag/lon:-90), [lesson](/tag/lesson), [problem-based-learning](/tag/problem-based-learning), [series:student-community-science](/tag/series:student-community-science), [student-community-science](/tag/student-community-science), [zoom:6](/tag/zoom:6)
 
 ----
 
@@ -73,7 +73,7 @@ This environmental science experiential learning workshop series engages student
  - [2020 Classroom Community  Science Workshop](https://publiclab.org/notes/mimiss/01-10-2020/gulf-coast-educators-join-public-lab-this-summer-for-a-classroom-community-science-workshop)
 
 ##Check Out Student Work!
-[grid:classroom-community-science](../../tag/grid:classroom-community-science)
+[grid:classroom-community-science](/tag/grid:classroom-community-science)
 
 ## How Can You Get Involved?
 
@@ -91,4 +91,4 @@ After using one of these activities in person, let us know how it goes in the co
 
 ### Ask and Answer Questions to Help Our Community Flourish!
 
-[education](../../tag/question:education)
+[education](/tag/question:education)

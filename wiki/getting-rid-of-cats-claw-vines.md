@@ -6,16 +6,16 @@ author: ExtinctAnimals
 path: /wiki/getting-rid-of-cats-claw-vines.md
 nid: 22884
 uid: 664710
-
+cids: 26917
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/504/original/image4.jpeg)
 
 # Getting rid of Cats-Claw Vines
 
-by [ExtinctAnimals](../profile/ExtinctAnimals)
+by [ExtinctAnimals](/profile/ExtinctAnimals)
 
-February 20, 2020 15:30 | Tags: [with:amallozzi](../tag/with:amallozzi)
+February 20, 2020 15:30 | Tags: [with:amallozzi](/tag/with:amallozzi)
 
 ----
 
@@ -45,7 +45,7 @@ Delete this text and Replace “TAGNAME” in the url with the tag for your proj
 <a class="btn btn-large btn-primary" href="https://publiclab.org/subscribe/tag/TAGNAME">Subscribe to updates on this project </a>
 
 Delete this text and replace “tagname” below with the tag for your project 
-[tagname](../../tag/tagname) 
+[tagname](/tag/tagname) 
 
 ### Questions
 
@@ -53,7 +53,7 @@ Delete this text and replace “tagname” below with the tag for your project
 
 Here's a place to list things you have questions about, or issues or **challenges you’re hoping to solve in this project**. What questions helped guide the work? Let's build out a Frequently Asked Questions area:
 
-[tagname](../../tag/question:tagname)
+[tagname](/tag/question:tagname)
 
 ****
 
@@ -61,7 +61,7 @@ Here's a place to list things you have questions about, or issues or **challenge
 
 This section will capture any activities you've done with your group with your project tag. This will help others follow along with what you've already done. Delete this text and replace “tagname” below with the tag for your project. Be sure to tag any activities you've done with your project tag. 
 
-[tagname](../../tag/activity:tagname)
+[tagname](/tag/activity:tagname)
 
 ### Data
 

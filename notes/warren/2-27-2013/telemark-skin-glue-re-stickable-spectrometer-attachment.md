@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/2-27-2013/telemark-skin-glue-re-stickable-spectrometer-attachment.md
 nid: 6140
 uid: 1
-
 cids: 3576
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20130227_153552.jpg)
 
 # Telemark skin glue for re-stickable spectrometer attachment
 
-by [warren](../../../profile/warren) | February 27, 2013 21:41
+by [warren](/profile/warren) | February 27, 2013 21:41
 
-February 27, 2013 21:41 | Tags: [spectrometer](../tag/spectrometer)
+February 27, 2013 21:41 | Tags: [spectrometer](/tag/spectrometer)
 
 ----
 

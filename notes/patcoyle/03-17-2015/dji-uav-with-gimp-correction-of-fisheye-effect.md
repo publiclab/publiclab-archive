@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/03-17-2015/dji-uav-with-gimp-correction-of-fisheye-effect.md
 nid: 11684
 uid: 77
-
 cids: 11338,11341,11343
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/284/original/both_w_DJI_frm_ppt.jpg)
 
 # DJI UAV mapping with Gimp correction of fisheye effect
 
-by [patcoyle](../../../profile/patcoyle) | March 17, 2015 03:18
+by [patcoyle](/profile/patcoyle) | March 17, 2015 03:18
 
-March 17, 2015 03:18 | Tags: [fisheye](../tag/fisheye), [aerial-mapping](../tag/aerial-mapping), [uav-mapping](../tag/uav-mapping), [gimp](../tag/gimp), [dji](../tag/dji), [lens-distortion](../tag/lens-distortion), [activity:lens-distortion](../tag/activity:lens-distortion), [lens-correction](../tag/lens-correction), [activity:lens-correction](../tag/activity:lens-correction)
+March 17, 2015 03:18 | Tags: [fisheye](/tag/fisheye), [aerial-mapping](/tag/aerial-mapping), [uav-mapping](/tag/uav-mapping), [gimp](/tag/gimp), [dji](/tag/dji), [lens-distortion](/tag/lens-distortion), [activity:lens-distortion](/tag/activity:lens-distortion), [lens-correction](/tag/lens-correction), [activity:lens-correction](/tag/activity:lens-correction)
 
 ----
 

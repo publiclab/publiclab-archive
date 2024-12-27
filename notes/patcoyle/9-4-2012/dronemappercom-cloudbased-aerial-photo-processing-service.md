@@ -6,16 +6,14 @@ author: patcoyle
 path: /notes/patcoyle/9-4-2012/dronemappercom-cloudbased-aerial-photo-processing-service.md
 nid: 3645
 uid: 77
-
 cids: 1255,1270
-
 ---
 
 ![](https://publiclab.org/sites/default/files/OrthoN-DroneMapper_test1.jpg)
 
 # dronemapper.com cloudbased aerial photo processing service 
 
-by [patcoyle](../../../profile/patcoyle) | September 05, 2012 03:59
+by [patcoyle](/profile/patcoyle) | September 05, 2012 03:59
 
 September 05, 2012 03:59 | Tags: 
 

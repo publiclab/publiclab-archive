@@ -6,18 +6,16 @@ author: nedhorning
 path: /notes/nedhorning/08-02-2013/determining-landsat-8-overpass-times.md
 nid: 8960
 uid: 133
-
 cids: 6639,12490,12491,12567
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/010/original/landsat-8-satellite.jpeg)
 
 # Determining Landsat 8 overpass times
 
-by [nedhorning](../../../profile/nedhorning) | August 02, 2013 22:54
+by [nedhorning](/profile/nedhorning) | August 02, 2013 22:54
 
-August 02, 2013 22:54 | Tags: [remote-sensing](../tag/remote-sensing), [landsat](../tag/landsat), [satellite-imagery](../tag/satellite-imagery), [activity:remote-sensing](../tag/activity:remote-sensing)
+August 02, 2013 22:54 | Tags: [remote-sensing](/tag/remote-sensing), [landsat](/tag/landsat), [satellite-imagery](/tag/satellite-imagery), [activity:remote-sensing](/tag/activity:remote-sensing)
 
 ----
 

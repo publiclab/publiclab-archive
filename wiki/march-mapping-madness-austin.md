@@ -6,12 +6,12 @@ author: sara
 path: /wiki/march-mapping-madness-austin.md
 nid: 896
 uid: 8
-
+cids: 
 ---
 
 # March Mapping Madness-Austin
 
-by [Hudonnoodles](../profile/Hudonnoodles), [bodacea](../profile/bodacea), [Shannon](../profile/Shannon), [sara](../profile/sara)
+by [Hudonnoodles](/profile/Hudonnoodles), [bodacea](/profile/bodacea), [Shannon](/profile/Shannon), [sara](/profile/sara)
 
 March 06, 2012 01:33 | Tags: 
 

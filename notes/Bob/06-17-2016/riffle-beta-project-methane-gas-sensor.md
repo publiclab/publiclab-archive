@@ -6,18 +6,16 @@ author: Bob
 path: /notes/Bob/06-17-2016/riffle-beta-project-methane-gas-sensor.md
 nid: 13205
 uid: 43743
-
 cids: 14772,14774,14777,21577
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/663/original/sniffle.jpg)
 
 # Riffle Beta project - Methane Gas Sensor
 
-by [Bob](../../../profile/Bob) | June 17, 2016 17:38
+by [Bob](/profile/Bob) | June 17, 2016 17:38
 
-June 17, 2016 17:38 | Tags: [mapping](../tag/mapping), [air-quality](../tag/air-quality), [methane](../tag/methane), [riffle](../tag/riffle), [gas](../tag/gas), [gas-sensor](../tag/gas-sensor), [riffle-beta](../tag/riffle-beta), [activity:riffle](../tag/activity:riffle), [upgrade:riffle](../tag/upgrade:riffle), [oil-and-gas](../tag/oil-and-gas), [riffle-examples](../tag/riffle-examples), [gas-leaks](../tag/gas-leaks)
+June 17, 2016 17:38 | Tags: [mapping](/tag/mapping), [air-quality](/tag/air-quality), [methane](/tag/methane), [riffle](/tag/riffle), [gas](/tag/gas), [gas-sensor](/tag/gas-sensor), [riffle-beta](/tag/riffle-beta), [activity:riffle](/tag/activity:riffle), [upgrade:riffle](/tag/upgrade:riffle), [oil-and-gas](/tag/oil-and-gas), [riffle-examples](/tag/riffle-examples), [gas-leaks](/tag/gas-leaks)
 
 ----
 

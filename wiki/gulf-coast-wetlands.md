@@ -6,12 +6,12 @@ author: stevie
 path: /wiki/gulf-coast-wetlands.md
 nid: 12013
 uid: 422561
-
+cids: 
 ---
 
 # Gulf Coast Wetlands 
 
-by [stevie](../profile/stevie)
+by [stevie](/profile/stevie)
 
 June 26, 2015 17:43 | Tags: 
 

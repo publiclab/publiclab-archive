@@ -6,18 +6,16 @@ author: sneves
 path: /notes/sneves/11-10-2015/spn-veg-ndvi-software-for-windows-freeware.md
 nid: 12393
 uid: 450683
-
 cids: 13370
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/636/original/logo_icon.ico)
 
 # SPN-VEG - NDVI software for windows freeware
 
-by [sneves](../../../profile/sneves) | November 10, 2015 13:56
+by [sneves](/profile/sneves) | November 10, 2015 13:56
 
-November 10, 2015 13:56 | Tags: [ndvi](../tag/ndvi), [software](../tag/software)
+November 10, 2015 13:56 | Tags: [ndvi](/tag/ndvi), [software](/tag/software)
 
 ----
 

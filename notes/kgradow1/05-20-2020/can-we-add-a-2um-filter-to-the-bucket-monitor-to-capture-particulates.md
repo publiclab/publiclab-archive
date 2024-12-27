@@ -6,16 +6,14 @@ author: kgradow1
 path: /notes/kgradow1/05-20-2020/can-we-add-a-2um-filter-to-the-bucket-monitor-to-capture-particulates.md
 nid: 23673
 uid: 297929
-
 cids: 26847,26852,26962,27001
-
 ---
 
 # Can we add a 2um filter to the bucket monitor to capture particulates?
 
-by [kgradow1](../../../profile/kgradow1) | May 20, 2020 13:37
+by [kgradow1](/profile/kgradow1) | May 20, 2020 13:37
 
-May 20, 2020 13:37 | Tags: [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [question:general](../tag/question:general), [general](../tag/general), [air-sensor](../tag/air-sensor), [question:air-sensor](../tag/question:air-sensor), [bucket-monitor](../tag/bucket-monitor), [question:bucket-monitor](../tag/question:bucket-monitor)
+May 20, 2020 13:37 | Tags: [air-quality](/tag/air-quality), [question:air-quality](/tag/question:air-quality), [question:general](/tag/question:general), [general](/tag/general), [air-sensor](/tag/air-sensor), [question:air-sensor](/tag/question:air-sensor), [bucket-monitor](/tag/bucket-monitor), [question:bucket-monitor](/tag/question:bucket-monitor)
 
 ----
 

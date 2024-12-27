@@ -6,16 +6,14 @@ author: madapeti
 path: /notes/madapeti/10-26-2014/question-do-you-guys-retract-the-kite-balloon-line-manually.md
 nid: 11301
 uid: 430465
-
 cids: 10625,10627,10628,10634,10641,22551,22574
-
 ---
 
 # Question: Do you guys retract the kite / balloon line manually?
 
-by [madapeti](../../../profile/madapeti) | October 26, 2014 10:38
+by [madapeti](/profile/madapeti) | October 26, 2014 10:38
 
-October 26, 2014 10:38 | Tags: [question:balloon-mapping](../tag/question:balloon-mapping)
+October 26, 2014 10:38 | Tags: [question:balloon-mapping](/tag/question:balloon-mapping)
 
 ----
 

@@ -6,12 +6,12 @@ author: warren
 path: /wiki/research-assistants.md
 nid: 109
 uid: 1
-
+cids: 
 ---
 
 # Research Assistants
 
-by [warren](../profile/warren), [mariakatosvich](../profile/mariakatosvich)
+by [warren](/profile/warren), [mariakatosvich](/profile/mariakatosvich)
 
 March 02, 2011 20:29 | Tags: 
 

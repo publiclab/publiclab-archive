@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/09-30-2017/what-are-good-sources-of-cheap-bulk-giant-mylar-balloons.md
 nid: 14983
 uid: 1
-
 cids: 22645
-
 ---
 
 # What are good sources of cheap bulk giant mylar balloons?
 
-by [warren](../../../profile/warren) | September 30, 2017 20:14
+by [warren](/profile/warren) | September 30, 2017 20:14
 
-September 30, 2017 20:14 | Tags: [balloon-mapping](../tag/balloon-mapping), [mylar](../tag/mylar), [leaffest](../tag/leaffest), [answered](../tag/answered), [mini-balloon-mapping](../tag/mini-balloon-mapping), [balloons](../tag/balloons), [mini-balloon-kit](../tag/mini-balloon-kit), [question:mini-balloon-kit](../tag/question:mini-balloon-kit), [prototyping-kits](../tag/prototyping-kits), [question:kits](../tag/question:kits), [question:sourcing](../tag/question:sourcing), [question:leaffest](../tag/question:leaffest), [question:mini-balloon-mapping](../tag/question:mini-balloon-mapping), [question:leaffest2017](../tag/question:leaffest2017)
+September 30, 2017 20:14 | Tags: [balloon-mapping](/tag/balloon-mapping), [mylar](/tag/mylar), [leaffest](/tag/leaffest), [answered](/tag/answered), [mini-balloon-mapping](/tag/mini-balloon-mapping), [balloons](/tag/balloons), [mini-balloon-kit](/tag/mini-balloon-kit), [question:mini-balloon-kit](/tag/question:mini-balloon-kit), [prototyping-kits](/tag/prototyping-kits), [question:kits](/tag/question:kits), [question:sourcing](/tag/question:sourcing), [question:leaffest](/tag/question:leaffest), [question:mini-balloon-mapping](/tag/question:mini-balloon-mapping), [question:leaffest2017](/tag/question:leaffest2017)
 
 ----
 

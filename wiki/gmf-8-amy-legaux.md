@@ -6,14 +6,14 @@ author: liz
 path: /wiki/gmf-8-amy-legaux.md
 nid: 12150
 uid: 7
-
+cids: 
 ---
 
 # gmf-8-Amy-LeGaux
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-August 17, 2015 16:21 | Tags: [style:fancy](../tag/style:fancy)
+August 17, 2015 16:21 | Tags: [style:fancy](/tag/style:fancy)
 
 ----
 

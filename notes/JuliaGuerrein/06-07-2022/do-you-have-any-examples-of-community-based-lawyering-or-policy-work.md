@@ -6,16 +6,14 @@ author: JuliaGuerrein
 path: /notes/JuliaGuerrein/06-07-2022/do-you-have-any-examples-of-community-based-lawyering-or-policy-work.md
 nid: 31037
 uid: 796025
-
 cids: 30309,30945,30946,30947
-
 ---
 
 # Do you have any examples of community-based lawyering or policy work?
 
-by [JuliaGuerrein](../../../profile/JuliaGuerrein) | June 07, 2022 21:08
+by [JuliaGuerrein](/profile/JuliaGuerrein) | June 07, 2022 21:08
 
-June 07, 2022 21:08 | Tags: [community](../tag/community), [legal](../tag/legal), [advocacy](../tag/advocacy), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster), [law-and-policy](../tag/law-and-policy)
+June 07, 2022 21:08 | Tags: [community](/tag/community), [legal](/tag/legal), [advocacy](/tag/advocacy), [question:general](/tag/question:general), [general](/tag/general), [first-time-poster](/tag/first-time-poster), [law-and-policy](/tag/law-and-policy)
 
 ----
 

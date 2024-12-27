@@ -6,18 +6,16 @@ author: mattmullen
 path: /notes/mattmullen/02-25-2015/some-thoughts-on-sensor-journalism.md
 nid: 11637
 uid: 434175
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/078/original/Screen_Shot_2015-02-23_at_12.36.17_AM.png)
 
 # Some Thoughts on Sensor Journalism 
 
-by [mattmullen](../../../profile/mattmullen) | February 25, 2015 03:41
+by [mattmullen](/profile/mattmullen) | February 25, 2015 03:41
 
-February 25, 2015 03:41 | Tags: [journalism](../tag/journalism), [sensor](../tag/sensor), [sensor-journalism](../tag/sensor-journalism), [emersondataviz](../tag/emersondataviz)
+February 25, 2015 03:41 | Tags: [journalism](/tag/journalism), [sensor](/tag/sensor), [sensor-journalism](/tag/sensor-journalism), [emersondataviz](/tag/emersondataviz)
 
 ----
 

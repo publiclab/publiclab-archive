@@ -6,16 +6,14 @@ author: Vman
 path: /notes/Vman/03-20-2017/paper-size-for-stiff-matte-black-card-insert.md
 nid: 14038
 uid: 497579
-
 cids: 16415
-
 ---
 
 # Paper size for stiff matte black card insert
 
-by [Vman](../../../profile/Vman) | March 20, 2017 02:30
+by [Vman](/profile/Vman) | March 20, 2017 02:30
 
-March 20, 2017 02:30 | Tags: [question:spectrometry](../tag/question:spectrometry), [first-time-poster](../tag/first-time-poster)
+March 20, 2017 02:30 | Tags: [question:spectrometry](/tag/question:spectrometry), [first-time-poster](/tag/first-time-poster)
 
 ----
 

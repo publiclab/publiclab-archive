@@ -6,18 +6,16 @@ author: joyofsoy
 path: /notes/joyofsoy/10-04-2019/a-wintry-kite-mapping-at-cranston-print-works.md
 nid: 21078
 uid: 540844
-
 cids: 25639
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/568/original/PC080339.jpg)
 
 # A Wintry Kite Mapping at Cranston Print Works
 
-by [joyofsoy](../../../profile/joyofsoy) | October 04, 2019 18:20
+by [joyofsoy](/profile/joyofsoy) | October 04, 2019 18:20
 
-October 04, 2019 18:20 | Tags: [with:warren](../tag/with:warren), [csf](../tag/csf), [one-cranston](../tag/one-cranston), [csf17](../tag/csf17)
+October 04, 2019 18:20 | Tags: [with:warren](/tag/with:warren), [csf](/tag/csf), [one-cranston](/tag/one-cranston), [csf17](/tag/csf17)
 
 ----
 

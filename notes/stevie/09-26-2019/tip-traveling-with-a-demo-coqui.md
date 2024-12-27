@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/09-26-2019/tip-traveling-with-a-demo-coqui.md
 nid: 20994
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/450/original/Screen_Shot_2019-09-26_at_10.11.57_AM.png)
 
 # Tip: traveling with a demo coqui
 
-by [stevie](../../../profile/stevie) | September 26, 2019 14:14
+by [stevie](/profile/stevie) | September 26, 2019 14:14
 
-September 26, 2019 14:14 | Tags: [education](../tag/education), [workshop](../tag/workshop), [coqui](../tag/coqui)
+September 26, 2019 14:14 | Tags: [education](/tag/education), [workshop](/tag/workshop), [coqui](/tag/coqui)
 
 ----
 

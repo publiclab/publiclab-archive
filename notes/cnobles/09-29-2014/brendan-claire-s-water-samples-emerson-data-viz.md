@@ -6,18 +6,16 @@ author: cnobles
 path: /notes/cnobles/09-29-2014/brendan-claire-s-water-samples-emerson-data-viz.md
 nid: 11204
 uid: 427857
-
 cids: 10467
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/077/original/IMG_6515.JPG)
 
 # Brendan & Claire's Water Samples -- Emerson Data Viz  
 
-by [cnobles](../../../profile/cnobles) | September 29, 2014 17:05
+by [cnobles](/profile/cnobles) | September 29, 2014 17:05
 
-September 29, 2014 17:05 | Tags: [boston](../tag/boston), [water-quality](../tag/water-quality), [northeast](../tag/northeast), [first-time-poster](../tag/first-time-poster)
+September 29, 2014 17:05 | Tags: [boston](/tag/boston), [water-quality](/tag/water-quality), [northeast](/tag/northeast), [first-time-poster](/tag/first-time-poster)
 
 ----
 

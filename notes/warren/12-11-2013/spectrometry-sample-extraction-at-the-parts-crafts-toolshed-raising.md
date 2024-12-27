@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/12-11-2013/spectrometry-sample-extraction-at-the-parts-crafts-toolshed-raising.md
 nid: 9864
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/381/original/IMG_0384.JPG)
 
 # Spectrometry Sample Extraction at the Parts & Crafts Toolshed-Raising
 
-by [warren](../../../profile/warren) | December 11, 2013 14:52
+by [warren](/profile/warren) | December 11, 2013 14:52
 
-December 11, 2013 14:52 | Tags: [spectrometer](../tag/spectrometer), [boston](../tag/boston), [partsandcrafts](../tag/partsandcrafts), [oil](../tag/oil), [fluorescence](../tag/fluorescence), [somerville](../tag/somerville), [massachusetts](../tag/massachusetts), [sample-prep](../tag/sample-prep), [parts-and-crafts](../tag/parts-and-crafts), [response:9304](../tag/response:9304), [mineral-oil](../tag/mineral-oil), [methanol](../tag/methanol), [extraction](../tag/extraction), [response:9750](../tag/response:9750), [response:9820](../tag/response:9820), [oil-testing-kit](../tag/oil-testing-kit), [northeast](../tag/northeast), [activity:spectrometry-sampling](../tag/activity:spectrometry-sampling)
+December 11, 2013 14:52 | Tags: [spectrometer](/tag/spectrometer), [boston](/tag/boston), [partsandcrafts](/tag/partsandcrafts), [oil](/tag/oil), [fluorescence](/tag/fluorescence), [somerville](/tag/somerville), [massachusetts](/tag/massachusetts), [sample-prep](/tag/sample-prep), [parts-and-crafts](/tag/parts-and-crafts), [response:9304](/tag/response:9304), [mineral-oil](/tag/mineral-oil), [methanol](/tag/methanol), [extraction](/tag/extraction), [response:9750](/tag/response:9750), [response:9820](/tag/response:9820), [oil-testing-kit](/tag/oil-testing-kit), [northeast](/tag/northeast), [activity:spectrometry-sampling](/tag/activity:spectrometry-sampling)
 
 ----
 

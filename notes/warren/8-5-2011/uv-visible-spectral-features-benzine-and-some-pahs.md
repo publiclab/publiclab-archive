@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/8-5-2011/uv-visible-spectral-features-benzine-and-some-pahs.md
 nid: 427
 uid: 1
-
 cids: 31399
-
 ---
 
 ![](https://publiclab.org/sites/default/files/polyarom.gif)
 
 # UV-Visible spectral features of Benzine and some PAHs
 
-by [warren](../../../profile/warren) | August 05, 2011 13:21
+by [warren](/profile/warren) | August 05, 2011 13:21
 
-August 05, 2011 13:21 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [pah](../tag/pah), [benzene](../tag/benzene), [uv-imaging](../tag/uv-imaging)
+August 05, 2011 13:21 | Tags: [spectrometer](/tag/spectrometer), [uv](/tag/uv), [pah](/tag/pah), [benzene](/tag/benzene), [uv-imaging](/tag/uv-imaging)
 
 ----
 

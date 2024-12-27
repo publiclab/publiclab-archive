@@ -6,14 +6,14 @@ author: warren
 path: /wiki/spectrometry-faq.md
 nid: 5288
 uid: 1
-
+cids: 
 ---
 
 # Spectrometry FAQ
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-December 22, 2012 00:58 | Tags: [spectrometer](../tag/spectrometer)
+December 22, 2012 00:58 | Tags: [spectrometer](/tag/spectrometer)
 
 ----
 

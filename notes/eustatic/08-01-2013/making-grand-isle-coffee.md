@@ -6,18 +6,16 @@ author: eustatic
 path: /08-01-2013/making-grand-isle-coffee.md
 nid: 8949
 uid: 379
-
 cids: 6439,6441
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/984/original/9262759096_99ea947ba7.jpg)
 
 # Making Grand Isle Coffee: Team Orca 
 
-by [eustatic](../../../profile/eustatic) | August 01, 2013 01:24
+by [eustatic](/profile/eustatic) | August 01, 2013 01:24
 
-August 01, 2013 01:24 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [oil](../tag/oil), [spectrometry](../tag/spectrometry), [sample-prep](../tag/sample-prep), [bp](../tag/bp), [tarball](../tag/tarball), [orca](../tag/orca)
+August 01, 2013 01:24 | Tags: [gulf-coast](/tag/gulf-coast), [spectrometer](/tag/spectrometer), [oil](/tag/oil), [spectrometry](/tag/spectrometry), [sample-prep](/tag/sample-prep), [bp](/tag/bp), [tarball](/tag/tarball), [orca](/tag/orca)
 
 ----
 

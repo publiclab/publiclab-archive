@@ -6,16 +6,14 @@ author: aelobo
 path: /notes/aelobo/11-27-2016/why-copy-calibration-does-not-apply.md
 nid: 13726
 uid: 496227
-
 cids: 22353
-
 ---
 
 # Why copy calibration does not apply?
 
-by [aelobo](../../../profile/aelobo) | November 27, 2016 21:03
+by [aelobo](/profile/aelobo) | November 27, 2016 21:03
 
-November 27, 2016 21:03 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [question:spectral-workbench](../tag/question:spectral-workbench), [question:general](../tag/question:general)
+November 27, 2016 21:03 | Tags: [spectrometer](/tag/spectrometer), [spectralworkbench](/tag/spectralworkbench), [question:spectral-workbench](/tag/question:spectral-workbench), [question:general](/tag/question:general)
 
 ----
 

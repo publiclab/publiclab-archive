@@ -6,18 +6,16 @@ author: alejobonifacio
 path: /notes/alejobonifacio/08-10-2022/registradores-de-datos-abiertos-o-lo-mas-abiertos-posibles-para-variables-ambientales.md
 nid: 34859
 uid: 639376
-
 cids: 30375,30376,30389,30390,30483,30484,30485
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/994/original/IMG_20220808_224708.jpg)
 
 # Registradores de datos abiertos (o lo más abiertos posibles) para variables ambientales
 
-by [alejobonifacio](../../../profile/alejobonifacio) | August 10, 2022 19:51
+by [alejobonifacio](/profile/alejobonifacio) | August 10, 2022 19:51
 
-August 10, 2022 19:51 | Tags: [lat:0](../tag/lat:0), [lon:0](../tag/lon:0), [zoom:0](../tag/zoom:0)
+August 10, 2022 19:51 | Tags: [lat:0](/tag/lat:0), [lon:0](/tag/lon:0), [zoom:0](/tag/zoom:0)
 
 ----
 

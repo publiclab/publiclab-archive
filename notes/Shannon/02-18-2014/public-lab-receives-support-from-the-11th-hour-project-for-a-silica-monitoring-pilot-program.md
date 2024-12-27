@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/02-18-2014/public-lab-receives-support-from-the-11th-hour-project-for-a-silica-monitoring-pilot-program.md
 nid: 10047
 uid: 9
-
 cids: 8299,8300
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/941/original/plots-logo-transparent.jpg)
 
 # Public Lab receives support from the 11th Hour Project for a Silica Monitoring Pilot Program
 
-by [Shannon](../../../profile/Shannon) | February 18, 2014 22:33
+by [Shannon](/profile/Shannon) | February 18, 2014 22:33
 
-February 18, 2014 22:33 | Tags: [spectrometer](../tag/spectrometer), [particulate-sensing](../tag/particulate-sensing), [air-quality](../tag/air-quality), [fracking](../tag/fracking), [particulates](../tag/particulates), [silica](../tag/silica), [frac-sand](../tag/frac-sand)
+February 18, 2014 22:33 | Tags: [spectrometer](/tag/spectrometer), [particulate-sensing](/tag/particulate-sensing), [air-quality](/tag/air-quality), [fracking](/tag/fracking), [particulates](/tag/particulates), [silica](/tag/silica), [frac-sand](/tag/frac-sand)
 
 ----
 

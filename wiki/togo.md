@@ -6,14 +6,14 @@ author: cesarharada
 path: /wiki/togo.md
 nid: 75
 uid: 50
-
+cids: 
 ---
 
 # Togo
 
-by [cesarharada](../profile/cesarharada), [warren](../profile/warren)
+by [cesarharada](/profile/cesarharada), [warren](/profile/warren)
 
-February 04, 2011 12:27 | Tags: [africa](../tag/africa), [location:blurred](../tag/location:blurred), [lon:0](../tag/lon:0), [togo](../tag/togo), [lat:8](../tag/lat:8), [place:togo](../tag/place:togo)
+February 04, 2011 12:27 | Tags: [africa](/tag/africa), [location:blurred](/tag/location:blurred), [lon:0](/tag/lon:0), [togo](/tag/togo), [lat:8](/tag/lat:8), [place:togo](/tag/place:togo)
 
 ----
 

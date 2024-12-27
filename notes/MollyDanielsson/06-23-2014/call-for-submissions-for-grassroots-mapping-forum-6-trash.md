@@ -6,18 +6,16 @@ author: mollydanielsson
 path: /notes/MollyDanielsson/06-23-2014/call-for-submissions-for-grassroots-mapping-forum-6-trash.md
 nid: 10608
 uid: 1259
-
 cids: 9246,9247,9249,23620
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/952/original/basurama.jpg)
 
 # Call for Submissions for Grassroots Mapping Forum#6: TRASH
 
-by [mollydanielsson](../../../profile/mollydanielsson) | June 23, 2014 17:10
+by [mollydanielsson](/profile/mollydanielsson) | June 23, 2014 17:10
 
-June 23, 2014 17:10 | Tags: [gmf](../tag/gmf), [publication](../tag/publication), [forum](../tag/forum), [trash](../tag/trash), [writing](../tag/writing), [barnstar:basic](../tag/barnstar:basic), [gmf-6](../tag/gmf-6), [first-time-poster](../tag/first-time-poster)
+June 23, 2014 17:10 | Tags: [gmf](/tag/gmf), [publication](/tag/publication), [forum](/tag/forum), [trash](/tag/trash), [writing](/tag/writing), [barnstar:basic](/tag/barnstar:basic), [gmf-6](/tag/gmf-6), [first-time-poster](/tag/first-time-poster)
 
 ----
 

@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/02-06-2020/agrotoxicos-lista-de-papers-cientificos.md
 nid: 22691
 uid: 495038
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/999/original/glifosato2.jpg)
 
 # Agrotóxicos - Lista de publicaciones académicas
 
-by [imvec](../../../profile/imvec) | February 06, 2020 21:29
+by [imvec](/profile/imvec) | February 06, 2020 21:29
 
-February 06, 2020 21:29 | Tags: [lang:es](../tag/lang:es), [spanish](../tag/spanish), [cosquin](../tag/cosquin), [glifosato](../tag/glifosato), [agrotoxicos](../tag/agrotoxicos)
+February 06, 2020 21:29 | Tags: [lang:es](/tag/lang:es), [spanish](/tag/spanish), [cosquin](/tag/cosquin), [glifosato](/tag/glifosato), [agrotoxicos](/tag/agrotoxicos)
 
 ----
 

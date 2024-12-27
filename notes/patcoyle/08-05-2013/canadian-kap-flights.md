@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/08-05-2013/canadian-kap-flights.md
 nid: 8962
 uid: 77
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/022/original/IMG_6682.JPG)
 
 # Canadian KAP flights
 
-by [patcoyle](../../../profile/patcoyle) | August 05, 2013 17:00
+by [patcoyle](/profile/patcoyle) | August 05, 2013 17:00
 
-August 05, 2013 17:00 | Tags: [kite-mapping](../tag/kite-mapping), [kap](../tag/kap), [canada](../tag/canada)
+August 05, 2013 17:00 | Tags: [kite-mapping](/tag/kite-mapping), [kap](/tag/kap), [canada](/tag/canada)
 
 ----
 

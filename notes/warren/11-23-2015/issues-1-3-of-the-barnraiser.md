@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/11-23-2015/issues-1-3-of-the-barnraiser.md
 nid: 12441
 uid: 1
-
 cids: 12938,13134,13135
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/008/original/barnraiser.jpg)
 
 # Issues 1-3 of The Barnraiser
 
-by [warren](../../../profile/warren) | November 23, 2015 22:59
+by [warren](/profile/warren) | November 23, 2015 22:59
 
-November 23, 2015 22:59 | Tags: [community](../tag/community), [louisiana](../tag/louisiana), [documentation](../tag/documentation), [cocodrie](../tag/cocodrie), [barnraising](../tag/barnraising), [blog](../tag/blog), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [doccom](../tag/doccom), [the-barnraiser](../tag/the-barnraiser)
+November 23, 2015 22:59 | Tags: [community](/tag/community), [louisiana](/tag/louisiana), [documentation](/tag/documentation), [cocodrie](/tag/cocodrie), [barnraising](/tag/barnraising), [blog](/tag/blog), [barnstar:photo-documentation](/tag/barnstar:photo-documentation), [doccom](/tag/doccom), [the-barnraiser](/tag/the-barnraiser)
 
 ----
 

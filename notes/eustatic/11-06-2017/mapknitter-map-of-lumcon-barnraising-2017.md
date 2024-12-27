@@ -6,18 +6,16 @@ author: eustatic
 path: /11-06-2017/mapknitter-map-of-lumcon-barnraising-2017.md
 nid: 15153
 uid: 379
-
 cids: 17635,17658
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/283/original/b_IMG_2022.JPG)
 
 # MapKnitter map of lumcon barnraising 2017
 
-by [eustatic](../../../profile/eustatic) | November 06, 2017 00:50
+by [eustatic](/profile/eustatic) | November 06, 2017 00:50
 
-November 06, 2017 00:50 | Tags: [mapknitter](../tag/mapknitter), [barnraising](../tag/barnraising), [lumcon](../tag/lumcon), [barnraising-2017](../tag/barnraising-2017), [lat:29.2541243401](../tag/lat:29.2541243401), [lon:-90.6614971161](../tag/lon:-90.6614971161)
+November 06, 2017 00:50 | Tags: [mapknitter](/tag/mapknitter), [barnraising](/tag/barnraising), [lumcon](/tag/lumcon), [barnraising-2017](/tag/barnraising-2017), [lat:29.2541243401](/tag/lat:29.2541243401), [lon:-90.6614971161](/tag/lon:-90.6614971161)
 
 ----
 

@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/03-03-2016/slit-width-testing-and-comparisons-using-a-cfl.md
 nid: 12770
 uid: 461120
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/648/original/slit_width_comparisons_mar3.png)
 
 # Slit width testing and Comparisons using a CFL
 
-by [dhaffnersr](../../../profile/dhaffnersr) | March 03, 2016 14:24
+by [dhaffnersr](/profile/dhaffnersr) | March 03, 2016 14:24
 
 March 03, 2016 14:24 | Tags: 
 

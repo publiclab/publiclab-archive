@@ -6,14 +6,14 @@ author: bhamster
 path: /wiki/presenting-data.md
 nid: 27567
 uid: 664477
-
+cids: 
 ---
 
 # Presenting Environmental Data
 
-by [bhamster](../profile/bhamster), [laurel_mire](../profile/laurel_mire)
+by [bhamster](/profile/bhamster), [laurel_mire](/profile/laurel_mire)
 
-August 16, 2021 20:37 | Tags: [method](../tag/method), [environmental-data](../tag/environmental-data), [data-visualization](../tag/data-visualization), [presenting-data](../tag/presenting-data), [air-quality-data](../tag/air-quality-data)
+August 16, 2021 20:37 | Tags: [method](/tag/method), [environmental-data](/tag/environmental-data), [data-visualization](/tag/data-visualization), [presenting-data](/tag/presenting-data), [air-quality-data](/tag/air-quality-data)
 
 ----
 
@@ -32,7 +32,7 @@ We’re collecting resources below on kinds of environmental data and ways to pr
 
 Questions tagged with `question:presenting-data` will appear here
 
-[presenting-data](../../tag/question:presenting-data)
+[presenting-data](/tag/question:presenting-data)
 
 <br>
 
@@ -40,7 +40,7 @@ Questions tagged with `question:presenting-data` will appear here
 
 Activity posts tagged with `activity:presenting-data` will appear here
 
-[activity:presenting-data](../../tag/activity:presenting-data)
+[activity:presenting-data](/tag/activity:presenting-data)
 
 <hr>
 
@@ -217,7 +217,7 @@ _<small>Image: Infographic about complex odors, from [this post ](https://public
 
 ## Tools for data visualization and presentation
 
-[grid:data-visualization-tool](../../tag/grid:data-visualization-tool)
+[grid:data-visualization-tool](/tag/grid:data-visualization-tool)
 
 <br>
 

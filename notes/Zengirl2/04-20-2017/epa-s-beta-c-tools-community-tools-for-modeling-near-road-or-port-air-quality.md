@@ -6,18 +6,16 @@ author: zengirl2
 path: /notes/Zengirl2/04-20-2017/epa-s-beta-c-tools-community-tools-for-modeling-near-road-or-port-air-quality.md
 nid: 14126
 uid: 423961
-
 cids: 16603
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/170/original/CLine.jpg)
 
 # EPA's Beta C-Tools - Community Tools for Modeling Near-Road or Port Air Quality
 
-by [zengirl2](../../../profile/zengirl2) | April 20, 2017 20:21
+by [zengirl2](/profile/zengirl2) | April 20, 2017 20:21
 
-April 20, 2017 20:21 | Tags: [epa](../tag/epa), [air-quality](../tag/air-quality), [air](../tag/air), [transportation](../tag/transportation), [traffic](../tag/traffic), [air-quality-modeling](../tag/air-quality-modeling), [first-time-poster](../tag/first-time-poster)
+April 20, 2017 20:21 | Tags: [epa](/tag/epa), [air-quality](/tag/air-quality), [air](/tag/air), [transportation](/tag/transportation), [traffic](/tag/traffic), [air-quality-modeling](/tag/air-quality-modeling), [first-time-poster](/tag/first-time-poster)
 
 ----
 

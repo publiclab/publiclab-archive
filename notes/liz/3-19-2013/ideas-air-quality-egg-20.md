@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/3-19-2013/ideas-air-quality-egg-20.md
 nid: 6429
 uid: 7
-
 cids: 5134
-
 ---
 
 ![](https://publiclab.org/sites/default/files/8 - Air Quality Egg 2.0.jpg)
 
 # Ideas for Air Quality Egg 2.0
 
-by [liz](../../../profile/liz) | March 19, 2013 17:52
+by [liz](/profile/liz) | March 19, 2013 17:52
 
-March 19, 2013 17:52 | Tags: [new-york-city](../tag/new-york-city), [chaq](../tag/chaq), [air-quality](../tag/air-quality), [air-quality-egg](../tag/air-quality-egg)
+March 19, 2013 17:52 | Tags: [new-york-city](/tag/new-york-city), [chaq](/tag/chaq), [air-quality](/tag/air-quality), [air-quality-egg](/tag/air-quality-egg)
 
 ----
 

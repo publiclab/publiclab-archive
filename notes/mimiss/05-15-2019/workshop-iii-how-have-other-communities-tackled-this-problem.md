@@ -6,18 +6,16 @@ author: mimiss
 path: /notes/mimiss/05-15-2019/workshop-iii-how-have-other-communities-tackled-this-problem.md
 nid: 19413
 uid: 579821
-
 cids: 28349,29719
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/271/original/NAS_Community_Science_in_the_Classroom_Overview.png)
 
 # Workshop III: How Have Other Communities Tackled This Problem?
 
-by [mimiss](../../../profile/mimiss) | May 15, 2019 22:03
+by [mimiss](/profile/mimiss) | May 15, 2019 22:03
 
-May 15, 2019 22:03 | Tags: [education](../tag/education), [workshop](../tag/workshop), [curriculum](../tag/curriculum), [activity:education](../tag/activity:education), [lesson](../tag/lesson), [exploring-environmental-issues](../tag/exploring-environmental-issues), [parent:student-led-community-science-in-the-classroom-a-curriculum](../tag/parent:student-led-community-science-in-the-classroom-a-curriculum), [series:student-community-science](../tag/series:student-community-science), [activity:student-community-science](../tag/activity:student-community-science), [with:purl](../tag/with:purl)
+May 15, 2019 22:03 | Tags: [education](/tag/education), [workshop](/tag/workshop), [curriculum](/tag/curriculum), [activity:education](/tag/activity:education), [lesson](/tag/lesson), [exploring-environmental-issues](/tag/exploring-environmental-issues), [parent:student-led-community-science-in-the-classroom-a-curriculum](/tag/parent:student-led-community-science-in-the-classroom-a-curriculum), [series:student-community-science](/tag/series:student-community-science), [activity:student-community-science](/tag/activity:student-community-science), [with:purl](/tag/with:purl)
 
 ----
 

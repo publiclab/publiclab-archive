@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/3-14-2013/public-lab-participate-ideas-city-kickstarter.md
 nid: 6343
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/792x792x1.jpg)
 
 # Public Lab to participate in IDEAS CITY with Kickstarter
 
-by [liz](../../../profile/liz) | March 14, 2013 22:25
+by [liz](/profile/liz) | March 14, 2013 22:25
 
-March 14, 2013 22:25 | Tags: [new-york-city](../tag/new-york-city), [festival](../tag/festival), [public-space](../tag/public-space)
+March 14, 2013 22:25 | Tags: [new-york-city](/tag/new-york-city), [festival](/tag/festival), [public-space](/tag/public-space)
 
 ----
 

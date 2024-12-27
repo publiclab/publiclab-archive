@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/07-15-2014/why-is-peer-to-peer-file-sharing-useful-should-i-put-effort-into-learning-how-to-do-it.md
 nid: 10694
 uid: 43651
-
 cids: 9516,9532,9594,16952
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/296/original/bitmate1.jpg)
 
 # Why is 'peer-to-peer' file sharing useful?  Should I put effort into learning how to do it?
 
-by [donblair](../../../profile/donblair) | July 15, 2014 16:52
+by [donblair](/profile/donblair) | July 15, 2014 16:52
 
-July 15, 2014 16:52 | Tags: [file-sharing](../tag/file-sharing), [response:10694](../tag/response:10694), [question:file-sharing](../tag/question:file-sharing), [p2p](../tag/p2p), [question:image-sharing](../tag/question:image-sharing)
+July 15, 2014 16:52 | Tags: [file-sharing](/tag/file-sharing), [response:10694](/tag/response:10694), [question:file-sharing](/tag/question:file-sharing), [p2p](/tag/p2p), [question:image-sharing](/tag/question:image-sharing)
 
 ----
 

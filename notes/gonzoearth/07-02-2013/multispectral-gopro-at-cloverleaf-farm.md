@@ -6,18 +6,16 @@ author: gonzoearth
 path: /notes/gonzoearth/07-02-2013/multispectral-gopro-at-cloverleaf-farm.md
 nid: 8607
 uid: 12
-
 cids: 5958,5965,9024,9028,9029
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/578/original/161.png)
 
 # Multispectral GoPro at Cloverleaf Farmstand
 
-by [gonzoearth](../../../profile/gonzoearth) | July 02, 2013 15:56
+by [gonzoearth](/profile/gonzoearth) | July 02, 2013 15:56
 
-July 02, 2013 15:56 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [agriculture](../tag/agriculture), [infragram](../tag/infragram), [gopro](../tag/gopro), [gopro-ag](../tag/gopro-ag), [mini-camera](../tag/mini-camera), [activity:mini-camera](../tag/activity:mini-camera)
+July 02, 2013 15:56 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [ndvi](/tag/ndvi), [agriculture](/tag/agriculture), [infragram](/tag/infragram), [gopro](/tag/gopro), [gopro-ag](/tag/gopro-ag), [mini-camera](/tag/mini-camera), [activity:mini-camera](/tag/activity:mini-camera)
 
 ----
 

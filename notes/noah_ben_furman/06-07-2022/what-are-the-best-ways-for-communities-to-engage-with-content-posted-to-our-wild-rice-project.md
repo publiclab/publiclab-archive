@@ -6,16 +6,14 @@ author: noah_ben_furman
 path: /notes/noah_ben_furman/06-07-2022/what-are-the-best-ways-for-communities-to-engage-with-content-posted-to-our-wild-rice-project.md
 nid: 31038
 uid: 795472
-
 cids: 30259,30266,30281,30683
-
 ---
 
 # What are the best ways for communities to engage with content posted to our Wild Rice project?
 
-by [noah_ben_furman](../../../profile/noah_ben_furman) | June 07, 2022 21:08
+by [noah_ben_furman](/profile/noah_ben_furman) | June 07, 2022 21:08
 
-June 07, 2022 21:08 | Tags: [community](../tag/community), [air-quality](../tag/air-quality), [water](../tag/water), [minnesota](../tag/minnesota), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster), [wild-rice](../tag/wild-rice), [huber-osb-factory](../tag/huber-osb-factory), [talon-rio-tinto-mine](../tag/talon-rio-tinto-mine), [land-rights](../tag/land-rights)
+June 07, 2022 21:08 | Tags: [community](/tag/community), [air-quality](/tag/air-quality), [water](/tag/water), [minnesota](/tag/minnesota), [question:general](/tag/question:general), [general](/tag/general), [first-time-poster](/tag/first-time-poster), [wild-rice](/tag/wild-rice), [huber-osb-factory](/tag/huber-osb-factory), [talon-rio-tinto-mine](/tag/talon-rio-tinto-mine), [land-rights](/tag/land-rights)
 
 ----
 

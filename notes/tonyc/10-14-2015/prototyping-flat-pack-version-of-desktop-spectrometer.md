@@ -6,18 +6,16 @@ author: tonyc
 path: /notes/tonyc/10-14-2015/prototyping-flat-pack-version-of-desktop-spectrometer.md
 nid: 12303
 uid: 447491
-
 cids: 12742,12743,12744,12745,12746,12748,12862
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/954/original/IMG_3480.JPG)
 
 # Prototyping flat-pack version of Desktop Spectrometer 
 
-by [tonyc](../../../profile/tonyc) | October 14, 2015 19:11
+by [tonyc](/profile/tonyc) | October 14, 2015 19:11
 
-October 14, 2015 19:11 | Tags: [spectrometer](../tag/spectrometer), [dsk](../tag/dsk), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [papercraft](../tag/papercraft), [kits-initiative](../tag/kits-initiative), [dsk3](../tag/dsk3)
+October 14, 2015 19:11 | Tags: [spectrometer](/tag/spectrometer), [dsk](/tag/dsk), [desktop-spectrometry-kit](/tag/desktop-spectrometry-kit), [papercraft](/tag/papercraft), [kits-initiative](/tag/kits-initiative), [dsk3](/tag/dsk3)
 
 ----
 

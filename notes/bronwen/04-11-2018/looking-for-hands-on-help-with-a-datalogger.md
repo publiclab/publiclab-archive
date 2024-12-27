@@ -6,16 +6,14 @@ author: Bronwen
 path: /notes/bronwen/04-11-2018/looking-for-hands-on-help-with-a-datalogger.md
 nid: 16131
 uid: 237313
-
 cids: 19349,19390,23065
-
 ---
 
 # Looking for hands-on help with a datalogger!
 
-by [Bronwen](../../../profile/Bronwen) | April 11, 2018 12:20
+by [Bronwen](/profile/Bronwen) | April 11, 2018 12:20
 
-April 11, 2018 12:20 | Tags: [arduino](../tag/arduino), [air-quality](../tag/air-quality), [sensors](../tag/sensors), [datalogger](../tag/datalogger), [riffle](../tag/riffle), [formaldehyde](../tag/formaldehyde), [question:air-quality](../tag/question:air-quality), [answered](../tag/answered), [hcho](../tag/hcho), [x](../tag/x), [resolution](../tag/resolution), [data-logging](../tag/data-logging), [question:data-logging](../tag/question:data-logging), [nano-data-logger](../tag/nano-data-logger), [question:sensors](../tag/question:sensors), [knowflow](../tag/knowflow), [datalogging](../tag/datalogging), [smart-form](../tag/smart-form), [question:sensitivity](../tag/question:sensitivity), [question:air-sensors](../tag/question:air-sensors), [air-sensors](../tag/air-sensors), [question:resolution](../tag/question:resolution)
+April 11, 2018 12:20 | Tags: [arduino](/tag/arduino), [air-quality](/tag/air-quality), [sensors](/tag/sensors), [datalogger](/tag/datalogger), [riffle](/tag/riffle), [formaldehyde](/tag/formaldehyde), [question:air-quality](/tag/question:air-quality), [answered](/tag/answered), [hcho](/tag/hcho), [x](/tag/x), [resolution](/tag/resolution), [data-logging](/tag/data-logging), [question:data-logging](/tag/question:data-logging), [nano-data-logger](/tag/nano-data-logger), [question:sensors](/tag/question:sensors), [knowflow](/tag/knowflow), [datalogging](/tag/datalogging), [smart-form](/tag/smart-form), [question:sensitivity](/tag/question:sensitivity), [question:air-sensors](/tag/question:air-sensors), [air-sensors](/tag/air-sensors), [question:resolution](/tag/question:resolution)
 
 ----
 

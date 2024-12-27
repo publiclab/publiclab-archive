@@ -6,14 +6,14 @@ author: joyofsoy
 path: /wiki/infragrampi.md
 nid: 20604
 uid: 540844
-
+cids: 
 ---
 
 # infragrampi
 
-by [joyofsoy](../profile/joyofsoy)
+by [joyofsoy](/profile/joyofsoy)
 
-August 20, 2019 22:37 | Tags: [redirect:15134](../tag/redirect:15134)
+August 20, 2019 22:37 | Tags: [redirect:15134](/tag/redirect:15134)
 
 ----
 

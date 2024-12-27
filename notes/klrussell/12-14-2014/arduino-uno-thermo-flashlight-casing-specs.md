@@ -6,18 +6,16 @@ author: klrussell
 path: /notes/klrussell/12-14-2014/arduino-uno-thermo-flashlight-casing-specs.md
 nid: 11458
 uid: 432708
-
 cids: 10946
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/392/original/IMG_20141214_135624.jpg)
 
 # Arduino Uno Thermo Flashlight Casing Specs
 
-by [klrussell](../../../profile/klrussell) | December 14, 2014 18:56
+by [klrussell](/profile/klrussell) | December 14, 2014 18:56
 
-December 14, 2014 18:56 | Tags: [thermal-photography](../tag/thermal-photography), [arduino](../tag/arduino), [thermal-flashlight](../tag/thermal-flashlight), [sociology-4107](../tag/sociology-4107), [heat](../tag/heat), [replication:625](../tag/replication:625), [first-time-poster](../tag/first-time-poster)
+December 14, 2014 18:56 | Tags: [thermal-photography](/tag/thermal-photography), [arduino](/tag/arduino), [thermal-flashlight](/tag/thermal-flashlight), [sociology-4107](/tag/sociology-4107), [heat](/tag/heat), [replication:625](/tag/replication:625), [first-time-poster](/tag/first-time-poster)
 
 ----
 

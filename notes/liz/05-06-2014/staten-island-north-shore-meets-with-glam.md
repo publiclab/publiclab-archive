@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/05-06-2014/staten-island-north-shore-meets-with-glam.md
 nid: 10432
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/077/original/IMG_2364.JPG)
 
 # Staten Island North Shore meets with GLAM
 
-by [liz](../../../profile/liz) | May 06, 2014 19:58
+by [liz](/profile/liz) | May 06, 2014 19:58
 
-May 06, 2014 19:58 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event), [glam](../tag/glam), [radiation](../tag/radiation), [northeast](../tag/northeast), [great-photos](../tag/great-photos), [staten-island](../tag/staten-island)
+May 06, 2014 19:58 | Tags: [new-york-city](/tag/new-york-city), [event](/tag/event), [glam](/tag/glam), [radiation](/tag/radiation), [northeast](/tag/northeast), [great-photos](/tag/great-photos), [staten-island](/tag/staten-island)
 
 ----
 

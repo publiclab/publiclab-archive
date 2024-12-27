@@ -6,14 +6,14 @@ author: liz
 path: /wiki/near-infrared-imaging.md
 nid: 7656
 uid: 7
-
+cids: 
 ---
 
 # near-infrared-imaging
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-May 17, 2013 17:20 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi)
+May 17, 2013 17:20 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi)
 
 ----
 

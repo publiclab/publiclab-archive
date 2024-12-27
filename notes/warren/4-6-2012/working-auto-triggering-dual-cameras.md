@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/4-6-2012/working-auto-triggering-dual-cameras.md
 nid: 1629
 uid: 1
-
 cids: 586
-
 ---
 
 ![](https://publiclab.org/sites/default/files/2012-04-06 17.33.56b.jpg)
 
 # Working auto-triggering for dual cameras
 
-by [warren](../../../profile/warren) | April 06, 2012 21:41
+by [warren](/profile/warren) | April 06, 2012 21:41
 
-April 06, 2012 21:41 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
+April 06, 2012 21:41 | Tags: [near-infrared-camera](/tag/near-infrared-camera)
 
 ----
 

@@ -6,16 +6,14 @@ author: suman
 path: /notes/suman/11-22-2016/query-about-infragram-diy-filter-pack-blue-red-filter.md
 nid: 13721
 uid: 497769
-
 cids: 15874,15876,22757
-
 ---
 
 # Query about Infragram DIY Filter Pack ( blue & red filter)
 
-by [suman](../../../profile/suman) | November 22, 2016 20:54
+by [suman](/profile/suman) | November 22, 2016 20:54
 
-November 22, 2016 20:54 | Tags: [question:infragram](../tag/question:infragram), [question:question](../tag/question:question), [first-time-poster](../tag/first-time-poster)
+November 22, 2016 20:54 | Tags: [question:infragram](/tag/question:infragram), [question:question](/tag/question:question), [first-time-poster](/tag/first-time-poster)
 
 ----
 

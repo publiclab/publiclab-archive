@@ -6,18 +6,16 @@ author: gonzoearth
 path: /notes/gonzoearth/3-22-2012/mapmaker-training.md
 nid: 1515
 uid: 12
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/6939415409_f5ec501e63.jpg)
 
 # MapMaker Training
 
-by [gonzoearth](../../../profile/gonzoearth) | March 22, 2012 04:20
+by [gonzoearth](/profile/gonzoearth) | March 22, 2012 04:20
 
-March 22, 2012 04:20 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping)
+March 22, 2012 04:20 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping)
 
 ----
 

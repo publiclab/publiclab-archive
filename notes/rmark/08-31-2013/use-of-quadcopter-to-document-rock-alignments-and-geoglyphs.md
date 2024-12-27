@@ -6,18 +6,16 @@ author: rmark
 path: /notes/rmark/08-31-2013/use-of-quadcopter-to-document-rock-alignments-and-geoglyphs.md
 nid: 9082
 uid: 942
-
 cids: 6773,6774,7814,7818,13235
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/357/original/_dsc5981_1000.jpg)
 
 # Use of Quadcopter to Document Rock Alignments and Geoglyphs
 
-by [rmark](../../../profile/rmark) | August 31, 2013 00:54
+by [rmark](/profile/rmark) | August 31, 2013 00:54
 
-August 31, 2013 00:54 | Tags: [uav](../tag/uav), [quadcopter](../tag/quadcopter), [rock](../tag/rock), [geoglyphs](../tag/geoglyphs), [drone](../tag/drone)
+August 31, 2013 00:54 | Tags: [uav](/tag/uav), [quadcopter](/tag/quadcopter), [rock](/tag/rock), [geoglyphs](/tag/geoglyphs), [drone](/tag/drone)
 
 ----
 

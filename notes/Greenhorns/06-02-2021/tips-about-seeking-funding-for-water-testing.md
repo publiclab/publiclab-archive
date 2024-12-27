@@ -6,16 +6,14 @@ author: Greenhorns
 path: /notes/Greenhorns/06-02-2021/tips-about-seeking-funding-for-water-testing.md
 nid: 26777
 uid: 756206
-
 cids: 28857,28861,28865,28868,28871,28985
-
 ---
 
 # Tips about seeking funding for water testing?
 
-by [Greenhorns](../../../profile/Greenhorns) | June 02, 2021 21:39
+by [Greenhorns](/profile/Greenhorns) | June 02, 2021 21:39
 
-June 02, 2021 21:39 | Tags: [fundraising](../tag/fundraising), [mining](../tag/mining), [water-quality](../tag/water-quality), [water](../tag/water), [maine](../tag/maine), [northeast](../tag/northeast), [grants](../tag/grants), [question:water-quality](../tag/question:water-quality), [question:general](../tag/question:general), [general](../tag/general), [question:water](../tag/question:water), [question:mining](../tag/question:mining), [question:maine](../tag/question:maine), [response:26582](../tag/response:26582), [funding](../tag/funding), [question:funding](../tag/question:funding)
+June 02, 2021 21:39 | Tags: [fundraising](/tag/fundraising), [mining](/tag/mining), [water-quality](/tag/water-quality), [water](/tag/water), [maine](/tag/maine), [northeast](/tag/northeast), [grants](/tag/grants), [question:water-quality](/tag/question:water-quality), [question:general](/tag/question:general), [general](/tag/general), [question:water](/tag/question:water), [question:mining](/tag/question:mining), [question:maine](/tag/question:maine), [response:26582](/tag/response:26582), [funding](/tag/funding), [question:funding](/tag/question:funding)
 
 ----
 

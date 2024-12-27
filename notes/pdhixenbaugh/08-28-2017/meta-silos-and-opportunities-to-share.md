@@ -6,18 +6,16 @@ author: pdhixenbaugh
 path: /notes/pdhixenbaugh/08-28-2017/meta-silos-and-opportunities-to-share.md
 nid: 14795
 uid: 459085
-
 cids: 17262,17271,17273,17275,28609
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/455/original/oil-silo-home-conversion.jpg)
 
 # [Meta] Silos and opportunities to Share
 
-by [pdhixenbaugh](../../../profile/pdhixenbaugh) | August 28, 2017 00:20
+by [pdhixenbaugh](/profile/pdhixenbaugh) | August 28, 2017 00:20
 
-August 28, 2017 00:20 | Tags: [community](../tag/community), [publiclab](../tag/publiclab), [meta](../tag/meta), [organization](../tag/organization)
+August 28, 2017 00:20 | Tags: [community](/tag/community), [publiclab](/tag/publiclab), [meta](/tag/meta), [organization](/tag/organization)
 
 ----
 

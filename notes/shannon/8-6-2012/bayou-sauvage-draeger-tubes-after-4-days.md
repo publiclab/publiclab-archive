@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/shannon/8-6-2012/bayou-sauvage-draeger-tubes-after-4-days.md
 nid: 3153
 uid: 9
-
 cids: 1126,1127,1128,1130,1131,1192,1217,2738,2739
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0431.JPG)
 
 # Bayou Sauvage Draeger tubes after 4 days
 
-by [Shannon](../../../profile/Shannon) | August 06, 2012 22:14
+by [Shannon](/profile/Shannon) | August 06, 2012 22:14
 
-August 06, 2012 22:14 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [wetlands](../tag/wetlands)
+August 06, 2012 22:14 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [wetlands](/tag/wetlands)
 
 ----
 

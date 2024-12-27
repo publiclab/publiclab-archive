@@ -6,16 +6,14 @@ author: romrod
 path: /notes/romrod/11-06-2018/expanding-public-lab-s-community-stats-system.md
 nid: 17476
 uid: 558157
-
 cids: 
-
 ---
 
 # Expanding Public Lab's community stats system
 
-by [romrod](../../../profile/romrod) | November 06, 2018 04:36
+by [romrod](/profile/romrod) | November 06, 2018 04:36
 
-November 06, 2018 04:36 | Tags: [software](../tag/software), [soc](../tag/soc), [soc-2018](../tag/soc-2018), [rgsoc-2018](../tag/rgsoc-2018), [outreachy](../tag/outreachy), [outreachy-2018](../tag/outreachy-2018), [outreachy-2018-proposals](../tag/outreachy-2018-proposals), [response:17359](../tag/response:17359), [first-time-poster](../tag/first-time-poster)
+November 06, 2018 04:36 | Tags: [software](/tag/software), [soc](/tag/soc), [soc-2018](/tag/soc-2018), [rgsoc-2018](/tag/rgsoc-2018), [outreachy](/tag/outreachy), [outreachy-2018](/tag/outreachy-2018), [outreachy-2018-proposals](/tag/outreachy-2018-proposals), [response:17359](/tag/response:17359), [first-time-poster](/tag/first-time-poster)
 
 ----
 

@@ -6,18 +6,16 @@ author: adam-griffith
 path: /notes/adam-griffith/2-6-2012/updated-map-western-carolina-university.md
 nid: 753
 uid: 3
-
 cids: 452
-
 ---
 
 ![](https://publiclab.org/sites/default/files/reda.JPG)
 
 # Updated Map: Western Carolina University
 
-by [adam-griffith](../../../profile/adam-griffith) | February 06, 2012 17:16
+by [adam-griffith](/profile/adam-griffith) | February 06, 2012 17:16
 
-February 06, 2012 17:16 | Tags: [western-north-carolina](../tag/western-north-carolina), [southeast](../tag/southeast)
+February 06, 2012 17:16 | Tags: [western-north-carolina](/tag/western-north-carolina), [southeast](/tag/southeast)
 
 ----
 

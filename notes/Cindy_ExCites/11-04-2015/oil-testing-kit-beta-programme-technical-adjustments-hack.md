@@ -6,18 +6,16 @@ author: cindy_excites
 path: /notes/Cindy_ExCites/11-04-2015/oil-testing-kit-beta-programme-technical-adjustments-hack.md
 nid: 12368
 uid: 1083
-
 cids: 12849,12858
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/589/original/IMG_4168_propped-up_%28600x800%29.jpg)
 
 # Oil testing kit Beta programme - Technical adjustments (hack!)
 
-by [cindy_excites](../../../profile/cindy_excites) | November 04, 2015 22:40
+by [cindy_excites](/profile/cindy_excites) | November 04, 2015 22:40
 
-November 04, 2015 22:40 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta), [response:12348](../tag/response:12348)
+November 04, 2015 22:40 | Tags: [spectrometer](/tag/spectrometer), [fluorescence](/tag/fluorescence), [oil-testing-kit](/tag/oil-testing-kit), [oil-testing-kit-beta](/tag/oil-testing-kit-beta), [response:12348](/tag/response:12348)
 
 ----
 

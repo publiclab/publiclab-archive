@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/10-18-2014/public-lab-receives-support-from-open-society-foundations-to-launch-data-advocacy-initiative.md
 nid: 11276
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/464/original/plots-logo-transparent.jpg)
 
 # Public Lab receives support from Open Society Foundations to launch Data Advocacy initiative
 
-by [Shannon](../../../profile/Shannon) | October 18, 2014 01:49
+by [Shannon](/profile/Shannon) | October 18, 2014 01:49
 
-October 18, 2014 01:49 | Tags: [nonprofit](../tag/nonprofit)
+October 18, 2014 01:49 | Tags: [nonprofit](/tag/nonprofit)
 
 ----
 

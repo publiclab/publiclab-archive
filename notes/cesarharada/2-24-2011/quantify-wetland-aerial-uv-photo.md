@@ -6,18 +6,16 @@ author: cesarharada
 path: /notes/cesarharada/2-24-2011/quantify-wetland-aerial-uv-photo.md
 nid: 102
 uid: 50
-
 cids: 238
-
 ---
 
 ![](https://publiclab.org/sites/default/files/test_cesar_adam4_0.jpg)
 
 # Quantify wetland from aerial UV photo
 
-by [cesarharada](../../../profile/cesarharada) | February 24, 2011 09:13
+by [cesarharada](/profile/cesarharada) | February 24, 2011 09:13
 
-February 24, 2011 09:13 | Tags: [gulf-coast](../tag/gulf-coast), [multispectral](../tag/multispectral), [uv](../tag/uv), [wetlands](../tag/wetlands), [ultraviolet](../tag/ultraviolet), [lousiana](../tag/lousiana), [activity:image-analysis](../tag/activity:image-analysis), [activity:wetlands](../tag/activity:wetlands), [first-time-poster](../tag/first-time-poster)
+February 24, 2011 09:13 | Tags: [gulf-coast](/tag/gulf-coast), [multispectral](/tag/multispectral), [uv](/tag/uv), [wetlands](/tag/wetlands), [ultraviolet](/tag/ultraviolet), [lousiana](/tag/lousiana), [activity:image-analysis](/tag/activity:image-analysis), [activity:wetlands](/tag/activity:wetlands), [first-time-poster](/tag/first-time-poster)
 
 ----
 

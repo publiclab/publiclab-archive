@@ -6,14 +6,14 @@ author: liz
 path: /wiki/vertical-profiles-through-atmosphere.md
 nid: 1623
 uid: 7
-
+cids: 
 ---
 
 # vertical atmospheric profiles
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-April 05, 2012 19:35 | Tags: [air-column-monitor](../tag/air-column-monitor), [air-quality](../tag/air-quality)
+April 05, 2012 19:35 | Tags: [air-column-monitor](/tag/air-column-monitor), [air-quality](/tag/air-quality)
 
 ----
 

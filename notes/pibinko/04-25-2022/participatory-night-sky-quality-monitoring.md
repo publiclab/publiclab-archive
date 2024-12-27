@@ -6,18 +6,16 @@ author: pibinko
 path: /notes/pibinko/04-25-2022/participatory-night-sky-quality-monitoring.md
 nid: 30588
 uid: 793578
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/520/original/bmp_adesivo-992x1024.jpg)
 
 # Participatory night sky quality monitoring
 
-by [pibinko](../../../profile/pibinko) | April 25, 2022 14:37
+by [pibinko](/profile/pibinko) | April 25, 2022 14:37
 
-April 25, 2022 14:37 | Tags: [italy](../tag/italy), [eu](../tag/eu), [issue-brief](../tag/issue-brief), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [place:italy](../tag/place:italy), [lat:43.073878](../tag/lat:43.073878), [lon:11.153596](../tag/lon:11.153596), [light-pollution](../tag/light-pollution)
+April 25, 2022 14:37 | Tags: [italy](/tag/italy), [eu](/tag/eu), [issue-brief](/tag/issue-brief), [first-time-poster](/tag/first-time-poster), [zoom:6](/tag/zoom:6), [place:italy](/tag/place:italy), [lat:43.073878](/tag/lat:43.073878), [lon:11.153596](/tag/lon:11.153596), [light-pollution](/tag/light-pollution)
 
 ----
 
@@ -63,4 +61,4 @@ other activists and experts. Since 2013 we also have collaborations at the Europ
 
 Starting from a baseline of monitoring activities conducted in 2008-2018, the initial question is to check who will be interested in conducting a new wave of surveys starting from Summer 2022\. If you are interested in participating for the Southern Tuscan site, or to replicate these activities in your location, please write to [micalosapevo@pibinko.org](mailto:micalosapevo@pibinko.org).
 
-[buiometria](../../tag/question:buiometria)
+[buiometria](/tag/question:buiometria)

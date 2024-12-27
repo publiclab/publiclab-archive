@@ -6,18 +6,16 @@ author: TheChessGym
 path: /notes/TheChessGym/08-30-2022/epa-charts-and-classifies-environmental-quality-by-geographic-location.md
 nid: 34920
 uid: 788868
-
 cids: 30553,30554,30555,30556,30557,30558,30559,30560,30561,30562,30563,30564,30565,30566,30567,30568,30569
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/093/original/pollution.jpg)
 
 # EPA Charts and Classifies Environmental Quality By Geographic Location
 
-by [TheChessGym](../../../profile/TheChessGym) | August 30, 2022 13:29
+by [TheChessGym](/profile/TheChessGym) | August 30, 2022 13:29
 
-August 30, 2022 13:29 | Tags: [first-time-poster](../tag/first-time-poster), [lat:20](../tag/lat:20), [lon:70](../tag/lon:70), [zoom:5](../tag/zoom:5)
+August 30, 2022 13:29 | Tags: [first-time-poster](/tag/first-time-poster), [lat:20](/tag/lat:20), [lon:70](/tag/lon:70), [zoom:5](/tag/zoom:5)
 
 ----
 

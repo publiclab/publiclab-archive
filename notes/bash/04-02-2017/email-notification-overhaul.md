@@ -6,16 +6,14 @@ author: bash
 path: /notes/bash/04-02-2017/email-notification-overhaul.md
 nid: 14082
 uid: 505018
-
 cids: 16535,16544
-
 ---
 
 # Email notification overhaul
 
-by [bash](../../../profile/bash) | April 02, 2017 13:51
+by [bash](/profile/bash) | April 02, 2017 13:51
 
-April 02, 2017 13:51 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [rgsoc-2017](../tag/rgsoc-2017), [soc-2017-proposals](../tag/soc-2017-proposals), [response:13975](../tag/response:13975)
+April 02, 2017 13:51 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [gsoc-2017](/tag/gsoc-2017), [soc](/tag/soc), [soc-2017](/tag/soc-2017), [rgsoc-2017](/tag/rgsoc-2017), [soc-2017-proposals](/tag/soc-2017-proposals), [response:13975](/tag/response:13975)
 
 ----
 

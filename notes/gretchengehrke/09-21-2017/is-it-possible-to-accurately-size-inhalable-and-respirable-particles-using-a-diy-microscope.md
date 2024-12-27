@@ -6,16 +6,14 @@ author: gretchengehrke
 path: /notes/gretchengehrke/09-21-2017/is-it-possible-to-accurately-size-inhalable-and-respirable-particles-using-a-diy-microscope.md
 nid: 14929
 uid: 430549
-
 cids: 17440,17441,18561,22939
-
 ---
 
 # Is it possible to accurately size inhalable and respirable particles using a DIY microscope?
 
-by [gretchengehrke](../../../profile/gretchengehrke) | September 21, 2017 18:46
+by [gretchengehrke](/profile/gretchengehrke) | September 21, 2017 18:46
 
-September 21, 2017 18:46 | Tags: [question:pm](../tag/question:pm), [question:pm-monitoring](../tag/question:pm-monitoring), [question:frac-sand](../tag/question:frac-sand), [question:microscopes](../tag/question:microscopes), [question:community-microscope-challenges](../tag/question:community-microscope-challenges)
+September 21, 2017 18:46 | Tags: [question:pm](/tag/question:pm), [question:pm-monitoring](/tag/question:pm-monitoring), [question:frac-sand](/tag/question:frac-sand), [question:microscopes](/tag/question:microscopes), [question:community-microscope-challenges](/tag/question:community-microscope-challenges)
 
 ----
 

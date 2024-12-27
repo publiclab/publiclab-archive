@@ -6,16 +6,14 @@ author: Ligon
 path: /notes/Ligon/11-06-2013/some-simple-additions-for-the-new-spectroscope-camera.md
 nid: 9736
 uid: 327822
-
 cids: 7451,7691
-
 ---
 
 # Some simple additions for the new spectroscope camera
 
-by [Ligon](../../../profile/Ligon) | November 06, 2013 16:45
+by [Ligon](/profile/Ligon) | November 06, 2013 16:45
 
-November 06, 2013 16:45 | Tags: [spectrometer](../tag/spectrometer), [first-time-poster](../tag/first-time-poster)
+November 06, 2013 16:45 | Tags: [spectrometer](/tag/spectrometer), [first-time-poster](/tag/first-time-poster)
 
 ----
 

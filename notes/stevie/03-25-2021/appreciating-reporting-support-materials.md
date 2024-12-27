@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/03-25-2021/appreciating-reporting-support-materials.md
 nid: 26028
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/052/original/Screen_Shot_2021-03-25_at_12.43.00_PM.png)
 
 # Appreciating Reporting Support Materials
 
-by [stevie](../../../profile/stevie) | March 25, 2021 17:29
+by [stevie](/profile/stevie) | March 25, 2021 17:29
 
-March 25, 2021 17:29 | Tags: [farming](../tag/farming), [reporting](../tag/reporting), [cafo](../tag/cafo), [frac-sand](../tag/frac-sand), [parent:frac-sand](../tag/parent:frac-sand), [permits](../tag/permits), [farm-animals](../tag/farm-animals), [reporting-forms](../tag/reporting-forms), [frac-sand-reporting](../tag/frac-sand-reporting), [sentinel](../tag/sentinel), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program), [permit-violation](../tag/permit-violation), [sand-sentinel](../tag/sand-sentinel), [sentinel-program](../tag/sentinel-program), [brown-water](../tag/brown-water)
+March 25, 2021 17:29 | Tags: [farming](/tag/farming), [reporting](/tag/reporting), [cafo](/tag/cafo), [frac-sand](/tag/frac-sand), [parent:frac-sand](/tag/parent:frac-sand), [permits](/tag/permits), [farm-animals](/tag/farm-animals), [reporting-forms](/tag/reporting-forms), [frac-sand-reporting](/tag/frac-sand-reporting), [sentinel](/tag/sentinel), [parent:the-sand-sentinel-program](/tag/parent:the-sand-sentinel-program), [permit-violation](/tag/permit-violation), [sand-sentinel](/tag/sand-sentinel), [sentinel-program](/tag/sentinel-program), [brown-water](/tag/brown-water)
 
 ----
 

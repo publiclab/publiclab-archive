@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/05-01-2018/placematters-launches-a-test-balloon-with-an-iphone-attached.md
 nid: 214
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Yellow-Balloon-Collage-Denver-2011-985x1024.png)
 
 # PlaceMatters launches a test balloon with an iPhone attached
 
-by [warren](../../../profile/warren) | May 04, 2011 20:19
+by [warren](/profile/warren) | May 04, 2011 20:19
 
-May 04, 2011 20:19 | Tags: [colorado](../tag/colorado)
+May 04, 2011 20:19 | Tags: [colorado](/tag/colorado)
 
 ----
 

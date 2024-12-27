@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/2-6-2012/skytruth-southwings-collect-evidence-lawsuit-7-yr-old-oil-spill.md
 nid: 756
 uid: 1
-
 cids: 569,572
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Picture 4_0.png)
 
 # SkyTruth & Southwings collect evidence for lawsuit on 7-yr-old oil spill
 
-by [warren](../../../profile/warren) | February 06, 2012 20:34
+by [warren](/profile/warren) | February 06, 2012 20:34
 
-February 06, 2012 20:34 | Tags: [oil-spill](../tag/oil-spill), [skytruth](../tag/skytruth)
+February 06, 2012 20:34 | Tags: [oil-spill](/tag/oil-spill), [skytruth](/tag/skytruth)
 
 ----
 

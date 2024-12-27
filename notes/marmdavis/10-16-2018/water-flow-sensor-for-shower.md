@@ -6,16 +6,14 @@ author: marmdavis
 path: /notes/marmdavis/10-16-2018/water-flow-sensor-for-shower.md
 nid: 17299
 uid: 555019
-
 cids: 20907,20909,20918,25539
-
 ---
 
 # Water flow sensor for shower?
 
-by [marmdavis](../../../profile/marmdavis) | October 16, 2018 04:44
+by [marmdavis](/profile/marmdavis) | October 16, 2018 04:44
 
-October 16, 2018 04:44 | Tags: [question](../tag/question), [logger](../tag/logger), [water-sensors](../tag/water-sensors), [water-sensor](../tag/water-sensor), [shower-timer](../tag/shower-timer)
+October 16, 2018 04:44 | Tags: [question](/tag/question), [logger](/tag/logger), [water-sensors](/tag/water-sensors), [water-sensor](/tag/water-sensor), [shower-timer](/tag/shower-timer)
 
 ----
 

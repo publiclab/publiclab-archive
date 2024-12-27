@@ -6,16 +6,16 @@ author: warren
 path: /wiki/leaflet-environmental-layers.md
 nid: 17058
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/431/original/Screen_Shot_2018-09-04_at_1.49.10_PM.png)
 
 # Leaflet Environmental Layers
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-September 04, 2018 17:27 | Tags: [leaflet-environmental-layers](../tag/leaflet-environmental-layers)
+September 04, 2018 17:27 | Tags: [leaflet-environmental-layers](/tag/leaflet-environmental-layers)
 
 ----
 
@@ -49,14 +49,14 @@ Existing layer requests are here: https://github.com/publiclab/leaflet-environme
 
 ## Questions
 
-[leaflet-environmental-layers](../../tag/question:leaflet-environmental-layers)
+[leaflet-environmental-layers](/tag/question:leaflet-environmental-layers)
 
 ## Activities
 
-[leaflet-environmental-layers](../../tag/activity:leaflet-environmental-layers)
+[leaflet-environmental-layers](/tag/activity:leaflet-environmental-layers)
 
 ****
 
 ## Updates
 
-[leaflet-environmental-layers!question:leaflet-environmental-layers](../../tag/leaflet-environmental-layers!question:leaflet-environmental-layers)
+[leaflet-environmental-layers!question:leaflet-environmental-layers](/tag/leaflet-environmental-layers!question:leaflet-environmental-layers)

@@ -6,18 +6,16 @@ author: gretchengehrke
 path: /notes/gretchengehrke/07-10-2015/oil-testing-kit-discerning-5w30-20w30.md
 nid: 12046
 uid: 430549
-
 cids: 12139,12725
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/622/original/Screen_Shot_2015-07-10_at_11.53.56_AM.png)
 
 # Oil Testing Kit -- discerning 5W30 20W30
 
-by [gretchengehrke](../../../profile/gretchengehrke) | July 10, 2015 15:59
+by [gretchengehrke](/profile/gretchengehrke) | July 10, 2015 15:59
 
-July 10, 2015 15:59 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [desktop-spectrometer](../tag/desktop-spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [oiltestkit](../tag/oiltestkit)
+July 10, 2015 15:59 | Tags: [spectrometer](/tag/spectrometer), [oil](/tag/oil), [desktop-spectrometer](/tag/desktop-spectrometer), [oil-testing-kit](/tag/oil-testing-kit), [oiltestkit](/tag/oiltestkit)
 
 ----
 

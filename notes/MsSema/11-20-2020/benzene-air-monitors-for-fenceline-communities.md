@@ -6,18 +6,16 @@ author: MsSema
 path: /notes/MsSema/11-20-2020/benzene-air-monitors-for-fenceline-communities.md
 nid: 25090
 uid: 727001
-
 cids: 27698,27733,27742,27747
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/790/original/ITC_Deer_Park.jpg)
 
 # Benzene Air Monitors For Fenceline Communities
 
-by [MsSema](../../../profile/MsSema) | November 20, 2020 19:47
+by [MsSema](/profile/MsSema) | November 20, 2020 19:47
 
-November 20, 2020 19:47 | Tags: [air-quality](../tag/air-quality), [barnstar:watchdog](../tag/barnstar:watchdog), [texas](../tag/texas), [oil-and-gas](../tag/oil-and-gas), [houston](../tag/houston), [issue-brief](../tag/issue-brief), [lat:29](../tag/lat:29), [lon:-95](../tag/lon:-95), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [fenceline-monitoring](../tag/fenceline-monitoring), [toxic-chemicals](../tag/toxic-chemicals), [benzene-monitors](../tag/benzene-monitors), [air-monitors](../tag/air-monitors), [air-quality-alert-system](../tag/air-quality-alert-system), [newcomer-experience](../tag/newcomer-experience)
+November 20, 2020 19:47 | Tags: [air-quality](/tag/air-quality), [barnstar:watchdog](/tag/barnstar:watchdog), [texas](/tag/texas), [oil-and-gas](/tag/oil-and-gas), [houston](/tag/houston), [issue-brief](/tag/issue-brief), [lat:29](/tag/lat:29), [lon:-95](/tag/lon:-95), [first-time-poster](/tag/first-time-poster), [zoom:6](/tag/zoom:6), [fenceline-monitoring](/tag/fenceline-monitoring), [toxic-chemicals](/tag/toxic-chemicals), [benzene-monitors](/tag/benzene-monitors), [air-monitors](/tag/air-monitors), [air-quality-alert-system](/tag/air-quality-alert-system), [newcomer-experience](/tag/newcomer-experience)
 
 ----
 

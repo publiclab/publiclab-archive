@@ -6,14 +6,14 @@ author: rollinrenola
 path: /wiki/activities-update.md
 nid: 21335
 uid: 618903
-
+cids: 
 ---
 
 # activities update
 
-by [rollinrenola](../profile/rollinrenola)
+by [rollinrenola](/profile/rollinrenola)
 
-October 29, 2019 14:02 | Tags: [canada](../tag/canada)
+October 29, 2019 14:02 | Tags: [canada](/tag/canada)
 
 ----
 

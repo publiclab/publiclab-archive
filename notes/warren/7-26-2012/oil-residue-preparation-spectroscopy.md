@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/7-26-2012/oil-residue-preparation-spectroscopy.md
 nid: 2963
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/spec-vid.png)
 
 # Oil residue preparation for spectroscopy
 
-by [warren](../../../profile/warren) | July 26, 2012 22:06
+by [warren](/profile/warren) | July 26, 2012 22:06
 
-July 26, 2012 22:06 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [sample-prep](../tag/sample-prep), [sampling](../tag/sampling), [jars](../tag/jars)
+July 26, 2012 22:06 | Tags: [spectrometer](/tag/spectrometer), [oil](/tag/oil), [sample-prep](/tag/sample-prep), [sampling](/tag/sampling), [jars](/tag/jars)
 
 ----
 

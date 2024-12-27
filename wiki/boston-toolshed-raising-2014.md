@@ -6,14 +6,14 @@ author: btbonval
 path: /wiki/boston-toolshed-raising-2014.md
 nid: 9650
 uid: 43229
-
+cids: 
 ---
 
 # Boston Toolshed Raising 2014
 
-by [sara](../profile/sara), [btbonval](../profile/btbonval)
+by [sara](/profile/sara), [btbonval](/profile/btbonval)
 
-October 27, 2013 18:07 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [boston](../tag/boston), [meetup](../tag/meetup), [workshop](../tag/workshop), [event](../tag/event), [somerville](../tag/somerville)
+October 27, 2013 18:07 | Tags: [somerville-massachusetts](/tag/somerville-massachusetts), [boston](/tag/boston), [meetup](/tag/meetup), [workshop](/tag/workshop), [event](/tag/event), [somerville](/tag/somerville)
 
 ----
 

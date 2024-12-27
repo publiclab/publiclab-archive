@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/01-29-2015/dealing-with-patents-black-decker-and-the-thermal-flashlight.md
 nid: 11545
 uid: 4
-
 cids: 11103,11104,11107,11108,11109,11195
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/764/original/Screen_Shot_2015-01-29_at_10.53.48_AM.png)
 
 # dealing with patents: Black & Decker and the Thermal Flashlight
 
-by [mathew](../../../profile/mathew) | January 29, 2015 18:56
+by [mathew](/profile/mathew) | January 29, 2015 18:56
 
-January 29, 2015 18:56 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-camera](../tag/thermal-camera), [question:patent](../tag/question:patent), [question:thermal-flashlight](../tag/question:thermal-flashlight)
+January 29, 2015 18:56 | Tags: [thermal-photography](/tag/thermal-photography), [thermal-flashlight](/tag/thermal-flashlight), [thermal-camera](/tag/thermal-camera), [question:patent](/tag/question:patent), [question:thermal-flashlight](/tag/question:thermal-flashlight)
 
 ----
 

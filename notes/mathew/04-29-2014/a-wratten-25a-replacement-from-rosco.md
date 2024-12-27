@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/04-29-2014/a-wratten-25a-replacement-from-rosco.md
 nid: 10376
 uid: 4
-
 cids: 8908,16754,16757,16758,16759,16761,20738,24819
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/913/original/Screen_Shot_2014-04-28_at_3.53.03_PM.png)
 
 # A Wratten 25A replacement from Rosco?
 
-by [mathew](../../../profile/mathew) | April 29, 2014 00:59
+by [mathew](/profile/mathew) | April 29, 2014 00:59
 
-April 29, 2014 00:59 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [rosco](../tag/rosco), [mobius](../tag/mobius), [red](../tag/red), [wratten](../tag/wratten)
+April 29, 2014 00:59 | Tags: [ndvi](/tag/ndvi), [infrared](/tag/infrared), [infragram](/tag/infragram), [rosco](/tag/rosco), [mobius](/tag/mobius), [red](/tag/red), [wratten](/tag/wratten)
 
 ----
 

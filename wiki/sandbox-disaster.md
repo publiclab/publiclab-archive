@@ -6,12 +6,12 @@ author: liz
 path: /wiki/sandbox-disaster.md
 nid: 19412
 uid: 7
-
+cids: 
 ---
 
 # sandbox-disaster
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
 May 15, 2019 19:20 | Tags: 
 

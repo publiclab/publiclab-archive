@@ -6,18 +6,16 @@ author: justinmanley
 path: /notes/justinmanley/09-01-2014/setting-up-mapknitter.md
 nid: 11095
 uid: 421556
-
 cids: 10166,10733,10766,10774,10775,10777,10778,10860,10861
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/540/original/installingMapKnitter.png)
 
 # Setting up MapKnitter
 
-by [justinmanley](../../../profile/justinmanley) | September 01, 2014 20:49
+by [justinmanley](/profile/justinmanley) | September 01, 2014 20:49
 
-September 01, 2014 20:49 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [barnstar:basic](../tag/barnstar:basic), [mapknitter-development](../tag/mapknitter-development)
+September 01, 2014 20:49 | Tags: [mapknitter](/tag/mapknitter), [gsoc](/tag/gsoc), [gsoc-2014](/tag/gsoc-2014), [barnstar:basic](/tag/barnstar:basic), [mapknitter-development](/tag/mapknitter-development)
 
 ----
 

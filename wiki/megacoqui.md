@@ -6,14 +6,14 @@ author: warren
 path: /wiki/megacoqui.md
 nid: 18870
 uid: 1
-
+cids: 
 ---
 
 # Megacoqui
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-March 26, 2019 19:49 | Tags: [redirect:18868](../tag/redirect:18868)
+March 26, 2019 19:49 | Tags: [redirect:18868](/tag/redirect:18868)
 
 ----
 

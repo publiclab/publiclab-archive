@@ -6,18 +6,16 @@ author: rebeccaMw
 path: /notes/rebeccaMw/01-25-2022/adapted-sampling-for-the-babylegs-kit.md
 nid: 28831
 uid: 779054
-
 cids: 29807,30316,31201,31309,31314,31318,31325
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/332/original/Babylegs.png)
 
 # Adapted sampling for the Babylegs Kit
 
-by [rebeccaMw](../../../profile/rebeccaMw) | January 25, 2022 19:50
+by [rebeccaMw](/profile/rebeccaMw) | January 25, 2022 19:50
 
-January 25, 2022 19:50 | Tags: [education](../tag/education), [water-quality](../tag/water-quality), [seeks:responses](../tag/seeks:responses), [microplastics](../tag/microplastics), [babylegs](../tag/babylegs), [plankton](../tag/plankton)
+January 25, 2022 19:50 | Tags: [education](/tag/education), [water-quality](/tag/water-quality), [seeks:responses](/tag/seeks:responses), [microplastics](/tag/microplastics), [babylegs](/tag/babylegs), [plankton](/tag/plankton)
 
 ----
 

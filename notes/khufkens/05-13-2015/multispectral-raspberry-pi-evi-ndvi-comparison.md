@@ -6,18 +6,16 @@ author: khufkens
 path: /notes/khufkens/05-13-2015/multispectral-raspberry-pi-evi-ndvi-comparison.md
 nid: 11808
 uid: 438931
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/878/original/Screen_Shot_2015-05-12_at_23.30.04.png)
 
 # Multispectral raspberry pi: EVI - NDVI comparison
 
-by [khufkens](../../../profile/khufkens) | May 13, 2015 03:49
+by [khufkens](/profile/khufkens) | May 13, 2015 03:49
 
-May 13, 2015 03:49 | Tags: [ndvi](../tag/ndvi), [multiple-camera](../tag/multiple-camera), [raspberry-pi](../tag/raspberry-pi), [vegetation](../tag/vegetation), [multipspectral](../tag/multipspectral), [evi](../tag/evi)
+May 13, 2015 03:49 | Tags: [ndvi](/tag/ndvi), [multiple-camera](/tag/multiple-camera), [raspberry-pi](/tag/raspberry-pi), [vegetation](/tag/vegetation), [multipspectral](/tag/multipspectral), [evi](/tag/evi)
 
 ----
 

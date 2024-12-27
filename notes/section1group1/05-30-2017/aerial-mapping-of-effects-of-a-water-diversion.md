@@ -6,18 +6,16 @@ author: section1group1
 path: /notes/section1group1/05-30-2017/aerial-mapping-of-effects-of-a-water-diversion.md
 nid: 14246
 uid: 507181
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/591/original/IMG_3437.JPG)
 
 # Aerial Mapping of Effects of a Water Diversion
 
-by [section1group1](../../../profile/section1group1) | May 30, 2017 16:23
+by [section1group1](/profile/section1group1) | May 30, 2017 16:23
 
-May 30, 2017 16:23 | Tags: [balloon-mapping](../tag/balloon-mapping), [event](../tag/event), [hidden:response](../tag/hidden:response), [response:14179](../tag/response:14179), [water-resources](../tag/water-resources), [diversion](../tag/diversion), [watershed](../tag/watershed)
+May 30, 2017 16:23 | Tags: [balloon-mapping](/tag/balloon-mapping), [event](/tag/event), [hidden:response](/tag/hidden:response), [response:14179](/tag/response:14179), [water-resources](/tag/water-resources), [diversion](/tag/diversion), [watershed](/tag/watershed)
 
 ----
 

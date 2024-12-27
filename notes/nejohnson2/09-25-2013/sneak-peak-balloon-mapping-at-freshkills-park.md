@@ -6,18 +6,16 @@ author: nicholas
 path: /notes/nejohnson2/09-25-2013/sneak-peak-balloon-mapping-at-freshkills-park.md
 nid: 9374
 uid: 53894
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/686/original/Screen_Shot_2013-09-25_at_10.48.34_AM.png)
 
 # Sneak Peak Balloon Mapping at Freshkills Park
 
-by [nicholas](../../../profile/nicholas) | September 25, 2013 14:50
+by [nicholas](/profile/nicholas) | September 25, 2013 14:50
 
-September 25, 2013 14:50 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event), [fresh-kills](../tag/fresh-kills), [staten-island](../tag/staten-island)
+September 25, 2013 14:50 | Tags: [new-york-city](/tag/new-york-city), [event](/tag/event), [fresh-kills](/tag/fresh-kills), [staten-island](/tag/staten-island)
 
 ----
 

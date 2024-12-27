@@ -6,18 +6,16 @@ author: suedonym85
 path: /notes/suedonym85/07-08-2019/fieldkit-what-features-do-you-want.md
 nid: 20037
 uid: 595980
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/558/original/Fieldkit_Panel_04_FINAL_sm.png)
 
 # FieldKit: What features do you want?
 
-by [suedonym85](../../../profile/suedonym85) | July 08, 2019 18:53
+by [suedonym85](/profile/suedonym85) | July 08, 2019 18:53
 
-July 08, 2019 18:53 | Tags: [software](../tag/software), [sensing](../tag/sensing), [sensors](../tag/sensors), [visualization](../tag/visualization), [sharing](../tag/sharing), [data](../tag/data), [environmental](../tag/environmental), [hardware](../tag/hardware), [storytelling](../tag/storytelling), [first-time-poster](../tag/first-time-poster), [lat:34.052659](../tag/lat:34.052659), [lon:-118.234863](../tag/lon:-118.234863)
+July 08, 2019 18:53 | Tags: [software](/tag/software), [sensing](/tag/sensing), [sensors](/tag/sensors), [visualization](/tag/visualization), [sharing](/tag/sharing), [data](/tag/data), [environmental](/tag/environmental), [hardware](/tag/hardware), [storytelling](/tag/storytelling), [first-time-poster](/tag/first-time-poster), [lat:34.052659](/tag/lat:34.052659), [lon:-118.234863](/tag/lon:-118.234863)
 
 ----
 

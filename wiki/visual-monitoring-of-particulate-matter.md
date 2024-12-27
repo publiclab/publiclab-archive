@@ -6,16 +6,16 @@ author: mathew
 path: /wiki/visual-monitoring-of-particulate-matter.md
 nid: 12688
 uid: 4
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/300/original/Fig2pt7_intro-to-visibility-nps-william-malm-1999.png)
 
 # Visual Monitoring of Particulate Matter
 
-by [stevie](../profile/stevie), [warren](../profile/warren), [gretchengehrke](../profile/gretchengehrke), [mathew](../profile/mathew)
+by [stevie](/profile/stevie), [warren](/profile/warren), [gretchengehrke](/profile/gretchengehrke), [mathew](/profile/mathew)
 
-February 15, 2016 03:32 | Tags: [particulate](../tag/particulate), [pm](../tag/pm), [parent:pm-monitoring](../tag/parent:pm-monitoring), [visual-monitoring](../tag/visual-monitoring)
+February 15, 2016 03:32 | Tags: [particulate](/tag/particulate), [pm](/tag/pm), [parent:pm-monitoring](/tag/parent:pm-monitoring), [visual-monitoring](/tag/visual-monitoring)
 
 ----
 
@@ -38,10 +38,10 @@ _photo by Mary Kenosian_
 
 ## Questions
 
-[visual-monitoring](../../tag/question:visual-monitoring)
+[visual-monitoring](/tag/question:visual-monitoring)
 
 ****
-[visual-monitoring](../../tag/visual-monitoring)
+[visual-monitoring](/tag/visual-monitoring)
 			
 ## Smoke School Certification
 
@@ -55,7 +55,7 @@ To maintain your certification, you must pass the field certification test every
 
 ## Activities
 
-[visual-monitoring](../../tag/activity:visual-monitoring)
+[visual-monitoring](/tag/activity:visual-monitoring)
 
 ****
 

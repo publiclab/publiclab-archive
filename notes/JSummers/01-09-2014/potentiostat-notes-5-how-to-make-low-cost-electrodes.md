@@ -6,18 +6,16 @@ author: JSummers
 path: /notes/JSummers/01-09-2014/potentiostat-notes-5-how-to-make-low-cost-electrodes.md
 nid: 9932
 uid: 304279
-
 cids: 8007,9419,9425,12109,12819,12820,12821,12822,12823,12825
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/501/original/DSCN0502.JPG)
 
 # Potentiostat Notes 5:  How to make low cost electrodes.
 
-by [JSummers](../../../profile/JSummers) | January 09, 2014 17:24
+by [JSummers](/profile/JSummers) | January 09, 2014 17:24
 
-January 09, 2014 17:24 | Tags: [water-quality](../tag/water-quality), [potentiostat](../tag/potentiostat), [cheapstat](../tag/cheapstat), [tool](../tag/tool), [wheestat](../tag/wheestat), [activity:potentiostat](../tag/activity:potentiostat), [electrodes](../tag/electrodes), [potentiometry](../tag/potentiometry), [pin:wheestat](../tag/pin:wheestat)
+January 09, 2014 17:24 | Tags: [water-quality](/tag/water-quality), [potentiostat](/tag/potentiostat), [cheapstat](/tag/cheapstat), [tool](/tag/tool), [wheestat](/tag/wheestat), [activity:potentiostat](/tag/activity:potentiostat), [electrodes](/tag/electrodes), [potentiometry](/tag/potentiometry), [pin:wheestat](/tag/pin:wheestat)
 
 ----
 

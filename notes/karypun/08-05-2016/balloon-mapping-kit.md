@@ -6,18 +6,16 @@ author: karypun
 path: /notes/karypun/08-05-2016/balloon-mapping-kit.md
 nid: 13333
 uid: 484876
-
 cids: 15086,15088,15103,15105,15128,15130
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/376/original/1624676511.jpg)
 
 # 到中国的东江源头村使用Balloon Mapping Kit
 
-by [karypun](../../../profile/karypun) | August 05, 2016 10:45
+by [karypun](/profile/karypun) | August 05, 2016 10:45
 
-August 05, 2016 10:45 | Tags: [blog](../tag/blog), [barnstar:basic](../tag/barnstar:basic)
+August 05, 2016 10:45 | Tags: [blog](/tag/blog), [barnstar:basic](/tag/barnstar:basic)
 
 ----
 

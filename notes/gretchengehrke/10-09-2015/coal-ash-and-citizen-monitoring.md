@@ -6,18 +6,16 @@ author: gretchengehrke
 path: /notes/gretchengehrke/10-09-2015/coal-ash-and-citizen-monitoring.md
 nid: 12287
 uid: 430549
-
 cids: 12706,13200,13228
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/895/original/DanRiverCoalAsh_creditLivingOnEarth.jpg)
 
 # Coal Ash and Citizen Monitoring
 
-by [gretchengehrke](../../../profile/gretchengehrke) | October 09, 2015 21:48
+by [gretchengehrke](/profile/gretchengehrke) | October 09, 2015 21:48
 
-October 09, 2015 21:48 | Tags: [north-carolina](../tag/north-carolina), [coal](../tag/coal), [particles](../tag/particles), [particle-sensing](../tag/particle-sensing), [particle-monitoring](../tag/particle-monitoring), [coal-ash](../tag/coal-ash), [passive-pm](../tag/passive-pm)
+October 09, 2015 21:48 | Tags: [north-carolina](/tag/north-carolina), [coal](/tag/coal), [particles](/tag/particles), [particle-sensing](/tag/particle-sensing), [particle-monitoring](/tag/particle-monitoring), [coal-ash](/tag/coal-ash), [passive-pm](/tag/passive-pm)
 
 ----
 

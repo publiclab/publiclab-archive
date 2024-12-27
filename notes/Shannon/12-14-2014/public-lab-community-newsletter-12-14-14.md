@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/12-14-2014/public-lab-community-newsletter-12-14-14.md
 nid: 11456
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/382/original/plots-logo-transparent.jpg)
 
 # Public Lab community newsletter 12.14.14
 
-by [Shannon](../../../profile/Shannon) | December 14, 2014 13:33
+by [Shannon](/profile/Shannon) | December 14, 2014 13:33
 
-December 14, 2014 13:33 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+December 14, 2014 13:33 | Tags: [newsletter](/tag/newsletter), [newsletter-archive](/tag/newsletter-archive)
 
 ----
 

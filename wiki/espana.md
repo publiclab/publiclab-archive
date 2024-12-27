@@ -6,14 +6,14 @@ author: warren
 path: /wiki/espana.md
 nid: 10517
 uid: 1
-
+cids: 
 ---
 
 # España
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-May 30, 2014 14:22 | Tags: [spain](../tag/spain), [espana](../tag/espana), [eu](../tag/eu), [europe](../tag/europe)
+May 30, 2014 14:22 | Tags: [spain](/tag/spain), [espana](/tag/espana), [eu](/tag/eu), [europe](/tag/europe)
 
 ----
 

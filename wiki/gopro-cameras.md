@@ -6,14 +6,14 @@ author: gonzoearth
 path: /wiki/gopro-cameras.md
 nid: 8090
 uid: 12
-
+cids: 
 ---
 
 # GoPro Cameras
 
-by [gonzoearth](../profile/gonzoearth)
+by [gonzoearth](/profile/gonzoearth)
 
-June 07, 2013 00:22 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [conversion](../tag/conversion), [infragram](../tag/infragram), [gopro](../tag/gopro)
+June 07, 2013 00:22 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [conversion](/tag/conversion), [infragram](/tag/infragram), [gopro](/tag/gopro)
 
 ----
 

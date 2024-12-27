@@ -6,16 +6,16 @@ author: stevie
 path: /wiki/public-comment.md
 nid: 13331
 uid: 422561
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/729/original/kite-mapping-coal-pollution.jpg)
 
 # Public Comment
 
-by [stevie](../profile/stevie), [liz](../profile/liz), [warren](../profile/warren), [sarasage](../profile/sarasage), [eustatic](../profile/eustatic)
+by [stevie](/profile/stevie), [liz](/profile/liz), [warren](/profile/warren), [sarasage](/profile/sarasage), [eustatic](/profile/eustatic)
 
-August 03, 2016 21:22 | Tags: [organizing](../tag/organizing), [tool](../tag/tool), [methods](../tag/methods), [resource](../tag/resource), [public-comment](../tag/public-comment), [method](../tag/method), [community-organizing](../tag/community-organizing), [prompt:public-comment](../tag/prompt:public-comment)
+August 03, 2016 21:22 | Tags: [organizing](/tag/organizing), [tool](/tag/tool), [methods](/tag/methods), [resource](/tag/resource), [public-comment](/tag/public-comment), [method](/tag/method), [community-organizing](/tag/community-organizing), [prompt:public-comment](/tag/prompt:public-comment)
 
 ----
 
@@ -129,7 +129,7 @@ Try to not ask an agency to do something that is outside their purview.  Try to 
 
 ### Questions
 
-[public-comment](../../tag/question:public-comment)
+[public-comment](/tag/question:public-comment)
 
 ****
 

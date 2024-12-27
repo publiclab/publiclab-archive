@@ -6,12 +6,12 @@ author: warren
 path: /wiki/kickstarter-credits.md
 nid: 14561
 uid: 1
-
+cids: 
 ---
 
 # Kickstarter Credits
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 June 20, 2017 15:41 | Tags: 
 

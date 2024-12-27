@@ -6,12 +6,12 @@ author: warren
 path: /wiki/slider-front-page.md
 nid: 177
 uid: 1
-
+cids: 
 ---
 
 # Slider Front Page
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 April 18, 2011 14:09 | Tags: 
 

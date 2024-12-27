@@ -6,18 +6,16 @@ author: mlamadrid
 path: /notes/mlamadrid/01-18-2017/a-sensor-journalist-s-story.md
 nid: 13859
 uid: 45586
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/296/original/21836556510_f5f89bef91_o-2.jpg)
 
 # A Sensor Journalist’s Story
 
-by [mlamadrid](../../../profile/mlamadrid) | January 18, 2017 00:14
+by [mlamadrid](/profile/mlamadrid) | January 18, 2017 00:14
 
-January 18, 2017 00:14 | Tags: [arduino](../tag/arduino), [water-quality](../tag/water-quality), [water](../tag/water), [riffle](../tag/riffle), [communityscienceforum](../tag/communityscienceforum), [riffle-examples](../tag/riffle-examples)
+January 18, 2017 00:14 | Tags: [arduino](/tag/arduino), [water-quality](/tag/water-quality), [water](/tag/water), [riffle](/tag/riffle), [communityscienceforum](/tag/communityscienceforum), [riffle-examples](/tag/riffle-examples)
 
 ----
 

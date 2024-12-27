@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/06-04-2015/using-soap-bubbles-for-pump-calibration.md
 nid: 11949
 uid: 4
-
 cids: 11879,11880,11881,11882,11883,11887,11888,11889,11890,11891,11894,11898,11899,11900,11903,11914,11923,11924,17673,17685,17716
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/202/original/IMG_20150603_145507.jpg)
 
 # using soap bubbles for pump calibration
 
-by [mathew](../../../profile/mathew) | June 04, 2015 01:32
+by [mathew](/profile/mathew) | June 04, 2015 01:32
 
-June 04, 2015 01:32 | Tags: [calibration](../tag/calibration), [air-quality](../tag/air-quality), [h2s](../tag/h2s), [formaldehyde](../tag/formaldehyde), [open-air](../tag/open-air), [openair](../tag/openair), [pump](../tag/pump), [indoor-air-quality](../tag/indoor-air-quality), [vacuum](../tag/vacuum)
+June 04, 2015 01:32 | Tags: [calibration](/tag/calibration), [air-quality](/tag/air-quality), [h2s](/tag/h2s), [formaldehyde](/tag/formaldehyde), [open-air](/tag/open-air), [openair](/tag/openair), [pump](/tag/pump), [indoor-air-quality](/tag/indoor-air-quality), [vacuum](/tag/vacuum)
 
 ----
 

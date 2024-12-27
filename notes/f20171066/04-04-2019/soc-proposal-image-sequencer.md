@@ -6,18 +6,16 @@ author: f20171066
 path: /notes/f20171066/04-04-2019/soc-proposal-image-sequencer.md
 nid: 18959
 uid: 579292
-
 cids: 23683,23686,23697,23704,23706,23787
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/039/original/imagesequencer.JPG)
 
 # SoC proposal: Image Sequencer
 
-by [f20171066](../../../profile/f20171066) | April 04, 2019 19:37
+by [f20171066](/profile/f20171066) | April 04, 2019 19:37
 
-April 04, 2019 19:37 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [first-time-poster](../tag/first-time-poster), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [response:18440](../tag/response:18440), [lat:19.075983](../tag/lat:19.075983), [lon:72.877655](../tag/lon:72.877655)
+April 04, 2019 19:37 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [soc](/tag/soc), [response:13975](/tag/response:13975), [first-time-poster](/tag/first-time-poster), [rgsoc-2019](/tag/rgsoc-2019), [gsoc-2019](/tag/gsoc-2019), [soc-2019](/tag/soc-2019), [soc-2019-proposals](/tag/soc-2019-proposals), [response:18440](/tag/response:18440), [lat:19.075983](/tag/lat:19.075983), [lon:72.877655](/tag/lon:72.877655)
 
 ----
 

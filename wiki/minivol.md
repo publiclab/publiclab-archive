@@ -6,16 +6,16 @@ author: mathew
 path: /wiki/minivol.md
 nid: 13890
 uid: 4
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/727/original/20170109_145812.jpg)
 
 # MiniVol TAS Particulate Matter Monitor
 
-by [Bronwen](../profile/Bronwen), [warren](../profile/warren), [mathew](../profile/mathew), [stevie](../profile/stevie)
+by [Bronwen](/profile/Bronwen), [warren](/profile/warren), [mathew](/profile/mathew), [stevie](/profile/stevie)
 
-January 31, 2017 01:07 | Tags: [methodologies](../tag/methodologies), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [pm-monitoring](../tag/pm-monitoring), [pm-sensing](../tag/pm-sensing), [minivol](../tag/minivol), [method](../tag/method), [oil-and-gas](../tag/oil-and-gas), [airmetrics](../tag/airmetrics), [air-sensors](../tag/air-sensors), [method:oil-and-gas](../tag/method:oil-and-gas), [particle-sensor](../tag/particle-sensor)
+January 31, 2017 01:07 | Tags: [methodologies](/tag/methodologies), [dust](/tag/dust), [silica](/tag/silica), [pm](/tag/pm), [particle-sensing](/tag/particle-sensing), [pm-monitoring](/tag/pm-monitoring), [pm-sensing](/tag/pm-sensing), [minivol](/tag/minivol), [method](/tag/method), [oil-and-gas](/tag/oil-and-gas), [airmetrics](/tag/airmetrics), [air-sensors](/tag/air-sensors), [method:oil-and-gas](/tag/method:oil-and-gas), [particle-sensor](/tag/particle-sensor)
 
 ----
 
@@ -149,11 +149,11 @@ Help out -- look at the activities below to learn how to try these techniques ou
 
 ### Activities
 
-[minivol](../../tag/activity:minivol)
+[minivol](/tag/activity:minivol)
 
 
 ****
 
 ### Questions
 
-[minivol](../../tag/question:minivol)
+[minivol](/tag/question:minivol)

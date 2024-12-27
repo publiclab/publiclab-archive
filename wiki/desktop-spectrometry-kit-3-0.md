@@ -6,16 +6,16 @@ author: mathew
 path: /wiki/desktop-spectrometry-kit-3-0.md
 nid: 11533
 uid: 4
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/503/original/IMG_20150521_144354-2.jpg)
 
 # Desktop Spectrometry Kit 3.0
 
-by [warren](../profile/warren), [liz](../profile/liz), [pablo](../profile/pablo), [abdul](../profile/abdul), [tonyc](../profile/tonyc), [natalie](../profile/natalie), [mathew](../profile/mathew)
+by [warren](/profile/warren), [liz](/profile/liz), [pablo](/profile/pablo), [abdul](/profile/abdul), [tonyc](/profile/tonyc), [natalie](/profile/natalie), [mathew](/profile/mathew)
 
-January 20, 2015 02:49 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [spectrometry](../tag/spectrometry), [assembly](../tag/assembly), [list:plots-spectrometry](../tag/list:plots-spectrometry), [prompt:spectrometry](../tag/prompt:spectrometry), [beautiful](../tag/beautiful), [parent:spectrometry](../tag/parent:spectrometry)
+January 20, 2015 02:49 | Tags: [spectrometer](/tag/spectrometer), [kits](/tag/kits), [spectrometry](/tag/spectrometry), [assembly](/tag/assembly), [list:plots-spectrometry](/tag/list:plots-spectrometry), [prompt:spectrometry](/tag/prompt:spectrometry), [beautiful](/tag/beautiful), [parent:spectrometry](/tag/parent:spectrometry)
 
 ----
 
@@ -49,7 +49,7 @@ Because most webcams’ exposure compensation cannot be disabled, we don’t kno
 
 Add limitations here in the form of questions like "How can we correct for gain compensation in webcams?" so that others can propose solutions. Propose a solution, upgrade, or new feature yourself by first posing the question it addresses:
 
-[question:dssk](../../tag/question:dssk)
+[question:dssk](/tag/question:dssk)
 
 <a href="/post?template=question&tags=question:dssk,question:spectrometry" class="btn btn-primary">Ask a new question</a> to explore further possible upgrades
 
@@ -71,7 +71,7 @@ Be sure to add:
 * constraints: expense, complexity
 * goals: performance, use cases
 
-[spectrometry-challenge](../../tag/question:spectrometry-challenge)
+[spectrometry-challenge](/tag/question:spectrometry-challenge)
 
 ****
 
@@ -79,7 +79,7 @@ Be sure to add:
 
 These are some activities specific to the Desktop Spectrometry Starter Kit -- for a full list of activities you can do with a DIY spectrometer, [see the main Spectrometry page](/wiki/spectrometry#Activities)
 
-[dssk](../../tag/activity:dssk)
+[dssk](/tag/activity:dssk)
 
 <a href="/post?tags=activity:spectrometry,activity:dssk,spectrometry,spectrometer,seeks:replications&title=How%20to%20do%20X" class="btn btn-primary">Add your own activity</a> <a href="/post?tags=question:dssk,question:spectrometry,request:activity&template=question&title=How%20do%20I...&redirect=question" class="btn btn-primary">Request an activity guide</a>
 
@@ -112,7 +112,7 @@ This section is for questions about the **Desktop Spectrometry Starter Kit**, sp
 
 <a class="btn btn-primary" href="/post?tags=question:dssk,question:spectrometry&template=question">Ask a question about the DSSK</a>
 
-[question:dssk](../../tag/question:dssk)
+[question:dssk](/tag/question:dssk)
 
 ****
 

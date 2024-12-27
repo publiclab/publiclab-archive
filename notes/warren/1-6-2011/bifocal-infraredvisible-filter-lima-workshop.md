@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/1-6-2011/bifocal-infraredvisible-filter-lima-workshop.md
 nid: 39
 uid: 1
-
 cids: 12729,12730,12731,12732,12733,12734,28189
-
 ---
 
 # Bifocal infrared/visible filter at Lima workshop
 
-by [warren](../../../profile/warren) | January 07, 2011 04:43
+by [warren](/profile/warren) | January 07, 2011 04:43
 
-January 07, 2011 04:43 | Tags: [lima](../tag/lima), [peru](../tag/peru), [south-america](../tag/south-america)
+January 07, 2011 04:43 | Tags: [lima](/tag/lima), [peru](/tag/peru), [south-america](/tag/south-america)
 
 ----
 

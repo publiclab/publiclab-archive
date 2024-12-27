@@ -6,16 +6,14 @@ author: wln215
 path: /notes/wln215/12-09-2019/replicating-ibm-s-lensless-holographic-rpi-microscope.md
 nid: 21709
 uid: 578478
-
 cids: 26043,26982,28335,28344,30218
-
 ---
 
 # Replicating IBM's Lensless, Holographic, RPi Microscope?
 
-by [wln215](../../../profile/wln215) | December 09, 2019 23:58
+by [wln215](/profile/wln215) | December 09, 2019 23:58
 
-December 09, 2019 23:58 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [microscope](../tag/microscope), [microscopy](../tag/microscopy), [question:general](../tag/question:general), [general](../tag/general), [microscopes](../tag/microscopes), [lensless](../tag/lensless), [holograph](../tag/holograph)
+December 09, 2019 23:58 | Tags: [water-quality](/tag/water-quality), [water](/tag/water), [microscope](/tag/microscope), [microscopy](/tag/microscopy), [question:general](/tag/question:general), [general](/tag/general), [microscopes](/tag/microscopes), [lensless](/tag/lensless), [holograph](/tag/holograph)
 
 ----
 

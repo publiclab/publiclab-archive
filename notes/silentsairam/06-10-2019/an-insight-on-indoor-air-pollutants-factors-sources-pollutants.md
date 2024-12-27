@@ -6,18 +6,16 @@ author: silentsairam
 path: /notes/silentsairam/06-10-2019/an-insight-on-indoor-air-pollutants-factors-sources-pollutants.md
 nid: 19653
 uid: 553044
-
 cids: 24751,24754,26436,28041,30250,31418,31436,31467
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/785/original/pp.jpg)
 
 # An Insight on Indoor Air Pollutants: Factors, Sources & Pollutants.
 
-by [silentsairam](../../../profile/silentsairam) | June 10, 2019 18:27
+by [silentsairam](/profile/silentsairam) | June 10, 2019 18:27
 
-June 10, 2019 18:27 | Tags: [air-quality](../tag/air-quality), [formaldehyde](../tag/formaldehyde), [indoor-air-quality](../tag/indoor-air-quality), [indoor-air](../tag/indoor-air), [lat:10.768555](../tag/lat:10.768555), [lon:78.815917](../tag/lon:78.815917)
+June 10, 2019 18:27 | Tags: [air-quality](/tag/air-quality), [formaldehyde](/tag/formaldehyde), [indoor-air-quality](/tag/indoor-air-quality), [indoor-air](/tag/indoor-air), [lat:10.768555](/tag/lat:10.768555), [lon:78.815917](/tag/lon:78.815917)
 
 ----
 

@@ -6,18 +6,16 @@ author: jholmes5
 path: /notes/jholmes5/03-18-2014/calibrating-spectrometers-from-fluorescent-light-bulbs.md
 nid: 10197
 uid: 133222
-
 cids: 8534,8535
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/302/original/Museum_office_1.jpg)
 
 # Calibrating Spectrometers from fluorescent light bulbs
 
-by [jholmes5](../../../profile/jholmes5) | March 18, 2014 01:55
+by [jholmes5](/profile/jholmes5) | March 18, 2014 01:55
 
-March 18, 2014 01:55 | Tags: [new-york-city](../tag/new-york-city), [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [troubleshooting](../tag/troubleshooting), [spectrometry](../tag/spectrometry), [laser](../tag/laser), [overexposure](../tag/overexposure), [response:10190](../tag/response:10190)
+March 18, 2014 01:55 | Tags: [new-york-city](/tag/new-york-city), [spectrometer](/tag/spectrometer), [calibration](/tag/calibration), [troubleshooting](/tag/troubleshooting), [spectrometry](/tag/spectrometry), [laser](/tag/laser), [overexposure](/tag/overexposure), [response:10190](/tag/response:10190)
 
 ----
 

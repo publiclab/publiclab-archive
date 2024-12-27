@@ -6,16 +6,14 @@ author: Kmckeown
 path: /notes/Kmckeown/08-22-2018/ideas-for-a-diy-maker-class-for-6th-graders.md
 nid: 16982
 uid: 530589
-
 cids: 23216,23217,23218,27541
-
 ---
 
 # Ideas for a DIY + Maker class for 6th graders
 
-by [Kmckeown](../../../profile/Kmckeown) | August 22, 2018 17:58
+by [Kmckeown](/profile/Kmckeown) | August 22, 2018 17:58
 
-August 22, 2018 17:58 | Tags: [education](../tag/education), [diy](../tag/diy), [curriculum](../tag/curriculum), [pollution](../tag/pollution), [makerspaces](../tag/makerspaces), [maker](../tag/maker), [coqui](../tag/coqui), [microscope](../tag/microscope), [question:general](../tag/question:general), [school](../tag/school), [microscopes](../tag/microscopes), [question:education](../tag/question:education), [babylegs](../tag/babylegs), [plastic](../tag/plastic), [6thgrade](../tag/6thgrade)
+August 22, 2018 17:58 | Tags: [education](/tag/education), [diy](/tag/diy), [curriculum](/tag/curriculum), [pollution](/tag/pollution), [makerspaces](/tag/makerspaces), [maker](/tag/maker), [coqui](/tag/coqui), [microscope](/tag/microscope), [question:general](/tag/question:general), [school](/tag/school), [microscopes](/tag/microscopes), [question:education](/tag/question:education), [babylegs](/tag/babylegs), [plastic](/tag/plastic), [6thgrade](/tag/6thgrade)
 
 ----
 

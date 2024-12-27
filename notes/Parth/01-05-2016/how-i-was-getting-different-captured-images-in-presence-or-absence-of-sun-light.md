@@ -6,16 +6,14 @@ author: Parth
 path: /notes/Parth/01-05-2016/how-i-was-getting-different-captured-images-in-presence-or-absence-of-sun-light.md
 nid: 12560
 uid: 461128
-
 cids: 13255,13271
-
 ---
 
 # How i was getting different captured images in presence or absence of sun light ?
 
-by [Parth](../../../profile/Parth) | January 05, 2016 13:14
+by [Parth](/profile/Parth) | January 05, 2016 13:14
 
-January 05, 2016 13:14 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [infragram-point-shoot](../tag/infragram-point-shoot), [mobius-action-cam](../tag/mobius-action-cam), [p](../tag/p), [first-time-poster](../tag/first-time-poster)
+January 05, 2016 13:14 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [infragram](/tag/infragram), [infragram-point-shoot](/tag/infragram-point-shoot), [mobius-action-cam](/tag/mobius-action-cam), [p](/tag/p), [first-time-poster](/tag/first-time-poster)
 
 ----
 

@@ -6,16 +6,14 @@ author: LivingstonChangeMakerClub
 path: /notes/LivingstonChangeMakerClub/04-12-2021/cleaning-storm-drains.md
 nid: 26206
 uid: 749565
-
 cids: 28587,28588,28592,28593
-
 ---
 
 # Cleaning Storm Drains
 
-by [LivingstonChangeMakerClub](../../../profile/LivingstonChangeMakerClub) | April 12, 2021 17:02
+by [LivingstonChangeMakerClub](/profile/LivingstonChangeMakerClub) | April 12, 2021 17:02
 
-April 12, 2021 17:02 | Tags: [gulf-coast](../tag/gulf-coast), [new-orleans](../tag/new-orleans), [stormwater](../tag/stormwater), [lousiana](../tag/lousiana), [drains](../tag/drains), [issue-brief](../tag/issue-brief), [infrastructure](../tag/infrastructure), [first-time-poster](../tag/first-time-poster), [catch-basin](../tag/catch-basin), [lat:29.951065](../tag/lat:29.951065), [lon:-90.071532](../tag/lon:-90.071532), [zoom:5](../tag/zoom:5)
+April 12, 2021 17:02 | Tags: [gulf-coast](/tag/gulf-coast), [new-orleans](/tag/new-orleans), [stormwater](/tag/stormwater), [lousiana](/tag/lousiana), [drains](/tag/drains), [issue-brief](/tag/issue-brief), [infrastructure](/tag/infrastructure), [first-time-poster](/tag/first-time-poster), [catch-basin](/tag/catch-basin), [lat:29.951065](/tag/lat:29.951065), [lon:-90.071532](/tag/lon:-90.071532), [zoom:5](/tag/zoom:5)
 
 ----
 

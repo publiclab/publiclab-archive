@@ -6,18 +6,16 @@ author: maxliboiron
 path: /notes/maxliboiron/06-15-2019/babylegs-in-the-classroom.md
 nid: 19712
 uid: 310707
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/950/original/22815200_10155854722358166_5337679495054471240_n_copy.jpg)
 
 # BabyLegs in the classroom
 
-by [maxliboiron](../../../profile/maxliboiron) | June 15, 2019 13:02
+by [maxliboiron](/profile/maxliboiron) | June 15, 2019 13:02
 
-June 15, 2019 13:02 | Tags: [education](../tag/education), [teaching](../tag/teaching), [k-12](../tag/k-12), [children](../tag/children), [teachers](../tag/teachers), [cirriculum](../tag/cirriculum), [activity:education](../tag/activity:education), [schools](../tag/schools), [activity:classroom](../tag/activity:classroom), [microplastics](../tag/microplastics), [lat:40](../tag/lat:40), [babylegs](../tag/babylegs), [activity:babylegs](../tag/activity:babylegs), [lon:-50](../tag/lon:-50), [activity:microplastics](../tag/activity:microplastics)
+June 15, 2019 13:02 | Tags: [education](/tag/education), [teaching](/tag/teaching), [k-12](/tag/k-12), [children](/tag/children), [teachers](/tag/teachers), [cirriculum](/tag/cirriculum), [activity:education](/tag/activity:education), [schools](/tag/schools), [activity:classroom](/tag/activity:classroom), [microplastics](/tag/microplastics), [lat:40](/tag/lat:40), [babylegs](/tag/babylegs), [activity:babylegs](/tag/activity:babylegs), [lon:-50](/tag/lon:-50), [activity:microplastics](/tag/activity:microplastics)
 
 ----
 

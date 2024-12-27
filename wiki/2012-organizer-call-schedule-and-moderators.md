@@ -6,12 +6,12 @@ author: Shannon
 path: /wiki/2012-organizer-call-schedule-and-moderators.md
 nid: 3768
 uid: 9
-
+cids: 
 ---
 
 # 2013 organizer call schedule and moderators
 
-by [liz](../profile/liz), [Shannon](../profile/Shannon)
+by [liz](/profile/liz), [Shannon](/profile/Shannon)
 
 September 12, 2012 20:53 | Tags: 
 

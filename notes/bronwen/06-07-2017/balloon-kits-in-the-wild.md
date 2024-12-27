@@ -6,18 +6,16 @@ author: Bronwen
 path: /notes/bronwen/06-07-2017/balloon-kits-in-the-wild.md
 nid: 14508
 uid: 237313
-
 cids: 16851,16859,16950
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/683/original/IMG_20170607_163205_806.jpg)
 
 # Balloon Kits in the Wild!
 
-by [Bronwen](../../../profile/Bronwen) | June 07, 2017 21:14
+by [Bronwen](/profile/Bronwen) | June 07, 2017 21:14
 
-June 07, 2017 21:14 | Tags: [balloon-mapping](../tag/balloon-mapping), [kits](../tag/kits), [aerial-photography](../tag/aerial-photography), [aerial-photos](../tag/aerial-photos), [kits-initiative](../tag/kits-initiative)
+June 07, 2017 21:14 | Tags: [balloon-mapping](/tag/balloon-mapping), [kits](/tag/kits), [aerial-photography](/tag/aerial-photography), [aerial-photos](/tag/aerial-photos), [kits-initiative](/tag/kits-initiative)
 
 ----
 

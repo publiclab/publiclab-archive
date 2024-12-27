@@ -6,18 +6,16 @@ author: eustatic
 path: /11-09-2013/nov-16th-saturday-wetlands-planting-and-mapping.md
 nid: 9753
 uid: 379
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/185/original/10663899413_f47cec84a3_1_.jpg)
 
 # Nov 16th Saturday wetlands planting (and mapping)
 
-by [eustatic](../../../profile/eustatic) | November 09, 2013 15:56
+by [eustatic](/profile/eustatic) | November 09, 2013 15:56
 
-November 09, 2013 15:56 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [bsj](../tag/bsj)
+November 09, 2013 15:56 | Tags: [gulf-coast](/tag/gulf-coast), [event](/tag/event), [bsj](/tag/bsj)
 
 ----
 

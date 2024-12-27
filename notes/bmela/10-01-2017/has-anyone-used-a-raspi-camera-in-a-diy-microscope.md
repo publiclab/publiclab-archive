@@ -6,16 +6,14 @@ author: bmela
 path: /notes/bmela/10-01-2017/has-anyone-used-a-raspi-camera-in-a-diy-microscope.md
 nid: 14989
 uid: 515525
-
 cids: 22649,22660
-
 ---
 
 # Has anyone used a RasPi camera in a DIY microscope?
 
-by [bmela](../../../profile/bmela) | October 01, 2017 21:57
+by [bmela](/profile/bmela) | October 01, 2017 21:57
 
-October 01, 2017 21:57 | Tags: [raspberry-pi](../tag/raspberry-pi), [answered](../tag/answered), [question:raspberry-pi](../tag/question:raspberry-pi), [microscopes](../tag/microscopes), [question:microscopes](../tag/question:microscopes)
+October 01, 2017 21:57 | Tags: [raspberry-pi](/tag/raspberry-pi), [answered](/tag/answered), [question:raspberry-pi](/tag/question:raspberry-pi), [microscopes](/tag/microscopes), [question:microscopes](/tag/question:microscopes)
 
 ----
 

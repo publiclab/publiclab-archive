@@ -6,16 +6,16 @@ author: warren
 path: /wiki/thermal-photography.md
 nid: 3
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/437/original/6579071555_58f3db2cd8_o.png)
 
 # Thermal photography
 
-by [warren](../profile/warren), [sara](../profile/sara), [kgrevera](../profile/kgrevera), [bsugar](../profile/bsugar), [kgradow1](../profile/kgradow1), [Shannon](../profile/Shannon), [liz](../profile/liz)
+by [warren](/profile/warren), [sara](/profile/sara), [kgrevera](/profile/kgrevera), [bsugar](/profile/bsugar), [kgradow1](/profile/kgradow1), [Shannon](/profile/Shannon), [liz](/profile/liz)
 
-December 03, 2010 23:04 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [urban-planning](../tag/urban-planning), [thermal-camera](../tag/thermal-camera), [thermal-fishing-bob](../tag/thermal-fishing-bob), [methane](../tag/methane), [tabbed:notes](../tag/tabbed:notes), [tabbed:wikis](../tag/tabbed:wikis), [indiawaterportal](../tag/indiawaterportal), [tool](../tag/tool), [method](../tag/method)
+December 03, 2010 23:04 | Tags: [thermal-photography](/tag/thermal-photography), [thermal-flashlight](/tag/thermal-flashlight), [urban-planning](/tag/urban-planning), [thermal-camera](/tag/thermal-camera), [thermal-fishing-bob](/tag/thermal-fishing-bob), [methane](/tag/methane), [tabbed:notes](/tag/tabbed:notes), [tabbed:wikis](/tag/tabbed:wikis), [indiawaterportal](/tag/indiawaterportal), [tool](/tag/tool), [method](/tag/method)
 
 ----
 
@@ -31,7 +31,7 @@ Community applications so far include both a "heat-busters" program in East Harl
 
 ## Questions
 
-[thermal-photography](../../tag/question:thermal-photography)
+[thermal-photography](/tag/question:thermal-photography)
 
 ***
 
@@ -53,5 +53,5 @@ Why make a DIY version? "FLIR" cameras can produce images such as the one below,
 
 ## Activities
 
-[thermal-photography](../../tag/activity:thermal-photography)
+[thermal-photography](/tag/activity:thermal-photography)
 

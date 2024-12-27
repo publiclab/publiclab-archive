@@ -6,14 +6,14 @@ author: mathew
 path: /wiki/state-map-my-slides-notes.md
 nid: 4420
 uid: 4
-
+cids: 
 ---
 
 # State of the Map, my slides & notes
 
-by [mathew](../profile/mathew)
+by [mathew](/profile/mathew)
 
-October 15, 2012 22:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [grassrootsmapping](../tag/grassrootsmapping), [kite-aerial-photography](../tag/kite-aerial-photography), [open-street-map](../tag/open-street-map), [osm](../tag/osm)
+October 15, 2012 22:33 | Tags: [balloon-mapping](/tag/balloon-mapping), [grassrootsmapping](/tag/grassrootsmapping), [kite-aerial-photography](/tag/kite-aerial-photography), [open-street-map](/tag/open-street-map), [osm](/tag/osm)
 
 ----
 

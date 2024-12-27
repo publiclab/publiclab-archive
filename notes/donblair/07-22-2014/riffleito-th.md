@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/07-22-2014/riffleito-th.md
 nid: 10944
 uid: 43651
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/436/original/Riffleito_DHT22_Temp_20140722.png)
 
 # Riffleito-TH
 
-by [donblair](../../../profile/donblair) | July 22, 2014 15:40
+by [donblair](/profile/donblair) | July 22, 2014 15:40
 
-July 22, 2014 15:40 | Tags: [riffle](../tag/riffle)
+July 22, 2014 15:40 | Tags: [riffle](/tag/riffle)
 
 ----
 

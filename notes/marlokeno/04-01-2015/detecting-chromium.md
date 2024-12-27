@@ -6,16 +6,14 @@ author: marlokeno
 path: /notes/marlokeno/04-01-2015/detecting-chromium.md
 nid: 11733
 uid: 420760
-
 cids: 11447,11464
-
 ---
 
 # Detecting chromium
 
-by [marlokeno](../../../profile/marlokeno) | April 01, 2015 01:46
+by [marlokeno](/profile/marlokeno) | April 01, 2015 01:46
 
-April 01, 2015 01:46 | Tags: [landfill](../tag/landfill), [aquifer](../tag/aquifer), [chromium](../tag/chromium), [question:chromium](../tag/question:chromium)
+April 01, 2015 01:46 | Tags: [landfill](/tag/landfill), [aquifer](/tag/aquifer), [chromium](/tag/chromium), [question:chromium](/tag/question:chromium)
 
 ----
 

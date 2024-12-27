@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/03-02-2017/web-working-group-update-15-february.md
 nid: 13985
 uid: 1
-
 cids: 
-
 ---
 
 # Web Working Group Update 15: February
 
-by [warren](../../../profile/warren) | March 02, 2017 15:52
+by [warren](/profile/warren) | March 02, 2017 15:52
 
-March 02, 2017 15:52 | Tags: [community](../tag/community), [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [outreach](../tag/outreach), [gsoc](../tag/gsoc), [developers](../tag/developers), [wwg](../tag/wwg), [webwg](../tag/webwg), [first-timers-only](../tag/first-timers-only), [software-outreach](../tag/software-outreach), [rich-wikis](../tag/rich-wikis), [response:13894](../tag/response:13894), [wwg-update](../tag/wwg-update)
+March 02, 2017 15:52 | Tags: [community](/tag/community), [web-development](/tag/web-development), [software](/tag/software), [plots2](/tag/plots2), [outreach](/tag/outreach), [gsoc](/tag/gsoc), [developers](/tag/developers), [wwg](/tag/wwg), [webwg](/tag/webwg), [first-timers-only](/tag/first-timers-only), [software-outreach](/tag/software-outreach), [rich-wikis](/tag/rich-wikis), [response:13894](/tag/response:13894), [wwg-update](/tag/wwg-update)
 
 ----
 

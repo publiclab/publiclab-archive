@@ -6,18 +6,16 @@ author: Bronwen
 path: /notes/bronwen/05-07-2018/microscope-webcam-conversion.md
 nid: 16309
 uid: 237313
-
 cids: 19582,19596,20629,20657,20970,21159,21164,21175,21219,21226,25943,29209
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/834/original/camera.jpg)
 
 # Microscope Webcam Conversion
 
-by [Bronwen](../../../profile/Bronwen) | May 07, 2018 21:07
+by [Bronwen](/profile/Bronwen) | May 07, 2018 21:07
 
-May 07, 2018 21:07 | Tags: [webcam](../tag/webcam), [pi](../tag/pi), [with:warren](../tag/with:warren), [microscope](../tag/microscope), [pi-camera](../tag/pi-camera), [activity:microscope](../tag/activity:microscope), [microscopes](../tag/microscopes), [activity:basic-microscope](../tag/activity:basic-microscope), [basic-microscope](../tag/basic-microscope), [pi-](../tag/pi-), [optics](../tag/optics), [activity:community-microscope](../tag/activity:community-microscope), [community-microscope](../tag/community-microscope), [activity:community-microscope-assembly](../tag/activity:community-microscope-assembly)
+May 07, 2018 21:07 | Tags: [webcam](/tag/webcam), [pi](/tag/pi), [with:warren](/tag/with:warren), [microscope](/tag/microscope), [pi-camera](/tag/pi-camera), [activity:microscope](/tag/activity:microscope), [microscopes](/tag/microscopes), [activity:basic-microscope](/tag/activity:basic-microscope), [basic-microscope](/tag/basic-microscope), [pi-](/tag/pi-), [optics](/tag/optics), [activity:community-microscope](/tag/activity:community-microscope), [community-microscope](/tag/community-microscope), [activity:community-microscope-assembly](/tag/activity:community-microscope-assembly)
 
 ----
 

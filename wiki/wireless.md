@@ -6,14 +6,14 @@ author: mathew
 path: /wiki/wireless.md
 nid: 11123
 uid: 4
-
+cids: 
 ---
 
 # wireless
 
-by [willie](../profile/willie), [danbeavers](../profile/danbeavers), [mathew](../profile/mathew)
+by [willie](/profile/willie), [danbeavers](/profile/danbeavers), [mathew](/profile/mathew)
 
-September 11, 2014 17:20 | Tags: [wireless](../tag/wireless), [mobile](../tag/mobile), [sensors](../tag/sensors), [wi-fi](../tag/wi-fi), [bluetooth](../tag/bluetooth)
+September 11, 2014 17:20 | Tags: [wireless](/tag/wireless), [mobile](/tag/mobile), [sensors](/tag/sensors), [wi-fi](/tag/wi-fi), [bluetooth](/tag/bluetooth)
 
 ----
 

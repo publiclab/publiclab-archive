@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/5-4-2012/remove-usb-cable-ferrite-bead.md
 nid: 1907
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/ferrite-20120504-145-3.jpg)
 
 # Remove a USB cable ferrite bead
 
-by [cfastie](../../../profile/cfastie) | May 04, 2012 15:38
+by [cfastie](/profile/cfastie) | May 04, 2012 15:38
 
-May 04, 2012 15:38 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [triggering](../tag/triggering)
+May 04, 2012 15:38 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [triggering](/tag/triggering)
 
 ----
 

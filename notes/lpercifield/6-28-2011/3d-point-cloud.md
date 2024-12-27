@@ -6,18 +6,16 @@ author: lpercifield
 path: /notes/lpercifield/6-28-2011/3d-point-cloud.md
 nid: 363
 uid: 20
-
 cids: 291,293,295,299,29535,30267
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2011-06-28 at 1.03.31 PM.png)
 
 # 3D Point Cloud
 
-by [lpercifield](../../../profile/lpercifield) | June 28, 2011 17:07
+by [lpercifield](/profile/lpercifield) | June 28, 2011 17:07
 
-June 28, 2011 17:07 | Tags: [first-time-poster](../tag/first-time-poster)
+June 28, 2011 17:07 | Tags: [first-time-poster](/tag/first-time-poster)
 
 ----
 

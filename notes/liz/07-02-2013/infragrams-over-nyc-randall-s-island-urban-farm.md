@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/07-02-2013/infragrams-over-nyc-randall-s-island-urban-farm.md
 nid: 8609
 uid: 7
-
 cids: 5962
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/598/original/*NickInGardenWithPole.jpg)
 
 # Infragrams over NYC: Randall's Island Urban Farm
 
-by [liz](../../../profile/liz) | July 02, 2013 19:28
+by [liz](/profile/liz) | July 02, 2013 19:28
 
-July 02, 2013 19:28 | Tags: [new-york-city](../tag/new-york-city), [near-infrared-camera](../tag/near-infrared-camera), [5bf](../tag/5bf), [five-borough-farm](../tag/five-borough-farm), [pole-photography](../tag/pole-photography), [pole](../tag/pole)
+July 02, 2013 19:28 | Tags: [new-york-city](/tag/new-york-city), [near-infrared-camera](/tag/near-infrared-camera), [5bf](/tag/5bf), [five-borough-farm](/tag/five-borough-farm), [pole-photography](/tag/pole-photography), [pole](/tag/pole)
 
 ----
 

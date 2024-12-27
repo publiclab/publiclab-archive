@@ -6,18 +6,16 @@ author: alaxallves
 path: /notes/alaxallves/08-29-2020/gsoc-2020-report.md
 nid: 24471
 uid: 577447
-
 cids: 27309,27310,27314,27317
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/716/original/o-que-%C3%A9-devops-1.png)
 
 # GSoC 2020: Mapknitter Export Module and Spectral Workbench upgrades
 
-by [alaxallves](../../../profile/alaxallves) | August 29, 2020 02:20
+by [alaxallves](/profile/alaxallves) | August 29, 2020 02:20
 
-August 29, 2020 02:20 | Tags: [mapknitter](../tag/mapknitter), [spectral-workbench](../tag/spectral-workbench), [gsoc](../tag/gsoc), [soc](../tag/soc), [zoom:16](../tag/zoom:16), [gsoc2020](../tag/gsoc2020), [exporter-gem](../tag/exporter-gem), [lat:-15.889](../tag/lat:-15.889), [lon:-48.015](../tag/lon:-48.015), [soc-2020-final](../tag/soc-2020-final)
+August 29, 2020 02:20 | Tags: [mapknitter](/tag/mapknitter), [spectral-workbench](/tag/spectral-workbench), [gsoc](/tag/gsoc), [soc](/tag/soc), [zoom:16](/tag/zoom:16), [gsoc2020](/tag/gsoc2020), [exporter-gem](/tag/exporter-gem), [lat:-15.889](/tag/lat:-15.889), [lon:-48.015](/tag/lon:-48.015), [soc-2020-final](/tag/soc-2020-final)
 
 ----
 

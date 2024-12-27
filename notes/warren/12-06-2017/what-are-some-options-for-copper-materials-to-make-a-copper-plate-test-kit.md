@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/12-06-2017/what-are-some-options-for-copper-materials-to-make-a-copper-plate-test-kit.md
 nid: 15321
 uid: 1
-
 cids: 18318,22793,22865
-
 ---
 
 # What are some options for copper materials to make a copper plate test kit?
 
-by [warren](../../../profile/warren) | December 06, 2017 17:55
+by [warren](/profile/warren) | December 06, 2017 17:55
 
-December 06, 2017 17:55 | Tags: [materials](../tag/materials), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [copper](../tag/copper), [answered](../tag/answered), [prototyping](../tag/prototyping), [h2s-copper-pipe](../tag/h2s-copper-pipe), [prototyping-kit](../tag/prototyping-kit), [question:kits](../tag/question:kits), [sourcing](../tag/sourcing), [question:h2s-copper-pipe](../tag/question:h2s-copper-pipe), [proto-kit](../tag/proto-kit), [question:materials](../tag/question:materials), [question:prototyping-kit](../tag/question:prototyping-kit), [question:h2s-copper-pipe-challenge](../tag/question:h2s-copper-pipe-challenge)
+December 06, 2017 17:55 | Tags: [materials](/tag/materials), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [copper](/tag/copper), [answered](/tag/answered), [prototyping](/tag/prototyping), [h2s-copper-pipe](/tag/h2s-copper-pipe), [prototyping-kit](/tag/prototyping-kit), [question:kits](/tag/question:kits), [sourcing](/tag/sourcing), [question:h2s-copper-pipe](/tag/question:h2s-copper-pipe), [proto-kit](/tag/proto-kit), [question:materials](/tag/question:materials), [question:prototyping-kit](/tag/question:prototyping-kit), [question:h2s-copper-pipe-challenge](/tag/question:h2s-copper-pipe-challenge)
 
 ----
 

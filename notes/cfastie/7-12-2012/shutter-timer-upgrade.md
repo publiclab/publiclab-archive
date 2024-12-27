@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/7-12-2012/shutter-timer-upgrade.md
 nid: 2785
 uid: 554
-
 cids: 1014,1015,1016
-
 ---
 
 ![](https://publiclab.org/sites/default/files/MK111-20120712-2502a.jpg)
 
 # Shutter timer upgrade
 
-by [cfastie](../../../profile/cfastie) | July 13, 2012 00:17
+by [cfastie](/profile/cfastie) | July 13, 2012 00:17
 
-July 13, 2012 00:17 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [triggering](../tag/triggering), [555-timer](../tag/555-timer), [camera-triggering](../tag/camera-triggering), [timer](../tag/timer), [intervalometer](../tag/intervalometer), [555](../tag/555), [activity:camera-triggering](../tag/activity:camera-triggering), [activity:intervalometer](../tag/activity:intervalometer)
+July 13, 2012 00:17 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [triggering](/tag/triggering), [555-timer](/tag/555-timer), [camera-triggering](/tag/camera-triggering), [timer](/tag/timer), [intervalometer](/tag/intervalometer), [555](/tag/555), [activity:camera-triggering](/tag/activity:camera-triggering), [activity:intervalometer](/tag/activity:intervalometer)
 
 ----
 

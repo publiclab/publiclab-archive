@@ -6,14 +6,12 @@ author: gonzoearth
 path: /notes/gonzoearth/12-14-2011/digital-suburbs-logic-defying-fictional-aerial-views.md
 nid: 638
 uid: 12
-
 cids: 
-
 ---
 
 # Digital Suburbs: Logic-Defying Fictional Aerial Views
 
-by [gonzoearth](../../../profile/gonzoearth) | December 14, 2011 19:40
+by [gonzoearth](/profile/gonzoearth) | December 14, 2011 19:40
 
 December 14, 2011 19:40 | Tags: 
 

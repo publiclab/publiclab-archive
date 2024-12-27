@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/3-15-2011/ndvi-nrg-infrared-tests-airplane.md
 nid: 147
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/infrared-imaging-examples.jpg)
 
 # NDVI-NRG infrared tests from an airplane
 
-by [warren](../../../profile/warren) | March 15, 2011 21:33
+by [warren](/profile/warren) | March 15, 2011 21:33
 
-March 15, 2011 21:33 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [passenger-pigeon](../tag/passenger-pigeon), [plane](../tag/plane), [window](../tag/window)
+March 15, 2011 21:33 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [passenger-pigeon](/tag/passenger-pigeon), [plane](/tag/plane), [window](/tag/window)
 
 ----
 

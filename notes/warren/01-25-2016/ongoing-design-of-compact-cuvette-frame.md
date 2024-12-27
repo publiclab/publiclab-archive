@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/01-25-2016/ongoing-design-of-compact-cuvette-frame.md
 nid: 12616
 uid: 1
-
 cids: 13399,13400,13401,13431,13432,13434,13565,13578,13637
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/822/original/IMG_20160125_081251.jpg)
 
 # Ongoing design of compact cuvette frame
 
-by [warren](../../../profile/warren) | January 25, 2016 18:27
+by [warren](/profile/warren) | January 25, 2016 18:27
 
-January 25, 2016 18:27 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [cuvette](../tag/cuvette), [oil-testing-kit](../tag/oil-testing-kit), [response:12462](../tag/response:12462), [response:11063](../tag/response:11063), [response:12472](../tag/response:12472), [cuvette-frame](../tag/cuvette-frame), [response:12561](../tag/response:12561), [upgrade:spectrometry](../tag/upgrade:spectrometry), [upgrade:dssk](../tag/upgrade:dssk), [status:under-development](../tag/status:under-development), [seeks:builds](../tag/seeks:builds), [time:5h](../tag/time:5h), [difficulty:medium](../tag/difficulty:medium)
+January 25, 2016 18:27 | Tags: [spectrometer](/tag/spectrometer), [fluorescence](/tag/fluorescence), [cuvette](/tag/cuvette), [oil-testing-kit](/tag/oil-testing-kit), [response:12462](/tag/response:12462), [response:11063](/tag/response:11063), [response:12472](/tag/response:12472), [cuvette-frame](/tag/cuvette-frame), [response:12561](/tag/response:12561), [upgrade:spectrometry](/tag/upgrade:spectrometry), [upgrade:dssk](/tag/upgrade:dssk), [status:under-development](/tag/status:under-development), [seeks:builds](/tag/seeks:builds), [time:5h](/tag/time:5h), [difficulty:medium](/tag/difficulty:medium)
 
 ----
 

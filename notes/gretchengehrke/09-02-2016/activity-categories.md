@@ -6,18 +6,16 @@ author: gretchengehrke
 path: /notes/gretchengehrke/09-02-2016/activity-categories.md
 nid: 13413
 uid: 430549
-
 cids: 15299,15300,15317,15322,15327,15329,15331,16360
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/966/original/Screenshot_2016-09-07_at_3.59.21_PM.png)
 
 # Activity Categories
 
-by [gretchengehrke](../../../profile/gretchengehrke) | September 02, 2016 22:41
+by [gretchengehrke](/profile/gretchengehrke) | September 02, 2016 22:41
 
-September 02, 2016 22:41 | Tags: [with:warren](../tag/with:warren), [with:liz](../tag/with:liz), [research-culture](../tag/research-culture), [activity-grids](../tag/activity-grids), [with:abdul](../tag/with:abdul), [activity-categories](../tag/activity-categories), [activities](../tag/activities)
+September 02, 2016 22:41 | Tags: [with:warren](/tag/with:warren), [with:liz](/tag/with:liz), [research-culture](/tag/research-culture), [activity-grids](/tag/activity-grids), [with:abdul](/tag/with:abdul), [activity-categories](/tag/activity-categories), [activities](/tag/activities)
 
 ----
 

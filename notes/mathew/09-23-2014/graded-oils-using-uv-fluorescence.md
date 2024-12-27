@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/09-23-2014/graded-oils-using-uv-fluorescence.md
 nid: 11173
 uid: 4
-
 cids: 10376,10378,10383,10386,10387,10390,10391,10392,10393,10394,10398,10399,10400,10401,10402,10403,10404,10405,10407,10427,10430,15914
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/968/original/Screen_Shot_2014-09-22_at_9.15.17_PM.png)
 
 # Graded oils using UV fluorescence
 
-by [mathew](../../../profile/mathew) | September 23, 2014 04:21
+by [mathew](/profile/mathew) | September 23, 2014 04:21
 
-September 23, 2014 04:21 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [fluorescence](../tag/fluorescence), [spectral-workbench](../tag/spectral-workbench), [crude](../tag/crude), [smoothing](../tag/smoothing), [clipping](../tag/clipping), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:basic](../tag/barnstar:basic), [exposure](../tag/exposure), [with:warren](../tag/with:warren), [equalizing](../tag/equalizing), [405nm](../tag/405nm)
+September 23, 2014 04:21 | Tags: [spectrometer](/tag/spectrometer), [oil](/tag/oil), [fluorescence](/tag/fluorescence), [spectral-workbench](/tag/spectral-workbench), [crude](/tag/crude), [smoothing](/tag/smoothing), [clipping](/tag/clipping), [oil-testing-kit](/tag/oil-testing-kit), [barnstar:basic](/tag/barnstar:basic), [exposure](/tag/exposure), [with:warren](/tag/with:warren), [equalizing](/tag/equalizing), [405nm](/tag/405nm)
 
 ----
 

@@ -6,16 +6,14 @@ author: karishmagvanwari
 path: /notes/karishmagvanwari/06-24-2022/what-is-the-process-of-teachers-becoming-moderators-at-publiclab-org.md
 nid: 31152
 uid: 779523
-
 cids: 30275,30284,30960,30961
-
 ---
 
 # What is the process of teachers becoming moderators at PublicLab.org?
 
-by [karishmagvanwari](../../../profile/karishmagvanwari) | June 24, 2022 18:26
+by [karishmagvanwari](/profile/karishmagvanwari) | June 24, 2022 18:26
 
-June 24, 2022 18:26 | Tags: [education](../tag/education), [question:general](../tag/question:general), [general](../tag/general)
+June 24, 2022 18:26 | Tags: [education](/tag/education), [question:general](/tag/question:general), [general](/tag/general)
 
 ----
 

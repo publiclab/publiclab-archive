@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/10-28-2013/spectral-workbench-offline.md
 nid: 9677
 uid: 1
-
 cids: 7544,7545
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/071/original/offline.png)
 
 # Spectral Workbench Offline
 
-by [warren](../../../profile/warren) | October 28, 2013 23:31
+by [warren](/profile/warren) | October 28, 2013 23:31
 
-October 28, 2013 23:31 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [offline](../tag/offline)
+October 28, 2013 23:31 | Tags: [spectrometer](/tag/spectrometer), [spectralworkbench](/tag/spectralworkbench), [offline](/tag/offline)
 
 ----
 

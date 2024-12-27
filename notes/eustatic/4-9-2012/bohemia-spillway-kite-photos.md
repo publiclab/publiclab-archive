@@ -6,18 +6,16 @@ author: eustatic
 path: /4-9-2012/bohemia-spillway-kite-photos.md
 nid: 1633
 uid: 379
-
 cids: 607,1724,11016,11017,12325
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0921 y - Copy.JPG)
 
 # Bohemia Spillway kite photos
 
-by [eustatic](../../../profile/eustatic) | April 09, 2012 06:20
+by [eustatic](/profile/eustatic) | April 09, 2012 06:20
 
-April 09, 2012 06:20 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [bohemia](../tag/bohemia), [energy](../tag/energy), [river](../tag/river), [atriskfromenergy](../tag/atriskfromenergy), [atrisk](../tag/atrisk), [naturefightsback](../tag/naturefightsback), [mgp](../tag/mgp), [mardigraspass](../tag/mardigraspass)
+April 09, 2012 06:20 | Tags: [gulf-coast](/tag/gulf-coast), [kite-mapping](/tag/kite-mapping), [bohemia](/tag/bohemia), [energy](/tag/energy), [river](/tag/river), [atriskfromenergy](/tag/atriskfromenergy), [atrisk](/tag/atrisk), [naturefightsback](/tag/naturefightsback), [mgp](/tag/mgp), [mardigraspass](/tag/mardigraspass)
 
 ----
 

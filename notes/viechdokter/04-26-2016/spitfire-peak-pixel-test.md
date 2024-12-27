@@ -6,18 +6,16 @@ author: viechdokter
 path: /notes/viechdokter/04-26-2016/spitfire-peak-pixel-test.md
 nid: 13033
 uid: 468990
-
 cids: 14467
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/802/original/571_nm_peak.jpg)
 
 # Spitfire peak pixel test
 
-by [viechdokter](../../../profile/viechdokter) | April 26, 2016 22:45
+by [viechdokter](/profile/viechdokter) | April 26, 2016 22:45
 
-April 26, 2016 22:45 | Tags: [spectrometer](../tag/spectrometer), [cfl](../tag/cfl), [desktop-spectrometer](../tag/desktop-spectrometer), [timeseries](../tag/timeseries), [spectrum](../tag/spectrum), [peak_wavelengths](../tag/peak_wavelengths), [intensities](../tag/intensities)
+April 26, 2016 22:45 | Tags: [spectrometer](/tag/spectrometer), [cfl](/tag/cfl), [desktop-spectrometer](/tag/desktop-spectrometer), [timeseries](/tag/timeseries), [spectrum](/tag/spectrum), [peak_wavelengths](/tag/peak_wavelengths), [intensities](/tag/intensities)
 
 ----
 

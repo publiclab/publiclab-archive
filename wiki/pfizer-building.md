@@ -6,14 +6,14 @@ author: liz
 path: /wiki/pfizer-building.md
 nid: 1618
 uid: 7
-
+cids: 
 ---
 
 # Pfizer Building
 
-by [sara](../profile/sara), [liz](../profile/liz)
+by [sara](/profile/sara), [liz](/profile/liz)
 
-April 04, 2012 19:45 | Tags: [new-york-city](../tag/new-york-city), [brooklyn](../tag/brooklyn), [pfizer](../tag/pfizer), [workspace](../tag/workspace)
+April 04, 2012 19:45 | Tags: [new-york-city](/tag/new-york-city), [brooklyn](/tag/brooklyn), [pfizer](/tag/pfizer), [workspace](/tag/workspace)
 
 ----
 

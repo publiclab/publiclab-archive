@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/04-21-2016/c2h6o-ethanol-naoh-sodium-hydroxide-successful-test-results-on-c20h6br4na2o5-eosin-y.md
 nid: 13014
 uid: 461120
-
 cids: 14376
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/729/original/eosin_y_and_solvent_ethanol_apr21.png)
 
 # C2H6O(Ethanol) + NaOH(sodium hydroxide) successful test results on C20H6Br4Na2O5(eosin y)  
 
-by [dhaffnersr](../../../profile/dhaffnersr) | April 21, 2016 21:17
+by [dhaffnersr](/profile/dhaffnersr) | April 21, 2016 21:17
 
 April 21, 2016 21:17 | Tags: 
 

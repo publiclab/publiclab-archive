@@ -6,14 +6,14 @@ author: kgradow1
 path: /wiki/an-unserious-exploration-of-common-household-parasites.md
 nid: 11340
 uid: 297929
-
+cids: 
 ---
 
 # An unserious exploration of common household parasites
 
-by [kgradow1](../profile/kgradow1)
+by [kgradow1](/profile/kgradow1)
 
-November 13, 2014 23:40 | Tags: [barnraising2014](../tag/barnraising2014)
+November 13, 2014 23:40 | Tags: [barnraising2014](/tag/barnraising2014)
 
 ----
 

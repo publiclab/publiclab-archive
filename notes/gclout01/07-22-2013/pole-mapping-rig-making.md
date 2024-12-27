@@ -6,18 +6,16 @@ author: gclout01
 path: /notes/gclout01/07-22-2013/pole-mapping-rig-making.md
 nid: 8917
 uid: 170147
-
 cids: 6717,10381,10389,10395,10396
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/879/original/Pole_and_Garden_Photos_3.jpg)
 
 # Pole Mapping Rig Making
 
-by [gclout01](../../../profile/gclout01) | July 22, 2013 17:23
+by [gclout01](/profile/gclout01) | July 22, 2013 17:23
 
-July 22, 2013 17:23 | Tags: [boston](../tag/boston), [polemapping](../tag/polemapping), [pvc](../tag/pvc), [garden](../tag/garden), [pole-photography](../tag/pole-photography), [pole](../tag/pole), [polemaping](../tag/polemaping), [pole-mapping](../tag/pole-mapping)
+July 22, 2013 17:23 | Tags: [boston](/tag/boston), [polemapping](/tag/polemapping), [pvc](/tag/pvc), [garden](/tag/garden), [pole-photography](/tag/pole-photography), [pole](/tag/pole), [polemaping](/tag/polemaping), [pole-mapping](/tag/pole-mapping)
 
 ----
 

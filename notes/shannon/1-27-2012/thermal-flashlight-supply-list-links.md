@@ -6,14 +6,12 @@ author: Shannon
 path: /notes/shannon/1-27-2012/thermal-flashlight-supply-list-links.md
 nid: 722
 uid: 9
-
 cids: 
-
 ---
 
 # Thermal flashlight with supply list links
 
-by [Shannon](../../../profile/Shannon) | January 27, 2012 16:14
+by [Shannon](/profile/Shannon) | January 27, 2012 16:14
 
 January 27, 2012 16:14 | Tags: 
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/7-17-2012/failed-3d-print-mobile-spectrometer-attachment.md
 nid: 2847
 uid: 1
-
 cids: 1029,1030,1037,1045,1064,1129,1132,1135,1136,1137,1138,1139,1147,1148,1149,1150,1153,1157,1158,1159,1160,1449,1460,1477,2883
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0158.JPG)
 
 # Failed 3d print of mobile spectrometer attachment
 
-by [warren](../../../profile/warren) | July 18, 2012 01:23
+by [warren](/profile/warren) | July 18, 2012 01:23
 
-July 18, 2012 01:23 | Tags: [spectrometer](../tag/spectrometer), [shapeways](../tag/shapeways)
+July 18, 2012 01:23 | Tags: [spectrometer](/tag/spectrometer), [shapeways](/tag/shapeways)
 
 ----
 

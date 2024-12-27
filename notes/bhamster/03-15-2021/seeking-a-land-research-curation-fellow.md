@@ -6,18 +6,16 @@ author: bhamster
 path: /notes/bhamster/03-15-2021/seeking-a-land-research-curation-fellow.md
 nid: 25924
 uid: 664477
-
 cids: 29033,29034,29294,29556,30219,30801,30966,30967
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/954/original/Public_Lab_Letterhead_blank.png)
 
 # Seeking a Land Research Curation Fellow
 
-by [bhamster](../../../profile/bhamster) | March 15, 2021 21:48
+by [bhamster](/profile/bhamster) | March 15, 2021 21:48
 
-March 15, 2021 21:48 | Tags: [agriculture](../tag/agriculture), [soil](../tag/soil), [waste](../tag/waste), [jobs](../tag/jobs), [land-use](../tag/land-use), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [fellow](../tag/fellow), [soil-contamination](../tag/soil-contamination), [research-curation-fellows](../tag/research-curation-fellows)
+March 15, 2021 21:48 | Tags: [agriculture](/tag/agriculture), [soil](/tag/soil), [waste](/tag/waste), [jobs](/tag/jobs), [land-use](/tag/land-use), [fellows](/tag/fellows), [fellowship](/tag/fellowship), [fellow](/tag/fellow), [soil-contamination](/tag/soil-contamination), [research-curation-fellows](/tag/research-curation-fellows)
 
 ----
 

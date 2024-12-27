@@ -6,18 +6,16 @@ author: ethanbass
 path: /notes/ethanbass/02-23-2016/the-effect-of-dilution-on-the-emission-spectrum-of-diesel-fuel.md
 nid: 12720
 uid: 46902
-
 cids: 13703,13704
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/513/original/Screen_Shot_2016-02-23_at_1.38.13_AM.png)
 
 # The effect of dilution on the emission spectrum of diesel fuel 
 
-by [ethanbass](../../../profile/ethanbass) | February 23, 2016 07:42
+by [ethanbass](/profile/ethanbass) | February 23, 2016 07:42
 
-February 23, 2016 07:42 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:basic](../tag/barnstar:basic), [barnstar:empiricism](../tag/barnstar:empiricism), [dilution](../tag/dilution), [diesel](../tag/diesel)
+February 23, 2016 07:42 | Tags: [spectrometer](/tag/spectrometer), [oil](/tag/oil), [oil-testing-kit](/tag/oil-testing-kit), [barnstar:basic](/tag/barnstar:basic), [barnstar:empiricism](/tag/barnstar:empiricism), [dilution](/tag/dilution), [diesel](/tag/diesel)
 
 ----
 

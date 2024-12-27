@@ -6,18 +6,16 @@ author: ivalethia
 path: /notes/ivalethia/09-20-2014/first-infragram-cam-trials-primeros-ensayos-con-camaras-infragram.md
 nid: 11165
 uid: 423004
-
 cids: 10357,10359,10380,10384,10406,10428,10431,10432,10433
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/926/original/SONY-DSC-P41-LANDSCAPE.1_1_.jpg)
 
 # First Infragram cam trials - Primeros ensayos con cámaras Infragram
 
-by [ivalethia](../../../profile/ivalethia) | September 20, 2014 04:23
+by [ivalethia](/profile/ivalethia) | September 20, 2014 04:23
 
-September 20, 2014 04:23 | Tags: [infragram](../tag/infragram), [camera](../tag/camera), [focus](../tag/focus), [sensation](../tag/sensation), [gimp](../tag/gimp), [question:infragram](../tag/question:infragram), [filters](../tag/filters), [htc](../tag/htc), [sony](../tag/sony), [dsc](../tag/dsc), [p41](../tag/p41), [vstarcam](../tag/vstarcam), [t7837wip](../tag/t7837wip), [ip](../tag/ip), [autofocus](../tag/autofocus), [negative](../tag/negative), [film](../tag/film), [exposed](../tag/exposed)
+September 20, 2014 04:23 | Tags: [infragram](/tag/infragram), [camera](/tag/camera), [focus](/tag/focus), [sensation](/tag/sensation), [gimp](/tag/gimp), [question:infragram](/tag/question:infragram), [filters](/tag/filters), [htc](/tag/htc), [sony](/tag/sony), [dsc](/tag/dsc), [p41](/tag/p41), [vstarcam](/tag/vstarcam), [t7837wip](/tag/t7837wip), [ip](/tag/ip), [autofocus](/tag/autofocus), [negative](/tag/negative), [film](/tag/film), [exposed](/tag/exposed)
 
 ----
 

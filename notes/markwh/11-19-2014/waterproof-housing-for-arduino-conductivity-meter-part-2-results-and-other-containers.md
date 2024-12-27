@@ -6,16 +6,14 @@ author: markwh
 path: /notes/markwh/11-19-2014/waterproof-housing-for-arduino-conductivity-meter-part-2-results-and-other-containers.md
 nid: 11368
 uid: 428820
-
 cids: 10794,10799
-
 ---
 
 # Waterproof Housing for Arduino Conductivity Meter-- Part 2: results and other containers
 
-by [markwh](../../../profile/markwh) | November 19, 2014 15:33
+by [markwh](/profile/markwh) | November 19, 2014 15:33
 
-November 19, 2014 15:33 | Tags: [water-sensing](../tag/water-sensing), [water-quality-monitoring](../tag/water-quality-monitoring), [water-quality](../tag/water-quality), [umass-amherst](../tag/umass-amherst), [publiclab-at-umass](../tag/publiclab-at-umass)
+November 19, 2014 15:33 | Tags: [water-sensing](/tag/water-sensing), [water-quality-monitoring](/tag/water-quality-monitoring), [water-quality](/tag/water-quality), [umass-amherst](/tag/umass-amherst), [publiclab-at-umass](/tag/publiclab-at-umass)
 
 ----
 

@@ -6,12 +6,12 @@ author: xose
 path: /wiki/lang-es.md
 nid: 24268
 uid: 497123
-
+cids: 
 ---
 
 # lang:es
 
-by [xose](../profile/xose)
+by [xose](/profile/xose)
 
 August 05, 2020 15:25 | Tags: 
 

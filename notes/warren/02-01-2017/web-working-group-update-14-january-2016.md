@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/02-01-2017/web-working-group-update-14-january-2016.md
 nid: 13894
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/404/original/routes-diagramming.png)
 
 # Web Working Group Update 14: January + 2016
 
-by [warren](../../../profile/warren) | February 01, 2017 16:14
+by [warren](/profile/warren) | February 01, 2017 16:14
 
-February 01, 2017 16:14 | Tags: [community](../tag/community), [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [outreach](../tag/outreach), [gsoc](../tag/gsoc), [developers](../tag/developers), [wwg](../tag/wwg), [webwg](../tag/webwg), [first-timers-only](../tag/first-timers-only), [software-outreach](../tag/software-outreach), [response:13841](../tag/response:13841)
+February 01, 2017 16:14 | Tags: [community](/tag/community), [web-development](/tag/web-development), [software](/tag/software), [plots2](/tag/plots2), [outreach](/tag/outreach), [gsoc](/tag/gsoc), [developers](/tag/developers), [wwg](/tag/wwg), [webwg](/tag/webwg), [first-timers-only](/tag/first-timers-only), [software-outreach](/tag/software-outreach), [response:13841](/tag/response:13841)
 
 ----
 

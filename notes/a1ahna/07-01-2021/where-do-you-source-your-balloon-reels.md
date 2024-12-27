@@ -6,16 +6,14 @@ author: a1ahna
 path: /notes/a1ahna/07-01-2021/where-do-you-source-your-balloon-reels.md
 nid: 26962
 uid: 518193
-
 cids: 29003,29043
-
 ---
 
 # Where do you source your balloon reels?
 
-by [a1ahna](../../../profile/a1ahna) | July 01, 2021 21:10
+by [a1ahna](/profile/a1ahna) | July 01, 2021 21:10
 
-July 01, 2021 21:10 | Tags: [balloon-mapping](../tag/balloon-mapping), [balloon-mapping-kit](../tag/balloon-mapping-kit), [question:balloon-mapping](../tag/question:balloon-mapping)
+July 01, 2021 21:10 | Tags: [balloon-mapping](/tag/balloon-mapping), [balloon-mapping-kit](/tag/balloon-mapping-kit), [question:balloon-mapping](/tag/question:balloon-mapping)
 
 ----
 

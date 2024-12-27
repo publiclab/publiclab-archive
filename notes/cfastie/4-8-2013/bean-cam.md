@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/4-8-2013/bean-cam.md
 nid: 6722
 uid: 554
-
 cids: 4369,4565
-
 ---
 
 ![](https://publiclab.org/sites/default/files/bean-201334931.jpg)
 
 # Bean Cam
 
-by [cfastie](../../../profile/cfastie) | April 08, 2013 14:42
+by [cfastie](/profile/cfastie) | April 08, 2013 14:42
 
-April 08, 2013 14:42 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [plant-health](../tag/plant-health), [plants](../tag/plants), [timelapse](../tag/timelapse), [food](../tag/food), [difficulty:medium](../tag/difficulty:medium), [category:observe](../tag/category:observe), [activity:timelapse](../tag/activity:timelapse), [time:1d](../tag/time:1d), [activity:education](../tag/activity:education), [activity:science-fair](../tag/activity:science-fair), [activity:classroom](../tag/activity:classroom), [activity:food](../tag/activity:food)
+April 08, 2013 14:42 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [vermont](/tag/vermont), [plant-health](/tag/plant-health), [plants](/tag/plants), [timelapse](/tag/timelapse), [food](/tag/food), [difficulty:medium](/tag/difficulty:medium), [category:observe](/tag/category:observe), [activity:timelapse](/tag/activity:timelapse), [time:1d](/tag/time:1d), [activity:education](/tag/activity:education), [activity:science-fair](/tag/activity:science-fair), [activity:classroom](/tag/activity:classroom), [activity:food](/tag/activity:food)
 
 ----
 

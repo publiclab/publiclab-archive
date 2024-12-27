@@ -6,14 +6,12 @@ author: Shannon
 path: /notes/shannon/5-3-2012/how-chemicals-affect-us-nyt-op-ed-endocrine-disruptors.md
 nid: 1906
 uid: 9
-
 cids: 
-
 ---
 
 # How chemicals affect us- NYT op-ed on endocrine disruptors
 
-by [Shannon](../../../profile/Shannon) | May 03, 2012 19:58
+by [Shannon](/profile/Shannon) | May 03, 2012 19:58
 
 May 03, 2012 19:58 | Tags: 
 

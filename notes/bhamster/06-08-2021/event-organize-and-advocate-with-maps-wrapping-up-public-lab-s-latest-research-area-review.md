@@ -6,18 +6,16 @@ author: bhamster
 path: /notes/bhamster/06-08-2021/event-organize-and-advocate-with-maps-wrapping-up-public-lab-s-latest-research-area-review.md
 nid: 26790
 uid: 664477
-
 cids: 28906,28970,28971,28978,28979,28980,28983,28984,28991
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/083/original/Map-drawing.jpeg)
 
 # Event: Organize and advocate with maps! Wrapping up Public Lab’s latest research area review
 
-by [bhamster](../../../profile/bhamster) | June 08, 2021 18:15
+by [bhamster](/profile/bhamster) | June 08, 2021 18:15
 
-June 08, 2021 18:15 | Tags: [mapping](../tag/mapping), [event](../tag/event), [organizing](../tag/organizing), [research](../tag/research), [event:rsvp](../tag/event:rsvp), [advocacy](../tag/advocacy), [reviews](../tag/reviews), [community-organizing](../tag/community-organizing), [research-area-review](../tag/research-area-review), [with:julia_e_masters](../tag/with:julia_e_masters), [rsvp:rosal](../tag/rsvp:rosal)
+June 08, 2021 18:15 | Tags: [mapping](/tag/mapping), [event](/tag/event), [organizing](/tag/organizing), [research](/tag/research), [event:rsvp](/tag/event:rsvp), [advocacy](/tag/advocacy), [reviews](/tag/reviews), [community-organizing](/tag/community-organizing), [research-area-review](/tag/research-area-review), [with:julia_e_masters](/tag/with:julia_e_masters), [rsvp:rosal](/tag/rsvp:rosal)
 
 ----
 

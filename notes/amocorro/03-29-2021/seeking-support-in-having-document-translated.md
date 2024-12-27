@@ -6,16 +6,14 @@ author: amocorro
 path: /notes/amocorro/03-29-2021/seeking-support-in-having-document-translated.md
 nid: 26057
 uid: 700923
-
 cids: 28456
-
 ---
 
 # Seeking support in having document translated or found, can you help?
 
-by [amocorro](../../../profile/amocorro) | March 29, 2021 20:21
+by [amocorro](/profile/amocorro) | March 29, 2021 20:21
 
-March 29, 2021 20:21 | Tags: [brazil](../tag/brazil), [icc](../tag/icc), [climate-change](../tag/climate-change), [amazon](../tag/amazon), [amazonia](../tag/amazonia), [lang:pt](../tag/lang:pt), [translation](../tag/translation), [question:general](../tag/question:general), [general](../tag/general), [environmental-journalism](../tag/environmental-journalism), [environmental-regulations](../tag/environmental-regulations), [lang:en](../tag/lang:en), [activity:translation](../tag/activity:translation), [covid-19](../tag/covid-19), [obsclima](../tag/obsclima), [bolsonaro-administration](../tag/bolsonaro-administration)
+March 29, 2021 20:21 | Tags: [brazil](/tag/brazil), [icc](/tag/icc), [climate-change](/tag/climate-change), [amazon](/tag/amazon), [amazonia](/tag/amazonia), [lang:pt](/tag/lang:pt), [translation](/tag/translation), [question:general](/tag/question:general), [general](/tag/general), [environmental-journalism](/tag/environmental-journalism), [environmental-regulations](/tag/environmental-regulations), [lang:en](/tag/lang:en), [activity:translation](/tag/activity:translation), [covid-19](/tag/covid-19), [obsclima](/tag/obsclima), [bolsonaro-administration](/tag/bolsonaro-administration)
 
 ----
 

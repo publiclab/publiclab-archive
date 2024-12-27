@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/06-25-2014/off-wind-kite-flying-redstone-rigging-in-augusta-wi.md
 nid: 10619
 uid: 4
-
 cids: 9487,9694,9697,9699,9700
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/989/original/IMG_7701.JPG)
 
 # Off-wind kite flying & Redstone Rigging in Augusta, WI
 
-by [mathew](../../../profile/mathew) | June 25, 2014 22:09
+by [mathew](/profile/mathew) | June 25, 2014 22:09
 
-June 25, 2014 22:09 | Tags: [kite-mapping](../tag/kite-mapping), [mapping](../tag/mapping), [wisconsin](../tag/wisconsin), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [parent:frac-sand](../tag/parent:frac-sand), [off-wind-flying](../tag/off-wind-flying)
+June 25, 2014 22:09 | Tags: [kite-mapping](/tag/kite-mapping), [mapping](/tag/mapping), [wisconsin](/tag/wisconsin), [silica](/tag/silica), [frac-sand](/tag/frac-sand), [parent:frac-sand](/tag/parent:frac-sand), [off-wind-flying](/tag/off-wind-flying)
 
 ----
 

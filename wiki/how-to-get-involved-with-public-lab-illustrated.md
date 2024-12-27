@@ -6,16 +6,16 @@ author: mollydanielsson
 path: /wiki/how-to-get-involved-with-public-lab-illustrated.md
 nid: 11788
 uid: 1259
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/808/original/show-up-.jpg)
 
 # How to Get Involved with Public Lab: Illustrated
 
-by [liz](../profile/liz), [mollydanielsson](../profile/mollydanielsson)
+by [liz](/profile/liz), [mollydanielsson](/profile/mollydanielsson)
 
-May 06, 2015 01:06 | Tags: [community](../tag/community), [how-to](../tag/how-to), [participation](../tag/participation), [grassrootsmappingforum](../tag/grassrootsmappingforum), [publiclab](../tag/publiclab), [illustrations](../tag/illustrations), [gmf-7](../tag/gmf-7), [graphic](../tag/graphic), [community-driven](../tag/community-driven)
+May 06, 2015 01:06 | Tags: [community](/tag/community), [how-to](/tag/how-to), [participation](/tag/participation), [grassrootsmappingforum](/tag/grassrootsmappingforum), [publiclab](/tag/publiclab), [illustrations](/tag/illustrations), [gmf-7](/tag/gmf-7), [graphic](/tag/graphic), [community-driven](/tag/community-driven)
 
 ----
 

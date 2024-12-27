@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/4-13-2012/barnstars.md
 nid: 1663
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/traditional.gif)
 
 # barnstars
 
-by [liz](../../../profile/liz) | April 13, 2012 04:03
+by [liz](/profile/liz) | April 13, 2012 04:03
 
-April 13, 2012 04:03 | Tags: [community](../tag/community), [metrics](../tag/metrics), [barnstars](../tag/barnstars)
+April 13, 2012 04:03 | Tags: [community](/tag/community), [metrics](/tag/metrics), [barnstars](/tag/barnstars)
 
 ----
 

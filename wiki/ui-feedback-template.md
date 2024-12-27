@@ -6,12 +6,12 @@ author: warren
 path: /wiki/ui-feedback-template.md
 nid: 17409
 uid: 1
-
+cids: 
 ---
 
 # UI feedback template
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 October 26, 2018 22:20 | Tags: 
 

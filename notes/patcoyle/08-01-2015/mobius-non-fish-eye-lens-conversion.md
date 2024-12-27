@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/08-01-2015/mobius-non-fish-eye-lens-conversion.md
 nid: 12112
 uid: 77
-
 cids: 12302,12303,12974
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/976/original/IMAG0159.JPG)
 
 # Mobius non-fish-eye lens conversion
 
-by [patcoyle](../../../profile/patcoyle) | August 01, 2015 18:32
+by [patcoyle](/profile/patcoyle) | August 01, 2015 18:32
 
-August 01, 2015 18:32 | Tags: [kap](../tag/kap), [fisheye](../tag/fisheye), [mobius-actioncam](../tag/mobius-actioncam), [infragram-point-shoot](../tag/infragram-point-shoot), [stowaway-delta](../tag/stowaway-delta), [non-fish-eye](../tag/non-fish-eye), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:infragram](../tag/activity:infragram), [activity:ndvi](../tag/activity:ndvi), [lens-distortion](../tag/lens-distortion), [lens-swapping](../tag/lens-swapping), [activity:filter-swapping](../tag/activity:filter-swapping), [activity:lens-swapping](../tag/activity:lens-swapping)
+August 01, 2015 18:32 | Tags: [kap](/tag/kap), [fisheye](/tag/fisheye), [mobius-actioncam](/tag/mobius-actioncam), [infragram-point-shoot](/tag/infragram-point-shoot), [stowaway-delta](/tag/stowaway-delta), [non-fish-eye](/tag/non-fish-eye), [activity:multispectral-imaging](/tag/activity:multispectral-imaging), [activity:infragram](/tag/activity:infragram), [activity:ndvi](/tag/activity:ndvi), [lens-distortion](/tag/lens-distortion), [lens-swapping](/tag/lens-swapping), [activity:filter-swapping](/tag/activity:filter-swapping), [activity:lens-swapping](/tag/activity:lens-swapping)
 
 ----
 

@@ -6,16 +6,14 @@ author: MrBumper
 path: /notes/MrBumper/12-20-2014/my-experience-of-building-and-using-a-spectrometer-based-on-the-public-lab-design.md
 nid: 11488
 uid: 432766
-
 cids: 10982,10987,11048,11049,11050,11081,11082
-
 ---
 
 # My experience of building and using a spectrometer based on the Public Lab design
 
-by [MrBumper](../../../profile/MrBumper) | December 20, 2014 17:37
+by [MrBumper](/profile/MrBumper) | December 20, 2014 17:37
 
-December 20, 2014 17:37 | Tags: [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [first-time-poster](../tag/first-time-poster)
+December 20, 2014 17:37 | Tags: [desktop-spectrometry-kit](/tag/desktop-spectrometry-kit), [first-time-poster](/tag/first-time-poster)
 
 ----
 

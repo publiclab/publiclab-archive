@@ -6,18 +6,16 @@ author: eymund
 path: /notes/eymund-diegel/10-26-2012/hello-kitty-watchdog-patrols-gowanus-canal-skies.md
 nid: 4649
 uid: 1016
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/1_hello kitty camera knows naughty from nice.jpg)
 
 # Hello Kitty Watchdog Patrols the Gowanus Canal Skies
 
-by [eymund](../../../profile/eymund) | October 26, 2012 04:47
+by [eymund](/profile/eymund) | October 26, 2012 04:47
 
-October 26, 2012 04:47 | Tags: [balloon-mapping](../tag/balloon-mapping), [gowanus](../tag/gowanus), [plume](../tag/plume), [mapping](../tag/mapping), [gowanus-canal-conservancy](../tag/gowanus-canal-conservancy), [gowanus-dredgers-canoe-club-swim-team](../tag/gowanus-dredgers-canoe-club-swim-team), [hello-kitty](../tag/hello-kitty), [Gowanus Low Altitude Mapping Program (GLAM)](../tag/Gowanus Low Altitude Mapping Program (GLAM)), [watchdog](../tag/watchdog), [reporting](../tag/reporting), [altitude](../tag/altitude), [low](../tag/low), [program](../tag/program)
+October 26, 2012 04:47 | Tags: [balloon-mapping](/tag/balloon-mapping), [gowanus](/tag/gowanus), [plume](/tag/plume), [mapping](/tag/mapping), [gowanus-canal-conservancy](/tag/gowanus-canal-conservancy), [gowanus-dredgers-canoe-club-swim-team](/tag/gowanus-dredgers-canoe-club-swim-team), [hello-kitty](/tag/hello-kitty), [Gowanus Low Altitude Mapping Program (GLAM)](/tag/Gowanus Low Altitude Mapping Program (GLAM)), [watchdog](/tag/watchdog), [reporting](/tag/reporting), [altitude](/tag/altitude), [low](/tag/low), [program](/tag/program)
 
 ----
 

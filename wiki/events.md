@@ -6,16 +6,16 @@ author: warren
 path: /wiki/events.md
 nid: 303
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/232/original/20140910_115156.jpg)
 
 # Events
 
-by [bhamster](../profile/bhamster), [stevie](../profile/stevie), [liz](../profile/liz), [joyofsoy](../profile/joyofsoy), [warren](../profile/warren), [Aisha](../profile/Aisha), [yatinbhargav6](../profile/yatinbhargav6), [andyliu](../profile/andyliu), [pdhixenbaugh](../profile/pdhixenbaugh), [Shannon](../profile/Shannon)
+by [bhamster](/profile/bhamster), [stevie](/profile/stevie), [liz](/profile/liz), [joyofsoy](/profile/joyofsoy), [warren](/profile/warren), [Aisha](/profile/Aisha), [yatinbhargav6](/profile/yatinbhargav6), [andyliu](/profile/andyliu), [pdhixenbaugh](/profile/pdhixenbaugh), [Shannon](/profile/Shannon)
 
-May 27, 2011 13:53 | Tags: [community](../tag/community), [events](../tag/events), [event](../tag/event), [organizers](../tag/organizers), [style:minimal](../tag/style:minimal), [locked](../tag/locked)
+May 27, 2011 13:53 | Tags: [community](/tag/community), [events](/tag/events), [event](/tag/event), [organizers](/tag/organizers), [style:minimal](/tag/style:minimal), [locked](/tag/locked)
 
 ----
 
@@ -148,7 +148,7 @@ Finally, Public Lab events value progress, and should include time for participa
 
 # Recently posted events
 
-[grid:event](../../tag/grid:event)
+[grid:event](/tag/grid:event)
 
 <br>
 

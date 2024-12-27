@@ -6,18 +6,16 @@ author: FrankA
 path: /notes/FrankA/12-22-2016/mobius-ndvi.md
 nid: 13803
 uid: 469049
-
 cids: 16071,16357,16361
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/125/original/Screen_Shot_2016-12-22_at_3.23.02_PM.png)
 
 # Mobius NDVI
 
-by [FrankA](../../../profile/FrankA) | December 22, 2016 20:00
+by [FrankA](/profile/FrankA) | December 22, 2016 20:00
 
-December 22, 2016 20:00 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [health](../tag/health), [plant](../tag/plant), [infra-red](../tag/infra-red), [mobius-actioncam](../tag/mobius-actioncam), [mobius](../tag/mobius), [mobius-action-cam](../tag/mobius-action-cam)
+December 22, 2016 20:00 | Tags: [ndvi](/tag/ndvi), [infrared](/tag/infrared), [health](/tag/health), [plant](/tag/plant), [infra-red](/tag/infra-red), [mobius-actioncam](/tag/mobius-actioncam), [mobius](/tag/mobius), [mobius-action-cam](/tag/mobius-action-cam)
 
 ----
 

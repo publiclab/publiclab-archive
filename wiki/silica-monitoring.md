@@ -6,14 +6,14 @@ author: mathew
 path: /wiki/silica-monitoring.md
 nid: 12690
 uid: 4
-
+cids: 
 ---
 
 # Silica Monitoring
 
-by [bhamster](../profile/bhamster), [warren](../profile/warren), [gretchengehrke](../profile/gretchengehrke), [mathew](../profile/mathew), [stevie](../profile/stevie)
+by [bhamster](/profile/bhamster), [warren](/profile/warren), [gretchengehrke](/profile/gretchengehrke), [mathew](/profile/mathew), [stevie](/profile/stevie)
 
-February 15, 2016 08:00 | Tags: [regulations](../tag/regulations), [fracking](../tag/fracking), [dust](../tag/dust), [silica](../tag/silica), [particulate](../tag/particulate), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [parent:pm](../tag/parent:pm), [particulate-matter](../tag/particulate-matter), [silica-monitoring](../tag/silica-monitoring), [federal-regulations](../tag/federal-regulations), [state-regulations](../tag/state-regulations), [parent:air-quality](../tag/parent:air-quality), [respirable-silica](../tag/respirable-silica), [crystalline-silica](../tag/crystalline-silica)
+February 15, 2016 08:00 | Tags: [regulations](/tag/regulations), [fracking](/tag/fracking), [dust](/tag/dust), [silica](/tag/silica), [particulate](/tag/particulate), [frac-sand](/tag/frac-sand), [pm](/tag/pm), [parent:pm](/tag/parent:pm), [particulate-matter](/tag/particulate-matter), [silica-monitoring](/tag/silica-monitoring), [federal-regulations](/tag/federal-regulations), [state-regulations](/tag/state-regulations), [parent:air-quality](/tag/parent:air-quality), [respirable-silica](/tag/respirable-silica), [crystalline-silica](/tag/crystalline-silica)
 
 ----
 
@@ -31,7 +31,7 @@ The following sections discuss regulations around silica and how they relate to 
 
 ## Questions
 
-[silica-monitoring](../../tag/question:silica-monitoring)
+[silica-monitoring](/tag/question:silica-monitoring)
 
 ****
 

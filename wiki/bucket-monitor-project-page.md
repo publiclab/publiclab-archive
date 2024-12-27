@@ -6,14 +6,14 @@ author: kgradow1
 path: /wiki/bucket-monitor-project-page.md
 nid: 24787
 uid: 297929
-
+cids: 
 ---
 
 # Bucket Monitor 
 
-by [kgradow1](../profile/kgradow1)
+by [kgradow1](/profile/kgradow1)
 
-October 21, 2020 19:58 | Tags: [project](../tag/project), [air-quality-projects](../tag/air-quality-projects)
+October 21, 2020 19:58 | Tags: [project](/tag/project), [air-quality-projects](/tag/air-quality-projects)
 
 ----
 
@@ -102,10 +102,10 @@ This project consists of four parts:
 ****
 
 ##Activities
-[bucket-monitor](../../tag/activity:bucket-monitor)
+[bucket-monitor](/tag/activity:bucket-monitor)
 
 ## Questions
-[bucket-monitor](../../tag/question:bucket-monitor)
+[bucket-monitor](/tag/question:bucket-monitor)
 
 ****
 

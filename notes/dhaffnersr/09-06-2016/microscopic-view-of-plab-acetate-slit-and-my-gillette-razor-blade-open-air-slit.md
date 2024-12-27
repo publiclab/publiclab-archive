@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/09-06-2016/microscopic-view-of-plab-acetate-slit-and-my-gillette-razor-blade-open-air-slit.md
 nid: 13426
 uid: 461120
-
 cids: 15334,15335
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/952/original/0001.png)
 
 # Microscopic View of Plab Acetate slit and My Gillette razor Blade Open Air Slit
 
-by [dhaffnersr](../../../profile/dhaffnersr) | September 06, 2016 16:59
+by [dhaffnersr](/profile/dhaffnersr) | September 06, 2016 16:59
 
 September 06, 2016 16:59 | Tags: 
 

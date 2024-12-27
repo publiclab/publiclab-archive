@@ -6,12 +6,12 @@ author: mimiss
 path: /wiki/sandbox-edu-coqui.md
 nid: 19505
 uid: 579821
-
+cids: 
 ---
 
 # sandbox-edu-coqui
 
-by [mimiss](../profile/mimiss), [warren](../profile/warren)
+by [mimiss](/profile/mimiss), [warren](/profile/warren)
 
 May 23, 2019 18:43 | Tags: 
 
@@ -154,7 +154,7 @@ For step-by-step assembly instructions,[ click here.](https://publiclab.org/note
 
 Here are some lessons, materials, and workshops shared by Public Lab contributors. Try them out or design and share your own.
 
-[edu-coqui](../../tag/activity:edu-coqui)
+[edu-coqui](/tag/activity:edu-coqui)
 
 ## Get Help
 

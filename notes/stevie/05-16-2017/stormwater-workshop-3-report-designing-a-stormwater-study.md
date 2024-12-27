@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/05-16-2017/stormwater-workshop-3-report-designing-a-stormwater-study.md
 nid: 14202
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/477/original/20170513_152504.jpg)
 
 # Stormwater Workshop 3 Report: Designing a Stormwater Study
 
-by [stevie](../../../profile/stevie) | May 16, 2017 22:20
+by [stevie](/profile/stevie) | May 16, 2017 22:20
 
-May 16, 2017 22:20 | Tags: [gulf-coast](../tag/gulf-coast), [new-orleans](../tag/new-orleans), [annotation](../tag/annotation), [stormwater](../tag/stormwater), [activity:stormwater](../tag/activity:stormwater), [study-design](../tag/study-design), [map-annotation](../tag/map-annotation)
+May 16, 2017 22:20 | Tags: [gulf-coast](/tag/gulf-coast), [new-orleans](/tag/new-orleans), [annotation](/tag/annotation), [stormwater](/tag/stormwater), [activity:stormwater](/tag/activity:stormwater), [study-design](/tag/study-design), [map-annotation](/tag/map-annotation)
 
 ----
 

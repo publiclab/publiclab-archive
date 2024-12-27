@@ -6,18 +6,16 @@ author: NicholasNail
 path: /notes/NicholasNail/05-19-2021/cancer-alley-air-quality-study.md
 nid: 26646
 uid: 750432
-
 cids: 28787,28788,28797
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/856/original/5ddea56dfd9db2029c444c0a.png)
 
 # Cancer Alley Air Quality Study
 
-by [NicholasNail](../../../profile/NicholasNail) | May 19, 2021 16:27
+by [NicholasNail](/profile/NicholasNail) | May 19, 2021 16:27
 
-May 19, 2021 16:27 | Tags: [air-quality](../tag/air-quality), [oxygen](../tag/oxygen), [carbon-dioxide](../tag/carbon-dioxide), [project](../tag/project), [lat:30](../tag/lat:30), [lon:-91](../tag/lon:-91), [study](../tag/study), [zoom:6](../tag/zoom:6), [cancer-alley](../tag/cancer-alley), [with:owentaylor](../tag/with:owentaylor), [with:duynguyen](../tag/with:duynguyen)
+May 19, 2021 16:27 | Tags: [air-quality](/tag/air-quality), [oxygen](/tag/oxygen), [carbon-dioxide](/tag/carbon-dioxide), [project](/tag/project), [lat:30](/tag/lat:30), [lon:-91](/tag/lon:-91), [study](/tag/study), [zoom:6](/tag/zoom:6), [cancer-alley](/tag/cancer-alley), [with:owentaylor](/tag/with:owentaylor), [with:duynguyen](/tag/with:duynguyen)
 
 ----
 

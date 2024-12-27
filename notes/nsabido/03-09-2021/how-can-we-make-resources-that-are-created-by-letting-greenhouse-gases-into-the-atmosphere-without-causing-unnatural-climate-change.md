@@ -6,16 +6,14 @@ author: nsabido
 path: /notes/nsabido/03-09-2021/how-can-we-make-resources-that-are-created-by-letting-greenhouse-gases-into-the-atmosphere-without-causing-unnatural-climate-change.md
 nid: 25882
 uid: 745916
-
 cids: 28315,28988
-
 ---
 
 # How can we make resources that are created by letting greenhouse gases into the atmosphere without causing unnatural climate change?
 
-by [nsabido](../../../profile/nsabido) | March 09, 2021 16:03
+by [nsabido](/profile/nsabido) | March 09, 2021 16:03
 
-March 09, 2021 16:03 | Tags: [atmosphere](../tag/atmosphere), [climate-change](../tag/climate-change), [greenhousegas](../tag/greenhousegas), [question:general](../tag/question:general), [general](../tag/general), [oil-and-gas](../tag/oil-and-gas), [first-time-poster](../tag/first-time-poster)
+March 09, 2021 16:03 | Tags: [atmosphere](/tag/atmosphere), [climate-change](/tag/climate-change), [greenhousegas](/tag/greenhousegas), [question:general](/tag/question:general), [general](/tag/general), [oil-and-gas](/tag/oil-and-gas), [first-time-poster](/tag/first-time-poster)
 
 ----
 

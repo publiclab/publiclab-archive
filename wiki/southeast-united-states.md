@@ -6,16 +6,16 @@ author: PascalW
 path: /wiki/southeast-united-states.md
 nid: 10496
 uid: 148271
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/488/original/IMG_8136.jpg)
 
 # Southeast United States
 
-by [liz](../profile/liz), [JSummers](../profile/JSummers), [PascalW](../profile/PascalW)
+by [liz](/profile/liz), [JSummers](/profile/JSummers), [PascalW](/profile/PascalW)
 
-May 21, 2014 15:14 | Tags: [regional](../tag/regional)
+May 21, 2014 15:14 | Tags: [regional](/tag/regional)
 
 ----
 

@@ -6,16 +6,14 @@ author: bhamster
 path: /notes/bhamster/03-02-2023/household-recycling-in-new-orleans.md
 nid: 38734
 uid: 664477
-
 cids: 31177
-
 ---
 
 # Household Recycling in New Orleans
 
-by [bhamster](../../../profile/bhamster) | March 02, 2023 21:57
+by [bhamster](/profile/bhamster) | March 02, 2023 21:57
 
-March 02, 2023 21:57 | Tags: [recycling](../tag/recycling), [student-community-science](../tag/student-community-science), [classroom-community-science](../tag/classroom-community-science)
+March 02, 2023 21:57 | Tags: [recycling](/tag/recycling), [student-community-science](/tag/student-community-science), [classroom-community-science](/tag/classroom-community-science)
 
 ----
 

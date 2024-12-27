@@ -6,14 +6,14 @@ author: Bronwen
 path: /wiki/barnraising-2015-photos-bronwen.md
 nid: 12430
 uid: 237313
-
+cids: 
 ---
 
 # barnraising-2015-photos-bronwen
 
-by [Bronwen](../profile/Bronwen)
+by [Bronwen](/profile/Bronwen)
 
-November 21, 2015 19:26 | Tags: [barnraising](../tag/barnraising), [lumcon](../tag/lumcon), [barnraising-2015](../tag/barnraising-2015)
+November 21, 2015 19:26 | Tags: [barnraising](/tag/barnraising), [lumcon](/tag/lumcon), [barnraising-2015](/tag/barnraising-2015)
 
 ----
 

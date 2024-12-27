@@ -6,16 +6,14 @@ author: Vman
 path: /notes/Vman/06-25-2017/unable-to-use-back-camera-on-an-android-phone.md
 nid: 14582
 uid: 497579
-
 cids: 16913,22520
-
 ---
 
 # Unable to use back camera on an android phone
 
-by [Vman](../../../profile/Vman) | June 25, 2017 17:19
+by [Vman](/profile/Vman) | June 25, 2017 17:19
 
-June 25, 2017 17:19 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [export](../tag/export), [graph](../tag/graph), [question:general](../tag/question:general)
+June 25, 2017 17:19 | Tags: [spectrometer](/tag/spectrometer), [spectralworkbench](/tag/spectralworkbench), [export](/tag/export), [graph](/tag/graph), [question:general](/tag/question:general)
 
 ----
 

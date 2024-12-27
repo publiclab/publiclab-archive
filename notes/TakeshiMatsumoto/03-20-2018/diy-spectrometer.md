@@ -6,18 +6,16 @@ author: TakeshiMatsumoto
 path: /notes/TakeshiMatsumoto/03-20-2018/diy-spectrometer.md
 nid: 15985
 uid: 528173
-
 cids: 19079,19094,19104,19150,19223,19229,19256
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/110/original/IMG_3655_1.jpg)
 
 # DIY-spectrometer
 
-by [TakeshiMatsumoto](../../../profile/TakeshiMatsumoto) | March 20, 2018 22:26
+by [TakeshiMatsumoto](/profile/TakeshiMatsumoto) | March 20, 2018 22:26
 
-March 20, 2018 22:26 | Tags: [spectrometer](../tag/spectrometer), [diy-bio](../tag/diy-bio), [hardware](../tag/hardware), [first-time-poster](../tag/first-time-poster)
+March 20, 2018 22:26 | Tags: [spectrometer](/tag/spectrometer), [diy-bio](/tag/diy-bio), [hardware](/tag/hardware), [first-time-poster](/tag/first-time-poster)
 
 ----
 

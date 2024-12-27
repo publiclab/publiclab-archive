@@ -6,18 +6,16 @@ author: sara
 path: /notes/sara/7-18-2012/bayou-savage-results-2-degree-canister-openness.md
 nid: 2867
 uid: 8
-
 cids: 1057
-
 ---
 
 ![](https://publiclab.org/sites/default/files/BSresultsbyopenness.JPG)
 
 # Bayou Savage Results 2: degree of canister openness
 
-by [sara](../../../profile/sara) | July 18, 2012 22:55
+by [sara](/profile/sara) | July 18, 2012 22:55
 
-July 18, 2012 22:55 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper)
+July 18, 2012 22:55 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [h2s-photopaper](/tag/h2s-photopaper)
 
 ----
 

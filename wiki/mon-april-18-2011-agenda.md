@@ -6,12 +6,12 @@ author: warren
 path: /wiki/mon-april-18-2011-agenda.md
 nid: 173
 uid: 1
-
+cids: 
 ---
 
 # Mon April 18 2011 Agenda
 
-by [warren](../profile/warren), [mathew](../profile/mathew), [gonzoearth](../profile/gonzoearth), [Shannon](../profile/Shannon)
+by [warren](/profile/warren), [mathew](/profile/mathew), [gonzoearth](/profile/gonzoearth), [Shannon](/profile/Shannon)
 
 April 15, 2011 15:19 | Tags: 
 

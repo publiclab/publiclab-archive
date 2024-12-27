@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/10-17-2016/stress-testing-the-desktop-spectrometry-starter-kit.md
 nid: 13569
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/419/original/IMG_20161014_202841-2.jpg)
 
 # Stress-testing the Desktop Spectrometry Starter Kit
 
-by [warren](../../../profile/warren) | October 17, 2016 17:00
+by [warren](/profile/warren) | October 17, 2016 17:00
 
-October 17, 2016 17:00 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [leaffest](../tag/leaffest), [spectrometry](../tag/spectrometry), [testing](../tag/testing), [parts-and-crafts](../tag/parts-and-crafts), [activity:spectrometry](../tag/activity:spectrometry), [difficulty:medium](../tag/difficulty:medium), [activity:dssk](../tag/activity:dssk), [category:test-limits](../tag/category:test-limits), [status:in-progress](../tag/status:in-progress), [time:1h](../tag/time:1h), [stress-testing](../tag/stress-testing), [rigidity](../tag/rigidity)
+October 17, 2016 17:00 | Tags: [spectrometer](/tag/spectrometer), [kits](/tag/kits), [leaffest](/tag/leaffest), [spectrometry](/tag/spectrometry), [testing](/tag/testing), [parts-and-crafts](/tag/parts-and-crafts), [activity:spectrometry](/tag/activity:spectrometry), [difficulty:medium](/tag/difficulty:medium), [activity:dssk](/tag/activity:dssk), [category:test-limits](/tag/category:test-limits), [status:in-progress](/tag/status:in-progress), [time:1h](/tag/time:1h), [stress-testing](/tag/stress-testing), [rigidity](/tag/rigidity)
 
 ----
 

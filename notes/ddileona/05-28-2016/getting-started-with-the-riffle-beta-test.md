@@ -6,18 +6,16 @@ author: ddileona
 path: /notes/ddileona/05-28-2016/getting-started-with-the-riffle-beta-test.md
 nid: 13151
 uid: 436738
-
 cids: 14700,14706
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/385/original/20160525_203932.jpg)
 
 # Getting Started with the Riffle Beta Test
 
-by [ddileona](../../../profile/ddileona) | May 28, 2016 03:33
+by [ddileona](/profile/ddileona) | May 28, 2016 03:33
 
-May 28, 2016 03:33 | Tags: [riffle](../tag/riffle), [riffle-beta](../tag/riffle-beta), [depth-sensor](../tag/depth-sensor), [riffle-examples](../tag/riffle-examples)
+May 28, 2016 03:33 | Tags: [riffle](/tag/riffle), [riffle-beta](/tag/riffle-beta), [depth-sensor](/tag/depth-sensor), [riffle-examples](/tag/riffle-examples)
 
 ----
 

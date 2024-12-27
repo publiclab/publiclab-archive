@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/01-16-2015/sketching-a-waterproof-pop-bottle-sensor-system.md
 nid: 11528
 uid: 4
-
 cids: 11056,11061,11067,11071
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/629/original/IMG_20150114_130503.jpg)
 
 # sketching a waterproof pop bottle sensor system
 
-by [mathew](../../../profile/mathew) | January 16, 2015 23:16
+by [mathew](/profile/mathew) | January 16, 2015 23:16
 
-January 16, 2015 23:16 | Tags: [housing](../tag/housing), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [open-water](../tag/open-water), [openwater](../tag/openwater), [bottle](../tag/bottle), [weatherproofing](../tag/weatherproofing), [riffle-examples](../tag/riffle-examples), [data-logger-enclosures](../tag/data-logger-enclosures), [sensor-enclosures](../tag/sensor-enclosures), [activity:sensor-enclosures](../tag/activity:sensor-enclosures)
+January 16, 2015 23:16 | Tags: [housing](/tag/housing), [water-quality](/tag/water-quality), [riffle](/tag/riffle), [open-water](/tag/open-water), [openwater](/tag/openwater), [bottle](/tag/bottle), [weatherproofing](/tag/weatherproofing), [riffle-examples](/tag/riffle-examples), [data-logger-enclosures](/tag/data-logger-enclosures), [sensor-enclosures](/tag/sensor-enclosures), [activity:sensor-enclosures](/tag/activity:sensor-enclosures)
 
 ----
 

@@ -6,12 +6,12 @@ author: sara
 path: /wiki/staff-call-note-7-25-2011.md
 nid: 413
 uid: 8
-
+cids: 
 ---
 
 # Staff Call Note 7 25 2011
 
-by [sara](../profile/sara)
+by [sara](/profile/sara)
 
 July 27, 2011 20:27 | Tags: 
 

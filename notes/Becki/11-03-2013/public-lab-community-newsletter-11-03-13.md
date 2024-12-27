@@ -6,18 +6,16 @@ author: Becki
 path: /notes/Becki/11-03-2013/public-lab-community-newsletter-11-03-13.md
 nid: 9721
 uid: 46673
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/109/original/Boots-in-circle-with-hatch-large.jpg)
 
 # Public Lab Community Newsletter 11.03.13
 
-by [Becki](../../../profile/Becki) | November 03, 2013 15:35
+by [Becki](/profile/Becki) | November 03, 2013 15:35
 
-November 03, 2013 15:35 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+November 03, 2013 15:35 | Tags: [newsletter](/tag/newsletter), [newsletter-archive](/tag/newsletter-archive)
 
 ----
 

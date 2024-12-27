@@ -6,18 +6,16 @@ author: rockets
 path: /notes/rockets/03-18-2020/knowflow-nb-iot-version.md
 nid: 23165
 uid: 492583
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/597/original/021322h4zacf55ba58wv8w.png)
 
 # KnowFlow NB-IoT version
 
-by [rockets](../../../profile/rockets) | March 18, 2020 07:06
+by [rockets](/profile/rockets) | March 18, 2020 07:06
 
-March 18, 2020 07:06 | Tags: [water-quality](../tag/water-quality), [knowflow](../tag/knowflow), [response:14511](../tag/response:14511), [zoom:12](../tag/zoom:12), [lat:30.854489](../tag/lat:30.854489), [lon:120.83797](../tag/lon:120.83797)
+March 18, 2020 07:06 | Tags: [water-quality](/tag/water-quality), [knowflow](/tag/knowflow), [response:14511](/tag/response:14511), [zoom:12](/tag/zoom:12), [lat:30.854489](/tag/lat:30.854489), [lon:120.83797](/tag/lon:120.83797)
 
 ----
 

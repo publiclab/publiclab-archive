@@ -6,18 +6,16 @@ author: mlamadrid
 path: /notes/mlamadrid/12-08-2015/photo-monitoring-plugin-for-ndvi-using-imagej.md
 nid: 12489
 uid: 45586
-
 cids: 13077,13083,13086,13089
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/243/original/NDVIplotsN1k.jpg)
 
 # Photo Monitoring Plugin For NDVI using ImageJ
 
-by [mlamadrid](../../../profile/mlamadrid) | December 08, 2015 21:10
+by [mlamadrid](/profile/mlamadrid) | December 08, 2015 21:10
 
-December 08, 2015 21:10 | Tags: [ndvi](../tag/ndvi), [imagej](../tag/imagej), [grassrootsmappingforum](../tag/grassrootsmappingforum), [with:nedhorning](../tag/with:nedhorning), [style:fancy](../tag/style:fancy), [gmf-9](../tag/gmf-9)
+December 08, 2015 21:10 | Tags: [ndvi](/tag/ndvi), [imagej](/tag/imagej), [grassrootsmappingforum](/tag/grassrootsmappingforum), [with:nedhorning](/tag/with:nedhorning), [style:fancy](/tag/style:fancy), [gmf-9](/tag/gmf-9)
 
 ----
 

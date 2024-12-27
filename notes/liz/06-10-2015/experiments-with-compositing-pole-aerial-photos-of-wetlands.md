@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/06-10-2015/experiments-with-compositing-pole-aerial-photos-of-wetlands.md
 nid: 11967
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/296/original/southshore-set-3.jpg)
 
 # Experiments with compositing pole aerial photos of wetlands
 
-by [liz](../../../profile/liz) | June 10, 2015 20:54
+by [liz](/profile/liz) | June 10, 2015 20:54
 
-June 10, 2015 20:54 | Tags: [gulf-coast](../tag/gulf-coast), [pole-mapping](../tag/pole-mapping)
+June 10, 2015 20:54 | Tags: [gulf-coast](/tag/gulf-coast), [pole-mapping](/tag/pole-mapping)
 
 ----
 

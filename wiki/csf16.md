@@ -6,14 +6,14 @@ author: joyofsoy
 path: /wiki/csf16.md
 nid: 19904
 uid: 540844
-
+cids: 
 ---
 
 # CSF16
 
-by [joyofsoy](../profile/joyofsoy)
+by [joyofsoy](/profile/joyofsoy)
 
-June 27, 2019 22:46 | Tags: [redirect:326](../tag/redirect:326)
+June 27, 2019 22:46 | Tags: [redirect:326](/tag/redirect:326)
 
 ----
 

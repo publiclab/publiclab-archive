@@ -6,16 +6,16 @@ author: mollydanielsson
 path: /wiki/public-lab-lesson-3-photography-in-a-new-light.md
 nid: 11560
 uid: 1259
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/854/original/image14.png)
 
 # Public Lab Lesson 3: Photography in a New Light
 
-by [gretchengehrke](../profile/gretchengehrke), [mathew](../profile/mathew), [mollydanielsson](../profile/mollydanielsson)
+by [gretchengehrke](/profile/gretchengehrke), [mathew](/profile/mathew), [mollydanielsson](/profile/mollydanielsson)
 
-February 07, 2015 22:46 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [photography](../tag/photography), [education](../tag/education), [wetlands](../tag/wetlands), [near-infrared](../tag/near-infrared), [infragram](../tag/infragram), [classroom](../tag/classroom), [lesson_plan](../tag/lesson_plan), [electromagnetic_spectrum](../tag/electromagnetic_spectrum), [parent:wetlands-lesson-plans](../tag/parent:wetlands-lesson-plans), [activity:infragram](../tag/activity:infragram), [activity:ndvi](../tag/activity:ndvi), [activity:wetlands](../tag/activity:wetlands)
+February 07, 2015 22:46 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [photography](/tag/photography), [education](/tag/education), [wetlands](/tag/wetlands), [near-infrared](/tag/near-infrared), [infragram](/tag/infragram), [classroom](/tag/classroom), [lesson_plan](/tag/lesson_plan), [electromagnetic_spectrum](/tag/electromagnetic_spectrum), [parent:wetlands-lesson-plans](/tag/parent:wetlands-lesson-plans), [activity:infragram](/tag/activity:infragram), [activity:ndvi](/tag/activity:ndvi), [activity:wetlands](/tag/activity:wetlands)
 
 ----
 

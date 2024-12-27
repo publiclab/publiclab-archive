@@ -6,14 +6,14 @@ author: MicheleTobias
 path: /wiki/ground-control-point-targets.md
 nid: 300
 uid: 149
-
+cids: 
 ---
 
 # Mapping Curriculum: Ground Control Point Targets
 
-by [mathew](../profile/mathew), [gonzoearth](../profile/gonzoearth), [MicheleTobias](../profile/MicheleTobias)
+by [mathew](/profile/mathew), [gonzoearth](/profile/gonzoearth), [MicheleTobias](/profile/MicheleTobias)
 
-May 26, 2011 04:40 | Tags: [balloon-mapping](../tag/balloon-mapping), [rectification](../tag/rectification), [ground-control-points](../tag/ground-control-points), [parent:mapping-curriculum](../tag/parent:mapping-curriculum)
+May 26, 2011 04:40 | Tags: [balloon-mapping](/tag/balloon-mapping), [rectification](/tag/rectification), [ground-control-points](/tag/ground-control-points), [parent:mapping-curriculum](/tag/parent:mapping-curriculum)
 
 ----
 

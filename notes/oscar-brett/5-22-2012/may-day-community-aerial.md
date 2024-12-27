@@ -6,18 +6,16 @@ author: oscarbrett
 path: /notes/oscar-brett/5-22-2012/may-day-community-aerial.md
 nid: 2163
 uid: 409
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/(P7).jpeg)
 
 # may day // community aerial
 
-by [oscarbrett](../../../profile/oscarbrett) | May 22, 2012 04:24
+by [oscarbrett](/profile/oscarbrett) | May 22, 2012 04:24
 
-May 22, 2012 04:24 | Tags: [balloon-mapping](../tag/balloon-mapping), [union-square](../tag/union-square), [ows](../tag/ows), [occupy-wall-street](../tag/occupy-wall-street), [multiple-tethers](../tag/multiple-tethers), [protest-mapping](../tag/protest-mapping), [diy-balloon](../tag/diy-balloon), [mayday](../tag/mayday)
+May 22, 2012 04:24 | Tags: [balloon-mapping](/tag/balloon-mapping), [union-square](/tag/union-square), [ows](/tag/ows), [occupy-wall-street](/tag/occupy-wall-street), [multiple-tethers](/tag/multiple-tethers), [protest-mapping](/tag/protest-mapping), [diy-balloon](/tag/diy-balloon), [mayday](/tag/mayday)
 
 ----
 

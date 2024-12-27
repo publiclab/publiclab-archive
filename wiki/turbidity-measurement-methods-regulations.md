@@ -6,16 +6,16 @@ author: gilbert
 path: /wiki/turbidity-measurement-methods-regulations.md
 nid: 15406
 uid: 508551
-
+cids: 18012
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/987/original/sediment-sampling.jpg)
 
 # Turbidity Measurement Methods & Regulations
 
-by [gilbert](../profile/gilbert)
+by [gilbert](/profile/gilbert)
 
-December 20, 2017 20:15 | Tags: [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [water-sensors](../tag/water-sensors), [nephelometry](../tag/nephelometry), [water-regulation](../tag/water-regulation), [parent:water-quality](../tag/parent:water-quality)
+December 20, 2017 20:15 | Tags: [water-quality](/tag/water-quality), [turbidity](/tag/turbidity), [water-sensors](/tag/water-sensors), [nephelometry](/tag/nephelometry), [water-regulation](/tag/water-regulation), [parent:water-quality](/tag/parent:water-quality)
 
 ----
 

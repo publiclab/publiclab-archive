@@ -6,14 +6,14 @@ author: warren
 path: /wiki/core-proposal.md
 nid: 908
 uid: 1
-
+cids: 
 ---
 
 # Core proposal
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-March 08, 2012 23:12 | Tags: [community](../tag/community), [organizers](../tag/organizers), [parent:organizers](../tag/parent:organizers)
+March 08, 2012 23:12 | Tags: [community](/tag/community), [organizers](/tag/organizers), [parent:organizers](/tag/parent:organizers)
 
 ----
 

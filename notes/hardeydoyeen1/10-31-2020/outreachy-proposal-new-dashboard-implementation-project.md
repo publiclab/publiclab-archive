@@ -6,18 +6,16 @@ author: hardeydoyeen1
 path: /notes/hardeydoyeen1/10-31-2020/outreachy-proposal-new-dashboard-implementation-project.md
 nid: 24889
 uid: 726106
-
 cids: 27744
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/443/original/26E7A077-877E-4BC0-A360-B6107C147694.png)
 
 # OUTREACHY PROPOSAL: New Dashboard Implementation Project 
 
-by [hardeydoyeen1](../../../profile/hardeydoyeen1) | October 31, 2020 11:06
+by [hardeydoyeen1](/profile/hardeydoyeen1) | October 31, 2020 11:06
 
-October 31, 2020 11:06 | Tags: [software](../tag/software), [first-time-poster](../tag/first-time-poster), [outreachy-winter-2020](../tag/outreachy-winter-2020), [outreachy-2020-winter-proposals](../tag/outreachy-2020-winter-proposals), [response:24687](../tag/response:24687)
+October 31, 2020 11:06 | Tags: [software](/tag/software), [first-time-poster](/tag/first-time-poster), [outreachy-winter-2020](/tag/outreachy-winter-2020), [outreachy-2020-winter-proposals](/tag/outreachy-2020-winter-proposals), [response:24687](/tag/response:24687)
 
 ----
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/nitrate-detection.md
 nid: 10377
 uid: 1
-
+cids: 
 ---
 
 # Nitrate detection
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-April 29, 2014 17:11 | Tags: [water-quality](../tag/water-quality), [nitrate](../tag/nitrate), [nitrogen](../tag/nitrogen), [parent:nitrogen](../tag/parent:nitrogen)
+April 29, 2014 17:11 | Tags: [water-quality](/tag/water-quality), [nitrate](/tag/nitrate), [nitrogen](/tag/nitrogen), [parent:nitrogen](/tag/parent:nitrogen)
 
 ----
 

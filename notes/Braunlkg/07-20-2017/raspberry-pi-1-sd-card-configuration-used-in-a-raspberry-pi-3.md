@@ -6,16 +6,14 @@ author: Braunlkg
 path: /notes/Braunlkg/07-20-2017/raspberry-pi-1-sd-card-configuration-used-in-a-raspberry-pi-3.md
 nid: 14670
 uid: 510960
-
 cids: 22539
-
 ---
 
 # Raspberry Pi 1 Sd card configuration used in a Raspberry Pi 3?
 
-by [Braunlkg](../../../profile/Braunlkg) | July 20, 2017 17:47
+by [Braunlkg](/profile/Braunlkg) | July 20, 2017 17:47
 
-July 20, 2017 17:47 | Tags: [question:question:raspberry](../tag/question:question:raspberry), [pi1:raspberry](../tag/pi1:raspberry), [pi3](../tag/pi3), [first-time-poster](../tag/first-time-poster)
+July 20, 2017 17:47 | Tags: [question:question:raspberry](/tag/question:question:raspberry), [pi1:raspberry](/tag/pi1:raspberry), [pi3](/tag/pi3), [first-time-poster](/tag/first-time-poster)
 
 ----
 

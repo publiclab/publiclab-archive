@@ -6,16 +6,14 @@ author: carohowe
 path: /notes/carohowe/07-13-2017/what-are-ways-to-record-ambient-temperature-every-5-sec-and-export-easily.md
 nid: 14650
 uid: 510884
-
 cids: 17031,17034,17063,17071,17072,17077,22522,22523,22526,22533
-
 ---
 
 # What are ways to record ambient temperature every 5 sec and export easily?
 
-by [carohowe](../../../profile/carohowe) | July 13, 2017 21:08
+by [carohowe](/profile/carohowe) | July 13, 2017 21:08
 
-July 13, 2017 21:08 | Tags: [arduino](../tag/arduino), [temperature](../tag/temperature), [question:question](../tag/question:question), [data-logging](../tag/data-logging), [question:data-logging](../tag/question:data-logging), [dc](../tag/dc), [question:arduino](../tag/question:arduino), [question:temperature](../tag/question:temperature), [heat-island](../tag/heat-island), [thermometer](../tag/thermometer), [temperature-sensing](../tag/temperature-sensing), [urban-heat-island](../tag/urban-heat-island), [bicycle](../tag/bicycle), [shading](../tag/shading), [first-time-poster](../tag/first-time-poster)
+July 13, 2017 21:08 | Tags: [arduino](/tag/arduino), [temperature](/tag/temperature), [question:question](/tag/question:question), [data-logging](/tag/data-logging), [question:data-logging](/tag/question:data-logging), [dc](/tag/dc), [question:arduino](/tag/question:arduino), [question:temperature](/tag/question:temperature), [heat-island](/tag/heat-island), [thermometer](/tag/thermometer), [temperature-sensing](/tag/temperature-sensing), [urban-heat-island](/tag/urban-heat-island), [bicycle](/tag/bicycle), [shading](/tag/shading), [first-time-poster](/tag/first-time-poster)
 
 ----
 

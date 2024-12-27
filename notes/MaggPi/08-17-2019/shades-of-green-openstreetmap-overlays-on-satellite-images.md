@@ -6,18 +6,16 @@ author: MaggPi
 path: /notes/MaggPi/08-17-2019/shades-of-green-openstreetmap-overlays-on-satellite-images.md
 nid: 20562
 uid: 501996
-
 cids: 25263,25278,25334
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/595/original/shades_of_green.png)
 
 # Shades of Green - OpenStreetMap Overlays on Satellite images
 
-by [MaggPi](../../../profile/MaggPi) | August 17, 2019 17:41
+by [MaggPi](/profile/MaggPi) | August 17, 2019 17:41
 
-August 17, 2019 17:41 | Tags: [mapknitter](../tag/mapknitter), [osm](../tag/osm), [geospatial](../tag/geospatial), [satellite-imagery](../tag/satellite-imagery), [gsoc-2019](../tag/gsoc-2019), [planet](../tag/planet), [nottingham](../tag/nottingham), [lat:52.954783](../tag/lat:52.954783), [lon:-1.158108](../tag/lon:-1.158108)
+August 17, 2019 17:41 | Tags: [mapknitter](/tag/mapknitter), [osm](/tag/osm), [geospatial](/tag/geospatial), [satellite-imagery](/tag/satellite-imagery), [gsoc-2019](/tag/gsoc-2019), [planet](/tag/planet), [nottingham](/tag/nottingham), [lat:52.954783](/tag/lat:52.954783), [lon:-1.158108](/tag/lon:-1.158108)
 
 ----
 

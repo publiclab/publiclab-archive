@@ -6,18 +6,16 @@ author: eustatic
 path: /3-29-2013/swamp-stomp-video.md
 nid: 6608
 uid: 379
-
 cids: 4404
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0114.JPG)
 
 # Swamp Stomp Video
 
-by [eustatic](../../../profile/eustatic) | March 29, 2013 22:06
+by [eustatic](/profile/eustatic) | March 29, 2013 22:06
 
-March 29, 2013 22:06 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
+March 29, 2013 22:06 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping)
 
 ----
 

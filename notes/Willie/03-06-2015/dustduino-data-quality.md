@@ -6,18 +6,16 @@ author: willie
 path: /notes/Willie/03-06-2015/dustduino-data-quality.md
 nid: 11659
 uid: 235174
-
 cids: 11318
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/194/original/DustDuino_Logo.jpg)
 
 # DustDuino Data Quality
 
-by [willie](../../../profile/willie) | March 06, 2015 20:01
+by [willie](/profile/willie) | March 06, 2015 20:01
 
-March 06, 2015 20:01 | Tags: [indoor-air-quality-mapping](../tag/indoor-air-quality-mapping), [particulate-sensing](../tag/particulate-sensing), [air-quality](../tag/air-quality), [internet](../tag/internet), [tool](../tag/tool), [dustduino](../tag/dustduino), [open-air](../tag/open-air)
+March 06, 2015 20:01 | Tags: [indoor-air-quality-mapping](/tag/indoor-air-quality-mapping), [particulate-sensing](/tag/particulate-sensing), [air-quality](/tag/air-quality), [internet](/tag/internet), [tool](/tag/tool), [dustduino](/tag/dustduino), [open-air](/tag/open-air)
 
 ----
 

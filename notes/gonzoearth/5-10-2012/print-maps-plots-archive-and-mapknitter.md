@@ -6,18 +6,16 @@ author: gonzoearth
 path: /notes/gonzoearth/5-10-2012/print-maps-plots-archive-and-mapknitter.md
 nid: 1949
 uid: 12
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/7000205023_966dd6df37.jpg)
 
 # Print maps from the PLOTS Archive and MapKnitter
 
-by [gonzoearth](../../../profile/gonzoearth) | May 10, 2012 20:38
+by [gonzoearth](/profile/gonzoearth) | May 10, 2012 20:38
 
-May 10, 2012 20:38 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping)
+May 10, 2012 20:38 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping)
 
 ----
 

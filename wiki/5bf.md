@@ -6,16 +6,16 @@ author: liz
 path: /wiki/5bf.md
 nid: 9456
 uid: 7
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/938/original/BK-FeedbackFarm-vis_small-horiz.jpg)
 
 # 5BF
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-October 14, 2013 17:53 | Tags: [new-york-city](../tag/new-york-city), [new-jersey](../tag/new-jersey), [5bf](../tag/5bf), [community-garden](../tag/community-garden), [garden](../tag/garden), [food](../tag/food), [adaptive-co-management](../tag/adaptive-co-management), [parent:gardening-toolkit](../tag/parent:gardening-toolkit), [gardening-toolkit](../tag/gardening-toolkit), [category:weigh-produce](../tag/category:weigh-produce), [category:weigh](../tag/category:weigh), [category:measure](../tag/category:measure)
+October 14, 2013 17:53 | Tags: [new-york-city](/tag/new-york-city), [new-jersey](/tag/new-jersey), [5bf](/tag/5bf), [community-garden](/tag/community-garden), [garden](/tag/garden), [food](/tag/food), [adaptive-co-management](/tag/adaptive-co-management), [parent:gardening-toolkit](/tag/parent:gardening-toolkit), [gardening-toolkit](/tag/gardening-toolkit), [category:weigh-produce](/tag/category:weigh-produce), [category:weigh](/tag/category:weigh), [category:measure](/tag/category:measure)
 
 ----
 

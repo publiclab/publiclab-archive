@@ -6,14 +6,14 @@ author: Shannon
 path: /wiki/plots-history.md
 nid: 617
 uid: 9
-
+cids: 
 ---
 
 # Public Lab History
 
-by [Shannon](../profile/Shannon), [warren](../profile/warren), [gonzoearth](../profile/gonzoearth), [liz](../profile/liz)
+by [Shannon](/profile/Shannon), [warren](/profile/warren), [gonzoearth](/profile/gonzoearth), [liz](/profile/liz)
 
-December 06, 2011 06:25 | Tags: [nonprofit](../tag/nonprofit), [history](../tag/history)
+December 06, 2011 06:25 | Tags: [nonprofit](/tag/nonprofit), [history](/tag/history)
 
 ----
 

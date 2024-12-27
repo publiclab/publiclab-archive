@@ -6,12 +6,12 @@ author: warren
 path: /wiki/spectrometer-comparison.md
 nid: 3585
 uid: 1
-
+cids: 
 ---
 
 # Spectrometer comparison
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 August 30, 2012 15:25 | Tags: 
 

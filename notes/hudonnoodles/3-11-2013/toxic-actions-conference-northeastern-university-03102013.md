@@ -6,18 +6,16 @@ author: Hudonnoodles
 path: /notes/hudonnoodles/3-11-2013/toxic-actions-conference-northeastern-university-03102013.md
 nid: 6293
 uid: 102
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_5324.JPG)
 
 # Toxic Actions Conference @ Northeastern University, 03/10/2013
 
-by [Hudonnoodles](../../../profile/Hudonnoodles) | March 11, 2013 23:27
+by [Hudonnoodles](/profile/Hudonnoodles) | March 11, 2013 23:27
 
-March 11, 2013 23:27 | Tags: [balloon-mapping](../tag/balloon-mapping), [spectrometer](../tag/spectrometer), [conferences](../tag/conferences), [thermal-flashlight](../tag/thermal-flashlight)
+March 11, 2013 23:27 | Tags: [balloon-mapping](/tag/balloon-mapping), [spectrometer](/tag/spectrometer), [conferences](/tag/conferences), [thermal-flashlight](/tag/thermal-flashlight)
 
 ----
 

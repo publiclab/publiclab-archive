@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/08-19-2016/microscopic-view-of-public-lab-s-acetate-film-slits.md
 nid: 13370
 uid: 461120
-
 cids: 15191,15192,15208
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/685/original/09mm_slit_at_100x_magnification_aug19_pic_1.png)
 
 # Microscopic View of Public Lab's Acetate film slits
 
-by [dhaffnersr](../../../profile/dhaffnersr) | August 19, 2016 16:48
+by [dhaffnersr](/profile/dhaffnersr) | August 19, 2016 16:48
 
 August 19, 2016 16:48 | Tags: 
 

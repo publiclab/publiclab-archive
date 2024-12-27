@@ -6,16 +6,14 @@ author: shinnen
 path: /notes/shinnen/12-12-2018/convert-sd1000-to-infra-red.md
 nid: 17879
 uid: 460991
-
 cids: 
-
 ---
 
 #  Convert SD1000 to infra-red
 
-by [shinnen](../../../profile/shinnen) | December 12, 2018 18:32
+by [shinnen](/profile/shinnen) | December 12, 2018 18:32
 
-December 12, 2018 18:32 | Tags: [hardware](../tag/hardware), [sd100](../tag/sd100)
+December 12, 2018 18:32 | Tags: [hardware](/tag/hardware), [sd100](/tag/sd100)
 
 ----
 

@@ -6,16 +6,14 @@ author: Joris
 path: /notes/Joris/04-30-2016/question-desktop-spectrometer-3-0-light-sensitivity.md
 nid: 13055
 uid: 471889
-
 cids: 14484
-
 ---
 
 # Question: desktop spectrometer 3.0 light sensitivity
 
-by [Joris](../../../profile/Joris) | April 30, 2016 19:22
+by [Joris](/profile/Joris) | April 30, 2016 19:22
 
-April 30, 2016 19:22 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [first-time-poster](../tag/first-time-poster)
+April 30, 2016 19:22 | Tags: [question:spectral-workbench](/tag/question:spectral-workbench), [first-time-poster](/tag/first-time-poster)
 
 ----
 

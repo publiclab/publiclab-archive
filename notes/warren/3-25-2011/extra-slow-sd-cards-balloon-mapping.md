@@ -6,14 +6,12 @@ author: warren
 path: /notes/warren/3-25-2011/extra-slow-sd-cards-balloon-mapping.md
 nid: 148
 uid: 1
-
 cids: 6232
-
 ---
 
 # Extra-slow SD cards for balloon mapping
 
-by [warren](../../../profile/warren) | March 25, 2011 12:42
+by [warren](/profile/warren) | March 25, 2011 12:42
 
 March 25, 2011 12:42 | Tags: 
 

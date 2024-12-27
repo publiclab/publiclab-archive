@@ -6,16 +6,14 @@ author: gonzoearth
 path: /notes/gonzoearth/3-11-2013/public-lab-community-newsletter-31013.md
 nid: 6289
 uid: 12
-
 cids: 
-
 ---
 
 # Public Lab Community Newsletter 3.10.13
 
-by [gonzoearth](../../../profile/gonzoearth) | March 11, 2013 06:34
+by [gonzoearth](/profile/gonzoearth) | March 11, 2013 06:34
 
-March 11, 2013 06:34 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+March 11, 2013 06:34 | Tags: [newsletter](/tag/newsletter), [newsletter-archive](/tag/newsletter-archive)
 
 ----
 

@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/3-12-2013/ir-filter-switchers.md
 nid: 6315
 uid: 4
-
 cids: 3996,4014,9652,9687
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2013-03-12 at 7.49.19 PM.png)
 
 # IR filter switchers
 
-by [mathew](../../../profile/mathew) | March 13, 2013 03:11
+by [mathew](/profile/mathew) | March 13, 2013 03:11
 
-March 13, 2013 03:11 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infrared](../tag/infrared), [ircam](../tag/ircam), [infrared-camera](../tag/infrared-camera), [filter-switcher](../tag/filter-switcher)
+March 13, 2013 03:11 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [infrared](/tag/infrared), [ircam](/tag/ircam), [infrared-camera](/tag/infrared-camera), [filter-switcher](/tag/filter-switcher)
 
 ----
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/study-design.md
 nid: 18890
 uid: 1
-
+cids: 
 ---
 
 # Study design
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-March 28, 2019 19:52 | Tags: [research](../tag/research), [advocacy](../tag/advocacy), [study-design](../tag/study-design), [planning](../tag/planning), [study](../tag/study), [parent:advocacy](../tag/parent:advocacy)
+March 28, 2019 19:52 | Tags: [research](/tag/research), [advocacy](/tag/advocacy), [study-design](/tag/study-design), [planning](/tag/planning), [study](/tag/study), [parent:advocacy](/tag/parent:advocacy)
 
 ----
 
@@ -38,7 +38,7 @@ The guide touches on topics like:
 
 ## Questions
 
-[study-design](../../tag/question:study-design)
+[study-design](/tag/question:study-design)
 
 
 
@@ -46,4 +46,4 @@ The guide touches on topics like:
 
 More on study design:
 
-[study-design](../../tag/study-design)
+[study-design](/tag/study-design)

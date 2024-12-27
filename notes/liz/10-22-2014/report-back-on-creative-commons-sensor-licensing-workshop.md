@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/10-22-2014/report-back-on-creative-commons-sensor-licensing-workshop.md
 nid: 11291
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/599/original/cc.large.png)
 
 # Report back on Creative Commons Sensor licensing workshop
 
-by [liz](../../../profile/liz) | October 22, 2014 16:37
+by [liz](/profile/liz) | October 22, 2014 16:37
 
-October 22, 2014 16:37 | Tags: [new-york-city](../tag/new-york-city), [open-source](../tag/open-source), [licensing](../tag/licensing), [event](../tag/event), [sensors](../tag/sensors), [licenses](../tag/licenses), [creativecommons](../tag/creativecommons), [sensor-networks](../tag/sensor-networks)
+October 22, 2014 16:37 | Tags: [new-york-city](/tag/new-york-city), [open-source](/tag/open-source), [licensing](/tag/licensing), [event](/tag/event), [sensors](/tag/sensors), [licenses](/tag/licenses), [creativecommons](/tag/creativecommons), [sensor-networks](/tag/sensor-networks)
 
 ----
 

@@ -6,18 +6,16 @@ author: mercyorangi
 path: /notes/mercyorangi/05-30-2014/update-1-on-sky-cam-enhancement-gsoc-2014.md
 nid: 10519
 uid: 421649
-
 cids: 9106,9107,9108,9109,9122,9123,9204,9224,9225
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/489/original/gsoc1.jpg)
 
 # Update 1 on Sky Cam Enhancement - GSoC 2014
 
-by [mercyorangi](../../../profile/mercyorangi) | May 30, 2014 20:35
+by [mercyorangi](/profile/mercyorangi) | May 30, 2014 20:35
 
-May 30, 2014 20:35 | Tags: [plots](../tag/plots), [gsoc](../tag/gsoc), [skycam](../tag/skycam), [gsoc-2014](../tag/gsoc-2014)
+May 30, 2014 20:35 | Tags: [plots](/tag/plots), [gsoc](/tag/gsoc), [skycam](/tag/skycam), [gsoc-2014](/tag/gsoc-2014)
 
 ----
 

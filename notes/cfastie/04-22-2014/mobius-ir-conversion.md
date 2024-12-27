@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/04-22-2014/mobius-ir-conversion.md
 nid: 10342
 uid: 554
-
 cids: 8851,8876,8978,9647,9651,9667,9688,9765,9766,9767,9779,9790,9792,9815,10906,11573,14091,14123,14124,14126,14128
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/790/original/MobTest-399-28.jpg)
 
 # Mobius IR conversion
 
-by [cfastie](../../../profile/cfastie) | April 22, 2014 18:02
+by [cfastie](/profile/cfastie) | April 22, 2014 18:02
 
-April 22, 2014 18:02 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [infragram-sandbox](../tag/infragram-sandbox), [mobius-actioncam](../tag/mobius-actioncam), [infrared-conversion](../tag/infrared-conversion), [response:10327](../tag/response:10327), [mobius](../tag/mobius), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:infragram](../tag/activity:infragram), [activity:infrared](../tag/activity:infrared), [activity:ndvi](../tag/activity:ndvi), [activity:mobius](../tag/activity:mobius), [activity:mobius-action-cam](../tag/activity:mobius-action-cam), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion), [activity:infragram-point-shoot](../tag/activity:infragram-point-shoot)
+April 22, 2014 18:02 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [infrared](/tag/infrared), [infragram](/tag/infragram), [infragram-sandbox](/tag/infragram-sandbox), [mobius-actioncam](/tag/mobius-actioncam), [infrared-conversion](/tag/infrared-conversion), [response:10327](/tag/response:10327), [mobius](/tag/mobius), [activity:multispectral-imaging](/tag/activity:multispectral-imaging), [activity:infragram](/tag/activity:infragram), [activity:infrared](/tag/activity:infrared), [activity:ndvi](/tag/activity:ndvi), [activity:mobius](/tag/activity:mobius), [activity:mobius-action-cam](/tag/activity:mobius-action-cam), [activity:infrared-camera-conversion](/tag/activity:infrared-camera-conversion), [activity:infragram-point-shoot](/tag/activity:infragram-point-shoot)
 
 ----
 

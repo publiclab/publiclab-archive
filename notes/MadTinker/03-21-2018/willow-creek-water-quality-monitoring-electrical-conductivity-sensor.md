@@ -6,18 +6,16 @@ author: MadTinker
 path: /notes/MadTinker/03-21-2018/willow-creek-water-quality-monitoring-electrical-conductivity-sensor.md
 nid: 15996
 uid: 461206
-
 cids: 19666,19988,20112,20482
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/122/original/IMG_8394.jpg)
 
 # Willow Creek Water Quality Monitoring (EC and TDS)
 
-by [MadTinker](../../../profile/MadTinker) | March 21, 2018 22:57
+by [MadTinker](/profile/MadTinker) | March 21, 2018 22:57
 
-March 21, 2018 22:57 | Tags: [water-quality](../tag/water-quality), [water-quality-sensor](../tag/water-quality-sensor), [activity:turbidity](../tag/activity:turbidity), [activity:data-logging](../tag/activity:data-logging), [mini-pearl-logger](../tag/mini-pearl-logger), [activity:mini-pearl-logger](../tag/activity:mini-pearl-logger), [tds](../tag/tds), [activity:conductivity](../tag/activity:conductivity), [response:14702](../tag/response:14702), [reclamation](../tag/reclamation)
+March 21, 2018 22:57 | Tags: [water-quality](/tag/water-quality), [water-quality-sensor](/tag/water-quality-sensor), [activity:turbidity](/tag/activity:turbidity), [activity:data-logging](/tag/activity:data-logging), [mini-pearl-logger](/tag/mini-pearl-logger), [activity:mini-pearl-logger](/tag/activity:mini-pearl-logger), [tds](/tag/tds), [activity:conductivity](/tag/activity:conductivity), [response:14702](/tag/response:14702), [reclamation](/tag/reclamation)
 
 ----
 

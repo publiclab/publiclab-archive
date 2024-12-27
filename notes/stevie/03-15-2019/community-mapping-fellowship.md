@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/03-15-2019/community-mapping-fellowship.md
 nid: 18560
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/090/original/20141213_125947.jpg)
 
 # Community Mapping Fellowship
 
-by [stevie](../../../profile/stevie) | March 15, 2019 16:18
+by [stevie](/profile/stevie) | March 15, 2019 16:18
 
-March 15, 2019 16:18 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapping](../tag/mapping), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [job](../tag/job), [map](../tag/map)
+March 15, 2019 16:18 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [mapping](/tag/mapping), [fellows](/tag/fellows), [fellowship](/tag/fellowship), [job](/tag/job), [map](/tag/map)
 
 ----
 

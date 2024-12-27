@@ -6,12 +6,12 @@ author: asoamarachi
 path: /wiki/name-your-template-here.md
 nid: 23852
 uid: 671968
-
+cids: 
 ---
 
 # Name your template here
 
-by [asoamarachi](../profile/asoamarachi)
+by [asoamarachi](/profile/asoamarachi)
 
 June 15, 2020 11:23 | Tags: 
 
@@ -47,4 +47,4 @@ or use https://ezgif.com/video-to-gif to convert an already made video to GIF.
 
 ##### Tag:
 
-[editor-bug](../../tag/question:editor-bug)
+[editor-bug](/tag/question:editor-bug)

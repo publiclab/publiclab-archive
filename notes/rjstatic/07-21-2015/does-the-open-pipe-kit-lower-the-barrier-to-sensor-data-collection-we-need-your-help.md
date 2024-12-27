@@ -6,18 +6,16 @@ author: rjstatic
 path: /07-21-2015/does-the-open-pipe-kit-lower-the-barrier-to-sensor-data-collection-we-need-your-help.md
 nid: 12084
 uid: 174
-
 cids: 12723,17812
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/745/original/opk-steps.jpg)
 
 # Does the Open Pipe Kit lower the barrier to sensor data collection? We need your help.
 
-by [rjstatic](../../../profile/rjstatic) | July 21, 2015 06:13
+by [rjstatic](/profile/rjstatic) | July 21, 2015 06:13
 
-July 21, 2015 06:13 | Tags: [kit](../tag/kit), [blog](../tag/blog), [monitoring](../tag/monitoring), [environmental](../tag/environmental), [open-pipe-kit](../tag/open-pipe-kit), [opk](../tag/opk), [open](../tag/open), [pipe](../tag/pipe)
+July 21, 2015 06:13 | Tags: [kit](/tag/kit), [blog](/tag/blog), [monitoring](/tag/monitoring), [environmental](/tag/environmental), [open-pipe-kit](/tag/open-pipe-kit), [opk](/tag/opk), [open](/tag/open), [pipe](/tag/pipe)
 
 ----
 

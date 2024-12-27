@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/08-26-2014/new-ndvi-colormap.md
 nid: 11078
 uid: 554
-
 cids: 10120,10122,10123,10126,10131,10137,10138,10148,10150,10151,10188,10192,10194,10197,10422,10487,10501,10736,10737,10738,10739,10740,10770,13333,13335,13336,21486,21746,21775
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/431/original/ShelburneVGYRN.jpg)
 
 # New NDVI colormap
 
-by [cfastie](../../../profile/cfastie) | August 26, 2014 16:23
+by [cfastie](/profile/cfastie) | August 26, 2014 16:23
 
-August 26, 2014 16:23 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [imagej](../tag/imagej), [super-red](../tag/super-red), [response:4720](../tag/response:4720)
+August 26, 2014 16:23 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [ndvi](/tag/ndvi), [imagej](/tag/imagej), [super-red](/tag/super-red), [response:4720](/tag/response:4720)
 
 ----
 

@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/01-02-2018/economist-article-do-it-yourself-science-is-taking-off.md
 nid: 15454
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/074/original/20171223_dip300.jpg)
 
 # Economist Article: "Do-it-yourself science is taking off"
 
-by [stevie](../../../profile/stevie) | January 02, 2018 19:58
+by [stevie](/profile/stevie) | January 02, 2018 19:58
 
-January 02, 2018 19:58 | Tags: [news](../tag/news), [blog](../tag/blog), [press](../tag/press), [feature](../tag/feature), [economist](../tag/economist)
+January 02, 2018 19:58 | Tags: [news](/tag/news), [blog](/tag/blog), [press](/tag/press), [feature](/tag/feature), [economist](/tag/economist)
 
 ----
 

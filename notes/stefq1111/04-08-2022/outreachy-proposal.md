@@ -6,18 +6,16 @@ author: stefq1111
 path: /notes/stefq1111/04-08-2022/outreachy-proposal.md
 nid: 30319
 uid: 792049
-
 cids: 30055,30115,30767
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/503/original/road-ge0e654c9b_1920.jpg)
 
 # Outreachy proposal: Design a new full-screen user interface for Infragram.org
 
-by [stefq1111](../../../profile/stefq1111) | April 08, 2022 23:43
+by [stefq1111](/profile/stefq1111) | April 08, 2022 23:43
 
-April 08, 2022 23:43 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
+April 08, 2022 23:43 | Tags: [software](/tag/software), [outreachy](/tag/outreachy), [first-time-poster](/tag/first-time-poster), [outreachy-2022](/tag/outreachy-2022), [outreachy-summer-2022](/tag/outreachy-summer-2022)
 
 ----
 

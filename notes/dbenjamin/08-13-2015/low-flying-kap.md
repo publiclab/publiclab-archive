@@ -6,18 +6,16 @@ author: dbenjamin
 path: /notes/dbenjamin/08-13-2015/low-flying-kap.md
 nid: 12141
 uid: 444468
-
 cids: 12381,12385,12386
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/105/original/IMG_1771.JPG)
 
 # Low-Flying KAP
 
-by [dbenjamin](../../../profile/dbenjamin) | August 13, 2015 17:41
+by [dbenjamin](/profile/dbenjamin) | August 13, 2015 17:41
 
-August 13, 2015 17:41 | Tags: [kap](../tag/kap), [kap-rigs](../tag/kap-rigs), [opendronemap](../tag/opendronemap), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield)
+August 13, 2015 17:41 | Tags: [kap](/tag/kap), [kap-rigs](/tag/kap-rigs), [opendronemap](/tag/opendronemap), [saturnv](/tag/saturnv), [skyshield](/tag/skyshield)
 
 ----
 

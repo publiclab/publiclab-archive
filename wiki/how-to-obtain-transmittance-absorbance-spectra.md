@@ -6,16 +6,16 @@ author: dhaffnersr
 path: /wiki/how-to-obtain-transmittance-absorbance-spectra.md
 nid: 13291
 uid: 461120
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/068/original/ALL_3_together_july_14_last_pic.png)
 
 # How To Obtain Transmittance/ Absorbance Spectra
 
-by [dhaffnersr](../profile/dhaffnersr)
+by [dhaffnersr](/profile/dhaffnersr)
 
-July 15, 2016 19:16 | Tags: [gam](../tag/gam)
+July 15, 2016 19:16 | Tags: [gam](/tag/gam)
 
 ----
 

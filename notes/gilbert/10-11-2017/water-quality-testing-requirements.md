@@ -6,16 +6,14 @@ author: gilbert
 path: /notes/gilbert/10-11-2017/water-quality-testing-requirements.md
 nid: 15033
 uid: 508551
-
 cids: 22674
-
 ---
 
 # Water Quality Testing Requirements
 
-by [gilbert](../../../profile/gilbert) | October 11, 2017 21:05
+by [gilbert](/profile/gilbert) | October 11, 2017 21:05
 
-October 11, 2017 21:05 | Tags: [water-quality-monitoring](../tag/water-quality-monitoring), [answered](../tag/answered), [question:general](../tag/question:general), [water-quality-testing](../tag/water-quality-testing)
+October 11, 2017 21:05 | Tags: [water-quality-monitoring](/tag/water-quality-monitoring), [answered](/tag/answered), [question:general](/tag/question:general), [water-quality-testing](/tag/water-quality-testing)
 
 ----
 

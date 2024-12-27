@@ -6,18 +6,16 @@ author: zengirl2
 path: /notes/Zengirl2/09-11-2017/how-mit-is-using-social-media-to-map-hurricane-flooding.md
 nid: 14874
 uid: 423961
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/606/original/MITFLOOD.jpg)
 
 # How MIT Is Using Social Media to Map Hurricane Flooding
 
-by [zengirl2](../../../profile/zengirl2) | September 11, 2017 20:12
+by [zengirl2](/profile/zengirl2) | September 11, 2017 20:12
 
-September 11, 2017 20:12 | Tags: [mapping](../tag/mapping), [water-quality](../tag/water-quality), [water](../tag/water), [hurricane](../tag/hurricane), [stormwater](../tag/stormwater), [flooding](../tag/flooding), [irma](../tag/irma), [emergency](../tag/emergency), [crowd-source](../tag/crowd-source)
+September 11, 2017 20:12 | Tags: [mapping](/tag/mapping), [water-quality](/tag/water-quality), [water](/tag/water), [hurricane](/tag/hurricane), [stormwater](/tag/stormwater), [flooding](/tag/flooding), [irma](/tag/irma), [emergency](/tag/emergency), [crowd-source](/tag/crowd-source)
 
 ----
 

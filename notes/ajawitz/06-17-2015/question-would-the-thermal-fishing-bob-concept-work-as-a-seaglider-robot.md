@@ -6,18 +6,16 @@ author: ajawitz
 path: /notes/ajawitz/06-17-2015/question-would-the-thermal-fishing-bob-concept-work-as-a-seaglider-robot.md
 nid: 11984
 uid: 294634
-
 cids: 11971,11972,11973,11974,11975,11976,11977,11993,11994,12047,12055,12152
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/354/original/Seaglide.jpg)
 
 # Question: Would the Thermal Fishing Bob concept work as a SeaGlider robot?
 
-by [ajawitz](../../../profile/ajawitz) | June 17, 2015 01:25
+by [ajawitz](/profile/ajawitz) | June 17, 2015 01:25
 
-June 17, 2015 01:25 | Tags: [thermal-fishing-bob](../tag/thermal-fishing-bob), [thermal](../tag/thermal), [robot](../tag/robot), [heat](../tag/heat), [question:thermal-photography](../tag/question:thermal-photography), [question:thermal-fishing-bob](../tag/question:thermal-fishing-bob), [seaglider](../tag/seaglider)
+June 17, 2015 01:25 | Tags: [thermal-fishing-bob](/tag/thermal-fishing-bob), [thermal](/tag/thermal), [robot](/tag/robot), [heat](/tag/heat), [question:thermal-photography](/tag/question:thermal-photography), [question:thermal-fishing-bob](/tag/question:thermal-fishing-bob), [seaglider](/tag/seaglider)
 
 ----
 

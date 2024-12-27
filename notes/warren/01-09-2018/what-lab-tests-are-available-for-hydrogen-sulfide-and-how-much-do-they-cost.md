@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/01-09-2018/what-lab-tests-are-available-for-hydrogen-sulfide-and-how-much-do-they-cost.md
 nid: 15485
 uid: 1
-
 cids: 18145,18152,22831,22833
-
 ---
 
 # What lab tests are available for hydrogen sulfide, and how much do they cost?
 
-by [warren](../../../profile/warren) | January 09, 2018 02:27
+by [warren](/profile/warren) | January 09, 2018 02:27
 
-January 09, 2018 02:27 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [lab](../tag/lab), [answered](../tag/answered), [question:hydrogen-sulfide](../tag/question:hydrogen-sulfide), [lab-testing](../tag/lab-testing), [lab-tests](../tag/lab-tests)
+January 09, 2018 02:27 | Tags: [hydrogen-sulfide](/tag/hydrogen-sulfide), [lab](/tag/lab), [answered](/tag/answered), [question:hydrogen-sulfide](/tag/question:hydrogen-sulfide), [lab-testing](/tag/lab-testing), [lab-tests](/tag/lab-tests)
 
 ----
 

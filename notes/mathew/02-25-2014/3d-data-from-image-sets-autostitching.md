@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/02-25-2014/3d-data-from-image-sets-autostitching.md
 nid: 10063
 uid: 4
-
 cids: 8336,8340,8345,8348,12895,15824
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/017/original/PP_Tut_2.jpg)
 
 # 3D data from image sets & Autostitching
 
-by [mathew](../../../profile/mathew) | February 25, 2014 02:57
+by [mathew](/profile/mathew) | February 25, 2014 02:57
 
-February 25, 2014 02:57 | Tags: [3d](../tag/3d), [mapknitter](../tag/mapknitter), [sfm](../tag/sfm), [structure-from-motion](../tag/structure-from-motion)
+February 25, 2014 02:57 | Tags: [3d](/tag/3d), [mapknitter](/tag/mapknitter), [sfm](/tag/sfm), [structure-from-motion](/tag/structure-from-motion)
 
 ----
 

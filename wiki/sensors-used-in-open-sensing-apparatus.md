@@ -6,12 +6,12 @@ author: briandegger
 path: /wiki/sensors-used-in-open-sensing-apparatus.md
 nid: 10053
 uid: 58232
-
+cids: 
 ---
 
 # Sensors used in open sensing apparatus.
 
-by [briandegger](../profile/briandegger)
+by [briandegger](/profile/briandegger)
 
 February 21, 2014 15:06 | Tags: 
 

@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/11-17-2013/pine-hill.md
 nid: 9792
 uid: 554
-
 cids: 7632,7834,7836,7837
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/250/original/PineHill-276-40.jpg)
 
 # Pine Hill
 
-by [cfastie](../../../profile/cfastie) | November 17, 2013 02:01
+by [cfastie](/profile/cfastie) | November 17, 2013 02:01
 
-November 17, 2013 02:01 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [vermont](../tag/vermont), [infrared](../tag/infrared), [conversion](../tag/conversion), [filter](../tag/filter), [infragram](../tag/infragram), [list:plots-infrared](../tag/list:plots-infrared), [infrablue](../tag/infrablue), [bg3](../tag/bg3), [wratten25a](../tag/wratten25a), [scattering](../tag/scattering), [nbn](../tag/nbn), [nnr](../tag/nnr), [super-red](../tag/super-red), [response:9769](../tag/response:9769), [gigapan](../tag/gigapan)
+November 17, 2013 02:01 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [nrg](/tag/nrg), [vermont](/tag/vermont), [infrared](/tag/infrared), [conversion](/tag/conversion), [filter](/tag/filter), [infragram](/tag/infragram), [list:plots-infrared](/tag/list:plots-infrared), [infrablue](/tag/infrablue), [bg3](/tag/bg3), [wratten25a](/tag/wratten25a), [scattering](/tag/scattering), [nbn](/tag/nbn), [nnr](/tag/nnr), [super-red](/tag/super-red), [response:9769](/tag/response:9769), [gigapan](/tag/gigapan)
 
 ----
 

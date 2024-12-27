@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/09-09-2013/more-camera-testing.md
 nid: 9305
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/459/original/LeaffestD40-223-46.jpg)
 
 # More camera testing
 
-by [cfastie](../../../profile/cfastie) | September 09, 2013 15:07
+by [cfastie](/profile/cfastie) | September 09, 2013 15:07
 
-September 09, 2013 15:07 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [leaffest](../tag/leaffest), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [infragram-conversion](../tag/infragram-conversion), [leaffest2013](../tag/leaffest2013), [response:9302](../tag/response:9302)
+September 09, 2013 15:07 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [vermont](/tag/vermont), [leaffest](/tag/leaffest), [infragram](/tag/infragram), [infrablue](/tag/infrablue), [infragram-conversion](/tag/infragram-conversion), [leaffest2013](/tag/leaffest2013), [response:9302](/tag/response:9302)
 
 ----
 

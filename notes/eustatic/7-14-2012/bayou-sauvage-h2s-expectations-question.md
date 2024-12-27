@@ -6,18 +6,16 @@ author: eustatic
 path: /7-14-2012/bayou-sauvage-h2s-expectations-question.md
 nid: 2809
 uid: 379
-
 cids: 1027
-
 ---
 
 ![](https://publiclab.org/sites/default/files/h2s hypothesis hole.JPG)
 
 # Bayou Sauvage H2S expectations, question 
 
-by [eustatic](../../../profile/eustatic) | July 14, 2012 20:33
+by [eustatic](/profile/eustatic) | July 14, 2012 20:33
 
-July 14, 2012 20:33 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing)
+July 14, 2012 20:33 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing)
 
 ----
 

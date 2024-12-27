@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/9-1-2012/plots-ars-electronica-accountability-tech-symposium.md
 nid: 3602
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/account.png)
 
 # PLOTS at Ars Electronica "Accountability Tech" symposium
 
-by [warren](../../../profile/warren) | September 01, 2012 07:34
+by [warren](/profile/warren) | September 01, 2012 07:34
 
-September 01, 2012 07:34 | Tags: [presentations](../tag/presentations), [presentation](../tag/presentation)
+September 01, 2012 07:34 | Tags: [presentations](/tag/presentations), [presentation](/tag/presentation)
 
 ----
 

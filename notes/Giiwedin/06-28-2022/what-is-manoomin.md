@@ -6,18 +6,16 @@ author: Giiwedin
 path: /notes/Giiwedin/06-28-2022/what-is-manoomin.md
 nid: 31164
 uid: 799642
-
 cids: 30282,30285
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/820/original/F7088200-2E3B-4D6F-BDB1-5246DE41DC57.jpeg)
 
 # What is Manoomin?
 
-by [Giiwedin](../../../profile/Giiwedin) | June 28, 2022 21:28
+by [Giiwedin](/profile/Giiwedin) | June 28, 2022 21:28
 
-June 28, 2022 21:28 | Tags: [lake](../tag/lake), [wetland](../tag/wetland), [water](../tag/water), [river](../tag/river), [lon:-90](../tag/lon:-90), [lat:40](../tag/lat:40), [zoom:5](../tag/zoom:5), [wild-rice](../tag/wild-rice), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [great-lakes-region](../tag/great-lakes-region), [manoomin](../tag/manoomin), [minneosta](../tag/minneosta)
+June 28, 2022 21:28 | Tags: [lake](/tag/lake), [wetland](/tag/wetland), [water](/tag/water), [river](/tag/river), [lon:-90](/tag/lon:-90), [lat:40](/tag/lat:40), [zoom:5](/tag/zoom:5), [wild-rice](/tag/wild-rice), [mn-land-manoomin-protection](/tag/mn-land-manoomin-protection), [great-lakes-region](/tag/great-lakes-region), [manoomin](/tag/manoomin), [minneosta](/tag/minneosta)
 
 ----
 

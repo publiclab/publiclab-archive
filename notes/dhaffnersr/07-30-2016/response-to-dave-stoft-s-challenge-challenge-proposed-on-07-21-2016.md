@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/07-30-2016/response-to-dave-stoft-s-challenge-challenge-proposed-on-07-21-2016.md
 nid: 13315
 uid: 461120
-
 cids: 15053,15054
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/261/original/17mg_crude_oil_july28.png)
 
 # Response to: Dave stoft's challenge (challenge proposed on 07/21/2016)
 
-by [dhaffnersr](../../../profile/dhaffnersr) | July 30, 2016 15:20
+by [dhaffnersr](/profile/dhaffnersr) | July 30, 2016 15:20
 
 July 30, 2016 15:20 | Tags: 
 

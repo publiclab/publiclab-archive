@@ -6,14 +6,14 @@ author: warren
 path: /wiki/privacy-tools.md
 nid: 17405
 uid: 1
-
+cids: 
 ---
 
 # Privacy Tools
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-October 26, 2018 16:20 | Tags: [security](../tag/security), [privacy](../tag/privacy), [anonymity](../tag/anonymity), [parent:privacy](../tag/parent:privacy), [redirect:17805](../tag/redirect:17805)
+October 26, 2018 16:20 | Tags: [security](/tag/security), [privacy](/tag/privacy), [anonymity](/tag/anonymity), [parent:privacy](/tag/parent:privacy), [redirect:17805](/tag/redirect:17805)
 
 ----
 

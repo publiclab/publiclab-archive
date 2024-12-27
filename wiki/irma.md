@@ -6,16 +6,16 @@ author: liz
 path: /wiki/irma.md
 nid: 14838
 uid: 7
-
+cids: 17456
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/579/original/Screen_Shot_2017-09-07_at_10.04.19_AM.png)
 
 # Irma
 
-by [liz](../profile/liz), [stevie](../profile/stevie), [warren](../profile/warren)
+by [liz](/profile/liz), [stevie](/profile/stevie), [warren](/profile/warren)
 
-September 07, 2017 14:08 | Tags: [disaster-response](../tag/disaster-response), [hurricanes](../tag/hurricanes), [irma](../tag/irma)
+September 07, 2017 14:08 | Tags: [disaster-response](/tag/disaster-response), [hurricanes](/tag/hurricanes), [irma](/tag/irma)
 
 ----
 
@@ -49,7 +49,7 @@ Please add your name and/or comments there, even if you can't join, and we'll do
 
 Notes from these calls will be listed here:
 
-[irma-calls](../../tag/irma-calls)
+[irma-calls](/tag/irma-calls)
 
 ### Help organize this page
 
@@ -59,7 +59,7 @@ Help organize this content! We're drafting new content/revisions for this page o
 
 Please post questions (requests and/or asking if your offer of capacity is needed) relevant to Harvey here:
 
-[irma](../../tag/irma)
+[irma](/tag/irma)
 
 ## Groups
 

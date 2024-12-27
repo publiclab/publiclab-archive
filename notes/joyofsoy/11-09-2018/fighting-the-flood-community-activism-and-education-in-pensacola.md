@@ -6,18 +6,16 @@ author: joyofsoy
 path: /notes/joyofsoy/11-09-2018/fighting-the-flood-community-activism-and-education-in-pensacola.md
 nid: 17500
 uid: 540844
-
 cids: 21188,21407,21576,22224
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/571/original/20170613_100248_%281%29.jpg)
 
 # Fighting the Flood: Community Activism and Education in Pensacola
 
-by [joyofsoy](../../../profile/joyofsoy) | November 09, 2018 18:51
+by [joyofsoy](/profile/joyofsoy) | November 09, 2018 18:51
 
-November 09, 2018 18:51 | Tags: [gulf-coast](../tag/gulf-coast), [blog](../tag/blog), [stormwater](../tag/stormwater), [with:stevie](../tag/with:stevie), [florida](../tag/florida), [flooding](../tag/flooding), [activism](../tag/activism), [pensacola-stormwater](../tag/pensacola-stormwater), [pensacola](../tag/pensacola), [naacp](../tag/naacp), [csf15](../tag/csf15)
+November 09, 2018 18:51 | Tags: [gulf-coast](/tag/gulf-coast), [blog](/tag/blog), [stormwater](/tag/stormwater), [with:stevie](/tag/with:stevie), [florida](/tag/florida), [flooding](/tag/flooding), [activism](/tag/activism), [pensacola-stormwater](/tag/pensacola-stormwater), [pensacola](/tag/pensacola), [naacp](/tag/naacp), [csf15](/tag/csf15)
 
 ----
 

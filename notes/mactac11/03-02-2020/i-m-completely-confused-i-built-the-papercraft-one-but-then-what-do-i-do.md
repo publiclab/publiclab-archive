@@ -6,16 +6,14 @@ author: mactac11
 path: /notes/mactac11/03-02-2020/i-m-completely-confused-i-built-the-papercraft-one-but-then-what-do-i-do.md
 nid: 22979
 uid: 670601
-
 cids: 26412,26622,26688
-
 ---
 
 # I'm completely confused.  I built the papercraft one, but then what do I do?
 
-by [mactac11](../../../profile/mactac11) | March 02, 2020 22:22
+by [mactac11](/profile/mactac11) | March 02, 2020 22:22
 
-March 02, 2020 22:22 | Tags: [foldable-spec](../tag/foldable-spec), [question:foldable-spec](../tag/question:foldable-spec), [first-time-poster](../tag/first-time-poster)
+March 02, 2020 22:22 | Tags: [foldable-spec](/tag/foldable-spec), [question:foldable-spec](/tag/question:foldable-spec), [first-time-poster](/tag/first-time-poster)
 
 ----
 

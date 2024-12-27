@@ -6,16 +6,16 @@ author: mollydanielsson
 path: /wiki/glam-vegetation-mapping-gowanus-low-altitude-mappers-focus-on-biodiversity.md
 nid: 11583
 uid: 1259
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/977/original/8996478973_a5c9969c4d_o.jpg)
 
 # GLAM Vegetation Mapping: Gowanus Low Altitude Mappers focus on biodiversity
 
-by [mollydanielsson](../profile/mollydanielsson)
+by [mollydanielsson](/profile/mollydanielsson)
 
-February 14, 2015 01:03 | Tags: [gowanus-canal](../tag/gowanus-canal), [gowanus-canal-superfund-site](../tag/gowanus-canal-superfund-site), [gowanus-dredgers-canoe-club](../tag/gowanus-dredgers-canoe-club), [grassrootsmappingforum](../tag/grassrootsmappingforum), [glam](../tag/glam), [style:fancy](../tag/style:fancy), [gmf-4](../tag/gmf-4)
+February 14, 2015 01:03 | Tags: [gowanus-canal](/tag/gowanus-canal), [gowanus-canal-superfund-site](/tag/gowanus-canal-superfund-site), [gowanus-dredgers-canoe-club](/tag/gowanus-dredgers-canoe-club), [grassrootsmappingforum](/tag/grassrootsmappingforum), [glam](/tag/glam), [style:fancy](/tag/style:fancy), [gmf-4](/tag/gmf-4)
 
 ----
 

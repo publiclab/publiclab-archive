@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/2-6-2012/air-testing-hamster-ball-progress.md
 nid: 757
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/6831657511_d6af55523f_b.jpg)
 
 # Air-testing hamster ball progress
 
-by [warren](../../../profile/warren) | February 06, 2012 20:45
+by [warren](/profile/warren) | February 06, 2012 20:45
 
-February 06, 2012 20:45 | Tags: [hamster-ball](../tag/hamster-ball), [air-quality](../tag/air-quality), [openlux](../tag/openlux), [roomba](../tag/roomba), [hamster](../tag/hamster), [lego](../tag/lego), [response:710](../tag/response:710), [air-sensors](../tag/air-sensors)
+February 06, 2012 20:45 | Tags: [hamster-ball](/tag/hamster-ball), [air-quality](/tag/air-quality), [openlux](/tag/openlux), [roomba](/tag/roomba), [hamster](/tag/hamster), [lego](/tag/lego), [response:710](/tag/response:710), [air-sensors](/tag/air-sensors)
 
 ----
 

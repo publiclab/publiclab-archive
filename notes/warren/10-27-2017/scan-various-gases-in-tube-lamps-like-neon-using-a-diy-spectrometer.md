@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/10-27-2017/scan-various-gases-in-tube-lamps-like-neon-using-a-diy-spectrometer.md
 nid: 15121
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/121/original/Edelgase_in_Entladungsroehren.jpg)
 
 # Scan and compare different gases (in discharge tubes, like neon) using a DIY spectrometer
 
-by [warren](../../../profile/warren) | October 27, 2017 18:13
+by [warren](/profile/warren) | October 27, 2017 18:13
 
-October 27, 2017 18:13 | Tags: [spectrometer](../tag/spectrometer), [education](../tag/education), [spectrometry](../tag/spectrometry), [neon](../tag/neon), [classroom](../tag/classroom), [helium](../tag/helium), [gas](../tag/gas), [co2](../tag/co2), [activity:spectrometry](../tag/activity:spectrometry), [activity:foldable-spec](../tag/activity:foldable-spec), [activity:education](../tag/activity:education), [foldable-spec](../tag/foldable-spec), [activity:science-fair](../tag/activity:science-fair), [science-fair](../tag/science-fair), [gases](../tag/gases), [curricula](../tag/curricula), [science-class](../tag/science-class), [activity:classroom](../tag/activity:classroom), [activity:papercraft-spec](../tag/activity:papercraft-spec)
+October 27, 2017 18:13 | Tags: [spectrometer](/tag/spectrometer), [education](/tag/education), [spectrometry](/tag/spectrometry), [neon](/tag/neon), [classroom](/tag/classroom), [helium](/tag/helium), [gas](/tag/gas), [co2](/tag/co2), [activity:spectrometry](/tag/activity:spectrometry), [activity:foldable-spec](/tag/activity:foldable-spec), [activity:education](/tag/activity:education), [foldable-spec](/tag/foldable-spec), [activity:science-fair](/tag/activity:science-fair), [science-fair](/tag/science-fair), [gases](/tag/gases), [curricula](/tag/curricula), [science-class](/tag/science-class), [activity:classroom](/tag/activity:classroom), [activity:papercraft-spec](/tag/activity:papercraft-spec)
 
 ----
 

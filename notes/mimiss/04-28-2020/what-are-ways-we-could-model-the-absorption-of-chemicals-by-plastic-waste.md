@@ -6,16 +6,14 @@ author: mimiss
 path: /notes/mimiss/04-28-2020/what-are-ways-we-could-model-the-absorption-of-chemicals-by-plastic-waste.md
 nid: 23499
 uid: 579821
-
 cids: 26722
-
 ---
 
 # What are ways we could model the absorption of chemicals by plastic waste?
 
-by [mimiss](../../../profile/mimiss) | April 28, 2020 13:19
+by [mimiss](/profile/mimiss) | April 28, 2020 13:19
 
-April 28, 2020 13:19 | Tags: [water](../tag/water), [question:plastic](../tag/question:plastic), [question:general](../tag/question:general), [general](../tag/general), [question:microplastics](../tag/question:microplastics), [microplastics](../tag/microplastics), [plastic](../tag/plastic), [modeling](../tag/modeling), [pollutants](../tag/pollutants), [question:pollutants](../tag/question:pollutants), [marine-debris](../tag/marine-debris), [question:marine-debris](../tag/question:marine-debris), [question:modeling](../tag/question:modeling)
+April 28, 2020 13:19 | Tags: [water](/tag/water), [question:plastic](/tag/question:plastic), [question:general](/tag/question:general), [general](/tag/general), [question:microplastics](/tag/question:microplastics), [microplastics](/tag/microplastics), [plastic](/tag/plastic), [modeling](/tag/modeling), [pollutants](/tag/pollutants), [question:pollutants](/tag/question:pollutants), [marine-debris](/tag/marine-debris), [question:marine-debris](/tag/question:marine-debris), [question:modeling](/tag/question:modeling)
 
 ----
 

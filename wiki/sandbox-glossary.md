@@ -6,12 +6,12 @@ author: bhamster
 path: /wiki/sandbox-glossary.md
 nid: 30633
 uid: 664477
-
+cids: 
 ---
 
 # sandbox-glossary
 
-by [bhamster](../profile/bhamster)
+by [bhamster](/profile/bhamster)
 
 April 27, 2022 21:08 | Tags: 
 

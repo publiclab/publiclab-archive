@@ -6,18 +6,16 @@ author: pixellibre
 path: /notes/pixellibre/08-11-2019/territories-borders.md
 nid: 20502
 uid: 590548
-
 cids: 25250
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/474/original/FrontiersTerritories_JoanaResende%281%29.jpg)
 
 # Territories || Borders
 
-by [pixellibre](../../../profile/pixellibre) | August 11, 2019 10:23
+by [pixellibre](/profile/pixellibre) | August 11, 2019 10:23
 
-August 11, 2019 10:23 | Tags: [aerial-photography](../tag/aerial-photography), [eu](../tag/eu), [lat:38](../tag/lat:38), [aerialphotography](../tag/aerialphotography), [portugal](../tag/portugal), [first-time-poster](../tag/first-time-poster), [territories](../tag/territories), [artivism](../tag/artivism), [lon:-9](../tag/lon:-9), [lat:39.399871](../tag/lat:39.399871), [lon:-8.224454](../tag/lon:-8.224454), [lisbon](../tag/lisbon)
+August 11, 2019 10:23 | Tags: [aerial-photography](/tag/aerial-photography), [eu](/tag/eu), [lat:38](/tag/lat:38), [aerialphotography](/tag/aerialphotography), [portugal](/tag/portugal), [first-time-poster](/tag/first-time-poster), [territories](/tag/territories), [artivism](/tag/artivism), [lon:-9](/tag/lon:-9), [lat:39.399871](/tag/lat:39.399871), [lon:-8.224454](/tag/lon:-8.224454), [lisbon](/tag/lisbon)
 
 ----
 

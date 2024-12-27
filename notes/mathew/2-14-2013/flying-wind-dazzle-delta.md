@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/2-14-2013/flying-wind-dazzle-delta.md
 nid: 5983
 uid: 4
-
 cids: 3428
-
 ---
 
 ![](https://publiclab.org/sites/default/files/off-windoverlay.jpg)
 
 # Flying off wind with the Dazzle Delta
 
-by [mathew](../../../profile/mathew) | February 14, 2013 19:43
+by [mathew](/profile/mathew) | February 14, 2013 19:43
 
-February 14, 2013 19:43 | Tags: [portland](../tag/portland), [kite-mapping](../tag/kite-mapping), [kite-fishing](../tag/kite-fishing), [kites](../tag/kites), [kite-techniques](../tag/kite-techniques), [off-wind-flying](../tag/off-wind-flying)
+February 14, 2013 19:43 | Tags: [portland](/tag/portland), [kite-mapping](/tag/kite-mapping), [kite-fishing](/tag/kite-fishing), [kites](/tag/kites), [kite-techniques](/tag/kite-techniques), [off-wind-flying](/tag/off-wind-flying)
 
 ----
 

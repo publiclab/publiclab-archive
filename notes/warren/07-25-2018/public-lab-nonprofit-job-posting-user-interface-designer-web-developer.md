@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/07-25-2018/public-lab-nonprofit-job-posting-user-interface-designer-web-developer.md
 nid: 16775
 uid: 1
-
 cids: 20533
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/858/original/pl-narrow.png)
 
 # Public Lab nonprofit job posting: User interface designer/web developer
 
-by [warren](../../../profile/warren) | July 23, 2018 21:57
+by [warren](/profile/warren) | July 23, 2018 21:57
 
-July 23, 2018 21:57 | Tags: [design](../tag/design), [nonprofit](../tag/nonprofit), [jobs](../tag/jobs), [with:stevie](../tag/with:stevie), [with:liz](../tag/with:liz), [ui](../tag/ui), [job](../tag/job)
+July 23, 2018 21:57 | Tags: [design](/tag/design), [nonprofit](/tag/nonprofit), [jobs](/tag/jobs), [with:stevie](/tag/with:stevie), [with:liz](/tag/with:liz), [ui](/tag/ui), [job](/tag/job)
 
 ----
 

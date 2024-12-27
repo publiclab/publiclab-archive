@@ -6,18 +6,16 @@ author: hspencer22
 path: /notes/hspencer22/03-08-2022/how-do-we-address-forever-chemicals-in-municipal-water.md
 nid: 30106
 uid: 791068
-
 cids: 29759,29760,29810,29842,30150
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/467/original/20200201_111439.jpg)
 
 # How do we address forever chemicals in municipal water?
 
-by [hspencer22](../../../profile/hspencer22) | March 08, 2022 18:34
+by [hspencer22](/profile/hspencer22) | March 08, 2022 18:34
 
-March 08, 2022 18:34 | Tags: [west-virginia](../tag/west-virginia), [epa](../tag/epa), [water-quality](../tag/water-quality), [southeast](../tag/southeast), [issue-brief](../tag/issue-brief), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:39.602853](../tag/lat:39.602853), [lon:-80.93677](../tag/lon:-80.93677), [tetrachloroethylene](../tag/tetrachloroethylene)
+March 08, 2022 18:34 | Tags: [west-virginia](/tag/west-virginia), [epa](/tag/epa), [water-quality](/tag/water-quality), [southeast](/tag/southeast), [issue-brief](/tag/issue-brief), [first-time-poster](/tag/first-time-poster), [zoom:6](/tag/zoom:6), [lat:39.602853](/tag/lat:39.602853), [lon:-80.93677](/tag/lon:-80.93677), [tetrachloroethylene](/tag/tetrachloroethylene)
 
 ----
 
@@ -41,4 +39,4 @@ Currently, I am working as a community organizer with two longtime Paden City re
 
 What actions can we have residents take once they know the severity of the issue? 
 
-[Paden-City-PCE](../../tag/question:Paden-City-PCE)
+[Paden-City-PCE](/tag/question:Paden-City-PCE)

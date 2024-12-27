@@ -6,18 +6,16 @@ author: xose
 path: /notes/xose/05-02-2017/nosa-agencia-espacial-gallega.md
 nid: 14157
 uid: 497123
-
 cids: 16717
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/319/original/nosa-sonda.jpg)
 
 # NOSA, agencia espacial escolar gallega
 
-by [xose](../../../profile/xose) | May 02, 2017 17:22
+by [xose](/profile/xose) | May 02, 2017 17:22
 
-May 02, 2017 17:22 | Tags: [spain](../tag/spain), [balloon](../tag/balloon), [high-school](../tag/high-school), [iso:es](../tag/iso:es), [lang:es](../tag/lang:es), [blog-submission](../tag/blog-submission)
+May 02, 2017 17:22 | Tags: [spain](/tag/spain), [balloon](/tag/balloon), [high-school](/tag/high-school), [iso:es](/tag/iso:es), [lang:es](/tag/lang:es), [blog-submission](/tag/blog-submission)
 
 ----
 

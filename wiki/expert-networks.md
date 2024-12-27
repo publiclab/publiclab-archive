@@ -6,14 +6,14 @@ author: warren
 path: /wiki/expert-networks.md
 nid: 15942
 uid: 1
-
+cids: 
 ---
 
 # Expert networks
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-March 13, 2018 21:09 | Tags: [expertise](../tag/expertise), [experts](../tag/experts), [expert-networks](../tag/expert-networks)
+March 13, 2018 21:09 | Tags: [expertise](/tag/expertise), [experts](/tag/experts), [expert-networks](/tag/expert-networks)
 
 ----
 
@@ -42,5 +42,5 @@ Sometimes it's helpful to get input from someone with a professional background 
 
 ## Questions
 
-[expert-networks](../../tag/question:expert-networks)
+[expert-networks](/tag/question:expert-networks)
 

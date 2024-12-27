@@ -6,18 +6,16 @@ author: sara
 path: /notes/sara/7-18-2012/thermal-images-community-environmental-college.md
 nid: 2863
 uid: 8
-
 cids: 1048,1051,1052
-
 ---
 
 ![](https://publiclab.org/sites/default/files/ThermalImagepipe70-90_0.png)
 
 # Thermal Images for Community Environmental College
 
-by [sara](../../../profile/sara) | July 18, 2012 14:31
+by [sara](/profile/sara) | July 18, 2012 14:31
 
-July 18, 2012 14:31 | Tags: [thermal-flashlight](../tag/thermal-flashlight), [replication:625](../tag/replication:625)
+July 18, 2012 14:31 | Tags: [thermal-flashlight](/tag/thermal-flashlight), [replication:625](/tag/replication:625)
 
 ----
 

@@ -6,16 +6,14 @@ author: ryzokuken
 path: /notes/ryzokuken/02-28-2017/bot-for-publiclab.md
 nid: 13972
 uid: 493113
-
 cids: 16253,16268,16269,16270,16273,16279,16280,16289,16290,16302,16309,16319,16337,16338,16340,16365,16368,16384,16386,16387,16388,16408,16418,16422,16429,16430,16433,16495,16507,16508,16545,16549,16551,16706,16707,16709,16710,16712
-
 ---
 
 # Bot for Publiclab
 
-by [ryzokuken](../../../profile/ryzokuken) | February 28, 2017 19:19
+by [ryzokuken](/profile/ryzokuken) | February 28, 2017 19:19
 
-February 28, 2017 19:19 | Tags: [gsoc](../tag/gsoc), [publiclab](../tag/publiclab), [irc](../tag/irc), [node](../tag/node), [bot](../tag/bot), [gitter](../tag/gitter), [soc-2017-proposals](../tag/soc-2017-proposals), [response:13975](../tag/response:13975), [123](../tag/123), [gsoc-2017-accepted](../tag/gsoc-2017-accepted), [first-time-poster](../tag/first-time-poster)
+February 28, 2017 19:19 | Tags: [gsoc](/tag/gsoc), [publiclab](/tag/publiclab), [irc](/tag/irc), [node](/tag/node), [bot](/tag/bot), [gitter](/tag/gitter), [soc-2017-proposals](/tag/soc-2017-proposals), [response:13975](/tag/response:13975), [123](/tag/123), [gsoc-2017-accepted](/tag/gsoc-2017-accepted), [first-time-poster](/tag/first-time-poster)
 
 ----
 
@@ -25,7 +23,7 @@ February 28, 2017 19:19 | Tags: [gsoc](../tag/gsoc), [publiclab](../tag/publicla
 
 ### Community Questionnaire
 
-[bot-project](../../tag/question:bot-project)
+[bot-project](/tag/question:bot-project)
 
 
 **Affiliation** Jaypee Institute of Information Technology

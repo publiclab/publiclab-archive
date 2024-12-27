@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/12-12-2010/front-illumination-ccds-used-digital-cameras-dont-perform-well-uv.md
 nid: 28
 uid: 1
-
 cids: 12634,12688,12689,12692,12693,12724,12727,12735,12738,12874,12885,12892,12893,29037
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2010-12-12 at 7.48.45 PM.png)
 
 # Front-illumination CCDs (as used in digital cameras) don't perform well in UV
 
-by [warren](../../../profile/warren) | December 13, 2010 00:50
+by [warren](/profile/warren) | December 13, 2010 00:50
 
-December 13, 2010 00:50 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [ultraviolet](../tag/ultraviolet), [ccd](../tag/ccd)
+December 13, 2010 00:50 | Tags: [spectrometer](/tag/spectrometer), [uv](/tag/uv), [ultraviolet](/tag/ultraviolet), [ccd](/tag/ccd)
 
 ----
 

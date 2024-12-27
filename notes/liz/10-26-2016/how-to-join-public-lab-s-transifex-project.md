@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/10-26-2016/how-to-join-public-lab-s-transifex-project.md
 nid: 13652
 uid: 7
-
 cids: 15760,15762,23633,23635,24302,28365
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/631/original/Screen_Shot_2016-10-26_at_4.31.52_PM.png)
 
 # Step 1: Join Public Lab's Transifex project
 
-by [liz](../../../profile/liz) | October 26, 2016 19:24
+by [liz](/profile/liz) | October 26, 2016 19:24
 
-October 26, 2016 19:24 | Tags: [community](../tag/community), [website](../tag/website), [activity](../tag/activity), [difficulty:easy](../tag/difficulty:easy), [status:complete](../tag/status:complete), [localization](../tag/localization), [translation](../tag/translation), [language](../tag/language), [activity:localization](../tag/activity:localization), [with:gauravano](../tag/with:gauravano)
+October 26, 2016 19:24 | Tags: [community](/tag/community), [website](/tag/website), [activity](/tag/activity), [difficulty:easy](/tag/difficulty:easy), [status:complete](/tag/status:complete), [localization](/tag/localization), [translation](/tag/translation), [language](/tag/language), [activity:localization](/tag/activity:localization), [with:gauravano](/tag/with:gauravano)
 
 ----
 

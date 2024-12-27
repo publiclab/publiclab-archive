@@ -6,18 +6,16 @@ author: amarini
 path: /notes/amarini/09-29-2014/collect-3-water-samples-for-testing.md
 nid: 11205
 uid: 428064
-
 cids: 10469,10480,27757
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/083/original/photo_2_%282%29.JPG)
 
 # Collect 3 Water Samples for Testing 
 
-by [amarini](../../../profile/amarini) | September 29, 2014 17:58
+by [amarini](/profile/amarini) | September 29, 2014 17:58
 
-September 29, 2014 17:58 | Tags: [conductivity](../tag/conductivity), [open-water](../tag/open-water), [coqui](../tag/coqui), [first-time-poster](../tag/first-time-poster)
+September 29, 2014 17:58 | Tags: [conductivity](/tag/conductivity), [open-water](/tag/open-water), [coqui](/tag/coqui), [first-time-poster](/tag/first-time-poster)
 
 ----
 

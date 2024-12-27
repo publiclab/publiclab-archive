@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/08-26-2014/new-orleans-training-event.md
 nid: 11077
 uid: 422561
-
 cids: 10119,10141,10244
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/433/original/flyer-indoor.png)
 
 # New Orleans Training Event! 
 
-by [stevie](../../../profile/stevie) | August 26, 2014 16:14
+by [stevie](/profile/stevie) | August 26, 2014 16:14
 
-August 26, 2014 16:14 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [events](../tag/events), [mapping](../tag/mapping), [event](../tag/event), [event:rsvp](../tag/event:rsvp), [date:09-18-2014](../tag/date:09-18-2014), [rsvp:geraldmc](../tag/rsvp:geraldmc), [rsvp:danbeavers](../tag/rsvp:danbeavers), [rsvp:hschackai](../tag/rsvp:hschackai), [urbanwaters](../tag/urbanwaters), [replication:14022](../tag/replication:14022)
+August 26, 2014 16:14 | Tags: [gulf-coast](/tag/gulf-coast), [balloon-mapping](/tag/balloon-mapping), [events](/tag/events), [mapping](/tag/mapping), [event](/tag/event), [event:rsvp](/tag/event:rsvp), [date:09-18-2014](/tag/date:09-18-2014), [rsvp:geraldmc](/tag/rsvp:geraldmc), [rsvp:danbeavers](/tag/rsvp:danbeavers), [rsvp:hschackai](/tag/rsvp:hschackai), [urbanwaters](/tag/urbanwaters), [replication:14022](/tag/replication:14022)
 
 ----
 

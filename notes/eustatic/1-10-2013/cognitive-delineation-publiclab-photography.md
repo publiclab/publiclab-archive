@@ -6,18 +6,16 @@ author: eustatic
 path: /1-10-2013/cognitive-delineation-publiclab-photography.md
 nid: 5538
 uid: 379
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/PLOTS delineation barataria.png)
 
 # Cognitive delineation from PublicLab photography
 
-by [eustatic](../../../profile/eustatic) | January 10, 2013 23:50
+by [eustatic](/profile/eustatic) | January 10, 2013 23:50
 
-January 10, 2013 23:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [barataria](../tag/barataria)
+January 10, 2013 23:50 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [barataria](/tag/barataria)
 
 ----
 

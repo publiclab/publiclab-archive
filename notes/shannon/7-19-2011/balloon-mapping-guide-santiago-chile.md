@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/shannon/7-19-2011/balloon-mapping-guide-santiago-chile.md
 nid: 388
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Instrucciones-globo_CI.png)
 
 # Balloon Mapping guide from Santiago, Chile
 
-by [Shannon](../../../profile/Shannon) | July 19, 2011 14:39
+by [Shannon](/profile/Shannon) | July 19, 2011 14:39
 
-July 19, 2011 14:39 | Tags: [guides](../tag/guides), [lang:es](../tag/lang:es)
+July 19, 2011 14:39 | Tags: [guides](/tag/guides), [lang:es](/tag/lang:es)
 
 ----
 

@@ -6,18 +6,16 @@ author: JSummers
 path: /notes/JSummers/01-04-2014/potentiostat-notes-3a-timing-de-bugged.md
 nid: 9923
 uid: 304279
-
 cids: 7997,7998,7999
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/487/original/80uASV.png)
 
 # Potentiostat Notes 3a;  Timing de-bugged
 
-by [JSummers](../../../profile/JSummers) | January 04, 2014 20:47
+by [JSummers](/profile/JSummers) | January 04, 2014 20:47
 
-January 04, 2014 20:47 | Tags: [potentiostat](../tag/potentiostat), [wheestat](../tag/wheestat)
+January 04, 2014 20:47 | Tags: [potentiostat](/tag/potentiostat), [wheestat](/tag/wheestat)
 
 ----
 

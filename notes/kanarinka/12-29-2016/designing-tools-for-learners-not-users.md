@@ -6,18 +6,16 @@ author: kanarinka
 path: /notes/kanarinka/12-29-2016/designing-tools-for-learners-not-users.md
 nid: 13823
 uid: 994
-
 cids: 16016,16017,16018,16044,16077,16080,16081,16090,16091,16092,27726
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/168/original/Screenshot_2016-12-29_12.48.34.png)
 
 # Designing Tools for Learners (Not Users)
 
-by [kanarinka](../../../profile/kanarinka) | December 29, 2016 18:17
+by [kanarinka](/profile/kanarinka) | December 29, 2016 18:17
 
-December 29, 2016 18:17 | Tags: [data](../tag/data), [learning](../tag/learning), [activities](../tag/activities), [data-literacy](../tag/data-literacy), [databasic](../tag/databasic)
+December 29, 2016 18:17 | Tags: [data](/tag/data), [learning](/tag/learning), [activities](/tag/activities), [data-literacy](/tag/data-literacy), [databasic](/tag/databasic)
 
 ----
 

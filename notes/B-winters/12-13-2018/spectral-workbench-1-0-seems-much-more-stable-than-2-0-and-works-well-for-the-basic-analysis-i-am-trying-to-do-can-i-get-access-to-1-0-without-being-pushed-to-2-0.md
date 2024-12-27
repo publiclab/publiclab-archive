@@ -6,16 +6,14 @@ author: B-winters
 path: /notes/B-winters/12-13-2018/spectral-workbench-1-0-seems-much-more-stable-than-2-0-and-works-well-for-the-basic-analysis-i-am-trying-to-do-can-i-get-access-to-1-0-without-being-pushed-to-2-0.md
 nid: 17889
 uid: 563397
-
 cids: 23314
-
 ---
 
 # Spectral Workbench 1.0 seems much more stable than 2.0 and works well for the basic analysis I am trying to do, can I get access to 1.0 without being pushed to 2.0?
 
-by [B-winters](../../../profile/B-winters) | December 13, 2018 19:02
+by [B-winters](/profile/B-winters) | December 13, 2018 19:02
 
-December 13, 2018 19:02 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [spectral-workbench-api](../tag/spectral-workbench-api), [question:spectral-workbench](../tag/question:spectral-workbench), [first-time-poster](../tag/first-time-poster)
+December 13, 2018 19:02 | Tags: [spectrometer](/tag/spectrometer), [spectralworkbench](/tag/spectralworkbench), [spectral-workbench-api](/tag/spectral-workbench-api), [question:spectral-workbench](/tag/question:spectral-workbench), [first-time-poster](/tag/first-time-poster)
 
 ----
 

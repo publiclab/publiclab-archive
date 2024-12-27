@@ -6,18 +6,16 @@ author: michelleiL
 path: /notes/michelleiL/09-01-2022/open-call-game-over-formosa-plastics-community-report-back-video.md
 nid: 34925
 uid: 799004
-
 cids: 30624,31256,31285,31286,31289,31294,31297,31312
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/105/original/IMG_1951.JPG)
 
 # Open Call: "Game Over Formosa Plastics" Community Report Back Video 
 
-by [michelleiL](../../../profile/michelleiL) | September 01, 2022 18:28
+by [michelleiL](/profile/michelleiL) | September 01, 2022 18:28
 
-September 01, 2022 18:28 | Tags: [video](../tag/video), [air-quality](../tag/air-quality), [environmental-justice](../tag/environmental-justice), [fellowship](../tag/fellowship), [particulate-matter](../tag/particulate-matter), [open-call](../tag/open-call), [st-james](../tag/st-james), [fellowship-teams](../tag/fellowship-teams), [formosaplastics](../tag/formosaplastics)
+September 01, 2022 18:28 | Tags: [video](/tag/video), [air-quality](/tag/air-quality), [environmental-justice](/tag/environmental-justice), [fellowship](/tag/fellowship), [particulate-matter](/tag/particulate-matter), [open-call](/tag/open-call), [st-james](/tag/st-james), [fellowship-teams](/tag/fellowship-teams), [formosaplastics](/tag/formosaplastics)
 
 ----
 

@@ -6,18 +6,16 @@ author: Jasja
 path: /notes/jasja/6-13-2012/coded-ground-control-points.md
 nid: 2476
 uid: 835
-
 cids: 891,892,893,895,930,4729,4730
-
 ---
 
 ![](https://publiclab.org/sites/default/files/coded_GCP.jpg)
 
 # Coded ground control points
 
-by [Jasja](../../../profile/Jasja) | June 13, 2012 21:26
+by [Jasja](/profile/Jasja) | June 13, 2012 21:26
 
-June 13, 2012 21:26 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [ground-control-points](../tag/ground-control-points), [registration](../tag/registration), [activity:aerial-photography](../tag/activity:aerial-photography), [activity:ground-control-points](../tag/activity:ground-control-points), [activity:aerial-mapping](../tag/activity:aerial-mapping)
+June 13, 2012 21:26 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [ground-control-points](/tag/ground-control-points), [registration](/tag/registration), [activity:aerial-photography](/tag/activity:aerial-photography), [activity:ground-control-points](/tag/activity:ground-control-points), [activity:aerial-mapping](/tag/activity:aerial-mapping)
 
 ----
 

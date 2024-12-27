@@ -6,18 +6,16 @@ author: mimiss
 path: /notes/mimiss/08-05-2019/trawling-with-babylegs-in-new-orleans-city-park.md
 nid: 20418
 uid: 579821
-
 cids: 25202,25206,25277,25286,27327,27330,27331
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/319/original/Screen_Shot_2019-08-05_at_2.41.03_PM.png)
 
 # Trawling with BabyLegs in New Orleans City Park!
 
-by [mimiss](../../../profile/mimiss) | August 05, 2019 19:46
+by [mimiss](/profile/mimiss) | August 05, 2019 19:46
 
-August 05, 2019 19:46 | Tags: [new-orleans](../tag/new-orleans), [water-quality](../tag/water-quality), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [micro-plastics](../tag/micro-plastics), [microplastics](../tag/microplastics), [babylegs](../tag/babylegs), [trawl](../tag/trawl), [baby-legs](../tag/baby-legs), [lat:29.993002](../tag/lat:29.993002), [lon:-90.08789](../tag/lon:-90.08789)
+August 05, 2019 19:46 | Tags: [new-orleans](/tag/new-orleans), [water-quality](/tag/water-quality), [barnstar:excessive-enthusiasm](/tag/barnstar:excessive-enthusiasm), [micro-plastics](/tag/micro-plastics), [microplastics](/tag/microplastics), [babylegs](/tag/babylegs), [trawl](/tag/trawl), [baby-legs](/tag/baby-legs), [lat:29.993002](/tag/lat:29.993002), [lon:-90.08789](/tag/lon:-90.08789)
 
 ----
 

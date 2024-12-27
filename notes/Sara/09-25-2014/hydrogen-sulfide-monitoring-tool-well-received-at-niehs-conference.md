@@ -6,18 +6,16 @@ author: sara
 path: /notes/Sara/09-25-2014/hydrogen-sulfide-monitoring-tool-well-received-at-niehs-conference.md
 nid: 11189
 uid: 8
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/032/original/Screen_Shot_2014-09-25_at_2.14.38_PM.png)
 
 # Hydrogen Sulfide Monitoring Tool Well Received at NIEHS Conference!
 
-by [sara](../../../profile/sara) | September 25, 2014 20:25
+by [sara](/profile/sara) | September 25, 2014 20:25
 
-September 25, 2014 20:25 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [oil](../tag/oil), [fracking](../tag/fracking), [wyoming](../tag/wyoming), [hydrofracking](../tag/hydrofracking)
+September 25, 2014 20:25 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [oil](/tag/oil), [fracking](/tag/fracking), [wyoming](/tag/wyoming), [hydrofracking](/tag/hydrofracking)
 
 ----
 

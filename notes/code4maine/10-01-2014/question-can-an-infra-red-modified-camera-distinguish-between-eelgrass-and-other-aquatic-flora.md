@@ -6,18 +6,16 @@ author: ajawitz
 path: /notes/code4maine/10-01-2014/question-can-an-infra-red-modified-camera-distinguish-between-eelgrass-and-other-aquatic-flora.md
 nid: 11226
 uid: 294634
-
 cids: 10484,10488,22573
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/270/original/220px-Eelgrass.jpg)
 
 # Question: Can an Infra-Red Modified Camera distinguish between Eelgrass and other Aquatic Flora? 
 
-by [ajawitz](../../../profile/ajawitz) | October 01, 2014 19:26
+by [ajawitz](/profile/ajawitz) | October 01, 2014 19:26
 
-October 01, 2014 19:26 | Tags: [infragram](../tag/infragram), [water-quality](../tag/water-quality), [maine](../tag/maine), [northeast](../tag/northeast), [question:eelgrass](../tag/question:eelgrass)
+October 01, 2014 19:26 | Tags: [infragram](/tag/infragram), [water-quality](/tag/water-quality), [maine](/tag/maine), [northeast](/tag/northeast), [question:eelgrass](/tag/question:eelgrass)
 
 ----
 

@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/01-23-2014/uncommon-commons-event-chicago.md
 nid: 9966
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/612/original/Screen_Shot_2014-01-23_at_10.06.19_AM.png)
 
 # Uncommon Commons event Chicago
 
-by [liz](../../../profile/liz) | January 23, 2014 15:13
+by [liz](/profile/liz) | January 23, 2014 15:13
 
-January 23, 2014 15:13 | Tags: [events](../tag/events), [chicago](../tag/chicago)
+January 23, 2014 15:13 | Tags: [events](/tag/events), [chicago](/tag/chicago)
 
 ----
 

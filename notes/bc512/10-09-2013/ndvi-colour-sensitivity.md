@@ -6,18 +6,16 @@ author: bc512
 path: /notes/bc512/10-09-2013/ndvi-colour-sensitivity.md
 nid: 9425
 uid: 197512
-
 cids: 7170,7180,7209,7213,7215
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/819/original/AERIAL_PHOTO.jpg)
 
 # NDVI Colour Sensitivity
 
-by [bc512](../../../profile/bc512) | October 09, 2013 04:18
+by [bc512](/profile/bc512) | October 09, 2013 04:18
 
-October 09, 2013 04:18 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [question:ndvi](../tag/question:ndvi), [qgis](../tag/qgis)
+October 09, 2013 04:18 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [infragram](/tag/infragram), [question:ndvi](/tag/question:ndvi), [qgis](/tag/qgis)
 
 ----
 

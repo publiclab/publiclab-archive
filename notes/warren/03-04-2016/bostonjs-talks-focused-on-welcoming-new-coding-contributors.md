@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/03-04-2016/bostonjs-talks-focused-on-welcoming-new-coding-contributors.md
 nid: 12771
 uid: 1
-
 cids: 13801,13807,13966,13968,13985,13987,28229
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/657/original/Screenshot_2016-03-03_at_7.39.20_PM.png)
 
 # BostonJS talks focused on welcoming new coding contributors
 
-by [warren](../../../profile/warren) | March 04, 2016 01:09
+by [warren](/profile/warren) | March 04, 2016 01:09
 
-March 04, 2016 01:09 | Tags: [boston](../tag/boston), [community](../tag/community), [presentations](../tag/presentations), [developers](../tag/developers), [coding](../tag/coding), [talks](../tag/talks), [javascript](../tag/javascript), [new-contributors](../tag/new-contributors), [first-timers-only](../tag/first-timers-only), [software-outreach](../tag/software-outreach), [first-timers-only-blog](../tag/first-timers-only-blog)
+March 04, 2016 01:09 | Tags: [boston](/tag/boston), [community](/tag/community), [presentations](/tag/presentations), [developers](/tag/developers), [coding](/tag/coding), [talks](/tag/talks), [javascript](/tag/javascript), [new-contributors](/tag/new-contributors), [first-timers-only](/tag/first-timers-only), [software-outreach](/tag/software-outreach), [first-timers-only-blog](/tag/first-timers-only-blog)
 
 ----
 

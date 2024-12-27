@@ -6,18 +6,16 @@ author: ttaylor
 path: /notes/ttaylor/08-16-2013/a-little-background-work-for-trapa-classification-from-color.md
 nid: 9019
 uid: 58398
-
 cids: 6648,6649,6652,6654,6655,6656,6657,6658,6659
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/164/original/classifier2Test.jpg)
 
 # A little background work for Trapa classification from color
 
-by [ttaylor](../../../profile/ttaylor) | August 16, 2013 01:14
+by [ttaylor](/profile/ttaylor) | August 16, 2013 01:14
 
-August 16, 2013 01:14 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [amherst](../tag/amherst), [infragram](../tag/infragram), [invasive](../tag/invasive), [classification](../tag/classification), [h2onutz](../tag/h2onutz), [trapa](../tag/trapa)
+August 16, 2013 01:14 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [amherst](/tag/amherst), [infragram](/tag/infragram), [invasive](/tag/invasive), [classification](/tag/classification), [h2onutz](/tag/h2onutz), [trapa](/tag/trapa)
 
 ----
 

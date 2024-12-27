@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/07-22-2014/accessible-procedure-for-calibrating-conductivity-measurements.md
 nid: 10949
 uid: 43651
-
 cids: 9593,9610,9618
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/448/original/USGS.01104455.04.00095..20140701.20140722..0..gif)
 
 # Accessible procedure for calibrating conductivity measurements?
 
-by [donblair](../../../profile/donblair) | July 22, 2014 21:45
+by [donblair](/profile/donblair) | July 22, 2014 21:45
 
-July 22, 2014 21:45 | Tags: [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [riffle](../tag/riffle), [coqui](../tag/coqui), [question:water-quality](../tag/question:water-quality), [question:coqui](../tag/question:coqui), [question:conductivity](../tag/question:conductivity), [salinity](../tag/salinity), [question:salinity](../tag/question:salinity)
+July 22, 2014 21:45 | Tags: [water-quality](/tag/water-quality), [conductivity](/tag/conductivity), [riffle](/tag/riffle), [coqui](/tag/coqui), [question:water-quality](/tag/question:water-quality), [question:coqui](/tag/question:coqui), [question:conductivity](/tag/question:conductivity), [salinity](/tag/salinity), [question:salinity](/tag/question:salinity)
 
 ----
 

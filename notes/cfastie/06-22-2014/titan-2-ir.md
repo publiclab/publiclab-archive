@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/06-22-2014/titan-2-ir.md
 nid: 10602
 uid: 554
-
 cids: 9250,9335,9753,9754,10155
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/927/original/MCOFTitan-477-18.jpg)
 
 # Titan 2 IR
 
-by [cfastie](../../../profile/cfastie) | June 22, 2014 18:19
+by [cfastie](/profile/cfastie) | June 22, 2014 18:19
 
-June 22, 2014 18:19 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infrared](../tag/infrared), [kap](../tag/kap), [infragram](../tag/infragram), [3d-printing](../tag/3d-printing), [gigapan](../tag/gigapan), [makerbot](../tag/makerbot), [northeast](../tag/northeast), [response:10523](../tag/response:10523), [titan](../tag/titan), [ndvi-ag](../tag/ndvi-ag), [category:field-test](../tag/category:field-test)
+June 22, 2014 18:19 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [ndvi](/tag/ndvi), [vermont](/tag/vermont), [infrared](/tag/infrared), [kap](/tag/kap), [infragram](/tag/infragram), [3d-printing](/tag/3d-printing), [gigapan](/tag/gigapan), [makerbot](/tag/makerbot), [northeast](/tag/northeast), [response:10523](/tag/response:10523), [titan](/tag/titan), [ndvi-ag](/tag/ndvi-ag), [category:field-test](/tag/category:field-test)
 
 ----
 

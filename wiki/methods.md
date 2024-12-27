@@ -6,14 +6,14 @@ author: warren
 path: /wiki/methods.md
 nid: 14859
 uid: 1
-
+cids: 
 ---
 
 # Methods
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-September 08, 2017 15:44 | Tags: [methods](../tag/methods), [organization](../tag/organization)
+September 08, 2017 15:44 | Tags: [methods](/tag/methods), [organization](/tag/organization)
 
 ----
 
@@ -36,11 +36,11 @@ A **much** more complete description of methods [can be found here](https://publ
 
 ## Questions
 
-[methods](../../tag/question:methods)
+[methods](/tag/question:methods)
 
 ## Activities
 
-[methods](../../tag/activity:methods)
+[methods](/tag/activity:methods)
 
 ****
 

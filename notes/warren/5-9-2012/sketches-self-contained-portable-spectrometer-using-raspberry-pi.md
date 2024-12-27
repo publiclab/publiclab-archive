@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/5-9-2012/sketches-self-contained-portable-spectrometer-using-raspberry-pi.md
 nid: 1936
 uid: 1
-
 cids: 916,917,919,921,922,931,934,935,936,937,939,940,941,13996
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20120509_122945_edit0.jpg)
 
 # Sketches for a self-contained portable spectrometer using a Raspberry Pi
 
-by [warren](../../../profile/warren) | May 09, 2012 20:18
+by [warren](/profile/warren) | May 09, 2012 20:18
 
-May 09, 2012 20:18 | Tags: [spectrometer](../tag/spectrometer)
+May 09, 2012 20:18 | Tags: [spectrometer](/tag/spectrometer)
 
 ----
 

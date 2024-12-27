@@ -6,16 +6,14 @@ author: darkdimension
 path: /notes/darkdimension/06-03-2018/diffraction-grating-200nm-400nm-light-vendor-source-identification.md
 nid: 16424
 uid: 536710
-
 cids: 19753,19754,23103,23112
-
 ---
 
 # Diffraction grating (200nm - 400nm) & Light, Vendor/Source Identification
 
-by [darkdimension](../../../profile/darkdimension) | June 03, 2018 02:15
+by [darkdimension](/profile/darkdimension) | June 03, 2018 02:15
 
-June 03, 2018 02:15 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [uvc](../tag/uvc), [question:general](../tag/question:general)
+June 03, 2018 02:15 | Tags: [spectrometer](/tag/spectrometer), [spectralworkbench](/tag/spectralworkbench), [uvc](/tag/uvc), [question:general](/tag/question:general)
 
 ----
 

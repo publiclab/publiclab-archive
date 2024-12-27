@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/04-09-2018/can-minivol-tas-particulate-matter-monitor-measure-black-carbon-or-elemental-carbon.md
 nid: 16121
 uid: 422561
-
 cids: 23059,23080
-
 ---
 
 # Can MiniVol (TAS Particulate Matter Monitor) measure Black Carbon or Elemental Carbon?
 
-by [stevie](../../../profile/stevie) | April 09, 2018 20:42
+by [stevie](/profile/stevie) | April 09, 2018 20:42
 
-April 09, 2018 20:42 | Tags: [question:air-quality](../tag/question:air-quality), [question:question](../tag/question:question), [question:pm](../tag/question:pm), [minivol](../tag/minivol), [question:minivol](../tag/question:minivol), [question:particulate-matter](../tag/question:particulate-matter)
+April 09, 2018 20:42 | Tags: [question:air-quality](/tag/question:air-quality), [question:question](/tag/question:question), [question:pm](/tag/question:pm), [minivol](/tag/minivol), [question:minivol](/tag/question:minivol), [question:particulate-matter](/tag/question:particulate-matter)
 
 ----
 

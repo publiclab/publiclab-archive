@@ -6,16 +6,14 @@ author: flint
 path: /notes/flint/03-08-2014/strembot.md
 nid: 10144
 uid: 421273
-
 cids: 8485,8564,8565,8569
-
 ---
 
 # Strembot
 
-by [flint](../../../profile/flint) | March 08, 2014 18:18
+by [flint](/profile/flint) | March 08, 2014 18:18
 
-March 08, 2014 18:18 | Tags: [pvos](../tag/pvos), [water-quality](../tag/water-quality), [water-monitoring](../tag/water-monitoring), [water-quality-sensor](../tag/water-quality-sensor), [tool](../tag/tool), [riffle](../tag/riffle)
+March 08, 2014 18:18 | Tags: [pvos](/tag/pvos), [water-quality](/tag/water-quality), [water-monitoring](/tag/water-monitoring), [water-quality-sensor](/tag/water-quality-sensor), [tool](/tag/tool), [riffle](/tag/riffle)
 
 ----
 

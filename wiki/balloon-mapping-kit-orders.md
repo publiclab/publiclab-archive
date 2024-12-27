@@ -6,14 +6,14 @@ author: warren
 path: /wiki/balloon-mapping-kit-orders.md
 nid: 785
 uid: 1
-
+cids: 
 ---
 
 # Balloon Mapping kit orders
 
-by [Becki](../profile/Becki), [warren](../profile/warren)
+by [Becki](/profile/Becki), [warren](/profile/warren)
 
-February 14, 2012 00:18 | Tags: [becki](../tag/becki)
+February 14, 2012 00:18 | Tags: [becki](/tag/becki)
 
 ----
 

@@ -6,16 +6,14 @@ author: Bronwen
 path: /notes/bronwen/06-26-2018/what-are-some-important-tools-resources-in-an-environmental-emergency-response.md
 nid: 16573
 uid: 237313
-
 cids: 20036,20038,23154,23157
-
 ---
 
 # What Are Some Important Tools/Resources in an Environmental Emergency Response?
 
-by [Bronwen](../../../profile/Bronwen) | June 26, 2018 17:16
+by [Bronwen](/profile/Bronwen) | June 26, 2018 17:16
 
-June 26, 2018 17:16 | Tags: [disaster-preparedness](../tag/disaster-preparedness), [kits](../tag/kits), [tools](../tag/tools), [question:question](../tag/question:question), [disaster-response](../tag/disaster-response), [disaster-resilience](../tag/disaster-resilience), [disaster-recovery](../tag/disaster-recovery), [emergency](../tag/emergency), [question:disaster-response](../tag/question:disaster-response), [crisis](../tag/crisis), [question:crisis-convening](../tag/question:crisis-convening), [question:barnraising-texas](../tag/question:barnraising-texas), [question:texas-barnraising](../tag/question:texas-barnraising)
+June 26, 2018 17:16 | Tags: [disaster-preparedness](/tag/disaster-preparedness), [kits](/tag/kits), [tools](/tag/tools), [question:question](/tag/question:question), [disaster-response](/tag/disaster-response), [disaster-resilience](/tag/disaster-resilience), [disaster-recovery](/tag/disaster-recovery), [emergency](/tag/emergency), [question:disaster-response](/tag/question:disaster-response), [crisis](/tag/crisis), [question:crisis-convening](/tag/question:crisis-convening), [question:barnraising-texas](/tag/question:barnraising-texas), [question:texas-barnraising](/tag/question:texas-barnraising)
 
 ----
 

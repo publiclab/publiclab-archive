@@ -6,18 +6,16 @@ author: ann
 path: /notes/ann/06-12-2015/sweetwater-festival-mapping-workshop.md
 nid: 11978
 uid: 421543
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/335/original/Screen_Shot_2015-06-12_at_5.28.33_PM.png)
 
 # Sweetwater Festival Mapping Workshop
 
-by [ann](../../../profile/ann) | June 12, 2015 23:40
+by [ann](/profile/ann) | June 12, 2015 23:40
 
-June 12, 2015 23:40 | Tags: [balloon-mapping](../tag/balloon-mapping), [event](../tag/event), [canada](../tag/canada), [event:rsvp](../tag/event:rsvp), [northwest](../tag/northwest), [date:06-13-2015](../tag/date:06-13-2015), [replication:14022](../tag/replication:14022)
+June 12, 2015 23:40 | Tags: [balloon-mapping](/tag/balloon-mapping), [event](/tag/event), [canada](/tag/canada), [event:rsvp](/tag/event:rsvp), [northwest](/tag/northwest), [date:06-13-2015](/tag/date:06-13-2015), [replication:14022](/tag/replication:14022)
 
 ----
 

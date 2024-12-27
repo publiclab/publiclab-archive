@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/02-15-2019/leaflet-distortableimage-full-resolution-download.md
 nid: 18316
 uid: 1
-
 cids: 23395
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/250/original/Screenshot_2019-02-08_at_12.08.36_PM.png)
 
 # Leaflet.DistortableImage full resolution download
 
-by [warren](../../../profile/warren) | February 08, 2019 17:19
+by [warren](/profile/warren) | February 08, 2019 17:19
 
-February 08, 2019 17:19 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [aerial-photography](../tag/aerial-photography), [blog](../tag/blog), [leaflet](../tag/leaflet), [pole-mapping](../tag/pole-mapping), [code](../tag/code), [exporting](../tag/exporting), [leaflet-distortable-image](../tag/leaflet-distortable-image), [orthorectification](../tag/orthorectification), [rubber-sheeting](../tag/rubber-sheeting)
+February 08, 2019 17:19 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [mapknitter](/tag/mapknitter), [aerial-photography](/tag/aerial-photography), [blog](/tag/blog), [leaflet](/tag/leaflet), [pole-mapping](/tag/pole-mapping), [code](/tag/code), [exporting](/tag/exporting), [leaflet-distortable-image](/tag/leaflet-distortable-image), [orthorectification](/tag/orthorectification), [rubber-sheeting](/tag/rubber-sheeting)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/8-17-2011/tail-design-variation-soda-bottle-rig.md
 nid: 439
 uid: 1
-
 cids: 320,321
-
 ---
 
 ![](https://publiclab.org/sites/default/files/6047881163_4af820ba95_b.jpg)
 
 # Tail design variation on soda bottle rig
 
-by [warren](../../../profile/warren) | August 17, 2011 13:58
+by [warren](/profile/warren) | August 17, 2011 13:58
 
-August 17, 2011 13:58 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [peru](../tag/peru), [photo-rig](../tag/photo-rig)
+August 17, 2011 13:58 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [peru](/tag/peru), [photo-rig](/tag/photo-rig)
 
 ----
 

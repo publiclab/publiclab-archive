@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/09-08-2017/how-do-you-merge-gps-logger-data-into-photographs.md
 nid: 14861
 uid: 1
-
 cids: 17349,17350,17351,17357,22587,22590,22593,22594,22595,22596,22597
-
 ---
 
 # How do you merge GPS logger data into photographs?
 
-by [warren](../../../profile/warren) | September 08, 2017 15:55
+by [warren](/profile/warren) | September 08, 2017 15:55
 
-September 08, 2017 15:55 | Tags: [photography](../tag/photography), [evidence](../tag/evidence), [aerial-photography](../tag/aerial-photography), [gps](../tag/gps), [metadata](../tag/metadata), [answered](../tag/answered), [question:evidence](../tag/question:evidence), [question:aerial-photography](../tag/question:aerial-photography), [question:gps](../tag/question:gps), [geotagging](../tag/geotagging)
+September 08, 2017 15:55 | Tags: [photography](/tag/photography), [evidence](/tag/evidence), [aerial-photography](/tag/aerial-photography), [gps](/tag/gps), [metadata](/tag/metadata), [answered](/tag/answered), [question:evidence](/tag/question:evidence), [question:aerial-photography](/tag/question:aerial-photography), [question:gps](/tag/question:gps), [geotagging](/tag/geotagging)
 
 ----
 

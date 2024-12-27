@@ -6,16 +6,14 @@ author: Shannon
 path: /notes/shannon/5-15-2012/fwd-nolacom-louisiana-coastal-erosion-being-assessed-drones.md
 nid: 1989
 uid: 9
-
 cids: 
-
 ---
 
 # NOLA.com : Louisiana coastal erosion being assessed with drones
 
-by [Shannon](../../../profile/Shannon) | May 15, 2012 13:13
+by [Shannon](/profile/Shannon) | May 15, 2012 13:13
 
-May 15, 2012 13:13 | Tags: [drones](../tag/drones), [wetlands](../tag/wetlands), [erosion](../tag/erosion), [coastalmonitoring](../tag/coastalmonitoring), [lousiana](../tag/lousiana)
+May 15, 2012 13:13 | Tags: [drones](/tag/drones), [wetlands](/tag/wetlands), [erosion](/tag/erosion), [coastalmonitoring](/tag/coastalmonitoring), [lousiana](/tag/lousiana)
 
 ----
 

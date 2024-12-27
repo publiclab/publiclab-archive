@@ -6,14 +6,14 @@ author: danbeavers
 path: /wiki/potential-mapping-sites.md
 nid: 5030
 uid: 51
-
+cids: 
 ---
 
 # Potential Mapping Sites
 
-by [warren](../profile/warren), [danbeavers](../profile/danbeavers)
+by [warren](/profile/warren), [danbeavers](/profile/danbeavers)
 
-November 27, 2012 22:45 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [mapping](../tag/mapping)
+November 27, 2012 22:45 | Tags: [kite-aerial-photography](/tag/kite-aerial-photography), [mapping](/tag/mapping)
 
 ----
 

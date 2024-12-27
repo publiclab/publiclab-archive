@@ -6,14 +6,14 @@ author: warren
 path: /wiki/spectral-challenge.md
 nid: 5695
 uid: 1
-
+cids: 
 ---
 
 # Spectral Challenge
 
-by [warren](../profile/warren), [Shannon](../profile/Shannon), [liz](../profile/liz), [cfastie](../profile/cfastie)
+by [warren](/profile/warren), [Shannon](/profile/Shannon), [liz](/profile/liz), [cfastie](/profile/cfastie)
 
-January 24, 2013 18:57 | Tags: [spectrometer](../tag/spectrometer), [spectralchallenge](../tag/spectralchallenge)
+January 24, 2013 18:57 | Tags: [spectrometer](/tag/spectrometer), [spectralchallenge](/tag/spectralchallenge)
 
 ----
 

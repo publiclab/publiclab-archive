@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/02-24-2014/goal-setting-workshop-design.md
 nid: 10061
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/013/original/cropped-cropped-icc_logo1.gif)
 
 # Goal setting workshop design
 
-by [liz](../../../profile/liz) | February 24, 2014 17:03
+by [liz](/profile/liz) | February 24, 2014 17:03
 
-February 24, 2014 17:03 | Tags: [newark](../tag/newark), [new-jersey](../tag/new-jersey), [ironbound](../tag/ironbound), [icc](../tag/icc), [elp](../tag/elp)
+February 24, 2014 17:03 | Tags: [newark](/tag/newark), [new-jersey](/tag/new-jersey), [ironbound](/tag/ironbound), [icc](/tag/icc), [elp](/tag/elp)
 
 ----
 

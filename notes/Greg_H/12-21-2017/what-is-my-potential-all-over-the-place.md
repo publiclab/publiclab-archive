@@ -6,16 +6,14 @@ author: Greg_H
 path: /notes/Greg_H/12-21-2017/what-is-my-potential-all-over-the-place.md
 nid: 15410
 uid: 520934
-
 cids: 17999,18002,18013,18014,18158,18159,18161,22841,22842,23109,24752,24753
-
 ---
 
 # What is my potential all over the place?
 
-by [Greg_H](../../../profile/Greg_H) | December 21, 2017 09:05
+by [Greg_H](/profile/Greg_H) | December 21, 2017 09:05
 
-December 21, 2017 09:05 | Tags: [wheestat](../tag/wheestat), [question:question](../tag/question:question), [question:wheestat](../tag/question:wheestat)
+December 21, 2017 09:05 | Tags: [wheestat](/tag/wheestat), [question:question](/tag/question:question), [question:wheestat](/tag/question:wheestat)
 
 ----
 

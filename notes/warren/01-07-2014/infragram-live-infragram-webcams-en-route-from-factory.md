@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/01-07-2014/infragram-live-infragram-webcams-en-route-from-factory.md
 nid: 9929
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/495/original/Screen_Shot_2014-01-07_at_12.43.22_PM.png)
 
 # Infragram Live & Infragram webcams en route from factory
 
-by [warren](../../../profile/warren) | January 07, 2014 17:47
+by [warren](/profile/warren) | January 07, 2014 17:47
 
-January 07, 2014 17:47 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kickstarter](../tag/kickstarter), [infragram](../tag/infragram), [response:9917](../tag/response:9917)
+January 07, 2014 17:47 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [kickstarter](/tag/kickstarter), [infragram](/tag/infragram), [response:9917](/tag/response:9917)
 
 ----
 

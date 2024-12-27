@@ -6,16 +6,14 @@ author: Ironman
 path: /notes/Ironman/12-29-2021/how-to-meassure-plastics-for-bpa.md
 nid: 28595
 uid: 783927
-
 cids: 29562,29564,29567,29573,29574,29581
-
 ---
 
 # How to meassure plastics for BPA?
 
-by [Ironman](../../../profile/Ironman) | December 29, 2021 23:10
+by [Ironman](/profile/Ironman) | December 29, 2021 23:10
 
-December 29, 2021 23:10 | Tags: [nir](../tag/nir), [question:general](../tag/question:general), [general](../tag/general), [baby](../tag/baby), [first-time-poster](../tag/first-time-poster), [toys](../tag/toys), [bpa](../tag/bpa)
+December 29, 2021 23:10 | Tags: [nir](/tag/nir), [question:general](/tag/question:general), [general](/tag/general), [baby](/tag/baby), [first-time-poster](/tag/first-time-poster), [toys](/tag/toys), [bpa](/tag/bpa)
 
 ----
 

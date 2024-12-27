@@ -6,18 +6,16 @@ author: bc512
 path: /notes/bc512/08-30-2013/extremely-precise-mapping.md
 nid: 9076
 uid: 197512
-
 cids: 6742,6743,6749
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/333/original/12334534.JPG)
 
 # Extremely Precise mapping
 
-by [bc512](../../../profile/bc512) | August 30, 2013 03:01
+by [bc512](/profile/bc512) | August 30, 2013 03:01
 
-August 30, 2013 03:01 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [infrared](../tag/infrared), [vineyard](../tag/vineyard), [uav](../tag/uav), [mapping](../tag/mapping), [infrared-camera](../tag/infrared-camera), [plant-health](../tag/plant-health), [infrared-photography](../tag/infrared-photography), [quadcopter](../tag/quadcopter), [drone](../tag/drone)
+August 30, 2013 03:01 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [infrared](/tag/infrared), [vineyard](/tag/vineyard), [uav](/tag/uav), [mapping](/tag/mapping), [infrared-camera](/tag/infrared-camera), [plant-health](/tag/plant-health), [infrared-photography](/tag/infrared-photography), [quadcopter](/tag/quadcopter), [drone](/tag/drone)
 
 ----
 

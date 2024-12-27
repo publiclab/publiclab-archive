@@ -6,18 +6,16 @@ author: dckim
 path: /notes/dckim/10-04-2013/help-trying-to-get-spectrophotometer-to-work.md
 nid: 9397
 uid: 295582
-
 cids: 7165,7266,7304,7629,7634,7660,8018,8021
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/087/original/inside1.jpg)
 
 # Help!! Problems with spectrophotometer spectra trying to build "countertop" set
 
-by [dckim](../../../profile/dckim) | October 04, 2013 03:22
+by [dckim](/profile/dckim) | October 04, 2013 03:22
 
-October 04, 2013 03:22 | Tags: [spectrometer](../tag/spectrometer), [spectrophotometer](../tag/spectrophotometer), [troubleshooting](../tag/troubleshooting), [dsk](../tag/dsk)
+October 04, 2013 03:22 | Tags: [spectrometer](/tag/spectrometer), [spectrophotometer](/tag/spectrophotometer), [troubleshooting](/tag/troubleshooting), [dsk](/tag/dsk)
 
 ----
 

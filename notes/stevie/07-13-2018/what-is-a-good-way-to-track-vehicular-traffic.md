@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/07-13-2018/what-is-a-good-way-to-track-vehicular-traffic.md
 nid: 16712
 uid: 422561
-
 cids: 20106,20107,20110,20248,20272,23180,23181,23183,26638,26654
-
 ---
 
 # What is a good way to track vehicular traffic?
 
-by [stevie](../../../profile/stevie) | July 13, 2018 17:19
+by [stevie](/profile/stevie) | July 13, 2018 17:19
 
-July 13, 2018 17:19 | Tags: [transportation](../tag/transportation), [answered](../tag/answered), [question:pm](../tag/question:pm), [question:general](../tag/question:general), [question:permits](../tag/question:permits), [question:dust](../tag/question:dust), [question:legal](../tag/question:legal), [with:ramseysprague](../tag/with:ramseysprague), [question:gravel](../tag/question:gravel), [question:asphalt](../tag/question:asphalt), [question:visual-data](../tag/question:visual-data), [question:mobile](../tag/question:mobile), [question:traffic](../tag/question:traffic), [question:transportation](../tag/question:transportation), [law-and-policy](../tag/law-and-policy), [question:law-and-policy](../tag/question:law-and-policy)
+July 13, 2018 17:19 | Tags: [transportation](/tag/transportation), [answered](/tag/answered), [question:pm](/tag/question:pm), [question:general](/tag/question:general), [question:permits](/tag/question:permits), [question:dust](/tag/question:dust), [question:legal](/tag/question:legal), [with:ramseysprague](/tag/with:ramseysprague), [question:gravel](/tag/question:gravel), [question:asphalt](/tag/question:asphalt), [question:visual-data](/tag/question:visual-data), [question:mobile](/tag/question:mobile), [question:traffic](/tag/question:traffic), [question:transportation](/tag/question:transportation), [law-and-policy](/tag/law-and-policy), [question:law-and-policy](/tag/question:law-and-policy)
 
 ----
 

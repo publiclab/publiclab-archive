@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/08-20-2013/infragram-webcam-conversion-test-with-i-zone-cameras.md
 nid: 9040
 uid: 1
-
 cids: 6698,6699,6704,20819
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/240/original/IMG_0217.JPG)
 
 # Infragram webcam conversion test with I Zone cameras
 
-by [warren](../../../profile/warren) | August 20, 2013 18:07
+by [warren](/profile/warren) | August 20, 2013 18:07
 
-August 20, 2013 18:07 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kickstarter](../tag/kickstarter), [webcam](../tag/webcam), [infragram](../tag/infragram), [infragram-conversion](../tag/infragram-conversion)
+August 20, 2013 18:07 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [kickstarter](/tag/kickstarter), [webcam](/tag/webcam), [infragram](/tag/infragram), [infragram-conversion](/tag/infragram-conversion)
 
 ----
 

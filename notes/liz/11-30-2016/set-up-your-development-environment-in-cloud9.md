@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/11-30-2016/set-up-your-development-environment-in-cloud9.md
 nid: 13733
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/947/original/cloud9.png)
 
 # Set up your development environment in Cloud9
 
-by [liz](../../../profile/liz) | November 30, 2016 16:50
+by [liz](/profile/liz) | November 30, 2016 16:50
 
-November 30, 2016 16:50 | Tags: [software](../tag/software), [web](../tag/web), [developers](../tag/developers), [wwg](../tag/wwg), [activity:software](../tag/activity:software)
+November 30, 2016 16:50 | Tags: [software](/tag/software), [web](/tag/web), [developers](/tag/developers), [wwg](/tag/wwg), [activity:software](/tag/activity:software)
 
 ----
 

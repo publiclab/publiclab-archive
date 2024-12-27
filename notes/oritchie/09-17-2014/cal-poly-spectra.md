@@ -6,18 +6,16 @@ author: oritchie
 path: /notes/oritchie/09-17-2014/cal-poly-spectra.md
 nid: 11147
 uid: 428561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/840/original/photo.JPG)
 
 # Cal Poly Spectra
 
-by [oritchie](../../../profile/oritchie) | September 17, 2014 18:56
+by [oritchie](/profile/oritchie) | September 17, 2014 18:56
 
-September 17, 2014 18:56 | Tags: [barnstar:basic](../tag/barnstar:basic)
+September 17, 2014 18:56 | Tags: [barnstar:basic](/tag/barnstar:basic)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/05-29-2015/openaerialmap-open-imagery-network-public-lab-s-mapknitter.md
 nid: 11893
 uid: 1
-
 cids: 11807
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/089/original/Screen_Shot_2015-05-29_at_10.42.24_AM.png)
 
 # OpenAerialMap, Open Imagery Network & Public Lab's MapKnitter
 
-by [warren](../../../profile/warren) | May 29, 2015 15:26
+by [warren](/profile/warren) | May 29, 2015 15:26
 
-May 29, 2015 15:26 | Tags: [3d](../tag/3d), [mapknitter](../tag/mapknitter), [bundleadjustment](../tag/bundleadjustment), [gps](../tag/gps), [software](../tag/software), [gsoc](../tag/gsoc), [leaflet](../tag/leaflet), [metadata](../tag/metadata), [autostitch](../tag/autostitch), [auto-placement](../tag/auto-placement), [opendronemap](../tag/opendronemap), [openaerialmap](../tag/openaerialmap), [leaflet.distortableimage](../tag/leaflet.distortableimage)
+May 29, 2015 15:26 | Tags: [3d](/tag/3d), [mapknitter](/tag/mapknitter), [bundleadjustment](/tag/bundleadjustment), [gps](/tag/gps), [software](/tag/software), [gsoc](/tag/gsoc), [leaflet](/tag/leaflet), [metadata](/tag/metadata), [autostitch](/tag/autostitch), [auto-placement](/tag/auto-placement), [opendronemap](/tag/opendronemap), [openaerialmap](/tag/openaerialmap), [leaflet.distortableimage](/tag/leaflet.distortableimage)
 
 ----
 

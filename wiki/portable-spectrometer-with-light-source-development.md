@@ -6,12 +6,12 @@ author: silverhammer
 path: /wiki/portable-spectrometer-with-light-source-development.md
 nid: 10273
 uid: 420530
-
+cids: 
 ---
 
 # Portable Spectrometer with Light Source Development
 
-by [silverhammer](../profile/silverhammer)
+by [silverhammer](/profile/silverhammer)
 
 April 07, 2014 16:00 | Tags: 
 

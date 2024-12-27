@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/07-08-2016/notes-on-assembling-an-aerobee-rig.md
 nid: 13273
 uid: 4
-
 cids: 14888,14889,14890,14892,14893,14894,14908,14911,14919,14920,14923,14929,14930,14933,14934,14940,14941,14948,14949,14950,14951,14970,15019,15056,15062,15063,15064,15070,15077,15080,15082
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/908/original/P_20160604_113722_HDR.jpg)
 
 # Notes on assembling an Aerobee Rig
 
-by [mathew](../../../profile/mathew) | July 08, 2016 20:35
+by [mathew](/profile/mathew) | July 08, 2016 20:35
 
-July 08, 2016 20:35 | Tags: [kite-mapping](../tag/kite-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [kite](../tag/kite), [kaptery](../tag/kaptery), [aerobee](../tag/aerobee), [difficulty:easy](../tag/difficulty:easy), [category:build](../tag/category:build), [activity:photo-rig](../tag/activity:photo-rig)
+July 08, 2016 20:35 | Tags: [kite-mapping](/tag/kite-mapping), [kite-aerial-photography](/tag/kite-aerial-photography), [kite](/tag/kite), [kaptery](/tag/kaptery), [aerobee](/tag/aerobee), [difficulty:easy](/tag/difficulty:easy), [category:build](/tag/category:build), [activity:photo-rig](/tag/activity:photo-rig)
 
 ----
 

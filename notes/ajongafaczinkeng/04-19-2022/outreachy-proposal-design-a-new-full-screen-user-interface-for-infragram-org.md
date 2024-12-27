@@ -6,18 +6,16 @@ author: ajongafaczinkeng
 path: /notes/ajongafaczinkeng/04-19-2022/outreachy-proposal-design-a-new-full-screen-user-interface-for-infragram-org.md
 nid: 30486
 uid: 795065
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/097/original/infragram_img1.jpg)
 
 # Outreachy proposal: Design a new full-screen user interface for Infragram.org
 
-by [ajongafaczinkeng](../../../profile/ajongafaczinkeng) | April 19, 2022 13:49
+by [ajongafaczinkeng](/profile/ajongafaczinkeng) | April 19, 2022 13:49
 
-April 19, 2022 13:49 | Tags: [first-time-poster](../tag/first-time-poster), [lon:9.84375](../tag/lon:9.84375), [zoom:3](../tag/zoom:3), [lat:3.513421](../tag/lat:3.513421)
+April 19, 2022 13:49 | Tags: [first-time-poster](/tag/first-time-poster), [lon:9.84375](/tag/lon:9.84375), [zoom:3](/tag/zoom:3), [lat:3.513421](/tag/lat:3.513421)
 
 ----
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/method-template-lite.md
 nid: 14552
 uid: 1
-
+cids: 
 ---
 
 # method-template-lite
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-June 19, 2017 14:45 | Tags: [template](../tag/template), [parent:templates](../tag/parent:templates)
+June 19, 2017 14:45 | Tags: [template](/tag/template), [parent:templates](/tag/parent:templates)
 
 ----
 
@@ -27,11 +27,11 @@ Here outline some of the constraints you're designing within -- like a specific 
 
 Questions can be either frequently asked questions, or "next step" challenges we're looking to solve.
 
-[tagname](../../tag/question:tagname)
+[tagname](/tag/question:tagname)
 
 ## Activities
 
 Activities show how to use this project, step by step.
 
-[tagname](../../tag/activity:tagname)
+[tagname](/tag/activity:tagname)
 

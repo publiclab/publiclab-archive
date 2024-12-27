@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/02-19-2016/preliminary-led-and-isopropyl-alcohol-solvent-tests-for-oil-fluorescence-analysis.md
 nid: 12716
 uid: 1
-
 cids: 13679,13683,13684,13690,13691,13696
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/497/original/IMG_20160210_135231.jpg)
 
 # Preliminary LED and isopropyl alcohol solvent tests for oil fluorescence analysis
 
-by [warren](../../../profile/warren) | February 19, 2016 23:26
+by [warren](/profile/warren) | February 19, 2016 23:26
 
-February 19, 2016 23:26 | Tags: [new-york-city](../tag/new-york-city), [spectrometer](../tag/spectrometer), [oil](../tag/oil), [workshop](../tag/workshop), [extraction](../tag/extraction), [oil-testing-kit](../tag/oil-testing-kit), [otk](../tag/otk), [pig](../tag/pig), [isopropyl](../tag/isopropyl), [response:12713](../tag/response:12713), [response:10074](../tag/response:10074), [activity:spectrometry-sampling](../tag/activity:spectrometry-sampling)
+February 19, 2016 23:26 | Tags: [new-york-city](/tag/new-york-city), [spectrometer](/tag/spectrometer), [oil](/tag/oil), [workshop](/tag/workshop), [extraction](/tag/extraction), [oil-testing-kit](/tag/oil-testing-kit), [otk](/tag/otk), [pig](/tag/pig), [isopropyl](/tag/isopropyl), [response:12713](/tag/response:12713), [response:10074](/tag/response:10074), [activity:spectrometry-sampling](/tag/activity:spectrometry-sampling)
 
 ----
 

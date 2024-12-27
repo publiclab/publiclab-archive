@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/5-29-2012/solar-hot-air-balloons.md
 nid: 2245
 uid: 4
-
 cids: 803,810,814,885,918,925,3051,3177,4650,9732,9859,17373,17374,17397,17401,17519,17520,17646,26600,26601,27930,27931,27935,27936,27937,27938
-
 ---
 
 ![](https://publiclab.org/sites/default/files/2012-01-08-09-55-36.jpg)
 
 # Solar Hot Air Balloons
 
-by [mathew](../../../profile/mathew) | May 30, 2012 02:57
+by [mathew](/profile/mathew) | May 30, 2012 02:57
 
-May 30, 2012 02:57 | Tags: [balloon-mapping](../tag/balloon-mapping), [solar-balloon](../tag/solar-balloon), [hot-air-balloon](../tag/hot-air-balloon), [diy-balloon](../tag/diy-balloon)
+May 30, 2012 02:57 | Tags: [balloon-mapping](/tag/balloon-mapping), [solar-balloon](/tag/solar-balloon), [hot-air-balloon](/tag/hot-air-balloon), [diy-balloon](/tag/diy-balloon)
 
 ----
 

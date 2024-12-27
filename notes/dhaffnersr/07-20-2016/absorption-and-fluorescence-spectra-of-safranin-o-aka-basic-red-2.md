@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/07-20-2016/absorption-and-fluorescence-spectra-of-safranin-o-aka-basic-red-2.md
 nid: 13302
 uid: 461120
-
 cids: 15050,15051
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/160/original/ABtest01_5_dyes_july_16_test_tubes.png)
 
 # Absorption and Fluorescence Spectra of Safranin O (aka., Basic Red #2)
 
-by [dhaffnersr](../../../profile/dhaffnersr) | July 20, 2016 12:51
+by [dhaffnersr](/profile/dhaffnersr) | July 20, 2016 12:51
 
 July 20, 2016 12:51 | Tags: 
 

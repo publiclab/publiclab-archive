@@ -6,14 +6,14 @@ author: mollydanielsson
 path: /wiki/detritivore-design-by-mathew-lippincott.md
 nid: 11703
 uid: 1259
-
+cids: 
 ---
 
 # Detritivore Design by Mathew Lippincott
 
-by [mollydanielsson](../profile/mollydanielsson)
+by [mollydanielsson](/profile/mollydanielsson)
 
-March 20, 2015 23:45 | Tags: [design](../tag/design), [grassrootsmappingforum](../tag/grassrootsmappingforum), [trash](../tag/trash), [gmf-6](../tag/gmf-6), [style:fancy](../tag/style:fancy), [with:mathew](../tag/with:mathew)
+March 20, 2015 23:45 | Tags: [design](/tag/design), [grassrootsmappingforum](/tag/grassrootsmappingforum), [trash](/tag/trash), [gmf-6](/tag/gmf-6), [style:fancy](/tag/style:fancy), [with:mathew](/tag/with:mathew)
 
 ----
 

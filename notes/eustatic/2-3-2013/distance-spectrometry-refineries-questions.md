@@ -6,18 +6,16 @@ author: eustatic
 path: /2-3-2013/distance-spectrometry-refineries-questions.md
 nid: 5877
 uid: 379
-
 cids: 3297,3334
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Marathon from the north hwy 61.PNG)
 
 # distance spectrometry of refineries: questions
 
-by [eustatic](../../../profile/eustatic) | February 03, 2013 18:41
+by [eustatic](/profile/eustatic) | February 03, 2013 18:41
 
-February 03, 2013 18:41 | Tags: [spectrometer](../tag/spectrometer), [spectralchallenge](../tag/spectralchallenge), [flare](../tag/flare)
+February 03, 2013 18:41 | Tags: [spectrometer](/tag/spectrometer), [spectralchallenge](/tag/spectralchallenge), [flare](/tag/flare)
 
 ----
 

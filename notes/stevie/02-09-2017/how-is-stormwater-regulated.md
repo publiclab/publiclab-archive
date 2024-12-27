@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/02-09-2017/how-is-stormwater-regulated.md
 nid: 13915
 uid: 422561
-
 cids: 16215,22422,22425,29224
-
 ---
 
 # How is stormwater regulated? 
 
-by [stevie](../../../profile/stevie) | February 09, 2017 22:11
+by [stevie](/profile/stevie) | February 09, 2017 22:11
 
-February 09, 2017 22:11 | Tags: [stormwater](../tag/stormwater), [answered](../tag/answered), [wastewater](../tag/wastewater), [question:question](../tag/question:question), [npdes](../tag/npdes), [question:stormwater](../tag/question:stormwater), [question:npdes](../tag/question:npdes), [question:wastewater](../tag/question:wastewater)
+February 09, 2017 22:11 | Tags: [stormwater](/tag/stormwater), [answered](/tag/answered), [wastewater](/tag/wastewater), [question:question](/tag/question:question), [npdes](/tag/npdes), [question:stormwater](/tag/question:stormwater), [question:npdes](/tag/question:npdes), [question:wastewater](/tag/question:wastewater)
 
 ----
 

@@ -6,18 +6,16 @@ author: mimiss
 path: /notes/mimiss/05-17-2021/join-us-for-public-lab-101.md
 nid: 26630
 uid: 579821
-
 cids: 29420,31161
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/838/original/5951788839_97d9633a3b_b.jpg)
 
 # Join us for Public Lab 101!
 
-by [mimiss](../../../profile/mimiss) | May 17, 2021 21:39
+by [mimiss](/profile/mimiss) | May 17, 2021 21:39
 
-May 17, 2021 21:39 | Tags: [website](../tag/website), [education](../tag/education), [event](../tag/event), [classroom](../tag/classroom), [classroom-community-science](../tag/classroom-community-science), [event:education](../tag/event:education)
+May 17, 2021 21:39 | Tags: [website](/tag/website), [education](/tag/education), [event](/tag/event), [classroom](/tag/classroom), [classroom-community-science](/tag/classroom-community-science), [event:education](/tag/event:education)
 
 ----
 

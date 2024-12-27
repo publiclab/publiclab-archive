@@ -6,16 +6,14 @@ author: radz_saini99
 path: /notes/radz_saini99/04-22-2022/design-a-new-full-screen-user-interface-for-infragram-org.md
 nid: 30576
 uid: 795476
-
 cids: 
-
 ---
 
 # Design a new full-screen user interface for Infragram.org
 
-by [radz_saini99](../../../profile/radz_saini99) | April 22, 2022 12:45
+by [radz_saini99](/profile/radz_saini99) | April 22, 2022 12:45
 
-April 22, 2022 12:45 | Tags: [soc](../tag/soc), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals)
+April 22, 2022 12:45 | Tags: [soc](/tag/soc), [soc-2019](/tag/soc-2019), [soc-2019-proposals](/tag/soc-2019-proposals)
 
 ----
 

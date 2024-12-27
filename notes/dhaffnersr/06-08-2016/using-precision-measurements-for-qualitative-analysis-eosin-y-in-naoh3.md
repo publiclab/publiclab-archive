@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/06-08-2016/using-precision-measurements-for-qualitative-analysis-eosin-y-in-naoh3.md
 nid: 13178
 uid: 461120
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/531/original/eosiny_y_with_serological_pump_and_tip_upload_presentation_june_6.bmp)
 
 # Using Precision Measurements for Qualitative Analysis-Eosin Y in NaOH3
 
-by [dhaffnersr](../../../profile/dhaffnersr) | June 08, 2016 11:59
+by [dhaffnersr](/profile/dhaffnersr) | June 08, 2016 11:59
 
 June 08, 2016 11:59 | Tags: 
 

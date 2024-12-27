@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/3-28-2013/higher-ed-workshop.md
 nid: 6576
 uid: 7
-
 cids: 4366
-
 ---
 
 ![](https://publiclab.org/sites/default/files/tumblr_mcnyy9gWDa1rqyq46o11_1280.jpg)
 
 # Higher E+D workshop
 
-by [liz](../../../profile/liz) | March 28, 2013 14:24
+by [liz](/profile/liz) | March 28, 2013 14:24
 
-March 28, 2013 14:24 | Tags: [new-york-city](../tag/new-york-city), [ilab](../tag/ilab), [events](../tag/events), [events:new-york-city](../tag/events:new-york-city)
+March 28, 2013 14:24 | Tags: [new-york-city](/tag/new-york-city), [ilab](/tag/ilab), [events](/tag/events), [events:new-york-city](/tag/events:new-york-city)
 
 ----
 

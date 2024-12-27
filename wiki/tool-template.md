@@ -6,12 +6,12 @@ author: warren
 path: /wiki/tool-template.md
 nid: 655
 uid: 1
-
+cids: 
 ---
 
 # Tool template
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 December 22, 2011 18:24 | Tags: 
 

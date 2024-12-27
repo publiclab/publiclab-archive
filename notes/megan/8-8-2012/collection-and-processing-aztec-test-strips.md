@@ -6,18 +6,16 @@ author: megan
 path: /notes/megan/8-8-2012/collection-and-processing-aztec-test-strips.md
 nid: 3193
 uid: 775
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/SR1.jpg)
 
 # Collection and Processing of Aztec Test Strips
 
-by [megan](../../../profile/megan) | August 08, 2012 05:42
+by [megan](/profile/megan) | August 08, 2012 05:42
 
-August 08, 2012 05:42 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing)
+August 08, 2012 05:42 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing)
 
 ----
 

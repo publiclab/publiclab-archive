@@ -6,14 +6,14 @@ author: liz
 path: /wiki/air.md
 nid: 12461
 uid: 7
-
+cids: 
 ---
 
 # Air
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-November 30, 2015 19:13 | Tags: [list:plots-airquality](../tag/list:plots-airquality), [redirect:air-quality](../tag/redirect:air-quality)
+November 30, 2015 19:13 | Tags: [list:plots-airquality](/tag/list:plots-airquality), [redirect:air-quality](/tag/redirect:air-quality)
 
 ----
 

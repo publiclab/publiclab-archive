@@ -6,16 +6,14 @@ author: sara
 path: /notes/sara/4-7-2012/fooling-or-reducing-quantity-h2s-hydrogen-sulfide-well-tests.md
 nid: 1631
 uid: 8
-
 cids: 
-
 ---
 
 # FOOLING OR REDUCING THE QUANTITY OF H2S (hydrogen sulfide) IN WELL TESTS.
 
-by [sara](../../../profile/sara) | April 07, 2012 18:05
+by [sara](/profile/sara) | April 07, 2012 18:05
 
-April 07, 2012 18:05 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s)
+April 07, 2012 18:05 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s)
 
 ----
 

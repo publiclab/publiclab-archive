@@ -6,16 +6,14 @@ author: seong
 path: /notes/seong/2-18-2012/thermal-image-experiments-london-citizen-cyberscience-summit-2012.md
 nid: 810
 uid: 533
-
 cids: 493,25816,25821
-
 ---
 
 # Thermal image experiments at London citizen cyberscience summit 2012
 
-by [seong](../../../profile/seong) | February 18, 2012 16:04
+by [seong](/profile/seong) | February 18, 2012 16:04
 
-February 18, 2012 16:04 | Tags: [arduino](../tag/arduino), [london](../tag/london), [thermal-flashlight](../tag/thermal-flashlight), [ucl](../tag/ucl), [uk](../tag/uk), [eu](../tag/eu)
+February 18, 2012 16:04 | Tags: [arduino](/tag/arduino), [london](/tag/london), [thermal-flashlight](/tag/thermal-flashlight), [ucl](/tag/ucl), [uk](/tag/uk), [eu](/tag/eu)
 
 ----
 

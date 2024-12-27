@@ -6,18 +6,16 @@ author: alejobonifacio
 path: /notes/alejobonifacio/04-07-2022/using-coqui-in-a-the-suquia-river-for-conductivity-measurements.md
 nid: 30293
 uid: 639376
-
 cids: 29980,29984,29986,29987,29989,29990,29995,29996,29998
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/648/original/Portada.png)
 
 # Using Coqui in a the Suquía river for conductivity measurements
 
-by [alejobonifacio](../../../profile/alejobonifacio) | April 07, 2022 18:29
+by [alejobonifacio](/profile/alejobonifacio) | April 07, 2022 18:29
 
-April 07, 2022 18:29 | Tags: [water-quality](../tag/water-quality), [pollution](../tag/pollution), [conductivity](../tag/conductivity), [coqui](../tag/coqui), [south-america](../tag/south-america), [argentina](../tag/argentina), [total-dissolved-solids](../tag/total-dissolved-solids), [zoom:6](../tag/zoom:6), [zoom:15](../tag/zoom:15), [zoom:18](../tag/zoom:18), [lon:-64](../tag/lon:-64), [lat:-31](../tag/lat:-31), [research-curation-fellows](../tag/research-curation-fellows), [lat:-31.403172](../tag/lat:-31.403172), [lon:-64.204284](../tag/lon:-64.204284), [lat:-31.403099](../tag/lat:-31.403099), [lon:-64.20428](../tag/lon:-64.20428)
+April 07, 2022 18:29 | Tags: [water-quality](/tag/water-quality), [pollution](/tag/pollution), [conductivity](/tag/conductivity), [coqui](/tag/coqui), [south-america](/tag/south-america), [argentina](/tag/argentina), [total-dissolved-solids](/tag/total-dissolved-solids), [zoom:6](/tag/zoom:6), [zoom:15](/tag/zoom:15), [zoom:18](/tag/zoom:18), [lon:-64](/tag/lon:-64), [lat:-31](/tag/lat:-31), [research-curation-fellows](/tag/research-curation-fellows), [lat:-31.403172](/tag/lat:-31.403172), [lon:-64.204284](/tag/lon:-64.204284), [lat:-31.403099](/tag/lat:-31.403099), [lon:-64.20428](/tag/lon:-64.20428)
 
 ----
 

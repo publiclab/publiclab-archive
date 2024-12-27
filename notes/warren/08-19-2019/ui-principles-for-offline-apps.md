@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/08-19-2019/ui-principles-for-offline-apps.md
 nid: 20580
 uid: 1
-
 cids: 25264,25271,25280,25281,25282
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/657/original/Screen_Shot_2019-08-19_at_12.25.13_PM.png)
 
 # UI principles for offline apps
 
-by [warren](../../../profile/warren) | August 19, 2019 16:26
+by [warren](/profile/warren) | August 19, 2019 16:26
 
-August 19, 2019 16:26 | Tags: [software](../tag/software), [code](../tag/code), [wwg](../tag/wwg), [ui](../tag/ui)
+August 19, 2019 16:26 | Tags: [software](/tag/software), [code](/tag/code), [wwg](/tag/wwg), [ui](/tag/ui)
 
 ----
 

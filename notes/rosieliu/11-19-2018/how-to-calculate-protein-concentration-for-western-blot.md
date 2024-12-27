@@ -6,16 +6,14 @@ author: rosieliu
 path: /notes/rosieliu/11-19-2018/how-to-calculate-protein-concentration-for-western-blot.md
 nid: 17709
 uid: 535191
-
 cids: 21319
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/740/original/Protocols_WB_01.png)
 
 # How to Calculate Protein Concentration for Western Blot
 
-by [rosieliu](../../../profile/rosieliu) | November 19, 2018 09:04
+by [rosieliu](/profile/rosieliu) | November 19, 2018 09:04
 
 November 19, 2018 09:04 | Tags: 
 

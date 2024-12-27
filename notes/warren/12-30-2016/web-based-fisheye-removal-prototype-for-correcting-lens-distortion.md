@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/12-30-2016/web-based-fisheye-removal-prototype-for-correcting-lens-distortion.md
 nid: 13826
 uid: 1
-
 cids: 16019,16059,16060,16064,16065,16235,16922,17036,17039,17041,17042,17043,17044,17045,17049,17050,17053,17056
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/171/original/Screenshot_2016-12-30_at_4.09.44_PM.png)
 
 # Web-based fisheye-removal prototype for correcting lens distortion
 
-by [warren](../../../profile/warren) | December 30, 2016 21:18
+by [warren](/profile/warren) | December 30, 2016 21:18
 
-December 30, 2016 21:18 | Tags: [infragram](../tag/infragram), [fisheye](../tag/fisheye), [mobius](../tag/mobius), [mobius-action-cam](../tag/mobius-action-cam), [javascript](../tag/javascript), [lens-distortion](../tag/lens-distortion), [web-based](../tag/web-based), [browser](../tag/browser), [response:12201](../tag/response:12201), [response:11407](../tag/response:11407), [lens-correction](../tag/lens-correction), [lat:42.38](../tag/lat:42.38), [location:blurred](../tag/location:blurred), [lon:-71.08](../tag/lon:-71.08)
+December 30, 2016 21:18 | Tags: [infragram](/tag/infragram), [fisheye](/tag/fisheye), [mobius](/tag/mobius), [mobius-action-cam](/tag/mobius-action-cam), [javascript](/tag/javascript), [lens-distortion](/tag/lens-distortion), [web-based](/tag/web-based), [browser](/tag/browser), [response:12201](/tag/response:12201), [response:11407](/tag/response:11407), [lens-correction](/tag/lens-correction), [lat:42.38](/tag/lat:42.38), [location:blurred](/tag/location:blurred), [lon:-71.08](/tag/lon:-71.08)
 
 ----
 

@@ -6,16 +6,14 @@ author: ceberndsen
 path: /notes/ceberndsen/08-23-2018/copying-calibration-issue.md
 nid: 16990
 uid: 547555
-
 cids: 
-
 ---
 
 # copying calibration issue
 
-by [ceberndsen](../../../profile/ceberndsen) | August 23, 2018 16:49
+by [ceberndsen](/profile/ceberndsen) | August 23, 2018 16:49
 
-August 23, 2018 16:49 | Tags: [calibration](../tag/calibration), [question:spectral-workbench](../tag/question:spectral-workbench)
+August 23, 2018 16:49 | Tags: [calibration](/tag/calibration), [question:spectral-workbench](/tag/question:spectral-workbench)
 
 ----
 

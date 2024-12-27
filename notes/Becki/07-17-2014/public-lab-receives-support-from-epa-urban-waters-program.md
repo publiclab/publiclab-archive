@@ -6,18 +6,16 @@ author: Becki
 path: /notes/Becki/07-17-2014/public-lab-receives-support-from-epa-urban-waters-program.md
 nid: 10703
 uid: 46673
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/370/original/airboat_kite_Barataria.jpg)
 
 # Public Lab receives support from EPA Urban Waters Program
 
-by [Becki](../../../profile/Becki) | July 17, 2014 16:55
+by [Becki](/profile/Becki) | July 17, 2014 16:55
 
-July 17, 2014 16:55 | Tags: [nonprofit](../tag/nonprofit)
+July 17, 2014 16:55 | Tags: [nonprofit](/tag/nonprofit)
 
 ----
 

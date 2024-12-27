@@ -6,18 +6,16 @@ author: marlokeno
 path: /notes/marlokeno/02-12-2014/cp-rr-oil-tanker-leak-from-red-wing-to-winona-mn-beside-mississippi-river.md
 nid: 10030
 uid: 420760
-
 cids: 8234,8237,8239,8240,9698,10081,10088,13536,13546,13561
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/877/original/oil-on-tracks-long-view-3_Weaver_MN.jpg)
 
 # CP RR oil tanker leak from Red wing to Winona MN, beside Mississippi River
 
-by [marlokeno](../../../profile/marlokeno) | February 12, 2014 03:58
+by [marlokeno](/profile/marlokeno) | February 12, 2014 03:58
 
-February 12, 2014 03:58 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [spill](../tag/spill), [minnesota](../tag/minnesota), [bakken](../tag/bakken), [train](../tag/train), [mississippi-river](../tag/mississippi-river), [oil-testing](../tag/oil-testing), [rail](../tag/rail), [first-time-poster](../tag/first-time-poster)
+February 12, 2014 03:58 | Tags: [spectrometer](/tag/spectrometer), [oil](/tag/oil), [spill](/tag/spill), [minnesota](/tag/minnesota), [bakken](/tag/bakken), [train](/tag/train), [mississippi-river](/tag/mississippi-river), [oil-testing](/tag/oil-testing), [rail](/tag/rail), [first-time-poster](/tag/first-time-poster)
 
 ----
 

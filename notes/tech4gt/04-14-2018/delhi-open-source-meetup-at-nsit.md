@@ -6,18 +6,16 @@ author: tech4gt
 path: /notes/tech4gt/04-14-2018/delhi-open-source-meetup-at-nsit.md
 nid: 16152
 uid: 523178
-
 cids: 19405,19406,19407,19409,19410,19411,19412,19416,19417,19425,19427,19432,19483
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/591/original/download.jpeg)
 
 # Delhi Open source meetup at NSIT
 
-by [tech4gt](../../../profile/tech4gt) | April 14, 2018 05:21
+by [tech4gt](/profile/tech4gt) | April 14, 2018 05:21
 
-April 14, 2018 05:21 | Tags: [event](../tag/event), [india](../tag/india), [barnstar:basic](../tag/barnstar:basic), [software-outreach](../tag/software-outreach), [coding-events](../tag/coding-events), [new-delhi](../tag/new-delhi), [with:gabru-md](../tag/with:gabru-md)
+April 14, 2018 05:21 | Tags: [event](/tag/event), [india](/tag/india), [barnstar:basic](/tag/barnstar:basic), [software-outreach](/tag/software-outreach), [coding-events](/tag/coding-events), [new-delhi](/tag/new-delhi), [with:gabru-md](/tag/with:gabru-md)
 
 ----
 

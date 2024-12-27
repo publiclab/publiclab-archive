@@ -6,18 +6,16 @@ author: eustatic
 path: /4-20-2012/370nm-uv-detection-corexit-dispersed-oil-gulf-coast-beaches.md
 nid: 1724
 uid: 379
-
 cids: 618,619,620
-
 ---
 
 ![](https://publiclab.org/sites/default/files/surfrider_fdt_uv_pah_contamination.jpg)
 
 # 370nm UV detection of Corexit-dispersed oil on Gulf Coast Beaches
 
-by [eustatic](../../../profile/eustatic) | April 20, 2012 23:51
+by [eustatic](/profile/eustatic) | April 20, 2012 23:51
 
-April 20, 2012 23:51 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [uv](../tag/uv), [oil](../tag/oil), [ultraviolet](../tag/ultraviolet), [fluorescence](../tag/fluorescence), [surfrider](../tag/surfrider), [corexit](../tag/corexit)
+April 20, 2012 23:51 | Tags: [gulf-coast](/tag/gulf-coast), [spectrometer](/tag/spectrometer), [uv](/tag/uv), [oil](/tag/oil), [ultraviolet](/tag/ultraviolet), [fluorescence](/tag/fluorescence), [surfrider](/tag/surfrider), [corexit](/tag/corexit)
 
 ----
 

@@ -6,18 +6,16 @@ author: purl
 path: /notes/purl/02-26-2021/messages-from-the-mississippi-lesson-5-finding-a-new-way.md
 nid: 25813
 uid: 736598
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/822/original/EPA_flow_chart.png)
 
 # Messages from the Mississippi Lesson 5: Finding a New Way
 
-by [purl](../../../profile/purl) | February 26, 2021 20:53
+by [purl](/profile/purl) | February 26, 2021 20:53
 
-February 26, 2021 20:53 | Tags: [microplastics](../tag/microplastics), [messagesfromthemississippi](../tag/messagesfromthemississippi)
+February 26, 2021 20:53 | Tags: [microplastics](/tag/microplastics), [messagesfromthemississippi](/tag/messagesfromthemississippi)
 
 ----
 

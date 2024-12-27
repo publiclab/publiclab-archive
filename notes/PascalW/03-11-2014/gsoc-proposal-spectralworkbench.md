@@ -6,18 +6,16 @@ author: PascalW
 path: /notes/PascalW/03-11-2014/gsoc-proposal-spectralworkbench.md
 nid: 10160
 uid: 148271
-
 cids: 8506,8509,8510,8518,8519,8520,8521,8637,8648,8655,8659,8661,8663,8664,8665,8666,8667,8670,8671,8683,8690,8758,8938,8939
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/210/original/exposures.jpg)
 
 # GSoC Proposal SpectralWorkbench
 
-by [PascalW](../../../profile/PascalW) | March 11, 2014 19:50
+by [PascalW](/profile/PascalW) | March 11, 2014 19:50
 
-March 11, 2014 19:50 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [image-processing](../tag/image-processing), [spectralworkbench](../tag/spectralworkbench), [neon](../tag/neon), [gsoc](../tag/gsoc), [hdr](../tag/hdr), [gsoc-2014](../tag/gsoc-2014), [germany](../tag/germany), [first-time-poster](../tag/first-time-poster)
+March 11, 2014 19:50 | Tags: [spectrometer](/tag/spectrometer), [calibration](/tag/calibration), [image-processing](/tag/image-processing), [spectralworkbench](/tag/spectralworkbench), [neon](/tag/neon), [gsoc](/tag/gsoc), [hdr](/tag/hdr), [gsoc-2014](/tag/gsoc-2014), [germany](/tag/germany), [first-time-poster](/tag/first-time-poster)
 
 ----
 

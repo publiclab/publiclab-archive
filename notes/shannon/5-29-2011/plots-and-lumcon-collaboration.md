@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/shannon/5-29-2011/plots-and-lumcon-collaboration.md
 nid: 334
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_1155.JPG)
 
 # PLOTS and LUMCON Collaboration
 
-by [Shannon](../../../profile/Shannon) | June 06, 2011 04:00
+by [Shannon](/profile/Shannon) | June 06, 2011 04:00
 
-June 06, 2011 04:00 | Tags: [gulf-coast](../tag/gulf-coast), [near-infrared-camera](../tag/near-infrared-camera), [lumcon](../tag/lumcon)
+June 06, 2011 04:00 | Tags: [gulf-coast](/tag/gulf-coast), [near-infrared-camera](/tag/near-infrared-camera), [lumcon](/tag/lumcon)
 
 ----
 

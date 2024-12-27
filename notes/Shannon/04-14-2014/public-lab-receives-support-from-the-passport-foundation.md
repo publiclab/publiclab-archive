@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/04-14-2014/public-lab-receives-support-from-the-passport-foundation.md
 nid: 10307
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/664/original/plots-logo-transparent.jpg)
 
 # Public Lab receives support from the Passport Foundation for air quality project
 
-by [Shannon](../../../profile/Shannon) | April 14, 2014 17:41
+by [Shannon](/profile/Shannon) | April 14, 2014 17:41
 
-April 14, 2014 17:41 | Tags: [air](../tag/air), [quality](../tag/quality), [indoor](../tag/indoor)
+April 14, 2014 17:41 | Tags: [air](/tag/air), [quality](/tag/quality), [indoor](/tag/indoor)
 
 ----
 

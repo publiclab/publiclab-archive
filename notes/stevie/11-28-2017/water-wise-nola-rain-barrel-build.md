@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/11-28-2017/water-wise-nola-rain-barrel-build.md
 nid: 15252
 uid: 422561
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/638/original/Screen_Shot_2017-11-28_at_2.58.46_PM.png)
 
 # Water Wise NOLA Rain Barrel Build! 
 
-by [stevie](../../../profile/stevie) | November 28, 2017 21:00
+by [stevie](/profile/stevie) | November 28, 2017 21:00
 
-November 28, 2017 21:00 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [new-orleans](../tag/new-orleans), [stormwater](../tag/stormwater), [flooding](../tag/flooding), [nola](../tag/nola), [rain-barrel](../tag/rain-barrel)
+November 28, 2017 21:00 | Tags: [gulf-coast](/tag/gulf-coast), [event](/tag/event), [new-orleans](/tag/new-orleans), [stormwater](/tag/stormwater), [flooding](/tag/flooding), [nola](/tag/nola), [rain-barrel](/tag/rain-barrel)
 
 ----
 

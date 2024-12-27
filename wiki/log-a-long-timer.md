@@ -6,16 +6,16 @@ author: cfastie
 path: /wiki/log-a-long-timer.md
 nid: 15848
 uid: 554
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/782/original/miniPearl_20180225-2670-2ps.jpg)
 
 # Log-a-Long Timer
 
-by [cfastie](../profile/cfastie)
+by [cfastie](/profile/cfastie)
 
-March 01, 2018 16:56 | Tags: [arduino](../tag/arduino), [datalogger](../tag/datalogger), [kaptery](../tag/kaptery), [data-logging](../tag/data-logging), [parent:data-logging](../tag/parent:data-logging), [mini-pearl-logger](../tag/mini-pearl-logger), [low-power-logging](../tag/low-power-logging), [log-a-long-timer](../tag/log-a-long-timer)
+March 01, 2018 16:56 | Tags: [arduino](/tag/arduino), [datalogger](/tag/datalogger), [kaptery](/tag/kaptery), [data-logging](/tag/data-logging), [parent:data-logging](/tag/parent:data-logging), [mini-pearl-logger](/tag/mini-pearl-logger), [low-power-logging](/tag/low-power-logging), [log-a-long-timer](/tag/log-a-long-timer)
 
 ----
 
@@ -58,10 +58,10 @@ Header pins are not needed if the five wires to the battery and data logger are 
 
 ### Activities
 
-[log-a-long-timer](../../tag/activity:log-a-long-timer)
+[log-a-long-timer](/tag/activity:log-a-long-timer)
 
 ### Questions
 
-[log-a-long-timer](../../tag/question:log-a-long-timer)
+[log-a-long-timer](/tag/question:log-a-long-timer)
 
 

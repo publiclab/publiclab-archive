@@ -6,16 +6,14 @@ author: Agaa
 path: /notes/Agaa/11-11-2020/i-am-interested-in-testing-local-water-quality-myself-in-river-where-can-i-start.md
 nid: 25046
 uid: 729305
-
 cids: 27653,27659,27663,27712,27729,27730
-
 ---
 
 # I am interested in testing local water quality myself in river. Where can I start?
 
-by [Agaa](../../../profile/Agaa) | November 11, 2020 19:31
+by [Agaa](/profile/Agaa) | November 11, 2020 19:31
 
-November 11, 2020 19:31 | Tags: [water-quality](../tag/water-quality), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
+November 11, 2020 19:31 | Tags: [water-quality](/tag/water-quality), [question:general](/tag/question:general), [general](/tag/general), [first-time-poster](/tag/first-time-poster)
 
 ----
 

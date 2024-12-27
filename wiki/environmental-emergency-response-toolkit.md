@@ -6,16 +6,16 @@ author: Bronwen
 path: /wiki/environmental-emergency-response-toolkit.md
 nid: 18956
 uid: 237313
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/002/original/IMG_5076.JPG)
 
 # Environmental Emergency Response Toolkit
 
-by [Bronwen](../profile/Bronwen)
+by [Bronwen](/profile/Bronwen)
 
-April 04, 2019 12:29 | Tags: [parent:barnraising-texas-2019](../tag/parent:barnraising-texas-2019)
+April 04, 2019 12:29 | Tags: [parent:barnraising-texas-2019](/tag/parent:barnraising-texas-2019)
 
 ----
 
@@ -51,18 +51,18 @@ We're working with the Public Lab community to develop a set of tools that can h
 
 #### Activities
 
-[emergency-response](../../tag/activity:emergency-response)
-[emergency-response-kit](../../tag/activity:emergency-response-kit)
-[environmental-emergency-response-kit](../../tag/activity:environmental-emergency-response-kit)
+[emergency-response](/tag/activity:emergency-response)
+[emergency-response-kit](/tag/activity:emergency-response-kit)
+[environmental-emergency-response-kit](/tag/activity:environmental-emergency-response-kit)
 
 
 ****
 
 #### Questions
 
-[emergency-response](../../tag/question:emergency-response)
-[emergency-response-kit](../../tag/question:emergency-response-kit)
-[environmental-emergency-response-kit](../../tag/question:environmental-emergency-response-kit)
+[emergency-response](/tag/question:emergency-response)
+[emergency-response-kit](/tag/question:emergency-response-kit)
+[environmental-emergency-response-kit](/tag/question:environmental-emergency-response-kit)
 
 
 ****

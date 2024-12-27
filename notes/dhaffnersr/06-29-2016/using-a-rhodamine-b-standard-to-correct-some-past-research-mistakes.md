@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/06-29-2016/using-a-rhodamine-b-standard-to-correct-some-past-research-mistakes.md
 nid: 13248
 uid: 461120
-
 cids: 14833,14834,14836,14838,14839,14840,14841,14842
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/815/original/rhodamine_b_in_ethanol_june_28.png)
 
 # Using a Rhodamine B standard to correct some past research mistakes...
 
-by [dhaffnersr](../../../profile/dhaffnersr) | June 29, 2016 23:03
+by [dhaffnersr](/profile/dhaffnersr) | June 29, 2016 23:03
 
 June 29, 2016 23:03 | Tags: 
 

@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/08-16-2016/carbol-fuchsin-doped-with-lugol-s-iodine-solution-aug-13-2016.md
 nid: 13355
 uid: 461120
-
 cids: 15139
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/626/original/carbol_fuchsin.png)
 
 # Carbol Fuchsin Doped with Lugol’s Iodine Solution AUG 13 2016
 
-by [dhaffnersr](../../../profile/dhaffnersr) | August 16, 2016 20:42
+by [dhaffnersr](/profile/dhaffnersr) | August 16, 2016 20:42
 
 August 16, 2016 20:42 | Tags: 
 

@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/12-11-2015/oil-test-kit-3-crude-oil-scans.md
 nid: 12498
 uid: 7
-
 cids: 13311
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/268/original/Screen_Shot_2015-12-11_at_3.17.12_PM.png)
 
 # Oil Test Kit: 3 crude oil scans
 
-by [liz](../../../profile/liz) | December 11, 2015 20:25
+by [liz](/profile/liz) | December 11, 2015 20:25
 
-December 11, 2015 20:25 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta)
+December 11, 2015 20:25 | Tags: [spectrometer](/tag/spectrometer), [oil-testing-kit](/tag/oil-testing-kit), [oil-testing-kit-beta](/tag/oil-testing-kit-beta)
 
 ----
 

@@ -6,18 +6,16 @@ author: gonzoearth
 path: /notes/gonzoearth/12-29-2011/barataria-birds.md
 nid: 670
 uid: 12
-
 cids: 401,402,403,9192
-
 ---
 
 ![](https://publiclab.org/sites/default/files/2011-2-25-louisiana-barataria-bay-wilkinson-bay-birds-oblique.jpg)
 
 # Barataria Birds
 
-by [gonzoearth](../../../profile/gonzoearth) | December 30, 2011 00:21
+by [gonzoearth](/profile/gonzoearth) | December 30, 2011 00:21
 
-December 30, 2011 00:21 | Tags: [barataria](../tag/barataria), [birds](../tag/birds), [aerialwildlife](../tag/aerialwildlife), [wildlife](../tag/wildlife)
+December 30, 2011 00:21 | Tags: [barataria](/tag/barataria), [birds](/tag/birds), [aerialwildlife](/tag/aerialwildlife), [wildlife](/tag/wildlife)
 
 ----
 

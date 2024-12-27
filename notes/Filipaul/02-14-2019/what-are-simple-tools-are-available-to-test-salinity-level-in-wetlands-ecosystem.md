@@ -6,16 +6,14 @@ author: Filipaul
 path: /notes/Filipaul/02-14-2019/what-are-simple-tools-are-available-to-test-salinity-level-in-wetlands-ecosystem.md
 nid: 18365
 uid: 574408
-
 cids: 23316
-
 ---
 
 # What are simple tools are available to test salinity level in wetlands ecosystem?
 
-by [Filipaul](../../../profile/Filipaul) | February 14, 2019 21:33
+by [Filipaul](/profile/Filipaul) | February 14, 2019 21:33
 
-February 14, 2019 21:33 | Tags: [wetlands](../tag/wetlands), [water-quality](../tag/water-quality), [water](../tag/water), [salt](../tag/salt), [question:water-quality](../tag/question:water-quality), [citizenscience](../tag/citizenscience), [salinity](../tag/salinity), [first-time-poster](../tag/first-time-poster), [bayou](../tag/bayou), [saltwater](../tag/saltwater), [citizendatacollection](../tag/citizendatacollection), [question:wetlands](../tag/question:wetlands), [question:salinity](../tag/question:salinity)
+February 14, 2019 21:33 | Tags: [wetlands](/tag/wetlands), [water-quality](/tag/water-quality), [water](/tag/water), [salt](/tag/salt), [question:water-quality](/tag/question:water-quality), [citizenscience](/tag/citizenscience), [salinity](/tag/salinity), [first-time-poster](/tag/first-time-poster), [bayou](/tag/bayou), [saltwater](/tag/saltwater), [citizendatacollection](/tag/citizendatacollection), [question:wetlands](/tag/question:wetlands), [question:salinity](/tag/question:salinity)
 
 ----
 

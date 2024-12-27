@@ -6,16 +6,16 @@ author: gretchengehrke
 path: /wiki/bodysensesmethods.md
 nid: 13367
 uid: 430549
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/678/original/IMG_7720.JPG)
 
 # Bodily Sense Environmental Data Methods
 
-by [sarasage](../profile/sarasage), [christyspackman](../profile/christyspackman), [gretchengehrke](../profile/gretchengehrke)
+by [sarasage](/profile/sarasage), [christyspackman](/profile/christyspackman), [gretchengehrke](/profile/gretchengehrke)
 
-August 18, 2016 21:27 | Tags: [regulations](../tag/regulations), [methods](../tag/methods), [body-senses](../tag/body-senses)
+August 18, 2016 21:27 | Tags: [regulations](/tag/regulations), [methods](/tag/methods), [body-senses](/tag/body-senses)
 
 ----
 

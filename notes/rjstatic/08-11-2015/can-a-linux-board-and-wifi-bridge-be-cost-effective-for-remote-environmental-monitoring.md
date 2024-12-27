@@ -6,18 +6,16 @@ author: rjstatic
 path: /08-11-2015/can-a-linux-board-and-wifi-bridge-be-cost-effective-for-remote-environmental-monitoring.md
 nid: 12137
 uid: 174
-
 cids: 12357,12358,12363
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/100/original/p6Ixe.jpg)
 
 # Can a Linux board and Wifi Bridge be cost effective for remote environmental monitoring?
 
-by [rjstatic](../../../profile/rjstatic) | August 11, 2015 01:19
+by [rjstatic](/profile/rjstatic) | August 11, 2015 01:19
 
-August 11, 2015 01:19 | Tags: [fido](../tag/fido), [open-pipe-kit](../tag/open-pipe-kit)
+August 11, 2015 01:19 | Tags: [fido](/tag/fido), [open-pipe-kit](/tag/open-pipe-kit)
 
 ----
 

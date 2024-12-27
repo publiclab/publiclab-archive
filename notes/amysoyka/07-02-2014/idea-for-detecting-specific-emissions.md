@@ -6,18 +6,16 @@ author: amysoyka
 path: /notes/amysoyka/07-02-2014/idea-for-detecting-specific-emissions.md
 nid: 10646
 uid: 422627
-
 cids: 9392,9393,9395,9396,9397,9402,9412
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/080/original/absorbption.png)
 
 # Idea For Detecting Specific Emissions.
 
-by [amysoyka](../../../profile/amysoyka) | July 02, 2014 12:34
+by [amysoyka](/profile/amysoyka) | July 02, 2014 12:34
 
-July 02, 2014 12:34 | Tags: [spectrometry](../tag/spectrometry), [emission-spectroscopy](../tag/emission-spectroscopy), [list:plots-spectrometry](../tag/list:plots-spectrometry), [emissions](../tag/emissions), [gas](../tag/gas)
+July 02, 2014 12:34 | Tags: [spectrometry](/tag/spectrometry), [emission-spectroscopy](/tag/emission-spectroscopy), [list:plots-spectrometry](/tag/list:plots-spectrometry), [emissions](/tag/emissions), [gas](/tag/gas)
 
 ----
 

@@ -6,16 +6,14 @@ author: zengirl2
 path: /notes/Zengirl2/12-11-2017/what-kind-of-camera-is-needed-for-night-time-balloon-mapping.md
 nid: 15352
 uid: 423961
-
 cids: 22799
-
 ---
 
 # What kind of camera is needed for night-time balloon mapping?
 
-by [zengirl2](../../../profile/zengirl2) | December 11, 2017 20:07
+by [zengirl2](/profile/zengirl2) | December 11, 2017 20:07
 
-December 11, 2017 20:07 | Tags: [balloon-mapping](../tag/balloon-mapping), [waterway](../tag/waterway), [aerial-photography](../tag/aerial-photography), [watchdog](../tag/watchdog), [air-quality](../tag/air-quality), [answered](../tag/answered), [environmental-justice](../tag/environmental-justice), [question:question](../tag/question:question)
+December 11, 2017 20:07 | Tags: [balloon-mapping](/tag/balloon-mapping), [waterway](/tag/waterway), [aerial-photography](/tag/aerial-photography), [watchdog](/tag/watchdog), [air-quality](/tag/air-quality), [answered](/tag/answered), [environmental-justice](/tag/environmental-justice), [question:question](/tag/question:question)
 
 ----
 

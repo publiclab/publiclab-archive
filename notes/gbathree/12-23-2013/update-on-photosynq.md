@@ -6,18 +6,16 @@ author: gbathree
 path: /notes/gbathree/12-23-2013/update-on-photosynq.md
 nid: 9912
 uid: 53164
-
 cids: 8032
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/446/original/IMG_2821.JPG)
 
 # Update on Photosynq
 
-by [gbathree](../../../profile/gbathree) | December 23, 2013 19:32
+by [gbathree](/profile/gbathree) | December 23, 2013 19:32
 
-December 23, 2013 19:32 | Tags: [photosynq](../tag/photosynq)
+December 23, 2013 19:32 | Tags: [photosynq](/tag/photosynq)
 
 ----
 

@@ -6,18 +6,16 @@ author: joyofsoy
 path: /notes/joyofsoy/10-04-2019/how-a-leader-and-a-community-saved-the-sprague-mansion.md
 nid: 21076
 uid: 540844
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/562/original/12013.fic.2556-1.jpg)
 
 # How a Leader and a Community Saved the Sprague Mansion
 
-by [joyofsoy](../../../profile/joyofsoy) | October 04, 2019 17:27
+by [joyofsoy](/profile/joyofsoy) | October 04, 2019 17:27
 
-October 04, 2019 17:27 | Tags: [csf](../tag/csf), [one-cranston](../tag/one-cranston)
+October 04, 2019 17:27 | Tags: [csf](/tag/csf), [one-cranston](/tag/one-cranston)
 
 ----
 

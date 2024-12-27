@@ -6,14 +6,14 @@ author: warren
 path: /wiki/publication-planning-archive.md
 nid: 57
 uid: 1
-
+cids: 
 ---
 
 # Publication Planning Archive
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-January 24, 2011 21:09 | Tags: [writing](../tag/writing), [publications](../tag/publications)
+January 24, 2011 21:09 | Tags: [writing](/tag/writing), [publications](/tag/publications)
 
 ----
 

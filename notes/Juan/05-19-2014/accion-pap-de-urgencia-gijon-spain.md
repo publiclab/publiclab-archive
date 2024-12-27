@@ -6,18 +6,16 @@ author: Juan
 path: /notes/Juan/05-19-2014/accion-pap-de-urgencia-gijon-spain.md
 nid: 10478
 uid: 1310
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/292/original/fabapole_ruinagijon_pap_web.jpg)
 
 # Acción PAP de urgencia (Gijón, Spain)
 
-by [Juan](../../../profile/Juan) | May 19, 2014 10:52
+by [Juan](/profile/Juan) | May 19, 2014 10:52
 
-May 19, 2014 10:52 | Tags: [photography](../tag/photography), [spain](../tag/spain), [polemapping](../tag/polemapping), [pole-photography](../tag/pole-photography), [pap](../tag/pap), [pole-mapping](../tag/pole-mapping), [lang:es](../tag/lang:es), [aerial](../tag/aerial), [fabapole](../tag/fabapole)
+May 19, 2014 10:52 | Tags: [photography](/tag/photography), [spain](/tag/spain), [polemapping](/tag/polemapping), [pole-photography](/tag/pole-photography), [pap](/tag/pap), [pole-mapping](/tag/pole-mapping), [lang:es](/tag/lang:es), [aerial](/tag/aerial), [fabapole](/tag/fabapole)
 
 ----
 

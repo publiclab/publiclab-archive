@@ -6,18 +6,16 @@ author: bc512
 path: /notes/bc512/08-18-2013/mapping-vineyards-with-quadcopter-using-converted-canon-powershot-a495.md
 nid: 9035
 uid: 197512
-
 cids: 6688,7812,7813,7815,7816,7819
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/210/original/missionplanner2.PNG)
 
 # Mapping Vineyards with Quadcopter Using converted Canon Powershot A495
 
-by [bc512](../../../profile/bc512) | August 18, 2013 23:35
+by [bc512](/profile/bc512) | August 18, 2013 23:35
 
-August 18, 2013 23:35 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [drones](../tag/drones), [vineyard](../tag/vineyard), [uav](../tag/uav), [agriculture](../tag/agriculture), [mapping](../tag/mapping), [quadcopter](../tag/quadcopter), [drone](../tag/drone), [first-time-poster](../tag/first-time-poster)
+August 18, 2013 23:35 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [drones](/tag/drones), [vineyard](/tag/vineyard), [uav](/tag/uav), [agriculture](/tag/agriculture), [mapping](/tag/mapping), [quadcopter](/tag/quadcopter), [drone](/tag/drone), [first-time-poster](/tag/first-time-poster)
 
 ----
 

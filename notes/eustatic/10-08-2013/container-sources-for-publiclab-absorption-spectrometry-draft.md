@@ -6,18 +6,16 @@ author: eustatic
 path: /10-08-2013/container-sources-for-publiclab-absorption-spectrometry-draft.md
 nid: 9419
 uid: 379
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/805/original/9779965725_c277560950_c_container.jpg)
 
 # Sources for publiclab absorption spectrometry materials --Gulf Coast 2013
 
-by [eustatic](../../../profile/eustatic) | October 08, 2013 14:11
+by [eustatic](/profile/eustatic) | October 08, 2013 14:11
 
-October 08, 2013 14:11 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [sample-containers](../tag/sample-containers), [source](../tag/source), [container](../tag/container), [barnraising-2013](../tag/barnraising-2013)
+October 08, 2013 14:11 | Tags: [gulf-coast](/tag/gulf-coast), [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [sample-containers](/tag/sample-containers), [source](/tag/source), [container](/tag/container), [barnraising-2013](/tag/barnraising-2013)
 
 ----
 

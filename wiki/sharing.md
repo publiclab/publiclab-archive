@@ -6,14 +6,14 @@ author: warren
 path: /wiki/sharing.md
 nid: 10548
 uid: 1
-
+cids: 
 ---
 
 # Sharing
 
-by [liz](../profile/liz), [natalie](../profile/natalie), [warren](../profile/warren)
+by [liz](/profile/liz), [natalie](/profile/natalie), [warren](/profile/warren)
 
-June 10, 2014 18:20 | Tags: [sharing](../tag/sharing)
+June 10, 2014 18:20 | Tags: [sharing](/tag/sharing)
 
 ----
 

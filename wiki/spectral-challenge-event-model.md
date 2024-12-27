@@ -6,14 +6,14 @@ author: liz
 path: /wiki/spectral-challenge-event-model.md
 nid: 6933
 uid: 7
-
+cids: 
 ---
 
 # Spectral Challenge event model
 
-by [warren](../profile/warren), [liz](../profile/liz)
+by [warren](/profile/warren), [liz](/profile/liz)
 
-April 20, 2013 15:35 | Tags: [event](../tag/event), [spectralchallenge](../tag/spectralchallenge)
+April 20, 2013 15:35 | Tags: [event](/tag/event), [spectralchallenge](/tag/spectralchallenge)
 
 ----
 

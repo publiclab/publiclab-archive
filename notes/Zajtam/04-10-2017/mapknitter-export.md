@@ -6,16 +6,14 @@ author: Zajtam
 path: /notes/Zajtam/04-10-2017/mapknitter-export.md
 nid: 14104
 uid: 505441
-
 cids: 22460
-
 ---
 
 # Mapknitter export
 
-by [Zajtam](../../../profile/Zajtam) | April 10, 2017 13:39
+by [Zajtam](/profile/Zajtam) | April 10, 2017 13:39
 
-April 10, 2017 13:39 | Tags: [mapknitter](../tag/mapknitter), [help](../tag/help), [tutorial](../tag/tutorial), [exporting](../tag/exporting), [question:general](../tag/question:general)
+April 10, 2017 13:39 | Tags: [mapknitter](/tag/mapknitter), [help](/tag/help), [tutorial](/tag/tutorial), [exporting](/tag/exporting), [question:general](/tag/question:general)
 
 ----
 

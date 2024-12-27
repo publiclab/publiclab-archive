@@ -6,18 +6,16 @@ author: nanocastro
 path: /notes/nanocastro/04-26-2017/maca-open-air-quality-monitor-project-in-latin-america.md
 nid: 14139
 uid: 506212
-
 cids: 16620,16621,16622,16623,16624,16626,18067,18479,18494,18524,18765,18767,18775,19266,19365,19879,19881,19882
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/946/original/abierto.jpg)
 
 # MACA - Open AQ monitor - Second prototype
 
-by [nanocastro](../../../profile/nanocastro) | April 26, 2017 21:04
+by [nanocastro](/profile/nanocastro) | April 26, 2017 21:04
 
-April 26, 2017 21:04 | Tags: [arduino](../tag/arduino), [air-quality](../tag/air-quality), [monitoring](../tag/monitoring), [dustduino](../tag/dustduino), [dust](../tag/dust), [pm](../tag/pm), [barnstar:basic](../tag/barnstar:basic), [particles](../tag/particles), [gas-sensor](../tag/gas-sensor), [shinyei](../tag/shinyei), [ozone](../tag/ozone), [south-america](../tag/south-america), [activity:shinyei](../tag/activity:shinyei), [activity:dustduino](../tag/activity:dustduino), [activity:particulate-monitoring](../tag/activity:particulate-monitoring), [replication:9818](../tag/replication:9818), [particulate-matter](../tag/particulate-matter), [metal-oxide](../tag/metal-oxide), [latinamerica](../tag/latinamerica), [carbon-monoxide](../tag/carbon-monoxide), [nitrogen-dioxide](../tag/nitrogen-dioxide), [argentina](../tag/argentina), [activity:dust](../tag/activity:dust), [activity:ozone](../tag/activity:ozone), [air-sensors](../tag/air-sensors), [activity:maca](../tag/activity:maca), [maca](../tag/maca)
+April 26, 2017 21:04 | Tags: [arduino](/tag/arduino), [air-quality](/tag/air-quality), [monitoring](/tag/monitoring), [dustduino](/tag/dustduino), [dust](/tag/dust), [pm](/tag/pm), [barnstar:basic](/tag/barnstar:basic), [particles](/tag/particles), [gas-sensor](/tag/gas-sensor), [shinyei](/tag/shinyei), [ozone](/tag/ozone), [south-america](/tag/south-america), [activity:shinyei](/tag/activity:shinyei), [activity:dustduino](/tag/activity:dustduino), [activity:particulate-monitoring](/tag/activity:particulate-monitoring), [replication:9818](/tag/replication:9818), [particulate-matter](/tag/particulate-matter), [metal-oxide](/tag/metal-oxide), [latinamerica](/tag/latinamerica), [carbon-monoxide](/tag/carbon-monoxide), [nitrogen-dioxide](/tag/nitrogen-dioxide), [argentina](/tag/argentina), [activity:dust](/tag/activity:dust), [activity:ozone](/tag/activity:ozone), [air-sensors](/tag/air-sensors), [activity:maca](/tag/activity:maca), [maca](/tag/maca)
 
 ----
 

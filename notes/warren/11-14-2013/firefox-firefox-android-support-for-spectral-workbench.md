@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/11-14-2013/firefox-firefox-android-support-for-spectral-workbench.md
 nid: 9781
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/218/original/firefox.png)
 
 # Firefox/Firefox-Android support for Spectral Workbench!
 
-by [warren](../../../profile/warren) | November 14, 2013 22:35
+by [warren](/profile/warren) | November 14, 2013 22:35
 
-November 14, 2013 22:35 | Tags: [android](../tag/android), [spectralworkbench](../tag/spectralworkbench), [firefox](../tag/firefox)
+November 14, 2013 22:35 | Tags: [android](/tag/android), [spectralworkbench](/tag/spectralworkbench), [firefox](/tag/firefox)
 
 ----
 

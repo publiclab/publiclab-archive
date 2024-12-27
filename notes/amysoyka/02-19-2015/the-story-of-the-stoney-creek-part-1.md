@@ -6,18 +6,16 @@ author: amysoyka
 path: /notes/amysoyka/02-19-2015/the-story-of-the-stoney-creek-part-1.md
 nid: 11607
 uid: 422627
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/028/original/IMG_20140212_155304.jpg)
 
 # The Story of the Stoney Creek. Part 1.
 
-by [amysoyka](../../../profile/amysoyka) | February 19, 2015 21:47
+by [amysoyka](/profile/amysoyka) | February 19, 2015 21:47
 
-February 19, 2015 21:47 | Tags: [waterway](../tag/waterway), [historic-site](../tag/historic-site), [concrete](../tag/concrete), [mining](../tag/mining), [pollution](../tag/pollution), [creek](../tag/creek)
+February 19, 2015 21:47 | Tags: [waterway](/tag/waterway), [historic-site](/tag/historic-site), [concrete](/tag/concrete), [mining](/tag/mining), [pollution](/tag/pollution), [creek](/tag/creek)
 
 ----
 

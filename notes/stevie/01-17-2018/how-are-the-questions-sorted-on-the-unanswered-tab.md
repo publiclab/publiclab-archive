@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/01-17-2018/how-are-the-questions-sorted-on-the-unanswered-tab.md
 nid: 15542
 uid: 422561
-
 cids: 18201
-
 ---
 
 # How are the questions sorted on the 'Unanswered' tab?
 
-by [stevie](../../../profile/stevie) | January 17, 2018 21:42
+by [stevie](/profile/stevie) | January 17, 2018 21:42
 
-January 17, 2018 21:42 | Tags: [question:website](../tag/question:website)
+January 17, 2018 21:42 | Tags: [question:website](/tag/question:website)
 
 ----
 

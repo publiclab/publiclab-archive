@@ -6,18 +6,16 @@ author: klie
 path: /notes/klie/04-28-2017/public-lab-community-newsletter-april-2017.md
 nid: 14149
 uid: 441262
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/265/original/PUBLIC_LAB_NEWS%282%29.png)
 
 # Public Lab Community Newsletter: April 2017
 
-by [klie](../../../profile/klie) | April 28, 2017 22:40
+by [klie](/profile/klie) | April 28, 2017 22:40
 
-April 28, 2017 22:40 | Tags: [newsletter](../tag/newsletter), [events](../tag/events), [frac-sand](../tag/frac-sand), [edgi](../tag/edgi)
+April 28, 2017 22:40 | Tags: [newsletter](/tag/newsletter), [events](/tag/events), [frac-sand](/tag/frac-sand), [edgi](/tag/edgi)
 
 ----
 

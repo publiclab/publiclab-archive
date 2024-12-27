@@ -6,18 +6,16 @@ author: willie
 path: /notes/Willie/03-03-2015/sensor-journalism-series.md
 nid: 11652
 uid: 235174
-
 cids: 11306,11307
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/146/original/Sensor_J_Series.png)
 
 # A month-long series of webinars about sensor journalism
 
-by [willie](../../../profile/willie) | March 03, 2015 19:17
+by [willie](/profile/willie) | March 03, 2015 19:17
 
-March 03, 2015 19:17 | Tags: [event](../tag/event), [dustduino](../tag/dustduino), [event:rsvp](../tag/event:rsvp), [sensor-journalism](../tag/sensor-journalism), [date:03-08-2015](../tag/date:03-08-2015), [webinar](../tag/webinar), [rsvp:alex_the_ukrainian](../tag/rsvp:alex_the_ukrainian)
+March 03, 2015 19:17 | Tags: [event](/tag/event), [dustduino](/tag/dustduino), [event:rsvp](/tag/event:rsvp), [sensor-journalism](/tag/sensor-journalism), [date:03-08-2015](/tag/date:03-08-2015), [webinar](/tag/webinar), [rsvp:alex_the_ukrainian](/tag/rsvp:alex_the_ukrainian)
 
 ----
 

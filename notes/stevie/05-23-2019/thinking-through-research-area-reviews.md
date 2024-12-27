@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/05-23-2019/thinking-through-research-area-reviews.md
 nid: 19506
 uid: 422561
-
 cids: 24240,24244,24245
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/439/original/20150613_124753.jpg)
 
 # Thinking through Research Area Reviews 
 
-by [stevie](../../../profile/stevie) | May 23, 2019 20:45
+by [stevie](/profile/stevie) | May 23, 2019 20:45
 
-May 23, 2019 20:45 | Tags: [community](../tag/community), [organizers](../tag/organizers), [research](../tag/research), [organizer](../tag/organizer), [community-development](../tag/community-development)
+May 23, 2019 20:45 | Tags: [community](/tag/community), [organizers](/tag/organizers), [research](/tag/research), [organizer](/tag/organizer), [community-development](/tag/community-development)
 
 ----
 

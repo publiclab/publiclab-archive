@@ -6,16 +6,14 @@ author: vidit
 path: /notes/vidit/02-16-2018/gsoc-18-email-notification-overhaul.md
 nid: 15750
 uid: 517093
-
 cids: 18709,18762,18903,18934,18946,18984,18986,18987,18988,19007,19011,19016,19043,19051,19106,19117,19175,19207,19224,19225,19960,20005,20008,20022,23348,23349,23566,23567,23569,23570
-
 ---
 
 # GSOC-18 Email notification overhaul.
 
-by [vidit](../../../profile/vidit) | February 16, 2018 21:17
+by [vidit](/profile/vidit) | February 16, 2018 21:17
 
-February 16, 2018 21:17 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [soc-2018-email](../tag/soc-2018-email), [gsoc-2018-final](../tag/gsoc-2018-final), [first-time-poster](../tag/first-time-poster)
+February 16, 2018 21:17 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [soc](/tag/soc), [response:13975](/tag/response:13975), [gsoc-2018](/tag/gsoc-2018), [soc-2018](/tag/soc-2018), [soc-2018-proposals](/tag/soc-2018-proposals), [soc-2018-email](/tag/soc-2018-email), [gsoc-2018-final](/tag/gsoc-2018-final), [first-time-poster](/tag/first-time-poster)
 
 ----
 

@@ -6,16 +6,14 @@ author: msuphysicsformcb
 path: /notes/msuphysicsformcb/09-12-2020/substitute-diffraction-grating-for-dvd.md
 nid: 24568
 uid: 720360
-
 cids: 27355,27356,27363,27374
-
 ---
 
 # Substitute diffraction grating for DVD?
 
-by [msuphysicsformcb](../../../profile/msuphysicsformcb) | September 12, 2020 20:16
+by [msuphysicsformcb](/profile/msuphysicsformcb) | September 12, 2020 20:16
 
-September 12, 2020 20:16 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [diffraction-grating](../tag/diffraction-grating), [question:spectrometer](../tag/question:spectrometer), [question:spectrometry](../tag/question:spectrometry), [question:general](../tag/question:general), [general](../tag/general), [question:diffraction-grating](../tag/question:diffraction-grating), [first-time-poster](../tag/first-time-poster)
+September 12, 2020 20:16 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [diffraction-grating](/tag/diffraction-grating), [question:spectrometer](/tag/question:spectrometer), [question:spectrometry](/tag/question:spectrometry), [question:general](/tag/question:general), [general](/tag/general), [question:diffraction-grating](/tag/question:diffraction-grating), [first-time-poster](/tag/first-time-poster)
 
 ----
 

@@ -6,16 +6,14 @@ author: mimiss
 path: /notes/mimiss/05-07-2019/workshop-i-how-do-communities-respond-to-environmental-problems.md
 nid: 19265
 uid: 579821
-
 cids: 28347
-
 ---
 
 # How do communities respond to environmental problems? (Lesson Plan)
 
-by [mimiss](../../../profile/mimiss) | May 07, 2019 15:41
+by [mimiss](/profile/mimiss) | May 07, 2019 15:41
 
-May 07, 2019 15:41 | Tags: [education](../tag/education), [workshop](../tag/workshop), [curriculum](../tag/curriculum), [activity:education](../tag/activity:education), [lesson](../tag/lesson), [exploring-environmental-issues](../tag/exploring-environmental-issues), [parent:student-led-community-science-in-the-classroom-a-curriculum](../tag/parent:student-led-community-science-in-the-classroom-a-curriculum), [series:student-community-science](../tag/series:student-community-science), [activity:student-community-science](../tag/activity:student-community-science), [with:purl](../tag/with:purl)
+May 07, 2019 15:41 | Tags: [education](/tag/education), [workshop](/tag/workshop), [curriculum](/tag/curriculum), [activity:education](/tag/activity:education), [lesson](/tag/lesson), [exploring-environmental-issues](/tag/exploring-environmental-issues), [parent:student-led-community-science-in-the-classroom-a-curriculum](/tag/parent:student-led-community-science-in-the-classroom-a-curriculum), [series:student-community-science](/tag/series:student-community-science), [activity:student-community-science](/tag/activity:student-community-science), [with:purl](/tag/with:purl)
 
 ----
 

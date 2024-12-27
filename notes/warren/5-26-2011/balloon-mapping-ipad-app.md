@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/5-26-2011/balloon-mapping-ipad-app.md
 nid: 301
 uid: 1
-
 cids: 260,261,262
-
 ---
 
 ![](https://publiclab.org/sites/default/files/5179497260_ded9e70167_o.jpg)
 
 # Balloon Mapping iPad app
 
-by [warren](../../../profile/warren) | May 26, 2011 17:06
+by [warren](/profile/warren) | May 26, 2011 17:06
 
 May 26, 2011 17:06 | Tags: 
 

@@ -6,16 +6,14 @@ author: liz
 path: /notes/liz/02-14-2018/broadcasting-the-barnraising.md
 nid: 15736
 uid: 7
-
 cids: 18434
-
 ---
 
 # Broadcasting the Barnraising?
 
-by [liz](../../../profile/liz) | February 14, 2018 21:53
+by [liz](/profile/liz) | February 14, 2018 21:53
 
-February 14, 2018 21:53 | Tags: [community](../tag/community), [question:general](../tag/question:general), [question:community](../tag/question:community)
+February 14, 2018 21:53 | Tags: [community](/tag/community), [question:general](/tag/question:general), [question:community](/tag/question:community)
 
 ----
 

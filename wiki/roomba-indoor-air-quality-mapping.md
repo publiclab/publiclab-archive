@@ -6,14 +6,14 @@ author: warren
 path: /wiki/roomba-indoor-air-quality-mapping.md
 nid: 409
 uid: 1
-
+cids: 
 ---
 
 # Roomba indoor air quality mapping
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-July 23, 2011 14:01 | Tags: [dust](../tag/dust), [roomba](../tag/roomba), [air-quality-projects](../tag/air-quality-projects)
+July 23, 2011 14:01 | Tags: [dust](/tag/dust), [roomba](/tag/roomba), [air-quality-projects](/tag/air-quality-projects)
 
 ----
 

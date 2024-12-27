@@ -6,18 +6,16 @@ author: filimon_k
 path: /notes/filimon_k/12-14-2015/materials-instructable-for-blue-light-sensor.md
 nid: 12514
 uid: 460113
-
 cids: 26900
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/307/original/bluelightspec.jpg)
 
 # Materials/ Instructable for Blue Light Sensor
 
-by [filimon_k](../../../profile/filimon_k) | December 14, 2015 04:17
+by [filimon_k](/profile/filimon_k) | December 14, 2015 04:17
 
-December 14, 2015 04:17 | Tags: [sensors](../tag/sensors), [light](../tag/light), [blue](../tag/blue), [wearables](../tag/wearables), [photocell](../tag/photocell)
+December 14, 2015 04:17 | Tags: [sensors](/tag/sensors), [light](/tag/light), [blue](/tag/blue), [wearables](/tag/wearables), [photocell](/tag/photocell)
 
 ----
 

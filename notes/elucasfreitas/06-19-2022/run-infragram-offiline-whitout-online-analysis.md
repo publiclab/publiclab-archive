@@ -6,16 +6,14 @@ author: elucasfreitas
 path: /notes/elucasfreitas/06-19-2022/run-infragram-offiline-whitout-online-analysis.md
 nid: 31076
 uid: 803723
-
 cids: 30277,30280
-
 ---
 
 # Run infragram offiline (whitout online analysis)
 
-by [elucasfreitas](../../../profile/elucasfreitas) | June 19, 2022 13:11
+by [elucasfreitas](/profile/elucasfreitas) | June 19, 2022 13:11
 
-June 19, 2022 13:11 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [question:infrared](../tag/question:infrared), [question:multispectral-imaging](../tag/question:multispectral-imaging), [multispectral-imaging](../tag/multispectral-imaging), [first-time-poster](../tag/first-time-poster)
+June 19, 2022 13:11 | Tags: [ndvi](/tag/ndvi), [infrared](/tag/infrared), [infragram](/tag/infragram), [question:ndvi](/tag/question:ndvi), [question:infragram](/tag/question:infragram), [question:infrared](/tag/question:infrared), [question:multispectral-imaging](/tag/question:multispectral-imaging), [multispectral-imaging](/tag/multispectral-imaging), [first-time-poster](/tag/first-time-poster)
 
 ----
 

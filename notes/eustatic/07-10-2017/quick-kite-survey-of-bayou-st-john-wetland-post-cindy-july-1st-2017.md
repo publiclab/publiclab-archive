@@ -6,18 +6,16 @@ author: eustatic
 path: /07-10-2017/quick-kite-survey-of-bayou-st-john-wetland-post-cindy-july-1st-2017.md
 nid: 14643
 uid: 379
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/099/original/July_1_2017_post_cindy_annotated_kite_picture.png)
 
 # Quick Kite Survey of Bayou St John Wetland, post-Cindy, July 1st 2017
 
-by [eustatic](../../../profile/eustatic) | July 10, 2017 21:38
+by [eustatic](/profile/eustatic) | July 10, 2017 21:38
 
-July 10, 2017 21:38 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [bsj](../tag/bsj)
+July 10, 2017 21:38 | Tags: [gulf-coast](/tag/gulf-coast), [kite-mapping](/tag/kite-mapping), [bsj](/tag/bsj)
 
 ----
 

@@ -6,12 +6,12 @@ author: warren
 path: /wiki/sip-grant.md
 nid: 1488
 uid: 1
-
+cids: 
 ---
 
 # SIP Grant
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 March 19, 2012 17:06 | Tags: 
 

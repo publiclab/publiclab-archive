@@ -6,18 +6,16 @@ author: azaelb
 path: /notes/azaelb/04-27-2015/ndvi-with-a-key-chain-camera-to-use-with-a-mini-drone-second-steps.md
 nid: 11772
 uid: 319070
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/707/original/Screenshot_RB.jpg)
 
 # NDVI with a key chain camera to use with a mini-drone - Second steps
 
-by [azaelb](../../../profile/azaelb) | April 27, 2015 04:24
+by [azaelb](/profile/azaelb) | April 27, 2015 04:24
 
-April 27, 2015 04:24 | Tags: [ndvi](../tag/ndvi), [ir](../tag/ir), [plugin](../tag/plugin), [infragram](../tag/infragram), [camera](../tag/camera), [photomonitoring](../tag/photomonitoring), [index](../tag/index), [sandox](../tag/sandox), [with](../tag/with)
+April 27, 2015 04:24 | Tags: [ndvi](/tag/ndvi), [ir](/tag/ir), [plugin](/tag/plugin), [infragram](/tag/infragram), [camera](/tag/camera), [photomonitoring](/tag/photomonitoring), [index](/tag/index), [sandox](/tag/sandox), [with](/tag/with)
 
 ----
 

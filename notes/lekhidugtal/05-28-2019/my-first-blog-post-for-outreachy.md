@@ -6,18 +6,16 @@ author: lekhidugtal
 path: /notes/lekhidugtal/05-28-2019/my-first-blog-post-for-outreachy.md
 nid: 19557
 uid: 577754
-
 cids: 24270,24278,24284
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/503/original/Untitled.png)
 
 # My first blog post for outreachy
 
-by [lekhidugtal](../../../profile/lekhidugtal) | May 28, 2019 16:06
+by [lekhidugtal](/profile/lekhidugtal) | May 28, 2019 16:06
 
-May 28, 2019 16:06 | Tags: [blog](../tag/blog), [soc](../tag/soc), [summer-of-code](../tag/summer-of-code), [outreachy](../tag/outreachy)
+May 28, 2019 16:06 | Tags: [blog](/tag/blog), [soc](/tag/soc), [summer-of-code](/tag/summer-of-code), [outreachy](/tag/outreachy)
 
 ----
 

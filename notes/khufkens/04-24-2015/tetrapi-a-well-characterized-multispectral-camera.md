@@ -6,18 +6,16 @@ author: khufkens
 path: /notes/khufkens/04-24-2015/tetrapi-a-well-characterized-multispectral-camera.md
 nid: 11767
 uid: 438931
-
 cids: 11548,11549,11558,12307,12436,12437,20215,21792
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/690/original/17066772778_24569b91bc_k.jpg)
 
 # TetraPi: a well characterized multispectral camera
 
-by [khufkens](../../../profile/khufkens) | April 24, 2015 15:54
+by [khufkens](/profile/khufkens) | April 24, 2015 15:54
 
-April 24, 2015 15:54 | Tags: [ndvi](../tag/ndvi), [multispectral](../tag/multispectral), [mapping](../tag/mapping), [raspberry-pi](../tag/raspberry-pi), [camera](../tag/camera), [vegetation](../tag/vegetation), [barnstar:basic](../tag/barnstar:basic), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [tetrapi](../tag/tetrapi), [imaging](../tag/imaging), [pri](../tag/pri), [activity:raspberry-pi-infragram](../tag/activity:raspberry-pi-infragram), [activity:pi-camera](../tag/activity:pi-camera)
+April 24, 2015 15:54 | Tags: [ndvi](/tag/ndvi), [multispectral](/tag/multispectral), [mapping](/tag/mapping), [raspberry-pi](/tag/raspberry-pi), [camera](/tag/camera), [vegetation](/tag/vegetation), [barnstar:basic](/tag/barnstar:basic), [barnstar:excessive-enthusiasm](/tag/barnstar:excessive-enthusiasm), [tetrapi](/tag/tetrapi), [imaging](/tag/imaging), [pri](/tag/pri), [activity:raspberry-pi-infragram](/tag/activity:raspberry-pi-infragram), [activity:pi-camera](/tag/activity:pi-camera)
 
 ----
 

@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/01-16-2015/orange-is-the-new-red.md
 nid: 11527
 uid: 554
-
 cids: 11051,11055,11065,11480,11838,11840,11841,11918,12470,12472,12591
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/617/original/Wratten15-565-26.jpg)
 
 # Orange is the new red
 
-by [cfastie](../../../profile/cfastie) | January 16, 2015 21:57
+by [cfastie](/profile/cfastie) | January 16, 2015 21:57
 
-January 16, 2015 21:57 | Tags: [ndvi](../tag/ndvi), [vermont](../tag/vermont), [calibration](../tag/calibration), [infrared](../tag/infrared), [infragram](../tag/infragram), [wratten25a](../tag/wratten25a), [super-red](../tag/super-red), [wratten15](../tag/wratten15), [response:9717](../tag/response:9717), [upgrade:multispectral-imaging](../tag/upgrade:multispectral-imaging)
+January 16, 2015 21:57 | Tags: [ndvi](/tag/ndvi), [vermont](/tag/vermont), [calibration](/tag/calibration), [infrared](/tag/infrared), [infragram](/tag/infragram), [wratten25a](/tag/wratten25a), [super-red](/tag/super-red), [wratten15](/tag/wratten15), [response:9717](/tag/response:9717), [upgrade:multispectral-imaging](/tag/upgrade:multispectral-imaging)
 
 ----
 

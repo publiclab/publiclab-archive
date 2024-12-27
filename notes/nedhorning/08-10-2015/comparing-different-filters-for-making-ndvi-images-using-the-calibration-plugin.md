@@ -6,18 +6,16 @@ author: nedhorning
 path: /notes/nedhorning/08-10-2015/comparing-different-filters-for-making-ndvi-images-using-the-calibration-plugin.md
 nid: 12134
 uid: 133
-
 cids: 12372,12375,13121,13132,18606,18609
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/093/original/iFarm2015-621-4_Clipped.jpg)
 
 # Comparing different filters for making NDVI images using the calibration plugin
 
-by [nedhorning](../../../profile/nedhorning) | August 10, 2015 21:30
+by [nedhorning](/profile/nedhorning) | August 10, 2015 21:30
 
-August 10, 2015 21:30 | Tags: [ndvi-calibrate](../tag/ndvi-calibrate), [midopt](../tag/midopt)
+August 10, 2015 21:30 | Tags: [ndvi-calibrate](/tag/ndvi-calibrate), [midopt](/tag/midopt)
 
 ----
 

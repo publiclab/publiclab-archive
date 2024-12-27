@@ -6,14 +6,14 @@ author: warren
 path: /wiki/parurino.md
 nid: 445
 uid: 1
-
+cids: 
 ---
 
 # Parurino
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-August 24, 2011 19:51 | Tags: [parurino](../tag/parurino)
+August 24, 2011 19:51 | Tags: [parurino](/tag/parurino)
 
 ----
 

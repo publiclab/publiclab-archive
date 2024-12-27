@@ -6,16 +6,16 @@ author: warren
 path: /wiki/sampling.md
 nid: 14839
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/755/original/Warren_2019.png)
 
 # Sampling
 
-by [liz](../profile/liz), [warren](../profile/warren)
+by [liz](/profile/liz), [warren](/profile/warren)
 
-September 07, 2017 19:16 | Tags: [sampling](../tag/sampling), [samples](../tag/samples), [method](../tag/method), [sample-collection](../tag/sample-collection), [soil-sampling](../tag/soil-sampling), [water-sampling](../tag/water-sampling), [air-sampling](../tag/air-sampling)
+September 07, 2017 19:16 | Tags: [sampling](/tag/sampling), [samples](/tag/samples), [method](/tag/method), [sample-collection](/tag/sample-collection), [soil-sampling](/tag/soil-sampling), [water-sampling](/tag/water-sampling), [air-sampling](/tag/air-sampling)
 
 ----
 
@@ -40,5 +40,5 @@ Please add other types of sampling here as well.
 
 Ask and answer general questions about sampling:
 
-[sampling](../../tag/question:sampling)
+[sampling](/tag/question:sampling)
 

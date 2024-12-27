@@ -6,18 +6,16 @@ author: gretchengehrke
 path: /notes/gretchengehrke/02-21-2017/epa-method-22-visual-determination-of-fugitive-emissions.md
 nid: 13944
 uid: 430549
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/602/original/SmokeFlare_donnan_dot_com.jpeg)
 
 # EPA Method 22: Visual Determination of Fugitive Emissions
 
-by [gretchengehrke](../../../profile/gretchengehrke) | February 21, 2017 22:44
+by [gretchengehrke](/profile/gretchengehrke) | February 21, 2017 22:44
 
-February 21, 2017 22:44 | Tags: [frac-sand](../tag/frac-sand), [pm](../tag/pm), [parent:frac-sand](../tag/parent:frac-sand), [visual-monitoring](../tag/visual-monitoring), [activity:observation](../tag/activity:observation), [activity:monitor](../tag/activity:monitor), [opacity](../tag/opacity), [activity:site-survey](../tag/activity:site-survey), [activity:visual-monitoring](../tag/activity:visual-monitoring)
+February 21, 2017 22:44 | Tags: [frac-sand](/tag/frac-sand), [pm](/tag/pm), [parent:frac-sand](/tag/parent:frac-sand), [visual-monitoring](/tag/visual-monitoring), [activity:observation](/tag/activity:observation), [activity:monitor](/tag/activity:monitor), [opacity](/tag/opacity), [activity:site-survey](/tag/activity:site-survey), [activity:visual-monitoring](/tag/activity:visual-monitoring)
 
 ----
 

@@ -6,14 +6,14 @@ author: cfastie
 path: /wiki/leafkam.md
 nid: 6791
 uid: 554
-
+cids: 
 ---
 
 # LeafKam
 
-by [cfastie](../profile/cfastie)
+by [cfastie](/profile/cfastie)
 
-April 12, 2013 02:54 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infrared-camera](../tag/infrared-camera), [infragram](../tag/infragram), [development](../tag/development)
+April 12, 2013 02:54 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [infrared-camera](/tag/infrared-camera), [infragram](/tag/infragram), [development](/tag/development)
 
 ----
 

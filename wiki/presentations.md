@@ -6,14 +6,14 @@ author: warren
 path: /wiki/presentations.md
 nid: 328
 uid: 1
-
+cids: 
 ---
 
 # Presentations
 
-by [liz](../profile/liz), [warren](../profile/warren)
+by [liz](/profile/liz), [warren](/profile/warren)
 
-June 04, 2011 01:59 | Tags: [presentations](../tag/presentations)
+June 04, 2011 01:59 | Tags: [presentations](/tag/presentations)
 
 ----
 

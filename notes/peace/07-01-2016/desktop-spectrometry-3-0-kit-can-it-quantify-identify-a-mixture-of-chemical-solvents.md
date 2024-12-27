@@ -6,16 +6,14 @@ author: peace
 path: /notes/peace/07-01-2016/desktop-spectrometry-3-0-kit-can-it-quantify-identify-a-mixture-of-chemical-solvents.md
 nid: 13252
 uid: 481667
-
 cids: 14851,15034
-
 ---
 
 # Desktop spectrometry 3.0 kit: Can it quantify/identify a mixture of chemical solvents?
 
-by [peace](../../../profile/peace) | July 01, 2016 18:42
+by [peace](/profile/peace) | July 01, 2016 18:42
 
-July 01, 2016 18:42 | Tags: [question:spectrometer](../tag/question:spectrometer), [question:dssk](../tag/question:dssk)
+July 01, 2016 18:42 | Tags: [question:spectrometer](/tag/question:spectrometer), [question:dssk](/tag/question:dssk)
 
 ----
 

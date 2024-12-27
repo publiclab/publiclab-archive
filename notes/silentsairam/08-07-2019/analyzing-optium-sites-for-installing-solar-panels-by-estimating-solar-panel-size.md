@@ -6,16 +6,14 @@ author: silentsairam
 path: /notes/silentsairam/08-07-2019/analyzing-optium-sites-for-installing-solar-panels-by-estimating-solar-panel-size.md
 nid: 20459
 uid: 553044
-
 cids: 
-
 ---
 
 # Analyzing optimum sites for installing solar panels by estimating solar panel size
 
-by [silentsairam](../../../profile/silentsairam) | August 07, 2019 17:59
+by [silentsairam](/profile/silentsairam) | August 07, 2019 17:59
 
-August 07, 2019 17:59 | Tags: [energy](../tag/energy), [climate](../tag/climate), [solar](../tag/solar), [ballon-mapping](../tag/ballon-mapping), [lat:10.758918](../tag/lat:10.758918), [lon:78.813218](../tag/lon:78.813218)
+August 07, 2019 17:59 | Tags: [energy](/tag/energy), [climate](/tag/climate), [solar](/tag/solar), [ballon-mapping](/tag/ballon-mapping), [lat:10.758918](/tag/lat:10.758918), [lon:78.813218](/tag/lon:78.813218)
 
 ----
 

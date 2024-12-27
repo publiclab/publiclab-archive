@@ -6,18 +6,16 @@ author: JosephDodd
 path: /notes/JosephDodd/02-15-2017/mapknitter-map-of-uncc_jbd_2017.md
 nid: 13932
 uid: 503010
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/565/original/P1080505.JPG)
 
 # MapKnitter map of uncc_JBD_2017
 
-by [JosephDodd](../../../profile/JosephDodd) | February 15, 2017 20:53
+by [JosephDodd](/profile/JosephDodd) | February 15, 2017 20:53
 
-February 15, 2017 20:53 | Tags: [mapknitter](../tag/mapknitter), [lat:35.3054333015](../tag/lat:35.3054333015), [lon:-80.7341265678](../tag/lon:-80.7341265678)
+February 15, 2017 20:53 | Tags: [mapknitter](/tag/mapknitter), [lat:35.3054333015](/tag/lat:35.3054333015), [lon:-80.7341265678](/tag/lon:-80.7341265678)
 
 ----
 

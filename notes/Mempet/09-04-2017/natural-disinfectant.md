@@ -6,16 +6,14 @@ author: Mempet
 path: /notes/Mempet/09-04-2017/natural-disinfectant.md
 nid: 14828
 uid: 513742
-
 cids: 17314,22577
-
 ---
 
 # Natural Disinfectant
 
-by [Mempet](../../../profile/Mempet) | September 04, 2017 19:22
+by [Mempet](/profile/Mempet) | September 04, 2017 19:22
 
-September 04, 2017 19:22 | Tags: [question:question](../tag/question:question), [algea](../tag/algea), [disenfectant](../tag/disenfectant)
+September 04, 2017 19:22 | Tags: [question:question](/tag/question:question), [algea](/tag/algea), [disenfectant](/tag/disenfectant)
 
 ----
 

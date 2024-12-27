@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/08-26-2016/wrapping-up-google-summer-of-code-2016.md
 nid: 13397
 uid: 1
-
 cids: 15250,15273
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/774/original/Screenshot_2016-08-26_at_11.44.16_AM.png)
 
 # Wrapping up Google Summer of Code 2016!
 
-by [warren](../../../profile/warren) | August 26, 2016 15:47
+by [warren](/profile/warren) | August 26, 2016 15:47
 
-August 26, 2016 15:47 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [web](../tag/web), [blog](../tag/blog), [developers](../tag/developers), [coding](../tag/coding), [wwg](../tag/wwg), [seeks:responses](../tag/seeks:responses), [gsoc-2016](../tag/gsoc-2016), [webjack](../tag/webjack), [new-contributors](../tag/new-contributors)
+August 26, 2016 15:47 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [web](/tag/web), [blog](/tag/blog), [developers](/tag/developers), [coding](/tag/coding), [wwg](/tag/wwg), [seeks:responses](/tag/seeks:responses), [gsoc-2016](/tag/gsoc-2016), [webjack](/tag/webjack), [new-contributors](/tag/new-contributors)
 
 ----
 

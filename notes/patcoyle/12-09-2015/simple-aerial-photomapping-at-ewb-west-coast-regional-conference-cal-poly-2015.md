@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/12-09-2015/simple-aerial-photomapping-at-ewb-west-coast-regional-conference-cal-poly-2015.md
 nid: 12491
 uid: 77
-
 cids: 14758
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/246/original/22676199848_e0a277ddf2_k.jpg)
 
 # Simple Aerial Photomapping at EWB West Coast Regional Conference, Cal Poly, 2015
 
-by [patcoyle](../../../profile/patcoyle) | December 09, 2015 00:21
+by [patcoyle](/profile/patcoyle) | December 09, 2015 00:21
 
-December 09, 2015 00:21 | Tags: [balloon-mapping](../tag/balloon-mapping), [mylar](../tag/mylar), [bap](../tag/bap), [blog](../tag/blog), [mobius-actioncam](../tag/mobius-actioncam), [ewb](../tag/ewb), [barnstar:basic](../tag/barnstar:basic), [mini-balloon-mapping](../tag/mini-balloon-mapping)
+December 09, 2015 00:21 | Tags: [balloon-mapping](/tag/balloon-mapping), [mylar](/tag/mylar), [bap](/tag/bap), [blog](/tag/blog), [mobius-actioncam](/tag/mobius-actioncam), [ewb](/tag/ewb), [barnstar:basic](/tag/barnstar:basic), [mini-balloon-mapping](/tag/mini-balloon-mapping)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/06-09-2017/how-much-can-one-36-balloon-lift.md
 nid: 14515
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/736/original/tmp_27876-OI000109-429306308.jpg)
 
 # How much can one 36" balloon lift?
 
-by [warren](../../../profile/warren) | June 09, 2017 19:05
+by [warren](/profile/warren) | June 09, 2017 19:05
 
-June 09, 2017 19:05 | Tags: [balloon-mapping](../tag/balloon-mapping), [mini-balloon-kit](../tag/mini-balloon-kit), [question:mini-balloon-kit](../tag/question:mini-balloon-kit)
+June 09, 2017 19:05 | Tags: [balloon-mapping](/tag/balloon-mapping), [mini-balloon-kit](/tag/mini-balloon-kit), [question:mini-balloon-kit](/tag/question:mini-balloon-kit)
 
 ----
 

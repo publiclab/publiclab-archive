@@ -6,14 +6,14 @@ author: liz
 path: /wiki/setting-goals.md
 nid: 11485
 uid: 7
-
+cids: 
 ---
 
 # setting-goals
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-December 18, 2014 17:05 | Tags: [parent:gardening-toolkit](../tag/parent:gardening-toolkit), [gardening-toolkit](../tag/gardening-toolkit)
+December 18, 2014 17:05 | Tags: [parent:gardening-toolkit](/tag/parent:gardening-toolkit), [gardening-toolkit](/tag/gardening-toolkit)
 
 ----
 

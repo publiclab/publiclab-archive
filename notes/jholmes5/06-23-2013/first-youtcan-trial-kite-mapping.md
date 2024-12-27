@@ -6,18 +6,16 @@ author: jholmes5
 path: /notes/jholmes5/06-23-2013/first-youtcan-trial-kite-mapping.md
 nid: 8391
 uid: 133222
-
 cids: 5648
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/569/original/Picnic_House_Prospect_Park.jpg)
 
 # First YouthCaN Trial Kite Mapping
 
-by [jholmes5](../../../profile/jholmes5) | June 23, 2013 13:22
+by [jholmes5](/profile/jholmes5) | June 23, 2013 13:22
 
-June 23, 2013 13:22 | Tags: [new-york-city](../tag/new-york-city), [kite-mapping](../tag/kite-mapping), [first-time-poster](../tag/first-time-poster)
+June 23, 2013 13:22 | Tags: [new-york-city](/tag/new-york-city), [kite-mapping](/tag/kite-mapping), [first-time-poster](/tag/first-time-poster)
 
 ----
 

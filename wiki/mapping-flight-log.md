@@ -6,12 +6,12 @@ author: warren
 path: /wiki/mapping-flight-log.md
 nid: 849
 uid: 1
-
+cids: 
 ---
 
 # Mapping Flight Log
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 February 24, 2012 20:56 | Tags: 
 

@@ -6,12 +6,12 @@ author: warren
 path: /wiki/silwan.md
 nid: 313
 uid: 1
-
+cids: 
 ---
 
 # Silwan
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 June 01, 2011 17:58 | Tags: 
 

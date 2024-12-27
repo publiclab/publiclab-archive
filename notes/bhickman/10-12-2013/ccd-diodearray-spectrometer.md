@@ -6,18 +6,16 @@ author: bhickman
 path: /notes/bhickman/10-12-2013/ccd-diodearray-spectrometer.md
 nid: 9442
 uid: 201929
-
 cids: 7220,7225,7389,7412,7513,7610,8138,10212,10308,10465,10470,10495,15467,15477,15503,15685,15687,15697,15744,15957,15967,15969,16013,16015,18008,21201,27065
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/912/original/103_3314.JPG)
 
 # CCD Photodiode Array Spectrometer
 
-by [bhickman](../../../profile/bhickman) | October 12, 2013 00:23
+by [bhickman](/profile/bhickman) | October 12, 2013 00:23
 
-October 12, 2013 00:23 | Tags: [spectrometer](../tag/spectrometer), [cuvette](../tag/cuvette), [beers-law](../tag/beers-law), [first-time-poster](../tag/first-time-poster)
+October 12, 2013 00:23 | Tags: [spectrometer](/tag/spectrometer), [cuvette](/tag/cuvette), [beers-law](/tag/beers-law), [first-time-poster](/tag/first-time-poster)
 
 ----
 

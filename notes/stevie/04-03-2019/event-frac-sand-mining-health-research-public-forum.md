@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/04-03-2019/event-frac-sand-mining-health-research-public-forum.md
 nid: 18949
 uid: 422561
-
 cids: 24295
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/005/original/Screen_Shot_2019-04-03_at_4.55.15_PM.png)
 
 # Event: Frac Sand Mining Health Research Public Forum
 
-by [stevie](../../../profile/stevie) | April 03, 2019 21:00
+by [stevie](/profile/stevie) | April 03, 2019 21:00
 
-April 03, 2019 21:00 | Tags: [event](../tag/event), [wisconsin](../tag/wisconsin), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [midwest](../tag/midwest), [event:rsvp](../tag/event:rsvp), [with:pat](../tag/with:pat), [date:04-13-2019](../tag/date:04-13-2019), [sentinel](../tag/sentinel), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program), [sand-sentinel](../tag/sand-sentinel)
+April 03, 2019 21:00 | Tags: [event](/tag/event), [wisconsin](/tag/wisconsin), [silica](/tag/silica), [frac-sand](/tag/frac-sand), [pm](/tag/pm), [midwest](/tag/midwest), [event:rsvp](/tag/event:rsvp), [with:pat](/tag/with:pat), [date:04-13-2019](/tag/date:04-13-2019), [sentinel](/tag/sentinel), [parent:the-sand-sentinel-program](/tag/parent:the-sand-sentinel-program), [sand-sentinel](/tag/sand-sentinel)
 
 ----
 

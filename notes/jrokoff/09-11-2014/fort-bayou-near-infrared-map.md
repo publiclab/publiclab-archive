@@ -6,18 +6,16 @@ author: jrokoff
 path: /notes/jrokoff/09-11-2014/fort-bayou-near-infrared-map.md
 nid: 11127
 uid: 428230
-
 cids: 10260,10264,10270,10271,16327,16328,16389
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/735/original/low-alt-infrared_copy.jpg)
 
 # Fort Bayou Near Infrared Map
 
-by [jrokoff](../../../profile/jrokoff) | September 11, 2014 19:04
+by [jrokoff](/profile/jrokoff) | September 11, 2014 19:04
 
-September 11, 2014 19:04 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [washustlouis](../tag/washustlouis), [washu-stlouis](../tag/washu-stlouis)
+September 11, 2014 19:04 | Tags: [gulf-coast](/tag/gulf-coast), [balloon-mapping](/tag/balloon-mapping), [washustlouis](/tag/washustlouis), [washu-stlouis](/tag/washu-stlouis)
 
 ----
 

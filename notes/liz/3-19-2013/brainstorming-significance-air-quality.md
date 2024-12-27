@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/3-19-2013/brainstorming-significance-air-quality.md
 nid: 6436
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20130308_125746_0.jpg)
 
 # brainstorming the significance of air quality
 
-by [liz](../../../profile/liz) | March 19, 2013 18:54
+by [liz](/profile/liz) | March 19, 2013 18:54
 
-March 19, 2013 18:54 | Tags: [new-york-city](../tag/new-york-city), [chaq](../tag/chaq), [air-quality](../tag/air-quality), [air-quality-egg](../tag/air-quality-egg)
+March 19, 2013 18:54 | Tags: [new-york-city](/tag/new-york-city), [chaq](/tag/chaq), [air-quality](/tag/air-quality), [air-quality-egg](/tag/air-quality-egg)
 
 ----
 

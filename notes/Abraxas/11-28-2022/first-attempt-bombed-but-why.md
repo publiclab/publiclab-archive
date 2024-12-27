@@ -6,18 +6,16 @@ author: Abraxas
 path: /notes/Abraxas/11-28-2022/first-attempt-bombed-but-why.md
 nid: 37872
 uid: 822105
-
 cids: 30782,30783
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/351/original/Spec3.jpg)
 
 # First Attempt Bombed... But Why ?
 
-by [Abraxas](../../../profile/Abraxas) | November 28, 2022 13:25
+by [Abraxas](/profile/Abraxas) | November 28, 2022 13:25
 
-November 28, 2022 13:25 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [first-time-poster](../tag/first-time-poster)
+November 28, 2022 13:25 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [first-time-poster](/tag/first-time-poster)
 
 ----
 

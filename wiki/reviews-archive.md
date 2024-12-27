@@ -6,14 +6,14 @@ author: bhamster
 path: /wiki/reviews-archive.md
 nid: 25290
 uid: 664477
-
+cids: 
 ---
 
 # Research Area Reviews Archive
 
-by [bhamster](../profile/bhamster)
+by [bhamster](/profile/bhamster)
 
-December 17, 2020 22:52 | Tags: [archive](../tag/archive), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review), [parent:reviews](../tag/parent:reviews)
+December 17, 2020 22:52 | Tags: [archive](/tag/archive), [reviews](/tag/reviews), [research-area-review](/tag/research-area-review), [parent:reviews](/tag/parent:reviews)
 
 ----
 

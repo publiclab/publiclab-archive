@@ -6,18 +6,16 @@ author: Alex-McCarthy
 path: /notes/alex-mccarthy/4-28-2011/spectrometry-urop-42811-update.md
 nid: 199
 uid: 125
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/picture through visible block filter.JPG)
 
 # Spectrometry UROP 4/28/11 update
 
-by [Alex-McCarthy](../../../profile/Alex-McCarthy) | April 28, 2011 06:32
+by [Alex-McCarthy](/profile/Alex-McCarthy) | April 28, 2011 06:32
 
-April 28, 2011 06:32 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv)
+April 28, 2011 06:32 | Tags: [spectrometer](/tag/spectrometer), [uv](/tag/uv)
 
 ----
 

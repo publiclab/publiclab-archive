@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/shannon/1-29-2012/h2s-film-strip-test-2.md
 nid: 725
 uid: 9
-
 cids: 423,567
-
 ---
 
 ![](https://publiclab.org/sites/default/files/darkrm.png)
 
 # H2S film strip test #2
 
-by [Shannon](../../../profile/Shannon) | January 30, 2012 04:11
+by [Shannon](/profile/Shannon) | January 30, 2012 04:11
 
-January 30, 2012 04:11 | Tags: [providence](../tag/providence), [as220](../tag/as220), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper)
+January 30, 2012 04:11 | Tags: [providence](/tag/providence), [as220](/tag/as220), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [h2s-photopaper](/tag/h2s-photopaper)
 
 ----
 

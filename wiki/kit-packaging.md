@@ -6,14 +6,14 @@ author: warren
 path: /wiki/kit-packaging.md
 nid: 10687
 uid: 1
-
+cids: 
 ---
 
 # Kit Packaging
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-July 14, 2014 14:52 | Tags: [kits](../tag/kits), [parent:kits](../tag/parent:kits)
+July 14, 2014 14:52 | Tags: [kits](/tag/kits), [parent:kits](/tag/parent:kits)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/08-06-2015/wavelength-range-limiting-in-spectral-workbench.md
 nid: 12125
 uid: 1
-
 cids: 13054
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/051/original/Screenshot_2015-08-06_at_3.24.39_PM.png)
 
 # Wavelength range limiting in Spectral Workbench
 
-by [warren](../../../profile/warren) | August 06, 2015 19:39
+by [warren](/profile/warren) | August 06, 2015 19:39
 
-August 06, 2015 19:39 | Tags: [spectrometer](../tag/spectrometer), [web-development](../tag/web-development), [software](../tag/software), [spectral-workbench](../tag/spectral-workbench), [oil-testing-kit](../tag/oil-testing-kit), [response:12108](../tag/response:12108)
+August 06, 2015 19:39 | Tags: [spectrometer](/tag/spectrometer), [web-development](/tag/web-development), [software](/tag/software), [spectral-workbench](/tag/spectral-workbench), [oil-testing-kit](/tag/oil-testing-kit), [response:12108](/tag/response:12108)
 
 ----
 

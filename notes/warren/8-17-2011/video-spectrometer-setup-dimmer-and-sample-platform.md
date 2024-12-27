@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/8-17-2011/video-spectrometer-setup-dimmer-and-sample-platform.md
 nid: 440
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/6047918956_9b54a14a85_b.jpg)
 
 # Video spectrometer setup with dimmer and sample platform
 
-by [warren](../../../profile/warren) | August 17, 2011 14:00
+by [warren](/profile/warren) | August 17, 2011 14:00
 
-August 17, 2011 14:00 | Tags: [peru](../tag/peru)
+August 17, 2011 14:00 | Tags: [peru](/tag/peru)
 
 ----
 

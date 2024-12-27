@@ -6,16 +6,14 @@ author: MicheleTobias
 path: /notes/micheletobias/11-26-2011/intertidal-zone-leo-carrillo-state-park-ca.md
 nid: 585
 uid: 149
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/LC_Panorama.jpg)
 
 # Intertidal Zone at Leo Carrillo State Park, CA
 
-by [MicheleTobias](../../../profile/MicheleTobias) | November 27, 2011 03:23
+by [MicheleTobias](/profile/MicheleTobias) | November 27, 2011 03:23
 
 November 27, 2011 03:23 | Tags: 
 

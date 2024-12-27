@@ -6,18 +6,16 @@ author: xvidun
 path: /notes/xvidun/07-03-2014/gsoc-update-autoknitting-2.md
 nid: 10648
 uid: 421168
-
 cids: 9401,9408,10041,10047
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/102/original/Update_2-1.png)
 
 # GSoC Update - AutoKnitting 2
 
-by [xvidun](../../../profile/xvidun) | July 03, 2014 05:47
+by [xvidun](/profile/xvidun) | July 03, 2014 05:47
 
-July 03, 2014 05:47 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [exif](../tag/exif), [response:10594](../tag/response:10594)
+July 03, 2014 05:47 | Tags: [mapknitter](/tag/mapknitter), [gsoc](/tag/gsoc), [gsoc-2014](/tag/gsoc-2014), [exif](/tag/exif), [response:10594](/tag/response:10594)
 
 ----
 

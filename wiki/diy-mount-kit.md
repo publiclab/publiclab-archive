@@ -6,14 +6,14 @@ author: tonyc
 path: /wiki/diy-mount-kit.md
 nid: 12749
 uid: 447491
-
+cids: 
 ---
 
 # diy-mount-kit
 
-by [tonyc](../profile/tonyc)
+by [tonyc](/profile/tonyc)
 
-February 24, 2016 19:58 | Tags: [slit](../tag/slit)
+February 24, 2016 19:58 | Tags: [slit](/tag/slit)
 
 ----
 

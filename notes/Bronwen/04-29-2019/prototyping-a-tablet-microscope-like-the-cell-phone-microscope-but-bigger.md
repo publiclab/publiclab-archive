@@ -6,18 +6,16 @@ author: Bronwen
 path: /notes/Bronwen/04-29-2019/prototyping-a-tablet-microscope-like-the-cell-phone-microscope-but-bigger.md
 nid: 19188
 uid: 237313
-
 cids: 24001,24006,24009,24021,24049,24050,24103
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/745/original/tablettopview.jpg)
 
 # Prototyping a Tablet Microscope-- Like the Cell Phone Microscope, But Bigger
 
-by [Bronwen](../../../profile/Bronwen) | April 29, 2019 15:36
+by [Bronwen](/profile/Bronwen) | April 29, 2019 15:36
 
-April 29, 2019 15:36 | Tags: [education](../tag/education), [kits](../tag/kits), [water-quality](../tag/water-quality), [prototyping](../tag/prototyping), [microscope](../tag/microscope), [tablet](../tag/tablet), [community-microscope](../tag/community-microscope), [lat:40.680638](../tag/lat:40.680638), [lon:-73.937988](../tag/lon:-73.937988), [seaweed](../tag/seaweed), [marine-life](../tag/marine-life), [replication:13743](../tag/replication:13743)
+April 29, 2019 15:36 | Tags: [education](/tag/education), [kits](/tag/kits), [water-quality](/tag/water-quality), [prototyping](/tag/prototyping), [microscope](/tag/microscope), [tablet](/tag/tablet), [community-microscope](/tag/community-microscope), [lat:40.680638](/tag/lat:40.680638), [lon:-73.937988](/tag/lon:-73.937988), [seaweed](/tag/seaweed), [marine-life](/tag/marine-life), [replication:13743](/tag/replication:13743)
 
 ----
 

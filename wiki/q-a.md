@@ -6,12 +6,12 @@ author: liz
 path: /wiki/q-a.md
 nid: 12702
 uid: 7
-
+cids: 
 ---
 
 # Q&A
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
 February 17, 2016 16:07 | Tags: 
 

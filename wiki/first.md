@@ -6,12 +6,12 @@ author: joelee
 path: /wiki/first.md
 nid: 515
 uid: 322
-
+cids: 
 ---
 
 # First
 
-by [joelee](../profile/joelee)
+by [joelee](/profile/joelee)
 
 October 21, 2011 08:57 | Tags: 
 

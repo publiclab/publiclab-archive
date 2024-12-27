@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/03-20-2018/looking-for-ideas-on-filtering-metals-arsenic-and-or-bacteria-from-water.md
 nid: 15983
 uid: 422561
-
 cids: 19064,19065,19111,19122
-
 ---
 
 # Looking for ideas on filtering metals, arsenic, and/or bacteria from water?
 
-by [stevie](../../../profile/stevie) | March 20, 2018 13:41
+by [stevie](/profile/stevie) | March 20, 2018 13:41
 
-March 20, 2018 13:41 | Tags: [remediation](../tag/remediation), [water-quality](../tag/water-quality), [arsenic](../tag/arsenic), [bacteria](../tag/bacteria), [lead](../tag/lead), [question:general](../tag/question:general), [question:water-filters](../tag/question:water-filters), [water-filtration](../tag/water-filtration), [water-remediation](../tag/water-remediation), [question:remediation](../tag/question:remediation), [question:water-filtration](../tag/question:water-filtration), [question:lead](../tag/question:lead), [question:arsenic](../tag/question:arsenic)
+March 20, 2018 13:41 | Tags: [remediation](/tag/remediation), [water-quality](/tag/water-quality), [arsenic](/tag/arsenic), [bacteria](/tag/bacteria), [lead](/tag/lead), [question:general](/tag/question:general), [question:water-filters](/tag/question:water-filters), [water-filtration](/tag/water-filtration), [water-remediation](/tag/water-remediation), [question:remediation](/tag/question:remediation), [question:water-filtration](/tag/question:water-filtration), [question:lead](/tag/question:lead), [question:arsenic](/tag/question:arsenic)
 
 ----
 

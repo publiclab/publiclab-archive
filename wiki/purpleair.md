@@ -6,16 +6,16 @@ author: jiteovien
 path: /wiki/purpleair.md
 nid: 16947
 uid: 540008
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/430/original/purpleair-device2x_%281%29.jpeg)
 
 # PurpleAir
 
-by [joyofsoy](../profile/joyofsoy), [warren](../profile/warren), [liz](../profile/liz), [jiteovien](../profile/jiteovien)
+by [joyofsoy](/profile/joyofsoy), [warren](/profile/warren), [liz](/profile/liz), [jiteovien](/profile/jiteovien)
 
-August 17, 2018 20:02 | Tags: [particulate-sensing](../tag/particulate-sensing), [air-quality](../tag/air-quality), [pm](../tag/pm), [method](../tag/method), [particulate-matter](../tag/particulate-matter), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [purple-air](../tag/purple-air), [particle-sensor](../tag/particle-sensor)
+August 17, 2018 20:02 | Tags: [particulate-sensing](/tag/particulate-sensing), [air-quality](/tag/air-quality), [pm](/tag/pm), [method](/tag/method), [particulate-matter](/tag/particulate-matter), [air-sensors](/tag/air-sensors), [purpleair](/tag/purpleair), [purple-air](/tag/purple-air), [particle-sensor](/tag/particle-sensor)
 
 ----
 
@@ -68,13 +68,13 @@ Everyone, whether or not you own a Purple Air has free access to the Purple Air'
 
 Questions can be either frequently asked questions, or "next step" challenges we're looking to solve.
 
-[purpleair](../../tag/question:purpleair)
+[purpleair](/tag/question:purpleair)
 
 ## Activities
 
 Activities show how to use this project, step by step.
 
-[purpleair](../../tag/activity:purpleair)
+[purpleair](/tag/activity:purpleair)
 
 
 ## Other things to know about using your Purple Air

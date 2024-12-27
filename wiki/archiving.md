@@ -6,12 +6,12 @@ author: warren
 path: /wiki/archiving.md
 nid: 139
 uid: 1
-
+cids: 
 ---
 
 # Archiving
 
-by [gonzoearth](../profile/gonzoearth), [warren](../profile/warren)
+by [gonzoearth](/profile/gonzoearth), [warren](/profile/warren)
 
 March 09, 2011 00:13 | Tags: 
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/7-21-2011/balloon-mapping-protest-jerusalem.md
 nid: 403
 uid: 1
-
 cids: 300
-
 ---
 
 ![](https://publiclab.org/sites/default/files/5940055519_ff00c64495.jpg)
 
 # Balloon-mapping a protest in Jerusalem
 
-by [warren](../../../profile/warren) | July 21, 2011 13:53
+by [warren](/profile/warren) | July 21, 2011 13:53
 
-July 21, 2011 13:53 | Tags: [balloon-mapping](../tag/balloon-mapping), [jerusalem](../tag/jerusalem), [protest-mapping](../tag/protest-mapping), [protest](../tag/protest), [march](../tag/march)
+July 21, 2011 13:53 | Tags: [balloon-mapping](/tag/balloon-mapping), [jerusalem](/tag/jerusalem), [protest-mapping](/tag/protest-mapping), [protest](/tag/protest), [march](/tag/march)
 
 ----
 

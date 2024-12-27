@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/8-18-2012/rgb-mode-spectralworkbench.md
 nid: 3330
 uid: 1
-
 cids: 1185,1186
-
 ---
 
 ![](https://publiclab.org/sites/default/files/rgb-3.png)
 
 # RGB mode in SpectralWorkbench
 
-by [warren](../../../profile/warren) | August 18, 2012 20:18
+by [warren](/profile/warren) | August 18, 2012 20:18
 
-August 18, 2012 20:18 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration)
+August 18, 2012 20:18 | Tags: [spectrometer](/tag/spectrometer), [calibration](/tag/calibration)
 
 ----
 

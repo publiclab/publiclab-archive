@@ -6,16 +6,14 @@ author: namangupta
 path: /notes/namangupta/08-25-2019/google-summer-of-code-2019-work-product-2019.md
 nid: 20664
 uid: 522848
-
 cids: 25378
-
 ---
 
 # Google Summer of Code 2019 Work Product 2019
 
-by [namangupta](../../../profile/namangupta) | August 25, 2019 19:24
+by [namangupta](/profile/namangupta) | August 25, 2019 19:24
 
-August 25, 2019 19:24 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [gsoc-2019-final-report](../tag/gsoc-2019-final-report)
+August 25, 2019 19:24 | Tags: [gsoc](/tag/gsoc), [soc](/tag/soc), [gsoc-2019](/tag/gsoc-2019), [soc-2019](/tag/soc-2019), [gsoc-2019-final-report](/tag/gsoc-2019-final-report)
 
 ----
 

@@ -6,16 +6,14 @@ author: caitlion
 path: /notes/caitlion/03-19-2022/zoning-and-corruption-in-st-john-the-baptist-parish.md
 nid: 30158
 uid: 780686
-
 cids: 30804
-
 ---
 
 # Zoning and Corruption in St. John the Baptist Parish
 
-by [caitlion](../../../profile/caitlion) | March 19, 2022 19:27
+by [caitlion](/profile/caitlion) | March 19, 2022 19:27
 
-March 19, 2022 19:27 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [land-use](../tag/land-use), [zoning](../tag/zoning), [zoom:6](../tag/zoom:6), [law-and-policy](../tag/law-and-policy), [st-james](../tag/st-james), [formosaplastics](../tag/formosaplastics), [lat:30.111833](../tag/lat:30.111833), [lon:-90.487991](../tag/lon:-90.487991)
+March 19, 2022 19:27 | Tags: [gulf-coast](/tag/gulf-coast), [louisiana](/tag/louisiana), [land-use](/tag/land-use), [zoning](/tag/zoning), [zoom:6](/tag/zoom:6), [law-and-policy](/tag/law-and-policy), [st-james](/tag/st-james), [formosaplastics](/tag/formosaplastics), [lat:30.111833](/tag/lat:30.111833), [lon:-90.487991](/tag/lon:-90.487991)
 
 ----
 

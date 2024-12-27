@@ -6,18 +6,16 @@ author: gangrin
 path: /notes/gangrin/09-28-2015/research-for-finding-effective-ways-to-block-bluelight.md
 nid: 12246
 uid: 452627
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/688/original/%3F%3F%3F.jpg)
 
 #  Research for finding effective ways to block bluelight
 
-by [gangrin](../../../profile/gangrin) | September 28, 2015 06:58
+by [gangrin](/profile/gangrin) | September 28, 2015 06:58
 
-September 28, 2015 06:58 | Tags: [bluelight](../tag/bluelight), [korea](../tag/korea)
+September 28, 2015 06:58 | Tags: [bluelight](/tag/bluelight), [korea](/tag/korea)
 
 ----
 

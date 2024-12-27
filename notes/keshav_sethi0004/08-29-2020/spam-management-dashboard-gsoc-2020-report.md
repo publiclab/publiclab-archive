@@ -6,18 +6,16 @@ author: keshav_sethi0004
 path: /notes/keshav_sethi0004/08-29-2020/spam-management-dashboard-gsoc-2020-report.md
 nid: 24481
 uid: 653396
-
 cids: 27304,27312,27313,27316,27334,31407
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/738/original/Screenshot_from_2020-08-30_00-03-38.png)
 
 # GSoC 2020 Report: Spam Management Dashboard 
 
-by [keshav_sethi0004](../../../profile/keshav_sethi0004) | August 29, 2020 21:56
+by [keshav_sethi0004](/profile/keshav_sethi0004) | August 29, 2020 21:56
 
-August 29, 2020 21:56 | Tags: [gsoc](../tag/gsoc), [spam](../tag/spam), [report](../tag/report), [keshav](../tag/keshav), [gsoc-2020-report](../tag/gsoc-2020-report), [soc-2020-final](../tag/soc-2020-final)
+August 29, 2020 21:56 | Tags: [gsoc](/tag/gsoc), [spam](/tag/spam), [report](/tag/report), [keshav](/tag/keshav), [gsoc-2020-report](/tag/gsoc-2020-report), [soc-2020-final](/tag/soc-2020-final)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/03-20-2018/collaboratively-document-an-event-with-a-mini-newspaper.md
 nid: 15986
 uid: 1
-
 cids: 19067,19120
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/111/original/IMG_20170624_150422_187_%281%29.jpg)
 
 # Collaboratively document an event with a mini newspaper
 
-by [warren](../../../profile/warren) | March 20, 2018 22:59
+by [warren](/profile/warren) | March 20, 2018 22:59
 
-March 20, 2018 22:59 | Tags: [documentation](../tag/documentation), [barnraising](../tag/barnraising), [facilitation](../tag/facilitation), [doccom](../tag/doccom), [barnraiser](../tag/barnraiser), [the-barnraiser](../tag/the-barnraiser), [activity:barnraiser](../tag/activity:barnraiser), [activity:documentation](../tag/activity:documentation), [activity:barnraising](../tag/activity:barnraising), [activity:doccom](../tag/activity:doccom), [activity:during-barnraising](../tag/activity:during-barnraising), [15124](../tag/15124), [activity:facilitation](../tag/activity:facilitation), [activities:during-barnraising](../tag/activities:during-barnraising)
+March 20, 2018 22:59 | Tags: [documentation](/tag/documentation), [barnraising](/tag/barnraising), [facilitation](/tag/facilitation), [doccom](/tag/doccom), [barnraiser](/tag/barnraiser), [the-barnraiser](/tag/the-barnraiser), [activity:barnraiser](/tag/activity:barnraiser), [activity:documentation](/tag/activity:documentation), [activity:barnraising](/tag/activity:barnraising), [activity:doccom](/tag/activity:doccom), [activity:during-barnraising](/tag/activity:during-barnraising), [15124](/tag/15124), [activity:facilitation](/tag/activity:facilitation), [activities:during-barnraising](/tag/activities:during-barnraising)
 
 ----
 

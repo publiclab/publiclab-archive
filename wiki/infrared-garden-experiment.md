@@ -6,14 +6,14 @@ author: liz
 path: /wiki/infrared-garden-experiment.md
 nid: 11509
 uid: 7
-
+cids: 
 ---
 
 # infrared-garden-experiment
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-January 05, 2015 16:55 | Tags: [workshop](../tag/workshop), [gardening-toolkit](../tag/gardening-toolkit), [parent:gardening:toolkit](../tag/parent:gardening:toolkit)
+January 05, 2015 16:55 | Tags: [workshop](/tag/workshop), [gardening-toolkit](/tag/gardening-toolkit), [parent:gardening:toolkit](/tag/parent:gardening:toolkit)
 
 ----
 

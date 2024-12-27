@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/09-03-2013/fungalfest.md
 nid: 9229
 uid: 554
-
 cids: 6753,6754
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/382/original/leaffestest-216-41.jpg)
 
 # FungalFest
 
-by [cfastie](../../../profile/cfastie) | September 03, 2013 17:27
+by [cfastie](/profile/cfastie) | September 03, 2013 17:27
 
-September 03, 2013 17:27 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [leaffest](../tag/leaffest), [infragram](../tag/infragram), [leaffest2013](../tag/leaffest2013), [fungus](../tag/fungus)
+September 03, 2013 17:27 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [vermont](/tag/vermont), [leaffest](/tag/leaffest), [infragram](/tag/infragram), [leaffest2013](/tag/leaffest2013), [fungus](/tag/fungus)
 
 ----
 

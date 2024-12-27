@@ -6,14 +6,14 @@ author: leejaekyung
 path: /wiki/snut-balloon-mapping-video.md
 nid: 852
 uid: 274
-
+cids: 
 ---
 
 # SNUT balloon mapping video
 
-by [mathew](../profile/mathew), [leejaekyung](../profile/leejaekyung)
+by [mathew](/profile/mathew), [leejaekyung](/profile/leejaekyung)
 
-February 27, 2012 00:20 | Tags: [balloon-mapping](../tag/balloon-mapping), [urban](../tag/urban), [diy-balloon](../tag/diy-balloon), [korea](../tag/korea)
+February 27, 2012 00:20 | Tags: [balloon-mapping](/tag/balloon-mapping), [urban](/tag/urban), [diy-balloon](/tag/diy-balloon), [korea](/tag/korea)
 
 ----
 

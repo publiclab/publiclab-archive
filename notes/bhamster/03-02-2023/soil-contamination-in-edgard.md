@@ -6,16 +6,14 @@ author: bhamster
 path: /notes/bhamster/03-02-2023/soil-contamination-in-edgard.md
 nid: 38735
 uid: 664477
-
 cids: 
-
 ---
 
 # Soil Contamination in Edgard
 
-by [bhamster](../../../profile/bhamster) | March 02, 2023 22:05
+by [bhamster](/profile/bhamster) | March 02, 2023 22:05
 
-March 02, 2023 22:05 | Tags: [csf](../tag/csf), [community-science-forum](../tag/community-science-forum), [soil-contamination](../tag/soil-contamination), [student-community-science](../tag/student-community-science), [classroom-community-science](../tag/classroom-community-science), [csf18](../tag/csf18)
+March 02, 2023 22:05 | Tags: [csf](/tag/csf), [community-science-forum](/tag/community-science-forum), [soil-contamination](/tag/soil-contamination), [student-community-science](/tag/student-community-science), [classroom-community-science](/tag/classroom-community-science), [csf18](/tag/csf18)
 
 ----
 

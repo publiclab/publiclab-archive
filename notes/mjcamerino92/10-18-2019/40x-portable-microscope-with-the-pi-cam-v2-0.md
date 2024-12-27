@@ -6,16 +6,14 @@ author: mjcamerino92
 path: /notes/mjcamerino92/10-18-2019/40x-portable-microscope-with-the-pi-cam-v2-0.md
 nid: 21216
 uid: 629608
-
 cids: 
-
 ---
 
 # 40x portable microscope with the pi cam V2.0
 
-by [mjcamerino92](../../../profile/mjcamerino92) | October 18, 2019 16:20
+by [mjcamerino92](/profile/mjcamerino92) | October 18, 2019 16:20
 
-October 18, 2019 16:20 | Tags: [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
+October 18, 2019 16:20 | Tags: [question:general](/tag/question:general), [general](/tag/general), [first-time-poster](/tag/first-time-poster)
 
 ----
 

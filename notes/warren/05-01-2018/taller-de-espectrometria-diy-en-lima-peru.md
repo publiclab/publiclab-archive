@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/05-01-2018/taller-de-espectrometria-diy-en-lima-peru.md
 nid: 41
 uid: 1
-
 cids: 
-
 ---
 
 # Taller de espectrometría "DIY" en Lima, Peru
 
-by [warren](../../../profile/warren) | January 07, 2011 13:26
+by [warren](/profile/warren) | January 07, 2011 13:26
 
-January 07, 2011 13:26 | Tags: [peru](../tag/peru), [escuelab](../tag/escuelab), [lang:es](../tag/lang:es), [south-america](../tag/south-america)
+January 07, 2011 13:26 | Tags: [peru](/tag/peru), [escuelab](/tag/escuelab), [lang:es](/tag/lang:es), [south-america](/tag/south-america)
 
 ----
 

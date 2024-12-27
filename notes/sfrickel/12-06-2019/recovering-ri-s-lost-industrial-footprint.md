@@ -6,18 +6,16 @@ author: sfrickel
 path: /notes/sfrickel/12-06-2019/recovering-ri-s-lost-industrial-footprint.md
 nid: 21685
 uid: 635246
-
 cids: 25969,25978
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/898/original/relic_gif-small.gif)
 
 # Recovering RI's Lost Industrial Footprint
 
-by [sfrickel](../../../profile/sfrickel) | December 06, 2019 18:46
+by [sfrickel](/profile/sfrickel) | December 06, 2019 18:46
 
-December 06, 2019 18:46 | Tags: [first-time-poster](../tag/first-time-poster), [unearthing-pvd](../tag/unearthing-pvd), [lat:41.0](../tag/lat:41.0), [lon:-71.0](../tag/lon:-71.0), [unearthing-pvd-analyses](../tag/unearthing-pvd-analyses), [lat:41.826887](../tag/lat:41.826887), [lon:-71.401911](../tag/lon:-71.401911)
+December 06, 2019 18:46 | Tags: [first-time-poster](/tag/first-time-poster), [unearthing-pvd](/tag/unearthing-pvd), [lat:41.0](/tag/lat:41.0), [lon:-71.0](/tag/lon:-71.0), [unearthing-pvd-analyses](/tag/unearthing-pvd-analyses), [lat:41.826887](/tag/lat:41.826887), [lon:-71.401911](/tag/lon:-71.401911)
 
 ----
 

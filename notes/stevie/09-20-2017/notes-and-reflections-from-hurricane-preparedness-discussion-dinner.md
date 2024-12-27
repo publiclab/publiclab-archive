@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/09-20-2017/notes-and-reflections-from-hurricane-preparedness-discussion-dinner.md
 nid: 14921
 uid: 422561
-
 cids: 17482
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/720/original/20170918_193848.jpg)
 
 # Notes and Reflections from Hurricane Preparedness Discussion/Dinner
 
-by [stevie](../../../profile/stevie) | September 20, 2017 16:51
+by [stevie](/profile/stevie) | September 20, 2017 16:51
 
-September 20, 2017 16:51 | Tags: [gulf-coast](../tag/gulf-coast), [disaster-preparedness](../tag/disaster-preparedness), [workshop](../tag/workshop), [new-orleans](../tag/new-orleans), [hurricane](../tag/hurricane), [with:mimibell](../tag/with:mimibell), [nas](../tag/nas), [disaster-response](../tag/disaster-response), [nola](../tag/nola), [resilience](../tag/resilience), [water-works](../tag/water-works)
+September 20, 2017 16:51 | Tags: [gulf-coast](/tag/gulf-coast), [disaster-preparedness](/tag/disaster-preparedness), [workshop](/tag/workshop), [new-orleans](/tag/new-orleans), [hurricane](/tag/hurricane), [with:mimibell](/tag/with:mimibell), [nas](/tag/nas), [disaster-response](/tag/disaster-response), [nola](/tag/nola), [resilience](/tag/resilience), [water-works](/tag/water-works)
 
 ----
 

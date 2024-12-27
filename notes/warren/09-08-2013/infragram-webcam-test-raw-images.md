@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/09-08-2013/infragram-webcam-test-raw-images.md
 nid: 9302
 uid: 1
-
 cids: 6770,6771
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/424/original/IMG_0251.JPG)
 
 # Infragram webcam test raw images
 
-by [warren](../../../profile/warren) | September 08, 2013 03:44
+by [warren](/profile/warren) | September 08, 2013 03:44
 
-September 08, 2013 03:44 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [leaffest](../tag/leaffest), [infragram](../tag/infragram), [infragram-conversion](../tag/infragram-conversion), [leaffest2013](../tag/leaffest2013), [lat:44.02](../tag/lat:44.02), [lon:-73.09](../tag/lon:-73.09)
+September 08, 2013 03:44 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [vermont](/tag/vermont), [leaffest](/tag/leaffest), [infragram](/tag/infragram), [infragram-conversion](/tag/infragram-conversion), [leaffest2013](/tag/leaffest2013), [lat:44.02](/tag/lat:44.02), [lon:-73.09](/tag/lon:-73.09)
 
 ----
 

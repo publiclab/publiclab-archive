@@ -6,16 +6,14 @@ author: joquendo
 path: /notes/joquendo/05-16-2019/id-and-password-request-after-image-load.md
 nid: 19428
 uid: 589024
-
 cids: 24154,24155,24158
-
 ---
 
 # ID and Password Request after Image Load
 
-by [joquendo](../../../profile/joquendo) | May 16, 2019 15:47
+by [joquendo](/profile/joquendo) | May 16, 2019 15:47
 
-May 16, 2019 15:47 | Tags: [pi-builder](../tag/pi-builder), [question:pi-builder](../tag/question:pi-builder)
+May 16, 2019 15:47 | Tags: [pi-builder](/tag/pi-builder), [question:pi-builder](/tag/question:pi-builder)
 
 ----
 

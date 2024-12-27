@@ -6,16 +6,14 @@ author: JWL
 path: /notes/JWL/12-04-2014/detection-of-heavy-metals-in-plants.md
 nid: 11435
 uid: 432339
-
 cids: 10898,10899
-
 ---
 
 # Detection of heavy metals in plants
 
-by [JWL](../../../profile/JWL) | December 04, 2014 20:48
+by [JWL](/profile/JWL) | December 04, 2014 20:48
 
-December 04, 2014 20:48 | Tags: [heavy-metals](../tag/heavy-metals), [question:heavy-metals](../tag/question:heavy-metals)
+December 04, 2014 20:48 | Tags: [heavy-metals](/tag/heavy-metals), [question:heavy-metals](/tag/question:heavy-metals)
 
 ----
 

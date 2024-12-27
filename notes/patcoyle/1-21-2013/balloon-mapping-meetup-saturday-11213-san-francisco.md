@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/1-21-2013/balloon-mapping-meetup-saturday-11213-san-francisco.md
 nid: 5664
 uid: 77
-
 cids: 20700
-
 ---
 
 ![](https://publiclab.org/sites/default/files/P1060844.JPG)
 
 # Balloon mapping meetup, Saturday 1/12/13, in San Francisco
 
-by [patcoyle](../../../profile/patcoyle) | January 21, 2013 18:42
+by [patcoyle](/profile/patcoyle) | January 21, 2013 18:42
 
-January 21, 2013 18:42 | Tags: [balloon-mapping](../tag/balloon-mapping)
+January 21, 2013 18:42 | Tags: [balloon-mapping](/tag/balloon-mapping)
 
 ----
 

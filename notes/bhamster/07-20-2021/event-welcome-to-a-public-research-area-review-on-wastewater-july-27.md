@@ -6,18 +6,16 @@ author: bhamster
 path: /notes/bhamster/07-20-2021/event-welcome-to-a-public-research-area-review-on-wastewater-july-27.md
 nid: 27205
 uid: 664477
-
 cids: 29041,29048,29049,29050,29051,29052,29053,29061,29068
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/431/original/sewage-pipe-polluted-water_copy.jpg)
 
 # Event! Welcome to a public research area review on wastewater, July 27
 
-by [bhamster](../../../profile/bhamster) | July 20, 2021 21:16
+by [bhamster](/profile/bhamster) | July 20, 2021 21:16
 
-July 20, 2021 21:16 | Tags: [event](../tag/event), [research](../tag/research), [water-quality](../tag/water-quality), [stormwater](../tag/stormwater), [event:rsvp](../tag/event:rsvp), [wastewater](../tag/wastewater), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review), [rsvp:alejobonifacio](../tag/rsvp:alejobonifacio), [research-curation-fellows-event](../tag/research-curation-fellows-event), [rsvp:denissebn_06](../tag/rsvp:denissebn_06), [with:alejobonifacio](../tag/with:alejobonifacio), [rsvp:heyitsjoe](../tag/rsvp:heyitsjoe)
+July 20, 2021 21:16 | Tags: [event](/tag/event), [research](/tag/research), [water-quality](/tag/water-quality), [stormwater](/tag/stormwater), [event:rsvp](/tag/event:rsvp), [wastewater](/tag/wastewater), [reviews](/tag/reviews), [research-area-review](/tag/research-area-review), [rsvp:alejobonifacio](/tag/rsvp:alejobonifacio), [research-curation-fellows-event](/tag/research-curation-fellows-event), [rsvp:denissebn_06](/tag/rsvp:denissebn_06), [with:alejobonifacio](/tag/with:alejobonifacio), [rsvp:heyitsjoe](/tag/rsvp:heyitsjoe)
 
 ----
 

@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/12-12-2011/fwd-four-hack-day-pics.md
 nid: 626
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/PLOTS_temp colors1_5810.jpg)
 
 # Four Thermal Flashlight hack day pics
 
-by [warren](../../../profile/warren) | December 12, 2011 16:33
+by [warren](/profile/warren) | December 12, 2011 16:33
 
 December 12, 2011 16:33 | Tags: 
 

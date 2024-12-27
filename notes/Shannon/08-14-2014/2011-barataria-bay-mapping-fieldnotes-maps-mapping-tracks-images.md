@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/08-14-2014/2011-barataria-bay-mapping-fieldnotes-maps-mapping-tracks-images.md
 nid: 11049
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/266/original/Map_1.png)
 
 # 2011 Barataria Bay mapping fieldnotes, maps, mapping tracks, images
 
-by [Shannon](../../../profile/Shannon) | August 14, 2014 18:15
+by [Shannon](/profile/Shannon) | August 14, 2014 18:15
 
-August 14, 2014 18:15 | Tags: [gulf-coast](../tag/gulf-coast), [barataria-bay](../tag/barataria-bay), [wetlands](../tag/wetlands), [oil-spill](../tag/oil-spill), [barataria](../tag/barataria), [with:warren](../tag/with:warren), [with:gonzoearth](../tag/with:gonzoearth), [with:adam-griffith](../tag/with:adam-griffith)
+August 14, 2014 18:15 | Tags: [gulf-coast](/tag/gulf-coast), [barataria-bay](/tag/barataria-bay), [wetlands](/tag/wetlands), [oil-spill](/tag/oil-spill), [barataria](/tag/barataria), [with:warren](/tag/with:warren), [with:gonzoearth](/tag/with:gonzoearth), [with:adam-griffith](/tag/with:adam-griffith)
 
 ----
 

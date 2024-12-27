@@ -6,12 +6,12 @@ author: warren
 path: /wiki/leftovers.md
 nid: 110
 uid: 1
-
+cids: 
 ---
 
 # Leftovers
 
-by [warren](../profile/warren), [Shannon](../profile/Shannon)
+by [warren](/profile/warren), [Shannon](/profile/Shannon)
 
 March 02, 2011 21:41 | Tags: 
 

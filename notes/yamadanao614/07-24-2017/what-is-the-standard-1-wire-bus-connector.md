@@ -6,16 +6,14 @@ author: yamadanao614
 path: /notes/yamadanao614/07-24-2017/what-is-the-standard-1-wire-bus-connector.md
 nid: 14676
 uid: 511444
-
 cids: 17090,17091
-
 ---
 
 # What is the standard 1-wire bus connector?
 
-by [yamadanao614](../../../profile/yamadanao614) | July 24, 2017 09:00
+by [yamadanao614](/profile/yamadanao614) | July 24, 2017 09:00
 
-July 24, 2017 09:00 | Tags: [question:general](../tag/question:general)
+July 24, 2017 09:00 | Tags: [question:general](/tag/question:general)
 
 ----
 

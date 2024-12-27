@@ -6,16 +6,16 @@ author: warren
 path: /wiki/near-infrared-camera.md
 nid: 59
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0511-split.png)
 
 # Near-Infrared Camera
 
-by [warren](../profile/warren), [liz](../profile/liz), [Shannon](../profile/Shannon), [gonzoearth](../profile/gonzoearth), [mathew](../profile/mathew), [cfastie](../profile/cfastie), [wward1400](../profile/wward1400), [cversek](../profile/cversek), [donblair](../profile/donblair), [ncraig](../profile/ncraig), [sara](../profile/sara)
+by [warren](/profile/warren), [liz](/profile/liz), [Shannon](/profile/Shannon), [gonzoearth](/profile/gonzoearth), [mathew](/profile/mathew), [cfastie](/profile/cfastie), [wward1400](/profile/wward1400), [cversek](/profile/cversek), [donblair](/profile/donblair), [ncraig](/profile/ncraig), [sara](/profile/sara)
 
-January 25, 2011 03:26 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [list:plots-infrared](../tag/list:plots-infrared), [tabbed:notes](../tag/tabbed:notes), [tabbed:wikis](../tag/tabbed:wikis), [n](../tag/n)
+January 25, 2011 03:26 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [infragram](/tag/infragram), [list:plots-infrared](/tag/list:plots-infrared), [tabbed:notes](/tag/tabbed:notes), [tabbed:wikis](/tag/tabbed:wikis), [n](/tag/n)
 
 ----
 
@@ -82,7 +82,7 @@ Visit the [gallery of high-res images by Chris Fastie](https://plus.google.com/p
 
 <a class="btn btn-primary" href="/post?tags=question:multispectral-imaging,question:infrared,question:infragram&template=question">Ask a question about infrared imaging</a>
 
-[question:infragram](../../tag/question:infragram)
+[question:infragram](/tag/question:infragram)
 
 ****
 

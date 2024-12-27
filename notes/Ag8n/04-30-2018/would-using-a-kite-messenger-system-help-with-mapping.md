@@ -6,16 +6,14 @@ author: Ag8n
 path: /notes/Ag8n/04-30-2018/would-using-a-kite-messenger-system-help-with-mapping.md
 nid: 16272
 uid: 520994
-
 cids: 19531,23083,23987
-
 ---
 
 # Would using a kite messenger system help with mapping?
 
-by [Ag8n](../../../profile/Ag8n) | April 30, 2018 18:00
+by [Ag8n](/profile/Ag8n) | April 30, 2018 18:00
 
-April 30, 2018 18:00 | Tags: [question:kite-mapping](../tag/question:kite-mapping)
+April 30, 2018 18:00 | Tags: [question:kite-mapping](/tag/question:kite-mapping)
 
 ----
 

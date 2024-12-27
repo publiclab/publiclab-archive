@@ -6,16 +6,14 @@ author: souravirus
 path: /notes/souravirus/09-26-2018/software-freedom-day-in-nit-hamirpur.md
 nid: 17178
 uid: 524509
-
 cids: 20724,20725,20726,20727,20728,20729,20730,20731,20732,31234
-
 ---
 
 # Software Freedom Day in NIT Hamirpur
 
-by [souravirus](../../../profile/souravirus) | September 26, 2018 13:43
+by [souravirus](/profile/souravirus) | September 26, 2018 13:43
 
-September 26, 2018 13:43 | Tags: [event](../tag/event), [foss](../tag/foss), [india](../tag/india), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [soc](../tag/soc), [location:blurred](../tag/location:blurred), [hamirpur](../tag/hamirpur), [lat:31.7](../tag/lat:31.7), [lon:76.52](../tag/lon:76.52), [place:nit-hamirpur](../tag/place:nit-hamirpur)
+September 26, 2018 13:43 | Tags: [event](/tag/event), [foss](/tag/foss), [india](/tag/india), [barnstar:excessive-enthusiasm](/tag/barnstar:excessive-enthusiasm), [soc](/tag/soc), [location:blurred](/tag/location:blurred), [hamirpur](/tag/hamirpur), [lat:31.7](/tag/lat:31.7), [lon:76.52](/tag/lon:76.52), [place:nit-hamirpur](/tag/place:nit-hamirpur)
 
 ----
 

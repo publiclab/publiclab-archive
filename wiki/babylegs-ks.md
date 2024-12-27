@@ -6,16 +6,16 @@ author: warren
 path: /wiki/babylegs-ks.md
 nid: 19732
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/028/original/BabyLegs_by_David_Howell_for_MEOPAR_copy.jpg)
 
 # BabyLegs KS
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-June 18, 2019 20:58 | Tags: [diy](../tag/diy), [opensource](../tag/opensource), [communityscience](../tag/communityscience), [microplastics](../tag/microplastics), [babylegs](../tag/babylegs), [parent:babylegs](../tag/parent:babylegs), [plastic](../tag/plastic), [plasticpollution](../tag/plasticpollution), [marinedebris](../tag/marinedebris), [alert:testing](../tag/alert:testing), [plastic-pollution](../tag/plastic-pollution)
+June 18, 2019 20:58 | Tags: [diy](/tag/diy), [opensource](/tag/opensource), [communityscience](/tag/communityscience), [microplastics](/tag/microplastics), [babylegs](/tag/babylegs), [parent:babylegs](/tag/parent:babylegs), [plastic](/tag/plastic), [plasticpollution](/tag/plasticpollution), [marinedebris](/tag/marinedebris), [alert:testing](/tag/alert:testing), [plastic-pollution](/tag/plastic-pollution)
 
 ----
 

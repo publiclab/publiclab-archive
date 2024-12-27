@@ -6,14 +6,14 @@ author: warren
 path: /wiki/mission.md
 nid: 296
 uid: 1
-
+cids: 
 ---
 
 # Mission
 
-by [joyofsoy](../profile/joyofsoy), [warren](../profile/warren)
+by [joyofsoy](/profile/joyofsoy), [warren](/profile/warren)
 
-May 25, 2011 18:41 | Tags: [mission](../tag/mission)
+May 25, 2011 18:41 | Tags: [mission](/tag/mission)
 
 ----
 

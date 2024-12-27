@@ -6,18 +6,16 @@ author: sarasage
 path: /notes/sarasage/06-10-2021/bucket-monitor-build-vvamp.md
 nid: 26745
 uid: 451398
-
 cids: 29035
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/054/original/Final.jpg)
 
 # Bucket Monitor Build: VVAMP
 
-by [sarasage](../../../profile/sarasage) | June 10, 2021 22:14
+by [sarasage](/profile/sarasage) | June 10, 2021 22:14
 
-June 10, 2021 22:14 | Tags: [landfill](../tag/landfill), [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [new](../tag/new), [land-use](../tag/land-use), [draft](../tag/draft), [activity:air-quality](../tag/activity:air-quality), [bucket](../tag/bucket), [air-sampling](../tag/air-sampling), [activity:new](../tag/activity:new), [lat:34](../tag/lat:34), [lon:-118](../tag/lon:-118), [zoom:6](../tag/zoom:6), [zoom:9](../tag/zoom:9), [zoom:13](../tag/zoom:13), [bucket-monitor](../tag/bucket-monitor), [VVAMP](../tag/VVAMP), [bucket-kit](../tag/bucket-kit), [lat:34.452218](../tag/lat:34.452218), [lon:-118.652343](../tag/lon:-118.652343), [aire](../tag/aire), [monitoreo-aire](../tag/monitoreo-aire), [calidad-aire](../tag/calidad-aire), [with:denissebn_06](../tag/with:denissebn_06), [ensamblaje](../tag/ensamblaje), [cubeta](../tag/cubeta), [relleno-sanitario](../tag/relleno-sanitario), [lat:34.443441](../tag/lat:34.443441), [lon:-118.658231](../tag/lon:-118.658231)
+June 10, 2021 22:14 | Tags: [landfill](/tag/landfill), [air-quality](/tag/air-quality), [bucket-brigade](/tag/bucket-brigade), [new](/tag/new), [land-use](/tag/land-use), [draft](/tag/draft), [activity:air-quality](/tag/activity:air-quality), [bucket](/tag/bucket), [air-sampling](/tag/air-sampling), [activity:new](/tag/activity:new), [lat:34](/tag/lat:34), [lon:-118](/tag/lon:-118), [zoom:6](/tag/zoom:6), [zoom:9](/tag/zoom:9), [zoom:13](/tag/zoom:13), [bucket-monitor](/tag/bucket-monitor), [VVAMP](/tag/VVAMP), [bucket-kit](/tag/bucket-kit), [lat:34.452218](/tag/lat:34.452218), [lon:-118.652343](/tag/lon:-118.652343), [aire](/tag/aire), [monitoreo-aire](/tag/monitoreo-aire), [calidad-aire](/tag/calidad-aire), [with:denissebn_06](/tag/with:denissebn_06), [ensamblaje](/tag/ensamblaje), [cubeta](/tag/cubeta), [relleno-sanitario](/tag/relleno-sanitario), [lat:34.443441](/tag/lat:34.443441), [lon:-118.658231](/tag/lon:-118.658231)
 
 ----
 

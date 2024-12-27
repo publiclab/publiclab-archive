@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/03-31-2015/making-pdfs-from-wiki-pages.md
 nid: 11732
 uid: 4
-
 cids: 11442,11443,11444,11449,11451,11456
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/511/original/IMG_20150331_133219.jpg)
 
 # making PDFs from wiki pages
 
-by [mathew](../../../profile/mathew) | March 31, 2015 20:51
+by [mathew](/profile/mathew) | March 31, 2015 20:51
 
-March 31, 2015 20:51 | Tags: [process](../tag/process), [curriculum](../tag/curriculum), [plots2](../tag/plots2), [how-to](../tag/how-to), [publiclab.org](../tag/publiclab.org), [printing](../tag/printing)
+March 31, 2015 20:51 | Tags: [process](/tag/process), [curriculum](/tag/curriculum), [plots2](/tag/plots2), [how-to](/tag/how-to), [publiclab.org](/tag/publiclab.org), [printing](/tag/printing)
 
 ----
 

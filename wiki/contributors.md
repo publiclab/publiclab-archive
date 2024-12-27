@@ -6,14 +6,14 @@ author: liz
 path: /wiki/contributors.md
 nid: 23510
 uid: 7
-
+cids: 
 ---
 
 # Contributors
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-April 29, 2020 14:21 | Tags: [community](../tag/community), [parent:website](../tag/parent:website), [contribute](../tag/contribute)
+April 29, 2020 14:21 | Tags: [community](/tag/community), [parent:website](/tag/parent:website), [contribute](/tag/contribute)
 
 ----
 

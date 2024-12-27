@@ -6,14 +6,14 @@ author: warren
 path: /wiki/mapknittercorrecting-lens-distortion.md
 nid: 496
 uid: 1
-
+cids: 
 ---
 
 # Mapknitter: Correcting lens distortion
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-October 04, 2011 05:30 | Tags: [redirect:15086](../tag/redirect:15086)
+October 04, 2011 05:30 | Tags: [redirect:15086](/tag/redirect:15086)
 
 ----
 

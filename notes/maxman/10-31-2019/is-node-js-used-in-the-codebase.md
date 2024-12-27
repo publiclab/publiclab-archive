@@ -6,16 +6,14 @@ author: maxman
 path: /notes/maxman/10-31-2019/is-node-js-used-in-the-codebase.md
 nid: 21362
 uid: 633617
-
 cids: 
-
 ---
 
 # Is Node.js used in the codebase?
 
-by [maxman](../../../profile/maxman) | October 31, 2019 23:24
+by [maxman](/profile/maxman) | October 31, 2019 23:24
 
-October 31, 2019 23:24 | Tags: [ruby](../tag/ruby), [nodejs](../tag/nodejs), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster), [codebase](../tag/codebase)
+October 31, 2019 23:24 | Tags: [ruby](/tag/ruby), [nodejs](/tag/nodejs), [question:general](/tag/question:general), [general](/tag/general), [first-time-poster](/tag/first-time-poster), [codebase](/tag/codebase)
 
 ----
 

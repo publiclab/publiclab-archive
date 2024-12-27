@@ -6,16 +6,16 @@ author: stevie
 path: /wiki/the-sand-sentinel-program.md
 nid: 19663
 uid: 422561
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/822/original/Screen_Shot_2019-06-11_at_2.37.30_PM.png)
 
 # The Sand Sentinel Program
 
-by [stevie](../profile/stevie), [joyofsoy](../profile/joyofsoy)
+by [stevie](/profile/stevie), [joyofsoy](/profile/joyofsoy)
 
-June 11, 2019 18:41 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [transportation](../tag/transportation), [water-quality](../tag/water-quality), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [midwest](../tag/midwest), [project](../tag/project), [air-quality-projects](../tag/air-quality-projects), [sentinel](../tag/sentinel), [project:mine-reclamation](../tag/project:mine-reclamation)
+June 11, 2019 18:41 | Tags: [wisconsin](/tag/wisconsin), [air-quality](/tag/air-quality), [transportation](/tag/transportation), [water-quality](/tag/water-quality), [frac-sand](/tag/frac-sand), [pm](/tag/pm), [midwest](/tag/midwest), [project](/tag/project), [air-quality-projects](/tag/air-quality-projects), [sentinel](/tag/sentinel), [project:mine-reclamation](/tag/project:mine-reclamation)
 
 ----
 
@@ -110,9 +110,9 @@ Interested in getting involved or following along in the project? Subscribe to t
 <a class="btn btn-large btn-primary" href="https://publiclab.org/subscribe/tag/sentinel">Subscribe to updates on this project </a>
 
 **Updates Below:**
-[sentinel](../../tag/sentinel) 
+[sentinel](/tag/sentinel) 
 
 ### Questions
 
-[sentinel](../../tag/question:sentinel)
+[sentinel](/tag/question:sentinel)
 

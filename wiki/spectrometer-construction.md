@@ -6,14 +6,14 @@ author: warren
 path: /wiki/spectrometer-construction.md
 nid: 5186
 uid: 1
-
+cids: 
 ---
 
 # Spectrometer construction
 
-by [wwd2010](../profile/wwd2010), [warren](../profile/warren)
+by [wwd2010](/profile/wwd2010), [warren](/profile/warren)
 
-December 13, 2012 17:25 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [filter](../tag/filter), [parent:spectrometer](../tag/parent:spectrometer), [horizontal](../tag/horizontal)
+December 13, 2012 17:25 | Tags: [spectrometer](/tag/spectrometer), [calibration](/tag/calibration), [filter](/tag/filter), [parent:spectrometer](/tag/parent:spectrometer), [horizontal](/tag/horizontal)
 
 ----
 

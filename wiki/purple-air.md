@@ -6,14 +6,14 @@ author: warren
 path: /wiki/purple-air.md
 nid: 19108
 uid: 1
-
+cids: 
 ---
 
 # purple-air
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-April 18, 2019 17:35 | Tags: [redirect:purpleair](../tag/redirect:purpleair)
+April 18, 2019 17:35 | Tags: [redirect:purpleair](/tag/redirect:purpleair)
 
 ----
 

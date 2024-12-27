@@ -6,18 +6,16 @@ author: denissebn_06
 path: /notes/denissebn_06/08-13-2021/how-we-recollect-our-data.md
 nid: 27515
 uid: 749988
-
 cids: 30978,30979
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/647/original/VVAMP_Thumbnail_Logo_Holser_Canyon.tif)
 
 # HOW WE RECOLLECT OUR DATA
 
-by [denissebn_06](../../../profile/denissebn_06) | August 13, 2021 23:53
+by [denissebn_06](/profile/denissebn_06) | August 13, 2021 23:53
 
-August 13, 2021 23:53 | Tags: [landfill](../tag/landfill), [data](../tag/data), [lang:es](../tag/lang:es), [weather](../tag/weather), [field](../tag/field), [project](../tag/project), [spanish](../tag/spanish), [air-quality-testing](../tag/air-quality-testing), [air-quality-monitoring](../tag/air-quality-monitoring), [VVAMP](../tag/VVAMP), [prompt:vvamp](../tag/prompt:vvamp)
+August 13, 2021 23:53 | Tags: [landfill](/tag/landfill), [data](/tag/data), [lang:es](/tag/lang:es), [weather](/tag/weather), [field](/tag/field), [project](/tag/project), [spanish](/tag/spanish), [air-quality-testing](/tag/air-quality-testing), [air-quality-monitoring](/tag/air-quality-monitoring), [VVAMP](/tag/VVAMP), [prompt:vvamp](/tag/prompt:vvamp)
 
 ----
 

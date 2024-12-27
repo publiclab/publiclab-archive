@@ -6,14 +6,14 @@ author: liz
 path: /wiki/barnstars.md
 nid: 4690
 uid: 7
-
+cids: 
 ---
 
 # Barnstars
 
-by [liz](../profile/liz), [bsugar](../profile/bsugar), [eustatic](../profile/eustatic), [cfastie](../profile/cfastie), [warren](../profile/warren), [nicholas](../profile/nicholas), [btbonval](../profile/btbonval), [mathew](../profile/mathew)
+by [liz](/profile/liz), [bsugar](/profile/bsugar), [eustatic](/profile/eustatic), [cfastie](/profile/cfastie), [warren](/profile/warren), [nicholas](/profile/nicholas), [btbonval](/profile/btbonval), [mathew](/profile/mathew)
 
-October 29, 2012 19:24 | Tags: [community](../tag/community), [barnraising](../tag/barnraising), [barnstars](../tag/barnstars), [ceiling-lights](../tag/ceiling-lights)
+October 29, 2012 19:24 | Tags: [community](/tag/community), [barnraising](/tag/barnraising), [barnstars](/tag/barnstars), [ceiling-lights](/tag/ceiling-lights)
 
 ----
 

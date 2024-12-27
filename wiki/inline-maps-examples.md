@@ -6,14 +6,14 @@ author: warren
 path: /wiki/inline-maps-examples.md
 nid: 22995
 uid: 1
-
+cids: 
 ---
 
 # Inline maps examples
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-March 03, 2020 18:00 | Tags: [parent:inline-maps](../tag/parent:inline-maps), [inline-maps](../tag/inline-maps)
+March 03, 2020 18:00 | Tags: [parent:inline-maps](/tag/parent:inline-maps), [inline-maps](/tag/inline-maps)
 
 ----
 

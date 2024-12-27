@@ -6,16 +6,14 @@ author: aemilius89
 path: /notes/aemilius89/12-12-2018/uploaded-pictures-always-stays-vertical.md
 nid: 17878
 uid: 561190
-
 cids: 21501,21619,21641,21733,21745,26315
-
 ---
 
 # Uploaded pictures always stays vertical
 
-by [aemilius89](../../../profile/aemilius89) | December 12, 2018 15:52
+by [aemilius89](/profile/aemilius89) | December 12, 2018 15:52
 
-December 12, 2018 15:52 | Tags: [spectralworkbench](../tag/spectralworkbench), [question:website](../tag/question:website)
+December 12, 2018 15:52 | Tags: [spectralworkbench](/tag/spectralworkbench), [question:website](/tag/question:website)
 
 ----
 

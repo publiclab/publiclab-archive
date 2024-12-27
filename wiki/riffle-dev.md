@@ -6,14 +6,14 @@ author: donblair
 path: /wiki/riffle-dev.md
 nid: 11074
 uid: 43651
-
+cids: 
 ---
 
 # riffle-dev
 
-by [donblair](../profile/donblair)
+by [donblair](/profile/donblair)
 
-August 23, 2014 14:50 | Tags: [riffle](../tag/riffle), [parent:riffle](../tag/parent:riffle)
+August 23, 2014 14:50 | Tags: [riffle](/tag/riffle), [parent:riffle](/tag/parent:riffle)
 
 ----
 

@@ -6,14 +6,12 @@ author:
 path: /notes/5-18-2012/nickels-walnuts-5-7-12.md
 nid: 2137
 uid: 0
-
 cids: 
-
 ---
 
 # nickels-walnuts--5-7-12
 
-by [](../../../profile/) | May 18, 2012 21:14
+by [](/profile/) | May 18, 2012 21:14
 
 May 18, 2012 21:14 | Tags: 
 

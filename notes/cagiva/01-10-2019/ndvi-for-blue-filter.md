@@ -6,18 +6,16 @@ author: cagiva
 path: /notes/cagiva/01-10-2019/ndvi-for-blue-filter.md
 nid: 18097
 uid: 569044
-
 cids: 21711,23308,25625
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/754/original/IMG_1954-NDVI.jpg)
 
 # How to calibrate the white-balance for NDVI using the BLUE filter?
 
-by [cagiva](../../../profile/cagiva) | January 10, 2019 20:50
+by [cagiva](/profile/cagiva) | January 10, 2019 20:50
 
-January 10, 2019 20:50 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [calibration](../tag/calibration), [infrared](../tag/infrared), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [wratten25a](../tag/wratten25a), [super-red](../tag/super-red), [red-vs-blue](../tag/red-vs-blue), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [question:white-balance](../tag/question:white-balance), [hardware](../tag/hardware), [general](../tag/general), [response:9691](../tag/response:9691), [first-time-poster](../tag/first-time-poster)
+January 10, 2019 20:50 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [calibration](/tag/calibration), [infrared](/tag/infrared), [white-balance](/tag/white-balance), [infragram](/tag/infragram), [infrablue](/tag/infrablue), [wratten25a](/tag/wratten25a), [super-red](/tag/super-red), [red-vs-blue](/tag/red-vs-blue), [question:ndvi](/tag/question:ndvi), [question:infragram](/tag/question:infragram), [question:white-balance](/tag/question:white-balance), [hardware](/tag/hardware), [general](/tag/general), [response:9691](/tag/response:9691), [first-time-poster](/tag/first-time-poster)
 
 ----
 

@@ -6,16 +6,14 @@ author: DanielleS
 path: /notes/DanielleS/02-11-2019/anyone-have-experience-with-diy-soil-testing-methods-for-contaminants-colorimetry-spectometry-reagents-etc.md
 nid: 18343
 uid: 569208
-
 cids: 28045
-
 ---
 
 # Anyone have experience with diy soil testing methods for contaminants- Colorimetry, spectometry, reagents, etc?
 
-by [DanielleS](../../../profile/DanielleS) | February 11, 2019 19:30
+by [DanielleS](/profile/DanielleS) | February 11, 2019 19:30
 
-February 11, 2019 19:30 | Tags: [question](../tag/question), [oil](../tag/oil), [barnraising](../tag/barnraising), [heavy-metals](../tag/heavy-metals), [soil](../tag/soil), [testing](../tag/testing), [reagents](../tag/reagents), [metals](../tag/metals), [colorimeter](../tag/colorimeter), [question:general](../tag/question:general), [oil-and-gas](../tag/oil-and-gas), [question:lead](../tag/question:lead), [pahs](../tag/pahs), [spectometer](../tag/spectometer), [question:soil](../tag/question:soil)
+February 11, 2019 19:30 | Tags: [question](/tag/question), [oil](/tag/oil), [barnraising](/tag/barnraising), [heavy-metals](/tag/heavy-metals), [soil](/tag/soil), [testing](/tag/testing), [reagents](/tag/reagents), [metals](/tag/metals), [colorimeter](/tag/colorimeter), [question:general](/tag/question:general), [oil-and-gas](/tag/oil-and-gas), [question:lead](/tag/question:lead), [pahs](/tag/pahs), [spectometer](/tag/spectometer), [question:soil](/tag/question:soil)
 
 ----
 

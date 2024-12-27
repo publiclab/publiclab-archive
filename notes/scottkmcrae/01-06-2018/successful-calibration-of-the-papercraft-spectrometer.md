@@ -6,16 +6,14 @@ author: scottkmcrae
 path: /notes/scottkmcrae/01-06-2018/successful-calibration-of-the-papercraft-spectrometer.md
 nid: 15466
 uid: 521915
-
 cids: 18129
-
 ---
 
 # Successful Calibration of the papercraft spectrometer
 
-by [scottkmcrae](../../../profile/scottkmcrae) | January 06, 2018 04:54
+by [scottkmcrae](/profile/scottkmcrae) | January 06, 2018 04:54
 
-January 06, 2018 04:54 | Tags: [spectrometer](../tag/spectrometer), [guide](../tag/guide), [cross-section](../tag/cross-section), [replication:13410](../tag/replication:13410), [foldable-spec](../tag/foldable-spec), [papercraft-spec](../tag/papercraft-spec)
+January 06, 2018 04:54 | Tags: [spectrometer](/tag/spectrometer), [guide](/tag/guide), [cross-section](/tag/cross-section), [replication:13410](/tag/replication:13410), [foldable-spec](/tag/foldable-spec), [papercraft-spec](/tag/papercraft-spec)
 
 ----
 

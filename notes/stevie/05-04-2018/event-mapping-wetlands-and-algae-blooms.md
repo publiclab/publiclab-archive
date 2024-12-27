@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/05-04-2018/event-mapping-wetlands-and-algae-blooms.md
 nid: 16300
 uid: 422561
-
 cids: 19601
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/827/original/Screen_Shot_2018-05-04_at_2.47.43_PM.png)
 
 # Event: Mapping wetlands and algae blooms 
 
-by [stevie](../../../profile/stevie) | May 04, 2018 19:51
+by [stevie](/profile/stevie) | May 04, 2018 19:51
 
-May 04, 2018 19:51 | Tags: [gulf-coast](../tag/gulf-coast), [nir](../tag/nir), [wetlands](../tag/wetlands), [mapping](../tag/mapping), [event](../tag/event), [new-orleans](../tag/new-orleans), [algae](../tag/algae), [nas](../tag/nas)
+May 04, 2018 19:51 | Tags: [gulf-coast](/tag/gulf-coast), [nir](/tag/nir), [wetlands](/tag/wetlands), [mapping](/tag/mapping), [event](/tag/event), [new-orleans](/tag/new-orleans), [algae](/tag/algae), [nas](/tag/nas)
 
 ----
 

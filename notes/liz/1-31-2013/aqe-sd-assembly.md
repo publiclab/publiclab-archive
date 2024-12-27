@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/1-31-2013/aqe-sd-assembly.md
 nid: 5828
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20130131_135114.jpg)
 
 # AQE-SD assembly
 
-by [liz](../../../profile/liz) | January 31, 2013 20:37
+by [liz](/profile/liz) | January 31, 2013 20:37
 
-January 31, 2013 20:37 | Tags: [indoor-air-quality-mapping](../tag/indoor-air-quality-mapping), [chaq](../tag/chaq)
+January 31, 2013 20:37 | Tags: [indoor-air-quality-mapping](/tag/indoor-air-quality-mapping), [chaq](/tag/chaq)
 
 ----
 

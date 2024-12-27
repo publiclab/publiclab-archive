@@ -6,14 +6,14 @@ author: Shannon
 path: /wiki/facilitation-resources.md
 nid: 12217
 uid: 9
-
+cids: 
 ---
 
 # Facilitation Resources
 
-by [tobysinclair86](../profile/tobysinclair86), [Shannon](../profile/Shannon)
+by [tobysinclair86](/profile/tobysinclair86), [Shannon](/profile/Shannon)
 
-September 17, 2015 00:35 | Tags: [parent:facilitation](../tag/parent:facilitation), [facilitation](../tag/facilitation)
+September 17, 2015 00:35 | Tags: [parent:facilitation](/tag/parent:facilitation), [facilitation](/tag/facilitation)
 
 ----
 

@@ -6,18 +6,16 @@ author: DarkGreen
 path: /notes/DarkGreen/03-29-2015/curved-grating.md
 nid: 11730
 uid: 437492
-
 cids: 11434,11578
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/498/original/20150329_044455.jpg)
 
 # curved grating
 
-by [DarkGreen](../../../profile/DarkGreen) | March 29, 2015 03:33
+by [DarkGreen](/profile/DarkGreen) | March 29, 2015 03:33
 
-March 29, 2015 03:33 | Tags: [spectrometer](../tag/spectrometer), [question:spectrometer](../tag/question:spectrometer)
+March 29, 2015 03:33 | Tags: [spectrometer](/tag/spectrometer), [question:spectrometer](/tag/question:spectrometer)
 
 ----
 

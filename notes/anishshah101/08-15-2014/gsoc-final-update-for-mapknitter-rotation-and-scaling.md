@@ -6,18 +6,16 @@ author: anishshah101
 path: /notes/anishshah101/08-15-2014/gsoc-final-update-for-mapknitter-rotation-and-scaling.md
 nid: 11059
 uid: 421046
-
 cids: 10017,10018,10027,10028,10030,10034,10037,10114
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/301/original/1.png)
 
 # GSoC Final Update for Mapknitter- Rotation and Scaling.
 
-by [anishshah101](../../../profile/anishshah101) | August 15, 2014 21:08
+by [anishshah101](/profile/anishshah101) | August 15, 2014 21:08
 
-August 15, 2014 21:08 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [developers](../tag/developers), [gsoc-2014](../tag/gsoc-2014)
+August 15, 2014 21:08 | Tags: [mapknitter](/tag/mapknitter), [gsoc](/tag/gsoc), [developers](/tag/developers), [gsoc-2014](/tag/gsoc-2014)
 
 ----
 

@@ -6,18 +6,16 @@ author: bhamster
 path: /notes/bhamster/03-15-2021/seeking-an-air-research-curation-fellow.md
 nid: 25923
 uid: 664477
-
 cids: 31367,31432
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/953/original/Public_Lab_Letterhead_blank.png)
 
 # Seeking an Air Research Curation Fellow
 
-by [bhamster](../../../profile/bhamster) | March 15, 2021 21:45
+by [bhamster](/profile/bhamster) | March 15, 2021 21:45
 
-March 15, 2021 21:45 | Tags: [air-quality](../tag/air-quality), [jobs](../tag/jobs), [pm](../tag/pm), [fellows](../tag/fellows), [indoor-air-quality](../tag/indoor-air-quality), [fellowship](../tag/fellowship), [odor](../tag/odor), [particulate-matter](../tag/particulate-matter), [fellow](../tag/fellow), [research-curation-fellows](../tag/research-curation-fellows)
+March 15, 2021 21:45 | Tags: [air-quality](/tag/air-quality), [jobs](/tag/jobs), [pm](/tag/pm), [fellows](/tag/fellows), [indoor-air-quality](/tag/indoor-air-quality), [fellowship](/tag/fellowship), [odor](/tag/odor), [particulate-matter](/tag/particulate-matter), [fellow](/tag/fellow), [research-curation-fellows](/tag/research-curation-fellows)
 
 ----
 

@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/02-03-2016/attempts-at-spectrometer-stability-pics.md
 nid: 12646
 uid: 461120
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/056/original/20160203_153355.jpg)
 
 # Attempts at Spectrometer stability pics
 
-by [dhaffnersr](../../../profile/dhaffnersr) | February 03, 2016 21:10
+by [dhaffnersr](/profile/dhaffnersr) | February 03, 2016 21:10
 
 February 03, 2016 21:10 | Tags: 
 

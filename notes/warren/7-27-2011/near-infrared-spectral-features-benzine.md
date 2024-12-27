@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/7-27-2011/near-infrared-spectral-features-benzine.md
 nid: 415
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/benzine-near-infrared.png)
 
 # Near-infrared spectral features of Benzine
 
-by [warren](../../../profile/warren) | July 27, 2011 22:16
+by [warren](/profile/warren) | July 27, 2011 22:16
 
-July 27, 2011 22:16 | Tags: [spectrometer](../tag/spectrometer), [benzene](../tag/benzene)
+July 27, 2011 22:16 | Tags: [spectrometer](/tag/spectrometer), [benzene](/tag/benzene)
 
 ----
 

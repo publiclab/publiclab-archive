@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/11-08-2015/converging-on-an-1886-viewpoint.md
 nid: 12378
 uid: 554
-
 cids: 12883,12884
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/540/original/Free651LP100u2k.jpg)
 
 # Converging on an 1886 viewpoint
 
-by [cfastie](../../../profile/cfastie) | November 08, 2015 19:39
+by [cfastie](/profile/cfastie) | November 08, 2015 19:39
 
-November 08, 2015 19:39 | Tags: [kite-mapping](../tag/kite-mapping), [middlebury](../tag/middlebury), [vermont](../tag/vermont), [kite](../tag/kite), [middlebury-college](../tag/middlebury-college), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [littleplanet](../tag/littleplanet), [birdseye](../tag/birdseye), [response:12370](../tag/response:12370), [s100-gps](../tag/s100-gps)
+November 08, 2015 19:39 | Tags: [kite-mapping](/tag/kite-mapping), [middlebury](/tag/middlebury), [vermont](/tag/vermont), [kite](/tag/kite), [middlebury-college](/tag/middlebury-college), [kaptery](/tag/kaptery), [saturnv](/tag/saturnv), [skyshield](/tag/skyshield), [half-spherical](/tag/half-spherical), [littleplanet](/tag/littleplanet), [birdseye](/tag/birdseye), [response:12370](/tag/response:12370), [s100-gps](/tag/s100-gps)
 
 ----
 

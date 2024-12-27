@@ -6,16 +6,14 @@ author: nshapiro
 path: /notes/nshapiro/09-02-2016/question-what-is-the-open-source-community-s-take-the-mit-license.md
 nid: 13411
 uid: 380298
-
 cids: 15291,15293,15297,15302,15305,15563,22267,22268,22269,22310
-
 ---
 
 # Question: What is the Open Source Community's Take the MIT License?
 
-by [nshapiro](../../../profile/nshapiro) | September 02, 2016 11:15
+by [nshapiro](/profile/nshapiro) | September 02, 2016 11:15
 
-September 02, 2016 11:15 | Tags: [open-source](../tag/open-source), [answered](../tag/answered), [license](../tag/license), [question:legal](../tag/question:legal), [question:license](../tag/question:license), [question:copyright](../tag/question:copyright), [law-and-policy](../tag/law-and-policy), [question:law-and-policy](../tag/question:law-and-policy)
+September 02, 2016 11:15 | Tags: [open-source](/tag/open-source), [answered](/tag/answered), [license](/tag/license), [question:legal](/tag/question:legal), [question:license](/tag/question:license), [question:copyright](/tag/question:copyright), [law-and-policy](/tag/law-and-policy), [question:law-and-policy](/tag/question:law-and-policy)
 
 ----
 

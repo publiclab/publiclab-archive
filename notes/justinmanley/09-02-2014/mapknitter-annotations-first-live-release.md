@@ -6,18 +6,16 @@ author: justinmanley
 path: /notes/justinmanley/09-02-2014/mapknitter-annotations-first-live-release.md
 nid: 11096
 uid: 421556
-
 cids: 10171,10172,10224,10225,10226,10227
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/541/original/mapknitter-3.png)
 
 # MapKnitter Annotations: First Live Release
 
-by [justinmanley](../../../profile/justinmanley) | September 02, 2014 03:22
+by [justinmanley](/profile/justinmanley) | September 02, 2014 03:22
 
-September 02, 2014 03:22 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [annotations](../tag/annotations)
+September 02, 2014 03:22 | Tags: [mapknitter](/tag/mapknitter), [gsoc](/tag/gsoc), [gsoc-2014](/tag/gsoc-2014), [annotations](/tag/annotations)
 
 ----
 

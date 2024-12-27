@@ -6,18 +6,16 @@ author: carolccarvalho
 path: /notes/carolccarvalho/07-15-2016/raspberry-noir-cam-blue-filter.md
 nid: 13289
 uid: 461381
-
 cids: 14953,14995,14996,15029,15032,15788
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/047/original/resultado.png)
 
 # Raspberry + NoIR cam + Blue filter
 
-by [carolccarvalho](../../../profile/carolccarvalho) | July 15, 2016 14:54
+by [carolccarvalho](/profile/carolccarvalho) | July 15, 2016 14:54
 
-July 15, 2016 14:54 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [raspberry-pi](../tag/raspberry-pi), [raspberry](../tag/raspberry), [pi-noir](../tag/pi-noir), [raspberry-pi-infragram](../tag/raspberry-pi-infragram), [activity:raspberry-pi-infragram](../tag/activity:raspberry-pi-infragram)
+July 15, 2016 14:54 | Tags: [ndvi](/tag/ndvi), [infrared](/tag/infrared), [raspberry-pi](/tag/raspberry-pi), [raspberry](/tag/raspberry), [pi-noir](/tag/pi-noir), [raspberry-pi-infragram](/tag/raspberry-pi-infragram), [activity:raspberry-pi-infragram](/tag/activity:raspberry-pi-infragram)
 
 ----
 

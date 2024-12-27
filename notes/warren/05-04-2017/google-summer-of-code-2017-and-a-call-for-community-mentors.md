@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/05-04-2017/google-summer-of-code-2017-and-a-call-for-community-mentors.md
 nid: 14162
 uid: 1
-
 cids: 16699,16700,16703,16704,16705,16714,16725,16726,16727,16729,16730,16731,16733,16741,16742,16745,16749,16750,16784,16785,16787,16792,16800,16801,16802,16803,16804,16813,16819,16820,16821,16822,16823,17379
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/368/original/gsoc.jpg)
 
 # Google Summer of Code 2017 - and a call for community mentors
 
-by [warren](../../../profile/warren) | May 04, 2017 16:19
+by [warren](/profile/warren) | May 04, 2017 16:19
 
-May 04, 2017 16:19 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [wwg](../tag/wwg), [webjack](../tag/webjack), [mentoring](../tag/mentoring), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [response:13975](../tag/response:13975)
+May 04, 2017 16:19 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [wwg](/tag/wwg), [webjack](/tag/webjack), [mentoring](/tag/mentoring), [gsoc-2017](/tag/gsoc-2017), [soc](/tag/soc), [soc-2017](/tag/soc-2017), [response:13975](/tag/response:13975)
 
 ----
 

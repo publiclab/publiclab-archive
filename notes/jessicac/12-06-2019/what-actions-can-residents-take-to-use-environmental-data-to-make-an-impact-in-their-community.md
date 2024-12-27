@@ -6,16 +6,14 @@ author: jessicac
 path: /notes/jessicac/12-06-2019/what-actions-can-residents-take-to-use-environmental-data-to-make-an-impact-in-their-community.md
 nid: 21688
 uid: 643430
-
 cids: 25970,25971,25972,25973,25980,25981
-
 ---
 
 # What actions can residents take to use environmental data to make an impact in their community? 
 
-by [jessicac](../../../profile/jessicac) | December 06, 2019 21:56
+by [jessicac](/profile/jessicac) | December 06, 2019 21:56
 
-December 06, 2019 21:56 | Tags: [community](../tag/community), [science](../tag/science), [data](../tag/data), [stormwater](../tag/stormwater), [citizen](../tag/citizen), [advocacy](../tag/advocacy), [question:general](../tag/question:general), [general](../tag/general), [question:advocacy](../tag/question:advocacy), [government](../tag/government), [policy](../tag/policy), [first-time-poster](../tag/first-time-poster), [action](../tag/action), [volunteers](../tag/volunteers)
+December 06, 2019 21:56 | Tags: [community](/tag/community), [science](/tag/science), [data](/tag/data), [stormwater](/tag/stormwater), [citizen](/tag/citizen), [advocacy](/tag/advocacy), [question:general](/tag/question:general), [general](/tag/general), [question:advocacy](/tag/question:advocacy), [government](/tag/government), [policy](/tag/policy), [first-time-poster](/tag/first-time-poster), [action](/tag/action), [volunteers](/tag/volunteers)
 
 ----
 

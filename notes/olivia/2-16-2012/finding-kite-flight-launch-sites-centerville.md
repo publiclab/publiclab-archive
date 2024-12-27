@@ -6,18 +6,16 @@ author: Olivia
 path: /notes/olivia/2-16-2012/finding-kite-flight-launch-sites-centerville.md
 nid: 792
 uid: 269
-
 cids: 472
-
 ---
 
 ![](https://publiclab.org/sites/default/files/grassrootsmapping.toolcomparison.jpg)
 
 # Selecting Kite Flight Launch Sites in Centerville
 
-by [Olivia](../../../profile/Olivia) | February 16, 2012 07:03
+by [Olivia](/profile/Olivia) | February 16, 2012 07:03
 
-February 16, 2012 07:03 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [diy-kite](../tag/diy-kite), [pre-flight-planning](../tag/pre-flight-planning), [flying](../tag/flying), [activity:aerial-photography](../tag/activity:aerial-photography), [activity:kite-mapping](../tag/activity:kite-mapping), [activity:balloon-mapping](../tag/activity:balloon-mapping), [activity:site-survey](../tag/activity:site-survey), [mountain-west](../tag/mountain-west), [montana](../tag/montana), [location:blurred](../tag/location:blurred), [first-time-poster](../tag/first-time-poster), [lat:47](../tag/lat:47), [lon:-111](../tag/lon:-111), [place:centerville-montana](../tag/place:centerville-montana), [where-to-map](../tag/where-to-map)
+February 16, 2012 07:03 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [diy-kite](/tag/diy-kite), [pre-flight-planning](/tag/pre-flight-planning), [flying](/tag/flying), [activity:aerial-photography](/tag/activity:aerial-photography), [activity:kite-mapping](/tag/activity:kite-mapping), [activity:balloon-mapping](/tag/activity:balloon-mapping), [activity:site-survey](/tag/activity:site-survey), [mountain-west](/tag/mountain-west), [montana](/tag/montana), [location:blurred](/tag/location:blurred), [first-time-poster](/tag/first-time-poster), [lat:47](/tag/lat:47), [lon:-111](/tag/lon:-111), [place:centerville-montana](/tag/place:centerville-montana), [where-to-map](/tag/where-to-map)
 
 ----
 

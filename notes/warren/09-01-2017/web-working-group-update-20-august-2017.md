@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/09-01-2017/web-working-group-update-20-august-2017.md
 nid: 14817
 uid: 1
-
 cids: 17307
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/516/original/Screenshot_2017-09-01_at_10.50.45_AM.png)
 
 # Web Working Group Update 20: August 2017
 
-by [warren](../../../profile/warren) | September 01, 2017 14:53
+by [warren](/profile/warren) | September 01, 2017 14:53
 
-September 01, 2017 14:53 | Tags: [nasa](../tag/nasa), [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [infragram](../tag/infragram), [gsoc](../tag/gsoc), [developers](../tag/developers), [wwg](../tag/wwg), [webwg](../tag/webwg), [first-timers-only](../tag/first-timers-only), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [wwg-update](../tag/wwg-update), [response:14614](../tag/response:14614)
+September 01, 2017 14:53 | Tags: [nasa](/tag/nasa), [web-development](/tag/web-development), [software](/tag/software), [plots2](/tag/plots2), [infragram](/tag/infragram), [gsoc](/tag/gsoc), [developers](/tag/developers), [wwg](/tag/wwg), [webwg](/tag/webwg), [first-timers-only](/tag/first-timers-only), [soc](/tag/soc), [soc-2017](/tag/soc-2017), [wwg-update](/tag/wwg-update), [response:14614](/tag/response:14614)
 
 ----
 

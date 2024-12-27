@@ -6,18 +6,16 @@ author: natalie
 path: /notes/Natalie/06-19-2014/mobius-cam-point-and-shoot-shipping-update.md
 nid: 10592
 uid: 424454
-
 cids: 9715,9718,9719,9720
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/881/original/14106506533_0022f9e0d7_o%281%29.jpg)
 
 # Infragram Point & Shoot cameras now in production
 
-by [natalie](../../../profile/natalie) | June 19, 2014 20:26
+by [natalie](/profile/natalie) | June 19, 2014 20:26
 
-June 19, 2014 20:26 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [store](../tag/store), [kickstarter](../tag/kickstarter), [infragram](../tag/infragram), [mobius-actioncam](../tag/mobius-actioncam), [mobius](../tag/mobius), [first-time-poster](../tag/first-time-poster)
+June 19, 2014 20:26 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [store](/tag/store), [kickstarter](/tag/kickstarter), [infragram](/tag/infragram), [mobius-actioncam](/tag/mobius-actioncam), [mobius](/tag/mobius), [first-time-poster](/tag/first-time-poster)
 
 ----
 

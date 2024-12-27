@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/08-05-2013/more-infragram-sample-webcam-tests.md
 nid: 8963
 uid: 1
-
 cids: 6532,6696
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/025/original/2013-08-05-133414.jpg)
 
 # More Infragram sample webcam tests
 
-by [warren](../../../profile/warren) | August 05, 2013 18:37
+by [warren](/profile/warren) | August 05, 2013 18:37
 
-August 05, 2013 18:37 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [infragram-conversion](../tag/infragram-conversion), [infragram-camera-testing](../tag/infragram-camera-testing)
+August 05, 2013 18:37 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [infragram](/tag/infragram), [infragram-conversion](/tag/infragram-conversion), [infragram-camera-testing](/tag/infragram-camera-testing)
 
 ----
 

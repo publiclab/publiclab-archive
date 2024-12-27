@@ -6,14 +6,14 @@ author: jasonbarresi
 path: /wiki/dynamic-reference-spectrometer.md
 nid: 3825
 uid: 42579
-
+cids: 
 ---
 
 # Dynamic Reference Spectrometer
 
-by [jasonbarresi](../profile/jasonbarresi)
+by [jasonbarresi](/profile/jasonbarresi)
 
-September 15, 2012 03:11 | Tags: [spectrometer](../tag/spectrometer)
+September 15, 2012 03:11 | Tags: [spectrometer](/tag/spectrometer)
 
 ----
 

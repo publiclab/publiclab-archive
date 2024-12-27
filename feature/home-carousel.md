@@ -6,7 +6,7 @@ author: warren
 path: /feature/home-carousel.md
 nid: 11759
 uid: 1
-
+cids: 
 ---
 
 # home-carousel

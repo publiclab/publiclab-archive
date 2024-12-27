@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/11-24-2017/make-a-narrow-slit-for-a-diy-spectrometer-out-of-paper.md
 nid: 15235
 uid: 1
-
 cids: 17778,25698,25700
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/547/original/PB211739.jpg)
 
 # Make a narrow slit for a DIY spectrometer out of paper
 
-by [warren](../../../profile/warren) | November 24, 2017 19:52
+by [warren](/profile/warren) | November 24, 2017 19:52
 
-November 24, 2017 19:52 | Tags: [spectrometry](../tag/spectrometry), [slit](../tag/slit), [papercraft](../tag/papercraft), [activity:spectrometry](../tag/activity:spectrometry), [activity:foldable-spec](../tag/activity:foldable-spec), [foldable-spec](../tag/foldable-spec), [activity:papercraft-spec](../tag/activity:papercraft-spec)
+November 24, 2017 19:52 | Tags: [spectrometry](/tag/spectrometry), [slit](/tag/slit), [papercraft](/tag/papercraft), [activity:spectrometry](/tag/activity:spectrometry), [activity:foldable-spec](/tag/activity:foldable-spec), [foldable-spec](/tag/foldable-spec), [activity:papercraft-spec](/tag/activity:papercraft-spec)
 
 ----
 

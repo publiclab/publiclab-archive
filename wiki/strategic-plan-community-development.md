@@ -6,16 +6,16 @@ author: liz
 path: /wiki/strategic-plan-community-development.md
 nid: 10480
 uid: 7
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/298/original/scaling-engagement.jpg)
 
 # strategic-plan-community-development
 
-by [warren](../profile/warren), [liz](../profile/liz)
+by [warren](/profile/warren), [liz](/profile/liz)
 
-May 19, 2014 17:51 | Tags: [community](../tag/community), [organizers](../tag/organizers), [community-development](../tag/community-development)
+May 19, 2014 17:51 | Tags: [community](/tag/community), [organizers](/tag/organizers), [community-development](/tag/community-development)
 
 ----
 

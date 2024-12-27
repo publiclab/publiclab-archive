@@ -6,14 +6,14 @@ author: warren
 path: /wiki/mayfly.md
 nid: 15297
 uid: 1
-
+cids: 
 ---
 
 # Mayfly
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-December 04, 2017 18:21 | Tags: [water-sensing](../tag/water-sensing), [datalogger](../tag/datalogger), [data-logging](../tag/data-logging), [parent:data-logging](../tag/parent:data-logging), [water-sensors](../tag/water-sensors), [mayfly](../tag/mayfly), [stroud](../tag/stroud)
+December 04, 2017 18:21 | Tags: [water-sensing](/tag/water-sensing), [datalogger](/tag/datalogger), [data-logging](/tag/data-logging), [parent:data-logging](/tag/parent:data-logging), [water-sensors](/tag/water-sensors), [mayfly](/tag/mayfly), [stroud](/tag/stroud)
 
 ----
 
@@ -23,8 +23,8 @@ Find one on Amazon here: https://www.amazon.com/EnviroDIY-Mayfly-Logger-Arduino-
 
 ## Related work
 
-[mayfly](../../tag/mayfly)
+[mayfly](/tag/mayfly)
 
 ## Questions
 
-[mayfly](../../tag/question:mayfly)
+[mayfly](/tag/question:mayfly)

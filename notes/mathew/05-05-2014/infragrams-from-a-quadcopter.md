@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/05-05-2014/infragrams-from-a-quadcopter.md
 nid: 10425
 uid: 4
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/051/original/IMAG1291.JPG)
 
 # Infragrams from a Quadcopter
 
-by [mathew](../../../profile/mathew) | May 05, 2014 20:04
+by [mathew](/profile/mathew) | May 05, 2014 20:04
 
-May 05, 2014 20:04 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infrared](../tag/infrared), [infragram](../tag/infragram), [quadcopter](../tag/quadcopter), [drone](../tag/drone), [hooperfly](../tag/hooperfly)
+May 05, 2014 20:04 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [infrared](/tag/infrared), [infragram](/tag/infragram), [quadcopter](/tag/quadcopter), [drone](/tag/drone), [hooperfly](/tag/hooperfly)
 
 ----
 

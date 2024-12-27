@@ -6,14 +6,14 @@ author: warren
 path: /wiki/cedro-grassroots-mapping-curriculum.md
 nid: 856
 uid: 1
-
+cids: 
 ---
 
 # CEDRO Grassroots Mapping Curriculum
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-February 27, 2012 15:10 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [curriculum](../tag/curriculum), [k-12](../tag/k-12), [youth](../tag/youth)
+February 27, 2012 15:10 | Tags: [balloon-mapping](/tag/balloon-mapping), [education](/tag/education), [curriculum](/tag/curriculum), [k-12](/tag/k-12), [youth](/tag/youth)
 
 ----
 

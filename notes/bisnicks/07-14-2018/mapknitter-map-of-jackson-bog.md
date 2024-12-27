@@ -6,16 +6,14 @@ author: bisnicks
 path: /notes/bisnicks/07-14-2018/mapknitter-map-of-jackson-bog.md
 nid: 16716
 uid: 541559
-
 cids: 20139
-
 ---
 
 # MapKnitter map of Jackson Bog
 
-by [bisnicks](../../../profile/bisnicks) | July 14, 2018 19:47
+by [bisnicks](/profile/bisnicks) | July 14, 2018 19:47
 
-July 14, 2018 19:47 | Tags: [mapknitter](../tag/mapknitter), [lat:40.8585303](../tag/lat:40.8585303), [lon:-81.5034207](../tag/lon:-81.5034207)
+July 14, 2018 19:47 | Tags: [mapknitter](/tag/mapknitter), [lat:40.8585303](/tag/lat:40.8585303), [lon:-81.5034207](/tag/lon:-81.5034207)
 
 ----
 

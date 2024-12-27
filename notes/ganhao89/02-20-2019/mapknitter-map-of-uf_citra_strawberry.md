@@ -6,16 +6,14 @@ author: ganhao89
 path: /notes/ganhao89/02-20-2019/mapknitter-map-of-uf_citra_strawberry.md
 nid: 18399
 uid: 575095
-
 cids: 
-
 ---
 
 # MapKnitter map of uf_citra_strawberry
 
-by [ganhao89](../../../profile/ganhao89) | February 20, 2019 03:39
+by [ganhao89](/profile/ganhao89) | February 20, 2019 03:39
 
-February 20, 2019 03:39 | Tags: [mapknitter](../tag/mapknitter), [agriculture](../tag/agriculture), [crops](../tag/crops), [first-time-poster](../tag/first-time-poster), [lat:29.411916](../tag/lat:29.411916), [lon:-82.109815](../tag/lon:-82.109815), [citra](../tag/citra), [strawberry](../tag/strawberry)
+February 20, 2019 03:39 | Tags: [mapknitter](/tag/mapknitter), [agriculture](/tag/agriculture), [crops](/tag/crops), [first-time-poster](/tag/first-time-poster), [lat:29.411916](/tag/lat:29.411916), [lon:-82.109815](/tag/lon:-82.109815), [citra](/tag/citra), [strawberry](/tag/strawberry)
 
 ----
 

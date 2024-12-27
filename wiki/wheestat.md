@@ -6,14 +6,14 @@ author: warren
 path: /wiki/wheestat.md
 nid: 11330
 uid: 1
-
+cids: 
 ---
 
 # WheeStat
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-November 10, 2014 16:58 | Tags: [wheestat](../tag/wheestat), [redirect:10627](../tag/redirect:10627)
+November 10, 2014 16:58 | Tags: [wheestat](/tag/wheestat), [redirect:10627](/tag/redirect:10627)
 
 ----
 

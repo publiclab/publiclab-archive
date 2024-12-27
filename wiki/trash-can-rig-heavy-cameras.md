@@ -6,14 +6,14 @@ author: MicheleTobias
 path: /wiki/trash-can-rig-heavy-cameras.md
 nid: 818
 uid: 149
-
+cids: 
 ---
 
 # Trash Can Rig for Heavy Cameras
 
-by [mathew](../profile/mathew), [MicheleTobias](../profile/MicheleTobias)
+by [mathew](/profile/mathew), [MicheleTobias](/profile/MicheleTobias)
 
-February 20, 2012 23:57 | Tags: [balloon-mapping](../tag/balloon-mapping), [photo-rig](../tag/photo-rig)
+February 20, 2012 23:57 | Tags: [balloon-mapping](/tag/balloon-mapping), [photo-rig](/tag/photo-rig)
 
 ----
 

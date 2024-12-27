@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/10-25-2015/cloudy-bright.md
 nid: 12335
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/154/original/Verge728LPps2k.jpg)
 
 # Cloudy Bright
 
-by [cfastie](../../../profile/cfastie) | October 25, 2015 18:38
+by [cfastie](/profile/cfastie) | October 25, 2015 18:38
 
-October 25, 2015 18:38 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kite](../tag/kite), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [littleplanet](../tag/littleplanet), [response:12333](../tag/response:12333)
+October 25, 2015 18:38 | Tags: [kite-mapping](/tag/kite-mapping), [vermont](/tag/vermont), [kite](/tag/kite), [saturnv](/tag/saturnv), [skyshield](/tag/skyshield), [half-spherical](/tag/half-spherical), [littleplanet](/tag/littleplanet), [response:12333](/tag/response:12333)
 
 ----
 

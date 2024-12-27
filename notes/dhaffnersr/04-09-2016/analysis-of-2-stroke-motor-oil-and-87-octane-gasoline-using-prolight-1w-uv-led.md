@@ -6,18 +6,16 @@ author: dhaffnersr
 path: /notes/dhaffnersr/04-09-2016/analysis-of-2-stroke-motor-oil-and-87-octane-gasoline-using-prolight-1w-uv-led.md
 nid: 12953
 uid: 461120
-
 cids: 14158,14175,14177,14188,14197,14198,14202,14204,14205,15014,15015,15025,15026,15027
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/447/original/prolight_pic_use_this_one_apr9.bmp)
 
 # Analysis of 2 stroke motor oil and 87 Octane gasoline using Prolight 1W UV LED
 
-by [dhaffnersr](../../../profile/dhaffnersr) | April 09, 2016 23:29
+by [dhaffnersr](/profile/dhaffnersr) | April 09, 2016 23:29
 
-April 09, 2016 23:29 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [gasoline](../tag/gasoline), [ethanol](../tag/ethanol)
+April 09, 2016 23:29 | Tags: [spectrometer](/tag/spectrometer), [oil-testing-kit](/tag/oil-testing-kit), [gasoline](/tag/gasoline), [ethanol](/tag/ethanol)
 
 ----
 

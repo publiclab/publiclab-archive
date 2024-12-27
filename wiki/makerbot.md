@@ -6,16 +6,16 @@ author: danbeavers
 path: /wiki/makerbot.md
 nid: 9974
 uid: 51
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/816/original/Plaque-314-13.jpg)
 
 # makerbot
 
-by [cfastie](../profile/cfastie), [danbeavers](../profile/danbeavers), [liz](../profile/liz)
+by [cfastie](/profile/cfastie), [danbeavers](/profile/danbeavers), [liz](/profile/liz)
 
-January 24, 2014 03:12 | Tags: [3d-printing](../tag/3d-printing), [makerbot](../tag/makerbot)
+January 24, 2014 03:12 | Tags: [3d-printing](/tag/3d-printing), [makerbot](/tag/makerbot)
 
 ----
 

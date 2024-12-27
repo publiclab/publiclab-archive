@@ -6,18 +6,16 @@ author: elainechoi89
 path: /notes/elainechoi89/7-5-2012/tyvekbamboo-kite-workshop-pfizer-building-brooklyn-ny.md
 nid: 2715
 uid: 6102
-
 cids: 974
-
 ---
 
 ![](https://publiclab.org/sites/default/files/7488860910_d3b65d8de3_c.jpg)
 
 # Tyvek+Bamboo Kite Workshop at Pfizer Building (Brooklyn, NY 6/29-30/2012))
 
-by [elainechoi89](../../../profile/elainechoi89) | July 05, 2012 19:45
+by [elainechoi89](/profile/elainechoi89) | July 05, 2012 19:45
 
-July 05, 2012 19:45 | Tags: [balloon-mapping](../tag/balloon-mapping), [thermal-photography](../tag/thermal-photography), [kite-mapping](../tag/kite-mapping), [ilab](../tag/ilab), [tyvek](../tag/tyvek), [diy-kite](../tag/diy-kite), [kite-making](../tag/kite-making), [kite-building](../tag/kite-building), [activity:tyvek](../tag/activity:tyvek), [first-time-poster](../tag/first-time-poster)
+July 05, 2012 19:45 | Tags: [balloon-mapping](/tag/balloon-mapping), [thermal-photography](/tag/thermal-photography), [kite-mapping](/tag/kite-mapping), [ilab](/tag/ilab), [tyvek](/tag/tyvek), [diy-kite](/tag/diy-kite), [kite-making](/tag/kite-making), [kite-building](/tag/kite-building), [activity:tyvek](/tag/activity:tyvek), [first-time-poster](/tag/first-time-poster)
 
 ----
 

@@ -6,18 +6,16 @@ author: kanaujiashefali
 path: /notes/kanaujiashefali/04-19-2022/outreachy-proposal-design-a-new-full-screen-ui-for-infrgram-project.md
 nid: 30511
 uid: 793637
-
 cids: 30088,30090,30102,30103,30105,30109
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/163/original/Infragram-%E2%80%93-Figma_%281%29.png)
 
 # Outreachy proposal: Design a new full-screen UI for Infragram.org
 
-by [kanaujiashefali](../../../profile/kanaujiashefali) | April 19, 2022 20:20
+by [kanaujiashefali](/profile/kanaujiashefali) | April 19, 2022 20:20
 
-April 19, 2022 20:20 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
+April 19, 2022 20:20 | Tags: [software](/tag/software), [outreachy](/tag/outreachy), [first-time-poster](/tag/first-time-poster), [outreachy-2022](/tag/outreachy-2022), [outreachy-summer-2022](/tag/outreachy-summer-2022)
 
 ----
 

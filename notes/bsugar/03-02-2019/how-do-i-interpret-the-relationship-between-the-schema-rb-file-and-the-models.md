@@ -6,18 +6,16 @@ author: bsugar
 path: /notes/bsugar/03-02-2019/how-do-i-interpret-the-relationship-between-the-schema-rb-file-and-the-models.md
 nid: 18446
 uid: 217812
-
 cids: 22034,22035,22036,23322
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/664/original/mysql_er_diagram.png)
 
 # How do I interpret the relationship between the schema.rb file and the models?
 
-by [bsugar](../../../profile/bsugar) | March 02, 2019 03:52
+by [bsugar](/profile/bsugar) | March 02, 2019 03:52
 
-March 02, 2019 03:52 | Tags: [visualization](../tag/visualization), [code](../tag/code), [answered](../tag/answered), [question:website](../tag/question:website), [programming](../tag/programming)
+March 02, 2019 03:52 | Tags: [visualization](/tag/visualization), [code](/tag/code), [answered](/tag/answered), [question:website](/tag/question:website), [programming](/tag/programming)
 
 ----
 

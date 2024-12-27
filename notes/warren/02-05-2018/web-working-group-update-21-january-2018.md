@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/02-05-2018/web-working-group-update-21-january-2018.md
 nid: 15687
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/455/original/Screenshot_2018-02-05_at_9.32.53_AM.png)
 
 # Web Working Group Update 21: January 2018
 
-by [warren](../../../profile/warren) | February 05, 2018 14:59
+by [warren](/profile/warren) | February 05, 2018 14:59
 
-February 05, 2018 14:59 | Tags: [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [gsoc](../tag/gsoc), [developers](../tag/developers), [code](../tag/code), [wwg](../tag/wwg), [webwg](../tag/webwg), [onboarding](../tag/onboarding), [first-timers-only](../tag/first-timers-only), [software-outreach](../tag/software-outreach), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [wwg-update](../tag/wwg-update), [response:14817](../tag/response:14817)
+February 05, 2018 14:59 | Tags: [web-development](/tag/web-development), [software](/tag/software), [plots2](/tag/plots2), [gsoc](/tag/gsoc), [developers](/tag/developers), [code](/tag/code), [wwg](/tag/wwg), [webwg](/tag/webwg), [onboarding](/tag/onboarding), [first-timers-only](/tag/first-timers-only), [software-outreach](/tag/software-outreach), [rgsoc](/tag/rgsoc), [soc](/tag/soc), [soc-2017](/tag/soc-2017), [wwg-update](/tag/wwg-update), [response:14817](/tag/response:14817)
 
 ----
 
@@ -51,7 +49,7 @@ To better facilitate this fantastic growth, we've been continuing our Software O
 
 Finally, a big area of growth is design work -- we don't have nearly the community, peer-to-peer process for interface design that we do for coding, and we're seeing a growing need for **good UI/UX design** that we can tackle in a similar workflow -- engaging newcomers, working in small self-contained projects, and quick iteration. To this end, we've started posting some questions to the site:
 
-[ui](../../tag/question:ui)
+[ui](/tag/question:ui)
 
 ****
 

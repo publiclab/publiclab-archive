@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/3-9-2012/banjo-cases-carrying-kitereel.md
 nid: 912
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/800px-thompson_in_violin_case.jpg)
 
 # Banjo cases for carrying kite/reel
 
-by [warren](../../../profile/warren) | March 09, 2012 17:53
+by [warren](/profile/warren) | March 09, 2012 17:53
 
-March 09, 2012 17:53 | Tags: [kite-mapping](../tag/kite-mapping)
+March 09, 2012 17:53 | Tags: [kite-mapping](/tag/kite-mapping)
 
 ----
 

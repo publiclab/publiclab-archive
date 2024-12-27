@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/10-6-2012/sky-tracks.md
 nid: 4240
 uid: 554
-
 cids: 1584,1585,1587,1631,1633,1637,1644
-
 ---
 
 ![](https://publiclab.org/sites/default/files/BreadLoaf-20121005-1631-2.jpg)
 
 # Sky Tracks
 
-by [cfastie](../../../profile/cfastie) | October 06, 2012 20:39
+by [cfastie](/profile/cfastie) | October 06, 2012 20:39
 
-October 06, 2012 20:39 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [mapknitter](../tag/mapknitter), [leaffest](../tag/leaffest), [gps](../tag/gps)
+October 06, 2012 20:39 | Tags: [kite-mapping](/tag/kite-mapping), [vermont](/tag/vermont), [mapknitter](/tag/mapknitter), [leaffest](/tag/leaffest), [gps](/tag/gps)
 
 ----
 

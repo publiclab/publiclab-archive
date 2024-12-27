@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/05-05-2013/fanciful-turntable-spectrometer.md
 nid: 7239
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/174/original/6054618516_2251b3da43_b.jpg)
 
 # Fanciful "turntable spectrometer"
 
-by [warren](../../../profile/warren) | May 05, 2013 01:34
+by [warren](/profile/warren) | May 05, 2013 01:34
 
-May 05, 2013 01:34 | Tags: [spectrometer](../tag/spectrometer), [parts-and-crafts](../tag/parts-and-crafts), [turntable](../tag/turntable)
+May 05, 2013 01:34 | Tags: [spectrometer](/tag/spectrometer), [parts-and-crafts](/tag/parts-and-crafts), [turntable](/tag/turntable)
 
 ----
 

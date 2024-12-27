@@ -6,12 +6,12 @@ author: mathew
 path: /wiki/uv-emission-sampling.md
 nid: 10153
 uid: 4
-
+cids: 
 ---
 
 # UV Emission Sampling
 
-by [mathew](../profile/mathew)
+by [mathew](/profile/mathew)
 
 March 10, 2014 23:41 | Tags: 
 

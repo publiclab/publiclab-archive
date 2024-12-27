@@ -6,16 +6,14 @@ author: amayas
 path: /notes/amayas/03-27-2021/what-are-the-best-settings-for-a-camera.md
 nid: 26046
 uid: 422444
-
 cids: 
-
 ---
 
 # What are the best settings for a Camera?
 
-by [amayas](../../../profile/amayas) | March 27, 2021 20:44
+by [amayas](/profile/amayas) | March 27, 2021 20:44
 
-March 27, 2021 20:44 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [question:spectrometer](../tag/question:spectrometer), [white](../tag/white), [balance](../tag/balance), [gain](../tag/gain), [question:general](../tag/question:general), [general](../tag/general)
+March 27, 2021 20:44 | Tags: [spectrometer](/tag/spectrometer), [spectrometry](/tag/spectrometry), [question:spectrometer](/tag/question:spectrometer), [white](/tag/white), [balance](/tag/balance), [gain](/tag/gain), [question:general](/tag/question:general), [general](/tag/general)
 
 ----
 

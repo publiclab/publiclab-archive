@@ -6,18 +6,16 @@ author: keerthana06
 path: /notes/keerthana06/04-30-2021/embedded-systems-projects.md
 nid: 26415
 uid: 754722
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/618/original/embedded_aystem.jpg)
 
 # Embedded Systems Projects
 
-by [keerthana06](../../../profile/keerthana06) | April 30, 2021 09:25
+by [keerthana06](/profile/keerthana06) | April 30, 2021 09:25
 
-April 30, 2021 09:25 | Tags: [first-time-poster](../tag/first-time-poster)
+April 30, 2021 09:25 | Tags: [first-time-poster](/tag/first-time-poster)
 
 ----
 

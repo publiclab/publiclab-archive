@@ -6,18 +6,16 @@ author: silverhammer
 path: /notes/silverhammer/04-14-2014/pesticide-monitoring-data.md
 nid: 10306
 uid: 420530
-
 cids: 8774,8777,15878
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/646/original/Screen_Shot_2014-02-05_at_9.25.06_PM.png)
 
 # Pesticide Monitoring Data Website
 
-by [silverhammer](../../../profile/silverhammer) | April 14, 2014 16:09
+by [silverhammer](/profile/silverhammer) | April 14, 2014 16:09
 
-April 14, 2014 16:09 | Tags: [pesticides](../tag/pesticides), [visualization](../tag/visualization)
+April 14, 2014 16:09 | Tags: [pesticides](/tag/pesticides), [visualization](/tag/visualization)
 
 ----
 

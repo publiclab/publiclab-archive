@@ -6,14 +6,14 @@ author: warren
 path: /wiki/map-archive.md
 nid: 34961
 uid: 1
-
+cids: 
 ---
 
 # Map archive
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-September 13, 2022 19:25 | Tags: [map-archive](../tag/map-archive)
+September 13, 2022 19:25 | Tags: [map-archive](/tag/map-archive)
 
 ----
 
@@ -44,4 +44,4 @@ Most of the maps in this archive were made in [MapKnitter](https://mapknitter.or
 To add your open source map to the archive, provide some background and to tell the story of your map in a note, then tag it with `map-archive`. Creative Commons and Public Domain maps are [both accepted](/licenses).
 
 
-[grid:map-archive](../../tag/grid:map-archive)
+[grid:map-archive](/tag/grid:map-archive)

@@ -6,16 +6,14 @@ author: Aleksi12358
 path: /notes/Aleksi12358/07-07-2018/how-to-measure-nutrient-concetration-in-hydroponic-system.md
 nid: 16659
 uid: 540470
-
 cids: 20025,20026,20031,20032,20033,20043,20045,20050,20051,20052,20060,23167,23168,23169,28410
-
 ---
 
 # How to measure nutrient concetration in hydroponic system?
 
-by [Aleksi12358](../../../profile/Aleksi12358) | July 07, 2018 21:45
+by [Aleksi12358](/profile/Aleksi12358) | July 07, 2018 21:45
 
-July 07, 2018 21:45 | Tags: [hydroponics](../tag/hydroponics), [question:spectrometry](../tag/question:spectrometry), [question:water-quality](../tag/question:water-quality), [question:hydroponics](../tag/question:hydroponics), [fertilizer](../tag/fertilizer), [question:runoff](../tag/question:runoff), [nutrients](../tag/nutrients), [nutrient](../tag/nutrient), [uptake](../tag/uptake), [question:fertilizer](../tag/question:fertilizer), [first-time-poster](../tag/first-time-poster), [question:nitrogen](../tag/question:nitrogen)
+July 07, 2018 21:45 | Tags: [hydroponics](/tag/hydroponics), [question:spectrometry](/tag/question:spectrometry), [question:water-quality](/tag/question:water-quality), [question:hydroponics](/tag/question:hydroponics), [fertilizer](/tag/fertilizer), [question:runoff](/tag/question:runoff), [nutrients](/tag/nutrients), [nutrient](/tag/nutrient), [uptake](/tag/uptake), [question:fertilizer](/tag/question:fertilizer), [first-time-poster](/tag/first-time-poster), [question:nitrogen](/tag/question:nitrogen)
 
 ----
 

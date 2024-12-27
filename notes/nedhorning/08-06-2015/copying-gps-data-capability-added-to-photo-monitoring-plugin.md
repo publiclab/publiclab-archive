@@ -6,18 +6,16 @@ author: nedhorning
 path: /notes/nedhorning/08-06-2015/copying-gps-data-capability-added-to-photo-monitoring-plugin.md
 nid: 12124
 uid: 133
-
 cids: 12344,12382,12383,12393,12526,12527,12532,12534
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/046/original/IMG_0064_small.JPG)
 
 # Copying GPS data capability added to photo monitoring plugin
 
-by [nedhorning](../../../profile/nedhorning) | August 06, 2015 14:52
+by [nedhorning](/profile/nedhorning) | August 06, 2015 14:52
 
-August 06, 2015 14:52 | Tags: [gps](../tag/gps), [photomonitoring](../tag/photomonitoring), [geo-tagging](../tag/geo-tagging)
+August 06, 2015 14:52 | Tags: [gps](/tag/gps), [photomonitoring](/tag/photomonitoring), [geo-tagging](/tag/geo-tagging)
 
 ----
 

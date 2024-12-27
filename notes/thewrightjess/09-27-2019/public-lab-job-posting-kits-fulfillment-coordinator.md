@@ -6,18 +6,16 @@ author: thewrightjess
 path: /notes/thewrightjess/09-27-2019/public-lab-job-posting-kits-fulfillment-coordinator.md
 nid: 21030
 uid: 603909
-
 cids: 25604
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/499/original/kits.png)
 
 # Public Lab job posting: Kits Fulfillment Coordinator
 
-by [thewrightjess](../../../profile/thewrightjess) | September 27, 2019 16:54
+by [thewrightjess](/profile/thewrightjess) | September 27, 2019 16:54
 
-September 27, 2019 16:54 | Tags: [kits](../tag/kits), [nonprofit](../tag/nonprofit), [jobs](../tag/jobs), [first-time-poster](../tag/first-time-poster), [lat:41.824548](../tag/lat:41.824548), [lon:-71.412506](../tag/lon:-71.412506)
+September 27, 2019 16:54 | Tags: [kits](/tag/kits), [nonprofit](/tag/nonprofit), [jobs](/tag/jobs), [first-time-poster](/tag/first-time-poster), [lat:41.824548](/tag/lat:41.824548), [lon:-71.412506](/tag/lon:-71.412506)
 
 ----
 

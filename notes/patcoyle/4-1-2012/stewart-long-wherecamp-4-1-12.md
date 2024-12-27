@@ -6,14 +6,12 @@ author: patcoyle
 path: /notes/patcoyle/4-1-2012/stewart-long-wherecamp-4-1-12.md
 nid: 1591
 uid: 77
-
 cids: 
-
 ---
 
 # Stewart Long at WhereCamp 4-1-12
 
-by [patcoyle](../../../profile/patcoyle) | April 02, 2012 00:40
+by [patcoyle](/profile/patcoyle) | April 02, 2012 00:40
 
 April 02, 2012 00:40 | Tags: 
 

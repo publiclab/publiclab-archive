@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/3-6-2013/polynomial.md
 nid: 6225
 uid: 554
-
 cids: 3658,3660,12617,12618
-
 ---
 
 ![](https://publiclab.org/sites/default/files/poly-Snowy-1200.jpg)
 
 # Polynomial
 
-by [cfastie](../../../profile/cfastie) | March 07, 2013 04:14
+by [cfastie](/profile/cfastie) | March 07, 2013 04:14
 
-March 07, 2013 04:14 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [calibration](../tag/calibration), [spectralworkbench](../tag/spectralworkbench), [cfl](../tag/cfl), [ebert](../tag/ebert), [nonlinear](../tag/nonlinear), [non-linear](../tag/non-linear), [polynomial](../tag/polynomial)
+March 07, 2013 04:14 | Tags: [spectrometer](/tag/spectrometer), [vermont](/tag/vermont), [calibration](/tag/calibration), [spectralworkbench](/tag/spectralworkbench), [cfl](/tag/cfl), [ebert](/tag/ebert), [nonlinear](/tag/nonlinear), [non-linear](/tag/non-linear), [polynomial](/tag/polynomial)
 
 ----
 

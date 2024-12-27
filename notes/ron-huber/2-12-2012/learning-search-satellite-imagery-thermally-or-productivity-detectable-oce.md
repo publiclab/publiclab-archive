@@ -6,16 +6,14 @@ author: ronhuber
 path: /notes/ron-huber/2-12-2012/learning-search-satellite-imagery-thermally-or-productivity-detectable-oce.md
 nid: 782
 uid: 437
-
 cids: 456,9201
-
 ---
 
 # Learning to search satellite imagery for thermally- or productivity- detectable ocean upwellings
 
-by [ronhuber](../../../profile/ronhuber) | February 12, 2012 23:55
+by [ronhuber](/profile/ronhuber) | February 12, 2012 23:55
 
-February 12, 2012 23:55 | Tags: [first-time-poster](../tag/first-time-poster)
+February 12, 2012 23:55 | Tags: [first-time-poster](/tag/first-time-poster)
 
 ----
 

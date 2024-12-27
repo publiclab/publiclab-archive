@@ -6,18 +6,16 @@ author: eustatic
 path: /06-25-2014/team-orca-resurrected-gulf-monitoring-consortium-test-for-bp-tar.md
 nid: 10617
 uid: 379
-
 cids: 9274,9275,9299,9300,9314
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/987/original/14506149522_4f48e402f1_1_.jpg)
 
 # Team Orca resurrected --Gulf Monitoring Consortium test for BP tar
 
-by [eustatic](../../../profile/eustatic) | June 25, 2014 19:52
+by [eustatic](/profile/eustatic) | June 25, 2014 19:52
 
-June 25, 2014 19:52 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [oil-spill](../tag/oil-spill), [oil](../tag/oil), [fluorescence](../tag/fluorescence), [bp](../tag/bp), [tarball](../tag/tarball), [orca](../tag/orca), [oil-testing-kit](../tag/oil-testing-kit), [coal-dust](../tag/coal-dust), [tar](../tag/tar)
+June 25, 2014 19:52 | Tags: [gulf-coast](/tag/gulf-coast), [spectrometer](/tag/spectrometer), [oil-spill](/tag/oil-spill), [oil](/tag/oil), [fluorescence](/tag/fluorescence), [bp](/tag/bp), [tarball](/tag/tarball), [orca](/tag/orca), [oil-testing-kit](/tag/oil-testing-kit), [coal-dust](/tag/coal-dust), [tar](/tag/tar)
 
 ----
 

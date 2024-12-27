@@ -6,14 +6,14 @@ author: sara
 path: /wiki/public-lab-bibliography.md
 nid: 922
 uid: 8
-
+cids: 
 ---
 
 # Public Lab Bibliography
 
-by [Shannon](../profile/Shannon), [sara](../profile/sara)
+by [Shannon](/profile/Shannon), [sara](/profile/sara)
 
-March 13, 2012 21:39 | Tags: [locked](../tag/locked)
+March 13, 2012 21:39 | Tags: [locked](/tag/locked)
 
 ----
 

@@ -6,14 +6,14 @@ author: Becki
 path: /wiki/funding-partnerships-with-public-lab.md
 nid: 11450
 uid: 46673
-
+cids: 
 ---
 
 # Funding Partnerships with Public Lab
 
-by [thewrightjess](../profile/thewrightjess), [lognaturel](../profile/lognaturel), [Becki](../profile/Becki), [warren](../profile/warren), [Shannon](../profile/Shannon)
+by [thewrightjess](/profile/thewrightjess), [lognaturel](/profile/lognaturel), [Becki](/profile/Becki), [warren](/profile/warren), [Shannon](/profile/Shannon)
 
-December 11, 2014 21:33 | Tags: [fundraising](../tag/fundraising), [partnerships](../tag/partnerships), [grants](../tag/grants), [parent:fundraising](../tag/parent:fundraising)
+December 11, 2014 21:33 | Tags: [fundraising](/tag/fundraising), [partnerships](/tag/partnerships), [grants](/tag/grants), [parent:fundraising](/tag/parent:fundraising)
 
 ----
 

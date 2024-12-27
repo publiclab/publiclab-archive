@@ -6,18 +6,16 @@ author: rmeister
 path: /notes/rmeister/08-23-2016/gsoc-2016-final-work-product-of-browser-based-arduino-sensor-data-transfer-using-the-headphone-jack.md
 nid: 13390
 uid: 468994
-
 cids: 15224,15225,15229,15231,15232,16341,16344,16345,16346
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/744/original/out.gif)
 
 # GSoC 2016: Final Work Product of Browser-based Arduino sensor data transfer using the headphone jack
 
-by [rmeister](../../../profile/rmeister) | August 23, 2016 14:23
+by [rmeister](/profile/rmeister) | August 23, 2016 14:23
 
-August 23, 2016 14:23 | Tags: [arduino](../tag/arduino), [gsoc](../tag/gsoc), [barnstar:basic](../tag/barnstar:basic), [gsoc-2016](../tag/gsoc-2016), [webjack](../tag/webjack), [headphone-jack](../tag/headphone-jack), [softmodem](../tag/softmodem), [response:13397](../tag/response:13397)
+August 23, 2016 14:23 | Tags: [arduino](/tag/arduino), [gsoc](/tag/gsoc), [barnstar:basic](/tag/barnstar:basic), [gsoc-2016](/tag/gsoc-2016), [webjack](/tag/webjack), [headphone-jack](/tag/headphone-jack), [softmodem](/tag/softmodem), [response:13397](/tag/response:13397)
 
 ----
 

@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/10-23-2013/ord-sfo.md
 nid: 9540
 uid: 554
-
 cids: 7336,7337,7409
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/024/original/ORD_SFO_NBG.jpg)
 
 # ORD - SFO
 
-by [cfastie](../../../profile/cfastie) | October 23, 2013 23:25
+by [cfastie](/profile/cfastie) | October 23, 2013 23:25
 
-October 23, 2013 23:25 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [passenger-pigeon](../tag/passenger-pigeon), [infragram](../tag/infragram), [photosynthesis](../tag/photosynthesis), [gsoc](../tag/gsoc), [google](../tag/google), [google-summer-of-code](../tag/google-summer-of-code), [gsoc2013](../tag/gsoc2013), [infrablue](../tag/infrablue), [mentorsummit](../tag/mentorsummit), [mentorsummit13](../tag/mentorsummit13)
+October 23, 2013 23:25 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [passenger-pigeon](/tag/passenger-pigeon), [infragram](/tag/infragram), [photosynthesis](/tag/photosynthesis), [gsoc](/tag/gsoc), [google](/tag/google), [google-summer-of-code](/tag/google-summer-of-code), [gsoc2013](/tag/gsoc2013), [infrablue](/tag/infrablue), [mentorsummit](/tag/mentorsummit), [mentorsummit13](/tag/mentorsummit13)
 
 ----
 

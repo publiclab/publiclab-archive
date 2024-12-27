@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/03-19-2014/ecohack-is-back-and-this-time-it-s-global-may-9th-10th.md
 nid: 10203
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/321/original/6316165230_35a9b949f3_b.jpg)
 
 # EcoHack is back, and this time it’s global! May 9th & 10th
 
-by [liz](../../../profile/liz) | March 19, 2014 13:56
+by [liz](/profile/liz) | March 19, 2014 13:56
 
-March 19, 2014 13:56 | Tags: [new-york-city](../tag/new-york-city), [ecohack](../tag/ecohack), [norcal](../tag/norcal), [event](../tag/event), [brasil](../tag/brasil)
+March 19, 2014 13:56 | Tags: [new-york-city](/tag/new-york-city), [ecohack](/tag/ecohack), [norcal](/tag/norcal), [event](/tag/event), [brasil](/tag/brasil)
 
 ----
 

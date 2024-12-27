@@ -6,16 +6,16 @@ author: warren
 path: /wiki/hydrogen-sulfide-photopaper.md
 nid: 15478
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/126/original/Screen_Shot_2018-01-08_at_3.11.42_PM.png)
 
 # Hydrogen Sulfide Photopaper
 
-by [gretchengehrke](../profile/gretchengehrke), [warren](../profile/warren)
+by [gretchengehrke](/profile/gretchengehrke), [warren](/profile/warren)
 
-January 08, 2018 20:05 | Tags: [method](../tag/method), [h2s-photopaper](../tag/h2s-photopaper), [parent:hydrogen-sulfide](../tag/parent:hydrogen-sulfide)
+January 08, 2018 20:05 | Tags: [method](/tag/method), [h2s-photopaper](/tag/h2s-photopaper), [parent:hydrogen-sulfide](/tag/parent:hydrogen-sulfide)
 
 ----
 
@@ -53,7 +53,7 @@ This method has been developed in order to produce a hydrogen sulfide detection 
 
 ## Questions
 
-[h2s-photo-paper](../../tag/question:h2s-photo-paper)
+[h2s-photo-paper](/tag/question:h2s-photo-paper)
 
 ****
 
@@ -69,7 +69,7 @@ The photopaper sensing tool is being developed to detect hydrogen sulfide in an 
 
 Designing a field-based environmental study that uses this method would follow the general principles described in: [https://publiclab.org/wiki/general-environmental-monitoring-study-strategies](https://publiclab.org/wiki/general-environmental-monitoring-study-strategies). However, since the canisters with photo paper will be exposed for one or more weeks in the field, the temporal resolution would, of course, only be on the scale of weeks, during which industrial activities and environmental conditions could change. The general principles still do apply.
 
-[h2s-photo-paper](../../tag/activity:h2s-photo-paper)
+[h2s-photo-paper](/tag/activity:h2s-photo-paper)
 
 ****
 

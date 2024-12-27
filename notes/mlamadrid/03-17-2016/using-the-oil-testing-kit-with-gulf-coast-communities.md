@@ -6,16 +6,14 @@ author: mlamadrid
 path: /notes/mlamadrid/03-17-2016/using-the-oil-testing-kit-with-gulf-coast-communities.md
 nid: 12853
 uid: 45586
-
 cids: 
-
 ---
 
 # Using the Oil Testing Kit with Gulf Coast Communities
 
-by [mlamadrid](../../../profile/mlamadrid) | March 17, 2016 04:10
+by [mlamadrid](/profile/mlamadrid) | March 17, 2016 04:10
 
-March 17, 2016 04:10 | Tags: [with:stevie](../tag/with:stevie)
+March 17, 2016 04:10 | Tags: [with:stevie](/tag/with:stevie)
 
 ----
 

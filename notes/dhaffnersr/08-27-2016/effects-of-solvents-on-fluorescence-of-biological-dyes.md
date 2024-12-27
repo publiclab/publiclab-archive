@@ -6,16 +6,14 @@ author: dhaffnersr
 path: /notes/dhaffnersr/08-27-2016/effects-of-solvents-on-fluorescence-of-biological-dyes.md
 nid: 13401
 uid: 461120
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/788/original/ALL_5_samples_in_cuvettes_title_pic.png)
 
 # Effects of Solvents on Fluorescence of Biological Dyes
 
-by [dhaffnersr](../../../profile/dhaffnersr) | August 27, 2016 06:57
+by [dhaffnersr](/profile/dhaffnersr) | August 27, 2016 06:57
 
 August 27, 2016 06:57 | Tags: 
 

@@ -6,14 +6,14 @@ author: mathew
 path: /wiki/passive-pm-deployment.md
 nid: 12647
 uid: 4
-
+cids: 
 ---
 
 # passive-pm-deployment
 
-by [stevie](../profile/stevie), [mathew](../profile/mathew)
+by [stevie](/profile/stevie), [mathew](/profile/mathew)
 
-February 03, 2016 23:19 | Tags: [parent:passive-pm](../tag/parent:passive-pm)
+February 03, 2016 23:19 | Tags: [parent:passive-pm](/tag/parent:passive-pm)
 
 ----
 

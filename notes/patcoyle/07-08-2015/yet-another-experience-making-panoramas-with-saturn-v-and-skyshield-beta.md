@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/07-08-2015/yet-another-experience-making-panoramas-with-saturn-v-and-skyshield-beta.md
 nid: 12040
 uid: 77
-
 cids: 12118,12120,12121,12123
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/572/original/Untitled_Panorama2.jpg)
 
 # Yet another experience making panoramas with Saturn V and SkyShield beta
 
-by [patcoyle](../../../profile/patcoyle) | July 08, 2015 18:43
+by [patcoyle](/profile/patcoyle) | July 08, 2015 18:43
 
-July 08, 2015 18:43 | Tags: [arduino](../tag/arduino), [chdk](../tag/chdk), [delta](../tag/delta), [a1200](../tag/a1200), [autokap](../tag/autokap), [kap-rigs](../tag/kap-rigs), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield)
+July 08, 2015 18:43 | Tags: [arduino](/tag/arduino), [chdk](/tag/chdk), [delta](/tag/delta), [a1200](/tag/a1200), [autokap](/tag/autokap), [kap-rigs](/tag/kap-rigs), [kaptery](/tag/kaptery), [saturnv](/tag/saturnv), [skyshield](/tag/skyshield)
 
 ----
 

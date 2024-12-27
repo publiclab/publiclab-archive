@@ -6,16 +6,14 @@ author: bhamster
 path: /notes/bhamster/03-02-2023/challenges-and-solutions-doing-fieldwork.md
 nid: 38736
 uid: 664477
-
 cids: 31176
-
 ---
 
 # Challenges and Solutions doing Fieldwork
 
-by [bhamster](../../../profile/bhamster) | March 02, 2023 22:06
+by [bhamster](/profile/bhamster) | March 02, 2023 22:06
 
-March 02, 2023 22:06 | Tags: [csf](../tag/csf), [community-science-forum](../tag/community-science-forum), [student-community-science](../tag/student-community-science), [classroom-community-science](../tag/classroom-community-science), [csf18](../tag/csf18)
+March 02, 2023 22:06 | Tags: [csf](/tag/csf), [community-science-forum](/tag/community-science-forum), [student-community-science](/tag/student-community-science), [classroom-community-science](/tag/classroom-community-science), [csf18](/tag/csf18)
 
 ----
 

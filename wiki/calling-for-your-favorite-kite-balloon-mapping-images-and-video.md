@@ -6,16 +6,16 @@ author: Bronwen
 path: /wiki/calling-for-your-favorite-kite-balloon-mapping-images-and-video.md
 nid: 14500
 uid: 237313
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/639/original/IMG_20170528_114504_190.jpg)
 
 # Calling for your favorite Kite/Balloon Mapping images and video!
 
-by [xose](../profile/xose), [Bronwen](../profile/Bronwen)
+by [xose](/profile/xose), [Bronwen](/profile/Bronwen)
 
-June 05, 2017 15:37 | Tags: [balloon-mapping](../tag/balloon-mapping), [aerial-photography](../tag/aerial-photography), [kickstarter](../tag/kickstarter), [aerial-photos](../tag/aerial-photos), [redirect:14501](../tag/redirect:14501)
+June 05, 2017 15:37 | Tags: [balloon-mapping](/tag/balloon-mapping), [aerial-photography](/tag/aerial-photography), [kickstarter](/tag/kickstarter), [aerial-photos](/tag/aerial-photos), [redirect:14501](/tag/redirect:14501)
 
 ----
 

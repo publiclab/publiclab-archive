@@ -6,14 +6,14 @@ author: warren
 path: /wiki/t-shirt-guide.md
 nid: 89
 uid: 1
-
+cids: 
 ---
 
 # T-shirt Guide
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-February 19, 2011 17:54 | Tags: [guides](../tag/guides), [illustrated-guides](../tag/illustrated-guides)
+February 19, 2011 17:54 | Tags: [guides](/tag/guides), [illustrated-guides](/tag/illustrated-guides)
 
 ----
 

@@ -6,18 +6,16 @@ author: sashae
 path: /notes/sashae/05-03-2022/an-accessible-browser-based-decoder-for-noaa-images.md
 nid: 30701
 uid: 693684
-
 cids: 30168,30169,30173,30174,30175,30178,30348,30349,30350,30570,30571,30675,30677,30679,30680,30681,30689,30692,30705,30706,31036,31388
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/908/original/137.912_2022-07-16_11-44-21_-_Olga_Mie%CC%A8kus.png)
 
 # An accessible browser-based decoder for NOAA images
 
-by [sashae](../../../profile/sashae) | May 03, 2022 14:04
+by [sashae](/profile/sashae) | May 03, 2022 14:04
 
-May 03, 2022 14:04 | Tags: [seeks:replications](../tag/seeks:replications), [open-weather](../tag/open-weather), [activity:open-weather](../tag/activity:open-weather)
+May 03, 2022 14:04 | Tags: [seeks:replications](/tag/seeks:replications), [open-weather](/tag/open-weather), [activity:open-weather](/tag/activity:open-weather)
 
 ----
 

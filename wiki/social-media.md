@@ -6,14 +6,14 @@ author: liz
 path: /wiki/social-media.md
 nid: 793
 uid: 7
-
+cids: 
 ---
 
 # Social Media
 
-by [amocorro](../profile/amocorro), [joyofsoy](../profile/joyofsoy), [liz](../profile/liz), [natalie](../profile/natalie), [warren](../profile/warren)
+by [amocorro](/profile/amocorro), [joyofsoy](/profile/joyofsoy), [liz](/profile/liz), [natalie](/profile/natalie), [warren](/profile/warren)
 
-February 16, 2012 15:59 | Tags: [community](../tag/community), [media](../tag/media), [social-media](../tag/social-media)
+February 16, 2012 15:59 | Tags: [community](/tag/community), [media](/tag/media), [social-media](/tag/social-media)
 
 ----
 

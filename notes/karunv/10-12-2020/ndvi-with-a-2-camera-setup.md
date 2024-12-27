@@ -6,16 +6,14 @@ author: karunv
 path: /notes/karunv/10-12-2020/ndvi-with-a-2-camera-setup.md
 nid: 24740
 uid: 722156
-
 cids: 27464,27483
-
 ---
 
 # NDVI with a 2 camera setup
 
-by [karunv](../../../profile/karunv) | October 12, 2020 06:50
+by [karunv](/profile/karunv) | October 12, 2020 06:50
 
-October 12, 2020 06:50 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [question:ndvi](../tag/question:ndvi), [question:multispectral-imaging](../tag/question:multispectral-imaging), [multispectral-imaging](../tag/multispectral-imaging), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
+October 12, 2020 06:50 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [question:ndvi](/tag/question:ndvi), [question:multispectral-imaging](/tag/question:multispectral-imaging), [multispectral-imaging](/tag/multispectral-imaging), [question:general](/tag/question:general), [general](/tag/general), [first-time-poster](/tag/first-time-poster)
 
 ----
 

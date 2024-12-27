@@ -6,16 +6,14 @@ author: patcoyle
 path: /notes/patcoyle/2-25-2012/2-24-12-kap-livermore-ca-development.md
 nid: 851
 uid: 77
-
 cids: 
-
 ---
 
 # 2-24-12 KAP Livermore CA development
 
-by [patcoyle](../../../profile/patcoyle) | February 25, 2012 08:33
+by [patcoyle](/profile/patcoyle) | February 25, 2012 08:33
 
-February 25, 2012 08:33 | Tags: [first-time-poster](../tag/first-time-poster)
+February 25, 2012 08:33 | Tags: [first-time-poster](/tag/first-time-poster)
 
 ----
 

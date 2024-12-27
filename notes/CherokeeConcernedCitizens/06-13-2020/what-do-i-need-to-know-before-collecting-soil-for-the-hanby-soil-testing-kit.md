@@ -6,16 +6,14 @@ author: CherokeeConcernedCitizens
 path: /notes/CherokeeConcernedCitizens/06-13-2020/what-do-i-need-to-know-before-collecting-soil-for-the-hanby-soil-testing-kit.md
 nid: 23837
 uid: 701875
-
 cids: 27025,27029,27111,27112,27128,27149,27160,27172,27173,27174
-
 ---
 
 # What do I need to know before collecting soil for the Hanby soil testing kit?
 
-by [CherokeeConcernedCitizens](../../../profile/CherokeeConcernedCitizens) | June 13, 2020 14:54
+by [CherokeeConcernedCitizens](/profile/CherokeeConcernedCitizens) | June 13, 2020 14:54
 
-June 13, 2020 14:54 | Tags: [soil](../tag/soil), [soil-testing](../tag/soil-testing), [question:general](../tag/question:general), [general](../tag/general), [soil-sampling](../tag/soil-sampling), [question:soil-sampling](../tag/question:soil-sampling), [question:soil-sampling-toolkit](../tag/question:soil-sampling-toolkit), [first-time-poster](../tag/first-time-poster), [question:soil](../tag/question:soil), [hanby-soil-kit](../tag/hanby-soil-kit), [petroleum-hydrocarbons](../tag/petroleum-hydrocarbons), [soil-sampling-toolkit](../tag/soil-sampling-toolkit)
+June 13, 2020 14:54 | Tags: [soil](/tag/soil), [soil-testing](/tag/soil-testing), [question:general](/tag/question:general), [general](/tag/general), [soil-sampling](/tag/soil-sampling), [question:soil-sampling](/tag/question:soil-sampling), [question:soil-sampling-toolkit](/tag/question:soil-sampling-toolkit), [first-time-poster](/tag/first-time-poster), [question:soil](/tag/question:soil), [hanby-soil-kit](/tag/hanby-soil-kit), [petroleum-hydrocarbons](/tag/petroleum-hydrocarbons), [soil-sampling-toolkit](/tag/soil-sampling-toolkit)
 
 ----
 

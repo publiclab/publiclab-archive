@@ -6,14 +6,14 @@ author: warren
 path: /wiki/boston.md
 nid: 7287
 uid: 1
-
+cids: 
 ---
 
 # Boston
 
-by [liz](../profile/liz), [warren](../profile/warren)
+by [liz](/profile/liz), [warren](/profile/warren)
 
-May 07, 2013 12:21 | Tags: [boston](../tag/boston), [events:boston](../tag/events:boston), [list:plots-boston](../tag/list:plots-boston), [northeast](../tag/northeast), [parent:northeast](../tag/parent:northeast)
+May 07, 2013 12:21 | Tags: [boston](/tag/boston), [events:boston](/tag/events:boston), [list:plots-boston](/tag/list:plots-boston), [northeast](/tag/northeast), [parent:northeast](/tag/parent:northeast)
 
 ----
 

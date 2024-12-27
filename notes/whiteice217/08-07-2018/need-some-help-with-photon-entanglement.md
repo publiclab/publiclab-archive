@@ -6,16 +6,14 @@ author: whiteice217
 path: /notes/whiteice217/08-07-2018/need-some-help-with-photon-entanglement.md
 nid: 16879
 uid: 542028
-
 cids: 
-
 ---
 
 # Need some help with photon entanglement 
 
-by [whiteice217](../../../profile/whiteice217) | August 07, 2018 18:27
+by [whiteice217](/profile/whiteice217) | August 07, 2018 18:27
 
-August 07, 2018 18:27 | Tags: [physics](../tag/physics), [question:general](../tag/question:general), [communication](../tag/communication), [photons](../tag/photons), [entanglement](../tag/entanglement), [computers](../tag/computers), [question:physics](../tag/question:physics)
+August 07, 2018 18:27 | Tags: [physics](/tag/physics), [question:general](/tag/question:general), [communication](/tag/communication), [photons](/tag/photons), [entanglement](/tag/entanglement), [computers](/tag/computers), [question:physics](/tag/question:physics)
 
 ----
 

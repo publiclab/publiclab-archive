@@ -6,16 +6,14 @@ author: Solkin
 path: /notes/Solkin/06-26-2020/how-can-i-get-spectral-lines-thin.md
 nid: 24045
 uid: 578621
-
 cids: 27058,27094
-
 ---
 
 # How can I get spectral lines thin?
 
-by [Solkin](../../../profile/Solkin) | June 26, 2020 06:48
+by [Solkin](/profile/Solkin) | June 26, 2020 06:48
 
-June 26, 2020 06:48 | Tags: [question:lego-spectrometer](../tag/question:lego-spectrometer), [lego-spectrometer](../tag/lego-spectrometer), [first-time-poster](../tag/first-time-poster)
+June 26, 2020 06:48 | Tags: [question:lego-spectrometer](/tag/question:lego-spectrometer), [lego-spectrometer](/tag/lego-spectrometer), [first-time-poster](/tag/first-time-poster)
 
 ----
 

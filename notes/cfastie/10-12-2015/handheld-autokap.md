@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/10-12-2015/handheld-autokap.md
 nid: 12289
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/911/original/FledFlight.jpg)
 
 # Handheld AutoKAP
 
-by [cfastie](../../../profile/cfastie) | October 12, 2015 00:20
+by [cfastie](/profile/cfastie) | October 12, 2015 00:20
 
-October 12, 2015 00:20 | Tags: [vermont](../tag/vermont), [leaffest](../tag/leaffest), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [leaffest2015](../tag/leaffest2015), [leaffester](../tag/leaffester), [doccom](../tag/doccom), [response:12288](../tag/response:12288)
+October 12, 2015 00:20 | Tags: [vermont](/tag/vermont), [leaffest](/tag/leaffest), [saturnv](/tag/saturnv), [skyshield](/tag/skyshield), [leaffest2015](/tag/leaffest2015), [leaffester](/tag/leaffester), [doccom](/tag/doccom), [response:12288](/tag/response:12288)
 
 ----
 

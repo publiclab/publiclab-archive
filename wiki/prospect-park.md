@@ -6,14 +6,14 @@ author: liz
 path: /wiki/prospect-park.md
 nid: 10437
 uid: 7
-
+cids: 
 ---
 
 # Prospect Park
 
-by [liz](../profile/liz)
+by [liz](/profile/liz)
 
-May 07, 2014 13:51 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [prospect-park](../tag/prospect-park), [spring](../tag/spring)
+May 07, 2014 13:51 | Tags: [new-york-city](/tag/new-york-city), [gowanus](/tag/gowanus), [prospect-park](/tag/prospect-park), [spring](/tag/spring)
 
 ----
 

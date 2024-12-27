@@ -6,16 +6,14 @@ author: fongvania
 path: /notes/fongvania/11-04-2021/what-are-examples-of-real-life-immersive-experiences-that-help-people-understand-pollution.md
 nid: 28075
 uid: 754846
-
 cids: 29466,29477,29519,29521,29522
-
 ---
 
 # What are examples of "real-life", immersive experiences that help people understand pollution?
 
-by [fongvania](../../../profile/fongvania) | November 04, 2021 03:35
+by [fongvania](/profile/fongvania) | November 04, 2021 03:35
 
-November 04, 2021 03:35 | Tags: [air-quality](../tag/air-quality), [data](../tag/data), [art](../tag/art), [question:general](../tag/question:general), [general](../tag/general), [data-visualization](../tag/data-visualization), [artivism](../tag/artivism), [research-curation-fellows](../tag/research-curation-fellows), [presenting-data](../tag/presenting-data), [question:presenting-data](../tag/question:presenting-data), [air-quality-data](../tag/air-quality-data), [question:air-quality-data](../tag/question:air-quality-data), [question:data-visualization](../tag/question:data-visualization), [data-advocacy](../tag/data-advocacy)
+November 04, 2021 03:35 | Tags: [air-quality](/tag/air-quality), [data](/tag/data), [art](/tag/art), [question:general](/tag/question:general), [general](/tag/general), [data-visualization](/tag/data-visualization), [artivism](/tag/artivism), [research-curation-fellows](/tag/research-curation-fellows), [presenting-data](/tag/presenting-data), [question:presenting-data](/tag/question:presenting-data), [air-quality-data](/tag/air-quality-data), [question:air-quality-data](/tag/question:air-quality-data), [question:data-visualization](/tag/question:data-visualization), [data-advocacy](/tag/data-advocacy)
 
 ----
 

@@ -6,16 +6,16 @@ author: laurel_mire
 path: /wiki/flocculation.md
 nid: 30138
 uid: 759178
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/526/original/Hydroseed.jpg)
 
 # Flocculation
 
-by [laurel_mire](../profile/laurel_mire)
+by [laurel_mire](/profile/laurel_mire)
 
-March 17, 2022 18:59 | Tags: [industry](../tag/industry), [mine-reclamation](../tag/mine-reclamation), [flocculants](../tag/flocculants), [parent:industry](../tag/parent:industry)
+March 17, 2022 18:59 | Tags: [industry](/tag/industry), [mine-reclamation](/tag/mine-reclamation), [flocculants](/tag/flocculants), [parent:industry](/tag/parent:industry)
 
 ----
 
@@ -33,7 +33,7 @@ This page is a place to collect and organize resources on flocculation & floccul
 
 ## Posts on Public Lab related to flocculation
 
-[grid:flocculants](../../tag/grid:flocculants)
+[grid:flocculants](/tag/grid:flocculants)
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
 

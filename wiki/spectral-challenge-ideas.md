@@ -6,14 +6,14 @@ author: liz
 path: /wiki/spectral-challenge-ideas.md
 nid: 6936
 uid: 7
-
+cids: 
 ---
 
 # Spectral Challenge ideas
 
-by [philippg](../profile/philippg), [Jessica_Helm](../profile/Jessica_Helm), [warren](../profile/warren), [liz](../profile/liz)
+by [philippg](/profile/philippg), [Jessica_Helm](/profile/Jessica_Helm), [warren](/profile/warren), [liz](/profile/liz)
 
-April 20, 2013 18:44 | Tags: [spectrometer](../tag/spectrometer), [spectralchallenge](../tag/spectralchallenge)
+April 20, 2013 18:44 | Tags: [spectrometer](/tag/spectrometer), [spectralchallenge](/tag/spectralchallenge)
 
 ----
 

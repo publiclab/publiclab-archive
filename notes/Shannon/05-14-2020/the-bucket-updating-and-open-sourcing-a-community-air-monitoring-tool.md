@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/05-14-2020/the-bucket-updating-and-open-sourcing-a-community-air-monitoring-tool.md
 nid: 23630
 uid: 9
-
 cids: 26902,26903,27341
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/390/original/Bucket_image.png)
 
 # The Bucket: Updating and open-sourcing a community air monitoring tool
 
-by [Shannon](../../../profile/Shannon) | May 14, 2020 16:40
+by [Shannon](/profile/Shannon) | May 14, 2020 16:40
 
-May 14, 2020 16:40 | Tags: [air-quality](../tag/air-quality), [blog](../tag/blog), [bucket-brigade](../tag/bucket-brigade), [oil-and-gas](../tag/oil-and-gas), [toxics](../tag/toxics), [bucket-monitor](../tag/bucket-monitor), [fair-tech-collective](../tag/fair-tech-collective)
+May 14, 2020 16:40 | Tags: [air-quality](/tag/air-quality), [blog](/tag/blog), [bucket-brigade](/tag/bucket-brigade), [oil-and-gas](/tag/oil-and-gas), [toxics](/tag/toxics), [bucket-monitor](/tag/bucket-monitor), [fair-tech-collective](/tag/fair-tech-collective)
 
 ----
 

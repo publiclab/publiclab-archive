@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/12-31-2011/more-thermal-flashlight-images.md
 nid: 672
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screenshot at 2011-12-26 20:05:29.png)
 
 # More thermal flashlight images
 
-by [warren](../../../profile/warren) | December 31, 2011 18:28
+by [warren](/profile/warren) | December 31, 2011 18:28
 
 December 31, 2011 18:28 | Tags: 
 

@@ -6,12 +6,12 @@ author: gonzoearth
 path: /wiki/thermal-photography-review.md
 nid: 699
 uid: 12
-
+cids: 
 ---
 
 # thermal photography review
 
-by [gonzoearth](../profile/gonzoearth)
+by [gonzoearth](/profile/gonzoearth)
 
 January 19, 2012 00:41 | Tags: 
 

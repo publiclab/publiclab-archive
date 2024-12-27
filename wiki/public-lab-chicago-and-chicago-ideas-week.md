@@ -6,14 +6,14 @@ author: bsugar
 path: /wiki/public-lab-chicago-and-chicago-ideas-week.md
 nid: 10471
 uid: 217812
-
+cids: 
 ---
 
 # Public Lab Chicago and Chicago Ideas Week
 
-by [bsugar](../profile/bsugar)
+by [bsugar](/profile/bsugar)
 
-May 13, 2014 22:40 | Tags: [event](../tag/event), [chicago](../tag/chicago), [civiclab](../tag/civiclab)
+May 13, 2014 22:40 | Tags: [event](/tag/event), [chicago](/tag/chicago), [civiclab](/tag/civiclab)
 
 ----
 

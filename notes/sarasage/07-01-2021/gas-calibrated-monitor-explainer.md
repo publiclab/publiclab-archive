@@ -6,18 +6,16 @@ author: sarasage
 path: /notes/sarasage/07-01-2021/gas-calibrated-monitor-explainer.md
 nid: 26963
 uid: 451398
-
 cids: 29113,31336
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/298/original/Calibration_In_Action.jpg)
 
 # Gas-Calibrated Monitor Explainer
 
-by [sarasage](../../../profile/sarasage) | July 01, 2021 23:42
+by [sarasage](/profile/sarasage) | July 01, 2021 23:42
 
-July 01, 2021 23:42 | Tags: [air-quality](../tag/air-quality), [air](../tag/air), [blog](../tag/blog), [lang:es](../tag/lang:es), [gas-monitoring](../tag/gas-monitoring), [air-sampling](../tag/air-sampling), [purpleair](../tag/purpleair), [spanish](../tag/spanish), [lat:34](../tag/lat:34), [technology](../tag/technology), [purple-air](../tag/purple-air), [lon:-118](../tag/lon:-118), [zoom:6](../tag/zoom:6), [activity:air-sampling](../tag/activity:air-sampling), [VVAMP](../tag/VVAMP), [with:denissebn_06](../tag/with:denissebn_06), [activity:gas-monitoring](../tag/activity:gas-monitoring)
+July 01, 2021 23:42 | Tags: [air-quality](/tag/air-quality), [air](/tag/air), [blog](/tag/blog), [lang:es](/tag/lang:es), [gas-monitoring](/tag/gas-monitoring), [air-sampling](/tag/air-sampling), [purpleair](/tag/purpleair), [spanish](/tag/spanish), [lat:34](/tag/lat:34), [technology](/tag/technology), [purple-air](/tag/purple-air), [lon:-118](/tag/lon:-118), [zoom:6](/tag/zoom:6), [activity:air-sampling](/tag/activity:air-sampling), [VVAMP](/tag/VVAMP), [with:denissebn_06](/tag/with:denissebn_06), [activity:gas-monitoring](/tag/activity:gas-monitoring)
 
 ----
 

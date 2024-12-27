@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/11-29-2011/example-aster-satellite-image-thermal-pollution.md
 nid: 596
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/thermal-pollution.jpg)
 
 # Example ASTER Satellite image of thermal pollution
 
-by [warren](../../../profile/warren) | November 29, 2011 14:23
+by [warren](/profile/warren) | November 29, 2011 14:23
 
 November 29, 2011 14:23 | Tags: 
 

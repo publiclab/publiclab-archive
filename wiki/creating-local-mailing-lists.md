@@ -6,14 +6,14 @@ author: Shannon
 path: /wiki/creating-local-mailing-lists.md
 nid: 3095
 uid: 9
-
+cids: 
 ---
 
 # Instructions for creating local mailing lists
 
-by [Shannon](../profile/Shannon), [warren](../profile/warren)
+by [Shannon](/profile/Shannon), [warren](/profile/warren)
 
-August 02, 2012 17:01 | Tags: [mailing-lists](../tag/mailing-lists)
+August 02, 2012 17:01 | Tags: [mailing-lists](/tag/mailing-lists)
 
 ----
 

@@ -6,18 +6,16 @@ author: purl
 path: /notes/purl/02-26-2021/messages-from-the-mississippi-lesson-4-plastic-reduction.md
 nid: 25811
 uid: 736598
-
 cids: 28298
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/819/original/EPA_flow_chart.png)
 
 # Messages from the Mississippi Lesson 4: Plastic Reduction
 
-by [purl](../../../profile/purl) | February 26, 2021 18:02
+by [purl](/profile/purl) | February 26, 2021 18:02
 
-February 26, 2021 18:02 | Tags: [microplastics](../tag/microplastics), [messagesfromthemississippi](../tag/messagesfromthemississippi)
+February 26, 2021 18:02 | Tags: [microplastics](/tag/microplastics), [messagesfromthemississippi](/tag/messagesfromthemississippi)
 
 ----
 

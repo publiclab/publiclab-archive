@@ -6,16 +6,14 @@ author: kramadan
 path: /notes/kramadan/11-05-2018/outreachy-proposal-planning-for-expanded-community-stats-system.md
 nid: 17473
 uid: 558057
-
 cids: 21186,21212
-
 ---
 
 # Outreachy proposal: Planning for expanded community stats system
 
-by [kramadan](../../../profile/kramadan) | November 05, 2018 17:27
+by [kramadan](/profile/kramadan) | November 05, 2018 17:27
 
-November 05, 2018 17:27 | Tags: [software](../tag/software), [soc](../tag/soc), [soc-2018](../tag/soc-2018), [rgsoc-2018](../tag/rgsoc-2018), [outreachy](../tag/outreachy), [outreachy-2018](../tag/outreachy-2018), [outreachy-2018-proposals](../tag/outreachy-2018-proposals), [response:17359](../tag/response:17359), [first-time-poster](../tag/first-time-poster)
+November 05, 2018 17:27 | Tags: [software](/tag/software), [soc](/tag/soc), [soc-2018](/tag/soc-2018), [rgsoc-2018](/tag/rgsoc-2018), [outreachy](/tag/outreachy), [outreachy-2018](/tag/outreachy-2018), [outreachy-2018-proposals](/tag/outreachy-2018-proposals), [response:17359](/tag/response:17359), [first-time-poster](/tag/first-time-poster)
 
 ----
 

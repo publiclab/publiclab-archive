@@ -6,16 +6,16 @@ author: warren
 path: /wiki/guides.md
 nid: 90
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/969/original/OI000024.jpg)
 
 # Guides
 
-by [liz](../profile/liz), [stevie](../profile/stevie), [warren](../profile/warren), [MateoNeira](../profile/MateoNeira), [mathew](../profile/mathew), [keimpe](../profile/keimpe), [hagitkeysar](../profile/hagitkeysar), [elainechoi89](../profile/elainechoi89), [ChangeAdmin](../profile/ChangeAdmin), [gonzoearth](../profile/gonzoearth)
+by [liz](/profile/liz), [stevie](/profile/stevie), [warren](/profile/warren), [MateoNeira](/profile/MateoNeira), [mathew](/profile/mathew), [keimpe](/profile/keimpe), [hagitkeysar](/profile/hagitkeysar), [elainechoi89](/profile/elainechoi89), [ChangeAdmin](/profile/ChangeAdmin), [gonzoearth](/profile/gonzoearth)
 
-February 19, 2011 17:57 | Tags: [community](../tag/community), [guides](../tag/guides), [illustrated-guides](../tag/illustrated-guides), [writing](../tag/writing), [tool](../tag/tool), [translation](../tag/translation), [method](../tag/method), [collaborative-writing](../tag/collaborative-writing), [location:blurred](../tag/location:blurred), [lon:-74](../tag/lon:-74), [zoom:6](../tag/zoom:6), [lat:4](../tag/lat:4), [place:colombia](../tag/place:colombia)
+February 19, 2011 17:57 | Tags: [community](/tag/community), [guides](/tag/guides), [illustrated-guides](/tag/illustrated-guides), [writing](/tag/writing), [tool](/tag/tool), [translation](/tag/translation), [method](/tag/method), [collaborative-writing](/tag/collaborative-writing), [location:blurred](/tag/location:blurred), [lon:-74](/tag/lon:-74), [zoom:6](/tag/zoom:6), [lat:4](/tag/lat:4), [place:colombia](/tag/place:colombia)
 
 ----
 
@@ -125,10 +125,10 @@ We're constantly improving and exploring new ways of documenting and disseminati
 
 Help out with our guides using these calls to action, or post your own to get a new guide started!
 
-[guides](../../tag/activity:guides)
+[guides](/tag/activity:guides)
 
 ****
 
 ## Questions
 
-[guides](../../tag/question:guides)
+[guides](/tag/question:guides)

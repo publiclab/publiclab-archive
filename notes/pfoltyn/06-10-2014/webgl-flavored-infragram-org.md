@@ -6,18 +6,16 @@ author: pfoltyn
 path: /notes/pfoltyn/06-10-2014/webgl-flavored-infragram-org.md
 nid: 10549
 uid: 264346
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/659/original/infragram-gl.png)
 
 # WebGL flavored infragram.org
 
-by [pfoltyn](../../../profile/pfoltyn) | June 10, 2014 19:41
+by [pfoltyn](/profile/pfoltyn) | June 10, 2014 19:41
 
-June 10, 2014 19:41 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [infragram-sandbox](../tag/infragram-sandbox), [webgl](../tag/webgl), [barnstar:basic](../tag/barnstar:basic)
+June 10, 2014 19:41 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [infragram](/tag/infragram), [infragram-sandbox](/tag/infragram-sandbox), [webgl](/tag/webgl), [barnstar:basic](/tag/barnstar:basic)
 
 ----
 

@@ -6,14 +6,14 @@ author: mollydanielsson
 path: /wiki/public-lab-helps-everyone-monitor-environment.md
 nid: 5611
 uid: 1259
-
+cids: 
 ---
 
 # Public Lab helps EVERYONE Monitor the Environment
 
-by [liz](../profile/liz), [mollydanielsson](../profile/mollydanielsson)
+by [liz](/profile/liz), [mollydanielsson](/profile/mollydanielsson)
 
-January 16, 2013 19:35 | Tags: [website](../tag/website), [plots2](../tag/plots2), [wintercamp](../tag/wintercamp), [newcomers](../tag/newcomers), [onboarding](../tag/onboarding), [out-of-date](../tag/out-of-date)
+January 16, 2013 19:35 | Tags: [website](/tag/website), [plots2](/tag/plots2), [wintercamp](/tag/wintercamp), [newcomers](/tag/newcomers), [onboarding](/tag/onboarding), [out-of-date](/tag/out-of-date)
 
 ----
 

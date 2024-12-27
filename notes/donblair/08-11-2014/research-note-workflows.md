@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/08-11-2014/research-note-workflows.md
 nid: 11035
 uid: 43651
-
 cids: 9868,9870,9872,9874,9875,9876,9877,9880,9883,9885,9887,9888,9889,9894,9896,9897,9898,9899,9900,9901,9902,9903,9904,9905,9914,9915,9919,9922,9923,9933,9936,9944,9945,9946,9948,9954,9966,9967,9968,9971,10434,10442,10448
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/702/original/researchNotes.png)
 
 # Research Note Workflows
 
-by [donblair](../../../profile/donblair) | August 11, 2014 19:34
+by [donblair](/profile/donblair) | August 11, 2014 19:34
 
-August 11, 2014 19:34 | Tags: [research](../tag/research)
+August 11, 2014 19:34 | Tags: [research](/tag/research)
 
 ----
 

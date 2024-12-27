@@ -6,18 +6,16 @@ author: stoft
 path: /notes/stoft/03-01-2015/optimal-slit-width.md
 nid: 11646
 uid: 54025
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/136/original/P3U-435nm.gif)
 
 # Optimal Slit Width
 
-by [stoft](../../../profile/stoft) | March 01, 2015 20:39
+by [stoft](/profile/stoft) | March 01, 2015 20:39
 
-March 01, 2015 20:39 | Tags: [spectrometer](../tag/spectrometer), [slit](../tag/slit), [slit-width](../tag/slit-width)
+March 01, 2015 20:39 | Tags: [spectrometer](/tag/spectrometer), [slit](/tag/slit), [slit-width](/tag/slit-width)
 
 ----
 

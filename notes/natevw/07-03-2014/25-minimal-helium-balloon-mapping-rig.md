@@ -6,18 +6,16 @@ author: natevw
 path: /notes/natevw/07-03-2014/25-minimal-helium-balloon-mapping-rig.md
 nid: 10651
 uid: 804
-
 cids: 9411,9420,9421,9449,9565,9734,9799,9811
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/116/original/__1.JPG)
 
 # Make a $25 minimal-helium balloon mapping rig
 
-by [natevw](../../../profile/natevw) | July 03, 2014 23:03
+by [natevw](/profile/natevw) | July 03, 2014 23:03
 
-July 03, 2014 23:03 | Tags: [balloon-mapping](../tag/balloon-mapping), [photo-rig](../tag/photo-rig), [cheap](../tag/cheap), [mobius](../tag/mobius), [barnstar:basic](../tag/barnstar:basic), [keychain-camera](../tag/keychain-camera), [low-cost](../tag/low-cost), [mini-balloon-kit](../tag/mini-balloon-kit), [activity:balloon-mapping](../tag/activity:balloon-mapping), [activity:photo-rig](../tag/activity:photo-rig), [affordable](../tag/affordable), [activity:mini-balloon-kit](../tag/activity:mini-balloon-kit)
+July 03, 2014 23:03 | Tags: [balloon-mapping](/tag/balloon-mapping), [photo-rig](/tag/photo-rig), [cheap](/tag/cheap), [mobius](/tag/mobius), [barnstar:basic](/tag/barnstar:basic), [keychain-camera](/tag/keychain-camera), [low-cost](/tag/low-cost), [mini-balloon-kit](/tag/mini-balloon-kit), [activity:balloon-mapping](/tag/activity:balloon-mapping), [activity:photo-rig](/tag/activity:photo-rig), [affordable](/tag/affordable), [activity:mini-balloon-kit](/tag/activity:mini-balloon-kit)
 
 ----
 

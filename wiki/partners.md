@@ -6,14 +6,14 @@ author: Shannon
 path: /wiki/partners.md
 nid: 11013
 uid: 9
-
+cids: 
 ---
 
 # Public Lab friends, partners and collaborators
 
-by [stevie](../profile/stevie), [liz](../profile/liz), [warren](../profile/warren), [shanlter](../profile/shanlter), [clauds](../profile/clauds), [Shannon](../profile/Shannon), [hagitkeysar](../profile/hagitkeysar), [nshapiro](../profile/nshapiro), [kanarinka](../profile/kanarinka), [ives](../profile/ives), [eustatic](../profile/eustatic)
+by [stevie](/profile/stevie), [liz](/profile/liz), [warren](/profile/warren), [shanlter](/profile/shanlter), [clauds](/profile/clauds), [Shannon](/profile/Shannon), [hagitkeysar](/profile/hagitkeysar), [nshapiro](/profile/nshapiro), [kanarinka](/profile/kanarinka), [ives](/profile/ives), [eustatic](/profile/eustatic)
 
-August 04, 2014 18:31 | Tags: [community](../tag/community), [partnerships](../tag/partnerships), [citizenscience](../tag/citizenscience)
+August 04, 2014 18:31 | Tags: [community](/tag/community), [partnerships](/tag/partnerships), [citizenscience](/tag/citizenscience)
 
 ----
 

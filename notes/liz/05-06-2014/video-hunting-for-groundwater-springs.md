@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/05-06-2014/video-hunting-for-groundwater-springs.md
 nid: 10434
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/091/original/Screen_Shot_2014-05-06_at_5.10.39_PM.png)
 
 # VIDEO: hunting for groundwater springs
 
-by [liz](../../../profile/liz) | May 06, 2014 21:12
+by [liz](/profile/liz) | May 06, 2014 21:12
 
-May 06, 2014 21:12 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [proteus-gowanus](../tag/proteus-gowanus), [spring](../tag/spring)
+May 06, 2014 21:12 | Tags: [new-york-city](/tag/new-york-city), [gowanus](/tag/gowanus), [proteus-gowanus](/tag/proteus-gowanus), [spring](/tag/spring)
 
 ----
 

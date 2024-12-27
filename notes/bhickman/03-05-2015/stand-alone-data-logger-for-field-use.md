@@ -6,18 +6,16 @@ author: bhickman
 path: /notes/bhickman/03-05-2015/stand-alone-data-logger-for-field-use.md
 nid: 11654
 uid: 201929
-
 cids: 11274,11282
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/151/original/Temp_v_time.png)
 
 # Stand Alone Data Logger for Field Use
 
-by [bhickman](../../../profile/bhickman) | March 05, 2015 07:26
+by [bhickman](/profile/bhickman) | March 05, 2015 07:26
 
-March 05, 2015 07:26 | Tags: [sensors](../tag/sensors), [datalogger](../tag/datalogger), [logging](../tag/logging)
+March 05, 2015 07:26 | Tags: [sensors](/tag/sensors), [datalogger](/tag/datalogger), [logging](/tag/logging)
 
 ----
 

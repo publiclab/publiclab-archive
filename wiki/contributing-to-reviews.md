@@ -6,16 +6,16 @@ author: bhamster
 path: /wiki/contributing-to-reviews.md
 nid: 29988
 uid: 664477
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/363/original/contribute.png)
 
 # Contributing to Research Area Reviews
 
-by [bhamster](../profile/bhamster)
+by [bhamster](/profile/bhamster)
 
-February 08, 2022 18:07 | Tags: [research](../tag/research), [guidelines](../tag/guidelines), [contributing](../tag/contributing), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review), [parent:reviews](../tag/parent:reviews)
+February 08, 2022 18:07 | Tags: [research](/tag/research), [guidelines](/tag/guidelines), [contributing](/tag/contributing), [reviews](/tag/reviews), [research-area-review](/tag/research-area-review), [parent:reviews](/tag/parent:reviews)
 
 ----
 

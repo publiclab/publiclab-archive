@@ -6,18 +6,16 @@ author: silentsairam
 path: /notes/silentsairam/06-16-2019/games-activities-to-know-about-air-pollution.md
 nid: 19716
 uid: 553044
-
 cids: 24818,24820,24821,24822,24826,25374,27357,31025
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/954/original/IMG_20171217_114821.jpg)
 
 # Games/Activities to know about Air Pollution
 
-by [silentsairam](../../../profile/silentsairam) | June 16, 2019 18:14
+by [silentsairam](/profile/silentsairam) | June 16, 2019 18:14
 
-June 16, 2019 18:14 | Tags: [education](../tag/education), [workshop](../tag/workshop), [curriculum](../tag/curriculum), [air-quality](../tag/air-quality), [lesson](../tag/lesson), [exploring-environmental-issues](../tag/exploring-environmental-issues), [lat:12.944198](../tag/lat:12.944198), [lon:80.148028](../tag/lon:80.148028)
+June 16, 2019 18:14 | Tags: [education](/tag/education), [workshop](/tag/workshop), [curriculum](/tag/curriculum), [air-quality](/tag/air-quality), [lesson](/tag/lesson), [exploring-environmental-issues](/tag/exploring-environmental-issues), [lat:12.944198](/tag/lat:12.944198), [lon:80.148028](/tag/lon:80.148028)
 
 ----
 

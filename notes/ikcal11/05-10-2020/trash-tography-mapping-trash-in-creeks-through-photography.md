@@ -6,18 +6,16 @@ author: ikcal11
 path: /notes/ikcal11/05-10-2020/trash-tography-mapping-trash-in-creeks-through-photography.md
 nid: 23597
 uid: 679735
-
 cids: 26788,26791,26806,26807,26812
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/348/original/Photo.jpg)
 
 # Trash-tography: Mapping Trash in Creeks through Photography
 
-by [ikcal11](../../../profile/ikcal11) | May 10, 2020 22:20
+by [ikcal11](/profile/ikcal11) | May 10, 2020 22:20
 
-May 10, 2020 22:20 | Tags: [san-diego](../tag/san-diego), [education](../tag/education), [california](../tag/california), [trash](../tag/trash), [water-quality](../tag/water-quality), [creek](../tag/creek), [survey](../tag/survey), [location:blurred](../tag/location:blurred), [lon:-117](../tag/lon:-117), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:32](../tag/lat:32), [kid-friendly](../tag/kid-friendly), [place:san-diego](../tag/place:san-diego), [thriving-earth-exchange](../tag/thriving-earth-exchange), [with:cjellis](../tag/with:cjellis), [with:kskadberg](../tag/with:kskadberg), [with:khurst](../tag/with:khurst)
+May 10, 2020 22:20 | Tags: [san-diego](/tag/san-diego), [education](/tag/education), [california](/tag/california), [trash](/tag/trash), [water-quality](/tag/water-quality), [creek](/tag/creek), [survey](/tag/survey), [location:blurred](/tag/location:blurred), [lon:-117](/tag/lon:-117), [first-time-poster](/tag/first-time-poster), [zoom:6](/tag/zoom:6), [lat:32](/tag/lat:32), [kid-friendly](/tag/kid-friendly), [place:san-diego](/tag/place:san-diego), [thriving-earth-exchange](/tag/thriving-earth-exchange), [with:cjellis](/tag/with:cjellis), [with:kskadberg](/tag/with:kskadberg), [with:khurst](/tag/with:khurst)
 
 ----
 

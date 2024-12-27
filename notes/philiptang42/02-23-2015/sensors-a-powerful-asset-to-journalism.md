@@ -6,18 +6,16 @@ author: philiptang42
 path: /notes/philiptang42/02-23-2015/sensors-a-powerful-asset-to-journalism.md
 nid: 11619
 uid: 434166
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/059/original/sensors.jpg)
 
 # Sensors: A Powerful Asset to Journalism
 
-by [philiptang42](../../../profile/philiptang42) | February 23, 2015 06:35
+by [philiptang42](/profile/philiptang42) | February 23, 2015 06:35
 
-February 23, 2015 06:35 | Tags: [sensor-journalism](../tag/sensor-journalism)
+February 23, 2015 06:35 | Tags: [sensor-journalism](/tag/sensor-journalism)
 
 ----
 

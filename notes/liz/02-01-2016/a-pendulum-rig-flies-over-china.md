@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/02-01-2016/a-pendulum-rig-flies-over-china.md
 nid: 12642
 uid: 7
-
 cids: 13450,13451
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/033/original/IMG_3418.JPG)
 
 # a pendulum rig flies over China
 
-by [liz](../../../profile/liz) | February 01, 2016 21:40
+by [liz](/profile/liz) | February 01, 2016 21:40
 
-February 01, 2016 21:40 | Tags: [mobius](../tag/mobius), [china](../tag/china), [pendulum-rig](../tag/pendulum-rig)
+February 01, 2016 21:40 | Tags: [mobius](/tag/mobius), [china](/tag/china), [pendulum-rig](/tag/pendulum-rig)
 
 ----
 

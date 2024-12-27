@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/2-5-2012/picavet-pet-rig.md
 nid: 752
 uid: 4
-
 cids: 434,543,9519,9520,9524
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_1256.JPG)
 
 # Picavet PET rig
 
-by [mathew](../../../profile/mathew) | February 06, 2012 02:58
+by [mathew](/profile/mathew) | February 06, 2012 02:58
 
-February 06, 2012 02:58 | Tags: [activity:photo-rig](../tag/activity:photo-rig)
+February 06, 2012 02:58 | Tags: [activity:photo-rig](/tag/activity:photo-rig)
 
 ----
 

@@ -6,7 +6,7 @@ author: warren
 path: /feature/prompt-add-photo.md
 nid: 21123
 uid: 1
-
+cids: 
 ---
 
 # prompt-add-photo

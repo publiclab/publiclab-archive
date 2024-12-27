@@ -6,16 +6,14 @@ author:
 path: /notes/5-10-2012/fl-ha.md
 nid: 2092
 uid: 0
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Floeha_staffel_2008_medium_0.jpg)
 
 # flöha
 
-by [](../../../profile/) | May 10, 2012 09:09
+by [](/profile/) | May 10, 2012 09:09
 
 May 10, 2012 09:09 | Tags: 
 

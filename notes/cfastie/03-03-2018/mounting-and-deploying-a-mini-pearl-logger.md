@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/03-03-2018/mounting-and-deploying-a-mini-pearl-logger.md
 nid: 15855
 uid: 554
-
 cids: 18794
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/792/original/miniPearl_20180226-2690.JPG)
 
 # Mounting and deploying a Mini Pearl Logger
 
-by [cfastie](../../../profile/cfastie) | March 03, 2018 19:59
+by [cfastie](/profile/cfastie) | March 03, 2018 19:59
 
-March 03, 2018 19:59 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [datalogger](../tag/datalogger), [enclosure](../tag/enclosure), [data-logging](../tag/data-logging), [activity:arduino](../tag/activity:arduino), [activity:data-logging](../tag/activity:data-logging), [mini-pearl-logger](../tag/mini-pearl-logger), [activity:mini-pearl-logger](../tag/activity:mini-pearl-logger)
+March 03, 2018 19:59 | Tags: [arduino](/tag/arduino), [sensors](/tag/sensors), [datalogger](/tag/datalogger), [enclosure](/tag/enclosure), [data-logging](/tag/data-logging), [activity:arduino](/tag/activity:arduino), [activity:data-logging](/tag/activity:data-logging), [mini-pearl-logger](/tag/mini-pearl-logger), [activity:mini-pearl-logger](/tag/activity:mini-pearl-logger)
 
 ----
 

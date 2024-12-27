@@ -6,12 +6,12 @@ author: Pat
 path: /wiki/pipelines-carrying-co2.md
 nid: 30537
 uid: 424836
-
+cids: 
 ---
 
 # pipelines-carrying-CO2
 
-by [Pat](../profile/Pat)
+by [Pat](/profile/Pat)
 
 April 20, 2022 15:46 | Tags: 
 

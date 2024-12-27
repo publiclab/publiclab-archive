@@ -6,16 +6,16 @@ author: warren
 path: /wiki/nano-data-logger.md
 nid: 14522
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/772/original/NanoLog_20170430-8321ps.jpg)
 
 # Nano Data Logger
 
-by [cfastie](../profile/cfastie), [warren](../profile/warren)
+by [cfastie](/profile/cfastie), [warren](/profile/warren)
 
-June 12, 2017 19:04 | Tags: [sensors](../tag/sensors), [tool](../tag/tool), [datalogger](../tag/datalogger), [data-logging](../tag/data-logging), [method](../tag/method), [nano-data-logger](../tag/nano-data-logger), [parent:data-logging](../tag/parent:data-logging), [activities:nano-data-logger](../tag/activities:nano-data-logger)
+June 12, 2017 19:04 | Tags: [sensors](/tag/sensors), [tool](/tag/tool), [datalogger](/tag/datalogger), [data-logging](/tag/data-logging), [method](/tag/method), [nano-data-logger](/tag/nano-data-logger), [parent:data-logging](/tag/parent:data-logging), [activities:nano-data-logger](/tag/activities:nano-data-logger)
 
 ----
 
@@ -57,11 +57,11 @@ See below for several examples of data logging with the Nano Logger. Examples in
 
 ### Activities
 
-[nano-data-logger](../../tag/activity:nano-data-logger)
+[nano-data-logger](/tag/activity:nano-data-logger)
 
 
 ### Questions
 
-[nano-data-logger](../../tag/question:nano-data-logger)
+[nano-data-logger](/tag/question:nano-data-logger)
 
 

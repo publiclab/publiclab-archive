@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/03-27-2014/example-using-free-sfm-tools-for-calculation-of-volume-of-earth-mound-on-construction-site.md
 nid: 10233
 uid: 77
-
 cids: 8619
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/418/original/Knitter_ss_w_annotation.jpg)
 
 # Example: using free SFM tools for calculation of volume of earth mound on construction site 
 
-by [patcoyle](../../../profile/patcoyle) | March 27, 2014 21:33
+by [patcoyle](/profile/patcoyle) | March 27, 2014 21:33
 
-March 27, 2014 21:33 | Tags: [kap](../tag/kap), [sfm](../tag/sfm), [structure-from-motion](../tag/structure-from-motion), [measurement](../tag/measurement), [response:9977](../tag/response:9977), [autostitch](../tag/autostitch), [3dmodeling](../tag/3dmodeling), [volume](../tag/volume), [response:10159](../tag/response:10159)
+March 27, 2014 21:33 | Tags: [kap](/tag/kap), [sfm](/tag/sfm), [structure-from-motion](/tag/structure-from-motion), [measurement](/tag/measurement), [response:9977](/tag/response:9977), [autostitch](/tag/autostitch), [3dmodeling](/tag/3dmodeling), [volume](/tag/volume), [response:10159](/tag/response:10159)
 
 ----
 

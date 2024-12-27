@@ -6,18 +6,16 @@ author: tylerknight
 path: /notes/tylerknight/02-18-2022/purpleair-installation-guide.md
 nid: 30032
 uid: 777566
-
 cids: 29897,29898,30748
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/403/original/PurpleAirPhoto2.png)
 
 # PurpleAir Installation Guide
 
-by [tylerknight](../../../profile/tylerknight) | February 18, 2022 19:29
+by [tylerknight](/profile/tylerknight) | February 18, 2022 19:29
 
-February 18, 2022 19:29 | Tags: [air-quality](../tag/air-quality), [purpleair](../tag/purpleair), [purple-air](../tag/purple-air), [formosaplastics](../tag/formosaplastics)
+February 18, 2022 19:29 | Tags: [air-quality](/tag/air-quality), [purpleair](/tag/purpleair), [purple-air](/tag/purple-air), [formosaplastics](/tag/formosaplastics)
 
 ----
 

@@ -6,18 +6,16 @@ author: Roundboy
 path: /notes/Roundboy/06-13-2022/evaluating-marine-ecosystems-through-plankton.md
 nid: 31049
 uid: 800109
-
 cids: 30263,30459,30467
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/762/original/downs-park_2_pyramid.jpg)
 
 # Evaluating Marine Ecosystems through Plankton
 
-by [Roundboy](../../../profile/Roundboy) | June 13, 2022 02:36
+by [Roundboy](/profile/Roundboy) | June 13, 2022 02:36
 
-June 13, 2022 02:36 | Tags: [water](../tag/water), [environment](../tag/environment), [southeast](../tag/southeast), [issue-brief](../tag/issue-brief), [babylegs](../tag/babylegs), [first-time-poster](../tag/first-time-poster), [zoom:7](../tag/zoom:7), [plankton](../tag/plankton), [chesapeake-bay](../tag/chesapeake-bay), [marine-ecosystems](../tag/marine-ecosystems), [lat:39.104488](../tag/lat:39.104488), [lon:-76.431884](../tag/lon:-76.431884)
+June 13, 2022 02:36 | Tags: [water](/tag/water), [environment](/tag/environment), [southeast](/tag/southeast), [issue-brief](/tag/issue-brief), [babylegs](/tag/babylegs), [first-time-poster](/tag/first-time-poster), [zoom:7](/tag/zoom:7), [plankton](/tag/plankton), [chesapeake-bay](/tag/chesapeake-bay), [marine-ecosystems](/tag/marine-ecosystems), [lat:39.104488](/tag/lat:39.104488), [lon:-76.431884](/tag/lon:-76.431884)
 
 ----
 
@@ -52,4 +50,4 @@ Our device worked very well and effectively gathered plankton without any issues
   
 Overall, the device was a success! It serves its purpose as a very cheap and accessible modification for an already existing device that was extremely easy to attach. The only potential issue came with the microscope, but it was just about the best we were going to get for something that cheap, and worked much better than any of us originally anticipated it to. 
 
-[tagname](../../tag/question:tagname)
+[tagname](/tag/question:tagname)

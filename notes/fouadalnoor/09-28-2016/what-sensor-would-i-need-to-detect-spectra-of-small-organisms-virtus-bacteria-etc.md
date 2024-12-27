@@ -6,16 +6,14 @@ author: fouadalnoor
 path: /notes/fouadalnoor/09-28-2016/what-sensor-would-i-need-to-detect-spectra-of-small-organisms-virtus-bacteria-etc.md
 nid: 13498
 uid: 493187
-
 cids: 15519,15528,22309,22322
-
 ---
 
 # What sensor would I need to detect spectra of small organisms (virtus, bacteria etc)
 
-by [fouadalnoor](../../../profile/fouadalnoor) | September 28, 2016 19:00
+by [fouadalnoor](/profile/fouadalnoor) | September 28, 2016 19:00
 
-September 28, 2016 19:00 | Tags: [question:spectrometry](../tag/question:spectrometry), [question:bacteria](../tag/question:bacteria)
+September 28, 2016 19:00 | Tags: [question:spectrometry](/tag/question:spectrometry), [question:bacteria](/tag/question:bacteria)
 
 ----
 

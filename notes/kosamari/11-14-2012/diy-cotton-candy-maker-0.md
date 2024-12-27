@@ -6,18 +6,16 @@ author: kosamari
 path: /notes/kosamari/11-14-2012/diy-cotton-candy-maker-0.md
 nid: 4904
 uid: 44255
-
 cids: 2465,16912
-
 ---
 
 ![](https://publiclab.org/sites/default/files/DSC_0291.JPG)
 
 # DIY cotton candy maker
 
-by [kosamari](../../../profile/kosamari) | November 14, 2012 14:52
+by [kosamari](/profile/kosamari) | November 14, 2012 14:52
 
-November 14, 2012 14:52 | Tags: [air-column-monitor](../tag/air-column-monitor), [diy-bio](../tag/diy-bio), [microbes](../tag/microbes), [activity:cotton-candy](../tag/activity:cotton-candy), [activity:microbes](../tag/activity:microbes), [first-time-poster](../tag/first-time-poster)
+November 14, 2012 14:52 | Tags: [air-column-monitor](/tag/air-column-monitor), [diy-bio](/tag/diy-bio), [microbes](/tag/microbes), [activity:cotton-candy](/tag/activity:cotton-candy), [activity:microbes](/tag/activity:microbes), [first-time-poster](/tag/first-time-poster)
 
 ----
 

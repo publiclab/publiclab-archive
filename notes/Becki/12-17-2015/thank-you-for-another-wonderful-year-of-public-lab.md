@@ -6,18 +6,16 @@ author: Becki
 path: /notes/Becki/12-17-2015/thank-you-for-another-wonderful-year-of-public-lab.md
 nid: 12530
 uid: 46673
-
 cids: 13330
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/397/original/Barnraising_Nametags_-_Fall_2015.png)
 
 # Thank you for another wonderful year of Public Lab!
 
-by [Becki](../../../profile/Becki) | December 17, 2015 19:11
+by [Becki](/profile/Becki) | December 17, 2015 19:11
 
-December 17, 2015 19:11 | Tags: [blog](../tag/blog)
+December 17, 2015 19:11 | Tags: [blog](/tag/blog)
 
 ----
 

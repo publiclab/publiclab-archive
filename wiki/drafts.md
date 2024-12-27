@@ -6,12 +6,12 @@ author: donblair
 path: /wiki/drafts.md
 nid: 5367
 uid: 43651
-
+cids: 
 ---
 
 # drafts
 
-by [donblair](../profile/donblair)
+by [donblair](/profile/donblair)
 
 December 29, 2012 14:31 | Tags: 
 

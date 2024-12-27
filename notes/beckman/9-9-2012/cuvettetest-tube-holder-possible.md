@@ -6,16 +6,14 @@ author: beckman
 path: /notes/beckman/9-9-2012/cuvettetest-tube-holder-possible.md
 nid: 3705
 uid: 42932
-
 cids: 1298
-
 ---
 
 # Cuvette/test-tube holder possible
 
-by [beckman](../../../profile/beckman) | September 10, 2012 03:32
+by [beckman](/profile/beckman) | September 10, 2012 03:32
 
-September 10, 2012 03:32 | Tags: [spectrometer](../tag/spectrometer), [pvc](../tag/pvc), [first-time-poster](../tag/first-time-poster)
+September 10, 2012 03:32 | Tags: [spectrometer](/tag/spectrometer), [pvc](/tag/pvc), [first-time-poster](/tag/first-time-poster)
 
 ----
 

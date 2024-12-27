@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/08-30-2016/check-out-these-activity-grids.md
 nid: 13407
 uid: 7
-
 cids: 15276,15277,15753,15754,15757,15784,15845,15869
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/965/original/Screenshot_2016-09-07_at_3.53.55_PM.png)
 
 # Check out these Activity Grids
 
-by [liz](../../../profile/liz) | August 30, 2016 18:59
+by [liz](/profile/liz) | August 30, 2016 18:59
 
-August 30, 2016 18:59 | Tags: [collaboration](../tag/collaboration), [blog](../tag/blog), [with:warren](../tag/with:warren), [with:gretchengehrke](../tag/with:gretchengehrke), [research-culture](../tag/research-culture), [activity-grids](../tag/activity-grids), [replication](../tag/replication), [with:abdul](../tag/with:abdul)
+August 30, 2016 18:59 | Tags: [collaboration](/tag/collaboration), [blog](/tag/blog), [with:warren](/tag/with:warren), [with:gretchengehrke](/tag/with:gretchengehrke), [research-culture](/tag/research-culture), [activity-grids](/tag/activity-grids), [replication](/tag/replication), [with:abdul](/tag/with:abdul)
 
 ----
 

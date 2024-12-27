@@ -6,14 +6,14 @@ author: gonzoearth
 path: /wiki/mapknitter-help.md
 nid: 468
 uid: 12
-
+cids: 
 ---
 
 # MapKnitter Help
 
-by [warren](../profile/warren), [hagitkeysar](../profile/hagitkeysar), [gonzoearth](../profile/gonzoearth)
+by [warren](/profile/warren), [hagitkeysar](/profile/hagitkeysar), [gonzoearth](/profile/gonzoearth)
 
-September 15, 2011 06:19 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [hagit-keysar](../tag/hagit-keysar)
+September 15, 2011 06:19 | Tags: [balloon-mapping](/tag/balloon-mapping), [mapknitter](/tag/mapknitter), [hagit-keysar](/tag/hagit-keysar)
 
 ----
 

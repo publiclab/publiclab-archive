@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/03-05-2014/yellow-smoke-plume-at-lawrence-point-queens.md
 nid: 10107
 uid: 1
-
 cids: 8416,8417,8418,8419,8421,8435
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/138/original/IMG_0807_copy.JPG)
 
 # Yellow smoke plume at Lawrence Point, Queens
 
-by [warren](../../../profile/warren) | March 05, 2014 16:22
+by [warren](/profile/warren) | March 05, 2014 16:22
 
-March 05, 2014 16:22 | Tags: [new-york-city](../tag/new-york-city), [queens](../tag/queens), [plume](../tag/plume), [watchdog](../tag/watchdog), [smokestack](../tag/smokestack)
+March 05, 2014 16:22 | Tags: [new-york-city](/tag/new-york-city), [queens](/tag/queens), [plume](/tag/plume), [watchdog](/tag/watchdog), [smokestack](/tag/smokestack)
 
 ----
 

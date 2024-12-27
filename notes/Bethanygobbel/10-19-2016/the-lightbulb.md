@@ -6,16 +6,14 @@ author: Bethanygobbel
 path: /notes/Bethanygobbel/10-19-2016/the-lightbulb.md
 nid: 13606
 uid: 494909
-
 cids: 15681
-
 ---
 
 # The Lightbulb 
 
-by [Bethanygobbel](../../../profile/Bethanygobbel) | October 19, 2016 17:25
+by [Bethanygobbel](/profile/Bethanygobbel) | October 19, 2016 17:25
 
-October 19, 2016 17:25 | Tags: [hidden:response](../tag/hidden:response), [response:13586](../tag/response:13586), [first-time-poster](../tag/first-time-poster)
+October 19, 2016 17:25 | Tags: [hidden:response](/tag/hidden:response), [response:13586](/tag/response:13586), [first-time-poster](/tag/first-time-poster)
 
 ----
 

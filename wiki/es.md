@@ -6,14 +6,14 @@ author: warren
 path: /wiki/es.md
 nid: 5
 uid: 1
-
+cids: 
 ---
 
 # El Laboratorio Publico
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-December 07, 2010 07:07 | Tags: [lang:es](../tag/lang:es)
+December 07, 2010 07:07 | Tags: [lang:es](/tag/lang:es)
 
 ----
 

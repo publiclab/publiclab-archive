@@ -6,14 +6,14 @@ author: mathew
 path: /wiki/passive-pm-analysis.md
 nid: 12651
 uid: 4
-
+cids: 
 ---
 
 # passive-pm-analysis
 
-by [stevie](../profile/stevie), [mathew](../profile/mathew)
+by [stevie](/profile/stevie), [mathew](/profile/mathew)
 
-February 03, 2016 23:48 | Tags: [parent:passive-pm](../tag/parent:passive-pm)
+February 03, 2016 23:48 | Tags: [parent:passive-pm](/tag/parent:passive-pm)
 
 ----
 

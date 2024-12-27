@@ -6,18 +6,16 @@ author: gretchengehrke
 path: /notes/gretchengehrke/07-24-2015/case-study-ecological-assessment-and-management-using-balloon-and-kite-collected-aerial-images.md
 nid: 12099
 uid: 430549
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/929/original/a_IMAG0880_bsj_34.jpg)
 
 # Case Study: Ecological Assessment and Management  using Balloon- and Kite-collected Aerial Images
 
-by [gretchengehrke](../../../profile/gretchengehrke) | July 24, 2015 15:58
+by [gretchengehrke](/profile/gretchengehrke) | July 24, 2015 15:58
 
-July 24, 2015 15:58 | Tags: [blog](../tag/blog), [data-advocacy-case-studies](../tag/data-advocacy-case-studies)
+July 24, 2015 15:58 | Tags: [blog](/tag/blog), [data-advocacy-case-studies](/tag/data-advocacy-case-studies)
 
 ----
 

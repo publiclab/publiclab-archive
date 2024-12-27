@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/04-24-2017/decibel-meters-for-iphones.md
 nid: 14133
 uid: 1
-
 cids: 22456,22457
-
 ---
 
 # Decibel meters for iPhones?
 
-by [warren](../../../profile/warren) | April 24, 2017 16:07
+by [warren](/profile/warren) | April 24, 2017 16:07
 
-April 24, 2017 16:07 | Tags: [answered](../tag/answered), [noise](../tag/noise), [question:decibels](../tag/question:decibels), [question:sound](../tag/question:sound), [sound](../tag/sound), [decibel](../tag/decibel), [decibel-meter](../tag/decibel-meter), [sound-pollution](../tag/sound-pollution), [noise-pollution](../tag/noise-pollution), [question:noise](../tag/question:noise), [question:noise-pollution](../tag/question:noise-pollution)
+April 24, 2017 16:07 | Tags: [answered](/tag/answered), [noise](/tag/noise), [question:decibels](/tag/question:decibels), [question:sound](/tag/question:sound), [sound](/tag/sound), [decibel](/tag/decibel), [decibel-meter](/tag/decibel-meter), [sound-pollution](/tag/sound-pollution), [noise-pollution](/tag/noise-pollution), [question:noise](/tag/question:noise), [question:noise-pollution](/tag/question:noise-pollution)
 
 ----
 

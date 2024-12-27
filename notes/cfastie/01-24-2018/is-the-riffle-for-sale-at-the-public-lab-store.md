@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/01-24-2018/is-the-riffle-for-sale-at-the-public-lab-store.md
 nid: 15601
 uid: 554
-
 cids: 20321,20333,20334,22881,23197
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/326/original/riffle_20180124-2580.JPG)
 
 # Is the Riffle for sale at the Public Lab Store?
 
-by [cfastie](../../../profile/cfastie) | January 24, 2018 19:41
+by [cfastie](/profile/cfastie) | January 24, 2018 19:41
 
-January 24, 2018 19:41 | Tags: [kits](../tag/kits), [riffle](../tag/riffle), [open-water](../tag/open-water), [kits-initiative](../tag/kits-initiative), [question:riffle](../tag/question:riffle), [answered](../tag/answered), [community-kits](../tag/community-kits)
+January 24, 2018 19:41 | Tags: [kits](/tag/kits), [riffle](/tag/riffle), [open-water](/tag/open-water), [kits-initiative](/tag/kits-initiative), [question:riffle](/tag/question:riffle), [answered](/tag/answered), [community-kits](/tag/community-kits)
 
 ----
 

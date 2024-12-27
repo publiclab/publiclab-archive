@@ -6,12 +6,12 @@ author: ShaneWeaver
 path: /wiki/buy-instagram-followers.md
 nid: 12054
 uid: 445401
-
+cids: 
 ---
 
 # Buy Instagram Followers
 
-by [ShaneWeaver](../profile/ShaneWeaver)
+by [ShaneWeaver](/profile/ShaneWeaver)
 
 July 13, 2015 07:00 | Tags: 
 

@@ -6,18 +6,16 @@ author: eustatic
 path: /3-17-2013/new-burb-texas-sinkhole.md
 nid: 6382
 uid: 379
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/20130317-172409_0.jpg)
 
 # a new burp in the Texas Brine Sinkhole
 
-by [eustatic](../../../profile/eustatic) | March 18, 2013 03:19
+by [eustatic](/profile/eustatic) | March 18, 2013 03:19
 
-March 18, 2013 03:19 | Tags: [sinkhole](../tag/sinkhole), [passenger-pigeon](../tag/passenger-pigeon)
+March 18, 2013 03:19 | Tags: [sinkhole](/tag/sinkhole), [passenger-pigeon](/tag/passenger-pigeon)
 
 ----
 

@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/06-12-2020/call-on-monitoring-for-microplastics.md
 nid: 23833
 uid: 422561
-
 cids: 27011,27019,27034,27036,27041,27045,27071,27072,27073,27078,27081,27100
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/767/original/BabyLegs-meopar_shot-SM.jpg)
 
 # Call on Monitoring for Microplastics
 
-by [stevie](../../../profile/stevie) | June 12, 2020 20:07
+by [stevie](/profile/stevie) | June 12, 2020 20:07
 
-June 12, 2020 20:07 | Tags: [water-quality](../tag/water-quality), [microplastics](../tag/microplastics), [babylegs](../tag/babylegs), [lon:-80](../tag/lon:-80), [lat:20](../tag/lat:20), [zoom:5](../tag/zoom:5)
+June 12, 2020 20:07 | Tags: [water-quality](/tag/water-quality), [microplastics](/tag/microplastics), [babylegs](/tag/babylegs), [lon:-80](/tag/lon:-80), [lat:20](/tag/lat:20), [zoom:5](/tag/zoom:5)
 
 ----
 

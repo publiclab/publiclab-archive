@@ -6,18 +6,16 @@ author: eustatic
 path: /08-02-2013/mapping-wetland-forest-restoration-efforts-at-new-orleans-nature-center.md
 nid: 8959
 uid: 379
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/006/original/9260127104_3cda99d3be.jpg)
 
 # Balloon Mapping Wetland Forest Restoration Efforts at New Orleans Nature Center
 
-by [eustatic](../../../profile/eustatic) | August 02, 2013 17:51
+by [eustatic](/profile/eustatic) | August 02, 2013 17:51
 
-August 02, 2013 17:51 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [wetlands](../tag/wetlands), [forest](../tag/forest), [restoration](../tag/restoration), [invasive](../tag/invasive), [gulfrestorationnetwork](../tag/gulfrestorationnetwork), [neworleans](../tag/neworleans), [tallow](../tag/tallow), [cypress](../tag/cypress), [naturecenter](../tag/naturecenter), [lat:30.034817](../tag/lat:30.034817), [lon:-89.961031](../tag/lon:-89.961031), [place:new-orleans-nature-center](../tag/place:new-orleans-nature-center)
+August 02, 2013 17:51 | Tags: [gulf-coast](/tag/gulf-coast), [balloon-mapping](/tag/balloon-mapping), [wetlands](/tag/wetlands), [forest](/tag/forest), [restoration](/tag/restoration), [invasive](/tag/invasive), [gulfrestorationnetwork](/tag/gulfrestorationnetwork), [neworleans](/tag/neworleans), [tallow](/tag/tallow), [cypress](/tag/cypress), [naturecenter](/tag/naturecenter), [lat:30.034817](/tag/lat:30.034817), [lon:-89.961031](/tag/lon:-89.961031), [place:new-orleans-nature-center](/tag/place:new-orleans-nature-center)
 
 ----
 

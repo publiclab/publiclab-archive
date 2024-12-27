@@ -6,16 +6,14 @@ author: danbeavers
 path: /notes/danbeavers/4-12-2013/determination-cadmium-and-lead-extracted-ceramic-foodware.md
 nid: 6804
 uid: 51
-
 cids: 4452
-
 ---
 
 # Determination of Cadmium and Lead Extracted from Ceramic Foodware
 
-by [danbeavers](../../../profile/danbeavers) | April 12, 2013 20:49
+by [danbeavers](/profile/danbeavers) | April 12, 2013 20:49
 
-April 12, 2013 20:49 | Tags: [spectrometer](../tag/spectrometer), [contamination](../tag/contamination), [spectralchallenge](../tag/spectralchallenge), [assays](../tag/assays)
+April 12, 2013 20:49 | Tags: [spectrometer](/tag/spectrometer), [contamination](/tag/contamination), [spectralchallenge](/tag/spectralchallenge), [assays](/tag/assays)
 
 ----
 

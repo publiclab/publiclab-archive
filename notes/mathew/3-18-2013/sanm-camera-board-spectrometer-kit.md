@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/3-18-2013/sanm-camera-board-spectrometer-kit.md
 nid: 6400
 uid: 4
-
 cids: 3888,3889,3894,3895,3963,3965,4026,4027,4028,4033,4179,4188,4193,4194,4196,4197,4198,4209,4401,9030
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2013-03-18 at 4.34.54 PM.png)
 
 # Sanm camera board for spectrometer kit
 
-by [mathew](../../../profile/mathew) | March 19, 2013 00:09
+by [mathew](/profile/mathew) | March 19, 2013 00:09
 
-March 19, 2013 00:09 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [webcam](../tag/webcam), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [sanm](../tag/sanm)
+March 19, 2013 00:09 | Tags: [spectrometer](/tag/spectrometer), [kits](/tag/kits), [webcam](/tag/webcam), [desktop-spectrometry-kit](/tag/desktop-spectrometry-kit), [sanm](/tag/sanm)
 
 ----
 

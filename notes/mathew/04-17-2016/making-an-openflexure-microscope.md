@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/04-17-2016/making-an-openflexure-microscope.md
 nid: 12997
 uid: 4
-
 cids: 14313,14318,14319,14321,14332,14546,18018,18052,18054,18056,18070
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/654/original/P_20160417_104728.jpg)
 
 # Making an OpenFlexure Microscope
 
-by [mathew](../../../profile/mathew) | April 17, 2016 21:55
+by [mathew](/profile/mathew) | April 17, 2016 21:55
 
-April 17, 2016 21:55 | Tags: [raspberry-pi](../tag/raspberry-pi), [dust](../tag/dust), [particle-sensing](../tag/particle-sensing), [microscope](../tag/microscope), [passive-pm](../tag/passive-pm), [microscopy](../tag/microscopy), [pm-monitor](../tag/pm-monitor), [openflexure](../tag/openflexure), [activity:microscope](../tag/activity:microscope), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes), [activity:open-flexure-microscope](../tag/activity:open-flexure-microscope)
+April 17, 2016 21:55 | Tags: [raspberry-pi](/tag/raspberry-pi), [dust](/tag/dust), [particle-sensing](/tag/particle-sensing), [microscope](/tag/microscope), [passive-pm](/tag/passive-pm), [microscopy](/tag/microscopy), [pm-monitor](/tag/pm-monitor), [openflexure](/tag/openflexure), [activity:microscope](/tag/activity:microscope), [microscopes](/tag/microscopes), [activity:microscopes](/tag/activity:microscopes), [activity:open-flexure-microscope](/tag/activity:open-flexure-microscope)
 
 ----
 

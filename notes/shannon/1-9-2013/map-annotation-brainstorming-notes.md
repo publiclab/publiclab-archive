@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/shannon/1-9-2013/map-annotation-brainstorming-notes.md
 nid: 5494
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_3807_0.JPG)
 
 # Map annotation brainstorming notes
 
-by [Shannon](../../../profile/Shannon) | January 09, 2013 16:39
+by [Shannon](/profile/Shannon) | January 09, 2013 16:39
 
-January 09, 2013 16:39 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [annotated-maps](../tag/annotated-maps)
+January 09, 2013 16:39 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [annotated-maps](/tag/annotated-maps)
 
 ----
 

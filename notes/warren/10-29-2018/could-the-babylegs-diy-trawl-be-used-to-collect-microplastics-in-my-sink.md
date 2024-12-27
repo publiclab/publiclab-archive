@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/10-29-2018/could-the-babylegs-diy-trawl-be-used-to-collect-microplastics-in-my-sink.md
 nid: 17422
 uid: 1
-
 cids: 23271,24114
-
 ---
 
 # Could the BabyLegs DIY trawl be used to collect microplastics in my sink?
 
-by [warren](../../../profile/warren) | October 29, 2018 17:02
+by [warren](/profile/warren) | October 29, 2018 17:02
 
-October 29, 2018 17:02 | Tags: [answered](../tag/answered), [microplastics](../tag/microplastics), [question:babylegs](../tag/question:babylegs), [babylegs](../tag/babylegs), [trawl](../tag/trawl), [plastic](../tag/plastic)
+October 29, 2018 17:02 | Tags: [answered](/tag/answered), [microplastics](/tag/microplastics), [question:babylegs](/tag/question:babylegs), [babylegs](/tag/babylegs), [trawl](/tag/trawl), [plastic](/tag/plastic)
 
 ----
 

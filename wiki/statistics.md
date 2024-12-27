@@ -6,12 +6,12 @@ author: warren
 path: /wiki/statistics.md
 nid: 2474
 uid: 1
-
+cids: 
 ---
 
 # Statistics
 
-by [warren](../profile/warren), [Shannon](../profile/Shannon)
+by [warren](/profile/warren), [Shannon](/profile/Shannon)
 
 June 13, 2012 20:39 | Tags: 
 

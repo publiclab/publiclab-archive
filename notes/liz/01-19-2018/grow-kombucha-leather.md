@@ -6,16 +6,14 @@ author: liz
 path: /notes/liz/01-19-2018/grow-kombucha-leather.md
 nid: 15560
 uid: 7
-
 cids: 
-
 ---
 
 # Grow kombucha leather
 
-by [liz](../../../profile/liz) | January 19, 2018 19:24
+by [liz](/profile/liz) | January 19, 2018 19:24
 
-January 19, 2018 19:24 | Tags: [seeks:replications](../tag/seeks:replications), [kombucha-leather](../tag/kombucha-leather), [activity:kombucha-leather](../tag/activity:kombucha-leather)
+January 19, 2018 19:24 | Tags: [seeks:replications](/tag/seeks:replications), [kombucha-leather](/tag/kombucha-leather), [activity:kombucha-leather](/tag/activity:kombucha-leather)
 
 ----
 

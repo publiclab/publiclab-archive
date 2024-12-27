@@ -6,18 +6,16 @@ author: kinasmith
 path: /notes/kinasmith/09-09-2016/particle-electron.md
 nid: 13436
 uid: 445906
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/999/original/IMG_20160909_120416.jpg)
 
 # Particle Electron
 
-by [kinasmith](../../../profile/kinasmith) | September 09, 2016 23:23
+by [kinasmith](/profile/kinasmith) | September 09, 2016 23:23
 
-September 09, 2016 23:23 | Tags: [cellular](../tag/cellular), [web](../tag/web), [data](../tag/data), [datalogger](../tag/datalogger), [riffle](../tag/riffle), [logger](../tag/logger), [sensor](../tag/sensor), [3g](../tag/3g), [data-logging](../tag/data-logging), [riffle-examples](../tag/riffle-examples), [data-logger](../tag/data-logger), [datalogger-option](../tag/datalogger-option)
+September 09, 2016 23:23 | Tags: [cellular](/tag/cellular), [web](/tag/web), [data](/tag/data), [datalogger](/tag/datalogger), [riffle](/tag/riffle), [logger](/tag/logger), [sensor](/tag/sensor), [3g](/tag/3g), [data-logging](/tag/data-logging), [riffle-examples](/tag/riffle-examples), [data-logger](/tag/data-logger), [datalogger-option](/tag/datalogger-option)
 
 ----
 

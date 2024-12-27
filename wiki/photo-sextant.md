@@ -6,14 +6,14 @@ author: warren
 path: /wiki/photo-sextant.md
 nid: 1733
 uid: 1
-
+cids: 
 ---
 
 # Photo Sextant
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-April 21, 2012 14:49 | Tags: [grassrootsmappingwiki](../tag/grassrootsmappingwiki)
+April 21, 2012 14:49 | Tags: [grassrootsmappingwiki](/tag/grassrootsmappingwiki)
 
 ----
 

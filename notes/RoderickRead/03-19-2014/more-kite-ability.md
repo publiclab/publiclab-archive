@@ -6,18 +6,16 @@ author: RoderickRead
 path: /notes/RoderickRead/03-19-2014/more-kite-ability.md
 nid: 10201
 uid: 421588
-
 cids: 8553,8559
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/317/original/kite_control_frame_grab.jpg)
 
 # More kite ability
 
-by [RoderickRead](../../../profile/RoderickRead) | March 19, 2014 10:47
+by [RoderickRead](/profile/RoderickRead) | March 19, 2014 10:47
 
-March 19, 2014 10:47 | Tags: [kite](../tag/kite), [kap](../tag/kap), [design](../tag/design), [energy](../tag/energy), [steering](../tag/steering), [platform](../tag/platform), [first-time-poster](../tag/first-time-poster)
+March 19, 2014 10:47 | Tags: [kite](/tag/kite), [kap](/tag/kap), [design](/tag/design), [energy](/tag/energy), [steering](/tag/steering), [platform](/tag/platform), [first-time-poster](/tag/first-time-poster)
 
 ----
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/8-14-2012/open-source-licensing-our-spectral-data.md
 nid: 3288
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/sw-copyright.png)
 
 # Open source licensing of our spectral data
 
-by [warren](../../../profile/warren) | August 14, 2012 20:59
+by [warren](/profile/warren) | August 14, 2012 20:59
 
-August 14, 2012 20:59 | Tags: [spectrometer](../tag/spectrometer), [licensing](../tag/licensing)
+August 14, 2012 20:59 | Tags: [spectrometer](/tag/spectrometer), [licensing](/tag/licensing)
 
 ----
 

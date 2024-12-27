@@ -6,18 +6,16 @@ author: stevie
 path: /notes/stevie/01-26-2018/the-discovery-of-the-clotilda-and-the-community-still-fighting.md
 nid: 15618
 uid: 422561
-
 cids: 18313,18449,20599
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/351/original/Clotilda.jpg)
 
 # The discovery of the Clotilda and the community 'still fighting' 
 
-by [stevie](../../../profile/stevie) | January 26, 2018 17:25
+by [stevie](/profile/stevie) | January 26, 2018 17:25
 
-January 26, 2018 17:25 | Tags: [gulf-coast](../tag/gulf-coast), [mobile](../tag/mobile), [blog](../tag/blog), [environmental-justice](../tag/environmental-justice), [ej](../tag/ej), [nas](../tag/nas), [mejac](../tag/mejac), [africatown](../tag/africatown), [alabama](../tag/alabama), [chess](../tag/chess), [clotilda](../tag/clotilda), [ship](../tag/ship), [dioxin](../tag/dioxin)
+January 26, 2018 17:25 | Tags: [gulf-coast](/tag/gulf-coast), [mobile](/tag/mobile), [blog](/tag/blog), [environmental-justice](/tag/environmental-justice), [ej](/tag/ej), [nas](/tag/nas), [mejac](/tag/mejac), [africatown](/tag/africatown), [alabama](/tag/alabama), [chess](/tag/chess), [clotilda](/tag/clotilda), [ship](/tag/ship), [dioxin](/tag/dioxin)
 
 ----
 

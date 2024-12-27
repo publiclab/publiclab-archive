@@ -6,18 +6,16 @@ author: kgradow1
 path: /notes/kgradow1/12-16-2020/how-to-read-an-environmental-impact-statement.md
 nid: 25268
 uid: 297929
-
 cids: 27836,30213
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/044/original/Screen_Shot_2020-12-16_at_3.50.27_PM.png)
 
 # How to read an Environmental Impact Statement
 
-by [kgradow1](../../../profile/kgradow1) | December 16, 2020 20:51
+by [kgradow1](/profile/kgradow1) | December 16, 2020 20:51
 
-December 16, 2020 20:51 | Tags: [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [bucket-brigade](../tag/bucket-brigade), [new](../tag/new), [draft](../tag/draft), [soil-quality](../tag/soil-quality), [activity:air-quality](../tag/activity:air-quality), [activity:new](../tag/activity:new), [lon:-71](../tag/lon:-71), [lat:42](../tag/lat:42), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor), [activity:bucket-monitor](../tag/activity:bucket-monitor), [statistics-for-action](../tag/statistics-for-action)
+December 16, 2020 20:51 | Tags: [air-quality](/tag/air-quality), [water-quality](/tag/water-quality), [bucket-brigade](/tag/bucket-brigade), [new](/tag/new), [draft](/tag/draft), [soil-quality](/tag/soil-quality), [activity:air-quality](/tag/activity:air-quality), [activity:new](/tag/activity:new), [lon:-71](/tag/lon:-71), [lat:42](/tag/lat:42), [zoom:6](/tag/zoom:6), [bucket-monitor](/tag/bucket-monitor), [activity:bucket-monitor](/tag/activity:bucket-monitor), [statistics-for-action](/tag/statistics-for-action)
 
 ----
 

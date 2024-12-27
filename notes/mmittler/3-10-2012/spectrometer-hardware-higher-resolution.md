@@ -6,16 +6,14 @@ author: mmittler
 path: /notes/mmittler/3-10-2012/spectrometer-hardware-higher-resolution.md
 nid: 917
 uid: 653
-
 cids: 530,550
-
 ---
 
 # spectrometer hardware with higher resolution
 
-by [mmittler](../../../profile/mmittler) | March 10, 2012 21:13
+by [mmittler](/profile/mmittler) | March 10, 2012 21:13
 
-March 10, 2012 21:13 | Tags: [spectrometer](../tag/spectrometer)
+March 10, 2012 21:13 | Tags: [spectrometer](/tag/spectrometer)
 
 ----
 

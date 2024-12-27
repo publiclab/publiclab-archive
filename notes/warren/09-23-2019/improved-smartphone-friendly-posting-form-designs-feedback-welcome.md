@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/09-23-2019/improved-smartphone-friendly-posting-form-designs-feedback-welcome.md
 nid: 20973
 uid: 1
-
 cids: 25887,25888,25890,25892
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/407/original/Screen_Shot_2019-09-23_at_11.32.04_AM.png)
 
 # Improved smartphone-friendly posting form designs: feedback welcome!
 
-by [warren](../../../profile/warren) | September 23, 2019 17:02
+by [warren](/profile/warren) | September 23, 2019 17:02
 
-September 23, 2019 17:02 | Tags: [design](../tag/design), [style-guide](../tag/style-guide), [ui](../tag/ui), [one-cranston](../tag/one-cranston), [onecranston](../tag/onecranston), [digital-impact](../tag/digital-impact), [brown](../tag/brown)
+September 23, 2019 17:02 | Tags: [design](/tag/design), [style-guide](/tag/style-guide), [ui](/tag/ui), [one-cranston](/tag/one-cranston), [onecranston](/tag/onecranston), [digital-impact](/tag/digital-impact), [brown](/tag/brown)
 
 ----
 

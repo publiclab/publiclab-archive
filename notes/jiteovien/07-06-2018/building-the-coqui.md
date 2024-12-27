@@ -6,18 +6,16 @@ author: jiteovien
 path: /notes/jiteovien/07-06-2018/building-the-coqui.md
 nid: 16652
 uid: 540008
-
 cids: 20021
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/462/original/coqui_PhotosofPR.jpg)
 
 # Building the coqui
 
-by [jiteovien](../../../profile/jiteovien) | July 06, 2018 17:47
+by [jiteovien](/profile/jiteovien) | July 06, 2018 17:47
 
-July 06, 2018 17:47 | Tags: [water-quality](../tag/water-quality), [coqui](../tag/coqui), [replication:11209](../tag/replication:11209), [replication:13459](../tag/replication:13459), [first-time-poster](../tag/first-time-poster)
+July 06, 2018 17:47 | Tags: [water-quality](/tag/water-quality), [coqui](/tag/coqui), [replication:11209](/tag/replication:11209), [replication:13459](/tag/replication:13459), [first-time-poster](/tag/first-time-poster)
 
 ----
 

@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/10-19-2015/monongahela-monitoring-marathon-part-i.md
 nid: 12317
 uid: 43651
-
 cids: 12764
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/035/original/monitoringPic.png)
 
 # Monongahela Monitoring Marathon - Part I
 
-by [donblair](../../../profile/donblair) | October 19, 2015 19:11
+by [donblair](/profile/donblair) | October 19, 2015 19:11
 
-October 19, 2015 19:11 | Tags: [riffle](../tag/riffle), [riffle-examples](../tag/riffle-examples)
+October 19, 2015 19:11 | Tags: [riffle](/tag/riffle), [riffle-examples](/tag/riffle-examples)
 
 ----
 

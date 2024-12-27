@@ -6,16 +6,14 @@ author: DrJessie
 path: /notes/DrJessie/11-06-2017/changes-in-factory-pollution-and-asthma-emergency-department-visits.md
 nid: 15154
 uid: 512098
-
 cids: 
-
 ---
 
 # Changes in factory pollution and asthma emergency department visits
 
-by [DrJessie](../../../profile/DrJessie) | November 06, 2017 13:38
+by [DrJessie](/profile/DrJessie) | November 06, 2017 13:38
 
-November 06, 2017 13:38 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [pm](../tag/pm)
+November 06, 2017 13:38 | Tags: [air-quality](/tag/air-quality), [dust](/tag/dust), [pm](/tag/pm)
 
 ----
 

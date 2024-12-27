@@ -6,16 +6,14 @@ author: aquiles
 path: /notes/aquiles/07-13-2018/which-objectives-do-you-use.md
 nid: 16711
 uid: 541307
-
 cids: 20105,20111,20113,20114,20134,23179
-
 ---
 
 # Which objectives do you use?
 
-by [aquiles](../../../profile/aquiles) | July 13, 2018 07:34
+by [aquiles](/profile/aquiles) | July 13, 2018 07:34
 
-July 13, 2018 07:34 | Tags: [kits](../tag/kits), [kickstarter](../tag/kickstarter), [lens](../tag/lens), [answered](../tag/answered), [microscope](../tag/microscope), [question:microscope](../tag/question:microscope), [community-kits](../tag/community-kits), [optics](../tag/optics), [remixthemicroscope](../tag/remixthemicroscope), [response:16590](../tag/response:16590), [objective](../tag/objective), [question:community-microscope](../tag/question:community-microscope)
+July 13, 2018 07:34 | Tags: [kits](/tag/kits), [kickstarter](/tag/kickstarter), [lens](/tag/lens), [answered](/tag/answered), [microscope](/tag/microscope), [question:microscope](/tag/question:microscope), [community-kits](/tag/community-kits), [optics](/tag/optics), [remixthemicroscope](/tag/remixthemicroscope), [response:16590](/tag/response:16590), [objective](/tag/objective), [question:community-microscope](/tag/question:community-microscope)
 
 ----
 

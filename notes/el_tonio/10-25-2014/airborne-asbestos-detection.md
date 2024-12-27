@@ -6,18 +6,16 @@ author: el_tonio
 path: /notes/el_tonio/10-25-2014/airborne-asbestos-detection.md
 nid: 11300
 uid: 429873
-
 cids: 10621,10622,10624,10637,10642,10644,12542
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/628/original/WIN_20141025_150907.JPG)
 
 # Airborne Asbestos Detection
 
-by [el_tonio](../../../profile/el_tonio) | October 25, 2014 14:16
+by [el_tonio](/profile/el_tonio) | October 25, 2014 14:16
 
-October 25, 2014 14:16 | Tags: [laser](../tag/laser), [air-quality](../tag/air-quality), [asbestos](../tag/asbestos), [magnetic](../tag/magnetic), [paramagnetic](../tag/paramagnetic)
+October 25, 2014 14:16 | Tags: [laser](/tag/laser), [air-quality](/tag/air-quality), [asbestos](/tag/asbestos), [magnetic](/tag/magnetic), [paramagnetic](/tag/paramagnetic)
 
 ----
 

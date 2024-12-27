@@ -6,18 +6,16 @@ author: Rural
 path: /notes/Rural/02-22-2016/mapping-rural-alberta-s-wetlands.md
 nid: 12718
 uid: 428405
-
 cids: 13693,13731,13733,13737,13739,13758,13759,13760,13763,14115,14118,14119,14120
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/506/original/dazzle.jpg)
 
 # Mapping Rural Alberta's Wetlands
 
-by [Rural](../../../profile/Rural) | February 22, 2016 05:17
+by [Rural](/profile/Rural) | February 22, 2016 05:17
 
-February 22, 2016 05:17 | Tags: [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [blog](../tag/blog), [canada](../tag/canada), [alberta](../tag/alberta), [location:blurred](../tag/location:blurred), [lat:50](../tag/lat:50), [lon:-110](../tag/lon:-110), [place:alberta-canada](../tag/place:alberta-canada)
+February 22, 2016 05:17 | Tags: [kite-mapping](/tag/kite-mapping), [wetlands](/tag/wetlands), [blog](/tag/blog), [canada](/tag/canada), [alberta](/tag/alberta), [location:blurred](/tag/location:blurred), [lat:50](/tag/lat:50), [lon:-110](/tag/lon:-110), [place:alberta-canada](/tag/place:alberta-canada)
 
 ----
 

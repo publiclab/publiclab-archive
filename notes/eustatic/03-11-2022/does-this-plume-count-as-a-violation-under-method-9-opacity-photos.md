@@ -6,18 +6,16 @@ author: eustatic
 path: /03-11-2022/does-this-plume-count-as-a-violation-under-method-9-opacity-photos.md
 nid: 30121
 uid: 379
-
 cids: 29785,29786,29791,29796
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/496/original/OC_Rain_Cii_Carbon_feb_2022.jpg)
 
 # Does this plume count as a violation under Method 9 Opacity? (photos)
 
-by [eustatic](../../../profile/eustatic) | March 11, 2022 19:48
+by [eustatic](/profile/eustatic) | March 11, 2022 19:48
 
-March 11, 2022 19:48 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [epa](../tag/epa), [air-quality](../tag/air-quality), [coal](../tag/coal), [petcoke](../tag/petcoke), [coal-export](../tag/coal-export), [dredge](../tag/dredge), [question:air-quality](../tag/question:air-quality), [question:general](../tag/question:general), [general](../tag/general), [particulate-matter](../tag/particulate-matter), [air-pollution](../tag/air-pollution), [zoom:6](../tag/zoom:6), [cancer-alley](../tag/cancer-alley), [lat:30.050076](../tag/lat:30.050076), [docks](../tag/docks), [lon:-90.659179](../tag/lon:-90.659179)
+March 11, 2022 19:48 | Tags: [gulf-coast](/tag/gulf-coast), [louisiana](/tag/louisiana), [epa](/tag/epa), [air-quality](/tag/air-quality), [coal](/tag/coal), [petcoke](/tag/petcoke), [coal-export](/tag/coal-export), [dredge](/tag/dredge), [question:air-quality](/tag/question:air-quality), [question:general](/tag/question:general), [general](/tag/general), [particulate-matter](/tag/particulate-matter), [air-pollution](/tag/air-pollution), [zoom:6](/tag/zoom:6), [cancer-alley](/tag/cancer-alley), [lat:30.050076](/tag/lat:30.050076), [docks](/tag/docks), [lon:-90.659179](/tag/lon:-90.659179)
 
 ----
 

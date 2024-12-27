@@ -6,18 +6,16 @@ author: bhamster
 path: /notes/bhamster/02-19-2021/how-to-find-out-past-and-current-uses-for-an-area-of-land.md
 nid: 25743
 uid: 664477
-
 cids: 28230,28232,28312
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/758/original/Winnipeg_land_use.jpg)
 
 # How to find out past and current uses for an area of land
 
-by [bhamster](../../../profile/bhamster) | February 19, 2021 19:47
+by [bhamster](/profile/bhamster) | February 19, 2021 19:47
 
-February 19, 2021 19:47 | Tags: [mapping](../tag/mapping), [soil](../tag/soil), [getting-started](../tag/getting-started), [land-use](../tag/land-use), [difficulty:easy](../tag/difficulty:easy), [time:3h](../tag/time:3h), [status:review-me](../tag/status:review-me), [category:observe](../tag/category:observe), [existing-data](../tag/existing-data), [activity:soil](../tag/activity:soil), [activity:land-use](../tag/activity:land-use), [getting-started-soil](../tag/getting-started-soil), [activity:getting-started-soil](../tag/activity:getting-started-soil)
+February 19, 2021 19:47 | Tags: [mapping](/tag/mapping), [soil](/tag/soil), [getting-started](/tag/getting-started), [land-use](/tag/land-use), [difficulty:easy](/tag/difficulty:easy), [time:3h](/tag/time:3h), [status:review-me](/tag/status:review-me), [category:observe](/tag/category:observe), [existing-data](/tag/existing-data), [activity:soil](/tag/activity:soil), [activity:land-use](/tag/activity:land-use), [getting-started-soil](/tag/getting-started-soil), [activity:getting-started-soil](/tag/activity:getting-started-soil)
 
 ----
 

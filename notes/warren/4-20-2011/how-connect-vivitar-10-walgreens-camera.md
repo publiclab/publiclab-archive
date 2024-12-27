@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/4-20-2011/how-connect-vivitar-10-walgreens-camera.md
 nid: 184
 uid: 1
-
 cids: 
-
 ---
 
 # How to connect to a Vivitar $10 Walgreens camera
 
-by [warren](../../../profile/warren) | April 20, 2011 16:08
+by [warren](/profile/warren) | April 20, 2011 16:08
 
-April 20, 2011 16:08 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [keychain-cameras](../tag/keychain-cameras), [vivitar](../tag/vivitar)
+April 20, 2011 16:08 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [keychain-cameras](/tag/keychain-cameras), [vivitar](/tag/vivitar)
 
 ----
 

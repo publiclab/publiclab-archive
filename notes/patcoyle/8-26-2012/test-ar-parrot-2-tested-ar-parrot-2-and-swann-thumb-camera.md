@@ -6,18 +6,16 @@ author: patcoyle
 path: /notes/patcoyle/8-26-2012/test-ar-parrot-2-tested-ar-parrot-2-and-swann-thumb-camera.md
 nid: 3465
 uid: 77
-
 cids: 1206
-
 ---
 
 ![](https://publiclab.org/sites/default/files/7861443028_d6e03eed7e_b.jpg)
 
 # Low altitude test of the AR Parrot 2 and Swann "thumb" camera
 
-by [patcoyle](../../../profile/patcoyle) | August 26, 2012 05:59
+by [patcoyle](/profile/patcoyle) | August 26, 2012 05:59
 
-August 26, 2012 05:59 | Tags: [parrot](../tag/parrot)
+August 26, 2012 05:59 | Tags: [parrot](/tag/parrot)
 
 ----
 

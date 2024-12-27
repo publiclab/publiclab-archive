@@ -6,14 +6,14 @@ author: gretchengehrke
 path: /wiki/hydrogen-sulfide-regulations.md
 nid: 15018
 uid: 430549
-
+cids: 
 ---
 
 # Hydrogen Sulfide Regulations
 
-by [stevie](../profile/stevie), [warren](../profile/warren), [gretchengehrke](../profile/gretchengehrke)
+by [stevie](/profile/stevie), [warren](/profile/warren), [gretchengehrke](/profile/gretchengehrke)
 
-October 10, 2017 19:03 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [regulations](../tag/regulations), [6](../tag/6), [parent:hydrogen-sulfide](../tag/parent:hydrogen-sulfide), [h2s-overview](../tag/h2s-overview), [air-quality-regulations](../tag/air-quality-regulations)
+October 10, 2017 19:03 | Tags: [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [regulations](/tag/regulations), [6](/tag/6), [parent:hydrogen-sulfide](/tag/parent:hydrogen-sulfide), [h2s-overview](/tag/h2s-overview), [air-quality-regulations](/tag/air-quality-regulations)
 
 ----
 
@@ -21,7 +21,7 @@ October 10, 2017 19:03 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s
 
 ### Questions
 
-[hydrogen-sulfide-regulations](../../tag/question:hydrogen-sulfide-regulations)
+[hydrogen-sulfide-regulations](/tag/question:hydrogen-sulfide-regulations)
 
 ## Environmental regulations
 

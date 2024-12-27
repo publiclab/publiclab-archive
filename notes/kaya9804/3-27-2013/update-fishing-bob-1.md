@@ -6,16 +6,14 @@ author: Kaya9804
 path: /notes/kaya9804/3-27-2013/update-fishing-bob-1.md
 nid: 6565
 uid: 45526
-
 cids: 4260,4292
-
 ---
 
 # Update on Fishing Bob
 
-by [Kaya9804](../../../profile/Kaya9804) | March 27, 2013 22:46
+by [Kaya9804](/profile/Kaya9804) | March 27, 2013 22:46
 
-March 27, 2013 22:46 | Tags: [boston](../tag/boston), [thermal-imaging](../tag/thermal-imaging), [thermal-fishing](../tag/thermal-fishing), [fishing-bob](../tag/fishing-bob), [research-plan](../tag/research-plan), [cape-cod](../tag/cape-cod), [thermal-fishing-bob](../tag/thermal-fishing-bob)
+March 27, 2013 22:46 | Tags: [boston](/tag/boston), [thermal-imaging](/tag/thermal-imaging), [thermal-fishing](/tag/thermal-fishing), [fishing-bob](/tag/fishing-bob), [research-plan](/tag/research-plan), [cape-cod](/tag/cape-cod), [thermal-fishing-bob](/tag/thermal-fishing-bob)
 
 ----
 

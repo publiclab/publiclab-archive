@@ -6,18 +6,16 @@ author: megan
 path: /notes/megan/4-2-2012/container-testing-photopaper-test-strips-1.md
 nid: 1611
 uid: 775
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Container Test 1.jpg)
 
 # Container Testing for Photopaper Test Strips #1
 
-by [megan](../../../profile/megan) | April 03, 2012 00:20
+by [megan](/profile/megan) | April 03, 2012 00:20
 
-April 03, 2012 00:20 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing)
+April 03, 2012 00:20 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing)
 
 ----
 

@@ -6,18 +6,16 @@ author: ncraig
 path: /notes/ncraig/11-3-2011/hyper3d-online-structure-motion.md
 nid: 540
 uid: 15
-
 cids: 339
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_1384.JPG)
 
 # Hypr3D: Online Structure from Motion
 
-by [ncraig](../../../profile/ncraig) | November 03, 2011 17:37
+by [ncraig](/profile/ncraig) | November 03, 2011 17:37
 
-November 03, 2011 17:37 | Tags: [first-time-poster](../tag/first-time-poster)
+November 03, 2011 17:37 | Tags: [first-time-poster](/tag/first-time-poster)
 
 ----
 

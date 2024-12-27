@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/3-2-2011/spectral-comparison-tutorial-amateur-astronomers.md
 nid: 108
 uid: 1
-
 cids: 9606,9607,9608
-
 ---
 
 ![](https://publiclab.org/sites/default/files/less65b.jpg)
 
 # Spectral comparison tutorial for amateur astronomers
 
-by [warren](../../../profile/warren) | March 02, 2011 18:08
+by [warren](/profile/warren) | March 02, 2011 18:08
 
-March 02, 2011 18:08 | Tags: [spectrometer](../tag/spectrometer), [intensity-calibration](../tag/intensity-calibration), [comparison](../tag/comparison), [intensity](../tag/intensity), [normalizing](../tag/normalizing)
+March 02, 2011 18:08 | Tags: [spectrometer](/tag/spectrometer), [intensity-calibration](/tag/intensity-calibration), [comparison](/tag/comparison), [intensity](/tag/intensity), [normalizing](/tag/normalizing)
 
 ----
 

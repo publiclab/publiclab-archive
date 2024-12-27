@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/05-20-2017/cheap-lightweight-gopro-alternatives-for-aerial-mapping.md
 nid: 14219
 uid: 1
-
 cids: 16788,16937,17111,17112,18824,18838,20926,22482,22489,22503,22506,22675,22870,22974,27437
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/501/original/akaso.jpg)
 
 # Cheap, lightweight GoPro alternatives for aerial mapping?
 
-by [warren](../../../profile/warren) | May 20, 2017 21:42
+by [warren](/profile/warren) | May 20, 2017 21:42
 
-May 20, 2017 21:42 | Tags: [balloon-mapping](../tag/balloon-mapping), [gopro](../tag/gopro), [mobius](../tag/mobius), [question:balloon-mapping](../tag/question:balloon-mapping), [answered](../tag/answered), [mini-kite-kit](../tag/mini-kite-kit), [mini-balloon-kit](../tag/mini-balloon-kit), [question:aerial-mapping](../tag/question:aerial-mapping), [question:kite-mapping](../tag/question:kite-mapping), [question:aerial-photography](../tag/question:aerial-photography), [response:14191](../tag/response:14191), [camera-selection](../tag/camera-selection), [lightweight-cameras](../tag/lightweight-cameras), [question:camera-selection](../tag/question:camera-selection), [question:mini-balloon-kit](../tag/question:mini-balloon-kit), [question:mini-kite-kit](../tag/question:mini-kite-kit), [mini-camera](../tag/mini-camera), [activity:mini-camera](../tag/activity:mini-camera)
+May 20, 2017 21:42 | Tags: [balloon-mapping](/tag/balloon-mapping), [gopro](/tag/gopro), [mobius](/tag/mobius), [question:balloon-mapping](/tag/question:balloon-mapping), [answered](/tag/answered), [mini-kite-kit](/tag/mini-kite-kit), [mini-balloon-kit](/tag/mini-balloon-kit), [question:aerial-mapping](/tag/question:aerial-mapping), [question:kite-mapping](/tag/question:kite-mapping), [question:aerial-photography](/tag/question:aerial-photography), [response:14191](/tag/response:14191), [camera-selection](/tag/camera-selection), [lightweight-cameras](/tag/lightweight-cameras), [question:camera-selection](/tag/question:camera-selection), [question:mini-balloon-kit](/tag/question:mini-balloon-kit), [question:mini-kite-kit](/tag/question:mini-kite-kit), [mini-camera](/tag/mini-camera), [activity:mini-camera](/tag/activity:mini-camera)
 
 ----
 

@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/4-22-2012/tiny-remote-control.md
 nid: 1746
 uid: 554
-
 cids: 654,8745
-
 ---
 
 ![](https://publiclab.org/sites/default/files/433MHzboard.jpg)
 
 # Tiny remote control
 
-by [cfastie](../../../profile/cfastie) | April 22, 2012 20:54
+by [cfastie](/profile/cfastie) | April 22, 2012 20:54
 
-April 22, 2012 20:54 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [triggering](../tag/triggering), [photo-rig](../tag/photo-rig), [activity:camera-triggering](../tag/activity:camera-triggering)
+April 22, 2012 20:54 | Tags: [balloon-mapping](/tag/balloon-mapping), [near-infrared-camera](/tag/near-infrared-camera), [kite-mapping](/tag/kite-mapping), [triggering](/tag/triggering), [photo-rig](/tag/photo-rig), [activity:camera-triggering](/tag/activity:camera-triggering)
 
 ----
 

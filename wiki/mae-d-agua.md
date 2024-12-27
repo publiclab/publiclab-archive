@@ -6,16 +6,16 @@ author: vjpixel
 path: /wiki/mae-d-agua.md
 nid: 12086
 uid: 420617
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/265/original/Prototipo_foto_Miguel_Peixe.jpg)
 
 # Mãe d'Água
 
-by [vjpixel](../profile/vjpixel), [GSan](../profile/GSan), [liz](../profile/liz)
+by [vjpixel](/profile/vjpixel), [GSan](/profile/GSan), [liz](/profile/liz)
 
-July 21, 2015 16:04 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [tool](../tag/tool), [datalogger](../tag/datalogger), [list:plots-waterquality](../tag/list:plots-waterquality), [brasil](../tag/brasil), [redeinfoamazonia](../tag/redeinfoamazonia), [maedagua](../tag/maedagua), [drinking-water](../tag/drinking-water), [data-logging](../tag/data-logging), [method](../tag/method), [chemicals](../tag/chemicals), [parent:data-logging](../tag/parent:data-logging)
+July 21, 2015 16:04 | Tags: [water-quality](/tag/water-quality), [water](/tag/water), [tool](/tag/tool), [datalogger](/tag/datalogger), [list:plots-waterquality](/tag/list:plots-waterquality), [brasil](/tag/brasil), [redeinfoamazonia](/tag/redeinfoamazonia), [maedagua](/tag/maedagua), [drinking-water](/tag/drinking-water), [data-logging](/tag/data-logging), [method](/tag/method), [chemicals](/tag/chemicals), [parent:data-logging](/tag/parent:data-logging)
 
 ----
 

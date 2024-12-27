@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/10-28-2015/using-a-cellular-modem-to-post-directly-to-the-web-track-location.md
 nid: 12340
 uid: 43651
-
 cids: 12789
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/180/original/adafruit_products_1963_demo_iso_ORIG.jpg)
 
 # Using a Cellular Modem to post directly to the web & track location 
 
-by [donblair](../../../profile/donblair) | October 28, 2015 17:03
+by [donblair](/profile/donblair) | October 28, 2015 17:03
 
-October 28, 2015 17:03 | Tags: [riffle](../tag/riffle)
+October 28, 2015 17:03 | Tags: [riffle](/tag/riffle)
 
 ----
 

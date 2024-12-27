@@ -6,14 +6,14 @@ author: warren
 path: /wiki/thriving-earth-exchange.md
 nid: 21525
 uid: 1
-
+cids: 
 ---
 
 # Thriving Earth Exchange
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-November 18, 2019 15:43 | Tags: [thriving-earth](../tag/thriving-earth)
+November 18, 2019 15:43 | Tags: [thriving-earth](/tag/thriving-earth)
 
 ----
 

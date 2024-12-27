@@ -6,18 +6,16 @@ author: ektopyrotic
 path: /notes/ektopyrotic/06-04-2020/ndvi-drone-mapping-research.md
 nid: 23777
 uid: 699450
-
 cids: 27074,27679,27680,27705,27725,28220,28297,28804,29170,29253,31135
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/643/original/InfraNDVIPano.png)
 
 # NDVI Drone Mapping Research
 
-by [ektopyrotic](../../../profile/ektopyrotic) | June 04, 2020 19:16
+by [ektopyrotic](/profile/ektopyrotic) | June 04, 2020 19:16
 
-June 04, 2020 19:16 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [agriculture](../tag/agriculture), [remote](../tag/remote), [software](../tag/software), [sensing](../tag/sensing), [panorama](../tag/panorama), [drone](../tag/drone), [monitoring](../tag/monitoring), [code](../tag/code), [python](../tag/python), [stitching](../tag/stitching), [ecosystem](../tag/ecosystem), [programming](../tag/programming), [first-time-poster](../tag/first-time-poster), [geography](../tag/geography), [zoom:6](../tag/zoom:6), [lat:53.349805](../tag/lat:53.349805), [lon:-6.260309](../tag/lon:-6.260309), [geomatics](../tag/geomatics), [esp32](../tag/esp32)
+June 04, 2020 19:16 | Tags: [ndvi](/tag/ndvi), [infrared](/tag/infrared), [agriculture](/tag/agriculture), [remote](/tag/remote), [software](/tag/software), [sensing](/tag/sensing), [panorama](/tag/panorama), [drone](/tag/drone), [monitoring](/tag/monitoring), [code](/tag/code), [python](/tag/python), [stitching](/tag/stitching), [ecosystem](/tag/ecosystem), [programming](/tag/programming), [first-time-poster](/tag/first-time-poster), [geography](/tag/geography), [zoom:6](/tag/zoom:6), [lat:53.349805](/tag/lat:53.349805), [lon:-6.260309](/tag/lon:-6.260309), [geomatics](/tag/geomatics), [esp32](/tag/esp32)
 
 ----
 

@@ -6,14 +6,14 @@ author: bhamster
 path: /wiki/sandbox-about-tags.md
 nid: 31042
 uid: 664477
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/739/original/Tags_visualization_2.png)
 
 # sandbox-about-tags
 
-by [bhamster](../profile/bhamster)
+by [bhamster](/profile/bhamster)
 
 June 09, 2022 22:14 | Tags: 
 

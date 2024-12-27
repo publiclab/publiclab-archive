@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/10-18-2012/flightstatscom-passenger-pigeon.md
 nid: 4483
 uid: 4
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-10-18 at 5.20.28 PM.png)
 
 # Flightstats.com for Passenger Pigeon
 
-by [mathew](../../../profile/mathew) | October 19, 2012 00:22
+by [mathew](/profile/mathew) | October 19, 2012 00:22
 
-October 19, 2012 00:22 | Tags: [mapknitter](../tag/mapknitter), [passenger-pigeon](../tag/passenger-pigeon), [flightstats](../tag/flightstats), [activity:passenger-pigeon](../tag/activity:passenger-pigeon)
+October 19, 2012 00:22 | Tags: [mapknitter](/tag/mapknitter), [passenger-pigeon](/tag/passenger-pigeon), [flightstats](/tag/flightstats), [activity:passenger-pigeon](/tag/activity:passenger-pigeon)
 
 ----
 

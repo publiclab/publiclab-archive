@@ -6,18 +6,16 @@ author: nedhorning
 path: /notes/nedhorning/10-25-2013/calibrating-diy-nir-cameras-part-3.md
 nid: 9550
 uid: 133
-
 cids: 7359,7362,7363,7364,7365,7367,7368,7369,7371,7375,7377,7378,7380,7733,7734,7735,7738
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/055/original/A495Vis_0.JPG)
 
 # Calibrating DIY NIR cameras - part 3
 
-by [nedhorning](../../../profile/nedhorning) | October 25, 2013 20:41
+by [nedhorning](/profile/nedhorning) | October 25, 2013 20:41
 
-October 25, 2013 20:41 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [calibration](../tag/calibration), [infrared](../tag/infrared), [infrablue](../tag/infrablue), [calibrate-ndvi](../tag/calibrate-ndvi), [ndvi-calibrate](../tag/ndvi-calibrate), [multispectral-imaging](../tag/multispectral-imaging)
+October 25, 2013 20:41 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [calibration](/tag/calibration), [infrared](/tag/infrared), [infrablue](/tag/infrablue), [calibrate-ndvi](/tag/calibrate-ndvi), [ndvi-calibrate](/tag/ndvi-calibrate), [multispectral-imaging](/tag/multispectral-imaging)
 
 ----
 

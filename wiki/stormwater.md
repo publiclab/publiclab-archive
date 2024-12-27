@@ -6,16 +6,16 @@ author: stevie
 path: /wiki/stormwater.md
 nid: 13798
 uid: 422561
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/465/original/Screen_Shot_2020-05-20_at_9.45.16_AM.png)
 
 # Stormwater Monitoring
 
-by [liz](../profile/liz), [bhamster](../profile/bhamster), [joyofsoy](../profile/joyofsoy), [warren](../profile/warren), [stevie](../profile/stevie), [MarionMcMahon](../profile/MarionMcMahon)
+by [liz](/profile/liz), [bhamster](/profile/bhamster), [joyofsoy](/profile/joyofsoy), [warren](/profile/warren), [stevie](/profile/stevie), [MarionMcMahon](/profile/MarionMcMahon)
 
-December 20, 2016 17:35 | Tags: [urban-planning](../tag/urban-planning), [water-monitoring](../tag/water-monitoring), [tool](../tag/tool), [flood](../tag/flood), [stormwater](../tag/stormwater), [land-use](../tag/land-use), [depth](../tag/depth), [industry](../tag/industry), [flooding](../tag/flooding), [method](../tag/method), [land-change](../tag/land-change), [activities:stormwater](../tag/activities:stormwater)
+December 20, 2016 17:35 | Tags: [urban-planning](/tag/urban-planning), [water-monitoring](/tag/water-monitoring), [tool](/tag/tool), [flood](/tag/flood), [stormwater](/tag/stormwater), [land-use](/tag/land-use), [depth](/tag/depth), [industry](/tag/industry), [flooding](/tag/flooding), [method](/tag/method), [land-change](/tag/land-change), [activities:stormwater](/tag/activities:stormwater)
 
 ----
 
@@ -44,17 +44,17 @@ This page was created to compile some activities, questions, updates and project
 
 ## Stormwater Activities 
 
-[grid:activity:stormwater](../../tag/grid:activity:stormwater)
+[grid:activity:stormwater](/tag/grid:activity:stormwater)
 
 ### Frequently Asked Questions
 
-[stormwater](../../tag/question:stormwater)
+[stormwater](/tag/question:stormwater)
 
 ****
 
 ## Updates
 
-[stormwater!question:stormwater](../../tag/stormwater!question:stormwater)
+[stormwater!question:stormwater](/tag/stormwater!question:stormwater)
 
 ****
 

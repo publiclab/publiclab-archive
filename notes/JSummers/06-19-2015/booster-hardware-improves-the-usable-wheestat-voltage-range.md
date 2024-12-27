@@ -6,18 +6,16 @@ author: JSummers
 path: /notes/JSummers/06-19-2015/booster-hardware-improves-the-usable-wheestat-voltage-range.md
 nid: 11989
 uid: 304279
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/208/original/ASV_Pb_Analysis.png)
 
 # Booster hardware improves the usable WheeStat voltage range.
 
-by [JSummers](../../../profile/JSummers) | June 19, 2015 11:48
+by [JSummers](/profile/JSummers) | June 19, 2015 11:48
 
-June 19, 2015 11:48 | Tags: [wheestat](../tag/wheestat)
+June 19, 2015 11:48 | Tags: [wheestat](/tag/wheestat)
 
 ----
 

@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/12-06-2017/embed-a-q-a-system-on-another-website.md
 nid: 15325
 uid: 1
-
 cids: 
-
 ---
 
 # Embed a Q&A system on another website
 
-by [warren](../../../profile/warren) | December 06, 2017 21:56
+by [warren](/profile/warren) | December 06, 2017 21:56
 
-December 06, 2017 21:56 | Tags: [question](../tag/question), [activities](../tag/activities), [activity:activities](../tag/activity:activities), [activity:questions](../tag/activity:questions)
+December 06, 2017 21:56 | Tags: [question](/tag/question), [activities](/tag/activities), [activity:activities](/tag/activity:activities), [activity:questions](/tag/activity:questions)
 
 ----
 
@@ -27,7 +25,7 @@ Our Q&A system is based at [https://publiclab.org/questions](https://publiclab.o
 
 These each have a prompt to ask questions about this topic, like this:
 
-\[wind\](../../tag/question:wind\)
+\[wind\](/tag/question:wind\)
 
 These can also be **embedded on other websites** off of [PublicLab.org](http://PublicLab.org), as in this example:
 

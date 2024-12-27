@@ -6,18 +6,16 @@ author: kanarinka
 path: /notes/kanarinka/06-09-2014/the-neighborhood-creek-expedition.md
 nid: 10542
 uid: 994
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/569/original/neighborhoodcreek2014-1.jpg)
 
 # The Neighborhood Creek Expedition
 
-by [kanarinka](../../../profile/kanarinka) | June 09, 2014 11:48
+by [kanarinka](/profile/kanarinka) | June 09, 2014 11:48
 
-June 09, 2014 11:48 | Tags: [boston](../tag/boston), [water-sensing](../tag/water-sensing), [massachusetts](../tag/massachusetts), [water-quality](../tag/water-quality), [water](../tag/water), [northeast](../tag/northeast), [waltham](../tag/waltham)
+June 09, 2014 11:48 | Tags: [boston](/tag/boston), [water-sensing](/tag/water-sensing), [massachusetts](/tag/massachusetts), [water-quality](/tag/water-quality), [water](/tag/water), [northeast](/tag/northeast), [waltham](/tag/waltham)
 
 ----
 

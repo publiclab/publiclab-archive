@@ -6,12 +6,12 @@ author: warren
 path: /wiki/gardening.md
 nid: 649
 uid: 1
-
+cids: 
 ---
 
 # Gardening
 
-by [liz](../profile/liz), [gonzoearth](../profile/gonzoearth), [sara](../profile/sara), [Shannon](../profile/Shannon), [warren](../profile/warren)
+by [liz](/profile/liz), [gonzoearth](/profile/gonzoearth), [sara](/profile/sara), [Shannon](/profile/Shannon), [warren](/profile/warren)
 
 December 19, 2011 19:50 | Tags: 
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/5-13-2011/usda-farm-services-agency-imagery-oil-barataria-bay.md
 nid: 235
 uid: 1
-
 cids: 245
-
 ---
 
 ![](https://publiclab.org/sites/default/files/oil_in_GE_Barataria_0.JPG)
 
 # USDA Farm Services Agency imagery of oil in Barataria Bay
 
-by [warren](../../../profile/warren) | May 13, 2011 16:28
+by [warren](/profile/warren) | May 13, 2011 16:28
 
-May 13, 2011 16:28 | Tags: [gulf-coast](../tag/gulf-coast), [barataria-bay](../tag/barataria-bay), [louisiana](../tag/louisiana), [usda](../tag/usda)
+May 13, 2011 16:28 | Tags: [gulf-coast](/tag/gulf-coast), [barataria-bay](/tag/barataria-bay), [louisiana](/tag/louisiana), [usda](/tag/usda)
 
 ----
 

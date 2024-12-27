@@ -6,18 +6,16 @@ author: ErikHanley11
 path: /notes/ErikHanley11/04-12-2018/copper-strip-test-preparation-using-solvents.md
 nid: 16135
 uid: 444638
-
 cids: 19511
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/565/original/20180327_150338.jpg)
 
 # Copper Strip Test Preparation Using Solvents
 
-by [ErikHanley11](../../../profile/ErikHanley11) | April 12, 2018 00:23
+by [ErikHanley11](/profile/ErikHanley11) | April 12, 2018 00:23
 
-April 12, 2018 00:23 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-copper-pipe](../tag/h2s-copper-pipe), [activity:hydrogen-sulfide](../tag/activity:hydrogen-sulfide), [activity:h2s-copper-pipe](../tag/activity:h2s-copper-pipe), [copper-sheets](../tag/copper-sheets)
+April 12, 2018 00:23 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [h2s-copper-pipe](/tag/h2s-copper-pipe), [activity:hydrogen-sulfide](/tag/activity:hydrogen-sulfide), [activity:h2s-copper-pipe](/tag/activity:h2s-copper-pipe), [copper-sheets](/tag/copper-sheets)
 
 ----
 

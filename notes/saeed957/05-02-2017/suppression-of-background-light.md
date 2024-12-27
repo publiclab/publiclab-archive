@@ -6,16 +6,14 @@ author: saeed957
 path: /notes/saeed957/05-02-2017/suppression-of-background-light.md
 nid: 14156
 uid: 504013
-
 cids: 16682,16687,16692
-
 ---
 
 # Suppression of background light
 
-by [saeed957](../../../profile/saeed957) | May 02, 2017 07:32
+by [saeed957](/profile/saeed957) | May 02, 2017 07:32
 
-May 02, 2017 07:32 | Tags: [spectrometry](../tag/spectrometry), [spectral-workbench](../tag/spectral-workbench), [light](../tag/light), [question:spectral-workbench](../tag/question:spectral-workbench), [background](../tag/background), [suppression](../tag/suppression)
+May 02, 2017 07:32 | Tags: [spectrometry](/tag/spectrometry), [spectral-workbench](/tag/spectral-workbench), [light](/tag/light), [question:spectral-workbench](/tag/question:spectral-workbench), [background](/tag/background), [suppression](/tag/suppression)
 
 ----
 

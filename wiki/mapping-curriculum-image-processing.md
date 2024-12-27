@@ -6,14 +6,14 @@ author: warren
 path: /wiki/mapping-curriculum-image-processing.md
 nid: 82
 uid: 1
-
+cids: 
 ---
 
 # Mapping Curriculum Image Processing
 
-by [gonzoearth](../profile/gonzoearth), [johnsmith2167](../profile/johnsmith2167), [warren](../profile/warren)
+by [gonzoearth](/profile/gonzoearth), [johnsmith2167](/profile/johnsmith2167), [warren](/profile/warren)
 
-February 10, 2011 15:36 | Tags: [education](../tag/education), [curriculum](../tag/curriculum), [map-curriculum](../tag/map-curriculum)
+February 10, 2011 15:36 | Tags: [education](/tag/education), [curriculum](/tag/curriculum), [map-curriculum](/tag/map-curriculum)
 
 ----
 

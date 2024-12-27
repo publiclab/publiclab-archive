@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/03-06-2014/hudson-riverkeeper-teaches-how-to-report-gowanus-pollution.md
 nid: 10113
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/157/original/photo.JPG)
 
 # Hudson Riverkeeper teaches how to report Gowanus pollution
 
-by [liz](../../../profile/liz) | March 06, 2014 15:58
+by [liz](/profile/liz) | March 06, 2014 15:58
 
-March 06, 2014 15:58 | Tags: [new-york-city](../tag/new-york-city), [gowanus-canal](../tag/gowanus-canal), [watchdog](../tag/watchdog)
+March 06, 2014 15:58 | Tags: [new-york-city](/tag/new-york-city), [gowanus-canal](/tag/gowanus-canal), [watchdog](/tag/watchdog)
 
 ----
 

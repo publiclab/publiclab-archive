@@ -6,18 +6,16 @@ author: Bronwen
 path: /notes/bronwen/12-06-2017/develop-community-kits-with-public-lab.md
 nid: 15318
 uid: 237313
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/820/original/publabkits.jpg)
 
 # Develop Community Kits with Public Lab!
 
-by [Bronwen](../../../profile/Bronwen) | December 06, 2017 15:03
+by [Bronwen](/profile/Bronwen) | December 06, 2017 15:03
 
-December 06, 2017 15:03 | Tags: [open-hardware](../tag/open-hardware), [kits](../tag/kits), [store](../tag/store), [kits-initiative](../tag/kits-initiative), [open_source_hardware](../tag/open_source_hardware), [open-open-hardware](../tag/open-open-hardware), [prototyping-kits](../tag/prototyping-kits)
+December 06, 2017 15:03 | Tags: [open-hardware](/tag/open-hardware), [kits](/tag/kits), [store](/tag/store), [kits-initiative](/tag/kits-initiative), [open_source_hardware](/tag/open_source_hardware), [open-open-hardware](/tag/open-open-hardware), [prototyping-kits](/tag/prototyping-kits)
 
 ----
 

@@ -6,16 +6,14 @@ author: Dave-O
 path: /notes/Dave-O/10-16-2017/building-a-fusor-need-help-with-plasma-position.md
 nid: 15056
 uid: 502943
-
 cids: 
-
 ---
 
 # Building a Fusor. Need help with plasma position
 
-by [Dave-O](../../../profile/Dave-O) | October 16, 2017 19:00
+by [Dave-O](/profile/Dave-O) | October 16, 2017 19:00
 
-October 16, 2017 19:00 | Tags: [health](../tag/health), [radiation](../tag/radiation), [pressure](../tag/pressure), [cadmium](../tag/cadmium), [pump](../tag/pump), [physics](../tag/physics), [vacuum](../tag/vacuum), [voltage](../tag/voltage), [thermocouple](../tag/thermocouple), [gamma](../tag/gamma), [fusion](../tag/fusion), [fusor](../tag/fusor), [plasma](../tag/plasma), [gauge](../tag/gauge), [deuterium](../tag/deuterium), [resistors](../tag/resistors), [ohm](../tag/ohm), [resistor](../tag/resistor), [rays](../tag/rays), [geiger](../tag/geiger), [counter](../tag/counter), [dosimetry](../tag/dosimetry), [diffusion](../tag/diffusion), [kv](../tag/kv), [microns](../tag/microns), [irradiator](../tag/irradiator)
+October 16, 2017 19:00 | Tags: [health](/tag/health), [radiation](/tag/radiation), [pressure](/tag/pressure), [cadmium](/tag/cadmium), [pump](/tag/pump), [physics](/tag/physics), [vacuum](/tag/vacuum), [voltage](/tag/voltage), [thermocouple](/tag/thermocouple), [gamma](/tag/gamma), [fusion](/tag/fusion), [fusor](/tag/fusor), [plasma](/tag/plasma), [gauge](/tag/gauge), [deuterium](/tag/deuterium), [resistors](/tag/resistors), [ohm](/tag/ohm), [resistor](/tag/resistor), [rays](/tag/rays), [geiger](/tag/geiger), [counter](/tag/counter), [dosimetry](/tag/dosimetry), [diffusion](/tag/diffusion), [kv](/tag/kv), [microns](/tag/microns), [irradiator](/tag/irradiator)
 
 ----
 

@@ -6,18 +6,16 @@ author: gonzoearth
 path: /notes/gonzoearth/05-03-2013/san-francisco-mapping-meetup-saturday-may-4th.md
 nid: 7224
 uid: 12
-
 cids: 8824
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/163/original/IMG_7404crpd.jpg)
 
 # San Francisco Mapping Meetup Saturday May 4th
 
-by [gonzoearth](../../../profile/gonzoearth) | May 03, 2013 18:16
+by [gonzoearth](/profile/gonzoearth) | May 03, 2013 18:16
 
-May 03, 2013 18:16 | Tags: [meetup](../tag/meetup), [norcal](../tag/norcal), [california](../tag/california), [event](../tag/event)
+May 03, 2013 18:16 | Tags: [meetup](/tag/meetup), [norcal](/tag/norcal), [california](/tag/california), [event](/tag/event)
 
 ----
 

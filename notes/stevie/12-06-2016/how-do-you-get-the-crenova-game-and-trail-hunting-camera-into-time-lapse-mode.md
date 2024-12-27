@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/12-06-2016/how-do-you-get-the-crenova-game-and-trail-hunting-camera-into-time-lapse-mode.md
 nid: 13753
 uid: 422561
-
 cids: 15937,15938,22369,22421,22527
-
 ---
 
 # How do you get the Crenova Game and Trail Hunting Camera into time-lapse mode? 
 
-by [stevie](../../../profile/stevie) | December 06, 2016 22:18
+by [stevie](/profile/stevie) | December 06, 2016 22:18
 
-December 06, 2016 22:18 | Tags: [answered](../tag/answered), [question:question](../tag/question:question), [question:timelapse](../tag/question:timelapse)
+December 06, 2016 22:18 | Tags: [answered](/tag/answered), [question:question](/tag/question:question), [question:timelapse](/tag/question:timelapse)
 
 ----
 

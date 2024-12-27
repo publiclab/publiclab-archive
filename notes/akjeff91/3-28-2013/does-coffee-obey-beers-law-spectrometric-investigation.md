@@ -6,16 +6,14 @@ author: akjeff91
 path: /notes/akjeff91/3-28-2013/does-coffee-obey-beers-law-spectrometric-investigation.md
 nid: 6587
 uid: 51885
-
 cids: 4266,4271,4275,4291
-
 ---
 
 # Does Coffee Obey Beer's Law? A Spectrometric Investigation
 
-by [akjeff91](../../../profile/akjeff91) | March 28, 2013 20:17
+by [akjeff91](/profile/akjeff91) | March 28, 2013 20:17
 
-March 28, 2013 20:17 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [centre_college](../tag/centre_college), [beers-law](../tag/beers-law), [coffee](../tag/coffee), [quantitative](../tag/quantitative)
+March 28, 2013 20:17 | Tags: [spectrometer](/tag/spectrometer), [spectralworkbench](/tag/spectralworkbench), [centre_college](/tag/centre_college), [beers-law](/tag/beers-law), [coffee](/tag/coffee), [quantitative](/tag/quantitative)
 
 ----
 

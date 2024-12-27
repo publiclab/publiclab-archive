@@ -6,14 +6,14 @@ author: mathew
 path: /wiki/passive-pm-imaging.md
 nid: 12649
 uid: 4
-
+cids: 
 ---
 
 # passive-pm-imaging
 
-by [stevie](../profile/stevie), [mathew](../profile/mathew)
+by [stevie](/profile/stevie), [mathew](/profile/mathew)
 
-February 03, 2016 23:22 | Tags: [parent:passive-pm](../tag/parent:passive-pm)
+February 03, 2016 23:22 | Tags: [parent:passive-pm](/tag/parent:passive-pm)
 
 ----
 

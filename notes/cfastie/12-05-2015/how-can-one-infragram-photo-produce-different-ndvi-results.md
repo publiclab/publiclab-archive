@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/12-05-2015/how-can-one-infragram-photo-produce-different-ndvi-results.md
 nid: 12482
 uid: 554
-
 cids: 13044,13050,13052,13063,13065,13067,17557
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/218/original/InfragramSS.JPG)
 
 # How can one Infragram photo produce different NDVI results?
 
-by [cfastie](../../../profile/cfastie) | December 05, 2015 15:59
+by [cfastie](/profile/cfastie) | December 05, 2015 15:59
 
-December 05, 2015 15:59 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [question:infragram](../tag/question:infragram)
+December 05, 2015 15:59 | Tags: [ndvi](/tag/ndvi), [infrared](/tag/infrared), [infragram](/tag/infragram), [question:infragram](/tag/question:infragram)
 
 ----
 

@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/05-20-2014/ifarm-tech-talks.md
 nid: 10485
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/299/original/iFarmSat2688.jpg)
 
 # iFarm tech talks
 
-by [cfastie](../../../profile/cfastie) | May 20, 2014 02:13
+by [cfastie](/profile/cfastie) | May 20, 2014 02:13
 
-May 20, 2014 02:13 | Tags: [remote-sensing](../tag/remote-sensing), [boston](../tag/boston), [new-hampshire](../tag/new-hampshire), [farmhack](../tag/farmhack), [uav](../tag/uav), [agriculture](../tag/agriculture), [farm](../tag/farm), [event](../tag/event), [garden](../tag/garden), [ifarm](../tag/ifarm), [crops](../tag/crops), [northeast](../tag/northeast), [uas](../tag/uas), [ifarm2014](../tag/ifarm2014), [aerial-imaging](../tag/aerial-imaging), [sensor-networks](../tag/sensor-networks), [internet-of-things](../tag/internet-of-things), [response:10481](../tag/response:10481)
+May 20, 2014 02:13 | Tags: [remote-sensing](/tag/remote-sensing), [boston](/tag/boston), [new-hampshire](/tag/new-hampshire), [farmhack](/tag/farmhack), [uav](/tag/uav), [agriculture](/tag/agriculture), [farm](/tag/farm), [event](/tag/event), [garden](/tag/garden), [ifarm](/tag/ifarm), [crops](/tag/crops), [northeast](/tag/northeast), [uas](/tag/uas), [ifarm2014](/tag/ifarm2014), [aerial-imaging](/tag/aerial-imaging), [sensor-networks](/tag/sensor-networks), [internet-of-things](/tag/internet-of-things), [response:10481](/tag/response:10481)
 
 ----
 

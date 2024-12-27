@@ -6,16 +6,14 @@ author: tahnok
 path: /notes/tahnok/04-25-2019/can-the-link-to-the-kap-kite-comparison-table-be-updated.md
 nid: 19158
 uid: 586163
-
 cids: 23979,23980
-
 ---
 
 # Can the link to the KAP Kite Comparison table be updated?
 
-by [tahnok](../../../profile/tahnok) | April 25, 2019 00:47
+by [tahnok](/profile/tahnok) | April 25, 2019 00:47
 
-April 25, 2019 00:47 | Tags: [kite-mapping](../tag/kite-mapping), [diy-kite](../tag/diy-kite), [kit](../tag/kit), [kite-kit](../tag/kite-kit), [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster)
+April 25, 2019 00:47 | Tags: [kite-mapping](/tag/kite-mapping), [diy-kite](/tag/diy-kite), [kit](/tag/kit), [kite-kit](/tag/kite-kit), [question:general](/tag/question:general), [first-time-poster](/tag/first-time-poster)
 
 ----
 

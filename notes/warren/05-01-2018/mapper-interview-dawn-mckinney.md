@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/05-01-2018/mapper-interview-dawn-mckinney.md
 nid: 143
 uid: 1
-
 cids: 
-
 ---
 
 # Mapper interview: Dawn McKinney
 
-by [warren](../../../profile/warren) | March 09, 2011 23:50
+by [warren](/profile/warren) | March 09, 2011 23:50
 
-March 09, 2011 23:50 | Tags: [gulf-coast](../tag/gulf-coast), [interview](../tag/interview), [rochellecollier35](../tag/rochellecollier35), [micheleclemons](../tag/micheleclemons), [alabama](../tag/alabama)
+March 09, 2011 23:50 | Tags: [gulf-coast](/tag/gulf-coast), [interview](/tag/interview), [rochellecollier35](/tag/rochellecollier35), [micheleclemons](/tag/micheleclemons), [alabama](/tag/alabama)
 
 ----
 

@@ -6,18 +6,16 @@ author: laurenrae
 path: /notes/laurenrae/11-24-2014/don-explains-the-theory-behind-the-depth-sensor-for-the-riffle.md
 nid: 11397
 uid: 431676
-
 cids: 10840,10843,10846,10847,11810
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/101/original/IMG_4051.JPG)
 
 # Don explains the theory behind the depth sensor for the Riffle
 
-by [laurenrae](../../../profile/laurenrae) | November 24, 2014 15:24
+by [laurenrae](/profile/laurenrae) | November 24, 2014 15:24
 
-November 24, 2014 15:24 | Tags: [gulf-coast](../tag/gulf-coast), [water-sensing](../tag/water-sensing), [water-quality-monitoring](../tag/water-quality-monitoring), [sensors](../tag/sensors), [riffle](../tag/riffle), [coqui](../tag/coqui), [depth](../tag/depth), [water-depth](../tag/water-depth)
+November 24, 2014 15:24 | Tags: [gulf-coast](/tag/gulf-coast), [water-sensing](/tag/water-sensing), [water-quality-monitoring](/tag/water-quality-monitoring), [sensors](/tag/sensors), [riffle](/tag/riffle), [coqui](/tag/coqui), [depth](/tag/depth), [water-depth](/tag/water-depth)
 
 ----
 

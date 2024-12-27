@@ -6,18 +6,16 @@ author: JSummers
 path: /notes/JSummers/11-07-2014/diy-cold-brewed-coffee-maker.md
 nid: 11325
 uid: 304279
-
 cids: 10709,10710,10711,10713,10720,14036
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/759/original/Picture_37.jpg)
 
 # DIY cold brewed coffee maker
 
-by [JSummers](../../../profile/JSummers) | November 07, 2014 21:41
+by [JSummers](/profile/JSummers) | November 07, 2014 21:41
 
-November 07, 2014 21:41 | Tags: [coffee](../tag/coffee), [coldbrew](../tag/coldbrew)
+November 07, 2014 21:41 | Tags: [coffee](/tag/coffee), [coldbrew](/tag/coldbrew)
 
 ----
 

@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/10-07-2015/nys-dec-oil-samples.md
 nid: 12277
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/843/original/NY-DEC-oil-samples.jpg)
 
 # NYS DEC Oil Samples
 
-by [liz](../../../profile/liz) | October 07, 2015 16:45
+by [liz](/profile/liz) | October 07, 2015 16:45
 
-October 07, 2015 16:45 | Tags: [new-york-city](../tag/new-york-city), [oil](../tag/oil), [oil-testing-kit](../tag/oil-testing-kit), [northeast](../tag/northeast), [ny](../tag/ny), [newtown-creek-alliance](../tag/newtown-creek-alliance), [enforcement](../tag/enforcement), [oil-and-gas](../tag/oil-and-gas), [nysdec](../tag/nysdec)
+October 07, 2015 16:45 | Tags: [new-york-city](/tag/new-york-city), [oil](/tag/oil), [oil-testing-kit](/tag/oil-testing-kit), [northeast](/tag/northeast), [ny](/tag/ny), [newtown-creek-alliance](/tag/newtown-creek-alliance), [enforcement](/tag/enforcement), [oil-and-gas](/tag/oil-and-gas), [nysdec](/tag/nysdec)
 
 ----
 

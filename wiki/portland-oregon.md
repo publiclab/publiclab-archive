@@ -6,16 +6,16 @@ author: mathew
 path: /wiki/portland-oregon.md
 nid: 83
 uid: 4
-
+cids: 
 ---
 
 ![](https://publiclab.org/sites/default/files/DSC_2404.JPG)
 
 # Portland, Oregon
 
-by [warren](../profile/warren), [mathew](../profile/mathew)
+by [warren](/profile/warren), [mathew](/profile/mathew)
 
-February 14, 2011 07:53 | Tags: [chapter](../tag/chapter)
+February 14, 2011 07:53 | Tags: [chapter](/tag/chapter)
 
 ----
 

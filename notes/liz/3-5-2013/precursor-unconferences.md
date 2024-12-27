@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/3-5-2013/precursor-unconferences.md
 nid: 6209
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/open-space-technology.jpg)
 
 # precursor to "unconferences"
 
-by [liz](../../../profile/liz) | March 05, 2013 16:55
+by [liz](/profile/liz) | March 05, 2013 16:55
 
-March 05, 2013 16:55 | Tags: [barnraising](../tag/barnraising), [5bf](../tag/5bf), [five-borough-farm](../tag/five-borough-farm), [open-space-technology](../tag/open-space-technology)
+March 05, 2013 16:55 | Tags: [barnraising](/tag/barnraising), [5bf](/tag/5bf), [five-borough-farm](/tag/five-borough-farm), [open-space-technology](/tag/open-space-technology)
 
 ----
 

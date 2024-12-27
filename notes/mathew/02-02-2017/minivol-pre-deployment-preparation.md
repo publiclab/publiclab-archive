@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/02-02-2017/minivol-pre-deployment-preparation.md
 nid: 13898
 uid: 4
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/421/original/20170109_144838.jpg)
 
 # MiniVol pre-deployment preparation
 
-by [mathew](../../../profile/mathew) | February 02, 2017 20:09
+by [mathew](/profile/mathew) | February 02, 2017 20:09
 
-February 02, 2017 20:09 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [pm-monitoring](../tag/pm-monitoring), [minivol](../tag/minivol), [activity:minivol](../tag/activity:minivol), [prepping](../tag/prepping), [1031710](../tag/1031710), [600-007](../tag/600-007)
+February 02, 2017 20:09 | Tags: [air-quality](/tag/air-quality), [dust](/tag/dust), [silica](/tag/silica), [pm](/tag/pm), [particle-sensing](/tag/particle-sensing), [pm-monitoring](/tag/pm-monitoring), [minivol](/tag/minivol), [activity:minivol](/tag/activity:minivol), [prepping](/tag/prepping), [1031710](/tag/1031710), [600-007](/tag/600-007)
 
 ----
 

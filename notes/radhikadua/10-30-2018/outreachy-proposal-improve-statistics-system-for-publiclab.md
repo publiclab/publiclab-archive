@@ -6,16 +6,14 @@ author: radhikadua
 path: /notes/radhikadua/10-30-2018/outreachy-proposal-improve-statistics-system-for-publiclab.md
 nid: 17427
 uid: 556474
-
 cids: 21043,21054,21058,21078,21080,21094,21113,21118,21122,21128,21135,21136,21137,21138,21144,21145,21152,21331
-
 ---
 
 # Outreachy proposal: Improve statistics system for publiclab
 
-by [radhikadua](../../../profile/radhikadua) | October 30, 2018 00:59
+by [radhikadua](/profile/radhikadua) | October 30, 2018 00:59
 
-October 30, 2018 00:59 | Tags: [software](../tag/software), [soc](../tag/soc), [soc-2018](../tag/soc-2018), [rgsoc-2018](../tag/rgsoc-2018), [outreachy](../tag/outreachy), [outreachy-2018](../tag/outreachy-2018), [outreachy-2018-proposals](../tag/outreachy-2018-proposals), [response:17359](../tag/response:17359), [first-time-poster](../tag/first-time-poster)
+October 30, 2018 00:59 | Tags: [software](/tag/software), [soc](/tag/soc), [soc-2018](/tag/soc-2018), [rgsoc-2018](/tag/rgsoc-2018), [outreachy](/tag/outreachy), [outreachy-2018](/tag/outreachy-2018), [outreachy-2018-proposals](/tag/outreachy-2018-proposals), [response:17359](/tag/response:17359), [first-time-poster](/tag/first-time-poster)
 
 ----
 

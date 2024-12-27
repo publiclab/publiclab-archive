@@ -6,18 +6,16 @@ author: pdhixenbaugh
 path: /notes/pdhixenbaugh/08-20-2016/planning-for-a-new-riffle-conductivity-circuit.md
 nid: 13374
 uid: 459085
-
 cids: 15210,16681,16696,16789,16790
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/705/original/images.jpg)
 
 # Planning for a new Riffle conductivity circuit
 
-by [pdhixenbaugh](../../../profile/pdhixenbaugh) | August 20, 2016 21:32
+by [pdhixenbaugh](/profile/pdhixenbaugh) | August 20, 2016 21:32
 
-August 20, 2016 21:32 | Tags: [conductivity](../tag/conductivity), [riffle](../tag/riffle)
+August 20, 2016 21:32 | Tags: [conductivity](/tag/conductivity), [riffle](/tag/riffle)
 
 ----
 

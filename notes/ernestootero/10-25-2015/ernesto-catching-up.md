@@ -6,18 +6,16 @@ author: ernestootero
 path: /notes/ernestootero/10-25-2015/ernesto-catching-up.md
 nid: 12332
 uid: 447002
-
 cids: 12860
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/127/original/20150930_102630.jpg)
 
 # Ernesto. Catching up.
 
-by [ernestootero](../../../profile/ernestootero) | October 25, 2015 01:52
+by [ernestootero](/profile/ernestootero) | October 25, 2015 01:52
 
-October 25, 2015 01:52 | Tags: [oil](../tag/oil), [kit](../tag/kit), [testing](../tag/testing), [first-time-poster](../tag/first-time-poster)
+October 25, 2015 01:52 | Tags: [oil](/tag/oil), [kit](/tag/kit), [testing](/tag/testing), [first-time-poster](/tag/first-time-poster)
 
 ----
 

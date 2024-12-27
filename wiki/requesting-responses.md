@@ -6,14 +6,14 @@ author: warren
 path: /wiki/requesting-responses.md
 nid: 12750
 uid: 1
-
+cids: 
 ---
 
 # Requesting responses
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-February 24, 2016 20:16 | Tags: [website](../tag/website), [education](../tag/education), [list:plots-education](../tag/list:plots-education), [parent:education](../tag/parent:education)
+February 24, 2016 20:16 | Tags: [website](/tag/website), [education](/tag/education), [list:plots-education](/tag/list:plots-education), [parent:education](/tag/parent:education)
 
 ----
 
@@ -35,5 +35,5 @@ To post a note that requests responses, click the following button. The "Post a 
 
 See examples of this here:
 
-[seeks:responses](../../tag/seeks:responses)
+[seeks:responses](/tag/seeks:responses)
 

@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/4-4-2012/grassroots-mapping-tshirts.md
 nid: 1620
 uid: 1
-
 cids: 616
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_3422.JPG)
 
 # Grassroots Mapping Tshirts
 
-by [warren](../../../profile/warren) | April 05, 2012 03:01
+by [warren](/profile/warren) | April 05, 2012 03:01
 
-April 05, 2012 03:01 | Tags: [balloon-mapping](../tag/balloon-mapping)
+April 05, 2012 03:01 | Tags: [balloon-mapping](/tag/balloon-mapping)
 
 ----
 

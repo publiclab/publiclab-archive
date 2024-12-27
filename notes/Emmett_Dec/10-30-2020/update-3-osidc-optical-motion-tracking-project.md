@@ -6,18 +6,16 @@ author: Emmett_Dec
 path: /notes/Emmett_Dec/10-30-2020/update-3-osidc-optical-motion-tracking-project.md
 nid: 24877
 uid: 716411
-
 cids: 27582,27628
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/396/original/images.png)
 
 # Update #3: OSIDC Optical Motion Tracking Project
 
-by [Emmett_Dec](../../../profile/Emmett_Dec) | October 30, 2020 14:07
+by [Emmett_Dec](/profile/Emmett_Dec) | October 30, 2020 14:07
 
-October 30, 2020 14:07 | Tags: [rpi](../tag/rpi), [image-analysis](../tag/image-analysis), [raspberry-pi-cameras](../tag/raspberry-pi-cameras), [image-gathering](../tag/image-gathering), [zoom:6](../tag/zoom:6), [lat:42.386759](../tag/lat:42.386759), [lon:-72.530051](../tag/lon:-72.530051)
+October 30, 2020 14:07 | Tags: [rpi](/tag/rpi), [image-analysis](/tag/image-analysis), [raspberry-pi-cameras](/tag/raspberry-pi-cameras), [image-gathering](/tag/image-gathering), [zoom:6](/tag/zoom:6), [lat:42.386759](/tag/lat:42.386759), [lon:-72.530051](/tag/lon:-72.530051)
 
 ----
 

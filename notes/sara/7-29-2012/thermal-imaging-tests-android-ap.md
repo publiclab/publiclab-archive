@@ -6,18 +6,16 @@ author: sara
 path: /notes/sara/7-29-2012/thermal-imaging-tests-android-ap.md
 nid: 3012
 uid: 8
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/ThermalImageandroidAp2.jpeg)
 
 # Thermal Imaging Tests with Android Ap
 
-by [sara](../../../profile/sara) | July 29, 2012 21:22
+by [sara](/profile/sara) | July 29, 2012 21:22
 
-July 29, 2012 21:22 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [replication:625](../tag/replication:625)
+July 29, 2012 21:22 | Tags: [thermal-photography](/tag/thermal-photography), [thermal-flashlight](/tag/thermal-flashlight), [replication:625](/tag/replication:625)
 
 ----
 

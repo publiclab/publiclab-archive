@@ -6,18 +6,16 @@ author: MaggPi
 path: /notes/MaggPi/06-21-2018/infrared-insect-microscopy.md
 nid: 16540
 uid: 501996
-
 cids: 19848,19849,19851,19880,19883,21380,21393,27714
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/254/original/Slide4.JPG)
 
 # Infrared Insect Microscopy
 
-by [MaggPi](../../../profile/MaggPi) | June 21, 2018 05:11
+by [MaggPi](/profile/MaggPi) | June 21, 2018 05:11
 
-June 21, 2018 05:11 | Tags: [pi](../tag/pi), [raspberry](../tag/raspberry), [microscope](../tag/microscope), [multispectral-imaging](../tag/multispectral-imaging), [activity:microscope](../tag/activity:microscope), [gsoc-2018](../tag/gsoc-2018), [activity:community-microscope](../tag/activity:community-microscope), [community-microscope](../tag/community-microscope), [noir](../tag/noir), [activity:community-microscope-usage](../tag/activity:community-microscope-usage), [pin:activity:community-microscope-usage](../tag/pin:activity:community-microscope-usage)
+June 21, 2018 05:11 | Tags: [pi](/tag/pi), [raspberry](/tag/raspberry), [microscope](/tag/microscope), [multispectral-imaging](/tag/multispectral-imaging), [activity:microscope](/tag/activity:microscope), [gsoc-2018](/tag/gsoc-2018), [activity:community-microscope](/tag/activity:community-microscope), [community-microscope](/tag/community-microscope), [noir](/tag/noir), [activity:community-microscope-usage](/tag/activity:community-microscope-usage), [pin:activity:community-microscope-usage](/tag/pin:activity:community-microscope-usage)
 
 ----
 

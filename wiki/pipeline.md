@@ -6,16 +6,16 @@ author: stevie
 path: /wiki/pipeline.md
 nid: 21066
 uid: 422561
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/553/original/pipeline_cover.jpg)
 
 # Pipeline
 
-by [stevie](../profile/stevie)
+by [stevie](/profile/stevie)
 
-October 03, 2019 14:55 | Tags: [pipeline](../tag/pipeline), [pipeline-monitoring](../tag/pipeline-monitoring)
+October 03, 2019 14:55 | Tags: [pipeline](/tag/pipeline), [pipeline-monitoring](/tag/pipeline-monitoring)
 
 ----
 
@@ -31,8 +31,8 @@ This page is a resource guide for those who are looking to conduct research, col
 
 ##Notes
 
-[pipeline](../../tag/pipeline)
+[pipeline](/tag/pipeline)
 
 ## Questions
 
-[pipeline](../../tag/question:pipeline)
+[pipeline](/tag/question:pipeline)

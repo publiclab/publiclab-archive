@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/06-20-2013/ndvi-from-infrablue.md
 nid: 8308
 uid: 554
-
 cids: 5546,8119,8122,8124
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/542/original/tuples.JPG)
 
 # NDVI from Infrablue
 
-by [cfastie](../../../profile/cfastie) | June 20, 2013 03:55
+by [cfastie](/profile/cfastie) | June 20, 2013 03:55
 
-June 20, 2013 03:55 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [nir](../tag/nir), [vermont](../tag/vermont), [infrared](../tag/infrared), [new-york](../tag/new-york), [infragram](../tag/infragram), [rosco](../tag/rosco), [infrablue](../tag/infrablue), [histogram](../tag/histogram), [response:8190](../tag/response:8190), [response:8018](../tag/response:8018), [response:8196](../tag/response:8196), [response:8224](../tag/response:8224)
+June 20, 2013 03:55 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [nir](/tag/nir), [vermont](/tag/vermont), [infrared](/tag/infrared), [new-york](/tag/new-york), [infragram](/tag/infragram), [rosco](/tag/rosco), [infrablue](/tag/infrablue), [histogram](/tag/histogram), [response:8190](/tag/response:8190), [response:8018](/tag/response:8018), [response:8196](/tag/response:8196), [response:8224](/tag/response:8224)
 
 ----
 

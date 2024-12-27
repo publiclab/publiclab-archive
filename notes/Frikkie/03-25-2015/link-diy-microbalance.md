@@ -6,18 +6,16 @@ author: Frikkie
 path: /notes/Frikkie/03-25-2015/link-diy-microbalance.md
 nid: 11722
 uid: 435693
-
 cids: 11404,11411,11424,11568,11596
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/405/original/images.jpg)
 
 # Link: DIY Microbalance
 
-by [Frikkie](../../../profile/Frikkie) | March 25, 2015 10:34
+by [Frikkie](/profile/Frikkie) | March 25, 2015 10:34
 
-March 25, 2015 10:34 | Tags: [analytical_balance](../tag/analytical_balance), [weighing](../tag/weighing)
+March 25, 2015 10:34 | Tags: [analytical_balance](/tag/analytical_balance), [weighing](/tag/weighing)
 
 ----
 

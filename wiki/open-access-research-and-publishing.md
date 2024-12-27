@@ -6,14 +6,14 @@ author: Bronwen
 path: /wiki/open-access-research-and-publishing.md
 nid: 11293
 uid: 237313
-
+cids: 
 ---
 
 # Open Access Research and Publishing
 
-by [Bronwen](../profile/Bronwen)
+by [Bronwen](/profile/Bronwen)
 
-October 22, 2014 21:09 | Tags: [ip](../tag/ip), [intellectualproperty](../tag/intellectualproperty), [openaccess](../tag/openaccess)
+October 22, 2014 21:09 | Tags: [ip](/tag/ip), [intellectualproperty](/tag/intellectualproperty), [openaccess](/tag/openaccess)
 
 ----
 

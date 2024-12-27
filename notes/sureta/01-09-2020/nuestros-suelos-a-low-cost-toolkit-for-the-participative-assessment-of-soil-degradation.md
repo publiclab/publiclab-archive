@@ -6,18 +6,16 @@ author: sureta
 path: /notes/sureta/01-09-2020/nuestros-suelos-a-low-cost-toolkit-for-the-participative-assessment-of-soil-degradation.md
 nid: 22241
 uid: 646232
-
 cids: 26112,26113,26114,26144,26145,26147,26153,26196,26701,26702,26862,27959,27962,28015,28626,29225,29638,29647,30455,30631
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/514/original/Captura_de_pantalla_2020-01-08_a_la%28s%29_23.02.03.png)
 
 # Nuestros Suelos: a low-cost toolkit for the participative assessment of soil degradation
 
-by [sureta](../../../profile/sureta) | January 09, 2020 02:02
+by [sureta](/profile/sureta) | January 09, 2020 02:02
 
-January 09, 2020 02:02 | Tags: [agriculture](../tag/agriculture), [heavy-metals](../tag/heavy-metals), [soil](../tag/soil), [chile](../tag/chile), [pollution](../tag/pollution), [low-cost](../tag/low-cost), [south-america](../tag/south-america), [board-games](../tag/board-games), [first-time-poster](../tag/first-time-poster), [soil-degradation](../tag/soil-degradation), [lat:-33.454359](../tag/lat:-33.454359), [lon:-70.620117](../tag/lon:-70.620117), [cosquin](../tag/cosquin), [soil-toolkit](../tag/soil-toolkit), [nuestros-suelos](../tag/nuestros-suelos), [mine-soil-health](../tag/mine-soil-health)
+January 09, 2020 02:02 | Tags: [agriculture](/tag/agriculture), [heavy-metals](/tag/heavy-metals), [soil](/tag/soil), [chile](/tag/chile), [pollution](/tag/pollution), [low-cost](/tag/low-cost), [south-america](/tag/south-america), [board-games](/tag/board-games), [first-time-poster](/tag/first-time-poster), [soil-degradation](/tag/soil-degradation), [lat:-33.454359](/tag/lat:-33.454359), [lon:-70.620117](/tag/lon:-70.620117), [cosquin](/tag/cosquin), [soil-toolkit](/tag/soil-toolkit), [nuestros-suelos](/tag/nuestros-suelos), [mine-soil-health](/tag/mine-soil-health)
 
 ----
 

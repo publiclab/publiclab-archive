@@ -6,18 +6,16 @@ author: gilbert
 path: /notes/gilbert/10-27-2017/water-quality-regulations-testing-methods-health-risks-advocacy.md
 nid: 15122
 uid: 508551
-
 cids: 17589,17590,17591,17602,17603,17604,17605
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/120/original/images.jpg)
 
 # Water Quality Regulations, Testing Methods, Health Risks & Advocacy
 
-by [gilbert](../../../profile/gilbert) | October 27, 2017 18:36
+by [gilbert](/profile/gilbert) | October 27, 2017 18:36
 
-October 27, 2017 18:36 | Tags: [public-health](../tag/public-health), [water-quality](../tag/water-quality), [regulations](../tag/regulations), [with:warren](../tag/with:warren), [advocacy](../tag/advocacy), [water-testing](../tag/water-testing), [water-borne-diseases](../tag/water-borne-diseases), [enviornmental-regulation](../tag/enviornmental-regulation)
+October 27, 2017 18:36 | Tags: [public-health](/tag/public-health), [water-quality](/tag/water-quality), [regulations](/tag/regulations), [with:warren](/tag/with:warren), [advocacy](/tag/advocacy), [water-testing](/tag/water-testing), [water-borne-diseases](/tag/water-borne-diseases), [enviornmental-regulation](/tag/enviornmental-regulation)
 
 ----
 

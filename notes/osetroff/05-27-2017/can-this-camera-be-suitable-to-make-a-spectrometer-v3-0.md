@@ -6,16 +6,14 @@ author: osetroff
 path: /notes/osetroff/05-27-2017/can-this-camera-be-suitable-to-make-a-spectrometer-v3-0.md
 nid: 14232
 uid: 507230
-
 cids: 24992
-
 ---
 
 # Can this camera be suitable to make a spectrometer v3.0?
 
-by [osetroff](../../../profile/osetroff) | May 27, 2017 18:16
+by [osetroff](/profile/osetroff) | May 27, 2017 18:16
 
-May 27, 2017 18:16 | Tags: [spectrometer](../tag/spectrometer), [modifications](../tag/modifications), [question:spectrometry](../tag/question:spectrometry), [how-do-i-build-a-spectrometer](../tag/how-do-i-build-a-spectrometer), [build](../tag/build), [specifications](../tag/specifications), [how-to-build-a-spectrometer](../tag/how-to-build-a-spectrometer), [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster)
+May 27, 2017 18:16 | Tags: [spectrometer](/tag/spectrometer), [modifications](/tag/modifications), [question:spectrometry](/tag/question:spectrometry), [how-do-i-build-a-spectrometer](/tag/how-do-i-build-a-spectrometer), [build](/tag/build), [specifications](/tag/specifications), [how-to-build-a-spectrometer](/tag/how-to-build-a-spectrometer), [question:general](/tag/question:general), [first-time-poster](/tag/first-time-poster)
 
 ----
 

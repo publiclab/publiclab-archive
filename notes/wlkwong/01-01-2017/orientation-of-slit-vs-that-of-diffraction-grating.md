@@ -6,16 +6,14 @@ author: wlkwong
 path: /notes/wlkwong/01-01-2017/orientation-of-slit-vs-that-of-diffraction-grating.md
 nid: 13830
 uid: 500713
-
 cids: 22391,22392
-
 ---
 
 # orientation of slit vs that of diffraction grating
 
-by [wlkwong](../../../profile/wlkwong) | January 01, 2017 09:30
+by [wlkwong](/profile/wlkwong) | January 01, 2017 09:30
 
-January 01, 2017 09:30 | Tags: [question:spectrometer](../tag/question:spectrometer), [question:spectral-workbench](../tag/question:spectral-workbench), [question:foldable-mini-spectrometer](../tag/question:foldable-mini-spectrometer)
+January 01, 2017 09:30 | Tags: [question:spectrometer](/tag/question:spectrometer), [question:spectral-workbench](/tag/question:spectral-workbench), [question:foldable-mini-spectrometer](/tag/question:foldable-mini-spectrometer)
 
 ----
 

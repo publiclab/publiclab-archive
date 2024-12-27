@@ -6,18 +6,16 @@ author: stoft
 path: /notes/stoft/05-14-2013/in-search-of-spectrometer-measurement-and-calibration.md
 nid: 7507
 uid: 54025
-
 cids: 4705,4711,4722,4784,7945,12574
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/252/original/Proto2.jpg)
 
 # In Search of Spectrometer Measurement and Calibration
 
-by [stoft](../../../profile/stoft) | May 14, 2013 01:02
+by [stoft](/profile/stoft) | May 14, 2013 01:02
 
-May 14, 2013 01:02 | Tags: [spectrometer](../tag/spectrometer), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [slit](../tag/slit), [improvements](../tag/improvements), [focus](../tag/focus), [response:7226](../tag/response:7226)
+May 14, 2013 01:02 | Tags: [spectrometer](/tag/spectrometer), [desktop-spectrometry-kit](/tag/desktop-spectrometry-kit), [slit](/tag/slit), [improvements](/tag/improvements), [focus](/tag/focus), [response:7226](/tag/response:7226)
 
 ----
 

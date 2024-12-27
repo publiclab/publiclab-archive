@@ -6,18 +6,16 @@ author: Juan
 path: /notes/juan/6-5-2012/fabaoutfit-vertical-kap-and-bap.md
 nid: 2352
 uid: 1310
-
 cids: 850,851,852,853,854,862,864,865,866,867,880,882,8539,16229
-
 ---
 
 ![](https://publiclab.org/sites/default/files/FABArig-elements.png)
 
 # FABAoutfit for vertical  KAP and BAP
 
-by [Juan](../../../profile/Juan) | June 05, 2012 20:23
+by [Juan](/profile/Juan) | June 05, 2012 20:23
 
-June 05, 2012 20:23 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [picavet](../tag/picavet), [chdk](../tag/chdk), [rig](../tag/rig), [hangup](../tag/hangup), [photo-rig](../tag/photo-rig), [activity:photo-rig](../tag/activity:photo-rig), [first-time-poster](../tag/first-time-poster)
+June 05, 2012 20:23 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [picavet](/tag/picavet), [chdk](/tag/chdk), [rig](/tag/rig), [hangup](/tag/hangup), [photo-rig](/tag/photo-rig), [activity:photo-rig](/tag/activity:photo-rig), [first-time-poster](/tag/first-time-poster)
 
 ----
 

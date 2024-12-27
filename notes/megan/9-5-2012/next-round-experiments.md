@@ -6,18 +6,16 @@ author: megan
 path: /notes/megan/9-5-2012/next-round-experiments.md
 nid: 3654
 uid: 775
-
 cids: 1257,1258,1260,1274,1275,1276,1565,1566,1567,1568,1569,1570,1572,1573
-
 ---
 
 ![](https://publiclab.org/sites/default/files/Second Round of experiment.jpg)
 
 # Next Round of Experiments
 
-by [megan](../../../profile/megan) | September 05, 2012 18:17
+by [megan](/profile/megan) | September 05, 2012 18:17
 
-September 05, 2012 18:17 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [new-mexico](../tag/new-mexico), [h2s](../tag/h2s)
+September 05, 2012 18:17 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [new-mexico](/tag/new-mexico), [h2s](/tag/h2s)
 
 ----
 

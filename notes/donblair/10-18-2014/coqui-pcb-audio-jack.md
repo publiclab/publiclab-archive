@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/10-18-2014/coqui-pcb-audio-jack.md
 nid: 11275
 uid: 43651
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/465/original/coqui-v1.0-front.png)
 
 # Coqui PCB + audio jack
 
-by [donblair](../../../profile/donblair) | October 18, 2014 01:36
+by [donblair](/profile/donblair) | October 18, 2014 01:36
 
-October 18, 2014 01:36 | Tags: [water-quality](../tag/water-quality), [open-water](../tag/open-water), [openwater](../tag/openwater), [coqui](../tag/coqui), [category:build](../tag/category:build), [status:proposal](../tag/status:proposal), [coqui-audio-jack](../tag/coqui-audio-jack), [activity:coqui-version](../tag/activity:coqui-version)
+October 18, 2014 01:36 | Tags: [water-quality](/tag/water-quality), [open-water](/tag/open-water), [openwater](/tag/openwater), [coqui](/tag/coqui), [category:build](/tag/category:build), [status:proposal](/tag/status:proposal), [coqui-audio-jack](/tag/coqui-audio-jack), [activity:coqui-version](/tag/activity:coqui-version)
 
 ----
 

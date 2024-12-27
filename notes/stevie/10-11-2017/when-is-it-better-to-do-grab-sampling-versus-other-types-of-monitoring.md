@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/10-11-2017/when-is-it-better-to-do-grab-sampling-versus-other-types-of-monitoring.md
 nid: 15028
 uid: 422561
-
 cids: 22662,26845
-
 ---
 
 # When is it better to do grab sampling versus other types of monitoring?
 
-by [stevie](../../../profile/stevie) | October 11, 2017 19:37
+by [stevie](/profile/stevie) | October 11, 2017 19:37
 
-October 11, 2017 19:37 | Tags: [air](../tag/air), [sampling](../tag/sampling), [monitoring](../tag/monitoring), [answered](../tag/answered), [question:water-sampling](../tag/question:water-sampling), [question:sampling](../tag/question:sampling), [question:soil-sampling](../tag/question:soil-sampling), [water-sampling](../tag/water-sampling), [grab-sample](../tag/grab-sample), [question:air-sampling](../tag/question:air-sampling), [question:air-monitoring](../tag/question:air-monitoring), [question:soil](../tag/question:soil), [bucket-monitor](../tag/bucket-monitor), [question:bucket-monitor](../tag/question:bucket-monitor)
+October 11, 2017 19:37 | Tags: [air](/tag/air), [sampling](/tag/sampling), [monitoring](/tag/monitoring), [answered](/tag/answered), [question:water-sampling](/tag/question:water-sampling), [question:sampling](/tag/question:sampling), [question:soil-sampling](/tag/question:soil-sampling), [water-sampling](/tag/water-sampling), [grab-sample](/tag/grab-sample), [question:air-sampling](/tag/question:air-sampling), [question:air-monitoring](/tag/question:air-monitoring), [question:soil](/tag/question:soil), [bucket-monitor](/tag/bucket-monitor), [question:bucket-monitor](/tag/question:bucket-monitor)
 
 ----
 

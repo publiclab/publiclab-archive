@@ -6,14 +6,14 @@ author: gretchengehrke
 path: /wiki/activity-categories.md
 nid: 13412
 uid: 430549
-
+cids: 
 ---
 
 # Activity Categories 
 
-by [gretchengehrke](../profile/gretchengehrke)
+by [gretchengehrke](/profile/gretchengehrke)
 
-September 02, 2016 22:24 | Tags: [with:warren](../tag/with:warren), [with:liz](../tag/with:liz), [activity-grids](../tag/activity-grids), [with:abdul](../tag/with:abdul), [category:observe](../tag/category:observe)
+September 02, 2016 22:24 | Tags: [with:warren](/tag/with:warren), [with:liz](/tag/with:liz), [activity-grids](/tag/activity-grids), [with:abdul](/tag/with:abdul), [category:observe](/tag/category:observe)
 
 ----
 

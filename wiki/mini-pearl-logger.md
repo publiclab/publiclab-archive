@@ -6,16 +6,16 @@ author: cfastie
 path: /wiki/mini-pearl-logger.md
 nid: 14794
 uid: 554
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/449/original/MiniPearl400.jpg)
 
 # Mini Pearl Logger
 
-by [cfastie](../profile/cfastie)
+by [cfastie](/profile/cfastie)
 
-August 27, 2017 03:50 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [datalogger](../tag/datalogger), [data-logging](../tag/data-logging), [parent:data-logging](../tag/parent:data-logging), [mini-pearl-logger](../tag/mini-pearl-logger), [activities:mini-pearl-logger](../tag/activities:mini-pearl-logger), [community-kits-prep](../tag/community-kits-prep)
+August 27, 2017 03:50 | Tags: [arduino](/tag/arduino), [sensors](/tag/sensors), [datalogger](/tag/datalogger), [data-logging](/tag/data-logging), [parent:data-logging](/tag/parent:data-logging), [mini-pearl-logger](/tag/mini-pearl-logger), [activities:mini-pearl-logger](/tag/activities:mini-pearl-logger), [community-kits-prep](/tag/community-kits-prep)
 
 ----
 
@@ -66,10 +66,10 @@ Below are some research notes about activities done with Mini Pearl Loggers. Som
 
 ## Activities
 
-[mini-pearl-logger](../../tag/activity:mini-pearl-logger)
+[mini-pearl-logger](/tag/activity:mini-pearl-logger)
 
 ## Questions
 
-[mini-pearl-logger](../../tag/question:mini-pearl-logger)
+[mini-pearl-logger](/tag/question:mini-pearl-logger)
 
 

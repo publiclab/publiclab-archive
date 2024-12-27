@@ -6,12 +6,12 @@ author: donblair
 path: /wiki/riffle-pilots.md
 nid: 10707
 uid: 43651
-
+cids: 
 ---
 
 # riffle-pilots
 
-by [donblair](../profile/donblair)
+by [donblair](/profile/donblair)
 
 July 18, 2014 19:40 | Tags: 
 

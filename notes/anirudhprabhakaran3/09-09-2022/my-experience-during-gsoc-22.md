@@ -6,16 +6,14 @@ author: anirudhprabhakaran3
 path: /notes/anirudhprabhakaran3/09-09-2022/my-experience-during-gsoc-22.md
 nid: 34947
 uid: 751144
-
 cids: 
-
 ---
 
 # My experience during GSoC '22
 
-by [anirudhprabhakaran3](../../../profile/anirudhprabhakaran3) | September 09, 2022 11:57
+by [anirudhprabhakaran3](/profile/anirudhprabhakaran3) | September 09, 2022 11:57
 
-September 09, 2022 11:57 | Tags: [gsoc](../tag/gsoc), [lon:77.2](../tag/lon:77.2), [zoom:10](../tag/zoom:10), [lat:28.6](../tag/lat:28.6)
+September 09, 2022 11:57 | Tags: [gsoc](/tag/gsoc), [lon:77.2](/tag/lon:77.2), [zoom:10](/tag/zoom:10), [lat:28.6](/tag/lat:28.6)
 
 ----
 

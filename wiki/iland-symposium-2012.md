@@ -6,14 +6,14 @@ author: liz
 path: /wiki/iland-symposium-2012.md
 nid: 830
 uid: 7
-
+cids: 
 ---
 
 # iLAND Symposium 2012
 
-by [liz](../profile/liz), [oscarbrett](../profile/oscarbrett)
+by [liz](/profile/liz), [oscarbrett](/profile/oscarbrett)
 
-February 21, 2012 21:32 | Tags: [ilab](../tag/ilab)
+February 21, 2012 21:32 | Tags: [ilab](/tag/ilab)
 
 ----
 

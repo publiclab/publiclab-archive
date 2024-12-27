@@ -6,14 +6,14 @@ author: warren
 path: /wiki/forum-planning.md
 nid: 489
 uid: 1
-
+cids: 
 ---
 
 # Forum planning
 
-by [mollydanielsson](../profile/mollydanielsson), [liz](../profile/liz), [warren](../profile/warren), [Shannon](../profile/Shannon), [mathew](../profile/mathew)
+by [mollydanielsson](/profile/mollydanielsson), [liz](/profile/liz), [warren](/profile/warren), [Shannon](/profile/Shannon), [mathew](/profile/mathew)
 
-September 30, 2011 21:59 | Tags: [community](../tag/community), [gmf](../tag/gmf), [grassroots-mapping](../tag/grassroots-mapping), [grassrootsmappingforum](../tag/grassrootsmappingforum)
+September 30, 2011 21:59 | Tags: [community](/tag/community), [gmf](/tag/gmf), [grassroots-mapping](/tag/grassroots-mapping), [grassrootsmappingforum](/tag/grassrootsmappingforum)
 
 ----
 

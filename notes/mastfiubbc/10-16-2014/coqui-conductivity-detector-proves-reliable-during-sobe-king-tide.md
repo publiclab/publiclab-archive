@@ -6,16 +6,14 @@ author: mastfiubbc
 path: /notes/mastfiubbc/10-16-2014/coqui-conductivity-detector-proves-reliable-during-sobe-king-tide.md
 nid: 11266
 uid: 430001
-
 cids: 10560
-
 ---
 
 # Coqui Conductivity Detector Proves Reliable During SoBe King Tide
 
-by [mastfiubbc](../../../profile/mastfiubbc) | October 16, 2014 14:42
+by [mastfiubbc](/profile/mastfiubbc) | October 16, 2014 14:42
 
-October 16, 2014 14:42 | Tags: [gulf-coast](../tag/gulf-coast), [water-quality](../tag/water-quality), [coqui](../tag/coqui), [king-tide](../tag/king-tide), [florida](../tag/florida), [miami](../tag/miami)
+October 16, 2014 14:42 | Tags: [gulf-coast](/tag/gulf-coast), [water-quality](/tag/water-quality), [coqui](/tag/coqui), [king-tide](/tag/king-tide), [florida](/tag/florida), [miami](/tag/miami)
 
 ----
 

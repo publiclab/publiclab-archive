@@ -6,18 +6,16 @@ author: Rgaude
 path: /notes/Rgaude/04-14-2021/potholes-in-new-orleans-research-note.md
 nid: 26236
 uid: 749812
-
 cids: 28586
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/301/original/Science_Pothole_1.jpg)
 
 # Potholes in New Orleans Research Note
 
-by [Rgaude](../../../profile/Rgaude) | April 14, 2021 14:46
+by [Rgaude](/profile/Rgaude) | April 14, 2021 14:46
 
-April 14, 2021 14:46 | Tags: [gulf-coast](../tag/gulf-coast), [laplace](../tag/laplace), [louisiana](../tag/louisiana), [soil](../tag/soil), [transportation](../tag/transportation), [new-orleans](../tag/new-orleans), [water](../tag/water), [potholes](../tag/potholes), [roads](../tag/roads), [lon:-90.08789](../tag/lon:-90.08789), [lat:29.954934](../tag/lat:29.954934), [zoom:7](../tag/zoom:7), [asphalt](../tag/asphalt)
+April 14, 2021 14:46 | Tags: [gulf-coast](/tag/gulf-coast), [laplace](/tag/laplace), [louisiana](/tag/louisiana), [soil](/tag/soil), [transportation](/tag/transportation), [new-orleans](/tag/new-orleans), [water](/tag/water), [potholes](/tag/potholes), [roads](/tag/roads), [lon:-90.08789](/tag/lon:-90.08789), [lat:29.954934](/tag/lat:29.954934), [zoom:7](/tag/zoom:7), [asphalt](/tag/asphalt)
 
 ----
 

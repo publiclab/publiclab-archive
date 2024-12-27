@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/08-01-2013/improvements-in-infragram-ndvi-with-test-cameras.md
 nid: 8950
 uid: 1
-
 cids: 6447,6450,6453,6466,6467,6472,6475,6476,6477,6489
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/990/original/ndvi_normal-1.png)
 
 # Improvements in Infragram NDVI with test cameras
 
-by [warren](../../../profile/warren) | August 01, 2013 06:39
+by [warren](/profile/warren) | August 01, 2013 06:39
 
-August 01, 2013 06:39 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [tests](../tag/tests), [response:8261](../tag/response:8261), [infragram-conversion](../tag/infragram-conversion), [annazubkova2009jem](../tag/annazubkova2009jem)
+August 01, 2013 06:39 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [infrared](/tag/infrared), [infragram](/tag/infragram), [infrablue](/tag/infrablue), [tests](/tag/tests), [response:8261](/tag/response:8261), [infragram-conversion](/tag/infragram-conversion), [annazubkova2009jem](/tag/annazubkova2009jem)
 
 ----
 

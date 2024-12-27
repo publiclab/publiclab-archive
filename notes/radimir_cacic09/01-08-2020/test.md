@@ -6,14 +6,12 @@ author: radimir_cacic09
 path: /notes/radimir_cacic09/01-08-2020/test.md
 nid: 22240
 uid: 644656
-
 cids: 26107
-
 ---
 
 # Test
 
-by [radimir_cacic09](../../../profile/radimir_cacic09) | January 08, 2020 18:29
+by [radimir_cacic09](/profile/radimir_cacic09) | January 08, 2020 18:29
 
 January 08, 2020 18:29 | Tags: 
 

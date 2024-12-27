@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/01-22-2016/kap-rig-impasse.md
 nid: 12601
 uid: 554
-
 cids: 13381,13394,13397
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/765/original/Aerobee-717-7.jpg)
 
 # KAP rig impasse
 
-by [cfastie](../../../profile/cfastie) | January 22, 2016 18:58
+by [cfastie](/profile/cfastie) | January 22, 2016 18:58
 
-January 22, 2016 18:58 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [camera-rig-tests](../tag/camera-rig-tests), [aerial-photography](../tag/aerial-photography), [photo-rig](../tag/photo-rig), [response:12524](../tag/response:12524), [activity:photo-rig](../tag/activity:photo-rig)
+January 22, 2016 18:58 | Tags: [kite-aerial-photography](/tag/kite-aerial-photography), [camera-rig-tests](/tag/camera-rig-tests), [aerial-photography](/tag/aerial-photography), [photo-rig](/tag/photo-rig), [response:12524](/tag/response:12524), [activity:photo-rig](/tag/activity:photo-rig)
 
 ----
 

@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/01-23-2014/hong-kong-open-source-meetup.md
 nid: 9968
 uid: 7
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/621/original/IMG_0868.JPG)
 
 # Hong Kong Open Source Meetup
 
-by [liz](../../../profile/liz) | January 23, 2014 16:21
+by [liz](/profile/liz) | January 23, 2014 16:21
 
-January 23, 2014 16:21 | Tags: [event](../tag/event), [hong-kong](../tag/hong-kong), [asia](../tag/asia)
+January 23, 2014 16:21 | Tags: [event](/tag/event), [hong-kong](/tag/hong-kong), [asia](/tag/asia)
 
 ----
 

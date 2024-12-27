@@ -6,14 +6,14 @@ author: warren
 path: /wiki/roles.md
 nid: 14959
 uid: 1
-
+cids: 
 ---
 
 # Roles
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-September 26, 2017 22:18 | Tags: [organizing](../tag/organizing), [moderation](../tag/moderation), [roles](../tag/roles)
+September 26, 2017 22:18 | Tags: [organizing](/tag/organizing), [moderation](/tag/moderation), [roles](/tag/roles)
 
 ----
 

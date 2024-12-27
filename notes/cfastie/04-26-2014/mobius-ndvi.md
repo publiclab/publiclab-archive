@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/04-26-2014/mobius-ndvi.md
 nid: 10369
 uid: 554
-
 cids: 8892,8895,8899,8900,8901,8902,8903,8905,8907,8976,8977,16237,16238,16239,16244,16286,16303,16304,16326,16716,16718,16720,16734,16735,16736,16737,16738,16739,16740
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/868/original/Setup-15anno.jpg)
 
 # Mobius NDVI
 
-by [cfastie](../../../profile/cfastie) | April 26, 2014 14:33
+by [cfastie](/profile/cfastie) | April 26, 2014 14:33
 
-April 26, 2014 14:33 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infrared](../tag/infrared), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [mobius-actioncam](../tag/mobius-actioncam), [wratten25a](../tag/wratten25a), [super-red](../tag/super-red), [mobius](../tag/mobius), [msetup](../tag/msetup), [response:10353](../tag/response:10353), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:infragram](../tag/activity:infragram)
+April 26, 2014 14:33 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [vermont](/tag/vermont), [infrared](/tag/infrared), [white-balance](/tag/white-balance), [infragram](/tag/infragram), [mobius-actioncam](/tag/mobius-actioncam), [wratten25a](/tag/wratten25a), [super-red](/tag/super-red), [mobius](/tag/mobius), [msetup](/tag/msetup), [response:10353](/tag/response:10353), [activity:multispectral-imaging](/tag/activity:multispectral-imaging), [activity:infragram](/tag/activity:infragram)
 
 ----
 

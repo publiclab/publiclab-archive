@@ -6,18 +6,16 @@ author: Joeri2
 path: /notes/Joeri2/12-31-2014/color-perception-influence-of-an-different-colored-object.md
 nid: 11501
 uid: 433286
-
 cids: 11033,11035
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/555/original/2014-12-24_00.24.33.jpg)
 
 # Color perception: influence of an different colored object
 
-by [Joeri2](../../../profile/Joeri2) | December 31, 2014 02:53
+by [Joeri2](/profile/Joeri2) | December 31, 2014 02:53
 
-December 31, 2014 02:53 | Tags: [spectralworkbench](../tag/spectralworkbench), [color](../tag/color), [perception](../tag/perception)
+December 31, 2014 02:53 | Tags: [spectralworkbench](/tag/spectralworkbench), [color](/tag/color), [perception](/tag/perception)
 
 ----
 

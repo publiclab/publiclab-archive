@@ -6,18 +6,16 @@ author: natalie
 path: /notes/Natalie/08-29-2014/back-to-school-sale-happening-now-through-september-30th.md
 nid: 11089
 uid: 424454
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/522/original/B2S.png)
 
 # Back to School Sale happening now through September 30th!
 
-by [natalie](../../../profile/natalie) | August 29, 2014 21:59
+by [natalie](/profile/natalie) | August 29, 2014 21:59
 
-August 29, 2014 21:59 | Tags: [sales](../tag/sales), [special](../tag/special), [sale](../tag/sale), [backtoschool](../tag/backtoschool), [deal](../tag/deal)
+August 29, 2014 21:59 | Tags: [sales](/tag/sales), [special](/tag/special), [sale](/tag/sale), [backtoschool](/tag/backtoschool), [deal](/tag/deal)
 
 ----
 

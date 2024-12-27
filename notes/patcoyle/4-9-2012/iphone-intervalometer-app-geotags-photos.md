@@ -6,16 +6,14 @@ author: patcoyle
 path: /notes/patcoyle/4-9-2012/iphone-intervalometer-app-geotags-photos.md
 nid: 1635
 uid: 77
-
 cids: 
-
 ---
 
 # iPhone intervalometer app geotags photos
 
-by [patcoyle](../../../profile/patcoyle) | April 10, 2012 02:12
+by [patcoyle](/profile/patcoyle) | April 10, 2012 02:12
 
-April 10, 2012 02:12 | Tags: [iphone](../tag/iphone), [camera-triggering](../tag/camera-triggering)
+April 10, 2012 02:12 | Tags: [iphone](/tag/iphone), [camera-triggering](/tag/camera-triggering)
 
 ----
 

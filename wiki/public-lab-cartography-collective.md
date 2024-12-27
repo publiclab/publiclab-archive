@@ -6,14 +6,14 @@ author: Shannon
 path: /wiki/public-lab-cartography-collective.md
 nid: 9360
 uid: 9
-
+cids: 
 ---
 
 # Public Lab Cartography Collective
 
-by [liz](../profile/liz), [stevie](../profile/stevie), [eustatic](../profile/eustatic), [Shannon](../profile/Shannon), [warren](../profile/warren)
+by [liz](/profile/liz), [stevie](/profile/stevie), [eustatic](/profile/eustatic), [Shannon](/profile/Shannon), [warren](/profile/warren)
 
-September 23, 2013 20:02 | Tags: [mapknitter](../tag/mapknitter), [cartography-collective](../tag/cartography-collective)
+September 23, 2013 20:02 | Tags: [mapknitter](/tag/mapknitter), [cartography-collective](/tag/cartography-collective)
 
 ----
 

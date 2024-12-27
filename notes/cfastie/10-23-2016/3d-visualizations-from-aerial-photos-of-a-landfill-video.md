@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/10-23-2016/3d-visualizations-from-aerial-photos-of-a-landfill-video.md
 nid: 13640
 uid: 554
-
 cids: 15715,15724,15731
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/546/original/gravelpit.JPG)
 
 # 3D visualizations from aerial photos of a landfill (video)
 
-by [cfastie](../../../profile/cfastie) | October 23, 2016 00:36
+by [cfastie](/profile/cfastie) | October 23, 2016 00:36
 
-October 23, 2016 00:36 | Tags: [vermont](../tag/vermont), [kite-aerial-photography](../tag/kite-aerial-photography), [landfill](../tag/landfill), [kap](../tag/kap), [sfm](../tag/sfm), [structure-from-motion](../tag/structure-from-motion), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [recap-360](../tag/recap-360), [autodesk](../tag/autodesk), [bristol-vt](../tag/bristol-vt)
+October 23, 2016 00:36 | Tags: [vermont](/tag/vermont), [kite-aerial-photography](/tag/kite-aerial-photography), [landfill](/tag/landfill), [kap](/tag/kap), [sfm](/tag/sfm), [structure-from-motion](/tag/structure-from-motion), [saturnv](/tag/saturnv), [skyshield](/tag/skyshield), [recap-360](/tag/recap-360), [autodesk](/tag/autodesk), [bristol-vt](/tag/bristol-vt)
 
 ----
 

@@ -6,18 +6,16 @@ author: gilbert
 path: /notes/gilbert/11-15-2017/environmental-public-health-advocacy-success-stories.md
 nid: 15193
 uid: 508551
-
 cids: 31355
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/420/original/Mystic_River_Watershed_Association.jpg)
 
 # Environmental & Public Health Advocacy Success Stories
 
-by [gilbert](../../../profile/gilbert) | November 15, 2017 19:21
+by [gilbert](/profile/gilbert) | November 15, 2017 19:21
 
-November 15, 2017 19:21 | Tags: [public-health](../tag/public-health), [environment](../tag/environment), [publiclab](../tag/publiclab), [advocacy](../tag/advocacy), [success-stories](../tag/success-stories), [myrwa](../tag/myrwa)
+November 15, 2017 19:21 | Tags: [public-health](/tag/public-health), [environment](/tag/environment), [publiclab](/tag/publiclab), [advocacy](/tag/advocacy), [success-stories](/tag/success-stories), [myrwa](/tag/myrwa)
 
 ----
 

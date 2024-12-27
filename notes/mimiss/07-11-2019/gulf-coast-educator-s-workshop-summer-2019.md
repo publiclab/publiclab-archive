@@ -6,18 +6,16 @@ author: mimiss
 path: /notes/mimiss/07-11-2019/gulf-coast-educator-s-workshop-summer-2019.md
 nid: 20075
 uid: 579821
-
 cids: 25023,25045,25157,26003
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/628/original/IMG_20190703_094725.jpg)
 
 # Gulf Coast Educator's Workshop Summer 2019
 
-by [mimiss](../../../profile/mimiss) | July 11, 2019 16:43
+by [mimiss](/profile/mimiss) | July 11, 2019 16:43
 
-July 11, 2019 16:43 | Tags: [education](../tag/education), [workshop](../tag/workshop), [blog](../tag/blog), [with:stevie](../tag/with:stevie), [with:liz](../tag/with:liz), [working-together](../tag/working-together), [lat:29.950175](../tag/lat:29.950175), [lon:-90.071411](../tag/lon:-90.071411), [series:student-community-science](../tag/series:student-community-science), [student-community-science](../tag/student-community-science)
+July 11, 2019 16:43 | Tags: [education](/tag/education), [workshop](/tag/workshop), [blog](/tag/blog), [with:stevie](/tag/with:stevie), [with:liz](/tag/with:liz), [working-together](/tag/working-together), [lat:29.950175](/tag/lat:29.950175), [lon:-90.071411](/tag/lon:-90.071411), [series:student-community-science](/tag/series:student-community-science), [student-community-science](/tag/student-community-science)
 
 ----
 

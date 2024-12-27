@@ -6,14 +6,14 @@ author: liz
 path: /wiki/open-air.md
 nid: 11626
 uid: 7
-
+cids: 
 ---
 
 # Open Air
 
-by [liz](../profile/liz), [nshapiro](../profile/nshapiro), [warren](../profile/warren)
+by [liz](/profile/liz), [nshapiro](/profile/nshapiro), [warren](/profile/warren)
 
-February 23, 2015 17:52 | Tags: [air-quality](../tag/air-quality), [air](../tag/air), [list:plots-airquality](../tag/list:plots-airquality), [activities:open-air](../tag/activities:open-air), [upgrades:open-air](../tag/upgrades:open-air)
+February 23, 2015 17:52 | Tags: [air-quality](/tag/air-quality), [air](/tag/air), [list:plots-airquality](/tag/list:plots-airquality), [activities:open-air](/tag/activities:open-air), [upgrades:open-air](/tag/upgrades:open-air)
 
 ----
 
@@ -37,13 +37,13 @@ This is an open source community effort to develop a range of low-cost air quali
 
 ##Activities
 
-[open-air](../../tag/activity:open-air)
+[open-air](/tag/activity:open-air)
 
 ****
 
 ##Frequently Asked Questions about air quality
 
-[air-quality](../../tag/question:air-quality)
+[air-quality](/tag/question:air-quality)
 
 
 ****

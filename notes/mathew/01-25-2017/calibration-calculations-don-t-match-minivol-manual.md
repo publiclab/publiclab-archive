@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/01-25-2017/calibration-calculations-don-t-match-minivol-manual.md
 nid: 13876
 uid: 4
-
 cids: 16100,16108,16109,22411,22412,22414,30351,30372
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/362/original/20170109_145812.jpg)
 
 # calibration calculations don't match MiniVol manual
 
-by [mathew](../../../profile/mathew) | January 25, 2017 02:17
+by [mathew](/profile/mathew) | January 25, 2017 02:17
 
-January 25, 2017 02:17 | Tags: [calibration](../tag/calibration), [question](../tag/question), [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [pump](../tag/pump), [mini-buck](../tag/mini-buck), [pm-monitoring](../tag/pm-monitoring), [question:question](../tag/question:question), [dust-sensing](../tag/dust-sensing), [question:pm](../tag/question:pm), [question:minivol](../tag/question:minivol)
+January 25, 2017 02:17 | Tags: [calibration](/tag/calibration), [question](/tag/question), [air-quality](/tag/air-quality), [dust](/tag/dust), [silica](/tag/silica), [pm](/tag/pm), [pump](/tag/pump), [mini-buck](/tag/mini-buck), [pm-monitoring](/tag/pm-monitoring), [question:question](/tag/question:question), [dust-sensing](/tag/dust-sensing), [question:pm](/tag/question:pm), [question:minivol](/tag/question:minivol)
 
 ----
 

@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/08-01-2014/hardware-design-work-for-the-oil-testing-kit.md
 nid: 11006
 uid: 4
-
 cids: 9759,9760,9762,9782,9783,9786,9787,9788,9797,9798,9804,9851,9852
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/802/original/IMG_20140801_162748.jpg)
 
 # Hardware design work for the Oil Testing Kit
 
-by [mathew](../../../profile/mathew) | August 01, 2014 21:44
+by [mathew](/profile/mathew) | August 01, 2014 21:44
 
-August 01, 2014 21:44 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [fluorescence](../tag/fluorescence), [desktop-spectrometer](../tag/desktop-spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [with:warren](../tag/with:warren), [with:stevie](../tag/with:stevie)
+August 01, 2014 21:44 | Tags: [spectrometer](/tag/spectrometer), [kits](/tag/kits), [fluorescence](/tag/fluorescence), [desktop-spectrometer](/tag/desktop-spectrometer), [oil-testing-kit](/tag/oil-testing-kit), [with:warren](/tag/with:warren), [with:stevie](/tag/with:stevie)
 
 ----
 

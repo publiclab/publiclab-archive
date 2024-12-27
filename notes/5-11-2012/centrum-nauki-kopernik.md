@@ -6,16 +6,14 @@ author:
 path: /notes/5-11-2012/centrum-nauki-kopernik.md
 nid: 2089
 uid: 0
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_3061_medium_1.JPG)
 
 # centrum-nauki-kopernik
 
-by [](../../../profile/) | May 11, 2012 15:41
+by [](/profile/) | May 11, 2012 15:41
 
 May 11, 2012 15:41 | Tags: 
 

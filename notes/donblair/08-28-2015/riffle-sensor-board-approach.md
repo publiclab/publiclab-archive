@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/08-28-2015/riffle-sensor-board-approach.md
 nid: 12179
 uid: 43651
-
 cids: 12467,12469,12474,12482,12486,12487
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/314/original/daughter-dip-front.png)
 
 # Riffle: sensor board approach
 
-by [donblair](../../../profile/donblair) | August 28, 2015 15:08
+by [donblair](/profile/donblair) | August 28, 2015 15:08
 
-August 28, 2015 15:08 | Tags: [riffle](../tag/riffle), [open-water](../tag/open-water)
+August 28, 2015 15:08 | Tags: [riffle](/tag/riffle), [open-water](/tag/open-water)
 
 ----
 

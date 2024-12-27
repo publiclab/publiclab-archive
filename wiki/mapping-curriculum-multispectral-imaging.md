@@ -6,12 +6,12 @@ author: gonzoearth
 path: /wiki/mapping-curriculum-multispectral-imaging.md
 nid: 401
 uid: 12
-
+cids: 
 ---
 
 # Mapping Curriculum: Multispectral Imaging
 
-by [gonzoearth](../profile/gonzoearth)
+by [gonzoearth](/profile/gonzoearth)
 
 July 21, 2011 06:10 | Tags: 
 

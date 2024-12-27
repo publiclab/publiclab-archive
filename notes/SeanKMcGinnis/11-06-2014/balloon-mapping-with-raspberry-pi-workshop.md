@@ -6,18 +6,16 @@ author: seankmcginnis
 path: /notes/SeanKMcGinnis/11-06-2014/balloon-mapping-with-raspberry-pi-workshop.md
 nid: 11319
 uid: 552
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/724/original/PL_RasPi.jpg)
 
 # Balloon Mapping with Raspberry Pi Workshop
 
-by [seankmcginnis](../../../profile/seankmcginnis) | November 06, 2014 14:29
+by [seankmcginnis](/profile/seankmcginnis) | November 06, 2014 14:29
 
-November 06, 2014 14:29 | Tags: [balloon-mapping](../tag/balloon-mapping), [workshop](../tag/workshop), [raspberry-pi](../tag/raspberry-pi)
+November 06, 2014 14:29 | Tags: [balloon-mapping](/tag/balloon-mapping), [workshop](/tag/workshop), [raspberry-pi](/tag/raspberry-pi)
 
 ----
 

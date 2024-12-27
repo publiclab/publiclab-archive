@@ -6,16 +6,16 @@ author: warren
 path: /wiki/spectral-workbench-operations.md
 nid: 12568
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/757/original/Screenshot_2016-02-10_at_9.24.11_AM.png)
 
 # Spectral Workbench Operations
 
-by [warren](../profile/warren), [Emmaduncan](../profile/Emmaduncan)
+by [warren](/profile/warren), [Emmaduncan](/profile/Emmaduncan)
 
-January 07, 2016 17:04 | Tags: [spectrometer](../tag/spectrometer), [software](../tag/software), [spectral-workbench](../tag/spectral-workbench), [spectral-workbench-api](../tag/spectral-workbench-api), [developers](../tag/developers), [parent:spectral-workbench](../tag/parent:spectral-workbench)
+January 07, 2016 17:04 | Tags: [spectrometer](/tag/spectrometer), [software](/tag/software), [spectral-workbench](/tag/spectral-workbench), [spectral-workbench-api](/tag/spectral-workbench-api), [developers](/tag/developers), [parent:spectral-workbench](/tag/parent:spectral-workbench)
 
 ----
 

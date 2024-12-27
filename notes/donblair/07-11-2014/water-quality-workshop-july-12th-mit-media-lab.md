@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/07-11-2014/water-quality-workshop-july-12th-mit-media-lab.md
 nid: 10677
 uid: 43651
-
 cids: 9476
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/224/original/giphy.gif)
 
 # Water Quality Workshop July 12th @ MIT Media Lab
 
-by [donblair](../../../profile/donblair) | July 11, 2014 13:39
+by [donblair](/profile/donblair) | July 11, 2014 13:39
 
-July 11, 2014 13:39 | Tags: [cambridge](../tag/cambridge), [boston](../tag/boston), [event](../tag/event), [water-quality](../tag/water-quality), [open-water](../tag/open-water), [date:07-12-2014](../tag/date:07-12-2014)
+July 11, 2014 13:39 | Tags: [cambridge](/tag/cambridge), [boston](/tag/boston), [event](/tag/event), [water-quality](/tag/water-quality), [open-water](/tag/open-water), [date:07-12-2014](/tag/date:07-12-2014)
 
 ----
 

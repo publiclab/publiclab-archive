@@ -6,16 +6,14 @@ author: microfibers
 path: /notes/microfibers/03-24-2019/is-copy-calibration-on-spectral-workbench-working.md
 nid: 18835
 uid: 580529
-
 cids: 24048,27756
-
 ---
 
 # Is copy calibration on Spectral Workbench working?
 
-by [microfibers](../../../profile/microfibers) | March 24, 2019 18:37
+by [microfibers](/profile/microfibers) | March 24, 2019 18:37
 
-March 24, 2019 18:37 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [first-time-poster](../tag/first-time-poster)
+March 24, 2019 18:37 | Tags: [question:spectral-workbench](/tag/question:spectral-workbench), [first-time-poster](/tag/first-time-poster)
 
 ----
 

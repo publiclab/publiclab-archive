@@ -6,18 +6,16 @@ author: kgradow1
 path: /notes/kgradow1/10-31-2020/smells-that-kill-how-to-identify-odours.md
 nid: 24882
 uid: 297929
-
 cids: 27617,27625,28176,28204
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/425/original/SDCEA-Logo.jpg)
 
 # Smells that Kill: How to Identify Odours
 
-by [kgradow1](../../../profile/kgradow1) | October 31, 2020 13:38
+by [kgradow1](/profile/kgradow1) | October 31, 2020 13:38
 
-October 31, 2020 13:38 | Tags: [air-quality](../tag/air-quality), [oil-testing](../tag/oil-testing), [bucket-brigade](../tag/bucket-brigade), [africa](../tag/africa), [oilandgas](../tag/oilandgas), [odor](../tag/odor), [activity:air-quality](../tag/activity:air-quality), [activity:oil-testing](../tag/activity:oil-testing), [activity:odor](../tag/activity:odor), [odor-logging](../tag/odor-logging), [activity:odor-logging](../tag/activity:odor-logging), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor), [activity:bucket-monitor](../tag/activity:bucket-monitor), [lat:-29](../tag/lat:-29), [lon:31](../tag/lon:31), [south-africa](../tag/south-africa), [durban](../tag/durban)
+October 31, 2020 13:38 | Tags: [air-quality](/tag/air-quality), [oil-testing](/tag/oil-testing), [bucket-brigade](/tag/bucket-brigade), [africa](/tag/africa), [oilandgas](/tag/oilandgas), [odor](/tag/odor), [activity:air-quality](/tag/activity:air-quality), [activity:oil-testing](/tag/activity:oil-testing), [activity:odor](/tag/activity:odor), [odor-logging](/tag/odor-logging), [activity:odor-logging](/tag/activity:odor-logging), [zoom:6](/tag/zoom:6), [bucket-monitor](/tag/bucket-monitor), [activity:bucket-monitor](/tag/activity:bucket-monitor), [lat:-29](/tag/lat:-29), [lon:31](/tag/lon:31), [south-africa](/tag/south-africa), [durban](/tag/durban)
 
 ----
 

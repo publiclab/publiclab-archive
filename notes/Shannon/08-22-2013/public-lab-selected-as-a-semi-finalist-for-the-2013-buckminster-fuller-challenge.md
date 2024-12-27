@@ -6,18 +6,16 @@ author: Shannon
 path: /notes/Shannon/08-22-2013/public-lab-selected-as-a-semi-finalist-for-the-2013-buckminster-fuller-challenge.md
 nid: 9049
 uid: 9
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/291/original/blob)
 
 # Public Lab Selected as a Semi-Finalist for the 2013 Buckminster Fuller Challenge
 
-by [Shannon](../../../profile/Shannon) | August 22, 2013 16:52
+by [Shannon](/profile/Shannon) | August 22, 2013 16:52
 
-August 22, 2013 16:52 | Tags: [press-release](../tag/press-release), [press](../tag/press), [buckminster-fuller-challenge](../tag/buckminster-fuller-challenge)
+August 22, 2013 16:52 | Tags: [press-release](/tag/press-release), [press](/tag/press), [buckminster-fuller-challenge](/tag/buckminster-fuller-challenge)
 
 ----
 

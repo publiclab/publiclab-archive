@@ -6,18 +6,16 @@ author: Hudonnoodles
 path: /notes/Hudonnoodles/04-30-2014/northeast-tool-focused-barnraising-june-6-8-2014.md
 nid: 10383
 uid: 102
-
 cids: 9022
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/941/original/IMG_3410.JPG)
 
 # Northeast Tool-focused Barnraising: June 6-8, 2014
 
-by [Hudonnoodles](../../../profile/Hudonnoodles) | April 30, 2014 15:27
+by [Hudonnoodles](/profile/Hudonnoodles) | April 30, 2014 15:27
 
-April 30, 2014 15:27 | Tags: [new-york-city](../tag/new-york-city), [providence](../tag/providence), [somerville-massachusetts](../tag/somerville-massachusetts), [vermont](../tag/vermont), [boston](../tag/boston), [philadelphia](../tag/philadelphia), [barnraising](../tag/barnraising), [event](../tag/event), [plymouth](../tag/plymouth), [tidmarsh](../tag/tidmarsh), [dc-baltimore](../tag/dc-baltimore), [northeast](../tag/northeast), [tool-focused](../tag/tool-focused), [jones-river](../tag/jones-river), [regional](../tag/regional)
+April 30, 2014 15:27 | Tags: [new-york-city](/tag/new-york-city), [providence](/tag/providence), [somerville-massachusetts](/tag/somerville-massachusetts), [vermont](/tag/vermont), [boston](/tag/boston), [philadelphia](/tag/philadelphia), [barnraising](/tag/barnraising), [event](/tag/event), [plymouth](/tag/plymouth), [tidmarsh](/tag/tidmarsh), [dc-baltimore](/tag/dc-baltimore), [northeast](/tag/northeast), [tool-focused](/tag/tool-focused), [jones-river](/tag/jones-river), [regional](/tag/regional)
 
 ----
 

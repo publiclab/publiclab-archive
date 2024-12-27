@@ -6,14 +6,12 @@ author: gonzoearth
 path: /notes/gonzoearth/12-30-2011/congress-noaa-should-explore-charging-its-satellite-data.md
 nid: 671
 uid: 12
-
 cids: 
-
 ---
 
 # Congress: NOAA Should Explore Charging for its Satellite Data
 
-by [gonzoearth](../../../profile/gonzoearth) | December 30, 2011 15:48
+by [gonzoearth](/profile/gonzoearth) | December 30, 2011 15:48
 
 December 30, 2011 15:48 | Tags: 
 

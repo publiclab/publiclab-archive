@@ -6,16 +6,14 @@ author: marlokeno
 path: /notes/marlokeno/06-19-2017/how-can-we-get-rid-of-spam-on-the-main-pl-page.md
 nid: 14557
 uid: 420760
-
 cids: 16898,22495
-
 ---
 
 # How can we get rid of spam on the main PL page?
 
-by [marlokeno](../../../profile/marlokeno) | June 19, 2017 20:19
+by [marlokeno](/profile/marlokeno) | June 19, 2017 20:19
 
-June 19, 2017 20:19 | Tags: [spam](../tag/spam), [moderation](../tag/moderation), [question:question](../tag/question:question), [question:moderation](../tag/question:moderation), [question:spam](../tag/question:spam)
+June 19, 2017 20:19 | Tags: [spam](/tag/spam), [moderation](/tag/moderation), [question:question](/tag/question:question), [question:moderation](/tag/question:moderation), [question:spam](/tag/question:spam)
 
 ----
 

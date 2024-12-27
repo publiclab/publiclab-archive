@@ -6,18 +6,16 @@ author: enviromicro
 path: /notes/enviromicro/11-15-2019/community-science-drinking-water-quality.md
 nid: 21497
 uid: 637801
-
 cids: 25942,26384
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/534/original/PeelPlate2.jpg)
 
 # Community Science: Drinking Water Quality
 
-by [enviromicro](../../../profile/enviromicro) | November 15, 2019 19:05
+by [enviromicro](/profile/enviromicro) | November 15, 2019 19:05
 
-November 15, 2019 19:05 | Tags: [education](../tag/education), [water-quality](../tag/water-quality), [drinking-water](../tag/drinking-water), [first-time-poster](../tag/first-time-poster)
+November 15, 2019 19:05 | Tags: [education](/tag/education), [water-quality](/tag/water-quality), [drinking-water](/tag/drinking-water), [first-time-poster](/tag/first-time-poster)
 
 ----
 

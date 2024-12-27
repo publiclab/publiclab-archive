@@ -6,12 +6,12 @@ author: natalie
 path: /wiki/promos.md
 nid: 10625
 uid: 424454
-
+cids: 
 ---
 
 # promos
 
-by [warren](../profile/warren), [natalie](../profile/natalie)
+by [warren](/profile/warren), [natalie](/profile/natalie)
 
 June 27, 2014 21:21 | Tags: 
 

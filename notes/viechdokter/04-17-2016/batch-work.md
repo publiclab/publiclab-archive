@@ -6,18 +6,16 @@ author: viechdokter
 path: /notes/viechdokter/04-17-2016/batch-work.md
 nid: 12992
 uid: 468990
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/619/original/batch_work.jpg)
 
 # Batch work
 
-by [viechdokter](../../../profile/viechdokter) | April 17, 2016 12:30
+by [viechdokter](/profile/viechdokter) | April 17, 2016 12:30
 
-April 17, 2016 12:30 | Tags: [spectrometer](../tag/spectrometer), [macro](../tag/macro), [serial](../tag/serial), [formats](../tag/formats), [file](../tag/file)
+April 17, 2016 12:30 | Tags: [spectrometer](/tag/spectrometer), [macro](/tag/macro), [serial](/tag/serial), [formats](/tag/formats), [file](/tag/file)
 
 ----
 

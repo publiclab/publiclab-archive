@@ -6,18 +6,16 @@ author: JSummers
 path: /notes/JSummers/08-16-2018/wheetrometer-spectrometer-update-part-2.md
 nid: 16944
 uid: 304279
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/227/original/board3.png)
 
 # Wheetrometer Spectrometer update: Part 2.
 
-by [JSummers](../../../profile/JSummers) | August 16, 2018 20:57
+by [JSummers](/profile/JSummers) | August 16, 2018 20:57
 
-August 16, 2018 20:57 | Tags: [spectrometer](../tag/spectrometer), [software](../tag/software), [wheetrometer](../tag/wheetrometer)
+August 16, 2018 20:57 | Tags: [spectrometer](/tag/spectrometer), [software](/tag/software), [wheetrometer](/tag/wheetrometer)
 
 ----
 

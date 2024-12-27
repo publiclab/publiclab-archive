@@ -6,16 +6,14 @@ author: jjoll
 path: /notes/jjoll/06-28-2017/desktop-spectrometry-kit-to-arduino.md
 nid: 14589
 uid: 508437
-
 cids: 16940,16941,16942,22504,22505
-
 ---
 
 # Desktop Spectrometry Kit to arduino?
 
-by [jjoll](../../../profile/jjoll) | June 28, 2017 13:23
+by [jjoll](/profile/jjoll) | June 28, 2017 13:23
 
-June 28, 2017 13:23 | Tags: [arduino](../tag/arduino), [spectrometry](../tag/spectrometry), [ccd](../tag/ccd), [question:spectrometry](../tag/question:spectrometry), [question:dssk](../tag/question:dssk), [question:arduino](../tag/question:arduino), [question:spectrometry-challenge](../tag/question:spectrometry-challenge)
+June 28, 2017 13:23 | Tags: [arduino](/tag/arduino), [spectrometry](/tag/spectrometry), [ccd](/tag/ccd), [question:spectrometry](/tag/question:spectrometry), [question:dssk](/tag/question:dssk), [question:arduino](/tag/question:arduino), [question:spectrometry-challenge](/tag/question:spectrometry-challenge)
 
 ----
 

@@ -6,16 +6,14 @@ author: sara_rx
 path: /notes/sara_rx/04-19-2022/outreachy-proposal.md
 nid: 30480
 uid: 793008
-
 cids: 30074,30118
-
 ---
 
 # Outreachy proposal:  Design a new full-screen user interface for Infragram.org 
 
-by [sara_rx](../../../profile/sara_rx) | April 19, 2022 00:19
+by [sara_rx](/profile/sara_rx) | April 19, 2022 00:19
 
-April 19, 2022 00:19 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [zoom:9](../tag/zoom:9), [zoom:2](../tag/zoom:2), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022), [lat:34.065336](../tag/lat:34.065336), [lon:72.650584](../tag/lon:72.650584), [lat:34.071678](../tag/lat:34.071678), [lon:72.646592](../tag/lon:72.646592)
+April 19, 2022 00:19 | Tags: [software](/tag/software), [outreachy](/tag/outreachy), [first-time-poster](/tag/first-time-poster), [zoom:9](/tag/zoom:9), [zoom:2](/tag/zoom:2), [outreachy-2022](/tag/outreachy-2022), [outreachy-summer-2022](/tag/outreachy-summer-2022), [lat:34.065336](/tag/lat:34.065336), [lon:72.650584](/tag/lon:72.650584), [lat:34.071678](/tag/lat:34.071678), [lon:72.646592](/tag/lon:72.646592)
 
 ----
 

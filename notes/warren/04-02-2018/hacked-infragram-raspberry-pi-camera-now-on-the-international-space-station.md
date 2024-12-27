@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/04-02-2018/hacked-infragram-raspberry-pi-camera-now-on-the-international-space-station.md
 nid: 16052
 uid: 1
-
 cids: 19289,19292,19299
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/296/original/ISS-Feature3.jpg)
 
 # Hacked Infragram Raspberry Pi camera now on the International Space Station
 
-by [warren](../../../profile/warren) | April 02, 2018 15:43
+by [warren](/profile/warren) | April 02, 2018 15:43
 
-April 02, 2018 15:43 | Tags: [ndvi](../tag/ndvi), [nasa](../tag/nasa), [filter](../tag/filter), [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [rosco](../tag/rosco), [blog](../tag/blog), [infragram-filters](../tag/infragram-filters), [space](../tag/space), [pi-camera](../tag/pi-camera), [esa](../tag/esa), [iss](../tag/iss), [space-station](../tag/space-station), [astro-pi](../tag/astro-pi)
+April 02, 2018 15:43 | Tags: [ndvi](/tag/ndvi), [nasa](/tag/nasa), [filter](/tag/filter), [raspberry-pi](/tag/raspberry-pi), [infragram](/tag/infragram), [rosco](/tag/rosco), [blog](/tag/blog), [infragram-filters](/tag/infragram-filters), [space](/tag/space), [pi-camera](/tag/pi-camera), [esa](/tag/esa), [iss](/tag/iss), [space-station](/tag/space-station), [astro-pi](/tag/astro-pi)
 
 ----
 

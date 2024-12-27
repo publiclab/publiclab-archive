@@ -6,16 +6,16 @@ author: gretchengehrke
 path: /wiki/corrosion-coupons.md
 nid: 15517
 uid: 430549
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/172/original/Screen_Shot_2018-01-12_at_3.17.05_PM.png)
 
 # Purafil Corrosion Coupons
 
-by [gretchengehrke](../profile/gretchengehrke), [warren](../profile/warren)
+by [gretchengehrke](/profile/gretchengehrke), [warren](/profile/warren)
 
-January 12, 2018 20:19 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-copper-pipe](../tag/h2s-copper-pipe), [parent:hydrogen-sulfide](../tag/parent:hydrogen-sulfide)
+January 12, 2018 20:19 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [h2s-copper-pipe](/tag/h2s-copper-pipe), [parent:hydrogen-sulfide](/tag/parent:hydrogen-sulfide)
 
 ----
 
@@ -27,7 +27,7 @@ The Purafil corrosion classification coupons are composed of two metal strips: o
 
 ## Questions
 
-[corrosion-coupons](../../tag/question:corrosion-coupons)
+[corrosion-coupons](/tag/question:corrosion-coupons)
 
 ****
 

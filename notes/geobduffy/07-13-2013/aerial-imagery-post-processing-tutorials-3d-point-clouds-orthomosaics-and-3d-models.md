@@ -6,18 +6,16 @@ author: geobduffy
 path: /notes/geobduffy/07-13-2013/aerial-imagery-post-processing-tutorials-3d-point-clouds-orthomosaics-and-3d-models.md
 nid: 8866
 uid: 60509
-
 cids: 6307
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/768/original/PP_Tut_2.jpg)
 
 # Aerial Imagery Post Processing Tutorials: 3D point clouds, Orthomosaics, and 3D models 
 
-by [geobduffy](../../../profile/geobduffy) | July 13, 2013 13:54
+by [geobduffy](/profile/geobduffy) | July 13, 2013 13:54
 
-July 13, 2013 13:54 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [uav](../tag/uav), [sfm](../tag/sfm), [structure-from-motion](../tag/structure-from-motion), [3d-models](../tag/3d-models), [first-time-poster](../tag/first-time-poster)
+July 13, 2013 13:54 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [uav](/tag/uav), [sfm](/tag/sfm), [structure-from-motion](/tag/structure-from-motion), [3d-models](/tag/3d-models), [first-time-poster](/tag/first-time-poster)
 
 ----
 

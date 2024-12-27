@@ -6,18 +6,16 @@ author: donblair
 path: /notes/donblair/10-14-2012/videoaudio-interface-web-page-microcontroller.md
 nid: 4407
 uid: 43651
-
 cids: 1664,1665,1669,1673,1675,1677,1678,1679,1683,1696,1752,2044,2100
-
 ---
 
 ![](https://publiclab.org/sites/default/files/publiclabisrad.png)
 
 # Video/Audio interface, Web page & Microcontroller
 
-by [donblair](../../../profile/donblair) | October 14, 2012 21:27
+by [donblair](/profile/donblair) | October 14, 2012 21:27
 
-October 14, 2012 21:27 | Tags: [arduino](../tag/arduino), [sensing](../tag/sensing)
+October 14, 2012 21:27 | Tags: [arduino](/tag/arduino), [sensing](/tag/sensing)
 
 ----
 

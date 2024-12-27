@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/07-18-2017/redstone-rig-2-0.md
 nid: 14660
 uid: 554
-
 cids: 17057,17058,17102
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/150/original/AssembledLegsRender2c.jpg)
 
 # Redstone Rig 2.0
 
-by [cfastie](../../../profile/cfastie) | July 18, 2017 02:40
+by [cfastie](/profile/cfastie) | July 18, 2017 02:40
 
-July 18, 2017 02:40 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [aerial-photography](../tag/aerial-photography), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [aerial-mapping](../tag/aerial-mapping), [camera-rig](../tag/camera-rig), [redstone](../tag/redstone), [kaptery](../tag/kaptery), [autodesk](../tag/autodesk)
+July 18, 2017 02:40 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [aerial-photography](/tag/aerial-photography), [kap](/tag/kap), [photo-rig](/tag/photo-rig), [aerial-mapping](/tag/aerial-mapping), [camera-rig](/tag/camera-rig), [redstone](/tag/redstone), [kaptery](/tag/kaptery), [autodesk](/tag/autodesk)
 
 ----
 

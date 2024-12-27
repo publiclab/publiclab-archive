@@ -6,14 +6,14 @@ author: liz
 path: /wiki/uganda.md
 nid: 11155
 uid: 7
-
+cids: 
 ---
 
 # uganda
 
-by [mlamadrid](../profile/mlamadrid), [liz](../profile/liz)
+by [mlamadrid](/profile/mlamadrid), [liz](/profile/liz)
 
-September 18, 2014 13:50 | Tags: [uganda](../tag/uganda), [africa](../tag/africa)
+September 18, 2014 13:50 | Tags: [uganda](/tag/uganda), [africa](/tag/africa)
 
 ----
 

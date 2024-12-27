@@ -6,14 +6,14 @@ author: kanarinka
 path: /wiki/the-open-water-project-faq.md
 nid: 10320
 uid: 994
-
+cids: 
 ---
 
 # The Open Water Project: FAQ
 
-by [donblair](../profile/donblair), [kanarinka](../profile/kanarinka)
+by [donblair](/profile/donblair), [kanarinka](/profile/kanarinka)
 
-April 16, 2014 10:14 | Tags: [water-quality](../tag/water-quality), [riffle](../tag/riffle), [parent:water-quality](../tag/parent:water-quality)
+April 16, 2014 10:14 | Tags: [water-quality](/tag/water-quality), [riffle](/tag/riffle), [parent:water-quality](/tag/parent:water-quality)
 
 ----
 

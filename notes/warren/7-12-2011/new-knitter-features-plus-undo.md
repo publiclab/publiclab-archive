@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/7-12-2011/new-knitter-features-plus-undo.md
 nid: 379
 uid: 1
-
 cids: 298
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/024/original/image.png)
 
 # New Knitter features - plus UNDO
 
-by [warren](../../../profile/warren) | July 12, 2011 10:22
+by [warren](/profile/warren) | July 12, 2011 10:22
 
 July 12, 2011 10:22 | Tags: 
 

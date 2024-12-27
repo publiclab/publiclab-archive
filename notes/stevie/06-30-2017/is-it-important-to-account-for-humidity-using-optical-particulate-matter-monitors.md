@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/06-30-2017/is-it-important-to-account-for-humidity-using-optical-particulate-matter-monitors.md
 nid: 14594
 uid: 422561
-
 cids: 16963,16964,16984,16991,22510,22511
-
 ---
 
 # Is it important to account for humidity using optical particulate matter monitors? 
 
-by [stevie](../../../profile/stevie) | June 30, 2017 15:08
+by [stevie](/profile/stevie) | June 30, 2017 15:08
 
-June 30, 2017 15:08 | Tags: [humidity](../tag/humidity), [answered](../tag/answered), [optical-pm](../tag/optical-pm), [question:optical-pm](../tag/question:optical-pm)
+June 30, 2017 15:08 | Tags: [humidity](/tag/humidity), [answered](/tag/answered), [optical-pm](/tag/optical-pm), [question:optical-pm](/tag/question:optical-pm)
 
 ----
 

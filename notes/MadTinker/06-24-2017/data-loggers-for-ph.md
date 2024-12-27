@@ -6,18 +6,16 @@ author: MadTinker
 path: /notes/MadTinker/06-24-2017/data-loggers-for-ph.md
 nid: 14575
 uid: 461206
-
 cids: 22499,22500
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/859/original/IMG_7187.jpg)
 
 # data loggers for PH ? 
 
-by [MadTinker](../../../profile/MadTinker) | June 24, 2017 04:09
+by [MadTinker](/profile/MadTinker) | June 24, 2017 04:09
 
-June 24, 2017 04:09 | Tags: [tool](../tag/tool), [riffle](../tag/riffle), [answered](../tag/answered), [question:water-quality](../tag/question:water-quality), [data-logging](../tag/data-logging), [question:general](../tag/question:general), [nano-data-logger](../tag/nano-data-logger), [datalogging](../tag/datalogging), [first-time-poster](../tag/first-time-poster)
+June 24, 2017 04:09 | Tags: [tool](/tag/tool), [riffle](/tag/riffle), [answered](/tag/answered), [question:water-quality](/tag/question:water-quality), [data-logging](/tag/data-logging), [question:general](/tag/question:general), [nano-data-logger](/tag/nano-data-logger), [datalogging](/tag/datalogging), [first-time-poster](/tag/first-time-poster)
 
 ----
 

@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/10-06-2014/nir-and-water.md
 nid: 11243
 uid: 554
-
 cids: 10508
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/330/original/Danby-533-116.jpg)
 
 # NIR and water
 
-by [cfastie](../../../profile/cfastie) | October 06, 2014 18:23
+by [cfastie](/profile/cfastie) | October 06, 2014 18:23
 
-October 06, 2014 18:23 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [nir](../tag/nir), [vermont](../tag/vermont), [infragram](../tag/infragram), [response:11226](../tag/response:11226), [activity:multispectral-imaging](../tag/activity:multispectral-imaging)
+October 06, 2014 18:23 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [nir](/tag/nir), [vermont](/tag/vermont), [infragram](/tag/infragram), [response:11226](/tag/response:11226), [activity:multispectral-imaging](/tag/activity:multispectral-imaging)
 
 ----
 

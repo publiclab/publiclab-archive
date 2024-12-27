@@ -6,12 +6,12 @@ author: warren
 path: /wiki/opera-mobile.md
 nid: 4574
 uid: 1
-
+cids: 
 ---
 
 # Opera Mobile
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
 October 22, 2012 14:00 | Tags: 
 

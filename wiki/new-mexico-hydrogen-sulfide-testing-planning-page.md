@@ -6,14 +6,14 @@ author: sara
 path: /wiki/new-mexico-hydrogen-sulfide-testing-planning-page.md
 nid: 2739
 uid: 8
-
+cids: 
 ---
 
 # New Mexico Hydrogen Sulfide testing planning page
 
-by [Shannon](../profile/Shannon), [megan](../profile/megan), [sara](../profile/sara)
+by [Shannon](/profile/Shannon), [megan](/profile/megan), [sara](/profile/sara)
 
-July 09, 2012 17:20 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [new-mexico](../tag/new-mexico), [colorado](../tag/colorado), [draeger-tubes](../tag/draeger-tubes), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [parent:hydrogen-sulfide-sensing](../tag/parent:hydrogen-sulfide-sensing), [mountain-west](../tag/mountain-west)
+July 09, 2012 17:20 | Tags: [hydrogen-sulfide-sensing](/tag/hydrogen-sulfide-sensing), [new-mexico](/tag/new-mexico), [colorado](/tag/colorado), [draeger-tubes](/tag/draeger-tubes), [hydrogen-sulfide](/tag/hydrogen-sulfide), [h2s](/tag/h2s), [parent:hydrogen-sulfide-sensing](/tag/parent:hydrogen-sulfide-sensing), [mountain-west](/tag/mountain-west)
 
 ----
 

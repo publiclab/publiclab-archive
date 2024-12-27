@@ -6,16 +6,14 @@ author: Bronwen
 path: /notes/Bronwen/07-26-2019/analysis-of-microplastics-are-there-platforms-or-support-for-this-work.md
 nid: 20333
 uid: 237313
-
 cids: 25162
-
 ---
 
 # Analysis of microplastics: are there platforms or support for this work?
 
-by [Bronwen](../../../profile/Bronwen) | July 26, 2019 19:09
+by [Bronwen](/profile/Bronwen) | July 26, 2019 19:09
 
-July 26, 2019 19:09 | Tags: [question:question](../tag/question:question), [question:microplastics](../tag/question:microplastics), [microplastics](../tag/microplastics), [question:babylegs](../tag/question:babylegs), [babylegs](../tag/babylegs), [trawl](../tag/trawl)
+July 26, 2019 19:09 | Tags: [question:question](/tag/question:question), [question:microplastics](/tag/question:microplastics), [microplastics](/tag/microplastics), [question:babylegs](/tag/question:babylegs), [babylegs](/tag/babylegs), [trawl](/tag/trawl)
 
 ----
 

@@ -6,16 +6,16 @@ author: Shannon
 path: /wiki/texas.md
 nid: 370
 uid: 9
-
+cids: 
 ---
 
 ![](https://publiclab.org/sites/default/files/austin-texas-daniel_johnston-hi_how_are_you.jpeg)
 
 # Texas
 
-by [liz](../profile/liz), [gregoryfoster](../profile/gregoryfoster), [Hudonnoodles](../profile/Hudonnoodles), [Shannon](../profile/Shannon)
+by [liz](/profile/liz), [gregoryfoster](/profile/gregoryfoster), [Hudonnoodles](/profile/Hudonnoodles), [Shannon](/profile/Shannon)
 
-July 06, 2011 13:30 | Tags: [gulf-coast](../tag/gulf-coast), [chapter](../tag/chapter), [texas](../tag/texas), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [zoom:6](../tag/zoom:6), [lat:31](../tag/lat:31), [lon:-99](../tag/lon:-99)
+July 06, 2011 13:30 | Tags: [gulf-coast](/tag/gulf-coast), [chapter](/tag/chapter), [texas](/tag/texas), [location:blurred](/tag/location:blurred), [place:united-states](/tag/place:united-states), [zoom:6](/tag/zoom:6), [lat:31](/tag/lat:31), [lon:-99](/tag/lon:-99)
 
 ----
 

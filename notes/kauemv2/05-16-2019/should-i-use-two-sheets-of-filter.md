@@ -6,16 +6,14 @@ author: kauemv2
 path: /notes/kauemv2/05-16-2019/should-i-use-two-sheets-of-filter.md
 nid: 19434
 uid: 590177
-
 cids: 24159,24164,24181,24259,29802
-
 ---
 
 # Should I use two sheets of filter?
 
-by [kauemv2](../../../profile/kauemv2) | May 16, 2019 20:17
+by [kauemv2](/profile/kauemv2) | May 16, 2019 20:17
 
-May 16, 2019 20:17 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [infragram-sandbox](../tag/infragram-sandbox), [question:infragram](../tag/question:infragram), [question:filter-pack](../tag/question:filter-pack), [first-time-poster](../tag/first-time-poster), [infragram-pi](../tag/infragram-pi)
+May 16, 2019 20:17 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ndvi](/tag/ndvi), [infrared](/tag/infrared), [infragram](/tag/infragram), [infragram-sandbox](/tag/infragram-sandbox), [question:infragram](/tag/question:infragram), [question:filter-pack](/tag/question:filter-pack), [first-time-poster](/tag/first-time-poster), [infragram-pi](/tag/infragram-pi)
 
 ----
 

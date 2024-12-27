@@ -6,18 +6,16 @@ author: bhamster
 path: /notes/bhamster/01-05-2021/wrapping-up-an-air-quality-research-area-review.md
 nid: 25422
 uid: 664477
-
 cids: 27907
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/301/original/Taiwan_latest_thumbnail.gif)
 
 # Wrapping up an air quality research area review
 
-by [bhamster](../../../profile/bhamster) | January 05, 2021 23:44
+by [bhamster](/profile/bhamster) | January 05, 2021 23:44
 
-January 05, 2021 23:44 | Tags: [research](../tag/research), [air-quality](../tag/air-quality), [taiwan](../tag/taiwan), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review)
+January 05, 2021 23:44 | Tags: [research](/tag/research), [air-quality](/tag/air-quality), [taiwan](/tag/taiwan), [reviews](/tag/reviews), [research-area-review](/tag/research-area-review)
 
 ----
 

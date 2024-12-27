@@ -6,16 +6,14 @@ author: seankmcginnis
 path: /notes/seankmcginnis/06-03-2021/purpleair-sensor-data-to-hosted-geospatial-data-layer.md
 nid: 26746
 uid: 552
-
 cids: 28875,28876,28880,28883,28885
-
 ---
 
 # PurpleAir Sensor Data to Hosted Geospatial Data Layer
 
-by [seankmcginnis](../../../profile/seankmcginnis) | June 03, 2021 14:26
+by [seankmcginnis](/profile/seankmcginnis) | June 03, 2021 14:26
 
-June 03, 2021 14:26 | Tags: [mapping](../tag/mapping), [air-quality](../tag/air-quality), [geospatial](../tag/geospatial), [barnstar:basic](../tag/barnstar:basic), [purpleair](../tag/purpleair), [air-quality-monitoring](../tag/air-quality-monitoring), [presenting-data](../tag/presenting-data), [air-quality-data](../tag/air-quality-data)
+June 03, 2021 14:26 | Tags: [mapping](/tag/mapping), [air-quality](/tag/air-quality), [geospatial](/tag/geospatial), [barnstar:basic](/tag/barnstar:basic), [purpleair](/tag/purpleair), [air-quality-monitoring](/tag/air-quality-monitoring), [presenting-data](/tag/presenting-data), [air-quality-data](/tag/air-quality-data)
 
 ----
 

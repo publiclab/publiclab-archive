@@ -6,18 +6,16 @@ author: ladislavkarika
 path: /notes/ladislavkarika/09-07-2021/mapknitter-map-of-t.md
 nid: 27694
 uid: 771796
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/785/original/29E5738B-1619-476C-A51C-FCC92AD36E20.jpeg)
 
 # MapKnitter map of T
 
-by [ladislavkarika](../../../profile/ladislavkarika) | September 07, 2021 21:15
+by [ladislavkarika](/profile/ladislavkarika) | September 07, 2021 21:15
 
-September 07, 2021 21:15 | Tags: [mapknitter](../tag/mapknitter), [first-time-poster](../tag/first-time-poster), [zoom:16](../tag/zoom:16), [lat:48.0858064](../tag/lat:48.0858064), [lon:17.4208781](../tag/lon:17.4208781), [lat:48.079](../tag/lat:48.079), [lon:17.423](../tag/lon:17.423)
+September 07, 2021 21:15 | Tags: [mapknitter](/tag/mapknitter), [first-time-poster](/tag/first-time-poster), [zoom:16](/tag/zoom:16), [lat:48.0858064](/tag/lat:48.0858064), [lon:17.4208781](/tag/lon:17.4208781), [lat:48.079](/tag/lat:48.079), [lon:17.423](/tag/lon:17.423)
 
 ----
 

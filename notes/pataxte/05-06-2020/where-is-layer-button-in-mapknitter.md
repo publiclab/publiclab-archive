@@ -6,16 +6,14 @@ author: pataxte
 path: /notes/pataxte/05-06-2020/where-is-layer-button-in-mapknitter.md
 nid: 23562
 uid: 559561
-
 cids: 26761,26762,26763,26804,26805,26810,26811,26820
-
 ---
 
 # where is layer button in mapknitter?
 
-by [pataxte](../../../profile/pataxte) | May 06, 2020 23:52
+by [pataxte](/profile/pataxte) | May 06, 2020 23:52
 
-May 06, 2020 23:52 | Tags: [mapknitter](../tag/mapknitter), [question:general](../tag/question:general), [general](../tag/general)
+May 06, 2020 23:52 | Tags: [mapknitter](/tag/mapknitter), [question:general](/tag/question:general), [general](/tag/general)
 
 ----
 

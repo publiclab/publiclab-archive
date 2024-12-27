@@ -6,18 +6,16 @@ author: eymund
 path: /notes/eymund-diegel/12-18-2012/mapping-sewage-flows-gowanus-canal-after-sandy-flood-damages-sequel.md
 nid: 5250
 uid: 1016
-
 cids: 2771,2782
-
 ---
 
 ![](https://publiclab.org/sites/default/files/2012 December 15_balloon_photography_sewer plumes_IMG_4087_cropped.jpg)
 
 # Mapping Sewage Flows in the Gowanus Canal after Sandy flood damages - the sequel
 
-by [eymund](../../../profile/eymund) | December 19, 2012 04:27
+by [eymund](/profile/eymund) | December 19, 2012 04:27
 
-December 19, 2012 04:27 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [gowanus](../tag/gowanus), [brooklyn](../tag/brooklyn), [plume](../tag/plume), [sewage](../tag/sewage), [sandy](../tag/sandy), [milky](../tag/milky), [canoe](../tag/canoe), [water-quality](../tag/water-quality), [hurricane](../tag/hurricane), [great-photos](../tag/great-photos), [response:5220](../tag/response:5220), [wastewater](../tag/wastewater), [disaster-response](../tag/disaster-response)
+December 19, 2012 04:27 | Tags: [new-york-city](/tag/new-york-city), [balloon-mapping](/tag/balloon-mapping), [gowanus](/tag/gowanus), [brooklyn](/tag/brooklyn), [plume](/tag/plume), [sewage](/tag/sewage), [sandy](/tag/sandy), [milky](/tag/milky), [canoe](/tag/canoe), [water-quality](/tag/water-quality), [hurricane](/tag/hurricane), [great-photos](/tag/great-photos), [response:5220](/tag/response:5220), [wastewater](/tag/wastewater), [disaster-response](/tag/disaster-response)
 
 ----
 

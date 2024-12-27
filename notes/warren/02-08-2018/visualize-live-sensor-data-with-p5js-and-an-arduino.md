@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/02-08-2018/visualize-live-sensor-data-with-p5js-and-an-arduino.md
 nid: 15701
 uid: 1
-
 cids: 18387,18444,18450,18460,18650,19679,19680,21001,25359,25360
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/509/original/IMG_20180207_135242.jpg)
 
 # Visualize live sensor data with p5js and an Arduino
 
-by [warren](../../../profile/warren) | February 08, 2018 04:39
+by [warren](/profile/warren) | February 08, 2018 04:39
 
-February 08, 2018 04:39 | Tags: [air-quality](../tag/air-quality), [sensors](../tag/sensors), [gsoc](../tag/gsoc), [dustduino](../tag/dustduino), [dust](../tag/dust), [pm](../tag/pm), [shinyei](../tag/shinyei), [javascript](../tag/javascript), [webjack](../tag/webjack), [seeks:replications](../tag/seeks:replications), [activity:webjack](../tag/activity:webjack), [activity:dustduino](../tag/activity:dustduino), [activity:pm](../tag/activity:pm), [activity:arduino](../tag/activity:arduino), [activity:dust](../tag/activity:dust), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [pm10](../tag/pm10), [pm2](../tag/pm2), [p5js](../tag/p5js), [activity:javascript](../tag/activity:javascript)
+February 08, 2018 04:39 | Tags: [air-quality](/tag/air-quality), [sensors](/tag/sensors), [gsoc](/tag/gsoc), [dustduino](/tag/dustduino), [dust](/tag/dust), [pm](/tag/pm), [shinyei](/tag/shinyei), [javascript](/tag/javascript), [webjack](/tag/webjack), [seeks:replications](/tag/seeks:replications), [activity:webjack](/tag/activity:webjack), [activity:dustduino](/tag/activity:dustduino), [activity:pm](/tag/activity:pm), [activity:arduino](/tag/activity:arduino), [activity:dust](/tag/activity:dust), [air-sensors](/tag/air-sensors), [purpleair](/tag/purpleair), [pm10](/tag/pm10), [pm2](/tag/pm2), [p5js](/tag/p5js), [activity:javascript](/tag/activity:javascript)
 
 ----
 

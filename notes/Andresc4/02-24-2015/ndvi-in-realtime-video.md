@@ -6,18 +6,16 @@ author: andresc4
 path: /notes/Andresc4/02-24-2015/ndvi-in-realtime-video.md
 nid: 11633
 uid: 328260
-
 cids: 11200,11201,11202,11203,11204,11205,12040,13639
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/073/original/uploaddd.jpg)
 
 # NDVI in realtime video
 
-by [andresc4](../../../profile/andresc4) | February 24, 2015 16:37
+by [andresc4](/profile/andresc4) | February 24, 2015 16:37
 
-February 24, 2015 16:37 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [question:ndvi](../tag/question:ndvi), [ndvi-arg](../tag/ndvi-arg), [argiculture](../tag/argiculture)
+February 24, 2015 16:37 | Tags: [ndvi](/tag/ndvi), [infrared](/tag/infrared), [question:ndvi](/tag/question:ndvi), [ndvi-arg](/tag/ndvi-arg), [argiculture](/tag/argiculture)
 
 ----
 

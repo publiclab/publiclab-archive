@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/03-10-2018/installing-the-water-level-monitor.md
 nid: 15911
 uid: 554
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/947/original/spouts2.gif)
 
 # Installing the water-level monitor
 
-by [cfastie](../../../profile/cfastie) | March 10, 2018 01:07
+by [cfastie](/profile/cfastie) | March 10, 2018 01:07
 
-March 10, 2018 01:07 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [datalogger](../tag/datalogger), [data-logging](../tag/data-logging), [water-level](../tag/water-level), [bme280](../tag/bme280), [ds18b20](../tag/ds18b20), [mini-pearl-logger](../tag/mini-pearl-logger), [activity:mini-pearl-logger](../tag/activity:mini-pearl-logger), [mma8451](../tag/mma8451), [series:springhouse-water-level](../tag/series:springhouse-water-level), [log-a-long-timer](../tag/log-a-long-timer), [activity:log-a-long-timer](../tag/activity:log-a-long-timer)
+March 10, 2018 01:07 | Tags: [arduino](/tag/arduino), [sensors](/tag/sensors), [datalogger](/tag/datalogger), [data-logging](/tag/data-logging), [water-level](/tag/water-level), [bme280](/tag/bme280), [ds18b20](/tag/ds18b20), [mini-pearl-logger](/tag/mini-pearl-logger), [activity:mini-pearl-logger](/tag/activity:mini-pearl-logger), [mma8451](/tag/mma8451), [series:springhouse-water-level](/tag/series:springhouse-water-level), [log-a-long-timer](/tag/log-a-long-timer), [activity:log-a-long-timer](/tag/activity:log-a-long-timer)
 
 ----
 

@@ -6,18 +6,16 @@ author: eustatic
 path: /10-07-2020/why-is-the-texas-chemical-council-against-the-use-of-microscopes.md
 nid: 24712
 uid: 379
-
 cids: 27473,27474,27476,27568
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/090/original/49692738797_3ba3988c25_o.jpg)
 
 # Why is the Texas Chemical Council against the use of Microscopes?
 
-by [eustatic](../../../profile/eustatic) | October 07, 2020 17:10
+by [eustatic](/profile/eustatic) | October 07, 2020 17:10
 
-October 07, 2020 17:10 | Tags: [gulf-coast](../tag/gulf-coast), [water-quality](../tag/water-quality), [barnstar:watchdog](../tag/barnstar:watchdog), [microscope](../tag/microscope), [microplastics](../tag/microplastics), [zoom:16](../tag/zoom:16), [lat:30.267147](../tag/lat:30.267147), [lon:-97.743065](../tag/lon:-97.743065)
+October 07, 2020 17:10 | Tags: [gulf-coast](/tag/gulf-coast), [water-quality](/tag/water-quality), [barnstar:watchdog](/tag/barnstar:watchdog), [microscope](/tag/microscope), [microplastics](/tag/microplastics), [zoom:16](/tag/zoom:16), [lat:30.267147](/tag/lat:30.267147), [lon:-97.743065](/tag/lon:-97.743065)
 
 ----
 

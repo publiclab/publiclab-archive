@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/09-04-2015/analyzing-passive-monitors.md
 nid: 12197
 uid: 4
-
 cids: 12655,12747,12786,13070,14687,16051,16053,16054
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/472/original/areavsperimeter.jpg)
 
 # analyzing passive monitors
 
-by [mathew](../../../profile/mathew) | September 04, 2015 01:32
+by [mathew](/profile/mathew) | September 04, 2015 01:32
 
-September 04, 2015 01:32 | Tags: [image-processing](../tag/image-processing), [dust](../tag/dust), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [open-air](../tag/open-air), [particle-sensing](../tag/particle-sensing), [particle-monitoring](../tag/particle-monitoring), [dust-monitoring](../tag/dust-monitoring), [openair](../tag/openair), [image-analysis](../tag/image-analysis), [fracsand](../tag/fracsand), [air-sensing](../tag/air-sensing), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [parent:frac-sand](../tag/parent:frac-sand)
+September 04, 2015 01:32 | Tags: [image-processing](/tag/image-processing), [dust](/tag/dust), [silica](/tag/silica), [frac-sand](/tag/frac-sand), [pm](/tag/pm), [open-air](/tag/open-air), [particle-sensing](/tag/particle-sensing), [particle-monitoring](/tag/particle-monitoring), [dust-monitoring](/tag/dust-monitoring), [openair](/tag/openair), [image-analysis](/tag/image-analysis), [fracsand](/tag/fracsand), [air-sensing](/tag/air-sensing), [passive-particle-monitors](/tag/passive-particle-monitors), [passive-pm](/tag/passive-pm), [parent:frac-sand](/tag/parent:frac-sand)
 
 ----
 

@@ -6,18 +6,16 @@ author: azaelb
 path: /notes/azaelb/04-11-2015/ndvi-with-a-key-chain-camera-from-a-mini-drone-first-steps.md
 nid: 11754
 uid: 319070
-
 cids: 11521,28306
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/637/original/IRphoto.jpg)
 
 # NDVI with a key chain camera to use with a mini-drone - First steps
 
-by [azaelb](../../../profile/azaelb) | April 11, 2015 22:46
+by [azaelb](/profile/azaelb) | April 11, 2015 22:46
 
-April 11, 2015 22:46 | Tags: [ndvi](../tag/ndvi), [central-america](../tag/central-america), [panama](../tag/panama), [uav-mapping](../tag/uav-mapping), [uav-field-monitoring](../tag/uav-field-monitoring), [first-time-poster](../tag/first-time-poster)
+April 11, 2015 22:46 | Tags: [ndvi](/tag/ndvi), [central-america](/tag/central-america), [panama](/tag/panama), [uav-mapping](/tag/uav-mapping), [uav-field-monitoring](/tag/uav-field-monitoring), [first-time-poster](/tag/first-time-poster)
 
 ----
 

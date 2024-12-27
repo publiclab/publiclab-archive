@@ -6,18 +6,16 @@ author: abdul
 path: /notes/abdul/08-11-2016/constructing-a-desktop-spectrometer-with-no-wood-and-no-velcro.md
 nid: 13345
 uid: 479194
-
 cids: 15113,15114,15115,15116,15266,15275,15379,15380,15390,15391,15428
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/546/original/FullDSK.jpg)
 
 # Constructing a Desktop Spectrometer with no Wood, and no Velcro
 
-by [abdul](../../../profile/abdul) | August 11, 2016 00:18
+by [abdul](/profile/abdul) | August 11, 2016 00:18
 
-August 11, 2016 00:18 | Tags: [kits](../tag/kits), [spectrometry](../tag/spectrometry), [kit](../tag/kit), [dsk](../tag/dsk), [builds](../tag/builds), [desktop](../tag/desktop), [modification](../tag/modification), [difficulty:easy](../tag/difficulty:easy), [upgrade:spectrometry](../tag/upgrade:spectrometry), [upgrade:dssk](../tag/upgrade:dssk), [seeks:builds](../tag/seeks:builds), [category:build](../tag/category:build), [status:in-progress](../tag/status:in-progress), [time:1h](../tag/time:1h)
+August 11, 2016 00:18 | Tags: [kits](/tag/kits), [spectrometry](/tag/spectrometry), [kit](/tag/kit), [dsk](/tag/dsk), [builds](/tag/builds), [desktop](/tag/desktop), [modification](/tag/modification), [difficulty:easy](/tag/difficulty:easy), [upgrade:spectrometry](/tag/upgrade:spectrometry), [upgrade:dssk](/tag/upgrade:dssk), [seeks:builds](/tag/seeks:builds), [category:build](/tag/category:build), [status:in-progress](/tag/status:in-progress), [time:1h](/tag/time:1h)
 
 ----
 

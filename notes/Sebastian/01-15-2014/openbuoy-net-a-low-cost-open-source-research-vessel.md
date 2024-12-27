@@ -6,18 +6,16 @@ author: Sebastian
 path: /notes/Sebastian/01-15-2014/openbuoy-net-a-low-cost-open-source-research-vessel.md
 nid: 9949
 uid: 420294
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/559/original/buoy.jpeg)
 
 # OpenBuoy.net , a low cost open source research vessel
 
-by [Sebastian](../../../profile/Sebastian) | January 15, 2014 18:09
+by [Sebastian](/profile/Sebastian) | January 15, 2014 18:09
 
-January 15, 2014 18:09 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [event](../tag/event), [new-orleans](../tag/new-orleans), [water-quality](../tag/water-quality), [sensor](../tag/sensor), [eu](../tag/eu), [buoy](../tag/buoy), [germany](../tag/germany)
+January 15, 2014 18:09 | Tags: [gulf-coast](/tag/gulf-coast), [louisiana](/tag/louisiana), [event](/tag/event), [new-orleans](/tag/new-orleans), [water-quality](/tag/water-quality), [sensor](/tag/sensor), [eu](/tag/eu), [buoy](/tag/buoy), [germany](/tag/germany)
 
 ----
 

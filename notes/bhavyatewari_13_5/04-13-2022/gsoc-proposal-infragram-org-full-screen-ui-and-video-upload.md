@@ -6,18 +6,16 @@ author: bhavyatewari_13_5
 path: /notes/bhavyatewari_13_5/04-13-2022/gsoc-proposal-infragram-org-full-screen-ui-and-video-upload.md
 nid: 30355
 uid: 795167
-
 cids: 30003,30005,30037,30047,30071
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/734/original/PublicLab_logo.png)
 
 # GSoC"proposal: Infragram.org full-screen UI and video upload
 
-by [bhavyatewari_13_5](../../../profile/bhavyatewari_13_5) | April 13, 2022 19:11
+by [bhavyatewari_13_5](/profile/bhavyatewari_13_5) | April 13, 2022 19:11
 
-April 13, 2022 19:11 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [lat:28.704059](../tag/lat:28.704059), [lon:77.10249](../tag/lon:77.10249), [zoom:6](../tag/zoom:6), [gsoc-2022](../tag/gsoc-2022), [gsoc-2022-proposals](../tag/gsoc-2022-proposals)
+April 13, 2022 19:11 | Tags: [software](/tag/software), [gsoc](/tag/gsoc), [soc](/tag/soc), [first-time-poster](/tag/first-time-poster), [lat:28.704059](/tag/lat:28.704059), [lon:77.10249](/tag/lon:77.10249), [zoom:6](/tag/zoom:6), [gsoc-2022](/tag/gsoc-2022), [gsoc-2022-proposals](/tag/gsoc-2022-proposals)
 
 ----
 

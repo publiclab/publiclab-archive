@@ -6,18 +6,16 @@ author: priya17081
 path: /notes/priya17081/03-31-2019/outreachy-proposal-extend-leaflet-environmental-layers-with-new-layer-menu-and-layer-addition-workflow.md
 nid: 18911
 uid: 579680
-
 cids: 23568,23577,23587,23591,23609,23655,23657,23658,23660,23680,23799,23813
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/919/original/image.png)
 
 # Outreachy proposal: Extend Leaflet Environmental Layers with new layer menu and layer addition workflow
 
-by [priya17081](../../../profile/priya17081) | March 31, 2019 06:15
+by [priya17081](/profile/priya17081) | March 31, 2019 06:15
 
-March 31, 2019 06:15 | Tags: [software](../tag/software), [soc](../tag/soc), [lat:28](../tag/lat:28), [lon:77](../tag/lon:77), [outreachy](../tag/outreachy), [response:17359](../tag/response:17359), [first-time-poster](../tag/first-time-poster), [soc-2019](../tag/soc-2019), [outreachy-2019](../tag/outreachy-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [outreachy-2019-proposals](../tag/outreachy-2019-proposals), [lat:28.5](../tag/lat:28.5), [lon:77.2](../tag/lon:77.2)
+March 31, 2019 06:15 | Tags: [software](/tag/software), [soc](/tag/soc), [lat:28](/tag/lat:28), [lon:77](/tag/lon:77), [outreachy](/tag/outreachy), [response:17359](/tag/response:17359), [first-time-poster](/tag/first-time-poster), [soc-2019](/tag/soc-2019), [outreachy-2019](/tag/outreachy-2019), [soc-2019-proposals](/tag/soc-2019-proposals), [outreachy-2019-proposals](/tag/outreachy-2019-proposals), [lat:28.5](/tag/lat:28.5), [lon:77.2](/tag/lon:77.2)
 
 ----
 

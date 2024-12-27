@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/10-31-2016/create-a-welcoming-first-timers-only-issue-to-invite-new-software-contributors.md
 nid: 13667
 uid: 1
-
 cids: 15756,15781,31393
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/668/original/Screenshot_2016-10-30_at_7.55.15_PM.png)
 
 # Create a welcoming "first-timers-only" issue to invite new software contributors
 
-by [warren](../../../profile/warren) | October 31, 2016 03:10
+by [warren](/profile/warren) | October 31, 2016 03:10
 
-October 31, 2016 03:10 | Tags: [community](../tag/community), [outreach](../tag/outreach), [gsoc](../tag/gsoc), [web](../tag/web), [wwg](../tag/wwg), [activity:software](../tag/activity:software), [first-timers-only](../tag/first-timers-only), [contributors](../tag/contributors), [software-outreach](../tag/software-outreach), [activity:soc](../tag/activity:soc), [activity:software-outreach](../tag/activity:software-outreach), [first-timers-only-blog](../tag/first-timers-only-blog), [series:software-outreach](../tag/series:software-outreach), [activity:developers](../tag/activity:developers)
+October 31, 2016 03:10 | Tags: [community](/tag/community), [outreach](/tag/outreach), [gsoc](/tag/gsoc), [web](/tag/web), [wwg](/tag/wwg), [activity:software](/tag/activity:software), [first-timers-only](/tag/first-timers-only), [contributors](/tag/contributors), [software-outreach](/tag/software-outreach), [activity:soc](/tag/activity:soc), [activity:software-outreach](/tag/activity:software-outreach), [first-timers-only-blog](/tag/first-timers-only-blog), [series:software-outreach](/tag/series:software-outreach), [activity:developers](/tag/activity:developers)
 
 ----
 

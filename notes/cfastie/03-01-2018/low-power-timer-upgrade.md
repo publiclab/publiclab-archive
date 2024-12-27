@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/03-01-2018/low-power-timer-upgrade.md
 nid: 15841
 uid: 554
-
 cids: 28416,29046,29091,29092
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/767/original/miniPearl_20180225-2670-2ps.jpg)
 
 # Low-power timer upgrade
 
-by [cfastie](../../../profile/cfastie) | March 01, 2018 01:30
+by [cfastie](/profile/cfastie) | March 01, 2018 01:30
 
-March 01, 2018 01:30 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [activity:data-logging](../tag/activity:data-logging), [mini-pearl-logger](../tag/mini-pearl-logger), [activity:data-logging-power](../tag/activity:data-logging-power), [tpl5110](../tag/tpl5110), [low-power-logging](../tag/low-power-logging), [log-a-long-timer](../tag/log-a-long-timer), [activity:log-a-long-timer](../tag/activity:log-a-long-timer)
+March 01, 2018 01:30 | Tags: [arduino](/tag/arduino), [sensors](/tag/sensors), [activity:data-logging](/tag/activity:data-logging), [mini-pearl-logger](/tag/mini-pearl-logger), [activity:data-logging-power](/tag/activity:data-logging-power), [tpl5110](/tag/tpl5110), [low-power-logging](/tag/low-power-logging), [log-a-long-timer](/tag/log-a-long-timer), [activity:log-a-long-timer](/tag/activity:log-a-long-timer)
 
 ----
 

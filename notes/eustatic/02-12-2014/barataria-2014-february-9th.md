@@ -6,18 +6,16 @@ author: eustatic
 path: /02-12-2014/barataria-2014-february-9th.md
 nid: 10032
 uid: 379
-
 cids: 8238,8245,8246,8263,8264,8265,8268,8270
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/881/original/b_IMG_1162.JPG)
 
 # Barataria 2014: I February 9th
 
-by [eustatic](../../../profile/eustatic) | February 12, 2014 05:49
+by [eustatic](/profile/eustatic) | February 12, 2014 05:49
 
-February 12, 2014 05:49 | Tags: [barataria-bay](../tag/barataria-bay), [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [louisiana](../tag/louisiana), [wetland](../tag/wetland), [bp](../tag/bp), [patagonia](../tag/patagonia)
+February 12, 2014 05:49 | Tags: [barataria-bay](/tag/barataria-bay), [kite-mapping](/tag/kite-mapping), [wetlands](/tag/wetlands), [louisiana](/tag/louisiana), [wetland](/tag/wetland), [bp](/tag/bp), [patagonia](/tag/patagonia)
 
 ----
 

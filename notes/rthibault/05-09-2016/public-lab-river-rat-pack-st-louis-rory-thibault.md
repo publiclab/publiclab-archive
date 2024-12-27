@@ -6,18 +6,16 @@ author: rthibault
 path: /notes/rthibault/05-09-2016/public-lab-river-rat-pack-st-louis-rory-thibault.md
 nid: 13096
 uid: 465998
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/084/original/12716134_1105741376143965_436147808187310811_o.jpg)
 
 # Public Lab River Rat Pack -- St. Louis -- Rory Thibault
 
-by [rthibault](../../../profile/rthibault) | May 09, 2016 21:35
+by [rthibault](/profile/rthibault) | May 09, 2016 21:35
 
-May 09, 2016 21:35 | Tags: [balloon-mapping](../tag/balloon-mapping), [washu-stlouis](../tag/washu-stlouis), [publiclabriverratpack](../tag/publiclabriverratpack), [antidrone](../tag/antidrone), [plrrp](../tag/plrrp)
+May 09, 2016 21:35 | Tags: [balloon-mapping](/tag/balloon-mapping), [washu-stlouis](/tag/washu-stlouis), [publiclabriverratpack](/tag/publiclabriverratpack), [antidrone](/tag/antidrone), [plrrp](/tag/plrrp)
 
 ----
 

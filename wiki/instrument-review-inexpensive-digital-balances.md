@@ -6,12 +6,12 @@ author: JSummers
 path: /wiki/instrument-review-inexpensive-digital-balances.md
 nid: 10199
 uid: 304279
-
+cids: 
 ---
 
 # Instrument Review: Inexpensive Digital Balances
 
-by [JSummers](../profile/JSummers)
+by [JSummers](/profile/JSummers)
 
 March 18, 2014 19:22 | Tags: 
 

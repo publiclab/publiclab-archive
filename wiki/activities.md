@@ -6,14 +6,14 @@ author: liz
 path: /wiki/activities.md
 nid: 9060
 uid: 7
-
+cids: 
 ---
 
 # Learn about Activities
 
-by [warren](../profile/warren), [sagarpreet](../profile/sagarpreet), [liz](../profile/liz), [sara](../profile/sara), [hagitkeysar](../profile/hagitkeysar)
+by [warren](/profile/warren), [sagarpreet](/profile/sagarpreet), [liz](/profile/liz), [sara](/profile/sara), [hagitkeysar](/profile/hagitkeysar)
 
-August 27, 2013 20:39 | Tags: [education](../tag/education), [curriculum](../tag/curriculum), [needs-revision](../tag/needs-revision), [activity](../tag/activity), [activity-grids](../tag/activity-grids), [activities](../tag/activities), [sidebar:none](../tag/sidebar:none), [activity:website](../tag/activity:website)
+August 27, 2013 20:39 | Tags: [education](/tag/education), [curriculum](/tag/curriculum), [needs-revision](/tag/needs-revision), [activity](/tag/activity), [activity-grids](/tag/activity-grids), [activities](/tag/activities), [sidebar:none](/tag/sidebar:none), [activity:website](/tag/activity:website)
 
 ----
 
@@ -65,7 +65,7 @@ Collaboration is a core value at Public Lab. Follow these suggestions to offer s
 
 Have questions about posting an activity? Ask away! We're here to help.
 
-[activities](../../tag/question:activities)
+[activities](/tag/question:activities)
 
 ****
 

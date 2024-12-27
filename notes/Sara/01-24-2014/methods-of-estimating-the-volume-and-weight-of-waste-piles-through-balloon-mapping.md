@@ -6,18 +6,16 @@ author: sara
 path: /notes/Sara/01-24-2014/methods-of-estimating-the-volume-and-weight-of-waste-piles-through-balloon-mapping.md
 nid: 9977
 uid: 8
-
 cids: 8118,8121,8125,8130,28064
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/650/original/DSC01156.jpg)
 
 # Methods of Estimating the Volume and Weight of Waste Piles through Balloon Mapping
 
-by [sara](../../../profile/sara) | January 24, 2014 18:33
+by [sara](/profile/sara) | January 24, 2014 18:33
 
-January 24, 2014 18:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [landfill](../tag/landfill), [waste](../tag/waste), [volume](../tag/volume)
+January 24, 2014 18:33 | Tags: [balloon-mapping](/tag/balloon-mapping), [landfill](/tag/landfill), [waste](/tag/waste), [volume](/tag/volume)
 
 ----
 

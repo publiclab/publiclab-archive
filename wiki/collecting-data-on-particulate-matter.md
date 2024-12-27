@@ -6,14 +6,14 @@ author: mathew
 path: /wiki/collecting-data-on-particulate-matter.md
 nid: 12691
 uid: 4
-
+cids: 
 ---
 
 # Collecting Data on Particulate Matter
 
-by [bhamster](../profile/bhamster), [gretchengehrke](../profile/gretchengehrke), [stevie](../profile/stevie), [mathew](../profile/mathew)
+by [bhamster](/profile/bhamster), [gretchengehrke](/profile/gretchengehrke), [stevie](/profile/stevie), [mathew](/profile/mathew)
 
-February 15, 2016 09:59 | Tags: [parent:pm](../tag/parent:pm)
+February 15, 2016 09:59 | Tags: [parent:pm](/tag/parent:pm)
 
 ----
 

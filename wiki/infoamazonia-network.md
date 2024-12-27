@@ -6,14 +6,14 @@ author: vjpixel
 path: /wiki/infoamazonia-network.md
 nid: 12174
 uid: 420617
-
+cids: 
 ---
 
 # infoamazonia-network
 
-by [vjpixel](../profile/vjpixel)
+by [vjpixel](/profile/vjpixel)
 
-August 27, 2015 16:03 | Tags: [brazil](../tag/brazil), [water-quality](../tag/water-quality), [brasil](../tag/brasil), [redeinfoamazonia](../tag/redeinfoamazonia), [south-america](../tag/south-america), [project:water-quality](../tag/project:water-quality)
+August 27, 2015 16:03 | Tags: [brazil](/tag/brazil), [water-quality](/tag/water-quality), [brasil](/tag/brasil), [redeinfoamazonia](/tag/redeinfoamazonia), [south-america](/tag/south-america), [project:water-quality](/tag/project:water-quality)
 
 ----
 

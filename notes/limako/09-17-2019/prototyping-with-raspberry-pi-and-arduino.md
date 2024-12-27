@@ -6,18 +6,16 @@ author: limako
 path: /notes/limako/09-17-2019/prototyping-with-raspberry-pi-and-arduino.md
 nid: 20899
 uid: 546871
-
 cids: 25562,25567,25600,25605,27242,27250,27251
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/300/original/prototyping.jpg)
 
 # Prototyping with Raspberry Pi and Arduino
 
-by [limako](../../../profile/limako) | September 17, 2019 20:23
+by [limako](/profile/limako) | September 17, 2019 20:23
 
-September 17, 2019 20:23 | Tags: [arduino](../tag/arduino), [education](../tag/education), [raspberry-pi](../tag/raspberry-pi), [umass-amherst](../tag/umass-amherst), [prototyping](../tag/prototyping), [first-time-poster](../tag/first-time-poster)
+September 17, 2019 20:23 | Tags: [arduino](/tag/arduino), [education](/tag/education), [raspberry-pi](/tag/raspberry-pi), [umass-amherst](/tag/umass-amherst), [prototyping](/tag/prototyping), [first-time-poster](/tag/first-time-poster)
 
 ----
 

@@ -6,16 +6,14 @@ author: liz
 path: /notes/liz/4-27-2012/ilab-fellowship-award.md
 nid: 1819
 uid: 7
-
 cids: 
-
 ---
 
 # iLAB Fellowship Award
 
-by [liz](../../../profile/liz) | April 27, 2012 18:17
+by [liz](/profile/liz) | April 27, 2012 18:17
 
-April 27, 2012 18:17 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [ilab](../tag/ilab)
+April 27, 2012 18:17 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping), [ilab](/tag/ilab)
 
 ----
 

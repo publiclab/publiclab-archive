@@ -6,18 +6,16 @@ author: hagitkeysar
 path: /notes/hagit-keysar/8-25-2012/jerusalem.md
 nid: 3464
 uid: 152
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_2299.JPG)
 
 # Jerusalem
 
-by [hagitkeysar](../../../profile/hagitkeysar) | August 25, 2012 20:08
+by [hagitkeysar](/profile/hagitkeysar) | August 25, 2012 20:08
 
-August 25, 2012 20:08 | Tags: [jerusalem](../tag/jerusalem), [urban](../tag/urban), [aerial-photography](../tag/aerial-photography), [israel](../tag/israel), [middle-east](../tag/middle-east), [first-time-poster](../tag/first-time-poster)
+August 25, 2012 20:08 | Tags: [jerusalem](/tag/jerusalem), [urban](/tag/urban), [aerial-photography](/tag/aerial-photography), [israel](/tag/israel), [middle-east](/tag/middle-east), [first-time-poster](/tag/first-time-poster)
 
 ----
 

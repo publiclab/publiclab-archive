@@ -6,14 +6,14 @@ author: donblair
 path: /wiki/cooperation.md
 nid: 11179
 uid: 43651
-
+cids: 
 ---
 
 # cooperation
 
-by [donblair](../profile/donblair)
+by [donblair](/profile/donblair)
 
-September 24, 2014 13:33 | Tags: [boston](../tag/boston)
+September 24, 2014 13:33 | Tags: [boston](/tag/boston)
 
 ----
 

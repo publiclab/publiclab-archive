@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/02-09-2017/a-kit-to-design-your-own-formaldehyde-experiment.md
 nid: 13913
 uid: 1
-
 cids: 16214,16362,16373,16374,16377,16378,16381,16436,16610,16612,16628,16629,16630,16673,16679,16684,16686,16689,16690,16691,16695,16698,16766,16777
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/507/original/IMG_20170208_182710_209.jpg)
 
 # A kit to design your own formaldehyde experiment?
 
-by [warren](../../../profile/warren) | February 09, 2017 17:43
+by [warren](/profile/warren) | February 09, 2017 17:43
 
-February 09, 2017 17:43 | Tags: [remediation](../tag/remediation), [formaldehyde](../tag/formaldehyde), [indoor-air-quality](../tag/indoor-air-quality), [prototyping](../tag/prototyping), [indoor-air](../tag/indoor-air), [placebo](../tag/placebo), [study-design](../tag/study-design), [feedback-loop](../tag/feedback-loop), [priming](../tag/priming), [blind-testing](../tag/blind-testing), [double-blind](../tag/double-blind), [activity:indoor-air-quality](../tag/activity:indoor-air-quality)
+February 09, 2017 17:43 | Tags: [remediation](/tag/remediation), [formaldehyde](/tag/formaldehyde), [indoor-air-quality](/tag/indoor-air-quality), [prototyping](/tag/prototyping), [indoor-air](/tag/indoor-air), [placebo](/tag/placebo), [study-design](/tag/study-design), [feedback-loop](/tag/feedback-loop), [priming](/tag/priming), [blind-testing](/tag/blind-testing), [double-blind](/tag/double-blind), [activity:indoor-air-quality](/tag/activity:indoor-air-quality)
 
 ----
 

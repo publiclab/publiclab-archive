@@ -6,18 +6,16 @@ author: warren
 path: /notes/warren/07-17-2013/the-promise-of-small-data.md
 nid: 8903
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/832/original/Screen_Shot_2013-07-17_at_3.14.02_PM.png)
 
 # The Promise of Small Data
 
-by [warren](../../../profile/warren) | July 17, 2013 19:14
+by [warren](/profile/warren) | July 17, 2013 19:14
 
-July 17, 2013 19:14 | Tags: [database](../tag/database), [big-data](../tag/big-data), [small-data](../tag/small-data), [opinion](../tag/opinion)
+July 17, 2013 19:14 | Tags: [database](/tag/database), [big-data](/tag/big-data), [small-data](/tag/small-data), [opinion](/tag/opinion)
 
 ----
 

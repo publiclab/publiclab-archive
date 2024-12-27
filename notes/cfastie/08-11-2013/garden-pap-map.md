@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/08-11-2013/garden-pap-map.md
 nid: 8988
 uid: 554
-
 cids: 6626,6721
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/093/original/PoleGarden-13-08-10-183-45.jpg)
 
 # Garden PAP map
 
-by [cfastie](../../../profile/cfastie) | August 11, 2013 03:40
+by [cfastie](/profile/cfastie) | August 11, 2013 03:40
 
-August 11, 2013 03:40 | Tags: [vermont](../tag/vermont), [polemapping](../tag/polemapping), [garden](../tag/garden), [pole-photography](../tag/pole-photography), [pap](../tag/pap), [pole-aerial-photography](../tag/pole-aerial-photography), [gigapan](../tag/gigapan), [pole-bracket](../tag/pole-bracket)
+August 11, 2013 03:40 | Tags: [vermont](/tag/vermont), [polemapping](/tag/polemapping), [garden](/tag/garden), [pole-photography](/tag/pole-photography), [pap](/tag/pap), [pole-aerial-photography](/tag/pole-aerial-photography), [gigapan](/tag/gigapan), [pole-bracket](/tag/pole-bracket)
 
 ----
 

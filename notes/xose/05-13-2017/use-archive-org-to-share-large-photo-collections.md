@@ -6,18 +6,16 @@ author: xose
 path: /notes/xose/05-13-2017/use-archive-org-to-share-large-photo-collections.md
 nid: 14188
 uid: 497123
-
 cids: 16762,16763,16764,16765,16768,17430,17431
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/444/original/13.png)
 
 # Use Archive.org to share large photo collections
 
-by [xose](../../../profile/xose) | May 13, 2017 14:57
+by [xose](/profile/xose) | May 13, 2017 14:57
 
-May 13, 2017 14:57 | Tags: [photo-monitoring](../tag/photo-monitoring), [barnstar:basic](../tag/barnstar:basic), [difficulty:easy](../tag/difficulty:easy), [activity:photo-sharing](../tag/activity:photo-sharing), [archiving](../tag/archiving), [archive.org](../tag/archive.org)
+May 13, 2017 14:57 | Tags: [photo-monitoring](/tag/photo-monitoring), [barnstar:basic](/tag/barnstar:basic), [difficulty:easy](/tag/difficulty:easy), [activity:photo-sharing](/tag/activity:photo-sharing), [archiving](/tag/archiving), [archive.org](/tag/archive.org)
 
 ----
 

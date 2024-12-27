@@ -6,16 +6,14 @@ author: mathew
 path: /notes/mathew/05-01-2018/tyvek-fleds-theoretical-actual-performance.md
 nid: 417
 uid: 4
-
 cids: 330
-
 ---
 
 # Tyvek Fleds, Theoretical & Actual Performance
 
-by [mathew](../../../profile/mathew) | July 28, 2011 04:29
+by [mathew](/profile/mathew) | July 28, 2011 04:29
 
-July 28, 2011 04:29 | Tags: [kite-mapping](../tag/kite-mapping), [tyvek](../tag/tyvek), [kite-making](../tag/kite-making), [activity:kite-making](../tag/activity:kite-making), [activity:tyvek](../tag/activity:tyvek), [fled](../tag/fled)
+July 28, 2011 04:29 | Tags: [kite-mapping](/tag/kite-mapping), [tyvek](/tag/tyvek), [kite-making](/tag/kite-making), [activity:kite-making](/tag/activity:kite-making), [activity:tyvek](/tag/activity:tyvek), [fled](/tag/fled)
 
 ----
 

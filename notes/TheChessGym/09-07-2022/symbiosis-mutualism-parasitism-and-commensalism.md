@@ -6,18 +6,16 @@ author: TheChessGym
 path: /notes/TheChessGym/09-07-2022/symbiosis-mutualism-parasitism-and-commensalism.md
 nid: 34948
 uid: 788868
-
 cids: 30584,30585,30586,30587,30588,30589,30590,30591,30592,30593,30594,30602
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/137/original/Clownfish-sea-anemones-Australia-Great-Barrier-Reef.webp)
 
 # Symbiosis, Mutualism, Parasitism, and Commensalism 
 
-by [TheChessGym](../../../profile/TheChessGym) | September 07, 2022 13:32
+by [TheChessGym](/profile/TheChessGym) | September 07, 2022 13:32
 
-September 07, 2022 13:32 | Tags: [lat:22](../tag/lat:22), [first-time-poster](../tag/first-time-poster), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
+September 07, 2022 13:32 | Tags: [lat:22](/tag/lat:22), [first-time-poster](/tag/first-time-poster), [lon:76](/tag/lon:76), [zoom:6](/tag/zoom:6)
 
 ----
 

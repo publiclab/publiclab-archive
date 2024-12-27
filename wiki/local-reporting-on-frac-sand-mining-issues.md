@@ -6,14 +6,14 @@ author: stevie
 path: /wiki/local-reporting-on-frac-sand-mining-issues.md
 nid: 19662
 uid: 422561
-
+cids: 
 ---
 
 # Local reporting on frac sand mining issues
 
-by [stevie](../profile/stevie)
+by [stevie](/profile/stevie)
 
-June 11, 2019 18:32 | Tags: [reporting](../tag/reporting), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [mid-west](../tag/mid-west), [parent:frac-sand](../tag/parent:frac-sand), [frac-sand-reporting](../tag/frac-sand-reporting), [sentinel](../tag/sentinel), [local-reporting](../tag/local-reporting), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program)
+June 11, 2019 18:32 | Tags: [reporting](/tag/reporting), [frac-sand](/tag/frac-sand), [pm](/tag/pm), [mid-west](/tag/mid-west), [parent:frac-sand](/tag/parent:frac-sand), [frac-sand-reporting](/tag/frac-sand-reporting), [sentinel](/tag/sentinel), [local-reporting](/tag/local-reporting), [parent:the-sand-sentinel-program](/tag/parent:the-sand-sentinel-program)
 
 ----
 

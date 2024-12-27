@@ -6,18 +6,16 @@ author: sara
 path: /notes/Sara/05-23-2014/making-pedagogy-reflections-on-northeastern-university-thermal-fishing-bob-workshops.md
 nid: 10506
 uid: 8
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/443/original/Screen_Shot_2014-04-08_at_7.49.33_PM.png)
 
 # Making Pedagogy:  Reflections on Northeastern University Thermal Fishing Bob Workshops
 
-by [sara](../../../profile/sara) | May 23, 2014 19:08
+by [sara](/profile/sara) | May 23, 2014 19:08
 
-May 23, 2014 19:08 | Tags: [thermal-photography](../tag/thermal-photography), [workshop](../tag/workshop), [teaching](../tag/teaching), [massachusetts](../tag/massachusetts), [thermal-fishing](../tag/thermal-fishing), [northeastern](../tag/northeastern), [northeast](../tag/northeast)
+May 23, 2014 19:08 | Tags: [thermal-photography](/tag/thermal-photography), [workshop](/tag/workshop), [teaching](/tag/teaching), [massachusetts](/tag/massachusetts), [thermal-fishing](/tag/thermal-fishing), [northeastern](/tag/northeastern), [northeast](/tag/northeast)
 
 ----
 

@@ -6,18 +6,16 @@ author: shanlter
 path: /notes/shanlter/09-21-2016/pearl-river-monitoring-in-guangzhou.md
 nid: 13468
 uid: 420999
-
 cids: 15468,15469,15470,15478,15479,15983,16843,16855,16856,16869
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/114/original/2016-09-10_10.53.51.jpg)
 
 # Pearl River Monitoring in Guangzhou
 
-by [shanlter](../../../profile/shanlter) | September 21, 2016 10:26
+by [shanlter](/profile/shanlter) | September 21, 2016 10:26
 
-September 21, 2016 10:26 | Tags: [open-water](../tag/open-water), [barnstar:basic](../tag/barnstar:basic), [guangzhou](../tag/guangzhou), [china](../tag/china), [greenovation-hub](../tag/greenovation-hub)
+September 21, 2016 10:26 | Tags: [open-water](/tag/open-water), [barnstar:basic](/tag/barnstar:basic), [guangzhou](/tag/guangzhou), [china](/tag/china), [greenovation-hub](/tag/greenovation-hub)
 
 ----
 

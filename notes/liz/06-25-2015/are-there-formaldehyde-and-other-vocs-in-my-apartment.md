@@ -6,18 +6,16 @@ author: liz
 path: /notes/liz/06-25-2015/are-there-formaldehyde-and-other-vocs-in-my-apartment.md
 nid: 12007
 uid: 7
-
 cids: 12024,12025,12028,12030,12041,12042,12043
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/440/original/IMG_5743.JPG)
 
 # are there formaldehyde and other VOCs in my apartment
 
-by [liz](../../../profile/liz) | June 25, 2015 21:28
+by [liz](/profile/liz) | June 25, 2015 21:28
 
-June 25, 2015 21:28 | Tags: [formaldehyde](../tag/formaldehyde), [indoor-air-quality](../tag/indoor-air-quality), [voc](../tag/voc)
+June 25, 2015 21:28 | Tags: [formaldehyde](/tag/formaldehyde), [indoor-air-quality](/tag/indoor-air-quality), [voc](/tag/voc)
 
 ----
 

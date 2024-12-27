@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/12-15-2014/multispeq-fluorescence.md
 nid: 11462
 uid: 554
-
 cids: 10950,10951,10953,10954,10967,10968,10969,10970
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/410/original/Barn2014_661.jpg)
 
 # MultispeQ fluorescence
 
-by [cfastie](../../../profile/cfastie) | December 15, 2014 22:54
+by [cfastie](/profile/cfastie) | December 15, 2014 22:54
 
-December 15, 2014 22:54 | Tags: [fluorescence](../tag/fluorescence), [barnraising](../tag/barnraising), [soil](../tag/soil), [photosynthesis](../tag/photosynthesis), [photosynq](../tag/photosynq), [plant](../tag/plant), [plant-health](../tag/plant-health), [multispeq](../tag/multispeq), [barnraising2014](../tag/barnraising2014), [response:11451](../tag/response:11451)
+December 15, 2014 22:54 | Tags: [fluorescence](/tag/fluorescence), [barnraising](/tag/barnraising), [soil](/tag/soil), [photosynthesis](/tag/photosynthesis), [photosynq](/tag/photosynq), [plant](/tag/plant), [plant-health](/tag/plant-health), [multispeq](/tag/multispeq), [barnraising2014](/tag/barnraising2014), [response:11451](/tag/response:11451)
 
 ----
 

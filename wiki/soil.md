@@ -6,16 +6,16 @@ author: amysoyka
 path: /wiki/soil.md
 nid: 10636
 uid: 422627
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/464/original/Screen_Shot_2020-05-20_at_9.43.19_AM_copy.png)
 
 # Soil Contamination 
 
-by [laurel_mire](../profile/laurel_mire), [bhamster](../profile/bhamster), [joyofsoy](../profile/joyofsoy), [DanielleS](../profile/DanielleS), [stevie](../profile/stevie), [warren](../profile/warren), [Bronwen](../profile/Bronwen), [amysoyka](../profile/amysoyka)
+by [laurel_mire](/profile/laurel_mire), [bhamster](/profile/bhamster), [joyofsoy](/profile/joyofsoy), [DanielleS](/profile/DanielleS), [stevie](/profile/stevie), [warren](/profile/warren), [Bronwen](/profile/Bronwen), [amysoyka](/profile/amysoyka)
 
-July 01, 2014 06:18 | Tags: [sand](../tag/sand), [heavy-metals](../tag/heavy-metals), [soil](../tag/soil), [testing](../tag/testing), [pah](../tag/pah), [pcb](../tag/pcb), [lead](../tag/lead), [silt](../tag/silt), [clay](../tag/clay), [soil-testing](../tag/soil-testing), [soil-contamination](../tag/soil-contamination), [soil-contamination-testing](../tag/soil-contamination-testing), [dioxin](../tag/dioxin)
+July 01, 2014 06:18 | Tags: [sand](/tag/sand), [heavy-metals](/tag/heavy-metals), [soil](/tag/soil), [testing](/tag/testing), [pah](/tag/pah), [pcb](/tag/pcb), [lead](/tag/lead), [silt](/tag/silt), [clay](/tag/clay), [soil-testing](/tag/soil-testing), [soil-contamination](/tag/soil-contamination), [soil-contamination-testing](/tag/soil-contamination-testing), [dioxin](/tag/dioxin)
 
 ----
 
@@ -87,7 +87,7 @@ Public Lab community projects tagged with `soil-projects` will appear here
 
 Questions tagged with `question:soil` will appear here
 
-[soil](../../tag/question:soil)
+[soil](/tag/question:soil)
 
 <br>
 
@@ -105,7 +105,7 @@ The Public Lab community is here to support people as they plan and carry out in
 
 Here are some activities for getting started with examining your soil. They involve gathering information that can help you make decisions about what to do next. 
 
-[grid:activity:getting-started-soil](../../tag/grid:activity:getting-started-soil)
+[grid:activity:getting-started-soil](/tag/grid:activity:getting-started-soil)
 
 <br>
 
@@ -268,7 +268,7 @@ Wiki pages tagged with `interpret-soil-tests` will appear here
 
 Activities on Public Lab that have been tagged with `activity:soil` will appear here
 
-[soil](../../tag/activity:soil)
+[soil](/tag/activity:soil)
 
 
 <hr style="height:5px;border-width:0;color:gray;background-color:gray">

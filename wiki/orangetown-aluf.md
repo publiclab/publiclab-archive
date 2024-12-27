@@ -6,16 +6,16 @@ author: stevie
 path: /wiki/orangetown-aluf.md
 nid: 21661
 uid: 422561
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/853/original/Aluf.jpg)
 
 # Orangetown Aluf
 
-by [stevie](../profile/stevie)
+by [stevie](/profile/stevie)
 
-December 04, 2019 14:51 | Tags: [air-quality](../tag/air-quality), [odor](../tag/odor), [project](../tag/project), [plastics](../tag/plastics), [air-quality-projects](../tag/air-quality-projects), [platstic](../tag/platstic)
+December 04, 2019 14:51 | Tags: [air-quality](/tag/air-quality), [odor](/tag/odor), [project](/tag/project), [plastics](/tag/plastics), [air-quality-projects](/tag/air-quality-projects), [platstic](/tag/platstic)
 
 ----
 
@@ -48,13 +48,13 @@ Aluf Plastics processes plastic materials (low and high density polyethylene) in
 
 ##Questions
  
-[Orangetown-Aluf](../../tag/question:Orangetown-Aluf)
+[Orangetown-Aluf](/tag/question:Orangetown-Aluf)
 ## Updates
 Interested in following along and supporting this issue? Subscribe to the tag below to get updates when we post new material. 
 
 <a class="btn btn-large btn-primary" href="https://publiclab.org/subscribe/tag/Orangetown-Aluf">Subscribe to updates on this project </a>
 
-[Orangetown-Aluf!question:Orangetown-Aluf](../../tag/Orangetown-Aluf!question:Orangetown-Aluf) 
+[Orangetown-Aluf!question:Orangetown-Aluf](/tag/Orangetown-Aluf!question:Orangetown-Aluf) 
 <a href="/post?tags=orangetown-aluf">Add a post</a>
  
  

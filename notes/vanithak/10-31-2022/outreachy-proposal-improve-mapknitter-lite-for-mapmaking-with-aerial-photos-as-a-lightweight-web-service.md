@@ -6,18 +6,16 @@ author: vanithak
 path: /notes/vanithak/10-31-2022/outreachy-proposal-improve-mapknitter-lite-for-mapmaking-with-aerial-photos-as-a-lightweight-web-service.md
 nid: 36023
 uid: 818148
-
 cids: 30735,30736,30737
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/248/original/Untitled_design.png)
 
 # Outreachy proposal: Improve MapKnitter Lite for mapmaking with aerial photos as a lightweight web service
 
-by [vanithak](../../../profile/vanithak) | October 31, 2022 19:40
+by [vanithak](/profile/vanithak) | October 31, 2022 19:40
 
-October 31, 2022 19:40 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [lat:20](../tag/lat:20), [lon:78](../tag/lon:78), [zoom:6](../tag/zoom:6), [outreachy-2022](../tag/outreachy-2022), [outreachy-winter-2022](../tag/outreachy-winter-2022)
+October 31, 2022 19:40 | Tags: [software](/tag/software), [outreachy](/tag/outreachy), [first-time-poster](/tag/first-time-poster), [lat:20](/tag/lat:20), [lon:78](/tag/lon:78), [zoom:6](/tag/zoom:6), [outreachy-2022](/tag/outreachy-2022), [outreachy-winter-2022](/tag/outreachy-winter-2022)
 
 ----
 

@@ -6,18 +6,16 @@ author: Bronwen
 path: /notes/bronwen/12-06-2017/kits-initiative-2017-wrap-up.md
 nid: 15324
 uid: 237313
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/830/original/WrapupBanner.jpg)
 
 # Kits Initiative 2017 Wrap Up!
 
-by [Bronwen](../../../profile/Bronwen) | December 06, 2017 21:38
+by [Bronwen](/profile/Bronwen) | December 06, 2017 21:38
 
-December 06, 2017 21:38 | Tags: [newsletter](../tag/newsletter), [kits](../tag/kits), [kits-initiative](../tag/kits-initiative)
+December 06, 2017 21:38 | Tags: [newsletter](/tag/newsletter), [kits](/tag/kits), [kits-initiative](/tag/kits-initiative)
 
 ----
 

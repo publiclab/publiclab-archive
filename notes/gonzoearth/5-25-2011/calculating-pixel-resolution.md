@@ -6,16 +6,14 @@ author: gonzoearth
 path: /notes/gonzoearth/5-25-2011/calculating-pixel-resolution.md
 nid: 297
 uid: 12
-
 cids: 256,257
-
 ---
 
 ![](https://publiclab.org/sites/default/files/WilkinsonEastScale.jpg)
 
 # Calculating Pixel Resolution
 
-by [gonzoearth](../../../profile/gonzoearth) | May 25, 2011 19:18
+by [gonzoearth](/profile/gonzoearth) | May 25, 2011 19:18
 
 May 25, 2011 19:18 | Tags: 
 

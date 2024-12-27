@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/12-21-2014/holiday-beverage-whodunit.md
 nid: 11489
 uid: 554
-
 cids: 10983,10986,10988,10991,11021,11022
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/507/original/IRbevWrat87-560-21A.jpg)
 
 # Holiday Beverage Whodunit
 
-by [cfastie](../../../profile/cfastie) | December 21, 2014 03:53
+by [cfastie](/profile/cfastie) | December 21, 2014 03:53
 
-December 21, 2014 03:53 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nir](../tag/nir), [holiday](../tag/holiday), [absorption](../tag/absorption), [infragram](../tag/infragram), [barnstar:basic](../tag/barnstar:basic), [happy-holidays](../tag/happy-holidays), [seeks:responses](../tag/seeks:responses), [activity:multispectral-imaging](../tag/activity:multispectral-imaging)
+December 21, 2014 03:53 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [nir](/tag/nir), [holiday](/tag/holiday), [absorption](/tag/absorption), [infragram](/tag/infragram), [barnstar:basic](/tag/barnstar:basic), [happy-holidays](/tag/happy-holidays), [seeks:responses](/tag/seeks:responses), [activity:multispectral-imaging](/tag/activity:multispectral-imaging)
 
 ----
 

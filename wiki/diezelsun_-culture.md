@@ -6,14 +6,14 @@ author: Samel
 path: /wiki/diezelsun_-culture.md
 nid: 12106
 uid: 446386
-
+cids: 
 ---
 
 # DiezelSun_(culture)
 
-by [Samel](../profile/Samel)
+by [Samel](/profile/Samel)
 
-July 30, 2015 10:35 | Tags: [diezelsun](../tag/diezelsun)
+July 30, 2015 10:35 | Tags: [diezelsun](/tag/diezelsun)
 
 ----
 

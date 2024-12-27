@@ -6,12 +6,12 @@ author: Bronwen
 path: /wiki/intellectual-property.md
 nid: 11295
 uid: 237313
-
+cids: 
 ---
 
 # Intellectual Property
 
-by [Bronwen](../profile/Bronwen)
+by [Bronwen](/profile/Bronwen)
 
 October 22, 2014 21:34 | Tags: 
 

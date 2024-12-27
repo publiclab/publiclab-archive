@@ -6,18 +6,16 @@ author: gretchengehrke
 path: /notes/gretchengehrke/10-28-2016/colorado-regulations-hotsheet.md
 nid: 13664
 uid: 430549
-
 cids: 15751
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/664/original/Screen_Shot_2016-10-28_at_5.40.17_PM.png)
 
 # Colorado Regulations Hotsheet
 
-by [gretchengehrke](../../../profile/gretchengehrke) | October 28, 2016 21:41
+by [gretchengehrke](/profile/gretchengehrke) | October 28, 2016 21:41
 
-October 28, 2016 21:41 | Tags: [colorado](../tag/colorado), [air-quality](../tag/air-quality), [regulations](../tag/regulations), [regional](../tag/regional), [airborne](../tag/airborne), [hotsheet](../tag/hotsheet), [visible](../tag/visible), [gaseous](../tag/gaseous), [effluent](../tag/effluent)
+October 28, 2016 21:41 | Tags: [colorado](/tag/colorado), [air-quality](/tag/air-quality), [regulations](/tag/regulations), [regional](/tag/regional), [airborne](/tag/airborne), [hotsheet](/tag/hotsheet), [visible](/tag/visible), [gaseous](/tag/gaseous), [effluent](/tag/effluent)
 
 ----
 

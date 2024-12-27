@@ -6,18 +6,16 @@ author: mathew
 path: /notes/mathew/05-21-2014/imagining-testing-polarized-light-microscopy-for-silica-dust-speciation.md
 nid: 10493
 uid: 4
-
 cids: 9048,9049,9050,9054,9055,9056,9057,9058,9059,9066,9717,18106,18112,18113,18118,18121,18122,18136,18342,18352
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/338/original/Screen_Shot_2014-05-20_at_4.17.52_PM.png)
 
 # Imagining & testing Polarized Light Microscopy for Silica dust speciation
 
-by [mathew](../../../profile/mathew) | May 21, 2014 01:04
+by [mathew](/profile/mathew) | May 21, 2014 01:04
 
-May 21, 2014 01:04 | Tags: [particulate-sensing](../tag/particulate-sensing), [air-quality](../tag/air-quality), [dust](../tag/dust), [particulates](../tag/particulates), [silica](../tag/silica), [polarized-light](../tag/polarized-light), [polarized-light-microscopy](../tag/polarized-light-microscopy), [open-air](../tag/open-air), [particles](../tag/particles), [particle-sensing](../tag/particle-sensing), [passive-pm](../tag/passive-pm), [activity:microscope](../tag/activity:microscope), [activity:microscopes](../tag/activity:microscopes), [activity:community-microscope-usage](../tag/activity:community-microscope-usage), [polarizing-filter](../tag/polarizing-filter)
+May 21, 2014 01:04 | Tags: [particulate-sensing](/tag/particulate-sensing), [air-quality](/tag/air-quality), [dust](/tag/dust), [particulates](/tag/particulates), [silica](/tag/silica), [polarized-light](/tag/polarized-light), [polarized-light-microscopy](/tag/polarized-light-microscopy), [open-air](/tag/open-air), [particles](/tag/particles), [particle-sensing](/tag/particle-sensing), [passive-pm](/tag/passive-pm), [activity:microscope](/tag/activity:microscope), [activity:microscopes](/tag/activity:microscopes), [activity:community-microscope-usage](/tag/activity:community-microscope-usage), [polarizing-filter](/tag/polarizing-filter)
 
 ----
 

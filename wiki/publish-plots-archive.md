@@ -6,14 +6,14 @@ author: warren
 path: /wiki/publish-plots-archive.md
 nid: 870
 uid: 1
-
+cids: 
 ---
 
 # Publish in the PLOTS archive
 
-by [warren](../profile/warren), [gonzoearth](../profile/gonzoearth), [medikid](../profile/medikid), [eustatic](../profile/eustatic), [patcoyle](../profile/patcoyle), [csik](../profile/csik), [cfastie](../profile/cfastie), [jbreen](../profile/jbreen)
+by [warren](/profile/warren), [gonzoearth](/profile/gonzoearth), [medikid](/profile/medikid), [eustatic](/profile/eustatic), [patcoyle](/profile/patcoyle), [csik](/profile/csik), [cfastie](/profile/cfastie), [jbreen](/profile/jbreen)
 
-February 29, 2012 15:34 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
+February 29, 2012 15:34 | Tags: [balloon-mapping](/tag/balloon-mapping), [kite-mapping](/tag/kite-mapping)
 
 ----
 

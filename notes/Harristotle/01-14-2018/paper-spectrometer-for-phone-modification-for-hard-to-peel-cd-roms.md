@@ -6,16 +6,14 @@ author: Harristotle
 path: /notes/Harristotle/01-14-2018/paper-spectrometer-for-phone-modification-for-hard-to-peel-cd-roms.md
 nid: 15520
 uid: 522666
-
 cids: 18184
-
 ---
 
 # Paper spectrometer for phone: modification for hard-to-peel cd roms
 
-by [Harristotle](../../../profile/Harristotle) | January 14, 2018 15:04
+by [Harristotle](/profile/Harristotle) | January 14, 2018 15:04
 
-January 14, 2018 15:04 | Tags: [kits](../tag/kits), [spectrometry](../tag/spectrometry), [assembly](../tag/assembly), [foldable](../tag/foldable), [papercraft](../tag/papercraft), [onboarding](../tag/onboarding), [foldable-spec](../tag/foldable-spec), [introductory](../tag/introductory), [replication:15276](../tag/replication:15276)
+January 14, 2018 15:04 | Tags: [kits](/tag/kits), [spectrometry](/tag/spectrometry), [assembly](/tag/assembly), [foldable](/tag/foldable), [papercraft](/tag/papercraft), [onboarding](/tag/onboarding), [foldable-spec](/tag/foldable-spec), [introductory](/tag/introductory), [replication:15276](/tag/replication:15276)
 
 ----
 

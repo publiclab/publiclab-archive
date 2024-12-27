@@ -6,16 +6,16 @@ author: warren
 path: /wiki/filters.md
 nid: 18412
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/512/original/2015-12-06_14.15.19.jpg)
 
 # Filters
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-February 23, 2019 18:16 | Tags: [air-quality](../tag/air-quality), [air](../tag/air), [water-quality](../tag/water-quality), [water](../tag/water), [filtration](../tag/filtration), [method](../tag/method), [parent:water-quality](../tag/parent:water-quality), [parent:air-quality](../tag/parent:air-quality)
+February 23, 2019 18:16 | Tags: [air-quality](/tag/air-quality), [air](/tag/air), [water-quality](/tag/water-quality), [water](/tag/water), [filtration](/tag/filtration), [method](/tag/method), [parent:water-quality](/tag/parent:water-quality), [parent:air-quality](/tag/parent:air-quality)
 
 ----
 
@@ -27,7 +27,7 @@ This page needs organizational help! Please help by tagging content with `filter
 
 ## Questions
 
-[filters](../../tag/question:filters)
+[filters](/tag/question:filters)
 
 ### Water filtering
 
@@ -39,5 +39,5 @@ This page needs organizational help! Please help by tagging content with `filter
 
 ## Activities
 
-[grid:activity:filters](../../tag/grid:activity:filters)
+[grid:activity:filters](/tag/grid:activity:filters)
 

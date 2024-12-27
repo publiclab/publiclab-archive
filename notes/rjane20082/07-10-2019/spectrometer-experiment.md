@@ -6,16 +6,14 @@ author: rjane20082
 path: /notes/rjane20082/07-10-2019/spectrometer-experiment.md
 nid: 20064
 uid: 603721
-
 cids: 25033,25066,25068
-
 ---
 
 # Spectrometer experiment
 
-by [rjane20082](../../../profile/rjane20082) | July 10, 2019 23:36
+by [rjane20082](/profile/rjane20082) | July 10, 2019 23:36
 
-July 10, 2019 23:36 | Tags: [spectrometer](../tag/spectrometer), [spectroscopy](../tag/spectroscopy), [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster), [response:38](../tag/response:38)
+July 10, 2019 23:36 | Tags: [spectrometer](/tag/spectrometer), [spectroscopy](/tag/spectroscopy), [question:general](/tag/question:general), [first-time-poster](/tag/first-time-poster), [response:38](/tag/response:38)
 
 ----
 

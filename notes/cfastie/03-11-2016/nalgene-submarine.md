@@ -6,18 +6,16 @@ author: cfastie
 path: /notes/cfastie/03-11-2016/nalgene-submarine.md
 nid: 12832
 uid: 554
-
 cids: 13944,14544
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/752/original/Nalgene-739-30.jpg)
 
 # Nalgene submarine
 
-by [cfastie](../../../profile/cfastie) | March 11, 2016 05:05
+by [cfastie](/profile/cfastie) | March 11, 2016 05:05
 
-March 11, 2016 05:05 | Tags: [arduino](../tag/arduino), [housing](../tag/housing), [water-quality](../tag/water-quality), [water](../tag/water), [riffle](../tag/riffle), [bottle](../tag/bottle), [response:12674](../tag/response:12674), [nalgene](../tag/nalgene), [neoprene](../tag/neoprene), [hull-piercing](../tag/hull-piercing), [riffle-examples](../tag/riffle-examples), [data-logger-enclosures:](../tag/data-logger-enclosures:), [data-logger-enclosures](../tag/data-logger-enclosures), [sensor-enclosures](../tag/sensor-enclosures), [activity:sensor-enclosures](../tag/activity:sensor-enclosures)
+March 11, 2016 05:05 | Tags: [arduino](/tag/arduino), [housing](/tag/housing), [water-quality](/tag/water-quality), [water](/tag/water), [riffle](/tag/riffle), [bottle](/tag/bottle), [response:12674](/tag/response:12674), [nalgene](/tag/nalgene), [neoprene](/tag/neoprene), [hull-piercing](/tag/hull-piercing), [riffle-examples](/tag/riffle-examples), [data-logger-enclosures:](/tag/data-logger-enclosures:), [data-logger-enclosures](/tag/data-logger-enclosures), [sensor-enclosures](/tag/sensor-enclosures), [activity:sensor-enclosures](/tag/activity:sensor-enclosures)
 
 ----
 

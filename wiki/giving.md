@@ -6,14 +6,14 @@ author: warren
 path: /wiki/giving.md
 nid: 15217
 uid: 1
-
+cids: 
 ---
 
 # Giving Tuesday
 
-by [warren](../profile/warren)
+by [warren](/profile/warren)
 
-November 21, 2017 17:12 | Tags: [style:presentation](../tag/style:presentation), [ddd](../tag/ddd), [locked](../tag/locked), [sidebar:none](../tag/sidebar:none)
+November 21, 2017 17:12 | Tags: [style:presentation](/tag/style:presentation), [ddd](/tag/ddd), [locked](/tag/locked), [sidebar:none](/tag/sidebar:none)
 
 ----
 

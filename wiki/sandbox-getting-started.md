@@ -6,12 +6,12 @@ author: bhamster
 path: /wiki/sandbox-getting-started.md
 nid: 34879
 uid: 664477
-
+cids: 
 ---
 
 # sandbox-getting-started
 
-by [laurel_mire](../profile/laurel_mire), [fongvania](../profile/fongvania), [bhamster](../profile/bhamster)
+by [laurel_mire](/profile/laurel_mire), [fongvania](/profile/fongvania), [bhamster](/profile/bhamster)
 
 August 15, 2022 21:12 | Tags: 
 

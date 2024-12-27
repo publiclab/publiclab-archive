@@ -6,18 +6,16 @@ author: mlamadrid
 path: /notes/mlamadrid/06-22-2016/documenting-runoff-with-photography.md
 nid: 13224
 uid: 45586
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/709/original/HPIM8466-R-_Wyatt_Run_mud_INTO_Fishing_crk.JPG)
 
 # Documenting Runoff with Photography
 
-by [mlamadrid](../../../profile/mlamadrid) | June 22, 2016 01:00
+by [mlamadrid](/profile/mlamadrid) | June 22, 2016 01:00
 
-June 22, 2016 01:00 | Tags: [wisconsin](../tag/wisconsin), [blog](../tag/blog), [frac-sand](../tag/frac-sand), [with:gretchengehrke](../tag/with:gretchengehrke), [parent:frac-sand](../tag/parent:frac-sand), [communityscienceforum](../tag/communityscienceforum)
+June 22, 2016 01:00 | Tags: [wisconsin](/tag/wisconsin), [blog](/tag/blog), [frac-sand](/tag/frac-sand), [with:gretchengehrke](/tag/with:gretchengehrke), [parent:frac-sand](/tag/parent:frac-sand), [communityscienceforum](/tag/communityscienceforum)
 
 ----
 

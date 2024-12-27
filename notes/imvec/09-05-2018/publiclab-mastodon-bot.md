@@ -6,18 +6,16 @@ author: imvec
 path: /notes/imvec/09-05-2018/publiclab-mastodon-bot.md
 nid: 17069
 uid: 495038
-
 cids: 20591,20593,20594
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/460/original/plbotheader.jpg)
 
 # Publiclab Mastodon bot
 
-by [imvec](../../../profile/imvec) | September 05, 2018 20:54
+by [imvec](/profile/imvec) | September 05, 2018 20:54
 
-September 05, 2018 20:54 | Tags: [social-media](../tag/social-media), [outreach](../tag/outreach), [mirror](../tag/mirror), [software-outreach](../tag/software-outreach), [bot](../tag/bot), [federation](../tag/federation), [mastodon](../tag/mastodon), [tor](../tag/tor)
+September 05, 2018 20:54 | Tags: [social-media](/tag/social-media), [outreach](/tag/outreach), [mirror](/tag/mirror), [software-outreach](/tag/software-outreach), [bot](/tag/bot), [federation](/tag/federation), [mastodon](/tag/mastodon), [tor](/tag/tor)
 
 ----
 

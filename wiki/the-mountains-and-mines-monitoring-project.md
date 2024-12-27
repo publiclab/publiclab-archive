@@ -6,16 +6,16 @@ author: stevie
 path: /wiki/the-mountains-and-mines-monitoring-project.md
 nid: 27964
 uid: 422561
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/947/original/middleridge_%281%29.jpeg)
 
 # The Mountains and Mines Monitoring Project
 
-by [stevie](../profile/stevie)
+by [stevie](/profile/stevie)
 
-October 26, 2021 16:37 | Tags: [coal-mining](../tag/coal-mining), [reporting](../tag/reporting), [mountaintop-removal](../tag/mountaintop-removal), [coal](../tag/coal), [drone](../tag/drone), [southeast](../tag/southeast), [fellowship](../tag/fellowship), [project](../tag/project), [violations](../tag/violations), [project:featured](../tag/project:featured), [fellowship-teams](../tag/fellowship-teams), [mmmp](../tag/mmmp), [mine-reclamation](../tag/mine-reclamation), [project:mine-reclamation](../tag/project:mine-reclamation), [mine-reclamation-photography](../tag/mine-reclamation-photography)
+October 26, 2021 16:37 | Tags: [coal-mining](/tag/coal-mining), [reporting](/tag/reporting), [mountaintop-removal](/tag/mountaintop-removal), [coal](/tag/coal), [drone](/tag/drone), [southeast](/tag/southeast), [fellowship](/tag/fellowship), [project](/tag/project), [violations](/tag/violations), [project:featured](/tag/project:featured), [fellowship-teams](/tag/fellowship-teams), [mmmp](/tag/mmmp), [mine-reclamation](/tag/mine-reclamation), [project:mine-reclamation](/tag/project:mine-reclamation), [mine-reclamation-photography](/tag/mine-reclamation-photography)
 
 ----
 
@@ -85,7 +85,7 @@ Read more about [common air related violations here](https://publiclab.org/notes
 _______
 ###Our most recent posts and videos on this project: 
 
-[MMMP](../../tag/MMMP) 
+[MMMP](/tag/MMMP) 
 
 ### Sites being monitored:
 Below is the list of permits and companies monitored this far by the Mountains and Mines Monitoring project. These sites are in Raleigh, Boone, and Kanawha counties, WV. 
@@ -107,4 +107,4 @@ Below is the list of permits and companies monitored this far by the Mountains a
 
 ### Questions
 
-[MMMP](../../tag/question:MMMP)
+[MMMP](/tag/question:MMMP)

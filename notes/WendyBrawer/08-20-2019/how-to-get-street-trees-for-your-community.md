@@ -6,18 +6,16 @@ author: WendyBrawer
 path: /notes/WendyBrawer/08-20-2019/how-to-get-street-trees-for-your-community.md
 nid: 20601
 uid: 492399
-
 cids: 25552,26301,28805
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/138/original/Screen_Shot_2020-02-13_at_12.39.02_PM.png)
 
 # How to Get Street Trees for your Community
 
-by [WendyBrawer](../../../profile/WendyBrawer) | August 20, 2019 20:11
+by [WendyBrawer](/profile/WendyBrawer) | August 20, 2019 20:11
 
-August 20, 2019 20:11 | Tags: [new-york-city](../tag/new-york-city), [organizing](../tag/organizing), [trees](../tag/trees), [habitat](../tag/habitat), [stormwater](../tag/stormwater), [climate-change](../tag/climate-change), [land-use](../tag/land-use), [advocacy](../tag/advocacy), [draft](../tag/draft), [lon:-73](../tag/lon:-73), [activity:new](../tag/activity:new), [lat:40](../tag/lat:40), [first-time-poster](../tag/first-time-poster), [cities](../tag/cities), [zoom:6](../tag/zoom:6), [street-trees](../tag/street-trees)
+August 20, 2019 20:11 | Tags: [new-york-city](/tag/new-york-city), [organizing](/tag/organizing), [trees](/tag/trees), [habitat](/tag/habitat), [stormwater](/tag/stormwater), [climate-change](/tag/climate-change), [land-use](/tag/land-use), [advocacy](/tag/advocacy), [draft](/tag/draft), [lon:-73](/tag/lon:-73), [activity:new](/tag/activity:new), [lat:40](/tag/lat:40), [first-time-poster](/tag/first-time-poster), [cities](/tag/cities), [zoom:6](/tag/zoom:6), [street-trees](/tag/street-trees)
 
 ----
 

@@ -6,18 +6,16 @@ author: vjpixel
 path: /notes/vjpixel/02-02-2017/how-we-built-an-open-source-project-to-monitor-water-quality.md
 nid: 13900
 uid: 420617
-
 cids: 16144,16145,16146
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/423/original/DSC_0117-1024x576.jpg)
 
 # How we built an open source project to monitor water quality
 
-by [vjpixel](../../../profile/vjpixel) | February 02, 2017 23:02
+by [vjpixel](/profile/vjpixel) | February 02, 2017 23:02
 
-February 02, 2017 23:02 | Tags: [water-quality](../tag/water-quality), [list:plots-waterquality](../tag/list:plots-waterquality), [brasil](../tag/brasil), [parent:open-water](../tag/parent:open-water), [report](../tag/report), [redeinfoamazonia](../tag/redeinfoamazonia), [maedagua](../tag/maedagua)
+February 02, 2017 23:02 | Tags: [water-quality](/tag/water-quality), [list:plots-waterquality](/tag/list:plots-waterquality), [brasil](/tag/brasil), [parent:open-water](/tag/parent:open-water), [report](/tag/report), [redeinfoamazonia](/tag/redeinfoamazonia), [maedagua](/tag/maedagua)
 
 ----
 

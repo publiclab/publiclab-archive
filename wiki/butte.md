@@ -6,16 +6,16 @@ author: mathew
 path: /wiki/butte.md
 nid: 408
 uid: 4
-
+cids: 
 ---
 
 ![](https://publiclab.org/sites/default/files/2011-07-25-20-03-13-375.jpg)
 
 # Butte
 
-by [stevethom](../profile/stevethom), [Shannon](../profile/Shannon), [warren](../profile/warren), [Olivia](../profile/Olivia), [mathew](../profile/mathew)
+by [stevethom](/profile/stevethom), [Shannon](/profile/Shannon), [warren](/profile/warren), [Olivia](/profile/Olivia), [mathew](/profile/mathew)
 
-July 23, 2011 02:29 | Tags: [chapter](../tag/chapter), [parent:northwest](../tag/parent:northwest), [montana](../tag/montana)
+July 23, 2011 02:29 | Tags: [chapter](/tag/chapter), [parent:northwest](/tag/parent:northwest), [montana](/tag/montana)
 
 ----
 

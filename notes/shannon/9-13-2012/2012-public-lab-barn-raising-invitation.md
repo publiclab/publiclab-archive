@@ -6,16 +6,14 @@ author: Shannon
 path: /notes/shannon/9-13-2012/2012-public-lab-barn-raising-invitation.md
 nid: 3800
 uid: 9
-
 cids: 
-
 ---
 
 # 2012 Public Lab barn raising invitation
 
-by [Shannon](../../../profile/Shannon) | September 13, 2012 20:23
+by [Shannon](/profile/Shannon) | September 13, 2012 20:23
 
-September 13, 2012 20:23 | Tags: [oil-spill-toolkit](../tag/oil-spill-toolkit)
+September 13, 2012 20:23 | Tags: [oil-spill-toolkit](/tag/oil-spill-toolkit)
 
 ----
 

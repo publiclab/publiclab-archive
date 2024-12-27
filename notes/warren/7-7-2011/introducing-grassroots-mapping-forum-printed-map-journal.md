@@ -6,16 +6,14 @@ author: warren
 path: /notes/warren/7-7-2011/introducing-grassroots-mapping-forum-printed-map-journal.md
 nid: 373
 uid: 1
-
 cids: 
-
 ---
 
 ![](https://publiclab.org/sites/default/files/gmf_0_0.png)
 
 # Introducing the Grassroots Mapping Forum - a printed map journal
 
-by [warren](../../../profile/warren) | July 07, 2011 22:03
+by [warren](/profile/warren) | July 07, 2011 22:03
 
 July 07, 2011 22:03 | Tags: 
 

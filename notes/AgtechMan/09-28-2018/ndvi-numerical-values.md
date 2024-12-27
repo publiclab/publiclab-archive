@@ -6,16 +6,14 @@ author: AgtechMan
 path: /notes/AgtechMan/09-28-2018/ndvi-numerical-values.md
 nid: 17184
 uid: 552780
-
 cids: 20737,20758,20781,23236,23238
-
 ---
 
 # NDVI Numerical Values
 
-by [AgtechMan](../../../profile/AgtechMan) | September 28, 2018 08:43
+by [AgtechMan](/profile/AgtechMan) | September 28, 2018 08:43
 
-September 28, 2018 08:43 | Tags: [answered](../tag/answered), [question:general](../tag/question:general)
+September 28, 2018 08:43 | Tags: [answered](/tag/answered), [question:general](/tag/question:general)
 
 ----
 

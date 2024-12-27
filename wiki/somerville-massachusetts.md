@@ -6,16 +6,16 @@ author: warren
 path: /wiki/somerville-massachusetts.md
 nid: 178
 uid: 1
-
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/607/original/Screen_Shot_2014-07-28_at_10.32.10_AM.png)
 
 # Somerville, Massachusetts
 
-by [warren](../profile/warren), [liz](../profile/liz), [Bob](../profile/Bob), [Shannon](../profile/Shannon)
+by [warren](/profile/warren), [liz](/profile/liz), [Bob](/profile/Bob), [Shannon](/profile/Shannon)
 
-April 18, 2011 23:17 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [boston](../tag/boston), [events:boston](../tag/events:boston), [list:plots-boston](../tag/list:plots-boston), [chapter](../tag/chapter), [northeast](../tag/northeast), [parent:northeast](../tag/parent:northeast), [lat:42.38](../tag/lat:42.38), [lon:-71.09](../tag/lon:-71.09), [location:blurred](../tag/location:blurred), [place:somerville](../tag/place:somerville)
+April 18, 2011 23:17 | Tags: [somerville-massachusetts](/tag/somerville-massachusetts), [boston](/tag/boston), [events:boston](/tag/events:boston), [list:plots-boston](/tag/list:plots-boston), [chapter](/tag/chapter), [northeast](/tag/northeast), [parent:northeast](/tag/parent:northeast), [lat:42.38](/tag/lat:42.38), [lon:-71.09](/tag/lon:-71.09), [location:blurred](/tag/location:blurred), [place:somerville](/tag/place:somerville)
 
 ----
 

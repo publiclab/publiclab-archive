@@ -6,16 +6,14 @@ author: divyabaid16
 path: /notes/divyabaid16/07-03-2019/my-efforts-to-be-a-part-of-gsoc-19.md
 nid: 19970
 uid: 578652
-
 cids: 25100
-
 ---
 
 # My efforts to be a part of GSoC’19
 
-by [divyabaid16](../../../profile/divyabaid16) | July 03, 2019 12:42
+by [divyabaid16](/profile/divyabaid16) | July 03, 2019 12:42
 
-July 03, 2019 12:42 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019)
+July 03, 2019 12:42 | Tags: [gsoc](/tag/gsoc), [soc](/tag/soc), [gsoc-2019](/tag/gsoc-2019), [soc-2019](/tag/soc-2019)
 
 ----
 

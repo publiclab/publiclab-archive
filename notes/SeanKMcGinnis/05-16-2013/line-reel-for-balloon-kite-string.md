@@ -6,18 +6,16 @@ author: seankmcginnis
 path: /notes/SeanKMcGinnis/05-16-2013/line-reel-for-balloon-kite-string.md
 nid: 7620
 uid: 552
-
 cids: 4739,4743,4779,4780,4794,6375,6376
-
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/334/original/IMG_2368.JPG)
 
 # Line Reel for Balloon/Kite String
 
-by [seankmcginnis](../../../profile/seankmcginnis) | May 16, 2013 12:33
+by [seankmcginnis](/profile/seankmcginnis) | May 16, 2013 12:33
 
-May 16, 2013 12:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [line-reel](../tag/line-reel), [cord-winder](../tag/cord-winder), [mods](../tag/mods), [first-time-poster](../tag/first-time-poster)
+May 16, 2013 12:33 | Tags: [balloon-mapping](/tag/balloon-mapping), [line-reel](/tag/line-reel), [cord-winder](/tag/cord-winder), [mods](/tag/mods), [first-time-poster](/tag/first-time-poster)
 
 ----
 

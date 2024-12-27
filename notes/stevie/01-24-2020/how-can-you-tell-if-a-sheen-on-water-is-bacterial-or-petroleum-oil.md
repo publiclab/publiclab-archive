@@ -6,16 +6,14 @@ author: stevie
 path: /notes/stevie/01-24-2020/how-can-you-tell-if-a-sheen-on-water-is-bacterial-or-petroleum-oil.md
 nid: 22396
 uid: 422561
-
 cids: 26209,26213
-
 ---
 
 # How can you tell if a sheen on water is bacterial or petroleum (oil)? 
 
-by [stevie](../../../profile/stevie) | January 24, 2020 18:42
+by [stevie](/profile/stevie) | January 24, 2020 18:42
 
-January 24, 2020 18:42 | Tags: [water-quality](../tag/water-quality), [question:water-quality](../tag/question:water-quality), [question:general](../tag/question:general), [general](../tag/general), [oil-and-gas](../tag/oil-and-gas), [question:oil-and-gas](../tag/question:oil-and-gas), [oil-and-gas-water-quality](../tag/oil-and-gas-water-quality), [question:oil-and-gas-water-quality](../tag/question:oil-and-gas-water-quality)
+January 24, 2020 18:42 | Tags: [water-quality](/tag/water-quality), [question:water-quality](/tag/question:water-quality), [question:general](/tag/question:general), [general](/tag/general), [oil-and-gas](/tag/oil-and-gas), [question:oil-and-gas](/tag/question:oil-and-gas), [oil-and-gas-water-quality](/tag/oil-and-gas-water-quality), [question:oil-and-gas-water-quality](/tag/question:oil-and-gas-water-quality)
 
 ----
 

@@ -6,14 +6,14 @@ author: warren
 path: /wiki/ircam.md
 nid: 5733
 uid: 1
-
+cids: 
 ---
 
 # IRCam
 
-by [warren](../profile/warren), [danbeavers](../profile/danbeavers)
+by [warren](/profile/warren), [danbeavers](/profile/danbeavers)
 
-January 26, 2013 17:48 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ircam](../tag/ircam), [infragram](../tag/infragram)
+January 26, 2013 17:48 | Tags: [near-infrared-camera](/tag/near-infrared-camera), [ircam](/tag/ircam), [infragram](/tag/infragram)
 
 ----
 
