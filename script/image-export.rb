@@ -10,6 +10,7 @@ images.each do |image|
     text += "path: #{image.path}\n"
     text += "created_at: #{image.created_at.to_s(:long)}\n"
     text += "---\n\n"
+    text += "<p>Redirecting to: <a href='#{ image.path }'>#{image.photo_file_name}</a></p>";
     text += "<script>window.location.replace('..#{ image.path }');</script>";
     File.open(path, 'w') do |file|
       file.write(text)

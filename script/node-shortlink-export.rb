@@ -13,6 +13,7 @@ Node.where(nid: nids).each do |node|
     "uid: #{node.uid}\n"\
     "path: #{node.path}\n"
   text += "---\n\n"
+  text += "<p>Redirecting to: <a href='#{ node.path }'>#{node.title}</a></p>";
   text += "<script>window.location.replace('#{ node.path }');</script>";
 
   path = "public/static/n/#{node.id}.md"
