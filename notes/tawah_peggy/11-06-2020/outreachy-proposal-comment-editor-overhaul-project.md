@@ -6,7 +6,7 @@ author: tawah_peggy
 path: /notes/tawah_peggy/11-06-2020/outreachy-proposal-comment-editor-overhaul-project.md
 nid: 24939
 uid: 725762
-cids: 27642,27647,28197
+cids: 27642,27647
 ---
 
 # Outreachy proposal: Comment Editor Overhaul Project.

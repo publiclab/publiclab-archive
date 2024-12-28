@@ -6,7 +6,7 @@ author: cfastie
 path: /notes/cfastie/06-02-2016/soaring-riffle.md
 nid: 13158
 uid: 554
-cids: 14715,14716,24990,25004,29213
+cids: 14715,14716,24990,25004
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/445/original/BreadFail_20160531-5836.jpg)

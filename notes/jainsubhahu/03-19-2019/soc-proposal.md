@@ -6,7 +6,7 @@ author: jainsubhahu
 path: /notes/jainsubhahu/03-19-2019/soc-proposal.md
 nid: 18780
 uid: 558495
-cids: 22235,23329,23330,23338,23343,23346,23414,23757,23790,23920
+cids: 22235,23329,23338,23343,23346,23414,23757,23790,23920
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/298/original/screenshot-code.publiclab.org-2019.03.20-01-49-15.png)

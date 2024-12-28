@@ -6,7 +6,7 @@ author: iragersh
 path: /notes/iragersh/10-31-2018/why-is-this-website-so-freaking-slow.md
 nid: 17439
 uid: 557258
-cids: 21067,23272,31489
+cids: 21067,23272
 ---
 
 # why is this website so freaking slow?

@@ -6,7 +6,7 @@ author: WendyBrawer
 path: /notes/WendyBrawer/08-20-2019/how-to-get-street-trees-for-your-community.md
 nid: 20601
 uid: 492399
-cids: 25552,26301,28805
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/138/original/Screen_Shot_2020-02-13_at_12.39.02_PM.png)

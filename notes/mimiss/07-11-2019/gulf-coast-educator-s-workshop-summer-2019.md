@@ -6,7 +6,7 @@ author: mimiss
 path: /notes/mimiss/07-11-2019/gulf-coast-educator-s-workshop-summer-2019.md
 nid: 20075
 uid: 579821
-cids: 25023,25045,25157,26003
+cids: 25023
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/628/original/IMG_20190703_094725.jpg)

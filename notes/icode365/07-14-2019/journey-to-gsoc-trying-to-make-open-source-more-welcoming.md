@@ -6,7 +6,7 @@ author: icode365
 path: /notes/icode365/07-14-2019/journey-to-gsoc-trying-to-make-open-source-more-welcoming.md
 nid: 20098
 uid: 553778
-cids: 25048,25053,25140
+cids: 25048,25053
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/667/original/bannerblog.png)

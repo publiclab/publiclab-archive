@@ -6,7 +6,7 @@ author: techlearningcollective
 path: /notes/techlearningcollective/08-03-2019/introduction-to-writing-your-own-website-in-html-and-css.md
 nid: 20402
 uid: 608717
-cids: 25249,25553
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/294/original/intro-to-html.jpg)

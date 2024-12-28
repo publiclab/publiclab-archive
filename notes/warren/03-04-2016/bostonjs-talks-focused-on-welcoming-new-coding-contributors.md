@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/03-04-2016/bostonjs-talks-focused-on-welcoming-new-coding-contributors.md
 nid: 12771
 uid: 1
-cids: 13801,13807,13966,13968,13985,13987,28229
+cids: 13801,13807,13966,13968,13985,13987
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/657/original/Screenshot_2016-03-03_at_7.39.20_PM.png)

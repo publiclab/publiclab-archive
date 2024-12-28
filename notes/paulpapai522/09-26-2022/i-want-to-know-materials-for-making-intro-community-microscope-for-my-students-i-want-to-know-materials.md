@@ -6,7 +6,7 @@ author: paulpapai522
 path: /notes/paulpapai522/09-26-2022/i-want-to-know-materials-for-making-intro-community-microscope-for-my-students-i-want-to-know-materials.md
 nid: 34997
 uid: 814624
-cids: 30648,30649,30709,30808,31152
+cids: 30648,30649
 ---
 
 # I want to know materials for making intro community microscope for my students, i want to know materials?

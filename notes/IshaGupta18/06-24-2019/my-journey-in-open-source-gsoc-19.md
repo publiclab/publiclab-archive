@@ -6,7 +6,7 @@ author: IshaGupta18
 path: /notes/IshaGupta18/06-24-2019/my-journey-in-open-source-gsoc-19.md
 nid: 19839
 uid: 568043
-cids: 24875,24936
+cids: 24875
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/168/original/0_GXeaiRPePMjHuuHZ.jpeg)

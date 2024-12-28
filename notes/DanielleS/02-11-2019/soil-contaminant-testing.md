@@ -6,7 +6,7 @@ author: DanielleS
 path: /notes/DanielleS/02-11-2019/soil-contaminant-testing.md
 nid: 18344
 uid: 569208
-cids: 21861,21862,21897,21905,21955,21980,22238,23336,23373,23404,23425
+cids: 21861,21862,21897,21905,21955,22238,23336,23373,23404,23425
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/291/original/AgHortSoilTesting.png)

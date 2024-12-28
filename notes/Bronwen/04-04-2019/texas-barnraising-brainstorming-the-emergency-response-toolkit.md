@@ -6,7 +6,7 @@ author: Bronwen
 path: /notes/Bronwen/04-04-2019/texas-barnraising-brainstorming-the-emergency-response-toolkit.md
 nid: 18957
 uid: 237313
-cids: 25439
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/019/original/IMG_5076.JPG)

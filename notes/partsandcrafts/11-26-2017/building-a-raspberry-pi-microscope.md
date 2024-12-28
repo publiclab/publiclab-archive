@@ -6,7 +6,7 @@ author: partsandcrafts
 path: /notes/partsandcrafts/11-26-2017/building-a-raspberry-pi-microscope.md
 nid: 15241
 uid: 66014
-cids: 17791,17794,17873,19670,19685,19687,19774,19780,19783,19785,19786,19861,19877,31384
+cids: 17791,17794,17873,19670,19685,19687,19774,19780,19783,19785,19786,19861,19877
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/576/original/IMG_20171125_221612.jpg)

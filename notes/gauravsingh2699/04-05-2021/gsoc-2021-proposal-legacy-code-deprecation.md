@@ -6,7 +6,7 @@ author: gauravsingh2699
 path: /notes/gauravsingh2699/04-05-2021/gsoc-2021-proposal-legacy-code-deprecation.md
 nid: 26138
 uid: 746843
-cids: 28451,28467,28469,28486,28501,28516,28524,28525,28538,28809
+cids: 28451,28467,28469,28486,28501,28516,28524,28525,28809
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/150/original/Gsoc.png)

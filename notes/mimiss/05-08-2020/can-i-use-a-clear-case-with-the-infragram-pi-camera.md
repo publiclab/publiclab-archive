@@ -6,7 +6,7 @@ author: mimiss
 path: /notes/mimiss/05-08-2020/can-i-use-a-clear-case-with-the-infragram-pi-camera.md
 nid: 23578
 uid: 579821
-cids: 26826
+cids: 
 ---
 
 # Can I use a clear case with the Infragram pi camera?

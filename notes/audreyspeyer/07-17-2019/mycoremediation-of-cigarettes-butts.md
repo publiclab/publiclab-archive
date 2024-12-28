@@ -6,7 +6,7 @@ author: audreyspeyer
 path: /notes/audreyspeyer/07-17-2019/mycoremediation-of-cigarettes-butts.md
 nid: 20165
 uid: 605083
-cids: 25057,25067,25079,25087,25088,25098,25113,25156
+cids: 25057,25079,25087,25088,25098,25113
 ---
 
 # Mycoremediation of cigarettes butts

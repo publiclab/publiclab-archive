@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/05-30-2019/build-a-raspberry-pi-zero-aerial-photo-rig.md
 nid: 19578
 uid: 1
-cids: 24307,24308,24312,24342,24351,27571
+cids: 24307,24308,24312,24342,24351
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/603/original/IMG_20181206_124527_021.jpg)

@@ -6,7 +6,7 @@ author: eustatic
 path: /08-23-2018/check-up-on-bayou-bienvenue-22-august-2018.md
 nid: 16984
 uid: 379
-cids: 20468,20469,20537,20549,20673,20718,20719
+cids: 20468,20469,20537,20549,20673
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/306/original/a_IMG_3974.JPG)

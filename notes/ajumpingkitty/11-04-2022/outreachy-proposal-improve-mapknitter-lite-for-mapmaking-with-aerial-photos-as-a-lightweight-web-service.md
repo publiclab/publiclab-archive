@@ -6,7 +6,7 @@ author: ajumpingkitty
 path: /notes/ajumpingkitty/11-04-2022/outreachy-proposal-improve-mapknitter-lite-for-mapmaking-with-aerial-photos-as-a-lightweight-web-service.md
 nid: 36052
 uid: 818804
-cids: 30756,30812
+cids: 30756
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/309/original/pic.jpeg)

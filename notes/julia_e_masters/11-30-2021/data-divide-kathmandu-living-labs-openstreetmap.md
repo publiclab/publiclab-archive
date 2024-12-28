@@ -6,7 +6,7 @@ author: julia_e_masters
 path: /notes/julia_e_masters/11-30-2021/data-divide-kathmandu-living-labs-openstreetmap.md
 nid: 28314
 uid: 756220
-cids: 29539,30953,30954
+cids: 29539
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/113/original/kll.JPG)

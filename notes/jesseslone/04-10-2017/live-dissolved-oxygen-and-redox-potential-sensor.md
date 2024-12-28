@@ -6,7 +6,7 @@ author: jesseslone
 path: /notes/jesseslone/04-10-2017/live-dissolved-oxygen-and-redox-potential-sensor.md
 nid: 14103
 uid: 494770
-cids: 29070,29072,29074,29075,29076,29077,29078,29079,29080
+cids: 29070,29072,29074,29075,29076,29077,29078,29080
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/117/original/IMG_0623.JPG)

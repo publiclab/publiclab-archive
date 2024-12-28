@@ -6,7 +6,7 @@ author: shubham8705
 path: /notes/shubham8705/07-01-2020/effect-of-covid-19-on-climate-change.md
 nid: 24077
 uid: 687735
-cids: 27093,27121,27122,27152,27156
+cids: 27093,27121,27152
 ---
 
 # Effect of covid-19 on climate change?

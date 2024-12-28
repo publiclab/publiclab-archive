@@ -6,7 +6,7 @@ author: wmacfarl
 path: /notes/wmacfarl/10-28-2019/can-you-relate-secchi-disk-measurements-to-turbidity-sensor-measurements.md
 nid: 21317
 uid: 424597
-cids: 26259,26263,26264,26265,26266,26267,26268,26277
+cids: 26259,26263,26264,26265,26266,26267,26268
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/063/original/6005616136_d72f797011_c.jpg)

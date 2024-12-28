@@ -6,7 +6,7 @@ author: liz
 path: /notes/liz/10-16-2020/the-concept-of-community-paralegals.md
 nid: 24756
 uid: 7
-cids: 27480,27533,27624
+cids: 27533,27624
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/153/original/9781107159716.jpg)

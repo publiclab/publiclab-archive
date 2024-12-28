@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/11-30-2016/how-many-people-to-do-an-activity.md
 nid: 13734
 uid: 1
-cids: 15900,15901,29656
+cids: 15900,15901
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/948/original/henj.png)

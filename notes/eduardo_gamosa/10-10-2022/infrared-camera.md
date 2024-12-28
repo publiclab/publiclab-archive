@@ -6,7 +6,7 @@ author: eduardo_gamosa
 path: /notes/eduardo_gamosa/10-10-2022/infrared-camera.md
 nid: 35042
 uid: 814593
-cids: 30690,30708,30796,30802,30809,30810,30923,30924,31156
+cids: 
 ---
 
 # Infrared camera

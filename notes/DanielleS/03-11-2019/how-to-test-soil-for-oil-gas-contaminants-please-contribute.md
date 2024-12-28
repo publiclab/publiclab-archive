@@ -6,7 +6,7 @@ author: DanielleS
 path: /notes/DanielleS/03-11-2019/how-to-test-soil-for-oil-gas-contaminants-please-contribute.md
 nid: 18508
 uid: 569208
-cids: 22106,22109,22112,22152,22236,26634
+cids: 22106,22109,22112,22236,26634
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/992/original/petroleum-slick-morguefile-430.jpg)

@@ -6,7 +6,7 @@ author: alex_novosti
 path: /notes/alex_novosti/01-27-2021/mapknitter-map-of-arkhyz222.md
 nid: 25546
 uid: 737260
-cids: 28047,28435
+cids: 28435
 ---
 
 # MapKnitter map of ARKHYZ222

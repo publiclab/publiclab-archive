@@ -6,7 +6,7 @@ author: Engineerjaykumar
 path: /notes/Engineerjaykumar/12-13-2019/what-are-the-adverse-effect-of-concrete-on-human-helth.md
 nid: 21751
 uid: 643226
-cids: 26010,26013,26028,26703,26746
+cids: 26010,26028,26703
 ---
 
 # What are the adverse effect of concrete on human helth?

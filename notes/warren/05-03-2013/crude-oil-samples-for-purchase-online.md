@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/05-03-2013/crude-oil-samples-for-purchase-online.md
 nid: 7222
 uid: 1
-cids: 9543,9589,9614,24296,26729
+cids: 9543,9589,9614
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/161/original/ontas2.JPG.w300h232.jpg)

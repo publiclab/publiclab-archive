@@ -6,7 +6,7 @@ author: kassidy219s
 path: /notes/kassidy219s/05-16-2022/want-to-share-your-perspective-on-sustainability-and-the-future-of-coal.md
 nid: 30759
 uid: 790275
-cids: 30229,30686,30865
+cids: 
 ---
 
 # Want to Share Your Perspective on Sustainability and the Future of Coal?

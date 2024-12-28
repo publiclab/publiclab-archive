@@ -6,7 +6,7 @@ author: khufkens
 path: /notes/khufkens/04-24-2015/tetrapi-a-well-characterized-multispectral-camera.md
 nid: 11767
 uid: 438931
-cids: 11548,11549,11558,12307,12436,12437,20215,21792
+cids: 11548,11549,11558,12307,12436,12437,20215
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/690/original/17066772778_24569b91bc_k.jpg)

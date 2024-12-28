@@ -6,7 +6,7 @@ author: mollydanielsson
 path: /notes/MollyDanielsson/06-23-2014/call-for-submissions-for-grassroots-mapping-forum-6-trash.md
 nid: 10608
 uid: 1259
-cids: 9246,9247,9249,23620
+cids: 9246,9247,9249
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/952/original/basurama.jpg)

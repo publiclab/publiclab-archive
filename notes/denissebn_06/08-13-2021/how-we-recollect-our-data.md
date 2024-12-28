@@ -6,7 +6,7 @@ author: denissebn_06
 path: /notes/denissebn_06/08-13-2021/how-we-recollect-our-data.md
 nid: 27515
 uid: 749988
-cids: 30978,30979
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/647/original/VVAMP_Thumbnail_Logo_Holser_Canyon.tif)

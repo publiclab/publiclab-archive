@@ -6,7 +6,7 @@ author: Cogreg
 path: /notes/Cogreg/09-20-2020/how-do-i-test-home-made-fertilizer.md
 nid: 24612
 uid: 488685
-cids: 27408,27461
+cids: 27408
 ---
 
 # How do I... Test home-made fertilizer

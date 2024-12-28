@@ -6,7 +6,7 @@ author: BindaJD
 path: /notes/BindaJD/01-07-2022/will-the-air-quality-really-deteriorate-if-the-air-conditioner-is-turned-on-for-a-long-time.md
 nid: 28686
 uid: 784723
-cids: 29587
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/306/original/air_quality_sensor.png)

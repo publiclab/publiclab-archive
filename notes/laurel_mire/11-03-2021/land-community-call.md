@@ -6,7 +6,7 @@ author: laurel_mire
 path: /notes/laurel_mire/11-03-2021/land-community-call.md
 nid: 28074
 uid: 759178
-cids: 29387,29413,29414,29415,29425,29426,29865
+cids: 29387,29413,29414,29415,29425,29426
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/025/original/world-gfa5fb331c_1280.png)

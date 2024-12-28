@@ -6,7 +6,7 @@ author: Slava1
 path: /notes/Slava1/06-12-2018/problem-with-registration.md
 nid: 16466
 uid: 537852
-cids: 22121,23121
+cids: 23121
 ---
 
 # Problem with registration

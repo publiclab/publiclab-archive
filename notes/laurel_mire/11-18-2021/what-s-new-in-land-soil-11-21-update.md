@@ -6,7 +6,7 @@ author: laurel_mire
 path: /notes/laurel_mire/11-18-2021/what-s-new-in-land-soil-11-21-update.md
 nid: 28129
 uid: 759178
-cids: 30732
+cids: 
 ---
 
 # What's New in Land & Soil (11/21 Update)

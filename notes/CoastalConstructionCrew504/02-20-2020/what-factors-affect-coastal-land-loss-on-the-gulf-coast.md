@@ -6,7 +6,7 @@ author: CoastalConstructionCrew504
 path: /notes/CoastalConstructionCrew504/02-20-2020/what-factors-affect-coastal-land-loss-on-the-gulf-coast.md
 nid: 22882
 uid: 666956
-cids: 26356,26357,26360,26361,26364,26365,26383,27751
+cids: 26360,26361,26383,27751
 ---
 
 # What factors affect coastal land loss on the Gulf Coast?

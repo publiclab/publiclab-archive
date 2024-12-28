@@ -6,7 +6,7 @@ author: christie_reni
 path: /notes/christie_reni/10-26-2019/outreachy-proposal-refine-geographic-ui-and-js-integration-for-publiclab-org.md
 nid: 21306
 uid: 630062
-cids: 25750,25789,25790,25791,25792,25801,25804,25805,25806,25999,26023,26026,26039,26040,26041,26042
+cids: 25750,25789,25790,25791,25792,25801,25804,25805,25806,26023,26026
 ---
 
 # Outreachy proposal: Refine Geographic UI and JS Integration for PublicLab.org

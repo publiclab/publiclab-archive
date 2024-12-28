@@ -6,7 +6,7 @@ author: A_SCH
 path: /notes/A_SCH/06-23-2020/where-is-non-compliance-reported-for-fencline-monitoring.md
 nid: 24026
 uid: 704145
-cids: 27055,27063
+cids: 27055
 ---
 
 # Where is non-compliance reported for fencline monitoring?

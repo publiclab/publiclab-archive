@@ -6,7 +6,7 @@ author: amocorro
 path: /notes/amocorro/03-10-2021/when-is-the-next-workshop-in-education.md
 nid: 25890
 uid: 700923
-cids: 28320,31517
+cids: 28320
 ---
 
 # When is the next workshop in education?

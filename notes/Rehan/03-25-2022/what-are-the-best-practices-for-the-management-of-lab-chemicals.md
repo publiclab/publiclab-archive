@@ -6,7 +6,7 @@ author: Rehan
 path: /notes/Rehan/03-25-2022/what-are-the-best-practices-for-the-management-of-lab-chemicals.md
 nid: 30188
 uid: 792706
-cids: 29864,29868,29869,29873,29883,30684,30776
+cids: 29864,29868,29869,29873,29883
 ---
 
 # What are the best practices for the management of lab chemicals?

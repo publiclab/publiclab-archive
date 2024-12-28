@@ -6,7 +6,7 @@ author: ajguthrie99
 path: /notes/ajguthrie99/09-07-2020/headless-configuration-and-learning-shell-command-lines-and-git.md
 nid: 24537
 uid: 716372
-cids: 27336,27344
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/807/original/IMG_6304.jpg)

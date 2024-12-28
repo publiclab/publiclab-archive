@@ -6,7 +6,7 @@ author: edie_blues
 path: /notes/edie_blues/11-21-2018/the-new-welcome-page-is-waiting-for-your-feedback.md
 nid: 17726
 uid: 552521
-cids: 21325,21346,21350,21353
+cids: 21325,21346,21350
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/786/original/Screenshot_2018-11-21_at_18.12.34.png)

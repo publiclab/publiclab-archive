@@ -6,7 +6,7 @@ author: iman
 path: /notes/iman/03-30-2021/why-the-color-of-infragram-picture-is-different-from-what-i-take-with-my-raspberry-pi-using-picamera-api.md
 nid: 26064
 uid: 751134
-cids: 28472,28473,28509,28550,28557
+cids: 28472,28473,28509,28550
 ---
 
 # Why the color of Infragram picture is different from what I take with my Raspberry Pi using Picamera API

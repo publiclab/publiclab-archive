@@ -6,7 +6,7 @@ author: ClimateArt
 path: /notes/ClimateArt/06-27-2022/mapping-requests-template.md
 nid: 31159
 uid: 804750
-cids: 30278,30283,30299,30340,30368,30839
+cids: 30283
 ---
 
 # Balloon mapping workshop for a street festival in London

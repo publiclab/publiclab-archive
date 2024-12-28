@@ -6,7 +6,7 @@ author: MegSheehan
 path: /notes/MegSheehan/04-08-2021/how-do-we-determine-if-sand-is-silica.md
 nid: 26169
 uid: 752180
-cids: 28547,28548
+cids: 28547
 ---
 
 # how do we determine if sand is silica

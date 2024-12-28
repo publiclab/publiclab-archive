@@ -6,7 +6,7 @@ author: gauravano
 path: /notes/gauravano/03-29-2019/mapknitter-map-of-test-map-gs.md
 nid: 18896
 uid: 515081
-cids: 23673
+cids: 
 ---
 
 # MapKnitter map of test-map-gs

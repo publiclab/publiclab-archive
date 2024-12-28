@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/06-24-2019/how-could-we-design-a-group-activity-around-siting-air-sensors.md
 nid: 19843
 uid: 1
-cids: 24881,24883,24887,24888,24892,24893,24894,24926,24927,24980,31216
+cids: 24881,24883,24887,24888,24892,24893,24894,24926,24927
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/170/original/IMG_20190624_185952_336.jpg)

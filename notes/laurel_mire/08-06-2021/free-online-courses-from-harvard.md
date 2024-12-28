@@ -6,7 +6,7 @@ author: laurel_mire
 path: /notes/laurel_mire/08-06-2021/free-online-courses-from-harvard.md
 nid: 27440
 uid: 759178
-cids: 30990,30991
+cids: 
 ---
 
 # Free Online Courses from Harvard

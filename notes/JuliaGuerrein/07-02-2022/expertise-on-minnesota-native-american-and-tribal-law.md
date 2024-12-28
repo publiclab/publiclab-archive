@@ -6,7 +6,7 @@ author: JuliaGuerrein
 path: /notes/JuliaGuerrein/07-02-2022/expertise-on-minnesota-native-american-and-tribal-law.md
 nid: 31178
 uid: 796025
-cids: 30304,30308,30844
+cids: 
 ---
 
 # Expertise on Minnesota Native American and Tribal Law

@@ -6,7 +6,7 @@ author: liz
 path: /notes/liz/06-25-2019/musings-on-conflict-resilience.md
 nid: 19862
 uid: 7
-cids: 24895,24914,24962
+cids: 24895,24914
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/202/original/phases.png)

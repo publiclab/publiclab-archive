@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/12-24-2010/very-clear-spectrum-through-pineapple.md
 nid: 34
 uid: 1
-cids: 12894,12921,12954,12955,12957,14850,20426,20639,28811
+cids: 12894,12921,12954,12955,12957,14850,20426
 ---
 
 ![](https://publiclab.org/sites/default/files/pineapple-center-spectrum.png)

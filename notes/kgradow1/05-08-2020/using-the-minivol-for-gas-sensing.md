@@ -6,7 +6,7 @@ author: kgradow1
 path: /notes/kgradow1/05-08-2020/using-the-minivol-for-gas-sensing.md
 nid: 23581
 uid: 297929
-cids: 26785,26800
+cids: 26785
 ---
 
 # MiniVol for gas sensing?

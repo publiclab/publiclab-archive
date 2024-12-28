@@ -6,7 +6,7 @@ author: denissebn_06
 path: /notes/denissebn_06/07-12-2021/what-would-be-the-optimal-time-according-to-the-atm-pressure-to-take-measurements.md
 nid: 27076
 uid: 749988
-cids: 29019,29030
+cids: 29019
 ---
 
 # What would be the optimal time according to the atm pressure to take measurements

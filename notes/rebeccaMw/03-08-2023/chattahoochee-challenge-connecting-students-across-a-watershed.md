@@ -6,7 +6,7 @@ author: rebeccaMw
 path: /notes/rebeccaMw/03-08-2023/chattahoochee-challenge-connecting-students-across-a-watershed.md
 nid: 38742
 uid: 779054
-cids: 30876,30877,30878,30951,30952,31049,31071,31096,31112,31172,31181,31198,31238,31304,31327,31338,31370,31378,31420
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/470/original/Muscogee_Co_%281%29.jpg)

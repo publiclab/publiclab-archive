@@ -6,7 +6,7 @@ author: TheChessGym
 path: /notes/TheChessGym/03-31-2022/microplastics-discovered-in-human-blood.md
 nid: 30236
 uid: 788868
-cids: 31471
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/590/original/WhiteBubblesInRedBloodStream_1024.webp)

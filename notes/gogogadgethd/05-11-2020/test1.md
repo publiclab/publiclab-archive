@@ -6,7 +6,7 @@ author: gogogadgethd
 path: /notes/gogogadgethd/05-11-2020/test1.md
 nid: 23601
 uid: 692440
-cids: 26954
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/354/original/DJI_0947.JPG)

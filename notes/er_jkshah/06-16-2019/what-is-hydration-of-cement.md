@@ -6,7 +6,7 @@ author: er_jkshah
 path: /notes/er_jkshah/06-16-2019/what-is-hydration-of-cement.md
 nid: 19714
 uid: 576429
-cids: 24815,24825
+cids: 24815
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/952/original/concrete1.jpg)

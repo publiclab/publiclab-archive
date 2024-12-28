@@ -6,7 +6,7 @@ author: mimiss
 path: /notes/mimiss/03-26-2019/what-resources-would-you-use-to-introduce-high-school-students-to-environmental-problems.md
 nid: 18861
 uid: 579821
-cids: 23505,23844,23938,31120
+cids: 23844,23938
 ---
 
 # What are some of your favorite community science projects from around the world?

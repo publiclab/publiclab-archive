@@ -6,7 +6,7 @@ author: deeptalaxmibharadwaj
 path: /notes/deeptalaxmibharadwaj/09-02-2019/building-snake-plant-air-remediation-kit-in-bangalore-india.md
 nid: 20739
 uid: 615276
-cids: 25551,25915,25947,26435,26628,26692,27236,27795,28227,29038,29039,29559,31415,31437
+cids: 25915,26628,29559
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/087/original/plant4s.jpg)

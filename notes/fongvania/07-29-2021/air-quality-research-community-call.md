@@ -6,7 +6,7 @@ author: fongvania
 path: /notes/fongvania/07-29-2021/air-quality-research-community-call.md
 nid: 27382
 uid: 754846
-cids: 29106,29109
+cids: 29106
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/517/original/BlueSky-winding-cityscape-600x400.jpg)

@@ -6,7 +6,7 @@ author: lekhidugtal
 path: /notes/lekhidugtal/05-28-2019/my-first-blog-post-for-outreachy.md
 nid: 19557
 uid: 577754
-cids: 24270,24278,24284
+cids: 24270,24278
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/503/original/Untitled.png)

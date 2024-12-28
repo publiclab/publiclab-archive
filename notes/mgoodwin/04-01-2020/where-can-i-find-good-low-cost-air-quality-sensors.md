@@ -6,7 +6,7 @@ author: mgoodwin
 path: /notes/mgoodwin/04-01-2020/where-can-i-find-good-low-cost-air-quality-sensors.md
 nid: 23277
 uid: 606303
-cids: 26626,26629,26630,26632,26635
+cids: 26626,26629,26630
 ---
 
 # Where can I find good low-cost air quality sensors? 

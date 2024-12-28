@@ -6,7 +6,7 @@ author: dbsnp
 path: /notes/dbsnp/06-04-2020/experimentos-caseros-por-let-s-do-it-el-salvador.md
 nid: 23774
 uid: 543056
-cids: 26928,26929,26930,26973
+cids: 26928,26930
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/618/original/IMG_20191207_170657.jpg)

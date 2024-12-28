@@ -6,7 +6,7 @@ author: molangmuir10
 path: /notes/molangmuir10/07-02-2019/mapknitter-ui-evaluation-2-mapping-nottingham-s-urban-greening.md
 nid: 19955
 uid: 589023
-cids: 24978,24996,25020,25195,25438
+cids: 24996,25020,25195
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/428/original/G0102321.jpeg)

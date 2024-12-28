@@ -6,7 +6,7 @@ author: Getty
 path: /notes/Getty/03-26-2019/outreachy-proposal-publiclab-org-ui-improvements.md
 nid: 18862
 uid: 580179
-cids: 23441,23448,23449,23466,23496,23500,23501,23502,23557,23564,23565,23607,23825,24062,24080
+cids: 23448,23449,23466,23496,23500,23501,23502,23557,23564,23565,23607,23825,24062,24080
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/759/original/code.jpg)

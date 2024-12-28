@@ -6,7 +6,7 @@ author: Bronwen
 path: /notes/Bronwen/02-28-2019/what-are-some-sources-of-funding-for-environmental-projects.md
 nid: 18439
 uid: 237313
-cids: 21969,21970,21971,21975,21986,21987
+cids: 21969,21970,21971
 ---
 
 # What are some sources of funding for environmental projects?

@@ -6,7 +6,7 @@ author: noah_ben_furman
 path: /notes/noah_ben_furman/06-07-2022/what-are-the-best-ways-for-communities-to-engage-with-content-posted-to-our-wild-rice-project.md
 nid: 31038
 uid: 795472
-cids: 30259,30266,30281,30683
+cids: 30259
 ---
 
 # What are the best ways for communities to engage with content posted to our Wild Rice project?

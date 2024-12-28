@@ -6,7 +6,7 @@ author: stevie
 path: /notes/stevie/04-27-2021/welcoming-public-lab-s-new-executive-director.md
 nid: 26365
 uid: 422561
-cids: 28663,28936,29499
+cids: 28663
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/503/original/Jordan.jpeg)

@@ -6,7 +6,7 @@ author: Shannon
 path: /notes/shannon/6-15-2012/public-lab-community-newsletter-61512.md
 nid: 2502
 uid: 9
-cids: 20642
+cids: 
 ---
 
 # Public Lab community newsletter 6.15.12

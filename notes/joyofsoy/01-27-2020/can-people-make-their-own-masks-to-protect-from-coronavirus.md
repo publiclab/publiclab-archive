@@ -6,7 +6,7 @@ author: joyofsoy
 path: /notes/joyofsoy/01-27-2020/can-people-make-their-own-masks-to-protect-from-coronavirus.md
 nid: 22415
 uid: 540844
-cids: 26216,26218,26281,26282,26307
+cids: 26216,26281,26282,26307
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/791/original/3M_N95_Particulate_Respirator.jpeg)

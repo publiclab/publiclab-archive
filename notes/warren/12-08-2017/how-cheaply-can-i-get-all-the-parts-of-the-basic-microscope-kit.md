@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/12-08-2017/how-cheaply-can-i-get-all-the-parts-of-the-basic-microscope-kit.md
 nid: 15339
 uid: 1
-cids: 18457,18458,18461,20314
+cids: 18457,18458,18461
 ---
 
 #  How cheaply can I get all the parts of the basic microscope kit?

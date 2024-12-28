@@ -6,7 +6,7 @@ author: rexagod
 path: /notes/rexagod/08-25-2019/google-summer-of-code-2019-public-lab-final-work-product-pranshu-srivastava.md
 nid: 20666
 uid: 564358
-cids: 25389,25390,25420,25710
+cids: 25389,25390,25420
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/873/original/fwp.png)

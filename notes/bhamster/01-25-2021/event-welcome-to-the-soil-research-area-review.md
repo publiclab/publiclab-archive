@@ -6,7 +6,7 @@ author: bhamster
 path: /notes/bhamster/01-25-2021/event-welcome-to-the-soil-research-area-review.md
 nid: 25535
 uid: 664477
-cids: 28040,28046,28056,28059,28060,28118,28121,28159
+cids: 28040,28046,28056,28059,28060,28118,28121
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/500/original/dirt-698869_640.jpg)

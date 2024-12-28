@@ -6,7 +6,7 @@ author: sara
 path: /notes/Sara/01-24-2014/methods-of-estimating-the-volume-and-weight-of-waste-piles-through-balloon-mapping.md
 nid: 9977
 uid: 8
-cids: 8118,8121,8125,8130,28064
+cids: 8118,8121,8125,8130
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/650/original/DSC01156.jpg)

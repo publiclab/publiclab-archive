@@ -6,7 +6,7 @@ author: SimonPyle
 path: /notes/SimonPyle/05-13-2016/automating-imagej-for-particle-image-analysis.md
 nid: 13116
 uid: 468943
-cids: 14611,14612,14686,16050,16052,16055,16058,19254,31383
+cids: 14611,14612,14686,16050,16052,16055,16058,19254
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/180/original/MacroProcess.gif)

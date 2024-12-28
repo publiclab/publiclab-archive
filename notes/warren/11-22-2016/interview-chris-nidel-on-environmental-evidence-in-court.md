@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/11-22-2016/interview-chris-nidel-on-environmental-evidence-in-court.md
 nid: 13716
 uid: 1
-cids: 21139,31470
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/877/original/Screenshot_2016-11-22_at_11.28.29_AM.png)

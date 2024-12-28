@@ -6,7 +6,7 @@ author: pataxte
 path: /notes/pataxte/05-07-2020/mapknitter-exports-are-very-small-scale-unreadable.md
 nid: 23571
 uid: 559561
-cids: 26764,26777,26803,26808,26814,26815
+cids: 26764,26777,26803,26808,26814
 ---
 
 # mapknitter exports are very small scale, unreadable

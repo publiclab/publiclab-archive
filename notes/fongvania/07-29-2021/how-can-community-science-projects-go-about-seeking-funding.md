@@ -6,7 +6,7 @@ author: fongvania
 path: /notes/fongvania/07-29-2021/how-can-community-science-projects-go-about-seeking-funding.md
 nid: 27375
 uid: 754846
-cids: 29107,29108,29110,29111,29117,29193
+cids: 29107,29108,29117
 ---
 
 # How can community science projects go about seeking funding?

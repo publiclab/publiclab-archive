@@ -6,7 +6,7 @@ author: sashadev-sky
 path: /notes/sashadev-sky/08-12-2019/extensible-oss.md
 nid: 20513
 uid: 555321
-cids: 25251,25410
+cids: 25410
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/513/original/Screen_Shot_2019-08-12_at_6.56.14_PM.png)

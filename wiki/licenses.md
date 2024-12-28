@@ -6,7 +6,7 @@ author: warren
 path: /wiki/licenses.md
 nid: 225
 uid: 1
-cids: 25497,25498
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/381/original/white.jpg)

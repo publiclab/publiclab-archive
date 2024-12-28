@@ -6,7 +6,7 @@ author: LakG
 path: /notes/LakG/04-15-2022/gsoc-proposal-refine-user-interfaces-across-publiclab-org.md
 nid: 30433
 uid: 794832
-cids: 30025,30027,30041,30094,31411
+cids: 30025,30027,30041,30094
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/813/original/gsoc.png)

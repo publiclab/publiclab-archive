@@ -6,7 +6,7 @@ author: stevie
 path: /notes/stevie/04-10-2019/draft-sentinel-program.md
 nid: 19030
 uid: 422561
-cids: 24265
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/387/original/Screen_Shot_2019-04-10_at_4.16.28_PM.png)

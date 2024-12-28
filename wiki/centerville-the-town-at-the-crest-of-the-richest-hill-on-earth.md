@@ -6,7 +6,7 @@ author: Paddy
 path: /wiki/centerville-the-town-at-the-crest-of-the-richest-hill-on-earth.md
 nid: 13012
 uid: 451390
-cids: 25974
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/720/original/IMG_1807.JPG)

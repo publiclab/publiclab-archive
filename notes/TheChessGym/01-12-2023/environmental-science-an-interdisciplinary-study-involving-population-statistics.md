@@ -6,7 +6,7 @@ author: TheChessGym
 path: /notes/TheChessGym/01-12-2023/environmental-science-an-interdisciplinary-study-involving-population-statistics.md
 nid: 38038
 uid: 788868
-cids: 30824,30825,30826,30827,30828,30829,30830,31178
+cids: 30824
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/405/original/Mississippi_River.jpg)

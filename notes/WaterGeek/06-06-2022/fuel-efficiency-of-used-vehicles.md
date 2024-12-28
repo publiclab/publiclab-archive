@@ -6,7 +6,7 @@ author: WaterGeek
 path: /notes/WaterGeek/06-06-2022/fuel-efficiency-of-used-vehicles.md
 nid: 31034
 uid: 524963
-cids: 30258,30454,31153
+cids: 30258
 ---
 
 # Fuel Efficiency Of Used Vehicles

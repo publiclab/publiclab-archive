@@ -6,7 +6,7 @@ author: osetroff
 path: /notes/osetroff/05-27-2017/can-this-camera-be-suitable-to-make-a-spectrometer-v3-0.md
 nid: 14232
 uid: 507230
-cids: 24992
+cids: 
 ---
 
 # Can this camera be suitable to make a spectrometer v3.0?

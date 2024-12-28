@@ -6,7 +6,7 @@ author: liz
 path: /notes/liz/01-23-2019/what-happens-if-i-inhale-too-much-formaldehyde.md
 nid: 18170
 uid: 7
-cids: 21801,21806,23313
+cids: 21806,23313
 ---
 
 # What happens if I inhale too much formaldehyde?

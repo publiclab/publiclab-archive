@@ -6,7 +6,7 @@ author: janajockovic47
 path: /notes/janajockovic47/05-05-2019/can-you-give-me-mesure-for-spectrum-thank-you.md
 nid: 19247
 uid: 588599
-cids: 24026,24029,24033,24035,24039,24041,24042,24057
+cids: 24026,24029,24033,24039,24041,24042,24057
 ---
 
 # Can you give me mesure for spectrum? Thank you.

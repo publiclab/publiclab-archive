@@ -6,7 +6,7 @@ author: mimiss
 path: /notes/mimiss/07-25-2019/student-led-inquiry-project-tracker.md
 nid: 20311
 uid: 579821
-cids: 25158,28292
+cids: 28292
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/124/original/IMG_0059.JPG)

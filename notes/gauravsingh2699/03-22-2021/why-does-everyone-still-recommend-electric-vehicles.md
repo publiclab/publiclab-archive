@@ -6,7 +6,7 @@ author: gauravsingh2699
 path: /notes/gauravsingh2699/03-22-2021/why-does-everyone-still-recommend-electric-vehicles.md
 nid: 25999
 uid: 746843
-cids: 28374,28387,28388,28392,28444
+cids: 28374,28388,28392,28444
 ---
 
 # Why does everyone still recommend electric vehicles?

@@ -6,7 +6,7 @@ author: cfastie
 path: /notes/cfastie/05-23-2013/multigrain-ndvi.md
 nid: 7837
 uid: 554
-cids: 4810,4817,4818,31240
+cids: 4810,4817,4818
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/385/original/rows_6220.jpg)

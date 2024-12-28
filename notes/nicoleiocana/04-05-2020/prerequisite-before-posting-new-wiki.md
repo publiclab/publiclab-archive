@@ -6,7 +6,7 @@ author: nicoleiocana
 path: /notes/nicoleiocana/04-05-2020/prerequisite-before-posting-new-wiki.md
 nid: 23302
 uid: 634185
-cids: 26744
+cids: 
 ---
 
 # Prerequisite Before Posting New Wiki

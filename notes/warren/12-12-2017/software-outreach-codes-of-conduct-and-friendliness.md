@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/12-12-2017/software-outreach-codes-of-conduct-and-friendliness.md
 nid: 15358
 uid: 1
-cids: 30897,30898
+cids: 
 ---
 
 # Software outreach: Codes of conduct and friendliness

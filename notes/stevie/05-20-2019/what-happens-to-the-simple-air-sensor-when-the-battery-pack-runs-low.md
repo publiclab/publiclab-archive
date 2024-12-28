@@ -6,7 +6,7 @@ author: stevie
 path: /notes/stevie/05-20-2019/what-happens-to-the-simple-air-sensor-when-the-battery-pack-runs-low.md
 nid: 19465
 uid: 422561
-cids: 24205,24206,24210,24212,24219,24842,24843,24847,24855,24856,24857
+cids: 24205,24206,24210,24212,24219,24842,24843,24855,24856
 ---
 
 # What happens to the simple air sensor when the battery pack runs low? 

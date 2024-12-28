@@ -6,7 +6,7 @@ author: icarito
 path: /notes/icarito/10-21-2018/introducing-pi-builder.md
 nid: 17262
 uid: 448589
-cids: 21068,21069,21070,25229,25236,25237,25261,25294,26794,26809
+cids: 21068,21069,21070,25229,25236,25237,25261,26794,26809
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/085/original/Screenshot_2018-10-04_at_4.52.43_PM.png)

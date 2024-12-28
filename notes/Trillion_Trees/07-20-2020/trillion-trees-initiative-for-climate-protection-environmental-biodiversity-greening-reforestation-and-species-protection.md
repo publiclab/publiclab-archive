@@ -6,7 +6,7 @@ author: Trillion_Trees
 path: /notes/Trillion_Trees/07-20-2020/trillion-trees-initiative-for-climate-protection-environmental-biodiversity-greening-reforestation-and-species-protection.md
 nid: 24197
 uid: 709175
-cids: 27277,27665
+cids: 27277
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/222/original/TrillionTreesInitiative_org.jpg)

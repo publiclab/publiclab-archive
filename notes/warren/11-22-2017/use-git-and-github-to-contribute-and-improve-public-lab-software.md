@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/11-22-2017/use-git-and-github-to-contribute-and-improve-public-lab-software.md
 nid: 15228
 uid: 1
-cids: 23921,23923,23930,24729,28254,29554,31351
+cids: 23921,23923,23930,24729,28254,29554
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/536/original/Screen_Shot_2017-11-22_at_3.08.13_PM.png)

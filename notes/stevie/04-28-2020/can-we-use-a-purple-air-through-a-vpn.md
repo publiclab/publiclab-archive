@@ -6,7 +6,7 @@ author: stevie
 path: /notes/stevie/04-28-2020/can-we-use-a-purple-air-through-a-vpn.md
 nid: 23504
 uid: 422561
-cids: 26751,26754,26756,27003,27009,28284
+cids: 26751,26754,26756,27003
 ---
 
 # Can we use a Purple Air through a VPN? 

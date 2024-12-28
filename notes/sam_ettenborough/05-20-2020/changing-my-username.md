@@ -6,7 +6,7 @@ author: sam_ettenborough
 path: /notes/sam_ettenborough/05-20-2020/changing-my-username.md
 nid: 23669
 uid: 639379
-cids: 26848,26960
+cids: 26848
 ---
 
 # Changing my username

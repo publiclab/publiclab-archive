@@ -6,7 +6,7 @@ author: caitlion
 path: /notes/caitlion/03-19-2022/zoning-and-corruption-in-st-john-the-baptist-parish.md
 nid: 30158
 uid: 780686
-cids: 30804
+cids: 
 ---
 
 # Zoning and Corruption in St. John the Baptist Parish

@@ -6,7 +6,7 @@ author: avikeid2007
 path: /notes/avikeid2007/03-18-2019/home-automation-using-arduino.md
 nid: 18759
 uid: 579541
-cids: 23352,23664,28025
+cids: 23352,23664
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/254/original/IMG_3857.JPG)

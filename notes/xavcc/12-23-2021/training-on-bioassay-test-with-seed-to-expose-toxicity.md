@@ -6,7 +6,7 @@ author: xavcc
 path: /notes/xavcc/12-23-2021/training-on-bioassay-test-with-seed-to-expose-toxicity.md
 nid: 28516
 uid: 630823
-cids: 29551,29553,31381
+cids: 29551,29553
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/757/original/seed_bench_bioassay.jpg)

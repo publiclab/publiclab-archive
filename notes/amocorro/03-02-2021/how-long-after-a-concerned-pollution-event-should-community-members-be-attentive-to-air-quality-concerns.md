@@ -6,7 +6,7 @@ author: amocorro
 path: /notes/amocorro/03-02-2021/how-long-after-a-concerned-pollution-event-should-community-members-be-attentive-to-air-quality-concerns.md
 nid: 25828
 uid: 700923
-cids: 28276,28279
+cids: 28279
 ---
 
 # How long after a concerned pollution event should community members be attentive to air quality and/or water contamination concerns?

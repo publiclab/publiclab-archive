@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/08-15-2013/white-balancing-a-canon-camera-for-infragram-photography.md
 nid: 9018
 uid: 1
-cids: 6644,6646,6734,8023,8024,8025,8026,8027,11023,11024,13309,13310,31392
+cids: 6644,6646,6734,8023,8024,8025,8026,8027,11023,11024,13309,13310
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/158/original/Screen_Shot_2013-08-15_at_7.45.49_PM.png)

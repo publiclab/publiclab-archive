@@ -6,7 +6,7 @@ author: thewrightjess
 path: /notes/thewrightjess/01-30-2020/public-lab-job-posting-research-coordinator.md
 nid: 22440
 uid: 603909
-cids: 26352
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/834/original/Research_Coordinator.jpg)

@@ -6,7 +6,7 @@ author: eustatic
 path: /02-11-2014/new-orleans-city-park-stormwater-wetland.md
 nid: 10028
 uid: 379
-cids: 8261,8262,8291,8702,28303
+cids: 8261,8262,8291,8702
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/875/original/12461944465_02407ff5df_z_1_.jpg)

@@ -6,7 +6,7 @@ author: sarasage
 path: /notes/sarasage/08-10-2021/is-there-a-correlation-between-humidity-and-particulates-in-the-air.md
 nid: 27451
 uid: 451398
-cids: 29126,29140,29259,29770
+cids: 29126,29140,29770
 ---
 
 # Is there a correlation between humidity and particulates in the air?

@@ -6,7 +6,7 @@ author: stevie
 path: /notes/stevie/12-19-2017/what-resources-are-available-to-help-people-monitor-noise-pollution.md
 nid: 15396
 uid: 422561
-cids: 17990,17994,18092,22808,22852,22853,26063,26072
+cids: 17990,17994,18092,22808,22852,22853,26063
 ---
 
 # What resources are available to help people monitor noise pollution? 

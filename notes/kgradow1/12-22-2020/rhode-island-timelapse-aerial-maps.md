@@ -6,7 +6,7 @@ author: kgradow1
 path: /notes/kgradow1/12-22-2020/rhode-island-timelapse-aerial-maps.md
 nid: 25310
 uid: 297929
-cids: 27846,27854,27864,27883
+cids: 27883
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/110/original/Screen_Shot_2020-12-22_at_10.33.31_AM.png)

@@ -6,7 +6,7 @@ author: amocorro
 path: /notes/amocorro/09-24-2020/is-it-illegal-for-the-usa-epa-to-deny-the-community-advisory-group-process-because-of-a-random-unnamed-reporter-claiming-that-the-communities-in-the-vicinity-of-the-superfund-site-are-already-engaged.md
 nid: 24647
 uid: 700923
-cids: 27457,27520,27534,27535,27621,27658,27660
+cids: 27520,27534,27535,27621,27658,27660
 ---
 
 # Is it illegal for the US EPA to deny the Community Advisory Group process because of a random, unnamed reporter claiming that the communities in the vicinity of the Superfund site are already engaged?

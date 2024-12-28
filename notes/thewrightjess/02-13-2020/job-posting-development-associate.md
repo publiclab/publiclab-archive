@@ -6,7 +6,7 @@ author: thewrightjess
 path: /notes/thewrightjess/02-13-2020/job-posting-development-associate.md
 nid: 22805
 uid: 603909
-cids: 26309
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/144/original/dev_role_post.jpg)

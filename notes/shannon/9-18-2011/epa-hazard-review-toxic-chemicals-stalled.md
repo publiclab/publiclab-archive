@@ -6,7 +6,7 @@ author: Shannon
 path: /notes/shannon/9-18-2011/epa-hazard-review-toxic-chemicals-stalled.md
 nid: 469
 uid: 9
-cids: 25101
+cids: 
 ---
 
 # EPA hazard review of toxic chemicals stalled

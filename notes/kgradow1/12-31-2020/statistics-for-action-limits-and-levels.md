@@ -6,7 +6,7 @@ author: kgradow1
 path: /notes/kgradow1/12-31-2020/statistics-for-action-limits-and-levels.md
 nid: 25315
 uid: 297929
-cids: 28790,31115
+cids: 28790
 ---
 
 # Limits and Levels

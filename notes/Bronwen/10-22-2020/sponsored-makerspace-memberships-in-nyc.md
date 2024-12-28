@@ -6,7 +6,7 @@ author: Bronwen
 path: /notes/Bronwen/10-22-2020/sponsored-makerspace-memberships-in-nyc.md
 nid: 24792
 uid: 237313
-cids: 27499,27503,30910
+cids: 27499,27503
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/197/original/IMG_20181215_154729.jpg)

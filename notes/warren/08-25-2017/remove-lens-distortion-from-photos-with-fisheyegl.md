@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/08-25-2017/remove-lens-distortion-from-photos-with-fisheyegl.md
 nid: 14792
 uid: 1
-cids: 17237,17238,17241,17281,17282,17328,19633,25055,31397
+cids: 17237,17238,17241,17281,17282,17328,19633,25055
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/423/original/PublicLab_copy.png)

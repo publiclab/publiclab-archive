@@ -6,7 +6,7 @@ author: kgradow1
 path: /notes/kgradow1/12-31-2020/compare-environmental-test-results-to-health-standards.md
 nid: 25367
 uid: 297929
-cids: 27884,27909,28122,29866
+cids: 27884,27909,28122
 ---
 
 # Compare environmental test results to health standards

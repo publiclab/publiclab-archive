@@ -6,7 +6,7 @@ author: TheChessGym
 path: /notes/TheChessGym/05-10-2022/world-laws-versus-federal-and-state-drinking-water-legislation.md
 nid: 30717
 uid: 788868
-cids: 31465
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/668/original/drinkingwater.jpg)

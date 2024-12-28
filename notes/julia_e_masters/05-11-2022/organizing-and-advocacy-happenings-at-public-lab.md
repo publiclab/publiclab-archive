@@ -6,7 +6,7 @@ author: julia_e_masters
 path: /notes/julia_e_masters/05-11-2022/organizing-and-advocacy-happenings-at-public-lab.md
 nid: 30715
 uid: 756220
-cids: 30921,30922
+cids: 
 ---
 
 # Organizing and Advocacy Happenings at Public Lab!

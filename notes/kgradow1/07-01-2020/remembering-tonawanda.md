@@ -6,7 +6,7 @@ author: kgradow1
 path: /notes/kgradow1/07-01-2020/remembering-tonawanda.md
 nid: 24074
 uid: 297929
-cids: 27082,27143,27764,27765
+cids: 27082,27764,27765
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/030/original/TTC_pic_from_Paulv2_%281%29.jpeg)

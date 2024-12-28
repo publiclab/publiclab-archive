@@ -6,7 +6,7 @@ author: wangmeising97
 path: /notes/wangmeising97/06-05-2020/why-we-see-red-image-when-using-blue-filter.md
 nid: 23784
 uid: 668989
-cids: 26937,26938,26939,26940,26941,26943,26975,26997,30746
+cids: 26937,26938,26939,26940,26941,26943,26997
 ---
 
 # Why we see red image when using blue filter?

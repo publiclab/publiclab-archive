@@ -6,7 +6,7 @@ author: JuliaGuerrein
 path: /notes/JuliaGuerrein/09-02-2022/huber-seeks-permits-to-remove-bald-eagle-nests.md
 nid: 34928
 uid: 796025
-cids: 30579,30580,30581,30797,31466
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/109/original/eagles.jpg)

@@ -6,7 +6,7 @@ author: maxliboiron
 path: /notes/maxliboiron/07-19-2018/how-to-analyze-plastics-forensically.md
 nid: 16751
 uid: 310707
-cids: 20717,20721,25211,31363
+cids: 20717
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/775/original/Hudson.jpg)

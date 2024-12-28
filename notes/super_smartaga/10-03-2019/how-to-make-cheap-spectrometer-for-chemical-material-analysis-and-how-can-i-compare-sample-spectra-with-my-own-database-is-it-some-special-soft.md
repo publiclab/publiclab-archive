@@ -6,7 +6,7 @@ author: super_smartaga
 path: /notes/super_smartaga/10-03-2019/how-to-make-cheap-spectrometer-for-chemical-material-analysis-and-how-can-i-compare-sample-spectra-with-my-own-database-is-it-some-special-soft.md
 nid: 21055
 uid: 624711
-cids: 25674,25678,25681,25682,25832
+cids: 25674,25678,25832
 ---
 
 # How to make CHEAP spectrometer for chemical material analysis, and how can I compare sample spectra with my own database?? Is it some special soft??

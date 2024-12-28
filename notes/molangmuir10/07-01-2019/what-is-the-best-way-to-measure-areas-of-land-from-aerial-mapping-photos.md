@@ -6,7 +6,7 @@ author: molangmuir10
 path: /notes/molangmuir10/07-01-2019/what-is-the-best-way-to-measure-areas-of-land-from-aerial-mapping-photos.md
 nid: 19940
 uid: 589023
-cids: 24948,24949,24954,24955,24981,25032,25486,25518,26698
+cids: 24948,24949,24954,24955,25032,25486,25518,26698
 ---
 
 # What is the best way to measure areas of land from aerial mapping photos?

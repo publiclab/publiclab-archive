@@ -6,7 +6,7 @@ author: stevie
 path: /notes/stevie/03-05-2020/can-you-blur-the-location-of-a-purple-air-device.md
 nid: 23083
 uid: 422561
-cids: 26427,26428,26485,27980,28014
+cids: 26427,26428,27980,28014
 ---
 
 # Can you blur the location of a Purple Air device?

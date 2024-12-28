@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/03-29-2019/refine-and-improve-an-existing-topic-or-project-page-on-publiclab-org.md
 nid: 18904
 uid: 1
-cids: 24864,27388
+cids: 27388
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/880/original/Screen_Shot_2019-03-29_at_4.13.49_PM.png)

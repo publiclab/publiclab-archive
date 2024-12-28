@@ -6,7 +6,7 @@ author: VIETCHI
 path: /notes/VIETCHI/01-14-2023/please-where-can-i-get-free-downloadable-data-on-nigeria-showing-different-vegetation-zones.md
 nid: 38040
 uid: 813355
-cids: 30977,31151,31213,31233,31344,31460,31527
+cids: 
 ---
 
 # Please where can I get free downloadable data on Nigeria showing different vegetation zones

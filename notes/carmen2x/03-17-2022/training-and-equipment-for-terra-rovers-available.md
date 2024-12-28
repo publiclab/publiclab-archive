@@ -6,7 +6,7 @@ author: carmen2x
 path: /notes/carmen2x/03-17-2022/training-and-equipment-for-terra-rovers-available.md
 nid: 30140
 uid: 787988
-cids: 29871,30627,31200,31271,31330,31522
+cids: 29871
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/527/original/Screen_Shot_2022-03-17_at_10.12.59_AM.png)

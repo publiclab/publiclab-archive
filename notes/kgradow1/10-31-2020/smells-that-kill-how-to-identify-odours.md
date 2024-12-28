@@ -6,7 +6,7 @@ author: kgradow1
 path: /notes/kgradow1/10-31-2020/smells-that-kill-how-to-identify-odours.md
 nid: 24882
 uid: 297929
-cids: 27617,27625,28176,28204
+cids: 27617,27625,28176
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/425/original/SDCEA-Logo.jpg)

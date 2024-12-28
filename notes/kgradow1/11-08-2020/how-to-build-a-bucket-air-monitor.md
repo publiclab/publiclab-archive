@@ -6,7 +6,7 @@ author: kgradow1
 path: /notes/kgradow1/11-08-2020/how-to-build-a-bucket-air-monitor.md
 nid: 24950
 uid: 297929
-cids: 27637,27807,27808,27809,27848,27849,27850,27851,28366,28367,28368,28369,28370,28383,28384,28385,28386,28559
+cids: 27807,27808,27809,28559
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/306/original/Screen_Shot_2021-01-05_at_7.18.02_PM.png)

@@ -6,7 +6,7 @@ author: Crescents22
 path: /notes/Crescents22/02-23-2022/does-the-amount-of-micro-plastics-vary-depending-on-different-locations.md
 nid: 30078
 uid: 789615
-cids: 29717,30193,30194
+cids: 29717
 ---
 
 # Does the amount of micro-plastics vary depending on different locations? 

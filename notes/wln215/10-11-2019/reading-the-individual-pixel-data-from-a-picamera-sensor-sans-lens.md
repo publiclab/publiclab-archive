@@ -6,7 +6,7 @@ author: wln215
 path: /notes/wln215/10-11-2019/reading-the-individual-pixel-data-from-a-picamera-sensor-sans-lens.md
 nid: 21139
 uid: 578478
-cids: 25672
+cids: 
 ---
 
 # Reading the individual pixel data from a piCamera sensor sans-lens?

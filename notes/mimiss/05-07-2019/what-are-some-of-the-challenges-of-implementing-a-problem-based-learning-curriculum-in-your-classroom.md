@@ -6,7 +6,7 @@ author: mimiss
 path: /notes/mimiss/05-07-2019/what-are-some-of-the-challenges-of-implementing-a-problem-based-learning-curriculum-in-your-classroom.md
 nid: 19267
 uid: 579821
-cids: 24227,25197,25203,25205
+cids: 25197,25205
 ---
 
 # What are some of the challenges of implementing a problem-based learning curriculum in your classroom?

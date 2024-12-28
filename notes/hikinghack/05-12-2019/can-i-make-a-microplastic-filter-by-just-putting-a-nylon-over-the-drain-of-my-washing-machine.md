@@ -6,7 +6,7 @@ author: hikinghack
 path: /notes/hikinghack/05-12-2019/can-i-make-a-microplastic-filter-by-just-putting-a-nylon-over-the-drain-of-my-washing-machine.md
 nid: 19303
 uid: 469851
-cids: 24123,24125,24138,24199,24200,24201,24202,24203
+cids: 24123,24125,24138,24203
 ---
 
 # Can i make a microplastic filter by just putting a nylon over the drain of my washing machine?

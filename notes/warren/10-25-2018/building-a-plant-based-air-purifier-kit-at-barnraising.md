@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/10-25-2018/building-a-plant-based-air-purifier-kit-at-barnraising.md
 nid: 17395
 uid: 1
-cids: 20980,20981,20982,20983,20987,21046,21439,26248,26576,27490,27816,27817,27818,27819,27820,27923,28085,28234,28235,28272,29584,29629,31040,31048
+cids: 20980,20981,20982,20983,20987,21046,21439,26576
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/267/original/PA150357.JPG)

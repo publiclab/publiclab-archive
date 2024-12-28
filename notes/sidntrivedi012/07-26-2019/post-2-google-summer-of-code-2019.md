@@ -6,7 +6,7 @@ author: sidntrivedi012
 path: /notes/sidntrivedi012/07-26-2019/post-2-google-summer-of-code-2019.md
 nid: 20335
 uid: 572743
-cids: 25155
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/169/original/Screenshot_2019-07-25_at_11.26.20_PM.png)

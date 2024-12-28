@@ -6,7 +6,7 @@ author: cguerin
 path: /notes/cguerin/10-16-2018/next-steps-indoor-air-remediation-kit-paris-working-progress-prototypes-18-09-18.md
 nid: 17282
 uid: 507616
-cids: 20985,27373,31438,31464
+cids: 20985
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/911/original/christophe_guerin_-_03.jpg)

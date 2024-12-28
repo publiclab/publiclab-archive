@@ -6,7 +6,7 @@ author: kaustubh_nair
 path: /notes/kaustubh_nair/03-26-2019/gsoc-proposal-mapknitter-rails-6-upgrade.md
 nid: 18873
 uid: 577485
-cids: 23476,23562,23710,23711,23804,23835,24126
+cids: 23476,23710,23711,23804,23835,24126
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/782/original/image.png)

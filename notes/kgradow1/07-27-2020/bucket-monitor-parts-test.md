@@ -6,7 +6,7 @@ author: kgradow1
 path: /notes/kgradow1/07-27-2020/bucket-monitor-parts-test.md
 nid: 24224
 uid: 297929
-cids: 27207
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/274/original/Screen_Shot_2020-07-27_at_1.45.33_PM.png)

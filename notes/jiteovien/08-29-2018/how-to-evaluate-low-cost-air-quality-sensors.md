@@ -6,7 +6,7 @@ author: jiteovien
 path: /notes/jiteovien/08-29-2018/how-to-evaluate-low-cost-air-quality-sensors.md
 nid: 17020
 uid: 540008
-cids: 20520,20660,20661
+cids: 20520
 ---
 
 # How to evaluate low cost air quality sensors

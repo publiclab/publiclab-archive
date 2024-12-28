@@ -6,7 +6,7 @@ author: denissebn_06
 path: /notes/denissebn_06/07-07-2021/what-public-lab-has-taught-me-in-three-months-of-working-as-fellow.md
 nid: 27032
 uid: 749988
-cids: 29005,30660,30886,30887,30888
+cids: 
 ---
 
 # What Public lab has taught me so far working as a Fellow.

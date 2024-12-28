@@ -6,7 +6,7 @@ author: John_Wells
 path: /notes/johnwells/5-7-2013/scottish-national-aerial-photography-scheme.md
 nid: 7288
 uid: 372
-cids: 4695,5607,27131,27133,27135,27150
+cids: 4695,5607,27131,27133,27135
 ---
 
 ![](https://publiclab.org/sites/default/files/blawhornir.jpg)

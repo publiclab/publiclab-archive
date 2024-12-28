@@ -6,7 +6,7 @@ author: gegeneo
 path: /notes/gegeneo/01-03-2017/using-transifex-s-translating-platform.md
 nid: 13832
 uid: 501144
-cids: 16031,26252
+cids: 16031
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/185/original/transifex.png)

@@ -6,7 +6,7 @@ author: DavesPlanet
 path: /notes/DavesPlanet/12-31-2016/use-this-research-to-build-inexpensive-autonomous-lionfish-killing-drones.md
 nid: 13827
 uid: 501068
-cids: 16020,22389,22390,22393,30931,30932,30933
+cids: 16020,22389,22390,22393
 ---
 
 # Use this research to build inexpensive autonomous lionfish killing drones

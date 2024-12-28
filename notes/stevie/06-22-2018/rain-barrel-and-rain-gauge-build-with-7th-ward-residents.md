@@ -6,7 +6,7 @@ author: stevie
 path: /notes/stevie/06-22-2018/rain-barrel-and-rain-gauge-build-with-7th-ward-residents.md
 nid: 16553
 uid: 422561
-cids: 19866,20255,30254
+cids: 19866
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/273/original/20180616_111917.jpg)

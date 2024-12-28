@@ -6,7 +6,7 @@ author: WhiteRabbit
 path: /notes/WhiteRabbit/07-27-2014/question-can-i-use-the-desktop-spectrometer-to-analyze-ordinary-reflected-light.md
 nid: 10984
 uid: 425996
-cids: 18204,22858,26645
+cids: 18204,22858
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/602/original/greenGrassReflectanceCircles.png)

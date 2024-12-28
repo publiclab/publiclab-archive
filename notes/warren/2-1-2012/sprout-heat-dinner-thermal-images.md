@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/2-1-2012/sprout-heat-dinner-thermal-images.md
 nid: 739
 uid: 1
-cids: 20529
+cids: 
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-01-30 at 9.18.47 PM.png)

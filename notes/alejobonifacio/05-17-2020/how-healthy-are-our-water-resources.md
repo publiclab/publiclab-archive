@@ -6,7 +6,7 @@ author: alejobonifacio
 path: /notes/alejobonifacio/05-17-2020/how-healthy-are-our-water-resources.md
 nid: 23659
 uid: 639376
-cids: 26831,26841,26844,26958,30241
+cids: 26831,26841,26844,30241
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/428/original/Logo.png)

@@ -6,7 +6,7 @@ author: eustatic
 path: /10-07-2020/why-is-the-texas-chemical-council-against-the-use-of-microscopes.md
 nid: 24712
 uid: 379
-cids: 27473,27474,27476,27568
+cids: 27473,27474,27476
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/090/original/49692738797_3ba3988c25_o.jpg)

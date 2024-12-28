@@ -6,7 +6,7 @@ author: mimiss
 path: /notes/mimiss/06-03-2019/workshop-v-how-do-we-study-an-environmental-issue.md
 nid: 19432
 uid: 579821
-cids: 28345,28579,31323
+cids: 28345,28579
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/293/original/NAS_Community_Science_in_the_Classroom_Overview.png)

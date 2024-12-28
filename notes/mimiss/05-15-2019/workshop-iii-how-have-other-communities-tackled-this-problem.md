@@ -6,7 +6,7 @@ author: mimiss
 path: /notes/mimiss/05-15-2019/workshop-iii-how-have-other-communities-tackled-this-problem.md
 nid: 19413
 uid: 579821
-cids: 28349,29719
+cids: 28349
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/271/original/NAS_Community_Science_in_the_Classroom_Overview.png)

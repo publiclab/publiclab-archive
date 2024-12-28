@@ -6,7 +6,7 @@ author: Ag8n
 path: /notes/Ag8n/09-14-2022/how-do-i-do-multivariate-analysis-on-lichen-testing.md
 nid: 34962
 uid: 520994
-cids: 30676,30687,30688,30851,30889
+cids: 30676,30687,30688
 ---
 
 # How do I...do multivariate analysis on lichen testing?

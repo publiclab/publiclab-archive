@@ -6,7 +6,7 @@ author: joyofsoy
 path: /notes/joyofsoy/03-08-2019/mapping-at-tidwell-park-in-houston.md
 nid: 18498
 uid: 540844
-cids: 28302
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/963/original/A.Tidwell_Park.gif)

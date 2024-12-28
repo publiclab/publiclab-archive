@@ -6,7 +6,7 @@ author: Bronwen
 path: /notes/bronwen/12-04-2018/nyc-microscope-workshop-12-15-at-fat-cat-fab-lab.md
 nid: 17806
 uid: 237313
-cids: 30730
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/080/original/Screen_Shot_2018-12-04_at_3.59.01_PM.png)

@@ -6,7 +6,7 @@ author: Alex-McCarthy
 path: /notes/alex-mccarthy/4-8-2011/spectrometry-urop-4811-update.md
 nid: 169
 uid: 125
-cids: 20527
+cids: 
 ---
 
 ![](https://publiclab.org/sites/default/files/100_0037.JPG)

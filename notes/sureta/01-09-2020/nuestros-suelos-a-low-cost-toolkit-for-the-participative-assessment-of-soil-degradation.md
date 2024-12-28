@@ -6,7 +6,7 @@ author: sureta
 path: /notes/sureta/01-09-2020/nuestros-suelos-a-low-cost-toolkit-for-the-participative-assessment-of-soil-degradation.md
 nid: 22241
 uid: 646232
-cids: 26112,26113,26114,26144,26145,26147,26153,26196,26701,26702,26862,27959,27962,28015,28626,29225,29638,29647,30455,30631
+cids: 26112,26113,26114,26144,26145,26147,26196,26702,27959,28626,29638
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/514/original/Captura_de_pantalla_2020-01-08_a_la%28s%29_23.02.03.png)

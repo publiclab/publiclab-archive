@@ -6,7 +6,7 @@ author: vickylydy
 path: /notes/vickylydy/11-03-2022/outreachy-proposal-improve-mapknitter-lite-for-mapmaking-with-aerial-photos-as-a-lightweight-web-service.md
 nid: 36049
 uid: 816217
-cids: 30747,30750,30752,30772
+cids: 30747,30750,30752
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/322/original/pexels-pixabay-41949.jpg)

@@ -6,7 +6,7 @@ author: nnn16
 path: /notes/nnn16/02-27-2019/how-do-i-search-for-the-spectra-recorded-by-a-specific-user.md
 nid: 18429
 uid: 575251
-cids: 21958,21968,21973,21976,23319
+cids: 21958,21968,21973,23319
 ---
 
 # How do I search for the spectra recorded by a specific user?

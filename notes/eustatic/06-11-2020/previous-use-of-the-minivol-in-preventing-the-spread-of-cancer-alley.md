@@ -6,7 +6,7 @@ author: eustatic
 path: /06-11-2020/previous-use-of-the-minivol-in-preventing-the-spread-of-cancer-alley.md
 nid: 23821
 uid: 379
-cids: 27012,27020,27281
+cids: 27012,27281
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/744/original/10995706123_42f76d462c_b.jpg)

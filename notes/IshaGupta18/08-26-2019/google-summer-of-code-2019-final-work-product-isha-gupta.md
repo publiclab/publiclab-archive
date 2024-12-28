@@ -6,7 +6,7 @@ author: IshaGupta18
 path: /notes/IshaGupta18/08-26-2019/google-summer-of-code-2019-final-work-product-isha-gupta.md
 nid: 20668
 uid: 568043
-cids: 25377,25380,25384,25400,25404,25413,25414,25415,25416,25417,25419,25422,25437,25444,25449,25495,25538,25570
+cids: 25377,25380,25384,25400,25404,25413,25414,25415,25416,25417,25422,25437,25444,25449,25495,25570
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/874/original/1_g5RBYeGe0VLB6t_ZsvO_wQ.png)

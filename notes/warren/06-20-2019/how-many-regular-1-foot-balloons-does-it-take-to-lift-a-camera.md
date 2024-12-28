@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/06-20-2019/how-many-regular-1-foot-balloons-does-it-take-to-lift-a-camera.md
 nid: 19762
 uid: 1
-cids: 24837,24838,24839,24844,24868
+cids: 24837,24838,24839,24844
 ---
 
 # How many regular ~1 foot balloons does it take to lift a camera?

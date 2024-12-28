@@ -6,7 +6,7 @@ author: stefannibrasil
 path: /notes/stefannibrasil/04-20-2018/github-guide-for-open-source-contributions.md
 nid: 16176
 uid: 525300
-cids: 19468,19469,19484,19492,19500,25659,25661,25680
+cids: 19468,19469,19484,19492,19500,25659,25661
 ---
 
 # Github guide for Open Source Contributions

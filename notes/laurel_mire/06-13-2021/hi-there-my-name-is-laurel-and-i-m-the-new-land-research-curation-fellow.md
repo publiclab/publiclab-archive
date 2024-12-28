@@ -6,7 +6,7 @@ author: laurel_mire
 path: /notes/laurel_mire/06-13-2021/hi-there-my-name-is-laurel-and-i-m-the-new-land-research-curation-fellow.md
 nid: 26818
 uid: 759178
-cids: 28917,28919,28924,28942,28943,28944,28981,29044,31257
+cids: 28917,28919,28924,28942,28943,28944,28981
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/173/original/IMG_1518.jpg)

@@ -6,7 +6,7 @@ author: liz
 path: /notes/liz/12-07-2018/treating-policy-as-code.md
 nid: 17825
 uid: 7
-cids: 21467,21469,21495,26909
+cids: 21467,21469,21495
 ---
 
 # Treating policy as code

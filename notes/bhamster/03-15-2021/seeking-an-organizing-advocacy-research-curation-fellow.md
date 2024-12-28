@@ -6,7 +6,7 @@ author: bhamster
 path: /notes/bhamster/03-15-2021/seeking-an-organizing-advocacy-research-curation-fellow.md
 nid: 25926
 uid: 664477
-cids: 31133
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/956/original/Public_Lab_Letterhead_blank.png)

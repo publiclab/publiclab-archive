@@ -6,7 +6,7 @@ author: dhaffnersr
 path: /notes/dhaffnersr/07-12-2016/quantum-yield-of-rhodamine-b-in-ethanol-gain-corrected-spectra.md
 nid: 13283
 uid: 461120
-cids: 14916,31391
+cids: 14916
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/986/original/rhod_b_100ppmMAIN_PIC.png)

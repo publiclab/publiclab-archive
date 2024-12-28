@@ -6,7 +6,7 @@ author: stevie
 path: /notes/stevie/08-03-2018/what-options-are-available-for-pollution-health-models.md
 nid: 16848
 uid: 422561
-cids: 23188,26165
+cids: 23188
 ---
 
 # What options are available for pollution/health models? 

@@ -6,7 +6,7 @@ author: purl
 path: /notes/purl/03-17-2021/workshop-ix-what-action-does-our-data-support.md
 nid: 25955
 uid: 736598
-cids: 28343
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/972/original/NAS_Community_Science_in_the_Classroom_Overview.png)

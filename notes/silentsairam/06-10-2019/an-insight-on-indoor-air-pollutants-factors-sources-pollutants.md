@@ -6,7 +6,7 @@ author: silentsairam
 path: /notes/silentsairam/06-10-2019/an-insight-on-indoor-air-pollutants-factors-sources-pollutants.md
 nid: 19653
 uid: 553044
-cids: 24751,24754,26436,28041,30250,31418,31436,31467
+cids: 24751,24754,30250
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/785/original/pp.jpg)

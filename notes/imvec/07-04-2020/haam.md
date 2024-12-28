@@ -6,7 +6,7 @@ author: imvec
 path: /notes/imvec/07-04-2020/haam.md
 nid: 24097
 uid: 495038
-cids: 27145
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/077/original/haam.png)

@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/10-10-2013/improvements-to-spectralworkbench-org-and-publiclab-org.md
 nid: 9433
 uid: 1
-cids: 8755,8757,8769,8770,8791,8794,8862,8868,31394
+cids: 8755,8757,8769,8770,8791,8794,8862,8868
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/865/original/Picture_2.png)

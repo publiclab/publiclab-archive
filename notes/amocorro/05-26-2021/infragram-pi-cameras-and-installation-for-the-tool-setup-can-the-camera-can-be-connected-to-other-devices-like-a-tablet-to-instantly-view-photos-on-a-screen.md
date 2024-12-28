@@ -6,7 +6,7 @@ author: amocorro
 path: /notes/amocorro/05-26-2021/infragram-pi-cameras-and-installation-for-the-tool-setup-can-the-camera-can-be-connected-to-other-devices-like-a-tablet-to-instantly-view-photos-on-a-screen.md
 nid: 26714
 uid: 700923
-cids: 29022
+cids: 
 ---
 
 # Infragram Pi Cameras and public installation: For the tool setup, can the camera can be connected to other devices like a tablet, to instantly view photos on a screen?

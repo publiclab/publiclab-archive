@@ -6,7 +6,7 @@ author: julia_e_masters
 path: /notes/julia_e_masters/05-25-2022/introduction-to-community-organizing.md
 nid: 30910
 uid: 756220
-cids: 30264,30269,30270,31191
+cids: 30264,30269,30270
 ---
 
 # Introduction to Community Organizing

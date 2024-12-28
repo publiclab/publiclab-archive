@@ -6,7 +6,7 @@ author: gbathree
 path: /notes/gbathree/04-08-2016/some-notes-updates-from-photosynq.md
 nid: 12937
 uid: 53164
-cids: 14246,27155
+cids: 14246
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/410/original/IMG_20160318_161317.jpg)

@@ -6,7 +6,7 @@ author: Randall
 path: /notes/Randall/03-14-2018/600-year-old-cedar-tree-infragram.md
 nid: 15955
 uid: 527609
-cids: 18948,18950,18958,18989,23008,25159,25165,25209
+cids: 18948,18950,18958,18989,23008,25159
 ---
 
 # 600 year old cedar tree - Infragram

@@ -6,7 +6,7 @@ author: cfastie
 path: /notes/cfastie/3-2-2013/fraunhofer.md
 nid: 6168
 uid: 554
-cids: 3615,3617,16887,16889,31346
+cids: 3615,3617,16887,16889
 ---
 
 ![](https://publiclab.org/sites/default/files/FraunhoferIII-02a.jpg)

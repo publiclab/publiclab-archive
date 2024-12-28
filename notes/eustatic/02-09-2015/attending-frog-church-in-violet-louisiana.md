@@ -6,7 +6,7 @@ author: eustatic
 path: /02-09-2015/attending-frog-church-in-violet-louisiana.md
 nid: 11568
 uid: 379
-cids: 11141,26062,26908
+cids: 11141
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/874/original/16330978035_78828cd868_b_1_.jpg)

@@ -6,7 +6,7 @@ author: BIKIE-GERALD-24
 path: /notes/BIKIE-GERALD-24/07-09-2022/status-trends-and-gap-of-oceanography-in-the-gulf-of-guinea-a-case-study-on-the-coast-of-cameroon.md
 nid: 31268
 uid: 799821
-cids: 30314,30336,30738
+cids: 30314,30336
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/877/original/Cameroon.JPG)

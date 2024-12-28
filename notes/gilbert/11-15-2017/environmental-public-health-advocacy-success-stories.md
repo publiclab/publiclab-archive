@@ -6,7 +6,7 @@ author: gilbert
 path: /notes/gilbert/11-15-2017/environmental-public-health-advocacy-success-stories.md
 nid: 15193
 uid: 508551
-cids: 31355
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/420/original/Mystic_River_Watershed_Association.jpg)

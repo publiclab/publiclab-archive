@@ -6,7 +6,7 @@ author: donblair
 path: /wiki/ndvi-bee-movie.md
 nid: 8005
 uid: 43651
-cids: 24235
+cids: 
 ---
 
 # NDVI Bee Movie

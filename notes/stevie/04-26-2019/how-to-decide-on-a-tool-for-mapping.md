@@ -6,7 +6,7 @@ author: stevie
 path: /notes/stevie/04-26-2019/how-to-decide-on-a-tool-for-mapping.md
 nid: 19169
 uid: 422561
-cids: 23999
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/710/original/20141011_082035.jpg)

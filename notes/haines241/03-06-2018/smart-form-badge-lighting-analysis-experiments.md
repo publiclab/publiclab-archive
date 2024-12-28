@@ -6,7 +6,7 @@ author: haines241
 path: /notes/haines241/03-06-2018/smart-form-badge-lighting-analysis-experiments.md
 nid: 15868
 uid: 526768
-cids: 19089,21365,21385,26743
+cids: 19089,21365,21385
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/831/original/LightForPublicLab.jpg)

@@ -6,7 +6,7 @@ author: liz
 path: /notes/liz/01-08-2019/event-clean-air-council-delaware-riverkeeper-network.md
 nid: 18082
 uid: 7
-cids: 21683,21767,26080
+cids: 21683,21767
 ---
 
 # Event: Clean Air Council + Delaware Riverkeeper Network

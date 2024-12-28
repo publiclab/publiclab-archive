@@ -6,7 +6,7 @@ author: a1ahna
 path: /notes/a1ahna/05-26-2022/event-a-conversation-with-yutsi-creator-of-norco-the-game.md
 nid: 30913
 uid: 518193
-cids: 30795,31243
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/700/original/publiclab_mapping_1200x430.png)

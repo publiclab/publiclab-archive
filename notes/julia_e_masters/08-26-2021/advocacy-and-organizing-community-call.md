@@ -6,7 +6,7 @@ author: julia_e_masters
 path: /notes/julia_e_masters/08-26-2021/advocacy-and-organizing-community-call.md
 nid: 27624
 uid: 756220
-cids: 29190,29191,29226,29603,31537
+cids: 29190,29191,29226
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/735/original/The-Need-To-Resource-Feminist-Movements-Has-Never-Been-Greater%E2%80%94So-Wheres-the-Money-for-Feminist-Organizing.jpeg)

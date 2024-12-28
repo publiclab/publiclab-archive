@@ -6,7 +6,7 @@ author: azaelb
 path: /notes/azaelb/04-11-2015/ndvi-with-a-key-chain-camera-from-a-mini-drone-first-steps.md
 nid: 11754
 uid: 319070
-cids: 11521,28306
+cids: 11521
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/637/original/IRphoto.jpg)

@@ -6,7 +6,7 @@ author: ajitmujumdar25999
 path: /notes/ajitmujumdar25999/07-18-2021/importing-new-translations-from-transifex-project.md
 nid: 27099
 uid: 654056
-cids: 29040
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/413/original/Screenshot_from_2021-07-18_13-22-30.png)

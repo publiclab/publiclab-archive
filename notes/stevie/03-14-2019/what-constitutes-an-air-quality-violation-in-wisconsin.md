@@ -6,7 +6,7 @@ author: stevie
 path: /notes/stevie/03-14-2019/what-constitutes-an-air-quality-violation-in-wisconsin.md
 nid: 18551
 uid: 422561
-cids: 23324,23874
+cids: 23324
 ---
 
 # What constitutes an air quality violation in Wisconsin? 

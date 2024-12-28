@@ -6,7 +6,7 @@ author: apparao
 path: /notes/apparao/09-29-2018/with-which-android-tablets-is-the-mobius-action-cam-compatible.md
 nid: 17188
 uid: 533038
-cids: 20755,20771,20792,30224,30691
+cids: 20755,20771,20792
 ---
 
 # With which Android Tablets is the Mobius Action Cam compatible?

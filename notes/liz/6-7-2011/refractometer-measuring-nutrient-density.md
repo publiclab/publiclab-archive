@@ -6,7 +6,7 @@ author: liz
 path: /notes/liz/6-7-2011/refractometer-measuring-nutrient-density.md
 nid: 339
 uid: 7
-cids: 268,269,292,294,26683
+cids: 268,269,292,294
 ---
 
 ![](https://publiclab.org/sites/default/files/kale.jpg)

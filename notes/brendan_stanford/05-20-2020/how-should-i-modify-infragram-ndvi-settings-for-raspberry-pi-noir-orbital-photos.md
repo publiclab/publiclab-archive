@@ -6,7 +6,7 @@ author: brendan_stanford
 path: /notes/brendan_stanford/05-20-2020/how-should-i-modify-infragram-ndvi-settings-for-raspberry-pi-noir-orbital-photos.md
 nid: 23674
 uid: 694882
-cids: 26851,26855,26869,26876,26877,26878,26879,26883,26884,26961
+cids: 26851,26855,26869,26876,26877,26878,26879,26883,26884
 ---
 
 # How should I modify Infragram NDVI settings for Raspberry Pi Noir orbital photos?

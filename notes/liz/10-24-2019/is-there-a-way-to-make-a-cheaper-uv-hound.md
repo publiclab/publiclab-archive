@@ -6,7 +6,7 @@ author: liz
 path: /notes/liz/10-24-2019/is-there-a-way-to-make-a-cheaper-uv-hound.md
 nid: 21284
 uid: 7
-cids: 25741,25742,25744,26001,26002,26004,26108,26110,26117,26121,26130,26140,26159
+cids: 25741,25742,25744,26001,26108,26110,26117,26121,26130,26140,26159
 ---
 
 # Is there a way to make a cheaper "UV Hound"?

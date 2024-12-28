@@ -6,7 +6,7 @@ author: eustatic
 path: /09-05-2020/sweep-and-pan-vs-scoop-and-sift-methods-for-nurdle-retrieval.md
 nid: 24528
 uid: 379
-cids: 27332,27333,27337,27338,27349,27354,27410
+cids: 27332,27333,27337,27349,27354,27410
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/794/original/IMAG6284.jpg)

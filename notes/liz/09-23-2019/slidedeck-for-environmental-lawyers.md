@@ -6,7 +6,7 @@ author: liz
 path: /notes/liz/09-23-2019/slidedeck-for-environmental-lawyers.md
 nid: 20972
 uid: 7
-cids: 25569,31468
+cids: 25569
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/408/original/Screen_Shot_2019-09-23_at_12.30.13_PM.png)

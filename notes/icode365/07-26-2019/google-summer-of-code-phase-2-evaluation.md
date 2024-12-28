@@ -6,7 +6,7 @@ author: icode365
 path: /notes/icode365/07-26-2019/google-summer-of-code-phase-2-evaluation.md
 nid: 20321
 uid: 553778
-cids: 25143,25145,25148
+cids: 25145,25148
 ---
 
 # Google Summer of Code: Phase 2 Evaluation

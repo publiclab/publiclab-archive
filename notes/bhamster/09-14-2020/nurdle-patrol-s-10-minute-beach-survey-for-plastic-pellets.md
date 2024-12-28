@@ -6,7 +6,7 @@ author: bhamster
 path: /notes/bhamster/09-14-2020/nurdle-patrol-s-10-minute-beach-survey-for-plastic-pellets.md
 nid: 24575
 uid: 664477
-cids: 27359,28778
+cids: 27359
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/881/original/Tunnell_et_al_2020_graph_abstract.jpg)

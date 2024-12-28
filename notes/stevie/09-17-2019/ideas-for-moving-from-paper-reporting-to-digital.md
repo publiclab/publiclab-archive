@@ -6,7 +6,7 @@ author: stevie
 path: /notes/stevie/09-17-2019/ideas-for-moving-from-paper-reporting-to-digital.md
 nid: 20898
 uid: 422561
-cids: 25534,25540,25825
+cids: 25534,25540
 ---
 
 # Ideas for moving from paper reporting to digital?

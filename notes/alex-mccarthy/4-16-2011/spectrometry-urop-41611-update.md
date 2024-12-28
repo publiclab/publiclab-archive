@@ -6,7 +6,7 @@ author: Alex-McCarthy
 path: /notes/alex-mccarthy/4-16-2011/spectrometry-urop-41611-update.md
 nid: 174
 uid: 125
-cids: 20528
+cids: 
 ---
 
 ![](https://publiclab.org/sites/default/files/PD vs PL.png)

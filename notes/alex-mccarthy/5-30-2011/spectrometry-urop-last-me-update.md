@@ -6,7 +6,7 @@ author: Alex-McCarthy
 path: /notes/alex-mccarthy/5-30-2011/spectrometry-urop-last-me-update.md
 nid: 305
 uid: 125
-cids: 265,30535
+cids: 265
 ---
 
 # Spectrometry UROP last (for me) update

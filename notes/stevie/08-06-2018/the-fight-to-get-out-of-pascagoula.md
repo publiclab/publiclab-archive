@@ -6,7 +6,7 @@ author: stevie
 path: /notes/stevie/08-06-2018/the-fight-to-get-out-of-pascagoula.md
 nid: 16871
 uid: 422561
-cids: 20357,20384,20652,20666
+cids: 20357,20384
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/093/original/Screen_Shot_2018-08-03_at_1.55.32_PM.png)

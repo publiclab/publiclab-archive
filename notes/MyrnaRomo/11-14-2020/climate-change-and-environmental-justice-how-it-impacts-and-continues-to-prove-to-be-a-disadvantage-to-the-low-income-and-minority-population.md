@@ -6,7 +6,7 @@ author: MyrnaRomo
 path: /notes/MyrnaRomo/11-14-2020/climate-change-and-environmental-justice-how-it-impacts-and-continues-to-prove-to-be-a-disadvantage-to-the-low-income-and-minority-population.md
 nid: 25060
 uid: 726546
-cids: 27669,27672,27673,27745,27779,28244,28911
+cids: 27669,27672,27673,27779,28911
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/749/original/climate-change-is-not-a-white-thing-featured-web-810x422.jpg)

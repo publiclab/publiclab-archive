@@ -6,7 +6,7 @@ author: Bronwen
 path: /notes/Bronwen/09-20-2019/online-live-builds-make-magazine-in-october.md
 nid: 20940
 uid: 237313
-cids: 29758
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/359/original/make-community-logo.jpg)

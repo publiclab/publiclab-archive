@@ -6,7 +6,7 @@ author: cfastie
 path: /notes/cfastie/10-24-2013/mentor-summit.md
 nid: 9542
 uid: 554
-cids: 7340,25191
+cids: 7340
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/031/original/GSOCgroup.gif)

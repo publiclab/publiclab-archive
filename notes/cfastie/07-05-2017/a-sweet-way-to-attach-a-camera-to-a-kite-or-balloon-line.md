@@ -6,7 +6,7 @@ author: cfastie
 path: /notes/cfastie/07-05-2017/a-sweet-way-to-attach-a-camera-to-a-kite-or-balloon-line.md
 nid: 14621
 uid: 554
-cids: 16994,16997,25131,31400
+cids: 16994,16997,25131
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/039/original/JugRig_20170706-0023.JPG)

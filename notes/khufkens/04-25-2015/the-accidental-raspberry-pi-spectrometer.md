@@ -6,7 +6,7 @@ author: khufkens
 path: /notes/khufkens/04-25-2015/the-accidental-raspberry-pi-spectrometer.md
 nid: 11770
 uid: 438931
-cids: 11535,11536,11545,11547,31050
+cids: 11535,11536,11545,11547
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/702/original/diffraction_angle.png)

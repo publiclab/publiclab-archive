@@ -6,7 +6,7 @@ author: ajawitz
 path: /notes/ajawitz/06-10-2015/diy-document-scanning.md
 nid: 11966
 uid: 294634
-cids: 30835
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/288/original/LobsterScanner.jpg)

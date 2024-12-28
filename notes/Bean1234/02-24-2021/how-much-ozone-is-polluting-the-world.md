@@ -6,7 +6,7 @@ author: Bean1234
 path: /notes/Bean1234/02-24-2021/how-much-ozone-is-polluting-the-world.md
 nid: 25793
 uid: 739152
-cids: 28262,28273
+cids: 28262
 ---
 
 # How much ozone is polluting the world?

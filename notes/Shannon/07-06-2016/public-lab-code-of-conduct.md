@@ -6,7 +6,7 @@ author: Shannon
 path: /notes/Shannon/07-06-2016/public-lab-code-of-conduct.md
 nid: 13263
 uid: 9
-cids: 14976,14998,30244
+cids: 14976,14998
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/884/original/IMG_1941.jpg)

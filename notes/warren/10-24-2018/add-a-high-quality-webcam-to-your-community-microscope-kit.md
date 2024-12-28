@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/10-24-2018/add-a-high-quality-webcam-to-your-community-microscope-kit.md
 nid: 17386
 uid: 1
-cids: 21477,24904,24906,24907,24910,24916,24918,24920,24921,24922,24923,25776,25777,26784
+cids: 21477,24904,24906,24907,24916,24918,24920,24921,24922,25776,25777
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/219/original/IMG_20181024_134228.jpg)

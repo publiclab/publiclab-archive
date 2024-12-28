@@ -6,7 +6,7 @@ author: deeptalaxmibharadwaj
 path: /notes/deeptalaxmibharadwaj/10-25-2020/creating-a-biodegradable-water-resistant-paper.md
 nid: 24810
 uid: 615276
-cids: 27620,31218
+cids: 27620
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/220/original/title.png)

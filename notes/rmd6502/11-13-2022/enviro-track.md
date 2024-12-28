@@ -6,7 +6,7 @@ author: rmd6502
 path: /notes/rmd6502/11-13-2022/enviro-track.md
 nid: 37422
 uid: 819526
-cids: 30771,30872
+cids: 30771
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/328/original/progcode-logo-grayscale.png)

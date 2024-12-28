@@ -6,7 +6,7 @@ author: michelleiL
 path: /notes/michelleiL/05-23-2022/question-what-challenges-can-community-members-expect-during-an-environmental-impact-statement-eis-process-and-open-comment-period.md
 nid: 30874
 uid: 799004
-cids: 30214,30230,30274
+cids: 30214,30274
 ---
 
 # Question: What challenges can community members expect during an Environmental Impact Statement (EIS) Process and open comment period?

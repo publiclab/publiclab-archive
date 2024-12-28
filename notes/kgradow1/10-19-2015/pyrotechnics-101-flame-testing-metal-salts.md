@@ -6,7 +6,7 @@ author: kgradow1
 path: /notes/kgradow1/10-19-2015/pyrotechnics-101-flame-testing-metal-salts.md
 nid: 12319
 uid: 297929
-cids: 12767,12802,27986,27990,27991,27999,28002,28005,28006,28009,28021,28028,28036,28037,28038,28044
+cids: 12767,12802,27986,27990,27991,27999
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/047/original/PA190023.JPG)

@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/03-13-2019/providence-ri-software-development-fellowship.md
 nid: 18542
 uid: 1
-cids: 23394
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/062/original/Screen_Shot_2019-03-13_at_2.22.52_PM.png)

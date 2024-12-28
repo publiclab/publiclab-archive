@@ -6,7 +6,7 @@ author: Bronwen
 path: /notes/Bronwen/11-20-2019/responding-to-environmental-disasters-building-a-kit.md
 nid: 21526
 uid: 237313
-cids: 25976,26376,28300,28317
+cids: 25976
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/598/original/IMG_20191025_084652.jpg)

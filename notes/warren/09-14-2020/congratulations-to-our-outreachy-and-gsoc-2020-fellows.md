@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/09-14-2020/congratulations-to-our-outreachy-and-gsoc-2020-fellows.md
 nid: 24574
 uid: 1
-cids: 27348,27358,27360,27482,27497,27551,27668
+cids: 27348,27358,27360
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/882/original/Screen_Shot_2020-09-14_at_10.52.44_AM.png)

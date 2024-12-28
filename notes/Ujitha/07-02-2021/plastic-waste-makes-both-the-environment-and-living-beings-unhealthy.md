@@ -6,7 +6,7 @@ author: Ujitha
 path: /notes/Ujitha/07-02-2021/plastic-waste-makes-both-the-environment-and-living-beings-unhealthy.md
 nid: 26968
 uid: 467748
-cids: 28992,29004,29007
+cids: 28992,29004
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/316/original/Screen_Shot_2021-07-03_at_1.54.47_AM.png)

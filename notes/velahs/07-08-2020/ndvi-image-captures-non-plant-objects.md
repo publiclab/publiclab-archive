@@ -6,7 +6,7 @@ author: velahs
 path: /notes/velahs/07-08-2020/ndvi-image-captures-non-plant-objects.md
 nid: 24118
 uid: 706471
-cids: 27158,27159,27161,27201,27347,27753,28299
+cids: 27158,27159,27201,28299
 ---
 
 # NDVI Image Captures Non-Plant Objects

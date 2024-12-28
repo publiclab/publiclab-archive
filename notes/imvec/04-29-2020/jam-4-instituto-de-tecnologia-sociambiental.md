@@ -6,7 +6,7 @@ author: imvec
 path: /notes/imvec/04-29-2020/jam-4-instituto-de-tecnologia-sociambiental.md
 nid: 23513
 uid: 495038
-cids: 26736
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/240/original/itsa.jpg)

@@ -6,7 +6,7 @@ author: Megoptera
 path: /notes/Megoptera/12-02-2018/what-are-the-specifics-on-laser-power-what-do-you-use-for-the-infrared-blocker-what-power-microscope-lenses-do-you-use-at.md
 nid: 17786
 uid: 513718
-cids: 21508
+cids: 
 ---
 
 # What are the specifics on laser power?What do you use for the infrared blocker?What power microscope lenses do you use at [

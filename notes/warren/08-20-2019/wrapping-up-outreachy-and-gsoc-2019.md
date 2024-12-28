@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/08-20-2019/wrapping-up-outreachy-and-gsoc-2019.md
 nid: 20602
 uid: 1
-cids: 25290,25291,25292,25595
+cids: 25290,25291,25292
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/711/original/image.png)

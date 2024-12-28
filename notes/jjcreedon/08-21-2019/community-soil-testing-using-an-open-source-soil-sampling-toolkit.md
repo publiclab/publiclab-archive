@@ -6,7 +6,7 @@ author: jjcreedon
 path: /notes/jjcreedon/08-21-2019/community-soil-testing-using-an-open-source-soil-sampling-toolkit.md
 nid: 20618
 uid: 515357
-cids: 25303,25308,25309,25310,25565,31402
+cids: 25303,25308,25309,25310,25565
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/754/original/68448064_2539507722777800_5262192681223716864_n.jpg)

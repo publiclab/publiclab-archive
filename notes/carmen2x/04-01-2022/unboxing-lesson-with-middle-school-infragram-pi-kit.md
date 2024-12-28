@@ -6,7 +6,7 @@ author: carmen2x
 path: /notes/carmen2x/04-01-2022/unboxing-lesson-with-middle-school-infragram-pi-kit.md
 nid: 30245
 uid: 787988
-cids: 31192,31239,31308,31316,31329
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/597/original/IMG_D6A8C0A6E1DC-1.jpeg)

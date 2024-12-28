@@ -6,7 +6,7 @@ author: patcoyle
 path: /notes/patcoyle/5-27-2012/prototype-running-2-cameras-triggering-iphonechdk.md
 nid: 2220
 uid: 77
-cids: 781,782,783,804,828,22019
+cids: 781,782,783,804,828
 ---
 
 ![](https://publiclab.org/sites/default/files/7271146692_c58354c49e_c.jpg)

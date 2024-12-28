@@ -6,7 +6,7 @@ author: Shannon
 path: /notes/Shannon/01-15-2019/public-lab-job-posting-education-manager.md
 nid: 18124
 uid: 9
-cids: 30605
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/893/original/OI000129.jpg)

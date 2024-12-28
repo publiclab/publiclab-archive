@@ -6,7 +6,7 @@ author: anngneal
 path: /notes/anngneal/12-08-2017/7-ways-to-measure-monitor-and-evaluate-water-quality.md
 nid: 15332
 uid: 519151
-cids: 17923,18512,27566,27835,28566,28783,29212,30915,30916,30917,31206,31362,31413,31457
+cids: 17923,18512
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/853/original/water_quality.jpg)

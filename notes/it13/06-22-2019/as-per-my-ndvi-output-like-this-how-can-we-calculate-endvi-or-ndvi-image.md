@@ -6,7 +6,7 @@ author: it13
 path: /notes/it13/06-22-2019/as-per-my-ndvi-output-like-this-how-can-we-calculate-endvi-or-ndvi-image.md
 nid: 19808
 uid: 599584
-cids: 24858,24859,24860,24861,24987
+cids: 24858,24859
 ---
 
 # As per my ndvi output like this How can we calculate  endvi or ndvi image ?

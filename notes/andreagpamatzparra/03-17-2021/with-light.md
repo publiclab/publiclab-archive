@@ -6,7 +6,7 @@ author: andreagpamatzparra
 path: /notes/andreagpamatzparra/03-17-2021/with-light.md
 nid: 25951
 uid: 747967
-cids: 28580
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/969/original/IMG_0335.jpg)

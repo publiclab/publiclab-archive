@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/07-14-2015/testing-the-oil-testing-kit-identifying-a-somewhat-unknown-sample.md
 nid: 12063
 uid: 1
-cids: 13057,13059,13060,13062,27723
+cids: 13057,13059,13060,13062
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/684/original/IMG_20150713_171909_%281%29.jpg)

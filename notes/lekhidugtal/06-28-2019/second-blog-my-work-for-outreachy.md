@@ -6,7 +6,7 @@ author: lekhidugtal
 path: /notes/lekhidugtal/06-28-2019/second-blog-my-work-for-outreachy.md
 nid: 19912
 uid: 577754
-cids: 24934,24944,25161
+cids: 24934,24944
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/333/original/1_GlrMmARpYglGTSPKQrV9dw.png)

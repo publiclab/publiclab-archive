@@ -6,7 +6,7 @@ author: fionaodoboh
 path: /notes/fionaodoboh/10-28-2020/outreachy-proposal-new-dashboard-implementation-project.md
 nid: 24854
 uid: 726308
-cids: 27554,27559,27563,27596,27604
+cids: 27559,27563,27596,27604
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/341/original/New_dashboard_mockup.png)

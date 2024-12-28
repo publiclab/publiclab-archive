@@ -6,7 +6,7 @@ author: TC1994
 path: /notes/TC1994/01-23-2020/what-is-the-spectral-resolution-of-a-raspberry-pi-camera-spectrometer.md
 nid: 22373
 uid: 656847
-cids: 26199,26202,26207,26208,26217
+cids: 26199,26207,26208,26217
 ---
 
 # What is the spectral resolution of a Raspberry Pi camera spectrometer?

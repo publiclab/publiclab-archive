@@ -6,7 +6,7 @@ author: denissebn_06
 path: /notes/denissebn_06/07-08-2021/have-you-ever-made-a-green-wall-or-vertical-garden.md
 nid: 27041
 uid: 749988
-cids: 29014,29016,29020,29024
+cids: 29014,29020,29024
 ---
 
 # Have you ever made a Green Wall or Vertical garden?

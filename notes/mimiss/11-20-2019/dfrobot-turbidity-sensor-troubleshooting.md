@@ -6,7 +6,7 @@ author: mimiss
 path: /notes/mimiss/11-20-2019/dfrobot-turbidity-sensor-troubleshooting.md
 nid: 21539
 uid: 579821
-cids: 25895,25899,25905,25906,25923,25932,25952
+cids: 25895,25899,25905,25906,25923
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/642/original/Image_from_iOS.jpg)

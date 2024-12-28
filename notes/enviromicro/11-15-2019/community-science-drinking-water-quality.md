@@ -6,7 +6,7 @@ author: enviromicro
 path: /notes/enviromicro/11-15-2019/community-science-drinking-water-quality.md
 nid: 21497
 uid: 637801
-cids: 25942,26384
+cids: 26384
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/534/original/PeelPlate2.jpg)

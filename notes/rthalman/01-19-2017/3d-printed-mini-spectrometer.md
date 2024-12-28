@@ -6,7 +6,7 @@ author: rthalman
 path: /notes/rthalman/01-19-2017/3d-printed-mini-spectrometer.md
 nid: 13865
 uid: 495835
-cids: 16082,16083,16084,16085,16153,16156,16158,16162,16163,16167,16173,16174,16175,16180,27755,27759
+cids: 16082,16083,16084,16085,16153,16156,16158,16162,16163,16167,16173,16174,16175,16180
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/324/original/Spectrometer_Image.png)

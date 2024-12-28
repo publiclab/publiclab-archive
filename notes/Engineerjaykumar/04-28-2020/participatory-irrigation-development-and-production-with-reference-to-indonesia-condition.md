@@ -6,7 +6,7 @@ author: Engineerjaykumar
 path: /notes/Engineerjaykumar/04-28-2020/participatory-irrigation-development-and-production-with-reference-to-indonesia-condition.md
 nid: 23497
 uid: 643226
-cids: 26712,26731,26796,26861,27840,29575,30359,30360
+cids: 26712
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/208/original/Participator_iRrigation.jpg)

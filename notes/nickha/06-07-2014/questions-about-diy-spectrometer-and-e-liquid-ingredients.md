@@ -6,7 +6,7 @@ author: nickha
 path: /notes/nickha/06-07-2014/questions-about-diy-spectrometer-and-e-liquid-ingredients.md
 nid: 10537
 uid: 424405
-cids: 9222,9229,22575,28415
+cids: 9222,9229
 ---
 
 # Questions about DIY spectrometer and e-liquid ingredients

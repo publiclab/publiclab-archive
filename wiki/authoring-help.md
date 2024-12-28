@@ -6,7 +6,7 @@ author: warren
 path: /wiki/authoring-help.md
 nid: 6897
 uid: 1
-cids: 21782,21790,21791,21816
+cids: 21782,21790,21791
 ---
 
 # Authoring Help

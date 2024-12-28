@@ -6,7 +6,7 @@ author: JaylaE
 path: /notes/JaylaE/02-23-2021/what-type-of-chemicals-are-in-the-water-in-the-mississippi-river.md
 nid: 25783
 uid: 741012
-cids: 28242,28246,28260
+cids: 28242,28260
 ---
 
 # What type of chemicals are in the water in the Mississippi River?

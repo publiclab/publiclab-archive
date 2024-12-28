@@ -6,7 +6,7 @@ author: Filipaul
 path: /notes/Filipaul/02-26-2020/does-anyone-aware-of-heat-sensors-that-can-record-indoor-heat-intensity-at-5-10-minutes-intervals.md
 nid: 22942
 uid: 574408
-cids: 26387,26388,27197
+cids: 26387,26388
 ---
 
 # Does anyone aware of heat sensors that can record INDOOR heat intensity at 5-10 minutes intervals?

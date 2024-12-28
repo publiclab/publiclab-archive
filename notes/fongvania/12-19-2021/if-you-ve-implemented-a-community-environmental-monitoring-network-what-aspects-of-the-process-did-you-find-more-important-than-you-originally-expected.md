@@ -6,7 +6,7 @@ author: fongvania
 path: /notes/fongvania/12-19-2021/if-you-ve-implemented-a-community-environmental-monitoring-network-what-aspects-of-the-process-did-you-find-more-important-than-you-originally-expected.md
 nid: 28510
 uid: 754846
-cids: 29588
+cids: 
 ---
 
 # If you've implemented a community environmental monitoring network, what aspects of the process did you find more important than you originally expected?

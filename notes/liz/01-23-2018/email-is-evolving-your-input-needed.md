@@ -6,7 +6,7 @@ author: liz
 path: /notes/liz/01-23-2018/email-is-evolving-your-input-needed.md
 nid: 15592
 uid: 7
-cids: 25603
+cids: 
 ---
 
 # Email is evolving - your input needed!

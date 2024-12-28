@@ -6,7 +6,7 @@ author: noi5e
 path: /notes/noi5e/01-20-2021/know-your-audience-outreachy-public-lab-internship-blog-3.md
 nid: 25507
 uid: 726270
-cids: 27988,27992,27995,28010,28026
+cids: 27988,27992,27995
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/470/original/st_small_507x507-pad_600x600_f8f8f8.u26.jpg)

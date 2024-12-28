@@ -6,7 +6,7 @@ author: stoft
 path: /notes/stoft/03-02-2015/plab-3-spectrometer-upgrade-prototype.md
 nid: 11649
 uid: 54025
-cids: 11252,11254,11255,11256,11257,11259,14391,14394,15534,15535,15536,27302,27311,27325
+cids: 11252,11254,11255,11256,11257,11259,14391,14394,15534,15535,15536,27302,27311
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/106/original/P3U-2.jpg)

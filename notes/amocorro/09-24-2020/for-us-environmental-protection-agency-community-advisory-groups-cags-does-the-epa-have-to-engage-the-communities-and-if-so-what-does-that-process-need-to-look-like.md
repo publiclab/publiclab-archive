@@ -6,7 +6,7 @@ author: amocorro
 path: /notes/amocorro/09-24-2020/for-us-environmental-protection-agency-community-advisory-groups-cags-does-the-epa-have-to-engage-the-communities-and-if-so-what-does-that-process-need-to-look-like.md
 nid: 24646
 uid: 700923
-cids: 27458,27896,27897,28209
+cids: 27896,27897,28209
 ---
 
 # For US Environmental Protection Agency Community Advisory Groups (CAGs): Does the EPA have to engage the local communities in the Superfund vicinity? And if so, what does that process need to look like?

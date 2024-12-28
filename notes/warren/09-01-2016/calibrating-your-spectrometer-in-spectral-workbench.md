@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/09-01-2016/calibrating-your-spectrometer-in-spectral-workbench.md
 nid: 13410
 uid: 1
-cids: 15289,15951,15953,15954,15964,15966,15973,26894,27869,27950,28245,28253,31348
+cids: 15289,15951,15953,15954,15964,15966,15973,26894,27869,27950,28245,28253
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/886/original/calibration.png)

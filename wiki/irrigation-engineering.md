@@ -6,7 +6,7 @@ author: er_jkshah
 path: /wiki/irrigation-engineering.md
 nid: 21151
 uid: 576429
-cids: 25726
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/703/original/irrigation.jpg)

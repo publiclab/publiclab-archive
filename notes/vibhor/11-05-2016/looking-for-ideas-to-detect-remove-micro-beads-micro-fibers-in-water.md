@@ -6,7 +6,7 @@ author: vibhor
 path: /notes/vibhor/11-05-2016/looking-for-ideas-to-detect-remove-micro-beads-micro-fibers-in-water.md
 nid: 13681
 uid: 496426
-cids: 15778,15779,29175
+cids: 15778,15779
 ---
 
 # looking for ideas to detect/remove micro-beads/micro-fibers in water

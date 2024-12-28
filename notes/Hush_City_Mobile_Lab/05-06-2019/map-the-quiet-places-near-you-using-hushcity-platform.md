@@ -6,7 +6,7 @@ author: Hush_City_Mobile_Lab
 path: /notes/Hush_City_Mobile_Lab/05-06-2019/map-the-quiet-places-near-you-using-hushcity-platform.md
 nid: 19255
 uid: 580774
-cids: 24037,24139,24152,26061,26168,26797,28267,28777,29514,29582,29923,30534,30846,31129,31130
+cids: 24037,24139,24152
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/825/original/HUSH-CITY_icon_%28c%29_Antonella_Radicchi_2017_%281%29_kleiner.jpg)

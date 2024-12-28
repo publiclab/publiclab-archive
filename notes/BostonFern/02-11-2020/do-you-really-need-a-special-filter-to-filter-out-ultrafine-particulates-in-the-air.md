@@ -6,7 +6,7 @@ author: BostonFern
 path: /notes/BostonFern/02-11-2020/do-you-really-need-a-special-filter-to-filter-out-ultrafine-particulates-in-the-air.md
 nid: 22751
 uid: 643525
-cids: 26293,26296,26298
+cids: 26293,26296
 ---
 
 # Do you really need a special filter to filter out ultrafine particulates in the air?

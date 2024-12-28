@@ -6,7 +6,7 @@ author: michelleiL
 path: /notes/michelleiL/10-19-2022/sept-2022-bioblitz-summary.md
 nid: 35483
 uid: 799004
-cids: 30725,31042,31452
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/238/original/yt.PNG)

@@ -6,7 +6,7 @@ author: glenc
 path: /notes/glenc/10-12-2016/lightweight-air-quality-sensors-for-a-weather-balloon.md
 nid: 13556
 uid: 494302
-cids: 22331,22494,27758
+cids: 22331,22494
 ---
 
 # lightweight air quality sensors for a weather balloon

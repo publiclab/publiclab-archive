@@ -6,7 +6,7 @@ author: nanocastro
 path: /notes/nanocastro/04-17-2019/first-experiment-with-the-wheestat-quercetin.md
 nid: 19092
 uid: 506212
-cids: 23929,23951,23959,23965
+cids: 23929,23951,23959
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/595/original/20190312_120521.jpg)

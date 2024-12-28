@@ -6,7 +6,7 @@ author: PJDDusschee
 path: /notes/PJDDusschee/12-11-2022/one-acre-at-a-time-impact-from-rural-development-in-wittmann-arizona.md
 nid: 37962
 uid: 824245
-cids: 30817,31179
+cids: 30817
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/372/original/20220226_123501.jpg)

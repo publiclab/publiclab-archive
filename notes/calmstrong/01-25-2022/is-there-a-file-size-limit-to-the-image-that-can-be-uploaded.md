@@ -6,7 +6,7 @@ author: calmstrong
 path: /notes/calmstrong/01-25-2022/is-there-a-file-size-limit-to-the-image-that-can-be-uploaded.md
 nid: 28830
 uid: 786666
-cids: 30342
+cids: 
 ---
 
 # Is there a file size limit to the image that can be uploaded? 

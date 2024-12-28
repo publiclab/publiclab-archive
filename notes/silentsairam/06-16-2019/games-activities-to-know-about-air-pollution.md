@@ -6,7 +6,7 @@ author: silentsairam
 path: /notes/silentsairam/06-16-2019/games-activities-to-know-about-air-pollution.md
 nid: 19716
 uid: 553044
-cids: 24818,24820,24821,24822,24826,25374,27357,31025
+cids: 24818,24820,24821,24822,27357
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/954/original/IMG_20171217_114821.jpg)

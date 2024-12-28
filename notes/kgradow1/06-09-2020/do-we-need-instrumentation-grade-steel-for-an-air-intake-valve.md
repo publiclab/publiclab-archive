@@ -6,7 +6,7 @@ author: kgradow1
 path: /notes/kgradow1/06-09-2020/do-we-need-instrumentation-grade-steel-for-an-air-intake-valve.md
 nid: 23805
 uid: 297929
-cids: 26983,26985,26992,27002
+cids: 26983,26985,27002
 ---
 
 # Do we need instrumentation-grade steel for an air intake valve?

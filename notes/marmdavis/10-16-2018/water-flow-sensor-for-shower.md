@@ -6,7 +6,7 @@ author: marmdavis
 path: /notes/marmdavis/10-16-2018/water-flow-sensor-for-shower.md
 nid: 17299
 uid: 555019
-cids: 20907,20909,20918,25539
+cids: 20907,20909,20918
 ---
 
 # Water flow sensor for shower?

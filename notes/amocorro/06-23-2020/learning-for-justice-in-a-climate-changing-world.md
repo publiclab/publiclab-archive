@@ -6,7 +6,7 @@ author: amocorro
 path: /notes/amocorro/06-23-2020/learning-for-justice-in-a-climate-changing-world.md
 nid: 24028
 uid: 700923
-cids: 27062,27069,27485,29578,30332
+cids: 27062,27069
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/912/original/newsletter-images-for-og-tags-30_orig.png)

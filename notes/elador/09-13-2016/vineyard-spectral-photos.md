@@ -6,7 +6,7 @@ author: elador
 path: /notes/elador/09-13-2016/vineyard-spectral-photos.md
 nid: 13445
 uid: 444013
-cids: 15370,25938
+cids: 15370
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/035/original/IMG_0964.JPG)

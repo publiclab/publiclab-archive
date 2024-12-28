@@ -6,7 +6,7 @@ author: liz
 path: /notes/liz/03-09-2020/call-for-outreachy-2020-proposals.md
 nid: 23084
 uid: 7
-cids: 26429,26430,26431,26432,26433,26467,26474
+cids: 26429,26430,26431,26432,26433,26474
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/384/original/outreachy.png)

@@ -6,7 +6,7 @@ author: warren
 path: /wiki/oil-testing-kit.md
 nid: 10112
 uid: 1
-cids: 25633
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/271/original/IMG_20150521_145931_2.jpg)

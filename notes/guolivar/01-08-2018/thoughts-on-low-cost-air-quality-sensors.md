@@ -6,7 +6,7 @@ author: guolivar
 path: /notes/guolivar/01-08-2018/thoughts-on-low-cost-air-quality-sensors.md
 nid: 15483
 uid: 424197
-cids: 18147,18166,19869,21002,21377,21461,21833,21835,21836,23576,23639,23832
+cids: 18147,18166,19869,21002,21377,21461,21833,21836,23576,23639,23832
 ---
 
 # Thoughts on Low Cost air quality sensors

@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/06-24-2019/what-do-i-do-next-after-using-a-low-cost-or-diy-air-sensor.md
 nid: 19842
 uid: 1
-cids: 24880,24884,24932,24983,24991,25039,25040,29769
+cids: 24880,24884,24932,25039,29769
 ---
 
 # What do I do next, after using a low-cost or DIY air sensor?

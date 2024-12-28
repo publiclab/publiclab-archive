@@ -6,7 +6,7 @@ author: srgonsalves1
 path: /notes/srgonsalves1/12-05-2019/rhode-island-community-garden-network.md
 nid: 21675
 uid: 635245
-cids: 25960,25966,31382
+cids: 25960,25966
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/883/original/image_%282%29.png)

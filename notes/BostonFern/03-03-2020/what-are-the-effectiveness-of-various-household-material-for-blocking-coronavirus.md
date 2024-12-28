@@ -6,7 +6,7 @@ author: BostonFern
 path: /notes/BostonFern/03-03-2020/what-are-the-effectiveness-of-various-household-material-for-blocking-coronavirus.md
 nid: 22980
 uid: 643525
-cids: 26415,26425,26434
+cids: 26425,26434
 ---
 
 # What are the effectiveness of various household material for blocking coronavirus? 

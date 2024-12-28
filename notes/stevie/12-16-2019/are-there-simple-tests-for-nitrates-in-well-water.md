@@ -6,7 +6,7 @@ author: stevie
 path: /notes/stevie/12-16-2019/are-there-simple-tests-for-nitrates-in-well-water.md
 nid: 21769
 uid: 422561
-cids: 26014,26024,26075,26077,26078,26085,26131,26132,26260,26276
+cids: 26014,26024,26075,26077,26078,26131,26132,26260
 ---
 
 # Are there simple tests for nitrates in well water? 

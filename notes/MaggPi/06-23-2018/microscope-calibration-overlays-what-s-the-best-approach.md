@@ -6,7 +6,7 @@ author: MaggPi
 path: /notes/MaggPi/06-23-2018/microscope-calibration-overlays-what-s-the-best-approach.md
 nid: 16563
 uid: 501996
-cids: 19884,21162,25184,25185,25186
+cids: 19884,21162,25184,25185
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/306/original/Slide3.JPG)

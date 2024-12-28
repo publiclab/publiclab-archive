@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/10-19-2017/install-a-filter-or-change-the-lens-in-a-mobius-action-cam.md
 nid: 15070
 uid: 1
-cids: 30317
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/985/original/Infragram_Parts.jpg)

@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/11-16-2019/mashapaug-pond.md
 nid: 21500
 uid: 1
-cids: 25869
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/551/original/image.png)

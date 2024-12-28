@@ -6,7 +6,7 @@ author: junior_walk1337
 path: /notes/junior_walk1337/12-15-2021/middle-ridge-surface-mine-sycamore-wv.md
 nid: 28498
 uid: 756318
-cids: 29529
+cids: 
 ---
 
 # Middle Ridge surface mine, Sycamore WV

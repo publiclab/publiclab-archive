@@ -6,7 +6,7 @@ author: bhamster
 path: /notes/bhamster/03-15-2021/seeking-an-air-research-curation-fellow.md
 nid: 25923
 uid: 664477
-cids: 31367,31432
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/953/original/Public_Lab_Letterhead_blank.png)

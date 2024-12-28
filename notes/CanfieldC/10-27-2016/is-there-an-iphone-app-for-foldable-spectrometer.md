@@ -6,7 +6,7 @@ author: CanfieldC
 path: /notes/CanfieldC/10-27-2016/is-there-an-iphone-app-for-foldable-spectrometer.md
 nid: 13660
 uid: 495838
-cids: 15750,22340,22342,22349,30837,30838
+cids: 15750,22340,22342,22349
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/638/original/IMG_3215.JPG)

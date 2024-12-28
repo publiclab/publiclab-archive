@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/10-20-2017/getting-started-with-infrared-photography-on-infragram-org.md
 nid: 15075
 uid: 1
-cids: 30234
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/989/original/Screen_Shot_2017-10-20_at_11.22.58_AM.png)

@@ -6,7 +6,7 @@ author: stevie
 path: /notes/stevie/04-06-2022/seeking-an-environmental-policy-fellow.md
 nid: 30238
 uid: 422561
-cids: 29929,30255,30344
+cids: 29929,30255
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/630/original/fracout_2.1.1.jpg)

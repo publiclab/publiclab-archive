@@ -6,7 +6,7 @@ author: k_c_s
 path: /notes/k_c_s/09-20-2019/lusher-rain-garden-and-runoff.md
 nid: 20942
 uid: 619909
-cids: 25554,25556,25827,26290
+cids: 25554
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/363/original/rain-garden-3.jpg)

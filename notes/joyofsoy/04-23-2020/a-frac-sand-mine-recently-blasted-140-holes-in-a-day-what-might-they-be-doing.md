@@ -6,7 +6,7 @@ author: joyofsoy
 path: /notes/joyofsoy/04-23-2020/a-frac-sand-mine-recently-blasted-140-holes-in-a-day-what-might-they-be-doing.md
 nid: 23462
 uid: 540844
-cids: 26704,26707,26708,26709,26737,26738,26739,26740,26741,26742,26745,26769,26782,27794
+cids: 26704,26707,26708,26709,26737,26738,26739,26740,26741,26742
 ---
 
 # A frac sand mine recently blasted 140 holes in a day. What might they be doing?

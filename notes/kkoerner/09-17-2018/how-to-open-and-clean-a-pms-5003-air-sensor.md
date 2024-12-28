@@ -6,7 +6,7 @@ author: kkoerner
 path: /notes/kkoerner/09-17-2018/how-to-open-and-clean-a-pms-5003-air-sensor.md
 nid: 17133
 uid: 442666
-cids: 20701,20702,20711,23766,23947,25361,25371,25372,26393,27176,27177,27450,29159,29591,31389
+cids: 20701,20702,20711,23766,23947,25361,25371,25372,26393,27176,27177,27450,29159,29591
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/588/original/IMG_20180917_134236.jpg)

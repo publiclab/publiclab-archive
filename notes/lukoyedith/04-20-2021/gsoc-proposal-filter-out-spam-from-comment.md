@@ -6,7 +6,7 @@ author: lukoyedith
 path: /notes/lukoyedith/04-20-2021/gsoc-proposal-filter-out-spam-from-comment.md
 nid: 26283
 uid: 751723
-cids: 28591,28595,28601,28602,28603,28606,28659,28668
+cids: 28591,28595,28601,28602,28603,28659,28668
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/338/original/Boots-ground-02.png)

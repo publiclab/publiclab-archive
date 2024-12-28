@@ -6,7 +6,7 @@ author: bhamster
 path: /notes/bhamster/04-27-2021/research-area-review-on-mapping-for-organizing-and-advocacy.md
 nid: 26376
 uid: 664477
-cids: 28644,29266
+cids: 28644
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/515/original/salvador-segui-map.jpg)

@@ -6,7 +6,7 @@ author: dianapicazo2104
 path: /notes/dianapicazo2104/03-10-2021/how-to-upload-pictures-from-own-cell-phone.md
 nid: 25886
 uid: 745961
-cids: 28323,28330,28334
+cids: 28330
 ---
 
 # how to upload pictures from own cell phone 

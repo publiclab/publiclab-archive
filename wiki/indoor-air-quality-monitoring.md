@@ -6,7 +6,7 @@ author: nshapiro
 path: /wiki/indoor-air-quality-monitoring.md
 nid: 11692
 uid: 380298
-cids: 21928
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/500/original/DSC_0249.JPG)

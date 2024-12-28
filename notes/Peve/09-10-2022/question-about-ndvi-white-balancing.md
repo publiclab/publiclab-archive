@@ -6,7 +6,7 @@ author: Peve
 path: /notes/Peve/09-10-2022/question-about-ndvi-white-balancing.md
 nid: 34956
 uid: 813187
-cids: 30630,30633,30832,31345
+cids: 
 ---
 
 # Question about NDVI white balancing

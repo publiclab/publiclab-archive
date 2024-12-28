@@ -6,7 +6,7 @@ author: jjcreedon
 path: /notes/jjcreedon/05-17-2018/designing-a-soil-sampling-tool-kit-for-community-science-environmental-justice-applications.md
 nid: 16356
 uid: 515357
-cids: 19656,19657,19660,21489,21490,21514,26911
+cids: 19656,19657,19660,21489,21490,21514
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/985/original/IMG_2596.JPG)

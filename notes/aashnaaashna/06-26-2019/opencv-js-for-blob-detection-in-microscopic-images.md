@@ -6,7 +6,7 @@ author: aashnaaashna
 path: /notes/aashnaaashna/06-26-2019/opencv-js-for-blob-detection-in-microscopic-images.md
 nid: 19880
 uid: 553271
-cids: 24905,25009
+cids: 24905
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/263/original/collage%281%29.jpg)

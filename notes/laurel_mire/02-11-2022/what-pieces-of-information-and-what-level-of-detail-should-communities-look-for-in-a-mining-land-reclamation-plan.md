@@ -6,7 +6,7 @@ author: laurel_mire
 path: /notes/laurel_mire/02-11-2022/what-pieces-of-information-and-what-level-of-detail-should-communities-look-for-in-a-mining-land-reclamation-plan.md
 nid: 30022
 uid: 759178
-cids: 29664,29665
+cids: 
 ---
 
 # What pieces of information and what level of detail should communities look for in a mining land reclamation plan?

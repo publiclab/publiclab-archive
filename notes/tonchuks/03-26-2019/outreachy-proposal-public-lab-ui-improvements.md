@@ -6,7 +6,7 @@ author: tonchuks
 path: /notes/tonchuks/03-26-2019/outreachy-proposal-public-lab-ui-improvements.md
 nid: 18851
 uid: 577536
-cids: 23444,23446,23471,23473,23478,23482,23506,23517,23554,23603,23647,24063,24072
+cids: 23444,23446,23471,23473,23482,23506,23517,23554,23603,23647,24063,24072
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/726/original/Outreachy_Image_bg.png)

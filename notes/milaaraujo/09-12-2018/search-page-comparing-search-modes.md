@@ -6,7 +6,7 @@ author: milaaraujo
 path: /notes/milaaraujo/09-12-2018/search-page-comparing-search-modes.md
 nid: 17098
 uid: 525897
-cids: 20680,20682,20687,20689,20690,20691,20692,20693,20696,20763,23226,23227
+cids: 20680,20682,20687,20689,20690,20691,20692,20693,20763,23226,23227
 ---
 
 # Search page: Comparing search modes

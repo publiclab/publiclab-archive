@@ -6,7 +6,7 @@ author: siyuan
 path: /notes/siyuan/06-12-2017/a-questions-page-to-encourage-discussions-through-better-ux.md
 nid: 14523
 uid: 508697
-cids: 16861,16863,16891,16962,17027,17460,17461,18440,21430,21431,21433,21742,21743,21951
+cids: 16861,16863,16891,16962,17027,17460,17461,18440,21430,21431,21742,21743,21951
 ---
 
 # A Questions page to encourage discussions through better UX

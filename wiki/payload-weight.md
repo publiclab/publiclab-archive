@@ -6,7 +6,7 @@ author: warren
 path: /wiki/payload-weight.md
 nid: 1734
 uid: 1
-cids: 21978
+cids: 
 ---
 
 # Payload Weight

@@ -6,7 +6,7 @@ author: read_holman
 path: /notes/read_holman/04-16-2019/evaluating-low-cost-lead-screening-products.md
 nid: 19078
 uid: 540243
-cids: 23953,23972,24017,26725,30199,30257,31365
+cids: 23953,23972,24017
 ---
 
 # Evaluating Low-cost Lead Screening Products

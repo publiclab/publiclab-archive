@@ -6,7 +6,7 @@ author: liz
 path: /wiki/emery-board.md
 nid: 18271
 uid: 7
-cids: 21902
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/212/original/emeryboard_headerimg.png)

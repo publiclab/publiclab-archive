@@ -6,7 +6,7 @@ author: mimiss
 path: /notes/mimiss/04-20-2021/student-views-explaining-science-with-babylegs-a-photo-essay.md
 nid: 26284
 uid: 579821
-cids: 28665,29599,29600,30794,31205,31311,31324
+cids: 28665
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/354/original/image3.jpg)

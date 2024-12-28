@@ -6,7 +6,7 @@ author: alejobonifacio
 path: /notes/alejobonifacio/08-04-2021/como-detectar-abrillantadores-opticos-aguas-residuales-yendo-a-un-rio-how-to-detect-optical-brighteners-wastewater-going-to-a-river.md
 nid: 27395
 uid: 639376
-cids: 29097,29114,29133,29137,29138,29139,29144,30707
+cids: 29097,29114,29133,29137,29138,29139,29144
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/521/original/Foto_Step_by_step.jpeg)

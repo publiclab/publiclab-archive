@@ -6,7 +6,7 @@ author: stevie
 path: /notes/stevie/01-17-2020/how-to-collect-a-water-sample.md
 nid: 22335
 uid: 422561
-cids: 26174,26186,26200,26201,26203,26205,26210
+cids: 26200,26201,26210
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/682/original/water_sampling.jpg)

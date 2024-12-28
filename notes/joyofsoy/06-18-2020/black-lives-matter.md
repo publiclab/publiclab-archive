@@ -6,7 +6,7 @@ author: joyofsoy
 path: /notes/joyofsoy/06-18-2020/black-lives-matter.md
 nid: 23879
 uid: 540844
-cids: 27067,27068
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/826/original/1.jpg)

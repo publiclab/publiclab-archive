@@ -6,7 +6,7 @@ author: Ag8n
 path: /notes/Ag8n/02-07-2023/vinyl-chloride-spill-in-eastern-ohio.md
 nid: 38685
 uid: 520994
-cids: 30853,30858,30862,30863,30864,30890,30904,30905,30906,30907,30914,31101,31109,31144,31148,31149,31302,31320,31342,31430
+cids: 30853,30858,31320
 ---
 
 # Vinyl chloride spill in eastern ohio

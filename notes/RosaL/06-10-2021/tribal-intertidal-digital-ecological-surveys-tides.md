@@ -6,7 +6,7 @@ author: RosaL
 path: /notes/RosaL/06-10-2021/tribal-intertidal-digital-ecological-surveys-tides.md
 nid: 26805
 uid: 751774
-cids: 28915,28916,28921,28925,29017,29306,31533
+cids: 28915,28916,28921,28925,29017
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/117/original/IMG_E7816.JPG)

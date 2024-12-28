@@ -6,7 +6,7 @@ author: icyhg03
 path: /notes/icyhg03/09-19-2019/oil-pollution-in-audubon-park-lagoon.md
 nid: 20927
 uid: 618893
-cids: 25547,25563
+cids: 25547
 ---
 
 # Oil Pollution in Audubon Park Lagoon

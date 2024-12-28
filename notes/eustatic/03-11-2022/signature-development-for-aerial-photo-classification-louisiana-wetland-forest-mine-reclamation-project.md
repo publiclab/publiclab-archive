@@ -6,7 +6,7 @@ author: eustatic
 path: /03-11-2022/signature-development-for-aerial-photo-classification-louisiana-wetland-forest-mine-reclamation-project.md
 nid: 30119
 uid: 379
-cids: 29780,29781,29782,29835,29941,29942,29943,29944,29945,29946,29947,29948,29949,29950,31211
+cids: 29780,29781,29782,29835,29941,29942,29943,29944,29945,29946,29947,29948,29949,29950
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/485/original/floodplain_forest_signature_development_worksheet_2018.png)

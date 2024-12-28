@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/10-26-2018/how-can-we-connect-a-pms5003-dust-sensor-to-an-arduino.md
 nid: 17406
 uid: 1
-cids: 21006,21013,21024,21025,21026,21123,21384,21397,23263,23264,23265
+cids: 21006,21013,21024,21025,21123,21384,21397,23263,23264,23265
 ---
 
 # How can we connect a PMS5003 dust sensor to an Arduino?

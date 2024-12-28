@@ -6,7 +6,7 @@ author: lubcarreon
 path: /notes/lubcarreon/07-08-2019/how-can-i-start-a-project-on-environmental-air-quality-around-crop-dusting-areas.md
 nid: 20035
 uid: 603262
-cids: 25006,25022,25024,25027,25028,25029,25076
+cids: 25006,25022,25024,25027,25028,25029
 ---
 
 # How can I start a project on environmental air quality around crop dusting areas

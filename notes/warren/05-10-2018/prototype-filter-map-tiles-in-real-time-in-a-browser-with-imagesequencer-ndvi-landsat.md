@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/05-10-2018/prototype-filter-map-tiles-in-real-time-in-a-browser-with-imagesequencer-ndvi-landsat.md
 nid: 16323
 uid: 1
-cids: 19602,19603,19604,19619,19620,19621,19663,29491,31241
+cids: 19602,19603,19604,19619,19620,19621,19663
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/876/original/Screen_Shot_2018-05-04_at_1.17.09_PM.png)

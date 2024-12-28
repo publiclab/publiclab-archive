@@ -6,7 +6,7 @@ author: joyofsoy
 path: /notes/joyofsoy/11-06-2018/recharging-new-orleans-rain-barrels-and-environmental-justice.md
 nid: 17478
 uid: 540844
-cids: 21754
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/501/original/A_family_works_together_on_creating_rain_barrels_at_a_commnity_event._Photo_courtesy_of_Hilairie_Schackai.jpg_%281%29.jpg)

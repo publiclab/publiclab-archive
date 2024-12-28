@@ -6,7 +6,7 @@ author: partsandcrafts
 path: /notes/partsandcrafts/10-26-2017/making-a-hackteria-microscope.md
 nid: 15094
 uid: 66014
-cids: 17582,17594,17595,17597,27115,27116,27117,27126
+cids: 17582,17594,17595,17597,27115,27116,27117
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/066/original/IMG_20171025_201244.jpg)

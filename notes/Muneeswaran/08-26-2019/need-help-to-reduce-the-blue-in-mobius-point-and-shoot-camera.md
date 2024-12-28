@@ -6,7 +6,7 @@ author: Muneeswaran
 path: /notes/Muneeswaran/08-26-2019/need-help-to-reduce-the-blue-in-mobius-point-and-shoot-camera.md
 nid: 20672
 uid: 555831
-cids: 25344,25350,25354,25355,25357,25428
+cids: 25350,25354,25355,25357,25428
 ---
 
 # Need help to reduce the Blue in mobius point and shoot camera

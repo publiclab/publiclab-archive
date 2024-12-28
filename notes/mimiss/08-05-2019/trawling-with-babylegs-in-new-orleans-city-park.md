@@ -6,7 +6,7 @@ author: mimiss
 path: /notes/mimiss/08-05-2019/trawling-with-babylegs-in-new-orleans-city-park.md
 nid: 20418
 uid: 579821
-cids: 25202,25206,25277,25286,27327,27330,27331
+cids: 25202,25277,25286,27327,27330,27331
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/319/original/Screen_Shot_2019-08-05_at_2.41.03_PM.png)

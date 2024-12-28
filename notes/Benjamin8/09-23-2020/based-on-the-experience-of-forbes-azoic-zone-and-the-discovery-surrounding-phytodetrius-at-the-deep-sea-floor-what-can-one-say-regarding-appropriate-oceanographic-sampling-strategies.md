@@ -6,7 +6,7 @@ author: Benjamin8
 path: /notes/Benjamin8/09-23-2020/based-on-the-experience-of-forbes-azoic-zone-and-the-discovery-surrounding-phytodetrius-at-the-deep-sea-floor-what-can-one-say-regarding-appropriate-oceanographic-sampling-strategies.md
 nid: 24636
 uid: 722724
-cids: 27459
+cids: 
 ---
 
 # Based on the experience of Forbes “azoic zone” and the discovery surrounding “phytodetrius” at the deep sea floor, what can one say regarding appropriate oceanographic sampling strategies 

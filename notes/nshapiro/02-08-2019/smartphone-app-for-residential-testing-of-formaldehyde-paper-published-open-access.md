@@ -6,7 +6,7 @@ author: nshapiro
 path: /notes/nshapiro/02-08-2019/smartphone-app-for-residential-testing-of-formaldehyde-paper-published-open-access.md
 nid: 18317
 uid: 380298
-cids: 21863,21865,21878,21879,21896,27970
+cids: 21865,21878,21879,21896
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/254/original/smartform.jpg)

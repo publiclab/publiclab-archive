@@ -6,7 +6,7 @@ author: eustatic
 path: /11-03-2020/commercial-mesh-box-for-filtering-plastic-nurdles-from-a-river-beach.md
 nid: 24912
 uid: 379
-cids: 27607,27608,27610,27611,27614,27615,27616,27626,27655,27656,27657,27662
+cids: 27607,27608,27610,27611,27614,27615,27616,27655,27656,27657,27662
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/471/original/boaxel-mesh-basket-white__0798121_PE767129_S5.webp)

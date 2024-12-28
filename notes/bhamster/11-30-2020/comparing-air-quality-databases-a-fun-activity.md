@@ -6,7 +6,7 @@ author: bhamster
 path: /notes/bhamster/11-30-2020/comparing-air-quality-databases-a-fun-activity.md
 nid: 25142
 uid: 664477
-cids: 27787,27789,27790,27793
+cids: 27787,27789,27790
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/859/original/Envirofacts.png)

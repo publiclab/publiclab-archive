@@ -6,7 +6,7 @@ author: stevie
 path: /notes/stevie/01-20-2021/sentinel-training-online.md
 nid: 25505
 uid: 422561
-cids: 27984,28023,28068,28074,28280,29367
+cids: 27984,28068,28280
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/468/original/FracSandMining-2013-Auch25.JPG)

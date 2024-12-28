@@ -6,7 +6,7 @@ author: tinangata
 path: /notes/tinangata/09-13-2018/how-do-i-measure-for-marine-noise-pollution.md
 nid: 17104
 uid: 550554
-cids: 23234,29926
+cids: 23234
 ---
 
 # How do I measure for marine noise pollution?

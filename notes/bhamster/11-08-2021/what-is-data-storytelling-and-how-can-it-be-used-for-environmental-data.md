@@ -6,7 +6,7 @@ author: bhamster
 path: /notes/bhamster/11-08-2021/what-is-data-storytelling-and-how-can-it-be-used-for-environmental-data.md
 nid: 28115
 uid: 664477
-cids: 29418,29433,29434,29485,29517,30195
+cids: 29418,29433,29434,29485,29517
 ---
 
 # What is “data storytelling” and how can it be used for environmental data?

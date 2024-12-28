@@ -6,7 +6,7 @@ author: ektopyrotic
 path: /notes/ektopyrotic/06-04-2020/ndvi-drone-mapping-research.md
 nid: 23777
 uid: 699450
-cids: 27074,27679,27680,27705,27725,28220,28297,28804,29170,29253,31135
+cids: 27074,27679,27680,27705,28297,29253,31135
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/643/original/InfraNDVIPano.png)

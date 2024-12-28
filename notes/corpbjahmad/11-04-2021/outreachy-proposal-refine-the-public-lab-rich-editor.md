@@ -6,7 +6,7 @@ author: corpbjahmad
 path: /notes/corpbjahmad/11-04-2021/outreachy-proposal-refine-the-public-lab-rich-editor.md
 nid: 28077
 uid: 777430
-cids: 29397,31398
+cids: 29397
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/029/original/Screenshot_2021-11-04_at_07.36.13.png)

@@ -6,7 +6,7 @@ author: warren
 path: /wiki/chat.md
 nid: 405
 uid: 1
-cids: 25671
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/964/original/Screen_Shot_2019-08-27_at_9.34.10_AM.png)

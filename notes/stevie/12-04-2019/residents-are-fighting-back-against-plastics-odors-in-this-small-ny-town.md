@@ -6,7 +6,7 @@ author: stevie
 path: /notes/stevie/12-04-2019/residents-are-fighting-back-against-plastics-odors-in-this-small-ny-town.md
 nid: 21416
 uid: 422561
-cids: 25859,25957,25967,25993,26050,26051,26052,26065,26070,26073,26338
+cids: 25859,25957,25967,25993,26050,26051,26052,26338
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/857/original/IMG_4318.JPG)

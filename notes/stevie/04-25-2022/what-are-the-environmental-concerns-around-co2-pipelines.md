@@ -6,7 +6,7 @@ author: stevie
 path: /notes/stevie/04-25-2022/what-are-the-environmental-concerns-around-co2-pipelines.md
 nid: 30590
 uid: 422561
-cids: 30159,30161,30172,30186,30187,30202,30778,31248
+cids: 30159,30161
 ---
 
 # What are the environmental concerns around CO2 pipelines? 

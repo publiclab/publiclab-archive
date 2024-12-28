@@ -6,7 +6,7 @@ author: ZhanLiangUF
 path: /notes/ZhanLiangUF/03-19-2016/internationalize-publiclab-org-gsoc-2016.md
 nid: 12863
 uid: 468876
-cids: 14016,14024,14058,20434
+cids: 14016,14024,14058
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/147/original/undefined)

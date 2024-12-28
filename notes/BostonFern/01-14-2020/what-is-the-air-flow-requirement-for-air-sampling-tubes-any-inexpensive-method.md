@@ -6,7 +6,7 @@ author: BostonFern
 path: /notes/BostonFern/01-14-2020/what-is-the-air-flow-requirement-for-air-sampling-tubes-any-inexpensive-method.md
 nid: 22310
 uid: 643525
-cids: 26152,26158,26171,26243,26378
+cids: 26158,26171
 ---
 
 # What is the air flow requirement for air sampling tubes?  Any inexpensive method?

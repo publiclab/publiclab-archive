@@ -6,7 +6,7 @@ author: Bronwen
 path: /notes/Bronwen/11-05-2019/public-lab-science-for-the-people-in-nyc-on-11-06.md
 nid: 21401
 uid: 237313
-cids: 25813
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/256/original/sftpp.jpg)

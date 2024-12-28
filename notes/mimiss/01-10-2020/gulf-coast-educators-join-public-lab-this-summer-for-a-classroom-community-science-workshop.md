@@ -6,7 +6,7 @@ author: mimiss
 path: /notes/mimiss/01-10-2020/gulf-coast-educators-join-public-lab-this-summer-for-a-classroom-community-science-workshop.md
 nid: 22270
 uid: 579821
-cids: 26397,27102
+cids: 27102
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/563/original/IMG_1352v2.jpg)

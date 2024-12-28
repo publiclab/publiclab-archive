@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/09-27-2019/blurred-location-and-variable-location-privacy.md
 nid: 21033
 uid: 1
-cids: 25609,25628,25785,25841,26234
+cids: 25609,25628
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/503/original/Screenshot_2019-01-07_at_8.35.48_PM.png)

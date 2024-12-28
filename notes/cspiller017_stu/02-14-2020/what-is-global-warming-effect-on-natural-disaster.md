@@ -6,7 +6,7 @@ author: cspiller017_stu
 path: /notes/cspiller017_stu/02-14-2020/what-is-global-warming-effect-on-natural-disaster.md
 nid: 22810
 uid: 664714
-cids: 26317,26326,26386,26394,26398,26409
+cids: 26317,26386,26394,26409
 ---
 
 # What is global warming effect on natural disaster? 

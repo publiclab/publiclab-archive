@@ -6,7 +6,7 @@ author: cess
 path: /notes/cess/10-02-2020/call-for-proposals-outreachy-winter-2020.md
 nid: 24687
 uid: 525958
-cids: 27438,27521
+cids: 27521
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/035/original/mm.png)

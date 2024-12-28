@@ -6,7 +6,7 @@ author: stevie
 path: /notes/stevie/02-13-2020/upcoming-openhour-on-particulate-matter-monitoring.md
 nid: 22804
 uid: 422561
-cids: 26305,26306,26308,26312,26313,26314,26323,26406,26407,26408,26410,26414
+cids: 26305,26306,26308,26312,26313,26314,26323,26406,26407,26408,26410
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/143/original/SmokeSchool-crop.jpg)

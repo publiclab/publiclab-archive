@@ -6,7 +6,7 @@ author: joyofsoy
 path: /notes/joyofsoy/10-25-2018/project-advances-environmental-literacy-on-the-coasts.md
 nid: 17391
 uid: 540844
-cids: 25190,27966
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/228/original/Taking_water_samples_on_Turkey_Creek_%281%29.jpg)

@@ -6,7 +6,7 @@ author: natalie
 path: /notes/Natalie/07-29-2014/spec-cam-to-infragram-w-the-flip-of-filter-rosco-fire-19.md
 nid: 10996
 uid: 424454
-cids: 9709,9710,9711,9729,9731,9737,9745,9746,9747,9748,10055,10057,10059,10060,22570,22914,29692
+cids: 9709,9710,9711,9729,9731,9737,9745,9746,9747,9748,10055,10057,10059,10060,22914
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/663/original/111.jpg)

@@ -6,7 +6,7 @@ author: borsaci06
 path: /notes/borsaci06/02-01-2014/linear-ccd.md
 nid: 10001
 uid: 420223
-cids: 8136,8137,8139,8149,9690,31387
+cids: 8136,8137,8139,8149,9690
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/720/original/ccd2.jpg)

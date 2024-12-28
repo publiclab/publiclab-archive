@@ -6,7 +6,7 @@ author: Shannon
 path: /notes/Shannon/04-14-2020/a-note-on-my-departure.md
 nid: 23379
 uid: 9
-cids: 26673,26679
+cids: 26673
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/047/original/IMG_0211.JPG)

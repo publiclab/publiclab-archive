@@ -6,7 +6,7 @@ author: alaxallves
 path: /notes/alaxallves/05-15-2020/week-2-gsoc-2020-mapknitter-export-module-and-spectral-workbench-upgrades.md
 nid: 23637
 uid: 577447
-cids: 26825,26955,27000,27198
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/400/original/sprint-planning-meeting-como-fazer-e-conseguir-o-melhor-do-seu-projeto.jpeg)

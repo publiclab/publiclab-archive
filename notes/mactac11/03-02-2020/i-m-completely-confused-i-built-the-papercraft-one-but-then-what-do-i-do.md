@@ -6,7 +6,7 @@ author: mactac11
 path: /notes/mactac11/03-02-2020/i-m-completely-confused-i-built-the-papercraft-one-but-then-what-do-i-do.md
 nid: 22979
 uid: 670601
-cids: 26412,26622,26688
+cids: 26412
 ---
 
 # I'm completely confused.  I built the papercraft one, but then what do I do?

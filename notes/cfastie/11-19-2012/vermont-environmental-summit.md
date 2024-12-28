@@ -6,7 +6,7 @@ author: cfastie
 path: /notes/cfastie/11-19-2012/vermont-environmental-summit.md
 nid: 4950
 uid: 554
-cids: 27574
+cids: 
 ---
 
 ![](https://publiclab.org/sites/default/files/Burns_RGB_NDVI_Color.jpg)

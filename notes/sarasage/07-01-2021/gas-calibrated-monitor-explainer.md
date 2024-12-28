@@ -6,7 +6,7 @@ author: sarasage
 path: /notes/sarasage/07-01-2021/gas-calibrated-monitor-explainer.md
 nid: 26963
 uid: 451398
-cids: 29113,31336
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/298/original/Calibration_In_Action.jpg)

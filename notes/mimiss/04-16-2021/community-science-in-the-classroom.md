@@ -6,7 +6,7 @@ author: mimiss
 path: /notes/mimiss/04-16-2021/community-science-in-the-classroom.md
 nid: 26254
 uid: 579821
-cids: 28574,28575,28664,29577
+cids: 28574,28664
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/320/original/Image_from_iOS_%283%29.jpg)

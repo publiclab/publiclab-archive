@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/12-02-2018/crystalline-silica-from-tile-grout-at-as220-microscope-workshop.md
 nid: 17785
 uid: 1
-cids: 21416,21417,21418,21419,21421,21422,21423,21435,21436,24963,25990
+cids: 21416,21417,21418,21419,21421,21422,21423,21436,24963,25990
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/980/original/2018-12-02T16_49_17.827Z.jpg)

@@ -6,7 +6,7 @@ author: fongvania
 path: /notes/fongvania/06-21-2021/i-ve-heard-that-hot-tap-water-is-not-safe-to-drink-is-there-merit-to-this-claim-or-is-it-just-an-urban-myth.md
 nid: 26859
 uid: 754846
-cids: 28956,28996,28998,29064,29071
+cids: 28956,29064,29071
 ---
 
 # I've heard that hot tap water is not safe to drink--is there merit to this claim or is it just an urban myth?

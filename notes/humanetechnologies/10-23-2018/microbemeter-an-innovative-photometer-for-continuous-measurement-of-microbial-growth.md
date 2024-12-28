@@ -6,7 +6,7 @@ author: humanetechnologies
 path: /notes/humanetechnologies/10-23-2018/microbemeter-an-innovative-photometer-for-continuous-measurement-of-microbial-growth.md
 nid: 17363
 uid: 555121
-cids: 20988,21033,21053,21631,29308
+cids: 20988,21033,21053,21631
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/115/original/MicrobeMeterBanner_300.jpg)

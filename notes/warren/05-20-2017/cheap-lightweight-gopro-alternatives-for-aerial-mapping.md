@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/05-20-2017/cheap-lightweight-gopro-alternatives-for-aerial-mapping.md
 nid: 14219
 uid: 1
-cids: 16788,16937,17111,17112,18824,18838,20926,22482,22489,22503,22506,22675,22870,22974,27437
+cids: 16788,16937,17111,17112,18824,18838,20926,22482,22489,22503,22506,22675,22870,22974
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/501/original/akaso.jpg)

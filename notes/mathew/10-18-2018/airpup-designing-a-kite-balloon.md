@@ -6,7 +6,7 @@ author: mathew
 path: /notes/mathew/10-18-2018/airpup-designing-a-kite-balloon.md
 nid: 17322
 uid: 4
-cids: 20927,21174,21176,21177,21178,21180,21181,21182,21203,21217,21719
+cids: 20927,21174,21176,21177,21178,21182,21203,21217,21719
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/030/original/P2400006_1.jpg)

@@ -6,7 +6,7 @@ author: carmen2x
 path: /notes/carmen2x/04-20-2022/exploratory-lesson-activity-for-image-sequencer.md
 nid: 30539
 uid: 787988
-cids: 30225,30319,31160,31328
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/690/original/Screen_Shot_2022-05-18_at_10.38.25_AM.png)

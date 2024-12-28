@@ -6,7 +6,7 @@ author: warren
 path: /wiki/the-barnraiser.md
 nid: 12372
 uid: 1
-cids: 21977
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/830/original/tmp_14213-IMG_20151120_092643_2-1798270724.jpg)

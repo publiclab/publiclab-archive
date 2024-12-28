@@ -6,7 +6,7 @@ author: DanielleS
 path: /notes/DanielleS/03-24-2019/soil-testing-at-the-houston-barnraising.md
 nid: 18837
 uid: 569208
-cids: 25299,26536,28304,28305
+cids: 25299,26536
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/618/original/group_pic_barnraising.jpg)

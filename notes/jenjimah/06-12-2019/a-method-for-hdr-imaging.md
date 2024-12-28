@@ -6,7 +6,7 @@ author: jenjimah
 path: /notes/jenjimah/06-12-2019/a-method-for-hdr-imaging.md
 nid: 19682
 uid: 505738
-cids: 24773,24775,24776,24778,24779,24780,24781,24783,24787,24788,24791,24792,24793,24797,25453
+cids: 24773,24775,24776,24778,24779,24780,24781,24783,24787,24788,24791,24792,24793,25453
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/870/original/hdrDVD.png)

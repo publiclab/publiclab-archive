@@ -6,7 +6,7 @@ author: junior_walk1337
 path: /notes/junior_walk1337/01-30-2022/water-monitoring-101-with-vernon-haltom.md
 nid: 29168
 uid: 756318
-cids: 29644,29725,29726,30356,30992,30993
+cids: 29644
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/343/original/DJI_0014.JPG)

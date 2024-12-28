@@ -6,7 +6,7 @@ author: warren
 path: /wiki/donate.md
 nid: 327
 uid: 1
-cids: 24995
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/404/original/Community_Manager.jpg)

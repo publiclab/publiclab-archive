@@ -6,7 +6,7 @@ author: anderstenn
 path: /notes/anderstenn/09-20-2019/lusher-s-water-run-off.md
 nid: 20943
 uid: 620737
-cids: 25758,25824
+cids: 25758
 ---
 
 # Lusher's Water Run-Off 

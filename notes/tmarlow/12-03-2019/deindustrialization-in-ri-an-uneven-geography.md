@@ -6,7 +6,7 @@ author: tmarlow
 path: /notes/tmarlow/12-03-2019/deindustrialization-in-ri-an-uneven-geography.md
 nid: 21651
 uid: 635271
-cids: 26443
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/840/original/mfg_gif-small.gif)

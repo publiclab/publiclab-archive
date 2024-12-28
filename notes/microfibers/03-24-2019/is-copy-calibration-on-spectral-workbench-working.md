@@ -6,7 +6,7 @@ author: microfibers
 path: /notes/microfibers/03-24-2019/is-copy-calibration-on-spectral-workbench-working.md
 nid: 18835
 uid: 580529
-cids: 24048,27756
+cids: 24048
 ---
 
 # Is copy calibration on Spectral Workbench working?

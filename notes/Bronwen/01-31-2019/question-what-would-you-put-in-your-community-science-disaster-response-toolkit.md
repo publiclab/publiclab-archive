@@ -6,7 +6,7 @@ author: Bronwen
 path: /notes/Bronwen/01-31-2019/question-what-would-you-put-in-your-community-science-disaster-response-toolkit.md
 nid: 18231
 uid: 237313
-cids: 21837,21842
+cids: 21837
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/133/original/Untitled_5.jpg)

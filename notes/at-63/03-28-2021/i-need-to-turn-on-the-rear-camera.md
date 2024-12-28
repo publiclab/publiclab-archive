@@ -6,7 +6,7 @@ author: at-63
 path: /notes/at-63/03-28-2021/i-need-to-turn-on-the-rear-camera.md
 nid: 26048
 uid: 750876
-cids: 28421,28424,28496,30069
+cids: 28421,28424,30069
 ---
 
 # I need to turn on the rear camera

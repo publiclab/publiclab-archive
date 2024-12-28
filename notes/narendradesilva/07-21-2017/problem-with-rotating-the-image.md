@@ -6,7 +6,7 @@ author: narendradesilva
 path: /notes/narendradesilva/07-21-2017/problem-with-rotating-the-image.md
 nid: 14674
 uid: 511346
-cids: 17089,17163,22665,29125
+cids: 17089,17163
 ---
 
 # Problem with rotating the image

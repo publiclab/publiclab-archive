@@ -6,7 +6,7 @@ author: emash
 path: /notes/emash/06-01-2020/how-do-you-write-and-post-in-the-public-lab-community-asking-for-our-developers.md
 nid: 23753
 uid: 442760
-cids: 26918,26925,26932,26966,27024
+cids: 26918,26925,26932,27024
 ---
 
 # How do you write and post in the public lab community? Asking for our developers!

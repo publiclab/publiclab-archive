@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/02-15-2019/leaflet-distortableimage-full-resolution-download.md
 nid: 18316
 uid: 1
-cids: 23395
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/250/original/Screenshot_2019-02-08_at_12.08.36_PM.png)

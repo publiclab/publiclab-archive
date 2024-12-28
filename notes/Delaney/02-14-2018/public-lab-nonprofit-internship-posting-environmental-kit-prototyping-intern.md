@@ -6,7 +6,7 @@ author: Delaney
 path: /notes/Delaney/02-14-2018/public-lab-nonprofit-internship-posting-environmental-kit-prototyping-intern.md
 nid: 15731
 uid: 517173
-cids: 27053
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/655/original/PublicLab.png)

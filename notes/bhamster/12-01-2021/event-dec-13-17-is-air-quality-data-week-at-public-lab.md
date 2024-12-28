@@ -6,7 +6,7 @@ author: bhamster
 path: /notes/bhamster/12-01-2021/event-dec-13-17-is-air-quality-data-week-at-public-lab.md
 nid: 28325
 uid: 664477
-cids: 29482,29507,29509,29520,29526,29527,29528,30313
+cids: 29482,29507,29509,29520,29527,29528
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/131/original/Ways_to_Track_Air_Quality-3_copy.png)

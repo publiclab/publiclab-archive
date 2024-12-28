@@ -6,7 +6,7 @@ author: cfastie
 path: /notes/cfastie/01-30-2018/real-time-and-temperature.md
 nid: 15638
 uid: 554
-cids: 18319,18320,23520,23550,23551,24163,26914,26924,26972
+cids: 18319,18320,23520,23550,23551,24163,26914,26924
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/399/original/MiniPearl_20170606-9521-3.JPG)

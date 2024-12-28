@@ -6,7 +6,7 @@ author: winter_sullen
 path: /notes/winter_sullen/05-06-2021/who-controls-our-air-quality-how-do-they-determine-if-it-s-bad.md
 nid: 26517
 uid: 755509
-cids: 28721,28747,28750,28761,29659
+cids: 28721,28747,28750,28761
 ---
 
 # Who controls our air quality ? How do they determine if it's bad ?

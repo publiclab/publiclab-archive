@@ -6,7 +6,7 @@ author: stevie
 path: /notes/stevie/05-29-2020/what-are-ways-to-monitor-for-oil-and-gas-spills-on-private-property.md
 nid: 23738
 uid: 422561
-cids: 26916,27004,27008
+cids: 26916,27004
 ---
 
 # What are ways to monitor for oil and gas spills on private property? 

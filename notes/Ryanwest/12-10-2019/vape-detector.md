@@ -6,7 +6,7 @@ author: Ryanwest
 path: /notes/Ryanwest/12-10-2019/vape-detector.md
 nid: 21717
 uid: 643266
-cids: 25988,25989,25995,25996,26053,26091,28475
+cids: 25988,25989,25995,25996,28475
 ---
 
 # Vape detector

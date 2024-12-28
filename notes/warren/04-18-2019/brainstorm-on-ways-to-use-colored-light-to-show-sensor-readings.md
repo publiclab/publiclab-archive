@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/04-18-2019/brainstorm-on-ways-to-use-colored-light-to-show-sensor-readings.md
 nid: 19110
 uid: 1
-cids: 23949,23957,23977,25457,25458,25459,25460,25462
+cids: 23949,23977,25457,25458,25459,25460,25462
 ---
 
 # Brainstorm on ways to use colored light to show sensor readings

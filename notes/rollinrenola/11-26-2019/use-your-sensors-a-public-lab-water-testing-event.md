@@ -6,7 +6,7 @@ author: rollinrenola
 path: /notes/rollinrenola/11-26-2019/use-your-sensors-a-public-lab-water-testing-event.md
 nid: 21597
 uid: 618903
-cids: 25936
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/719/original/IMG_0248.JPG)

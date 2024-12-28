@@ -6,7 +6,7 @@ author: warren
 path: /notes/warren/4-18-2011/infrared-camera-hacking-parts-and-crafts.md
 nid: 179
 uid: 1
-cids: 24957
+cids: 
 ---
 
 ![](https://publiclab.org/sites/default/files/100_0074_0.JPG)

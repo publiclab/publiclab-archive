@@ -6,7 +6,7 @@ author: chadalfonso
 path: /notes/chadalfonso/04-13-2021/plastic-in-the-mississippi-river-the-malleable-mississippi.md
 nid: 26222
 uid: 750414
-cids: 28567,28589,28600,28608,29275,29417
+cids: 28589,28600,28608,29275,29417
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/284/original/download_%2838%29.jpeg)

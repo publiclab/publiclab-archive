@@ -6,7 +6,7 @@ author: cess
 path: /notes/cess/10-24-2022/call-for-proposals-outreachy-winter-2022-round.md
 nid: 35976
 uid: 525958
-cids: 30728
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/243/original/Outreachy_Winter_2022%281%29.png)

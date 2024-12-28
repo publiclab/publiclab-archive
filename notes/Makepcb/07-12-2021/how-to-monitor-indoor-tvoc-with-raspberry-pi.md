@@ -6,7 +6,7 @@ author: Makepcb
 path: /notes/Makepcb/07-12-2021/how-to-monitor-indoor-tvoc-with-raspberry-pi.md
 nid: 27056
 uid: 764776
-cids: 29060,29102,29103,29104,30220,30271,31020,31043,31368,31374,31414,31417,31435,31448
+cids: 29060
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/374/original/TVOC-Remider-With-Raspberry-Pi.jpg)

@@ -6,7 +6,7 @@ author: icarito
 path: /notes/icarito/02-05-2020/public-chat-bridge-not-working.md
 nid: 22680
 uid: 448589
-cids: 26370
+cids: 
 ---
 
 # Public Chat bridge not working?

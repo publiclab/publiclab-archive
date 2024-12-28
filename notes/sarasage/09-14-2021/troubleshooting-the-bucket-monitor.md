@@ -6,7 +6,7 @@ author: sarasage
 path: /notes/sarasage/09-14-2021/troubleshooting-the-bucket-monitor.md
 nid: 27724
 uid: 451398
-cids: 29239,29252,29268,29269,29271,29329,29343
+cids: 29239,29268,29269
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/814/original/Main.jpg)

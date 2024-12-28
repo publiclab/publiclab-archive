@@ -6,7 +6,7 @@ author: ambrown23
 path: /notes/ambrown23/02-26-2020/helium.md
 nid: 22934
 uid: 668550
-cids: 26405
+cids: 
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/246/original/chem)

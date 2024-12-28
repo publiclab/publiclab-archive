@@ -6,7 +6,7 @@ author: nshapiro
 path: /notes/nshapiro/04-15-2019/indoor-microbiome-sampler-vacuum-adapter.md
 nid: 19058
 uid: 380298
-cids: 23899,23952,23956,30412,30903
+cids: 23899,23952
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/505/original/title_image.png)

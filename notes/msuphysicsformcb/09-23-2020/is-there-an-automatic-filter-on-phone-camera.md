@@ -6,7 +6,7 @@ author: msuphysicsformcb
 path: /notes/msuphysicsformcb/09-23-2020/is-there-an-automatic-filter-on-phone-camera.md
 nid: 24637
 uid: 720360
-cids: 27402,27575
+cids: 27402
 ---
 
 # Is there an automatic filter on phone camera?

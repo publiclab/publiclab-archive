@@ -6,7 +6,7 @@ author: bhamster
 path: /notes/bhamster/06-11-2021/live-build-event-balloon-mapping-camera-mount-for-aerial-photography.md
 nid: 26811
 uid: 664477
-cids: 28909,28910,28941,29853,30955
+cids: 28909,28910,28941
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/163/original/mini-balloon-kit.jpg)

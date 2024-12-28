@@ -6,7 +6,7 @@ author: Cheesealmighty
 path: /notes/Cheesealmighty/03-17-2022/can-i-measure-csf-turbidity-in-real-time.md
 nid: 30136
 uid: 791975
-cids: 29847,29854,29857,30456
+cids: 29847,29854,29857
 ---
 
 # Can I measure CSF turbidity in real time?
