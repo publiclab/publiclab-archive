@@ -186,8 +186,8 @@ function adjustPaths(path) {
 
 function fetchImagePaths(path, image) {
   if (path.includes('/i/')) {
-    var pathWithoutParams = path.split('?')[0]; // bc many include ?s=o for size prefs, which we ignore
-    fetch(path + ".md",{
+    var pathWithoutParams = path.split('?')[0].split('.')[0]; // bc many include ?s=o for size prefs, which we ignore, or .jpg
+    fetch(pathWithoutParams + ".md",{
       cache: 'no-cache',
       mode: 'cors'
     })
