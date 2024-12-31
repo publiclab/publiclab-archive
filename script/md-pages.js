@@ -43,6 +43,7 @@ function displayText(text, element) {
   text = fixHeadings(text);
   var frontMatter = fetchFrontMatter(text);
   text = wrapFrontMatter(text);
+  text = UriEncodeImages(text);
   output = marked.parse(text);
   // figure raw markdown address
   var markdownFile = document.location.href.split('#').join("") + ".md"
@@ -80,6 +81,10 @@ function displayText(text, element) {
       image.attributes['src'].value = root + src;
     } else if (src[0] !== "h") image.attributes['src'].value = root + current_directory + "/" + src;
   });
+}
+
+function UriEncodeImages(text) {
+  return text.replace(/\!\[(.*)\]\((.+)\)/g, function(match, p1, p2) { return "!["+p1+"]("+encodeURI(p2)+")"}); 
 }
 
 // ID and format front matter in format ---\nSTUFF\n---\n at start of document;
