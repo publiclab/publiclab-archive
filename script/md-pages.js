@@ -27,6 +27,11 @@ function fetchPath(path, element, wentBack = false) {
   })
     .then((response) => {
       if (!response.ok) {
+      var path = document.location.href;
+      if (!['wiki','notes','page','map','feature','event','question'].includes(path.split('#/')[1].split('/')[0])) {
+        path = path.replace('#/','#/wiki/');
+        window.location.replace(path);
+      }
         return "Page not found."
       }
       return response.text()
