@@ -17,7 +17,12 @@
     </header>
     <div class="md-pages markdown-css responsive"></div>
     <script>
-      window.location.replace("/#"+document.location.href.split('.org/')[1]);
+      var path = document.location.href.split('.org/')[1];
+      if (['wiki','notes','page','map','feature','event','question'].includes(path.split('/')[0])) {
+        window.location.replace("/#"+path);
+      } else {
+        window.location.replace("/#/wiki/"+path);
+      }
     </script>
   </body>
 </html>
