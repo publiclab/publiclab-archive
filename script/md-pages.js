@@ -183,14 +183,15 @@ function fixHeadings(text) {
 // https://publiclab.org/system => https://publiclab.org/public/system
 function adjustPaths(path) {
   if (path.substr(0,8) == '/system/') {
-    path = path.replace('/system/','https://publiclab.org/public/system/');
+    path = path.replace('/system/','https://i.publiclab.org/public/system/');
   }
   if (path.includes('https://publiclab.org/system')) {
-    path = path.replace('https://publiclab.org/system','https://publiclab.org/public/system');
+    path = path.replace('https://publiclab.org/system','https://i.publiclab.org/public/system');
   }
-  if (path.includes('https://i.publiclab.org/system')) {
-    path = path.replace('https://i.publiclab.org/system','https://publiclab.org/public/system');
-  }
+  // switching back to using separate image server as of 11/19/25
+  //if (path.includes('https://i.publiclab.org/system')) {
+  //  path = path.replace('https://i.publiclab.org/system','https://publiclab.org/public/system');
+  //}
   return path;
 }
 
@@ -219,7 +220,7 @@ function fetchImagePaths(path, image) {
         // use: "---\npath:/path/to/img.jpg\n---Hello world".match(/path\:(.+)/)[1]
         var frontMatter = fetchFrontMatter(text);
         // replace URLs with fetched URL
-        image.src = "https://publiclab.org" + frontMatter['path'];
+        image.src = "https://i.publiclab.org" + frontMatter['path'];
       });
   }
 }
