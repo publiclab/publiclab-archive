@@ -188,6 +188,9 @@ function adjustPaths(path) {
   if (path.includes('https://publiclab.org/system')) {
     path = path.replace('https://publiclab.org/system','https://i.publiclab.org/public/system');
   }
+  if (path.includes('https://publiclab.org/public/system')) {
+    path = path.replace('https://publiclab.org/public/system','https://i.publiclab.org/public/system');
+  }
   // switching back to using separate image server as of 11/19/25
   //if (path.includes('https://i.publiclab.org/system')) {
   //  path = path.replace('https://i.publiclab.org/system','https://publiclab.org/public/system');
